@@ -1,89 +1,155 @@
-# Gerenciamento de contexto — como fazer a IA ler o que importa
+# Protocolo fundamental — gerenciamento de contexto
 
-> A IA não alucina porque é burra. Ela alucina quando o dado está **ilegível** ou
-> não **cabe** na memória dela. Gerenciar contexto é a habilidade de dar à IA o
-> dado certo, no formato certo, na hora certa. É isso que separa o copiloto que
-> decepciona da operação que transforma.
+| Campo | Definição |
+|---|---|
+| Finalidade | Dar ao agente o material necessário, legível e rastreável para a tarefa atual |
+| Aplica-se a | Toda organização, pesquisa, análise, redação ou revisão jurídica |
+| Entrada | Documentos, mídias, fontes jurídicas, instruções e objetivo da tarefa |
+| Saída | Contexto selecionado, sínteses persistentes e lacunas declaradas |
+| Princípio | Dado certo, no formato certo, na medida certa e com origem identificável |
 
----
+Gerenciar contexto é parte da infraestrutura jurídica, não um truque de prompt. Um
+agente pode errar mesmo com bons dados; contexto bem gerido reduz risco, permite
+auditoria e torna visível o que foi ou não considerado.
 
-## 1. A janela de contexto é finita
+## Regras do protocolo
 
-A IA lê um "tanto" por vez — uma espécie de memória de trabalho da conversa. Pense
-num estagiário que só consegue segurar um número limitado de pastas na mão. Se você
-empilha tudo de uma vez, ele derruba — ou esquece o que estava no começo da pilha.
+1. **Defina a tarefa antes de reunir material.** Sem uma pergunta delimitada, não há
+   critério para saber o que é relevante.
+2. **Torne o dado legível.** Documento que não pôde ser lido não pode sustentar uma
+   conclusão.
+3. **Selecione o necessário.** Mais contexto não é sempre melhor; excesso pode diluir
+   fatos e instruções importantes.
+4. **Separe fonte, síntese e conclusão.** Essa distinção permite voltar ao documento
+   original e revisar o raciocínio.
+5. **Persista o que será reutilizado.** Sínteses devem morar nos arquivos do caso, não
+   apenas na conversa.
+6. **Declare lacunas e incertezas.** Não complete silenciosamente o que está ausente,
+   ilegível, contraditório ou sem fonte.
+7. **Minimize dados sensíveis.** A tarefa define o contexto necessário; a simples
+   disponibilidade de um dado não autoriza seu uso ou compartilhamento.
 
-**Na prática:** não cole 40 PDFs de uma só vez. Trabalhe por partes. Indexe os
-autos primeiro, gere uma síntese, e só então peça a análise sobre o que importa.
+## Procedimento
 
-## 2. Dado ilegível é o verdadeiro problema
+### 1. Delimitar
 
-Um PDF escaneado sem camada de texto, uma pilha de documentos sem organização, um
-áudio de audiência não transcrito — a IA não "enxerga" bem nada disso. É como pedir
-um parecer sobre um documento borrado: o erro não está em quem lê, está no que foi
-entregue para ler.
+Antes de ler os documentos, registre:
 
-**Antes de pedir análise, torne o dado legível:**
+- qual é o caso ou matéria;
+- qual resultado será produzido;
+- quais perguntas precisam ser respondidas;
+- quais fontes podem sustentar cada tipo de afirmação;
+- onde o resultado será salvo.
 
-- Transcreva a audiência com `/transcrever` (áudio/vídeo viram texto).
-- Organize a pilha com `/organizar-caso` (cada documento no seu lugar).
-- Garanta que os PDFs tenham texto extraível, não só imagem.
+Não misture casos ou tarefas independentes na mesma análise.
 
-## 3. Use arquivos `.md` como memória externa
+### 2. Inventariar
 
-Em vez de manter tudo dentro da conversa, salve as sínteses em arquivos: um
-`SUMARIO.md` com o resumo dos autos, um `DIAGNOSTICO.md` com as fragilidades do
-caso. Assim a IA relê apenas o resumo essencial quando precisa, sem reprocessar a
-pilha inteira a cada pergunta.
+Liste o material recebido antes de interpretá-lo. Identifique formato, tamanho,
+origem aparente e possíveis duplicidades. O inventário não prova o conteúdo: ele
+apenas registra o que está disponível.
 
-É a mesma lógica da **ementa** ou do resumo dos autos: você consulta a síntese em
-vez de reler o processo do zero toda vez. O `/diagnosticar` produz exatamente esse
-tipo de memória externa.
+Para uma pilha de documentos, use `organizar-caso`. Para áudio ou vídeo, use
+`transcrever` antes de extrair conclusões.
 
-## 4. Estruture a pasta do caso
+### 3. Tornar legível
 
-Uma estrutura clara já é metade do gerenciamento de contexto — quando os arquivos
-estão no lugar certo, a IA encontra o que precisa sem você apontar. A convenção do
-kit é uma pasta por caso:
+Verifique se PDFs têm texto extraível, se planilhas preservam suas colunas, se anexos
+estão acessíveis e se mídias foram transcritas. Quando a leitura falhar:
+
+- identifique o arquivo e o motivo;
+- tente uma transformação adequada, como OCR ou transcrição;
+- se ainda assim falhar, registre a limitação;
+- nunca infira o conteúdo pelo nome do arquivo.
+
+### 4. Selecionar e fatiar
+
+A janela de contexto é a memória de trabalho finita do agente. Em vez de entregar
+todos os autos para cada pergunta:
+
+1. faça o inventário;
+2. produza uma síntese inicial;
+3. selecione os documentos relacionados à tarefa;
+4. leia os originais relevantes;
+5. volte à fonte sempre que uma afirmação precisar de confirmação.
+
+Síntese ajuda a localizar e conectar fatos; ela não substitui o original para conferir
+uma citação, data, valor ou formulação decisiva.
+
+### 5. Organizar por função
+
+Cada matéria deve seguir a estrutura:
 
 ```text
 casos/<seu-caso>/
-├── autos/            # documentos e mídia do processo
-├── analise/          # sínteses geradas: SUMARIO.md, DIAGNOSTICO.md
-├── fundamentacao/    # LEGISLACAO.md, JURISPRUDENCIA.md
-└── pecas/            # as peças produzidas
+├── autos/            # documentos e mídias recebidos
+├── analise/          # SUMARIO.md e DIAGNOSTICO.md
+├── fundamentacao/    # LEGISLACAO.md e JURISPRUDENCIA.md
+└── pecas/            # peças e versões produzidas
 ```
 
-Cada subpasta tem um papel. A IA sabe que o resumo está em `analise/`, que a base
-legal está em `fundamentacao/` — e busca direto, sem rodeios.
+Essa separação evita confundir prova do caso, conhecimento jurídico localizado,
+interpretação do agente e produto final.
 
-## 5. Comece conversa nova quando trocar de assunto
+### 6. Criar memória externa rastreável
 
-Quando o contexto fica longo e cheio de assunto velho, a qualidade cai — a IA mistura
-o que era de outra tarefa. Ao mudar de assunto, comece uma conversa nova (no Claude
-Code, o comando é `/clear`) e aponte os arquivos relevantes para a tarefa atual.
+Use arquivos Markdown como memória entre etapas:
 
-É a **mesa limpa** para cada tarefa: você não espalha os autos de cinco processos
-diferentes na mesa enquanto trabalha em um. Limpa, foca, produz.
+- `SUMARIO.md` registra documentos, pessoas, eventos e datas-chave;
+- `DIAGNOSTICO.md` registra forças, fragilidades e lacunas;
+- `LEGISLACAO.md` e `JURISPRUDENCIA.md` registram fundamentos e fontes verificadas;
+- as peças ficam em `pecas/`, sem apagar as análises das quais derivaram.
 
-## 6. O `CLAUDE.md` é a memória permanente do projeto
+Uma síntese deve apontar para o documento ou fonte de origem sempre que isso for
+necessário para conferência. Correções devem ser feitas no arquivo persistente, não
+apenas mencionadas na conversa.
 
-Existe um arquivo chamado `CLAUDE.md` na raiz do projeto que a IA **lê
-automaticamente em toda conversa**. É onde ficam as instruções e convenções que
-valem sempre: como nomear arquivos, qual estrutura seguir, que tom usar.
+### 7. Limpar a sessão quando mudar de tarefa
 
-Diferente da conversa (que esvazia com o `/clear`), o `CLAUDE.md` persiste. Escreva
-ali uma vez e não precisa repetir — é o "manual da casa" que a IA consulta sozinha.
+Ao trocar de caso ou de objetivo, comece uma conversa nova e indique os arquivos
+relevantes. No Claude Code, `/clear` inicia uma sessão limpa; no Codex, use **Nova
+conversa**.
 
----
+`AGENTS.md` guarda as regras permanentes do projeto. `CLAUDE.md` leva as mesmas regras
+ao Claude Code. Nenhum desses arquivos deve armazenar fatos de um cliente específico.
 
-## Regra de bolso
+### 8. Encerrar com um registro de cobertura
 
-> **Dado legível + na medida certa + no lugar certo = IA que cita em vez de inventar.**
+Ao terminar uma etapa relevante, informe:
 
-E o ciclo do trabalho segue a mesma ordem: `/organizar-caso` → `/transcrever` →
-`/diagnosticar` → `/redigir-peca`. Cada etapa torna o dado mais legível e mais
-sintético para a seguinte.
+- o que foi lido;
+- o que não pôde ser lido;
+- quais fontes foram usadas;
+- quais sínteses ou peças foram criadas;
+- quais dúvidas continuam abertas;
+- qual revisão humana ainda é necessária.
 
-*Termos técnicos? Consulte o `GLOSSARIO.md` para as definições.*
+## Condições de parada
 
+O agente deve parar a conclusão e pedir material ou orientação quando:
+
+- faltar documento indispensável;
+- a fonte jurídica necessária não puder ser confirmada;
+- houver contradição material que não possa ser resolvida pelos autos;
+- o arquivo decisivo estiver ilegível;
+- a tarefa exigir envio de dados a novo serviço externo sem decisão do usuário;
+- fatos de casos diferentes puderem estar misturados.
+
+Parar de concluir não impede organizar o que já foi confirmado e registrar exatamente
+o que falta.
+
+## Checklist de saída
+
+- [ ] A tarefa e o resultado esperado estão delimitados.
+- [ ] Os documentos considerados foram identificados.
+- [ ] Arquivos ilegíveis e lacunas foram declarados.
+- [ ] Fontes, sínteses e conclusões estão separadas.
+- [ ] Afirmações decisivas podem ser rastreadas à origem.
+- [ ] O resultado foi salvo na pasta correta do caso.
+- [ ] Apenas os dados necessários foram usados.
+- [ ] A necessidade de revisão profissional está explícita.
+
+> **Regra de bolso:** contexto confiável é legível, suficiente, rastreável e mínimo.
+
+Consulte também a [Política de sigilo e dados](SIGILO-E-DADOS.md) e o
+[Glossário](GLOSSARIO.md).

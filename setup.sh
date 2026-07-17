@@ -1,33 +1,33 @@
 #!/usr/bin/env bash
 # =============================================================================
-# setup.sh — prepara o ambiente do Kit de Skills Jurídicas.
+# setup.sh — prepara o ambiente da Advocacia Aberta.
 #
-# A MAIORIA das skills NÃO precisa de nada disto — elas rodam só com o Claude
-# Code. Este script só instala as ferramentas de 3 skills "turbinadas":
-#   • /buscar-fontes  → bun        (busca de súmulas/leis/temas, offline)
-#   • /buscar-tjpr    → uv + python (busca de jurisprudência no TJPR)
-#   • /transcrever    → whisper + ffmpeg + modelo de voz (~539 MB)
-#   • /diagramar-peca → typst      (gera o PDF diagramado)
+# A MAIORIA das skills NÃO precisa de nada disto — elas rodam diretamente no agente.
+# Este script instala as ferramentas de 4 skills:
+#   • buscar-fontes  → bun         (busca de súmulas/leis/temas, offline)
+#   • buscar-tjpr    → uv + python (busca de jurisprudência no TJPR)
+#   • transcrever    → whisper + ffmpeg + modelo de voz (~539 MB)
+#   • diagramar-peca → typst       (gera o PDF diagramado)
 #
-# Você não é obrigado a usar este script: a skill /preparar-ambiente faz o mesmo
-# com o Claude te guiando. Use este aqui se preferir "clicar e instalar".
+# Você não é obrigado a usar este script: a skill preparar-ambiente faz o mesmo
+# com o agente guiando o processo. Use este aqui se preferir "clicar e instalar".
 #
 # Uso:   bash setup.sh
 # (No macOS dá pra dar dois cliques em setup.command, que chama este arquivo.)
 # =============================================================================
 set -uo pipefail
-cd "$(dirname "$0")"  # garante que rodamos na raiz do kit
+cd "$(dirname "$0")"  # garante que rodamos na raiz do projeto
 
 azul()  { printf "\033[1;34m%s\033[0m\n" "$1"; }
 ok()    { printf "\033[1;32m✓ %s\033[0m\n" "$1"; }
 aviso() { printf "\033[1;33m! %s\033[0m\n" "$1"; }
 
 SO="$(uname -s)"
-azul "== Kit de Skills Jurídicas — preparação do ambiente (${SO}) =="
+azul "== Advocacia Aberta — preparação do ambiente (${SO}) =="
 echo "A maioria das skills já funciona sem nada disto. Vamos instalar só o extra."
 echo
 
-# --- bun (para /buscar-fontes) ------------------------------------------------
+# --- bun (para buscar-fontes) -------------------------------------------------
 azul "[1/4] bun — busca de fontes (Delfus)"
 if command -v bun >/dev/null 2>&1; then ok "bun já instalado";
 else
@@ -40,7 +40,7 @@ if command -v bun >/dev/null 2>&1; then
 fi
 echo
 
-# --- uv (para /buscar-tjpr) ---------------------------------------------------
+# --- uv (para buscar-tjpr) ----------------------------------------------------
 azul "[2/4] uv — busca de jurisprudência (TJPR)"
 if command -v uv >/dev/null 2>&1; then ok "uv já instalado";
 else
@@ -53,7 +53,7 @@ if command -v uv >/dev/null 2>&1; then
 fi
 echo
 
-# --- typst (para /diagramar-peca) ---------------------------------------------
+# --- typst (para diagramar-peca) ----------------------------------------------
 azul "[3/4] typst — diagramação em PDF"
 if command -v typst >/dev/null 2>&1; then ok "typst já instalado";
 elif [ "$SO" = "Darwin" ] && command -v brew >/dev/null 2>&1; then
@@ -63,10 +63,10 @@ else
 fi
 echo
 
-# --- whisper (para /transcrever) — opcional, download grande ------------------
+# --- whisper (para transcrever) — opcional, download grande -------------------
 azul "[4/4] whisper — transcrição de áudio/vídeo (opcional, ~539 MB)"
 if [ "$SO" != "Darwin" ]; then
-  aviso "Transcrição com whisper.cpp é mais simples no macOS. Em Windows/Linux, considere um serviço (ex.: Fireflies) ou instale whisper.cpp manualmente."
+  aviso "Transcrição com whisper.cpp é mais simples no macOS. Em Windows/Linux, instale whisper.cpp e ffmpeg manualmente."
 else
   read -r -p "Instalar whisper + ffmpeg e baixar o modelo de voz (~539 MB)? [s/N] " resp
   if [[ "${resp:-N}" =~ ^[sS]$ ]]; then
@@ -83,10 +83,11 @@ else
       aviso "Homebrew não encontrado. Instale em https://brew.sh e rode de novo."
     fi
   else
-    echo "Pulado. Você pode instalar depois com /preparar-ambiente ou rodando este script de novo."
+    echo "Pulado. Você pode instalar depois com a skill preparar-ambiente ou rodando este script de novo."
   fi
 fi
 echo
 azul "== Pronto =="
-echo "Abra a pasta no Claude Code e use as skills com /nome (ex.: /criar-skill)."
-echo "Se algum item acima falhou, peça ao Claude: \"rode /preparar-ambiente\"."
+echo "Abra a pasta no Claude Code ou no Codex."
+echo "Claude Code: use /nome. Codex: mencione \$nome ou escolha em /skills."
+echo "Se algo falhou, peça ao agente para executar a skill preparar-ambiente."

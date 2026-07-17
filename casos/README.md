@@ -7,7 +7,8 @@ Cada processo ou matéria que você trabalha vira **uma pasta aqui dentro**.
 1. Copie a pasta `_modelo-de-caso/` e renomeie para o número do processo ou um nome
    curto — ex.: `0001234-56.2025.8.16.0000` ou `cliente-acme-rescisao`.
 2. Jogue os documentos do caso dentro de `autos/` (PDFs, áudios, e-mails, contratos…).
-3. Use as skills. Um bom começo: `/organizar-caso casos/<sua-pasta>` para gerar o resumo.
+3. Use as skills. Um bom começo é executar `organizar-caso` para
+   `casos/<sua-pasta>` e gerar o resumo.
 
 ## A estrutura de cada caso
 
@@ -19,9 +20,12 @@ Cada processo ou matéria que você trabalha vira **uma pasta aqui dentro**.
 ## Fluxo sugerido
 
 ```text
-/organizar-caso  →  /diagnosticar  →  /buscar-fontes (+ /buscar-tjpr)
+organizar-caso  →  diagnosticar  →  buscar-fontes (+ buscar-tjpr)
                                           ↓
-            /redigir-peca  →  /revisar-peca  →  /diagramar-peca
+            redigir-peca  →  revisar-peca  →  diagramar-peca
 ```
 
-> Os dados dos seus casos ficam **só na sua máquina**. Nada é enviado para fora.
+> O Git ignora os casos reais por padrão, mas isso não garante que todo agente ou
+> ferramenta processe dados apenas localmente. Antes de usar material de cliente,
+> conheça o destino do processamento e siga a
+> [Política de sigilo e dados](../SIGILO-E-DADOS.md).

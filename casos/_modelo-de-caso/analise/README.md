@@ -2,5 +2,5 @@
 
 Aqui ficam os resumos que as skills produzem — você normalmente **não** cria à mão:
 
-- `SUMARIO.md` — índice e resumo do caso (`/organizar-caso`)
-- `DIAGNOSTICO.md` — forças e fragilidades do caso (`/diagnosticar`)
+- `SUMARIO.md` — índice e resumo do caso (skill `organizar-caso`)
+- `DIAGNOSTICO.md` — forças e fragilidades do caso (skill `diagnosticar`)

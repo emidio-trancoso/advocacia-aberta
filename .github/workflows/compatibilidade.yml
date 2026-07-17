@@ -1,0 +1,15 @@
+name: Compatibilidade das skills
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+
+      - name: Validar Agent Skills e espelho do Claude Code
+        run: python3 ferramentas/manutencao/verificar_compatibilidade.py

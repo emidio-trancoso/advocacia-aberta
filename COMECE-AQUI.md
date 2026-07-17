@@ -1,58 +1,74 @@
 # Comece aqui 👋
 
-Bem-vindo(a) ao **Kit de Skills Jurídicas**. Em poucos minutos você vai ver uma IA
-executar um procedimento jurídico do seu jeito — e construir o seu primeiro.
+Bem-vindo(a) à **Advocacia Aberta**: métodos jurídicos legíveis, fontes pesquisáveis e
+ferramentas executáveis com auxílio de agentes de IA.
 
-Você **não precisa programar**. Uma *skill* é só o seu procedimento de trabalho escrito
-em português, que a IA passa a repetir sempre igual.
+Você não precisa programar. Os protocolos são escritos em português e podem ser
+lidos, criticados e adaptados. As *skills* são a forma atual de fazer Claude Code e
+Codex executarem esses protocolos.
 
----
+Antes de usar dados reais, guarde uma regra: **o método pode ser aberto; o caso do
+cliente permanece privado**. Veja [SIGILO-E-DADOS.md](SIGILO-E-DADOS.md).
 
-## 3 passos
+## Três passos
 
-### 1. Abra esta pasta no Claude Code
+### 1. Abra esta pasta em um agente compatível
 
-Abra o **Claude Code** e aponte para esta pasta (a pasta que contém este arquivo).
-Pronto — as skills já aparecem. Para ver a lista, digite `/` e role as opções.
+- **Claude Code:** abra a pasta e digite `/skills` para conferir as skills.
+- **Codex (GPT/OpenAI):** abra a pasta e digite `/skills` ou mencione uma skill com
+  `$nome`.
 
-### 2. Construa a sua primeira skill
+As instruções e os adaptadores acompanham o repositório; não é preciso cadastrá-los um
+a um.
 
-Digite:
+### 2. Escolha o primeiro uso
+
+Para experimentar sem dados de cliente, construa um procedimento seu.
+
+No Claude Code:
 
 ```text
 /criar-skill
 ```
 
-A própria IA vai te entrevistar: pergunta qual tarefa você repete, o que você tem em
-mãos, o que quer receber no fim — e monta a skill com você. No final, você usa com
-`/o-nome-que-você-deu`.
-
-> Sem ideia? Pegue algo chato e repetitivo: "resumir uma pilha de documentos novos",
-> "montar a linha do tempo de um caso", "minutar uma notificação padrão".
-
-### 3. (Opcional) Libere as skills turbinadas
-
-A maioria das skills funciona sem instalar nada. Três delas usam ferramentas extras —
-transcrever áudio, buscar jurisprudência, gerar PDF diagramado. Para habilitá-las,
-peça ao Claude:
+No Codex:
 
 ```text
-/preparar-ambiente
+$criar-skill
 ```
 
-Ele instala só o necessário, te explicando cada passo. (Ou, se preferir clicar: no Mac,
-dois cliques em `setup.command`.)
+Você também pode pedir: “Quero criar um protocolo para revisar contratos de locação”.
+O agente fará uma entrevista sobre entrada, saída e passo a passo e só salvará a skill
+depois da sua confirmação.
 
----
+Para iniciar um caso real, copie `casos/_modelo-de-caso/`, renomeie a pasta e coloque
+os documentos em `autos/`. Depois, use `organizar-caso`. Não use um caso real como
+exemplo público.
 
-## O que tem aqui
+### 3. Instale ferramentas somente quando precisar
 
-- **As skills prontas** — exemplos de procedimentos jurídicos (organizar caso,
-  diagnosticar, redigir peça, diagramar em PDF, buscar fontes…). Veja a lista no
-  `README.md`.
-- **`GLOSSARIO.md`** — os termos de IA que você precisa conhecer, em linguagem de advogado.
-- **`GERENCIAR-CONTEXTO.md`** — como fazer a IA ler o que importa (e parar de "alucinar").
-- **`casos/`** — onde cada processo seu vai morar. Veja `casos/README.md`.
+Pesquisa local, busca no TJPR, transcrição e diagramação usam programas auxiliares. Se
+uma dessas tarefas acusar ferramenta ausente, execute:
 
-Bom trabalho. A diferença entre se decepcionar com IA e transformar o seu trabalho está
-em **usar** como copiloto ou **construir** na sua operação. Construir começa com uma skill.
+- Claude Code: `/preparar-ambiente`
+- Codex: `$preparar-ambiente`
+
+A instalação é feita sob demanda. No macOS, também é possível dar dois cliques em
+`setup.command`.
+
+## O que você encontrará
+
+- **Base jurídica local** — legislação, súmulas, temas repetitivos e teses, em
+  snapshots que precisam ser confirmados na fonte antes do uso profissional.
+- **Protocolos executáveis** — organização, diagnóstico, pesquisa, redação, revisão,
+  transcrição e diagramação.
+- **Motores** — busca jurídica, consulta ao TJPR e processamento local.
+- **Espaço de casos** — estrutura previsível para documentos, sínteses, fundamentos e
+  peças.
+
+Para entender a ideia inteira, siga por
+[MANIFESTO.md](MANIFESTO.md) → [ARQUITETURA.md](ARQUITETURA.md) →
+[GERENCIAR-CONTEXTO.md](GERENCIAR-CONTEXTO.md).
+
+O agente pode mudar. O método continua legível, as fontes continuam verificáveis e a
+responsabilidade continua profissional.

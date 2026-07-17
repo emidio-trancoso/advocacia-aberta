@@ -210,6 +210,27 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
         self.assertEqual(ids, {f"JT_179_T{numero:02d}" for numero in range(1, 11)})
         self.assertNotIn("JT_179_T19", objeto["teses"])
 
+    def test_ctb_publicado_inclui_artigo_326_c_e_contagem_coerente(self) -> None:
+        path = (
+            ROOT
+            / "ferramentas"
+            / "pesquisa"
+            / "busca_delfus"
+            / "data"
+            / "lei_ctb.json"
+        )
+        objeto = json.loads(path.read_text(encoding="utf-8"))
+        artigos = objeto["artigos"]
+        self.assertEqual(objeto["_meta"]["total_artigos"], len(artigos))
+        self.assertIn(
+            "Dia Mundial em Memória das Vítimas do Trânsito",
+            artigos["326-C"]["texto"],
+        )
+        self.assertEqual(artigos["326-B"]["next"], "326-C")
+        self.assertEqual(artigos["326-C"]["prev"], "326-B")
+        self.assertEqual(artigos["326-C"]["next"], "327")
+        self.assertEqual(artigos["327"]["prev"], "326-C")
+
     def test_transforma_csv_oficial_de_temas(self) -> None:
         campos_temas = [
             "sequencialPrecedente", "tipoPrecedente", "numeroPrecedente",

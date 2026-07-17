@@ -6,7 +6,15 @@
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
     "total_artigos": 390,
     "version": "2.0-incisos-keywords",
-    "gerado_em": "2026-01-30T18:41:33.685Z"
+    "gerado_em": "2026-01-30T18:41:33.685Z",
+    "ultima_correcao_pontual_em": "2026-07-17",
+    "correcoes": [
+      {
+        "id": "BASE-005",
+        "descricao": "Inclusão do art. 326-C, acrescentado pela Lei nº 15.452/2026, sem promoção integral de novo snapshot.",
+        "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15452.htm"
+      }
+    ]
   },
   "artigos": {
     "1": {
@@ -23447,7 +23455,7 @@
     },
     "327": {
       "numero": "327",
-      "prev": "326-B",
+      "prev": "326-C",
       "next": "328",
       "texto": "Art. 327. A partir da publicação deste Código, somente poderão ser fabricados e licenciados veículos que obedeçam aos limites de peso e dimensões fixados na forma desta Lei, ressalvados os que vierem a ser regulamentados pelo CONTRAN. \nParágrafo único. (VETADO)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm#:~:text=Art.%20327.",
@@ -27440,7 +27448,7 @@
     "326-B": {
       "numero": "326-B",
       "prev": "326-A",
-      "next": "327",
+      "next": "326-C",
       "texto": "Art. 326-B. É instituída a Semana Nacional de Prevenção a Acidentes com Motociclistas, a ser realizada, anualmente, na semana que compreender o dia 27 do mês de julho, o qual é instituído como o Dia Nacional do Motociclista.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm#:~:text=Art.%20326-B.",
       "hierarchy": {
@@ -27457,6 +27465,20 @@
         "motociclista",
         "27 de julho"
       ]
+    },
+    "326-C": {
+      "numero": "326-C",
+      "prev": "326-B",
+      "next": "327",
+      "texto": "Art. 326-C. Fica reconhecido o terceiro domingo do mês de novembro de cada ano como o Dia Mundial em Memória das Vítimas do Trânsito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm#:~:text=Art.%20326-C.",
+      "hierarchy": {
+        "capitulo": "XX",
+        "capitulo_name": "Disposições Finais e Transitórias",
+        "secao": null,
+        "secao_name": null
+      },
+      "keywords": []
     },
     "338-A": {
       "numero": "338-A",

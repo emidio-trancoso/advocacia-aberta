@@ -24,7 +24,7 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 
 | ID | Problema | Critério de aceite | Estado |
 |---|---|---|---|
-| `BASE-005` | CTB informa 390 registros no metadado, mas contém 389 | Conferir na fonte e corrigir o registro ausente ou o metadado, com justificativa registrada | aberto |
+| `BASE-005` | CTB informa 390 registros no metadado, mas contém 389 | Conferir na fonte e corrigir o registro ausente ou o metadado, com justificativa registrada | **concluído em 2026-07-17** |
 | `BASE-006` | `JT_179_T19` tem enunciado vazio | Conferir a edição oficial; restaurar o enunciado ou documentar por que o registro não representa uma tese | **concluído em 2026-07-17** |
 | `BASE-007` | Metadados de temas expõem caminhos locais de `Downloads` | Substituir por origem pública, data, método e identificador reproduzível, sem caminho pessoal | **concluído em 2026-07-17** |
 | `BASE-008` | Descrição MCP declara 792 edições, mas existem 269 | Gerar descrição a partir do metadado ou corrigir o valor; teste impede nova divergência | **concluído em 2026-07-17** |
@@ -101,11 +101,19 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 - um teste de regressão fixa os dez identificadores oficiais da edição;
 - a verificação completa está em [`verificacoes/BASE-006.md`](verificacoes/BASE-006.md).
 
+### `BASE-005` — contagem e art. 326-C do CTB
+
+- o texto compilado atual e a Lei nº 15.452/2026 confirmam o art. 326-C;
+- o dispositivo foi incluído com URL oficial e navegação entre artigos;
+- a base passou a conter os 390 registros já informados no metadado;
+- a atualização foi pontual; as demais diferenças do candidato integral não foram
+  promovidas sem revisão;
+- a verificação completa está em [`verificacoes/BASE-005.md`](verificacoes/BASE-005.md).
+
 ## Ordem sugerida de execução
 
-1. `BASE-005`, usando o pipeline e conferindo os materiais oficiais.
-2. `BASE-009` e `BASE-010`, consolidando proveniência e linguagem.
-3. `BASE-011` a `BASE-014`, transformando as garantias em manutenção contínua.
+1. `BASE-009` e `BASE-010`, consolidando proveniência e linguagem.
+2. `BASE-011` a `BASE-014`, transformando as garantias em manutenção contínua.
 
 ## Regra de encerramento
 

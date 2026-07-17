@@ -26,19 +26,19 @@ python3 ferramentas/manutencao/auditar_base_juridica.py --json
 
 | Acervo | Arquivos principais | Quantidade observada | Tamanho ou cobertura |
 |---|---:|---:|---|
-| Legislação | 11 | 6.802 registros | 11 diplomas |
+| Legislação | 11 | 6.803 registros | 11 diplomas |
 | Súmulas | 3 | 1.475 registros | STJ, STF e vinculantes do STF |
 | Jurisprudência em Teses | 1 | 3.371 teses | 269 edições do STJ |
 | Temas repetitivos | 1 | 1.405 temas | STJ |
 | Índices auxiliares | 2 exclusivos + índices embutidos | derivados | palavras-chave e termos de busca |
-| Total em JSON | 18 | — | 20.719.860 bytes, cerca de 20 MB |
+| Total em JSON | 18 | — | 20.720.739 bytes, cerca de 20 MB |
 
 Os números acima foram contados diretamente nos JSONs. `gerado_em` e `generatedAt`
 indicam geração do arquivo, não garantem a data de vigência do conteúdo.
 
 ## Legislação
 
-Todos os 6.802 registros legislativos possuem URL individual. Os metadados apontam
+Todos os 6.803 registros legislativos possuem URL individual. Os metadados apontam
 para páginas compiladas do Planalto.
 
 | Código | Diploma | Gerado em | Registros | Índice | Situação estrutural |
@@ -52,12 +52,12 @@ para páginas compiladas do Planalto.
 | `CP` | Código Penal — Decreto-Lei 2.848/1940 | 2026-01-20 | 430 | pré-computado | coerente |
 | `CPC` | Código de Processo Civil — Lei 13.105/2015 | 2026-01-20 | 1.072 | pré-computado | coerente |
 | `CPP` | Código de Processo Penal — Decreto-Lei 3.689/1941 | 2026-01-20 | 822 | pré-computado | coerente |
-| `CTB` | Código de Trânsito Brasileiro — Lei 9.503/1997 | 2026-01-30 | 389 | palavras-chave por registro | **metadado informa 390** |
+| `CTB` | Código de Trânsito Brasileiro — Lei 9.503/1997 | 2026-01-30; correção pontual em 2026-07-17 | 390 | 389 com palavras-chave; art. 326-C sem índice derivado | coerente |
 | `CTN` | Código Tributário Nacional — Lei 5.172/1966 | 2026-01-30 | 204 | pré-computado | coerente |
 
-A soma dos metadados é 6.803, mas a contagem real é 6.802 por causa da divergência no
-CTB. Não se deve simplesmente alterar o número: primeiro é preciso conferir se falta
-um registro ou se o metadado está incorreto.
+A soma dos metadados e a contagem real são 6.803. O `BASE-005` incluiu pontualmente o
+art. 326-C do CTB, acrescentado pela Lei nº 15.452/2026. O restante do candidato
+integral de julho não foi promovido sem revisão das diferenças.
 
 ### Cobertura real do motor legislativo
 
@@ -188,10 +188,10 @@ busca, não fontes jurídicas.
 
 ### Limitações conhecidas
 
-- nenhuma confirmação externa de vigência ou conteúdo foi feita nesta rodada;
+- a confirmação externa desta rodada foi pontual; não houve revisão integral de
+  vigência e conteúdo de todos os conjuntos;
 - o pipeline prepara candidatos reproduzíveis, mas a confirmação de vigência e a
   aprovação das diferenças continuam sendo revisão humana obrigatória;
-- existem inconsistências pontuais no CTB e em uma tese;
 - os brutos que deram origem ao snapshot legado de temas não foram preservados, embora
   a referência pública e o processo futuro já estejam documentados;
 - os termos “fonte primária” e as classificações de força jurídica ainda precisam de

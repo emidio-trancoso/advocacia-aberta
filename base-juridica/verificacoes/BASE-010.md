@@ -36,6 +36,6 @@ bun run typecheck
 bun test
 ```
 
-A comparação exploratória com consultas jurídicas típicas preservou os principais
-resultados, mas avaliação formal de precisão e ordenação continua reservada ao
-`BASE-012`.
+A comparação exploratória inicial foi sucedida pelo corpus formal do `BASE-012`, com
+precisão, recall julgado, cobertura, MRR e resultados canônicos protegidos por teste.
+Consulte [`BASE-012.md`](BASE-012.md).

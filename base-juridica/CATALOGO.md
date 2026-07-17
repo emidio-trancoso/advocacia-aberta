@@ -210,6 +210,9 @@ proveniência e efeito jurídico. O vocabulário e as regras estão documentados
   a referência pública e o processo futuro já estejam documentados;
 - os rótulos reduzem inferências indevidas, mas não substituem o exame do inteiro teor,
   da vigência, da situação atual e da aplicabilidade ao caso;
-- não há avaliação documentada de precisão e cobertura das buscas por palavras-chave.
+- a avaliação de recuperação cobre 24 consultas controladas e seis famílias; ela é um
+  gate de regressão, não uma estimativa exaustiva para qualquer consulta jurídica.
 
-As correções estão organizadas no [BACKLOG.md](BACKLOG.md).
+As métricas e limitações estão em
+[`AVALIACAO-RECUPERACAO.md`](AVALIACAO-RECUPERACAO.md), e as correções restantes estão
+organizadas no [BACKLOG.md](BACKLOG.md).

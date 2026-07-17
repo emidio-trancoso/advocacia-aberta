@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "bun run src/index.ts",
+    "avaliar": "bun run src/avaliar-recuperacao.ts",
     "typecheck": "tsc --noEmit",
     "test": "bun test"
   },

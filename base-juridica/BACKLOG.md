@@ -36,7 +36,7 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 | ID | Trabalho | Critério de aceite | Estado |
 |---|---|---|---|
 | `BASE-011` | Criar testes de esquema e integridade | CI valida JSON, campos obrigatórios, contagens, URLs, códigos e referências cruzadas | aberto |
-| `BASE-012` | Testar qualidade da recuperação | Conjunto de consultas e resultados esperados mede precisão, cobertura e regressões | aberto |
+| `BASE-012` | Testar qualidade da recuperação | Conjunto de consultas e resultados esperados mede precisão, cobertura e regressões | **concluído em 2026-07-17** |
 | `BASE-013` | Versionar snapshots e diferenças | Manifesto por conjunto registra versão, checksum, coleta e resumo das mudanças | aberto |
 | `BASE-014` | Retirar o identificador legado do motor | Adotar `Vade Mecum`/`vade-mecum` em caminhos, pacote, MCP, setup, skills, CI e documentação, sem alias com o nome anterior | **concluído em 2026-07-17** |
 | `BASE-015` | Integrar auditoria estrutural ao fluxo de contribuição | GitHub Actions executa o auditor e apresenta seus achados em toda mudança da base | **concluído em 2026-07-17** |
@@ -161,9 +161,25 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 - a verificação completa está em
   [`verificacoes/BASE-014.md`](verificacoes/BASE-014.md).
 
+### `BASE-012` — qualidade da recuperação
+
+- 24 consultas representam súmulas STJ, STF e vinculantes, Jurisprudência em Teses,
+  temas repetitivos e sete diplomas legislativos;
+- relevância, justificativa e resultados canônicos são julgamentos versionados, não
+  expectativas geradas pelo próprio ranking;
+- precisão, recall julgado, cobertura, obrigatórios e MRR possuem limiares executáveis;
+- a precisão global observada no top 5 é 0,7944, com recall julgado, coberturas e MRR
+  em 1,0000;
+- cada família tem limiar próprio e toda consulta preserva ao menos um ID obrigatório;
+- testes e GitHub Actions bloqueiam regressões;
+- o protocolo está em
+  [`AVALIACAO-RECUPERACAO.md`](AVALIACAO-RECUPERACAO.md), e a verificação em
+  [`verificacoes/BASE-012.md`](verificacoes/BASE-012.md).
+
 ## Ordem sugerida de execução
 
-1. `BASE-011` a `BASE-013`, transformando as garantias em manutenção contínua.
+1. `BASE-011`, ampliando validações de esquema e integridade.
+2. `BASE-013`, versionando snapshots e diferenças.
 
 ## Regra de encerramento
 

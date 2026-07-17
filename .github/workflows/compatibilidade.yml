@@ -31,3 +31,4 @@ jobs:
           bun install --frozen-lockfile
           bun run typecheck
           bun test
+          bun run avaliar

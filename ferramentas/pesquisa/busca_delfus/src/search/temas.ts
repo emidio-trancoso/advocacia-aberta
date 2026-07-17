@@ -1,4 +1,9 @@
 import { createRequire } from "module";
+import {
+  descreverEfeitoTema,
+  FONTE_OFICIAL,
+  NATUREZAS_DOCUMENTAIS,
+} from "./taxonomia.js";
 import { normalizeText } from "./utils.js";
 
 const require = createRequire(import.meta.url);
@@ -91,7 +96,7 @@ export function buscarTemas(query: string, limit = 5): TemaData[] {
 export function formatTema(tema: TemaData): string {
   const tese = tema.teseFirmada
     ? `\n**Tese firmada:**\n> ${tema.teseFirmada}\n`
-    : "\n**Tese:** Pendente de julgamento\n";
+    : "\n**Tese firmada:** não registrada neste snapshot\n";
   const links = [
     ["Página do tema", tema.links.paginaTema],
     ["Jurisprudência do STJ", tema.links.scon],
@@ -101,13 +106,15 @@ export function formatTema(tema: TemaData): string {
     .map(([rotulo, url]) => `- ${rotulo}: ${url}`)
     .join("\n");
   const fontes = links
-    ? `\n**Fontes oficiais:**\n${links}\n`
-    : "\n**Fontes oficiais:** links não disponíveis neste snapshot.\n";
+    ? `\n**Proveniência:** ${FONTE_OFICIAL}\n${links}\n`
+    : "\n**Proveniência:** links oficiais não disponíveis neste snapshot.\n";
+  const efeito = descreverEfeitoTema(tema.situacao, tema.teseFirmada);
 
-  return `## 📋 FONTE PRIMÁRIA | TEMA REPETITIVO STJ | ${tema.situacao.toUpperCase()}
+  return `## 📋 ${NATUREZAS_DOCUMENTAIS.registroPrecedenteQualificado} | TEMA REPETITIVO STJ
 
 **Tema ${tema.numero} STJ**
 **Situação:** ${tema.situacao} | **Ramo:** ${tema.ramo}
+**Efeito jurídico:** ${efeito}
 
 **Questão submetida:**
 > ${tema.questao}

@@ -1,4 +1,5 @@
 import { createRequire } from "module";
+import { FONTE_OFICIAL, NATUREZAS_DOCUMENTAIS } from "./taxonomia.js";
 import { normalizeText, STOPWORDS } from "./utils.js";
 
 const require = createRequire(import.meta.url);
@@ -78,10 +79,10 @@ export function buscarTeses(query: string, limit = 5): TeseSTJ[] {
 
 export function formatTese(tese: TeseSTJ): string {
   const rito = tese.rito_especial ? " | RITO ESPECIAL" : "";
-  return `## 📋 FONTE PRIMÁRIA | JURISPRUDÊNCIA EM TESES STJ | ORIENTATIVA${rito}
+  return `## 📋 ${NATUREZAS_DOCUMENTAIS.compilacaoInstitucional} | JURISPRUDÊNCIA EM TESES STJ${rito}
 
 **JT Edição ${tese.edicao} — Tese ${tese.tese_numero}**
-**Força:** ORIENTATIVA — reflete entendimento predominante, NÃO vincula tribunais
+**Efeito jurídico:** NÃO VINCULANTE POR SI SÓ — compilação institucional; examine os julgados que sustentam a tese
 
 **Tema:** ${tese.edicao_titulo}
 
@@ -90,6 +91,6 @@ export function formatTese(tese: TeseSTJ): string {
 
 **Ramo:** ${tese.ramo_direito} | **Julgados:** ${tese.qtd_julgados} | **Publicação:** ${tese.data_publicacao}
 
-**Fonte oficial:** ${tese.url}
+**Proveniência:** ${FONTE_OFICIAL} — ${tese.url}
 `;
 }

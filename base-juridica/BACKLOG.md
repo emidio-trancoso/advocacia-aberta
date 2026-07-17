@@ -28,7 +28,7 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 | `BASE-006` | `JT_179_T19` tem enunciado vazio | Conferir a edição oficial; restaurar o enunciado ou documentar por que o registro não representa uma tese | **concluído em 2026-07-17** |
 | `BASE-007` | Metadados de temas expõem caminhos locais de `Downloads` | Substituir por origem pública, data, método e identificador reproduzível, sem caminho pessoal | **concluído em 2026-07-17** |
 | `BASE-008` | Descrição MCP declara 792 edições, mas existem 269 | Gerar descrição a partir do metadado ou corrigir o valor; teste impede nova divergência | **concluído em 2026-07-17** |
-| `BASE-009` | “Fonte primária” e força jurídica não seguem taxonomia documentada | Definir e revisar rótulos para texto normativo, fonte oficial, compilação institucional, precedente e índice derivado | aberto |
+| `BASE-009` | “Fonte primária” e força jurídica não seguem taxonomia documentada | Definir e revisar rótulos para texto normativo, fonte oficial, compilação institucional, precedente e índice derivado | **concluído em 2026-07-17** |
 | `BASE-010` | Índices de palavras-chave não têm processo reproduzível | Versionar geração, modelo, prompt/parâmetros, relação com a base e teste de cobertura | aberto |
 
 ## P2 — robustez e evolução
@@ -121,9 +121,24 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
   promovidas sem revisão;
 - a verificação completa está em [`verificacoes/BASE-005.md`](verificacoes/BASE-005.md).
 
+### `BASE-009` — taxonomia documental e de efeito jurídico
+
+- natureza documental, proveniência e efeito jurídico passaram a ser dimensões
+  independentes;
+- “fonte oficial” deixou de ser sinônimo de fonte primária ou de força vinculante;
+- legislação, enunciados sumulares, compilações institucionais, registros de
+  precedentes qualificados e índices derivados receberam definições explícitas;
+- temas repetitivos agora distinguem tese publicada, ausência de tese, cancelamento,
+  possível revisão e estados que exigem conferência;
+- descrições MCP e formatadores deixaram de usar “persuasiva” e “orientativa” como
+  classificações genéricas;
+- testes e auditoria estrita impedem o retorno dos rótulos ambíguos;
+- a taxonomia completa está em [`TAXONOMIA.md`](TAXONOMIA.md), e a verificação está
+  em [`verificacoes/BASE-009.md`](verificacoes/BASE-009.md).
+
 ## Ordem sugerida de execução
 
-1. `BASE-009` e `BASE-010`, consolidando proveniência e linguagem.
+1. `BASE-010`, tornando os índices derivados reproduzíveis.
 2. `BASE-011` a `BASE-014`, transformando as garantias em manutenção contínua.
 
 ## Regra de encerramento

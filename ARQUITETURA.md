@@ -47,7 +47,7 @@ Requisitos desta camada:
 - data de coleta e data de referência;
 - rotina reproduzível de atualização;
 - comparação entre versões;
-- validação contra a fonte primária;
+- validação contra a fonte oficial correspondente;
 - indicação clara de limitações.
 
 ### 2. Protocolos fundamentais

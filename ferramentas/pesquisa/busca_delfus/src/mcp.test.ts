@@ -68,4 +68,17 @@ test("MCP anuncia cobertura e contagens derivadas dos dados", async () => {
 
   const teses = tools!.find((tool) => tool.name === "buscar_tese");
   expect(teses?.description).toContain("3.371 teses de 269 edições");
+  expect(teses?.description).toContain("compilação institucional");
+  expect(teses?.description).toContain("não é vinculante por si só");
+
+  const sumulas = tools!.find((tool) => tool.name === "buscar_sumula");
+  expect(sumulas?.description).toContain("não são vinculantes por si sós");
+
+  const temas = tools!.find((tool) => tool.name === "buscar_tema");
+  expect(temas?.description).toContain("art. 927, III, do CPC");
+
+  const descricoes = tools!.map((tool) => tool.description).join("\n");
+  expect(descricoes).not.toContain("fontes primárias");
+  expect(descricoes).not.toContain("Força: ORIENTATIVA");
+  expect(descricoes).not.toContain("força persuasiva");
 });

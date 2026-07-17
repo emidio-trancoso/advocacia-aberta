@@ -291,6 +291,35 @@ def auditar() -> dict[str, Any]:
                 f"Formatador de {conjunto.lower()} não inclui a URL oficial disponível no JSON.",
             )
 
+    superficies_taxonomia = tuple(
+        MOTOR / caminho
+        for caminho in (
+            "package.json",
+            "src/index.ts",
+            "src/search/legislacao.ts",
+            "src/search/sumulas.ts",
+            "src/search/jt.ts",
+            "src/search/temas.ts",
+        )
+    )
+    rotulos_ambiguos = (
+        "FONTE PRIMÁRIA",
+        "**Força:**",
+        "| PERSUASIVA",
+        "| ORIENTATIVA",
+    )
+    for path in superficies_taxonomia:
+        fonte = path.read_text(encoding="utf-8")
+        encontrados = [rotulo for rotulo in rotulos_ambiguos if rotulo in fonte]
+        if encontrados:
+            registrar(
+                "P1",
+                "TAXONOMIA_JURIDICA",
+                f"{path.relative_to(ROOT)} ainda usa rótulos ambíguos: "
+                + ", ".join(encontrados)
+                + ".",
+            )
+
     return {
         "auditado_em": date.today().isoformat(),
         "escopo": "estrutura local; sem confirmação externa de vigência ou conteúdo",

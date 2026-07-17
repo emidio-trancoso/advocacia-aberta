@@ -74,7 +74,7 @@ exige rastreabilidade, declaração de incerteza e revisão profissional.
 
 É um conjunto estruturado de fontes jurídicas públicas preparado para pesquisa. Sua
 confiabilidade depende de cobertura, proveniência, data de referência, transformação
-documentada e confirmação na fonte primária.
+documentada e confirmação na fonte oficial correspondente.
 
 ## Proveniência
 

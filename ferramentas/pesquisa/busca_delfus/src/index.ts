@@ -51,12 +51,12 @@ server.setRequestHandler(ListToolsRequestSchema, async () => {
     tools: [
     {
       name: "buscar_sumula",
-      description: `Busca súmulas do STJ, STF e Súmulas Vinculantes STF nas fontes primárias curadas (${formatarNumero(TOTAIS_SUMULAS.STJ)} STJ + ${formatarNumero(TOTAIS_SUMULAS.STF)} STF + ${formatarNumero(TOTAIS_SUMULAS.vinculantes)} vinculantes).
+      description: `Busca enunciados sumulares do STJ, STF e Súmulas Vinculantes STF em publicações oficiais curadas (${formatarNumero(TOTAIS_SUMULAS.STJ)} STJ + ${formatarNumero(TOTAIS_SUMULAS.STF)} STF + ${formatarNumero(TOTAIS_SUMULAS.vinculantes)} vinculantes).
 
 Aceita busca por número ("365") ou por palavras-chave ("dano moral cadastro crédito").
 
-Súmulas Vinculantes têm força obrigatória (art. 103-A CF) — descumprimento gera reclamação constitucional.
-Súmulas STJ/STF têm força persuasiva — orientação forte, sem vinculação formal.
+Súmulas Vinculantes aprovadas e vigentes têm efeito vinculante nos termos do art. 103-A da CF; estados não ativos são sinalizados separadamente.
+Súmulas comuns do STJ e STF não são vinculantes por si sós; confira vigência e aplicabilidade.
 
 Use quando o usuário mencionar número de súmula, ou quando a questão jurídica puder ter orientação sumulada.`,
       inputSchema: {
@@ -85,12 +85,12 @@ Use quando o usuário mencionar número de súmula, ou quando a questão jurídi
       name: "buscar_tese",
       description: `Busca jurisprudência em teses do STJ (${formatarNumero(TOTAL_TESES_STJ)} teses de ${formatarNumero(TOTAL_EDICOES_JT)} edições).
 
-As Teses STJ consolidam o entendimento predominante do tribunal por ramo do direito.
-Força: ORIENTATIVA — reflete entendimento dominante mas NÃO vincula formalmente.
+Jurisprudência em Teses é uma compilação institucional do STJ que reúne teses e os julgados que as sustentam.
+O produto não é vinculante por si só; examine os julgados indicados antes de aplicar o entendimento.
 
 Aceita busca por palavras-chave ou por número de edição ("edição 142", "JT 142").
 
-Use quando precisar do entendimento consolidado do STJ sobre um tema específico.`,
+Use para localizar uma síntese institucional e partir dela para os julgados correspondentes.`,
       inputSchema: {
         type: "object",
         properties: {
@@ -111,8 +111,8 @@ Use quando precisar do entendimento consolidado do STJ sobre um tema específico
       name: "buscar_tema",
       description: `Busca temas repetitivos do STJ (${formatarNumero(TOTAL_TEMAS_STJ)} temas).
 
-Temas repetitivos são recursos afetados sob o rito dos arts. 1.036-1.041 CPC.
-A tese firmada tem efeito vinculante para casos idênticos nos tribunais inferiores.
+O registro informa a situação de temas submetidos ao rito dos recursos repetitivos.
+Quando houver tese firmada vigente e aplicável, sua observância é obrigatória nos termos do art. 927, III, do CPC; temas afetados, cancelados ou em revisão exigem tratamento distinto.
 
 Aceita busca por número ("tema 1377", "tema repetitivo 1302") ou palavras-chave.
 
@@ -138,7 +138,7 @@ Use quando a questão puder ser objeto de recurso repetitivo, para verificar se 
       description: `Busca artigos em ${legislacoes.length} diplomas da legislação brasileira.
 
 Aceita busca por número de artigo ("art. 702", "artigo 186") ou por palavras-chave.
-Retorna o texto completo do artigo com URL canônica do Planalto.
+Retorna texto normativo extraído da compilação oficial do Planalto. Confirme vigência, redação e aplicabilidade no link apresentado.
 
 Códigos disponíveis:
 ${descricaoLegislacao}

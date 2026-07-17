@@ -1,4 +1,9 @@
 import { createRequire } from "module";
+import {
+  descreverEfeitoSumula,
+  FONTE_OFICIAL,
+  NATUREZAS_DOCUMENTAIS,
+} from "./taxonomia.js";
 import { normalizeText, STOPWORDS } from "./utils.js";
 
 const require = createRequire(import.meta.url);
@@ -220,8 +225,8 @@ export function buscarSumulas(
 
 function formatFonteOficial(url: string | null): string {
   return url
-    ? `\n**Fonte oficial:** ${url}\n`
-    : "\n**Fonte oficial:** link não disponível neste snapshot.\n";
+    ? `\n**Proveniência:** ${FONTE_OFICIAL} — ${url}\n`
+    : "\n**Proveniência:** link oficial não disponível neste snapshot.\n";
 }
 
 export function formatSumula(item: { tribunal: Tribunal; sumula: SumulaSTJ | SumulaSTF | SumulaVinculante }): string {
@@ -230,10 +235,11 @@ export function formatSumula(item: { tribunal: Tribunal; sumula: SumulaSTJ | Sum
   if (tribunal === "vinculante") {
     const s = sumula as SumulaVinculante;
     const emoji = s.status === "aprovada" ? "✅" : "❌";
-    return `## 📋 FONTE PRIMÁRIA | SÚMULA VINCULANTE STF | VINCULANTE
+    const efeito = descreverEfeitoSumula(true, s.status);
+    return `## 📋 ${NATUREZAS_DOCUMENTAIS.enunciadoSumular} | SÚMULA VINCULANTE STF
 
 **Súmula Vinculante ${s.numero}** ${emoji} ${s.status.toUpperCase()}
-**Força:** VINCULANTE — obriga Judiciário e Administração Pública (art. 103-A CF)
+**Efeito jurídico:** ${efeito}
 
 **Enunciado:**
 > ${s.enunciado}
@@ -245,10 +251,11 @@ export function formatSumula(item: { tribunal: Tribunal; sumula: SumulaSTJ | Sum
   if (tribunal === "STF") {
     const s = sumula as SumulaSTF;
     const emoji = s.status === "ativa" ? "✅" : "⚠️";
-    return `## 📋 FONTE PRIMÁRIA | SÚMULA STF | PERSUASIVA
+    const efeito = descreverEfeitoSumula(false, s.status);
+    return `## 📋 ${NATUREZAS_DOCUMENTAIS.enunciadoSumular} | SÚMULA STF
 
 **Súmula ${s.numero} STF** ${emoji} ${s.status.toUpperCase()}
-**Força:** PERSUASIVA — orientação do STF, sem força vinculante formal
+**Efeito jurídico:** ${efeito}
 
 **Enunciado:**
 > ${s.enunciado}
@@ -259,10 +266,11 @@ export function formatSumula(item: { tribunal: Tribunal; sumula: SumulaSTJ | Sum
 
   const s = sumula as SumulaSTJ;
   const emoji = s.status === "ativa" ? "✅" : "❌";
-  return `## 📋 FONTE PRIMÁRIA | SÚMULA STJ | PERSUASIVA
+  const efeito = descreverEfeitoSumula(false, s.status);
+  return `## 📋 ${NATUREZAS_DOCUMENTAIS.enunciadoSumular} | SÚMULA STJ
 
 **Súmula ${s.numero} STJ** ${emoji} ${s.status.toUpperCase()}
-**Força:** PERSUASIVA — orientação forte, sem força vinculante formal
+**Efeito jurídico:** ${efeito}
 
 **Enunciado:**
 > ${s.enunciado}

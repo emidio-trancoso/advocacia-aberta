@@ -1,4 +1,5 @@
 import { createRequire } from "module";
+import { FONTE_OFICIAL, NATUREZAS_DOCUMENTAIS } from "./taxonomia.js";
 import { normalizeText } from "./utils.js";
 
 const require = createRequire(import.meta.url);
@@ -225,12 +226,15 @@ export function formatArtigo(
   codigo: CodigoCodigo,
   artigo: Artigo,
 ): string {
-  const link = artigo.url ? `\n🔗 ${artigo.url}\n` : "";
-  return `## 📋 FONTE PRIMÁRIA | LEGISLAÇÃO | ${codigo}
+  const proveniencia = artigo.url
+    ? `\n**Proveniência:** ${FONTE_OFICIAL} — texto compilado no Planalto\n**Consulta oficial:** ${artigo.url}\n`
+    : `\n**Proveniência:** link oficial indisponível neste snapshot\n`;
+  return `## 📋 ${NATUREZAS_DOCUMENTAIS.textoNormativo} | LEGISLAÇÃO | ${codigo}
 
 **${REGISTRO_CODIGOS[codigo].rotulo}**
 **Art. ${artigo.numero}**
-${link}
+**Efeito jurídico:** A CONFIRMAR — verifique vigência, redação e aplicabilidade ao caso
+${proveniencia}
 ${artigo.texto}
 `;
 }

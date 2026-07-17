@@ -2,7 +2,7 @@
   "name": "busca_delfus",
   "version": "1.0.0",
   "license": "0BSD",
-  "description": "MCP server — fontes primárias do direito brasileiro (súmulas, teses, temas, legislação)",
+  "description": "MCP server — pesquisa jurídica local em legislação, súmulas, compilações e precedentes qualificados",
   "type": "module",
   "scripts": {
     "start": "bun run src/index.ts",

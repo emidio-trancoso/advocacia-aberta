@@ -174,6 +174,20 @@ Os índices de palavras-chave produzidos por modelo de linguagem continuam fora 
 reprodução automática até a conclusão do `BASE-010`. Eles são enriquecimentos de
 busca, não fontes jurídicas.
 
+## Taxonomia documental e efeito jurídico
+
+Desde a conclusão do `BASE-009`, a saída do motor separa natureza documental,
+proveniência e efeito jurídico. O vocabulário e as regras estão documentados em
+[`TAXONOMIA.md`](TAXONOMIA.md).
+
+- legislação é apresentada como texto normativo oriundo de compilação oficial;
+- súmulas são enunciados sumulares, com efeito vinculante reservado às vinculantes
+  aprovadas e vigentes;
+- Jurisprudência em Teses é compilação institucional sem vinculação por si só;
+- temas são registros de precedentes qualificados, e o efeito varia conforme situação
+  e presença de tese;
+- palavras-chave e termos são índices derivados, sem força jurídica.
+
 ## Resultado da auditoria
 
 ### Pontos fortes confirmados
@@ -194,8 +208,8 @@ busca, não fontes jurídicas.
   aprovação das diferenças continuam sendo revisão humana obrigatória;
 - os brutos que deram origem ao snapshot legado de temas não foram preservados, embora
   a referência pública e o processo futuro já estejam documentados;
-- os termos “fonte primária” e as classificações de força jurídica ainda precisam de
-  revisão conceitual uniforme;
+- os rótulos reduzem inferências indevidas, mas não substituem o exame do inteiro teor,
+  da vigência, da situação atual e da aplicabilidade ao caso;
 - não há avaliação documentada de precisão e cobertura das buscas por palavras-chave.
 
 As correções estão organizadas no [BACKLOG.md](BACKLOG.md).

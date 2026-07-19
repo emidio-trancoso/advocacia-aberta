@@ -439,6 +439,73 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
         self.assertEqual(hierarquia["section"], "II")
         self.assertEqual(hierarquia["section_name"], "Das Conciliações e das Mediações")
 
+    def test_nome_de_divisao_descarta_remissao_entre_parenteses(self) -> None:
+        # A remissão da lei que incluiu ou revogou a divisão gruda no nome
+        # ("DA LAJE (Incluído pela Lei ...)"), fica sozinha na linha do marcador
+        # revogado ("(Revogado ...)") ou no parágrafo seguinte — nenhuma é nome.
+        html = """
+        <html><body>
+        <p>TÍTULO XI DA LAJE (Incluído pela Lei nº 13.465, de 2017)</p>
+        <p>Art. 1º Primeiro artigo.</p>
+        <p>CAPÍTULO II (Revogado pela Lei nº 14.368, de 2022)</p>
+        <p>Art. 2º Segundo artigo.</p>
+        <p>CAPÍTULO X</p>
+        <p>DO FUNDO DE INVESTIMENTO (Incluído pela Lei nº 13.874, de 2019)</p>
+        <p>Art. 3º Terceiro artigo.</p>
+        <p>Seção VIII (Incluída pela Lei nº 12.010, de 2009) Vigência Da Habilitação de Pretendentes</p>
+        <p>Art. 4º Quarto artigo.</p>
+        <p>SEÇÃO IX DA CONCESSÃO DAS FÉRIAS (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977</p>
+        <p>Art. 5º Quinto artigo.</p>
+        <p>CAPÍTULO XI Vigência da Legislação Tributária</p>
+        <p>Art. 6º Sexto artigo.</p>
+        </body></html>
+        """
+        config = {
+            "fontes": [
+                {
+                    "codigo": "XX",
+                    "url": "https://www.planalto.gov.br/teste",
+                    "arquivo_bruto": "xx.html",
+                    "destino": "lei_xx.json",
+                }
+            ]
+        }
+        with tempfile.TemporaryDirectory() as temp:
+            raiz = Path(temp)
+            bruto = raiz / "bruto"
+            publicados = raiz / "publicados"
+            bruto.mkdir()
+            publicados.mkdir()
+            (bruto / "xx.html").write_text(html, encoding="utf-8")
+            (publicados / "lei_xx.json").write_text(
+                json.dumps({"_meta": {}, "artigos": {}}), encoding="utf-8"
+            )
+            [saida] = pipeline.transformar_legislacao(
+                config, bruto, publicados, raiz / "candidatos"
+            )
+            objeto = json.loads(saida.read_text())
+        arts = objeto["artigos"]
+        # nome na mesma linha, com remissão colada
+        self.assertEqual(arts["1"]["hierarchy"]["title_name"], "DA LAJE")
+        # divisão revogada, sem nome real: rótulo limpo, sem a remissão
+        self.assertEqual(arts["2"]["hierarchy"]["chapter_name"], "CAPÍTULO II")
+        # nome no parágrafo seguinte, com remissão colada
+        self.assertEqual(
+            arts["3"]["hierarchy"]["chapter_name"], "DO FUNDO DE INVESTIMENTO"
+        )
+        # anotação "Vigência" logo após a remissão é descartada com ela
+        self.assertEqual(
+            arts["4"]["hierarchy"]["section_name"], "Da Habilitação de Pretendentes"
+        )
+        # remissão sem parêntese de fechamento (o Planalto perde o ")")
+        self.assertEqual(
+            arts["5"]["hierarchy"]["section_name"], "DA CONCESSÃO DAS FÉRIAS"
+        )
+        # nome real que contém "Vigência" (não segue remissão) é preservado
+        self.assertEqual(
+            arts["6"]["hierarchy"]["chapter_name"], "Vigência da Legislação Tributária"
+        )
+
     def test_hierarquia_tolera_ortografia_antiga_sem_acento(self) -> None:
         # Padrão do Decreto 2.044/1908: a página usa "TITULO I", "CAPITULO
         # XII" e "SECÇÃO I" na ortografia da época. Sem tolerância, essas

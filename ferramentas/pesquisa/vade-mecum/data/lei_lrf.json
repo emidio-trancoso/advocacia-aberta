@@ -20,7 +20,7 @@
         "title": null,
         "title_name": null,
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "DISPOSIÇÕES PRELIMINARES",
         "section": null,
         "section_name": null
       },
@@ -36,7 +36,7 @@
         "title": null,
         "title_name": null,
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "DISPOSIÇÕES PRELIMINARES",
         "section": null,
         "section_name": null
       },
@@ -52,9 +52,9 @@
         "title": null,
         "title_name": null,
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "DO PLANEJAMENTO",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Do Plano Plurianual"
       },
       "prev": "2",
       "next": "4"
@@ -68,9 +68,9 @@
         "title": null,
         "title_name": null,
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "DO PLANEJAMENTO",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Da Lei de Diretrizes Orçamentárias"
       },
       "prev": "3",
       "next": "5"
@@ -84,9 +84,9 @@
         "title": null,
         "title_name": null,
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "DO PLANEJAMENTO",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Da Lei Orçamentária Anual"
       },
       "prev": "4",
       "next": "6"
@@ -100,9 +100,9 @@
         "title": null,
         "title_name": null,
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "DO PLANEJAMENTO",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Da Lei Orçamentária Anual"
       },
       "prev": "5",
       "next": "7"
@@ -116,9 +116,9 @@
         "title": null,
         "title_name": null,
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "DO PLANEJAMENTO",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Da Lei Orçamentária Anual"
       },
       "prev": "6",
       "next": "8"
@@ -132,9 +132,9 @@
         "title": null,
         "title_name": null,
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "DO PLANEJAMENTO",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Da Execução Orçamentária e do Cumprimento das Metas"
       },
       "prev": "7",
       "next": "9"
@@ -148,9 +148,9 @@
         "title": null,
         "title_name": null,
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "DO PLANEJAMENTO",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Da Execução Orçamentária e do Cumprimento das Metas"
       },
       "prev": "8",
       "next": "10"
@@ -164,9 +164,9 @@
         "title": null,
         "title_name": null,
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "DO PLANEJAMENTO",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Da Execução Orçamentária e do Cumprimento das Metas"
       },
       "prev": "9",
       "next": "11"
@@ -180,9 +180,9 @@
         "title": null,
         "title_name": null,
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "DA RECEITA PÚBLICA",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Da Previsão e da Arrecadação"
       },
       "prev": "10",
       "next": "12"
@@ -196,9 +196,9 @@
         "title": null,
         "title_name": null,
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "DA RECEITA PÚBLICA",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Da Previsão e da Arrecadação"
       },
       "prev": "11",
       "next": "13"
@@ -212,9 +212,9 @@
         "title": null,
         "title_name": null,
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "DA RECEITA PÚBLICA",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Da Previsão e da Arrecadação"
       },
       "prev": "12",
       "next": "14"
@@ -228,9 +228,9 @@
         "title": null,
         "title_name": null,
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "DA RECEITA PÚBLICA",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Da Renúncia de Receita"
       },
       "prev": "13",
       "next": "14-A"
@@ -244,9 +244,9 @@
         "title": null,
         "title_name": null,
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "DA RECEITA PÚBLICA",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Da Renúncia de Receita"
       },
       "prev": "14",
       "next": "15"
@@ -260,9 +260,9 @@
         "title": null,
         "title_name": null,
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "DA DESPESA PÚBLICA",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Da Geração da Despesa"
       },
       "prev": "14-A",
       "next": "16"
@@ -276,9 +276,9 @@
         "title": null,
         "title_name": null,
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "DA DESPESA PÚBLICA",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Da Geração da Despesa"
       },
       "prev": "15",
       "next": "17"
@@ -292,9 +292,9 @@
         "title": null,
         "title_name": null,
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "DA DESPESA PÚBLICA",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Da Geração da Despesa"
       },
       "prev": "16",
       "next": "18"
@@ -308,9 +308,9 @@
         "title": null,
         "title_name": null,
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "DA DESPESA PÚBLICA",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Das Despesas com Pessoal"
       },
       "prev": "17",
       "next": "19"
@@ -324,9 +324,9 @@
         "title": null,
         "title_name": null,
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "DA DESPESA PÚBLICA",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Das Despesas com Pessoal"
       },
       "prev": "18",
       "next": "20"
@@ -340,9 +340,9 @@
         "title": null,
         "title_name": null,
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "DA DESPESA PÚBLICA",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Das Despesas com Pessoal"
       },
       "prev": "19",
       "next": "21"
@@ -356,9 +356,9 @@
         "title": null,
         "title_name": null,
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "DA DESPESA PÚBLICA",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Das Despesas com Pessoal"
       },
       "prev": "20",
       "next": "22"
@@ -372,9 +372,9 @@
         "title": null,
         "title_name": null,
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "DA DESPESA PÚBLICA",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Das Despesas com Pessoal"
       },
       "prev": "21",
       "next": "23"
@@ -388,9 +388,9 @@
         "title": null,
         "title_name": null,
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "DA DESPESA PÚBLICA",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Das Despesas com Pessoal"
       },
       "prev": "22",
       "next": "24"
@@ -404,9 +404,9 @@
         "title": null,
         "title_name": null,
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "DA DESPESA PÚBLICA",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Das Despesas com a Seguridade Social"
       },
       "prev": "23",
       "next": "25"
@@ -420,7 +420,7 @@
         "title": null,
         "title_name": null,
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V",
+        "chapter_name": "DAS TRANSFERÊNCIAS VOLUNTÁRIAS",
         "section": null,
         "section_name": null
       },
@@ -436,7 +436,7 @@
         "title": null,
         "title_name": null,
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI",
+        "chapter_name": "DA DESTINAÇÃO DE RECURSOS PÚBLICOS PARA O SETOR PRIVADO",
         "section": null,
         "section_name": null
       },
@@ -452,7 +452,7 @@
         "title": null,
         "title_name": null,
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI",
+        "chapter_name": "DA DESTINAÇÃO DE RECURSOS PÚBLICOS PARA O SETOR PRIVADO",
         "section": null,
         "section_name": null
       },
@@ -468,7 +468,7 @@
         "title": null,
         "title_name": null,
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI",
+        "chapter_name": "DA DESTINAÇÃO DE RECURSOS PÚBLICOS PARA O SETOR PRIVADO",
         "section": null,
         "section_name": null
       },
@@ -484,7 +484,7 @@
         "title": null,
         "title_name": null,
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI",
+        "chapter_name": "DA DESTINAÇÃO DE RECURSOS PÚBLICOS PARA O SETOR PRIVADO",
         "section": null,
         "section_name": null
       },
@@ -500,9 +500,9 @@
         "title": null,
         "title_name": null,
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII",
+        "chapter_name": "DA DÍVIDA E DO ENDIVIDAMENTO",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Definições Básicas"
       },
       "prev": "28",
       "next": "30"
@@ -516,9 +516,9 @@
         "title": null,
         "title_name": null,
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII",
+        "chapter_name": "DA DÍVIDA E DO ENDIVIDAMENTO",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Dos Limites da Dívida Pública e das Operações de Crédito"
       },
       "prev": "29",
       "next": "31"
@@ -532,9 +532,9 @@
         "title": null,
         "title_name": null,
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII",
+        "chapter_name": "DA DÍVIDA E DO ENDIVIDAMENTO",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Da Recondução da Dívida aos Limites"
       },
       "prev": "30",
       "next": "32"
@@ -548,9 +548,9 @@
         "title": null,
         "title_name": null,
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII",
+        "chapter_name": "DA DÍVIDA E DO ENDIVIDAMENTO",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Das Operações de Crédito"
       },
       "prev": "31",
       "next": "33"
@@ -564,9 +564,9 @@
         "title": null,
         "title_name": null,
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII",
+        "chapter_name": "DA DÍVIDA E DO ENDIVIDAMENTO",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Das Operações de Crédito"
       },
       "prev": "32",
       "next": "34"
@@ -580,9 +580,9 @@
         "title": null,
         "title_name": null,
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII",
+        "chapter_name": "DA DÍVIDA E DO ENDIVIDAMENTO",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Das Operações de Crédito"
       },
       "prev": "33",
       "next": "35"
@@ -596,9 +596,9 @@
         "title": null,
         "title_name": null,
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII",
+        "chapter_name": "DA DÍVIDA E DO ENDIVIDAMENTO",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Das Operações de Crédito"
       },
       "prev": "34",
       "next": "36"
@@ -612,9 +612,9 @@
         "title": null,
         "title_name": null,
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII",
+        "chapter_name": "DA DÍVIDA E DO ENDIVIDAMENTO",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Das Operações de Crédito"
       },
       "prev": "35",
       "next": "37"
@@ -628,9 +628,9 @@
         "title": null,
         "title_name": null,
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII",
+        "chapter_name": "DA DÍVIDA E DO ENDIVIDAMENTO",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Das Operações de Crédito"
       },
       "prev": "36",
       "next": "38"
@@ -644,9 +644,9 @@
         "title": null,
         "title_name": null,
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII",
+        "chapter_name": "DA DÍVIDA E DO ENDIVIDAMENTO",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Das Operações de Crédito"
       },
       "prev": "37",
       "next": "39"
@@ -660,9 +660,9 @@
         "title": null,
         "title_name": null,
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII",
+        "chapter_name": "DA DÍVIDA E DO ENDIVIDAMENTO",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Das Operações de Crédito"
       },
       "prev": "38",
       "next": "40"
@@ -676,9 +676,9 @@
         "title": null,
         "title_name": null,
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII",
+        "chapter_name": "DA DÍVIDA E DO ENDIVIDAMENTO",
         "section": "V",
-        "section_name": "Seção V"
+        "section_name": "Da Garantia e da Contragarantia"
       },
       "prev": "39",
       "next": "41"
@@ -692,9 +692,9 @@
         "title": null,
         "title_name": null,
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII",
+        "chapter_name": "DA DÍVIDA E DO ENDIVIDAMENTO",
         "section": "VI",
-        "section_name": "Seção VI"
+        "section_name": "Dos Restos a Pagar"
       },
       "prev": "40",
       "next": "41-A"
@@ -708,9 +708,9 @@
         "title": null,
         "title_name": null,
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII",
+        "chapter_name": "DA DÍVIDA E DO ENDIVIDAMENTO",
         "section": "VI",
-        "section_name": "Seção VI"
+        "section_name": "Dos Restos a Pagar"
       },
       "prev": "41",
       "next": "42"
@@ -724,9 +724,9 @@
         "title": null,
         "title_name": null,
         "chapter": "VII",
-        "chapter_name": "CAPÍTULO VII",
+        "chapter_name": "DA DÍVIDA E DO ENDIVIDAMENTO",
         "section": "VI",
-        "section_name": "Seção VI"
+        "section_name": "Dos Restos a Pagar"
       },
       "prev": "41-A",
       "next": "43"
@@ -740,9 +740,9 @@
         "title": null,
         "title_name": null,
         "chapter": "VIII",
-        "chapter_name": "CAPÍTULO VIII",
+        "chapter_name": "DA GESTÃO PATRIMONIAL",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Das Disponibilidades de Caixa"
       },
       "prev": "42",
       "next": "44"
@@ -756,9 +756,9 @@
         "title": null,
         "title_name": null,
         "chapter": "VIII",
-        "chapter_name": "CAPÍTULO VIII",
+        "chapter_name": "DA GESTÃO PATRIMONIAL",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Da Preservação do Patrimônio Público"
       },
       "prev": "43",
       "next": "45"
@@ -772,9 +772,9 @@
         "title": null,
         "title_name": null,
         "chapter": "VIII",
-        "chapter_name": "CAPÍTULO VIII",
+        "chapter_name": "DA GESTÃO PATRIMONIAL",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Da Preservação do Patrimônio Público"
       },
       "prev": "44",
       "next": "46"
@@ -788,9 +788,9 @@
         "title": null,
         "title_name": null,
         "chapter": "VIII",
-        "chapter_name": "CAPÍTULO VIII",
+        "chapter_name": "DA GESTÃO PATRIMONIAL",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Da Preservação do Patrimônio Público"
       },
       "prev": "45",
       "next": "47"
@@ -804,9 +804,9 @@
         "title": null,
         "title_name": null,
         "chapter": "VIII",
-        "chapter_name": "CAPÍTULO VIII",
+        "chapter_name": "DA GESTÃO PATRIMONIAL",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Das Empresas Controladas pelo Setor Público"
       },
       "prev": "46",
       "next": "48"
@@ -820,9 +820,9 @@
         "title": null,
         "title_name": null,
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX",
+        "chapter_name": "DA TRANSPARÊNCIA, CONTROLE E FISCALIZAÇÃO",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Da Transparência da Gestão Fiscal"
       },
       "prev": "47",
       "next": "48-A"
@@ -836,9 +836,9 @@
         "title": null,
         "title_name": null,
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX",
+        "chapter_name": "DA TRANSPARÊNCIA, CONTROLE E FISCALIZAÇÃO",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Da Transparência da Gestão Fiscal"
       },
       "prev": "48",
       "next": "49"
@@ -852,9 +852,9 @@
         "title": null,
         "title_name": null,
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX",
+        "chapter_name": "DA TRANSPARÊNCIA, CONTROLE E FISCALIZAÇÃO",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Da Transparência da Gestão Fiscal"
       },
       "prev": "48-A",
       "next": "50"
@@ -868,9 +868,9 @@
         "title": null,
         "title_name": null,
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX",
+        "chapter_name": "DA TRANSPARÊNCIA, CONTROLE E FISCALIZAÇÃO",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Da Escrituração e Consolidação das Contas"
       },
       "prev": "49",
       "next": "51"
@@ -884,9 +884,9 @@
         "title": null,
         "title_name": null,
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX",
+        "chapter_name": "DA TRANSPARÊNCIA, CONTROLE E FISCALIZAÇÃO",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Da Escrituração e Consolidação das Contas"
       },
       "prev": "50",
       "next": "52"
@@ -900,9 +900,9 @@
         "title": null,
         "title_name": null,
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX",
+        "chapter_name": "DA TRANSPARÊNCIA, CONTROLE E FISCALIZAÇÃO",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Do Relatório Resumido da Execução Orçamentária"
       },
       "prev": "51",
       "next": "53"
@@ -916,9 +916,9 @@
         "title": null,
         "title_name": null,
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX",
+        "chapter_name": "DA TRANSPARÊNCIA, CONTROLE E FISCALIZAÇÃO",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Do Relatório Resumido da Execução Orçamentária"
       },
       "prev": "52",
       "next": "54"
@@ -932,9 +932,9 @@
         "title": null,
         "title_name": null,
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX",
+        "chapter_name": "DA TRANSPARÊNCIA, CONTROLE E FISCALIZAÇÃO",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Do Relatório de Gestão Fiscal"
       },
       "prev": "53",
       "next": "55"
@@ -948,9 +948,9 @@
         "title": null,
         "title_name": null,
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX",
+        "chapter_name": "DA TRANSPARÊNCIA, CONTROLE E FISCALIZAÇÃO",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Do Relatório de Gestão Fiscal"
       },
       "prev": "54",
       "next": "56"
@@ -964,9 +964,9 @@
         "title": null,
         "title_name": null,
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX",
+        "chapter_name": "DA TRANSPARÊNCIA, CONTROLE E FISCALIZAÇÃO",
         "section": "V",
-        "section_name": "Seção V"
+        "section_name": "Das Prestações de Contas"
       },
       "prev": "55",
       "next": "57"
@@ -980,9 +980,9 @@
         "title": null,
         "title_name": null,
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX",
+        "chapter_name": "DA TRANSPARÊNCIA, CONTROLE E FISCALIZAÇÃO",
         "section": "V",
-        "section_name": "Seção V"
+        "section_name": "Das Prestações de Contas"
       },
       "prev": "56",
       "next": "58"
@@ -996,9 +996,9 @@
         "title": null,
         "title_name": null,
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX",
+        "chapter_name": "DA TRANSPARÊNCIA, CONTROLE E FISCALIZAÇÃO",
         "section": "V",
-        "section_name": "Seção V"
+        "section_name": "Das Prestações de Contas"
       },
       "prev": "57",
       "next": "59"
@@ -1012,9 +1012,9 @@
         "title": null,
         "title_name": null,
         "chapter": "IX",
-        "chapter_name": "CAPÍTULO IX",
+        "chapter_name": "DA TRANSPARÊNCIA, CONTROLE E FISCALIZAÇÃO",
         "section": "VI",
-        "section_name": "Seção VI"
+        "section_name": "Da Fiscalização da Gestão Fiscal"
       },
       "prev": "58",
       "next": "60"
@@ -1028,7 +1028,7 @@
         "title": null,
         "title_name": null,
         "chapter": "X",
-        "chapter_name": "CAPÍTULO X",
+        "chapter_name": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
         "section": null,
         "section_name": null
       },
@@ -1044,7 +1044,7 @@
         "title": null,
         "title_name": null,
         "chapter": "X",
-        "chapter_name": "CAPÍTULO X",
+        "chapter_name": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
         "section": null,
         "section_name": null
       },
@@ -1060,7 +1060,7 @@
         "title": null,
         "title_name": null,
         "chapter": "X",
-        "chapter_name": "CAPÍTULO X",
+        "chapter_name": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
         "section": null,
         "section_name": null
       },
@@ -1076,7 +1076,7 @@
         "title": null,
         "title_name": null,
         "chapter": "X",
-        "chapter_name": "CAPÍTULO X",
+        "chapter_name": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
         "section": null,
         "section_name": null
       },
@@ -1092,7 +1092,7 @@
         "title": null,
         "title_name": null,
         "chapter": "X",
-        "chapter_name": "CAPÍTULO X",
+        "chapter_name": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
         "section": null,
         "section_name": null
       },
@@ -1108,7 +1108,7 @@
         "title": null,
         "title_name": null,
         "chapter": "X",
-        "chapter_name": "CAPÍTULO X",
+        "chapter_name": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
         "section": null,
         "section_name": null
       },
@@ -1124,7 +1124,7 @@
         "title": null,
         "title_name": null,
         "chapter": "X",
-        "chapter_name": "CAPÍTULO X",
+        "chapter_name": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
         "section": null,
         "section_name": null
       },
@@ -1140,7 +1140,7 @@
         "title": null,
         "title_name": null,
         "chapter": "X",
-        "chapter_name": "CAPÍTULO X",
+        "chapter_name": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
         "section": null,
         "section_name": null
       },
@@ -1156,7 +1156,7 @@
         "title": null,
         "title_name": null,
         "chapter": "X",
-        "chapter_name": "CAPÍTULO X",
+        "chapter_name": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
         "section": null,
         "section_name": null
       },
@@ -1172,7 +1172,7 @@
         "title": null,
         "title_name": null,
         "chapter": "X",
-        "chapter_name": "CAPÍTULO X",
+        "chapter_name": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
         "section": null,
         "section_name": null
       },
@@ -1188,7 +1188,7 @@
         "title": null,
         "title_name": null,
         "chapter": "X",
-        "chapter_name": "CAPÍTULO X",
+        "chapter_name": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
         "section": null,
         "section_name": null
       },
@@ -1204,7 +1204,7 @@
         "title": null,
         "title_name": null,
         "chapter": "X",
-        "chapter_name": "CAPÍTULO X",
+        "chapter_name": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
         "section": null,
         "section_name": null
       },
@@ -1220,7 +1220,7 @@
         "title": null,
         "title_name": null,
         "chapter": "X",
-        "chapter_name": "CAPÍTULO X",
+        "chapter_name": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
         "section": null,
         "section_name": null
       },
@@ -1236,7 +1236,7 @@
         "title": null,
         "title_name": null,
         "chapter": "X",
-        "chapter_name": "CAPÍTULO X",
+        "chapter_name": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
         "section": null,
         "section_name": null
       },
@@ -1252,7 +1252,7 @@
         "title": null,
         "title_name": null,
         "chapter": "X",
-        "chapter_name": "CAPÍTULO X",
+        "chapter_name": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
         "section": null,
         "section_name": null
       },
@@ -1268,7 +1268,7 @@
         "title": null,
         "title_name": null,
         "chapter": "X",
-        "chapter_name": "CAPÍTULO X",
+        "chapter_name": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
         "section": null,
         "section_name": null
       },
@@ -1284,7 +1284,7 @@
         "title": null,
         "title_name": null,
         "chapter": "X",
-        "chapter_name": "CAPÍTULO X",
+        "chapter_name": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
         "section": null,
         "section_name": null
       },
@@ -1300,7 +1300,7 @@
         "title": null,
         "title_name": null,
         "chapter": "X",
-        "chapter_name": "CAPÍTULO X",
+        "chapter_name": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
         "section": null,
         "section_name": null
       },
@@ -1316,7 +1316,7 @@
         "title": null,
         "title_name": null,
         "chapter": "X",
-        "chapter_name": "CAPÍTULO X",
+        "chapter_name": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
         "section": null,
         "section_name": null
       },
@@ -1332,7 +1332,7 @@
         "title": null,
         "title_name": null,
         "chapter": "X",
-        "chapter_name": "CAPÍTULO X",
+        "chapter_name": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
         "section": null,
         "section_name": null
       },

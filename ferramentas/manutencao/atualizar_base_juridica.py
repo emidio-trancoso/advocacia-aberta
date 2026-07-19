@@ -576,37 +576,66 @@ def rotulo_inicial_em_link(no: Elemento) -> bool:
 ESTRUTURA_RE = re.compile(r"^(T[ÍI]TULO|CAP[ÍI]TULO|SEC?ÇÃO|PARTE|LIVRO)\b", re.I)
 
 
+def limpar_nome_divisao(texto: str) -> str:
+    """Remove remissões entre parênteses coladas ao nome e normaliza espaços.
+
+    O Planalto costuma anexar a remissão ao nome ("DA LAJE (Incluído pela Lei
+    ...)") ou deixá-la sozinha na linha do marcador cujo nome foi revogado
+    ("(Revogado pela Lei ...)"). Nenhuma das duas é nome — ambas viram texto
+    limpo ("DA LAJE") ou vazio, respectivamente. Também some com os rótulos de
+    anotação que costumam seguir a remissão ("(Incluída ...) Vigência" ->
+    "") e com a remissão sem parêntese de fechamento, que a página às vezes
+    deixa aberta ("(Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977"). O
+    "Vigência" só é removido quando segue a remissão, para preservar nomes reais
+    que contêm a palavra ("Da Vigência da Patente", "Vigência da Legislação
+    Tributária").
+    """
+    remissao = r"Reda[çc][ãa]o|Inclu[ií]d|Vide|Revogad|Vig[êe]ncia|Produ[çc][ãa]o|Regulamento|Renumerad"
+    anotacao = r"Vig[êe]ncia|Vide|Produ[çc][ãa]o de efeitos?|Regulamento"
+    texto = re.sub(
+        rf"\s*\([^)]*\)(?:\s+(?:{anotacao}))*", " ", texto, flags=re.I
+    )
+    texto = re.sub(rf"\s*\((?:{remissao})[^)]*$", "", texto, flags=re.I)
+    return texto_normalizado(texto)
+
+
 def nome_da_divisao(rotulo: str, paragrafos: list[Elemento], indice: int) -> str:
     """Nome real da divisão estrutural (BASE-018).
 
     Quando a página escreve o nome na própria linha do marcador
-    ("CAPÍTULO II - DA COBRANÇA"), devolve o que sobra depois do rótulo.
-    Quando separa rótulo e nome em parágrafos distintos ("TÍTULO I" seguido de
-    "Dos Princípios Fundamentais"), procura o nome nos parágrafos seguintes,
-    pulando linhas vazias e remissões "(Vide ...)". Sem nome identificável,
-    devolve a própria linha do marcador, como antes.
+    ("CAPÍTULO II - DA COBRANÇA"), devolve o que sobra depois do rótulo, sem a
+    remissão entre parênteses que às vezes o acompanha. Quando separa rótulo e
+    nome em parágrafos distintos ("TÍTULO I" seguido de "Dos Princípios
+    Fundamentais"), procura o nome nos parágrafos seguintes, pulando linhas
+    vazias e remissões "(Vide ...)". Sem nome identificável, devolve a própria
+    linha do marcador, como antes.
     """
     resto = re.sub(
-        r"^(?:T[ÍI]TULO|CAP[ÍI]TULO|SEC?ÇÃO)\s+(?:[IVXLCDM]+|ÚNIC[OA])\b[\s\-–—.:]*",
+        # O sufixo dos marcadores incluídos por lei posterior ("SEÇÃO II-A",
+        # "TÍTULO I-A") entra junto do rótulo, para não sobrar como nome.
+        r"^(?:T[ÍI]TULO|CAP[ÍI]TULO|SEC?ÇÃO)\s+(?:[IVXLCDM]+|ÚNIC[OA])"
+        r"(?:-[A-Z](?=\s|$|\())?[\s\-–—.:]*",
         "",
         rotulo,
         count=1,
         flags=re.I,
     ).strip()
-    # "SEÇÃO II-A"/"CAPÍTULO VI-A": o traço do sufixo é consumido pelo rótulo e
-    # sobra uma letra isolada ("A"), que não é nome. Nesses casos o Planalto
-    # escreve o nome real no parágrafo seguinte ("DA INSOLVÊNCIA TRANSNACIONAL"),
-    # como no caso sem nome na mesma linha — então segue para a busca adiante.
+    # A remissão pode vir colada ao nome ("DA LAJE (Incluído ...)") ou ser tudo
+    # o que sobra ("(Revogado ...)"). Depois de limpá-la, sobra vazia ou curta
+    # demais leva à busca no parágrafo seguinte, onde fica o nome real.
+    resto = limpar_nome_divisao(resto)
     if resto and len(resto) > 1:
         return resto
     for seguinte in paragrafos[indice + 1 : indice + 4]:
-        texto = texto_normalizado(texto_elemento(seguinte))
-        if not texto or texto.startswith("("):
+        texto = limpar_nome_divisao(texto_elemento(seguinte))
+        if not texto:
             continue
         if ARTIGO.match(texto) or ESTRUTURA_RE.match(texto) or len(texto) > 120:
             break
         return texto
-    return rotulo
+    # Sem nome identificável (ex.: divisão revogada, cujo nome a lei posterior
+    # substituiu pela remissão): devolve o rótulo limpo, sem a remissão.
+    return limpar_nome_divisao(rotulo) or rotulo
 
 
 def transformar_legislacao(

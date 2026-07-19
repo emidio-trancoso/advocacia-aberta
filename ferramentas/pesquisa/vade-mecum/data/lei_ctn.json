@@ -52,7 +52,7 @@
       ],
       "hierarchy": {
         "title": "I",
-        "title_name": "TÍTULO I",
+        "title_name": "Disposições Gerais",
         "chapter": null,
         "chapter_name": null,
         "section": null,
@@ -77,7 +77,7 @@
       ],
       "hierarchy": {
         "title": "I",
-        "title_name": "TÍTULO I",
+        "title_name": "Disposições Gerais",
         "chapter": null,
         "chapter_name": null,
         "section": null,
@@ -102,7 +102,7 @@
       ],
       "hierarchy": {
         "title": "I",
-        "title_name": "TÍTULO I",
+        "title_name": "Disposições Gerais",
         "chapter": null,
         "chapter_name": null,
         "section": null,
@@ -127,7 +127,7 @@
       ],
       "hierarchy": {
         "title": "I",
-        "title_name": "TÍTULO I",
+        "title_name": "Disposições Gerais",
         "chapter": null,
         "chapter_name": null,
         "section": null,
@@ -151,9 +151,9 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Competência Tributária",
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "Disposições Gerais",
         "section": null,
         "section_name": null
       },
@@ -178,9 +178,9 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Competência Tributária",
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "Disposições Gerais",
         "section": null,
         "section_name": null
       },
@@ -200,9 +200,9 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Competência Tributária",
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "Disposições Gerais",
         "section": null,
         "section_name": null
       },
@@ -227,11 +227,11 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Competência Tributária",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Limitações da Competência Tributária",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Disposições Gerais"
       },
       "prev": "8",
       "next": "10"
@@ -252,11 +252,11 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Competência Tributária",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Limitações da Competência Tributária",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Disposições Gerais"
       },
       "prev": "9",
       "next": "11"
@@ -278,11 +278,11 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Competência Tributária",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Limitações da Competência Tributária",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Disposições Gerais"
       },
       "prev": "10",
       "next": "12"
@@ -304,11 +304,11 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Competência Tributária",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Limitações da Competência Tributária",
         "section": "II",
-        "section_name": "SEÇÃO II"
+        "section_name": "Disposições Especiais"
       },
       "prev": "11",
       "next": "13"
@@ -331,11 +331,11 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Competência Tributária",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Limitações da Competência Tributária",
         "section": "II",
-        "section_name": "SEÇÃO II"
+        "section_name": "Disposições Especiais"
       },
       "prev": "12",
       "next": "14"
@@ -357,11 +357,11 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Competência Tributária",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Limitações da Competência Tributária",
         "section": "II",
-        "section_name": "SEÇÃO II"
+        "section_name": "Disposições Especiais"
       },
       "prev": "13",
       "next": "15"
@@ -382,11 +382,11 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Competência Tributária",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Limitações da Competência Tributária",
         "section": "II",
-        "section_name": "SEÇÃO II"
+        "section_name": "Disposições Especiais"
       },
       "prev": "14",
       "next": "16"
@@ -406,9 +406,9 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "Disposições Gerais",
         "section": null,
         "section_name": null
       },
@@ -433,9 +433,9 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "Disposições Gerais",
         "section": null,
         "section_name": null
       },
@@ -459,9 +459,9 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "Disposições Gerais",
         "section": null,
         "section_name": null
       },
@@ -486,9 +486,9 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "Disposições Gerais",
         "section": null,
         "section_name": null
       },
@@ -509,11 +509,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Impostos sôbre o Comércio Exterior",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Impôsto sôbre a Importação"
       },
       "prev": "18-A",
       "next": "20"
@@ -535,11 +535,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Impostos sôbre o Comércio Exterior",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Impôsto sôbre a Importação"
       },
       "prev": "19",
       "next": "21"
@@ -560,11 +560,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Impostos sôbre o Comércio Exterior",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Impôsto sôbre a Importação"
       },
       "prev": "20",
       "next": "22"
@@ -585,11 +585,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Impostos sôbre o Comércio Exterior",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Impôsto sôbre a Importação"
       },
       "prev": "21",
       "next": "23"
@@ -609,11 +609,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Impostos sôbre o Comércio Exterior",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Impôsto sôbre a Exportação"
       },
       "prev": "22",
       "next": "24"
@@ -634,11 +634,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Impostos sôbre o Comércio Exterior",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Impôsto sôbre a Exportação"
       },
       "prev": "23",
       "next": "25"
@@ -658,11 +658,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Impostos sôbre o Comércio Exterior",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Impôsto sôbre a Exportação"
       },
       "prev": "24",
       "next": "26"
@@ -683,11 +683,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Impostos sôbre o Comércio Exterior",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Impôsto sôbre a Exportação"
       },
       "prev": "25",
       "next": "27"
@@ -708,11 +708,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Impostos sôbre o Comércio Exterior",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Impôsto sôbre a Exportação"
       },
       "prev": "26",
       "next": "28"
@@ -731,11 +731,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Impostos sôbre o Comércio Exterior",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Impôsto sôbre a Exportação"
       },
       "prev": "27",
       "next": "29"
@@ -755,11 +755,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Impostos sôbre o Patrimônio e a Renda",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Impôsto sôbre a Propriedade Territorial Rural"
       },
       "prev": "28",
       "next": "30"
@@ -778,11 +778,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Impostos sôbre o Patrimônio e a Renda",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Impôsto sôbre a Propriedade Territorial Rural"
       },
       "prev": "29",
       "next": "31"
@@ -804,11 +804,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Impostos sôbre o Patrimônio e a Renda",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Impôsto sôbre a Propriedade Territorial Rural"
       },
       "prev": "30",
       "next": "32"
@@ -829,11 +829,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Impostos sôbre o Patrimônio e a Renda",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Impôsto sôbre a Propriedade Predial e Territorial Urbana"
       },
       "prev": "31",
       "next": "33"
@@ -854,11 +854,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Impostos sôbre o Patrimônio e a Renda",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Impôsto sôbre a Propriedade Predial e Territorial Urbana"
       },
       "prev": "32",
       "next": "34"
@@ -879,11 +879,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Impostos sôbre o Patrimônio e a Renda",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Impôsto sôbre a Propriedade Predial e Territorial Urbana"
       },
       "prev": "33",
       "next": "35"
@@ -906,11 +906,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Impostos sôbre o Patrimônio e a Renda",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Do Imposto sobre a Transmissão Inter vivos, por Ato Oneroso, de Bens Imóveis e de Direitos a Eles Relativos"
       },
       "prev": "34",
       "next": "35-A"
@@ -933,11 +933,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Impostos sôbre o Patrimônio e a Renda",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Do Imposto sobre a Transmissão Inter vivos, por Ato Oneroso, de Bens Imóveis e de Direitos a Eles Relativos"
       },
       "prev": "35",
       "next": "36"
@@ -958,11 +958,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Impostos sôbre o Patrimônio e a Renda",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Do Imposto sobre a Transmissão Inter vivos, por Ato Oneroso, de Bens Imóveis e de Direitos a Eles Relativos"
       },
       "prev": "35-A",
       "next": "37"
@@ -985,11 +985,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Impostos sôbre o Patrimônio e a Renda",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Do Imposto sobre a Transmissão Inter vivos, por Ato Oneroso, de Bens Imóveis e de Direitos a Eles Relativos"
       },
       "prev": "36",
       "next": "38"
@@ -1011,11 +1011,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Impostos sôbre o Patrimônio e a Renda",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Do Imposto sobre a Transmissão Inter vivos, por Ato Oneroso, de Bens Imóveis e de Direitos a Eles Relativos"
       },
       "prev": "37",
       "next": "39"
@@ -1038,11 +1038,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Impostos sôbre o Patrimônio e a Renda",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Do Imposto sobre a Transmissão Inter vivos, por Ato Oneroso, de Bens Imóveis e de Direitos a Eles Relativos"
       },
       "prev": "38",
       "next": "40"
@@ -1061,11 +1061,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Impostos sôbre o Patrimônio e a Renda",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Do Imposto sobre a Transmissão Inter vivos, por Ato Oneroso, de Bens Imóveis e de Direitos a Eles Relativos"
       },
       "prev": "39",
       "next": "41"
@@ -1086,11 +1086,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Impostos sôbre o Patrimônio e a Renda",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Do Imposto sobre a Transmissão Inter vivos, por Ato Oneroso, de Bens Imóveis e de Direitos a Eles Relativos"
       },
       "prev": "40",
       "next": "42"
@@ -1112,11 +1112,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Impostos sôbre o Patrimônio e a Renda",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Do Imposto sobre a Transmissão Inter vivos, por Ato Oneroso, de Bens Imóveis e de Direitos a Eles Relativos"
       },
       "prev": "41",
       "next": "43"
@@ -1139,11 +1139,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Impostos sôbre o Patrimônio e a Renda",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Impôsto sôbre a Renda e Proventos de Qualquer Natureza"
       },
       "prev": "42",
       "next": "44"
@@ -1166,11 +1166,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Impostos sôbre o Patrimônio e a Renda",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Impôsto sôbre a Renda e Proventos de Qualquer Natureza"
       },
       "prev": "43",
       "next": "45"
@@ -1191,11 +1191,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Impostos sôbre o Patrimônio e a Renda",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Impôsto sôbre a Renda e Proventos de Qualquer Natureza"
       },
       "prev": "44",
       "next": "46"
@@ -1218,11 +1218,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Impostos sôbre a Produção e a Circulação",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Impôsto sôbre Produtos Industrializados"
       },
       "prev": "45",
       "next": "47"
@@ -1242,11 +1242,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Impostos sôbre a Produção e a Circulação",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Impôsto sôbre Produtos Industrializados"
       },
       "prev": "46",
       "next": "48"
@@ -1267,11 +1267,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Impostos sôbre a Produção e a Circulação",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Impôsto sôbre Produtos Industrializados"
       },
       "prev": "47",
       "next": "49"
@@ -1291,11 +1291,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Impostos sôbre a Produção e a Circulação",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Impôsto sôbre Produtos Industrializados"
       },
       "prev": "48",
       "next": "50"
@@ -1315,11 +1315,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Impostos sôbre a Produção e a Circulação",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Impôsto sôbre Produtos Industrializados"
       },
       "prev": "49",
       "next": "51"
@@ -1340,11 +1340,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Impostos sôbre a Produção e a Circulação",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Impôsto sôbre Produtos Industrializados"
       },
       "prev": "50",
       "next": "63"
@@ -1366,11 +1366,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Impostos sôbre a Produção e a Circulação",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Impôsto sôbre Operações de Crédito, Câmbio e Seguro, e sôbre Operações Relativas a Títulos e Valôres Mobiliários"
       },
       "prev": "51",
       "next": "64"
@@ -1394,11 +1394,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Impostos sôbre a Produção e a Circulação",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Impôsto sôbre Operações de Crédito, Câmbio e Seguro, e sôbre Operações Relativas a Títulos e Valôres Mobiliários"
       },
       "prev": "63",
       "next": "65"
@@ -1420,11 +1420,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Impostos sôbre a Produção e a Circulação",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Impôsto sôbre Operações de Crédito, Câmbio e Seguro, e sôbre Operações Relativas a Títulos e Valôres Mobiliários"
       },
       "prev": "64",
       "next": "66"
@@ -1444,11 +1444,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Impostos sôbre a Produção e a Circulação",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Impôsto sôbre Operações de Crédito, Câmbio e Seguro, e sôbre Operações Relativas a Títulos e Valôres Mobiliários"
       },
       "prev": "65",
       "next": "67"
@@ -1471,11 +1471,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Impostos sôbre a Produção e a Circulação",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Impôsto sôbre Operações de Crédito, Câmbio e Seguro, e sôbre Operações Relativas a Títulos e Valôres Mobiliários"
       },
       "prev": "66",
       "next": "68"
@@ -1498,11 +1498,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Impostos sôbre a Produção e a Circulação",
         "section": "V",
-        "section_name": "Seção V"
+        "section_name": "Impôsto sôbre Serviços de Transportes e Comunicações"
       },
       "prev": "67",
       "next": "69"
@@ -1522,11 +1522,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Impostos sôbre a Produção e a Circulação",
         "section": "V",
-        "section_name": "Seção V"
+        "section_name": "Impôsto sôbre Serviços de Transportes e Comunicações"
       },
       "prev": "68",
       "next": "70"
@@ -1548,11 +1548,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Impostos sôbre a Produção e a Circulação",
         "section": "V",
-        "section_name": "Seção V"
+        "section_name": "Impôsto sôbre Serviços de Transportes e Comunicações"
       },
       "prev": "69",
       "next": "74"
@@ -1575,11 +1575,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V",
+        "chapter_name": "Impostos Especiais",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Impôsto sôbre Operações Relativas a Combustíveis, Lubrificantes, Energia Elétrica e Minerais do País"
       },
       "prev": "70",
       "next": "75"
@@ -1599,11 +1599,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V",
+        "chapter_name": "Impostos Especiais",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Impôsto sôbre Operações Relativas a Combustíveis, Lubrificantes, Energia Elétrica e Minerais do País"
       },
       "prev": "74",
       "next": "76"
@@ -1625,11 +1625,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Impostos",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V",
+        "chapter_name": "Impostos Especiais",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Impostos Extraordinários"
       },
       "prev": "75",
       "next": "77"
@@ -1650,7 +1650,7 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Taxas",
         "chapter": null,
         "chapter_name": null,
         "section": null,
@@ -1677,7 +1677,7 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Taxas",
         "chapter": null,
         "chapter_name": null,
         "section": null,
@@ -1702,7 +1702,7 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Taxas",
         "chapter": null,
         "chapter_name": null,
         "section": null,
@@ -1728,7 +1728,7 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Taxas",
         "chapter": null,
         "chapter_name": null,
         "section": null,
@@ -1753,7 +1753,7 @@
       ],
       "hierarchy": {
         "title": "V",
-        "title_name": "TÍTULO V",
+        "title_name": "Contribuição de Melhoria",
         "chapter": null,
         "chapter_name": null,
         "section": null,
@@ -1778,7 +1778,7 @@
       ],
       "hierarchy": {
         "title": "V",
-        "title_name": "TÍTULO V",
+        "title_name": "Contribuição de Melhoria",
         "chapter": null,
         "chapter_name": null,
         "section": null,
@@ -1831,9 +1831,9 @@
       ],
       "hierarchy": {
         "title": "VI",
-        "title_name": "TÍTULO VI",
+        "title_name": "Distribuições de Receitas Tributárias",
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "Disposições Gerais",
         "section": null,
         "section_name": null
       },
@@ -1856,9 +1856,9 @@
       ],
       "hierarchy": {
         "title": "VI",
-        "title_name": "TÍTULO VI",
+        "title_name": "Distribuições de Receitas Tributárias",
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "Disposições Gerais",
         "section": null,
         "section_name": null
       },
@@ -1881,9 +1881,9 @@
       ],
       "hierarchy": {
         "title": "VI",
-        "title_name": "TÍTULO VI",
+        "title_name": "Distribuições de Receitas Tributárias",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Impôsto sôbre a Propriedade Territorial Rural e sobre a Renda e Proventos de qualquer natureza",
         "section": null,
         "section_name": null
       },
@@ -1897,11 +1897,11 @@
       "keywords": [],
       "hierarchy": {
         "title": "VI",
-        "title_name": "TÍTULO VI",
+        "title_name": "Distribuições de Receitas Tributárias",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Fundos de Participação dos Estados e dos Municípios",
         "section": "I",
-        "section_name": "Seção I Constituição dos Fundos"
+        "section_name": "Constituição dos Fundos"
       },
       "prev": "85",
       "next": "88"
@@ -1913,11 +1913,11 @@
       "keywords": [],
       "hierarchy": {
         "title": "VI",
-        "title_name": "TÍTULO VI",
+        "title_name": "Distribuições de Receitas Tributárias",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Fundos de Participação dos Estados e dos Municípios",
         "section": "II",
-        "section_name": "Seção II Critério de Distribuição do Fundo de Participação dos Estados"
+        "section_name": "Critério de Distribuição do Fundo de Participação dos Estados"
       },
       "prev": "86",
       "next": "90"
@@ -1941,11 +1941,11 @@
       ],
       "hierarchy": {
         "title": "VI",
-        "title_name": "TÍTULO VI",
+        "title_name": "Distribuições de Receitas Tributárias",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Fundos de Participação dos Estados e dos Municípios",
         "section": "II",
-        "section_name": "Seção II Critério de Distribuição do Fundo de Participação dos Estados"
+        "section_name": "Critério de Distribuição do Fundo de Participação dos Estados"
       },
       "prev": "88",
       "next": "91"
@@ -1965,11 +1965,11 @@
       ],
       "hierarchy": {
         "title": "VI",
-        "title_name": "TÍTULO VI",
+        "title_name": "Distribuições de Receitas Tributárias",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Fundos de Participação dos Estados e dos Municípios",
         "section": "III",
-        "section_name": "SEÇÃO III"
+        "section_name": "Critério de Distribuição do Fundo de Participação dos Municípios"
       },
       "prev": "90",
       "next": "92"
@@ -1991,11 +1991,11 @@
       ],
       "hierarchy": {
         "title": "VI",
-        "title_name": "TÍTULO VI",
+        "title_name": "Distribuições de Receitas Tributárias",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Fundos de Participação dos Estados e dos Municípios",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Cálculo e Pagamento das Quotas Estaduais e Municipais"
       },
       "prev": "91",
       "next": "93"
@@ -2007,11 +2007,11 @@
       "keywords": [],
       "hierarchy": {
         "title": "VI",
-        "title_name": "TÍTULO VI",
+        "title_name": "Distribuições de Receitas Tributárias",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Fundos de Participação dos Estados e dos Municípios",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Cálculo e Pagamento das Quotas Estaduais e Municipais"
       },
       "prev": "92",
       "next": "94"
@@ -2023,11 +2023,11 @@
       "keywords": [],
       "hierarchy": {
         "title": "VI",
-        "title_name": "TÍTULO VI",
+        "title_name": "Distribuições de Receitas Tributárias",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Fundos de Participação dos Estados e dos Municípios",
         "section": "V",
-        "section_name": "Seção V Comprovação da Aplicação das Quotas Estaduais e Municipais"
+        "section_name": "Comprovação da Aplicação das Quotas Estaduais e Municipais"
       },
       "prev": "93",
       "next": "95"
@@ -2039,9 +2039,9 @@
       "keywords": [],
       "hierarchy": {
         "title": "VI",
-        "title_name": "TÍTULO VI",
+        "title_name": "Distribuições de Receitas Tributárias",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV Impôsto sôbre Operações Relativas a Combustíveis, Lubrificantes, Energia Elétrica e Minerais do País",
+        "chapter_name": "Impôsto sôbre Operações Relativas a Combustíveis, Lubrificantes, Energia Elétrica e Minerais do País",
         "section": null,
         "section_name": null
       },
@@ -2065,11 +2065,11 @@
       ],
       "hierarchy": {
         "title": "I",
-        "title_name": "TÍTULO I",
+        "title_name": "Legislação Tributária",
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "Disposições Gerais",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Disposição Preliminar"
       },
       "prev": "95",
       "next": "97"
@@ -2092,11 +2092,11 @@
       ],
       "hierarchy": {
         "title": "I",
-        "title_name": "TÍTULO I",
+        "title_name": "Legislação Tributária",
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "Disposições Gerais",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Leis, Tratados e Convenções Internacionais e Decretos"
       },
       "prev": "96",
       "next": "98"
@@ -2117,11 +2117,11 @@
       ],
       "hierarchy": {
         "title": "I",
-        "title_name": "TÍTULO I",
+        "title_name": "Legislação Tributária",
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "Disposições Gerais",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Leis, Tratados e Convenções Internacionais e Decretos"
       },
       "prev": "97",
       "next": "99"
@@ -2142,11 +2142,11 @@
       ],
       "hierarchy": {
         "title": "I",
-        "title_name": "TÍTULO I",
+        "title_name": "Legislação Tributária",
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "Disposições Gerais",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Leis, Tratados e Convenções Internacionais e Decretos"
       },
       "prev": "98",
       "next": "100"
@@ -2168,11 +2168,11 @@
       ],
       "hierarchy": {
         "title": "I",
-        "title_name": "TÍTULO I",
+        "title_name": "Legislação Tributária",
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "Disposições Gerais",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Normas Complementares"
       },
       "prev": "99",
       "next": "101"
@@ -2192,9 +2192,9 @@
       ],
       "hierarchy": {
         "title": "I",
-        "title_name": "TÍTULO I",
+        "title_name": "Legislação Tributária",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Vigência da Legislação Tributária",
         "section": null,
         "section_name": null
       },
@@ -2216,9 +2216,9 @@
       ],
       "hierarchy": {
         "title": "I",
-        "title_name": "TÍTULO I",
+        "title_name": "Legislação Tributária",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Vigência da Legislação Tributária",
         "section": null,
         "section_name": null
       },
@@ -2241,9 +2241,9 @@
       ],
       "hierarchy": {
         "title": "I",
-        "title_name": "TÍTULO I",
+        "title_name": "Legislação Tributária",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Vigência da Legislação Tributária",
         "section": null,
         "section_name": null
       },
@@ -2267,9 +2267,9 @@
       ],
       "hierarchy": {
         "title": "I",
-        "title_name": "TÍTULO I",
+        "title_name": "Legislação Tributária",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Vigência da Legislação Tributária",
         "section": null,
         "section_name": null
       },
@@ -2290,9 +2290,9 @@
       ],
       "hierarchy": {
         "title": "I",
-        "title_name": "TÍTULO I",
+        "title_name": "Legislação Tributária",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Aplicação da Legislação Tributária",
         "section": null,
         "section_name": null
       },
@@ -2317,9 +2317,9 @@
       ],
       "hierarchy": {
         "title": "I",
-        "title_name": "TÍTULO I",
+        "title_name": "Legislação Tributária",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Aplicação da Legislação Tributária",
         "section": null,
         "section_name": null
       },
@@ -2343,9 +2343,9 @@
       ],
       "hierarchy": {
         "title": "I",
-        "title_name": "TÍTULO I",
+        "title_name": "Legislação Tributária",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Interpretação e Integração da Legislação Tributária",
         "section": null,
         "section_name": null
       },
@@ -2370,9 +2370,9 @@
       ],
       "hierarchy": {
         "title": "I",
-        "title_name": "TÍTULO I",
+        "title_name": "Legislação Tributária",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Interpretação e Integração da Legislação Tributária",
         "section": null,
         "section_name": null
       },
@@ -2394,9 +2394,9 @@
       ],
       "hierarchy": {
         "title": "I",
-        "title_name": "TÍTULO I",
+        "title_name": "Legislação Tributária",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Interpretação e Integração da Legislação Tributária",
         "section": null,
         "section_name": null
       },
@@ -2419,9 +2419,9 @@
       ],
       "hierarchy": {
         "title": "I",
-        "title_name": "TÍTULO I",
+        "title_name": "Legislação Tributária",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Interpretação e Integração da Legislação Tributária",
         "section": null,
         "section_name": null
       },
@@ -2445,9 +2445,9 @@
       ],
       "hierarchy": {
         "title": "I",
-        "title_name": "TÍTULO I",
+        "title_name": "Legislação Tributária",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Interpretação e Integração da Legislação Tributária",
         "section": null,
         "section_name": null
       },
@@ -2472,9 +2472,9 @@
       ],
       "hierarchy": {
         "title": "I",
-        "title_name": "TÍTULO I",
+        "title_name": "Legislação Tributária",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Interpretação e Integração da Legislação Tributária",
         "section": null,
         "section_name": null
       },
@@ -2498,9 +2498,9 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "Disposições Gerais",
         "section": null,
         "section_name": null
       },
@@ -2524,9 +2524,9 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Fato Gerador",
         "section": null,
         "section_name": null
       },
@@ -2548,9 +2548,9 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Fato Gerador",
         "section": null,
         "section_name": null
       },
@@ -2574,9 +2574,9 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Fato Gerador",
         "section": null,
         "section_name": null
       },
@@ -2598,9 +2598,9 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Fato Gerador",
         "section": null,
         "section_name": null
       },
@@ -2622,9 +2622,9 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Fato Gerador",
         "section": null,
         "section_name": null
       },
@@ -2646,9 +2646,9 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Sujeito Ativo",
         "section": null,
         "section_name": null
       },
@@ -2671,9 +2671,9 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Sujeito Ativo",
         "section": null,
         "section_name": null
       },
@@ -2697,11 +2697,11 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Sujeito Passivo",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Disposições Gerais"
       },
       "prev": "120",
       "next": "122"
@@ -2722,11 +2722,11 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Sujeito Passivo",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Disposições Gerais"
       },
       "prev": "121",
       "next": "123"
@@ -2747,11 +2747,11 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Sujeito Passivo",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Disposições Gerais"
       },
       "prev": "122",
       "next": "124"
@@ -2772,11 +2772,11 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Sujeito Passivo",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Solidariedade"
       },
       "prev": "123",
       "next": "125"
@@ -2796,11 +2796,11 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Sujeito Passivo",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Solidariedade"
       },
       "prev": "124",
       "next": "126"
@@ -2822,11 +2822,11 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Sujeito Passivo",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Capacidade Tributária"
       },
       "prev": "125",
       "next": "127"
@@ -2848,11 +2848,11 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Sujeito Passivo",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Domicílio Tributário"
       },
       "prev": "126",
       "next": "128"
@@ -2874,11 +2874,11 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V",
+        "chapter_name": "Responsabilidade Tributária",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Disposição Geral"
       },
       "prev": "127",
       "next": "129"
@@ -2900,11 +2900,11 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V",
+        "chapter_name": "Responsabilidade Tributária",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Responsabilidade dos Sucessores"
       },
       "prev": "128",
       "next": "130"
@@ -2926,11 +2926,11 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V",
+        "chapter_name": "Responsabilidade Tributária",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Responsabilidade dos Sucessores"
       },
       "prev": "129",
       "next": "131"
@@ -2951,11 +2951,11 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V",
+        "chapter_name": "Responsabilidade Tributária",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Responsabilidade dos Sucessores"
       },
       "prev": "130",
       "next": "132"
@@ -2978,11 +2978,11 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V",
+        "chapter_name": "Responsabilidade Tributária",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Responsabilidade dos Sucessores"
       },
       "prev": "131",
       "next": "133"
@@ -3005,11 +3005,11 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V",
+        "chapter_name": "Responsabilidade Tributária",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Responsabilidade dos Sucessores"
       },
       "prev": "132",
       "next": "134"
@@ -3032,11 +3032,11 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V",
+        "chapter_name": "Responsabilidade Tributária",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Responsabilidade de Terceiros"
       },
       "prev": "133",
       "next": "135"
@@ -3058,11 +3058,11 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V",
+        "chapter_name": "Responsabilidade Tributária",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Responsabilidade de Terceiros"
       },
       "prev": "134",
       "next": "136"
@@ -3084,11 +3084,11 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V",
+        "chapter_name": "Responsabilidade Tributária",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Responsabilidade por Infrações"
       },
       "prev": "135",
       "next": "137"
@@ -3110,11 +3110,11 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V",
+        "chapter_name": "Responsabilidade Tributária",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Responsabilidade por Infrações"
       },
       "prev": "136",
       "next": "138"
@@ -3135,11 +3135,11 @@
       ],
       "hierarchy": {
         "title": "II",
-        "title_name": "TÍTULO II",
+        "title_name": "Obrigação Tributária",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V",
+        "chapter_name": "Responsabilidade Tributária",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Responsabilidade por Infrações"
       },
       "prev": "137",
       "next": "139"
@@ -3160,9 +3160,9 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "Disposições Gerais",
         "section": null,
         "section_name": null
       },
@@ -3185,9 +3185,9 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "Disposições Gerais",
         "section": null,
         "section_name": null
       },
@@ -3211,9 +3211,9 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "Disposições Gerais",
         "section": null,
         "section_name": null
       },
@@ -3236,11 +3236,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Constituição do Crédito Tributário",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Lançamento"
       },
       "prev": "141",
       "next": "143"
@@ -3260,11 +3260,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Constituição do Crédito Tributário",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Lançamento"
       },
       "prev": "142",
       "next": "144"
@@ -3287,11 +3287,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Constituição do Crédito Tributário",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Lançamento"
       },
       "prev": "143",
       "next": "145"
@@ -3314,11 +3314,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Constituição do Crédito Tributário",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Lançamento"
       },
       "prev": "144",
       "next": "146"
@@ -3339,11 +3339,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Constituição do Crédito Tributário",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Lançamento"
       },
       "prev": "145",
       "next": "147"
@@ -3365,11 +3365,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Constituição do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Modalidades de Lançamento"
       },
       "prev": "146",
       "next": "148"
@@ -3391,11 +3391,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Constituição do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Modalidades de Lançamento"
       },
       "prev": "147",
       "next": "149"
@@ -3418,11 +3418,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Constituição do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Modalidades de Lançamento"
       },
       "prev": "148",
       "next": "150"
@@ -3444,11 +3444,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Constituição do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Modalidades de Lançamento"
       },
       "prev": "149",
       "next": "151"
@@ -3471,11 +3471,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Suspensão do Crédito Tributário",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Disposições Gerais"
       },
       "prev": "150",
       "next": "152"
@@ -3498,11 +3498,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Suspensão do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Moratória"
       },
       "prev": "151",
       "next": "153"
@@ -3525,11 +3525,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Suspensão do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Moratória"
       },
       "prev": "152",
       "next": "154"
@@ -3551,11 +3551,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Suspensão do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Moratória"
       },
       "prev": "153",
       "next": "155"
@@ -3576,11 +3576,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Suspensão do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Moratória"
       },
       "prev": "154",
       "next": "155-A"
@@ -3602,11 +3602,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Suspensão do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Moratória"
       },
       "prev": "155",
       "next": "156"
@@ -3630,11 +3630,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Extinção do Crédito Tributário",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Modalidades de Extinção"
       },
       "prev": "155-A",
       "next": "157"
@@ -3657,11 +3657,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Extinção do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Pagamento"
       },
       "prev": "156",
       "next": "158"
@@ -3681,11 +3681,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Extinção do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Pagamento"
       },
       "prev": "157",
       "next": "159"
@@ -3707,11 +3707,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Extinção do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Pagamento"
       },
       "prev": "158",
       "next": "160"
@@ -3729,11 +3729,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Extinção do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Pagamento"
       },
       "prev": "159",
       "next": "161"
@@ -3756,11 +3756,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Extinção do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Pagamento"
       },
       "prev": "160",
       "next": "162"
@@ -3783,11 +3783,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Extinção do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Pagamento"
       },
       "prev": "161",
       "next": "163"
@@ -3810,11 +3810,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Extinção do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Pagamento"
       },
       "prev": "162",
       "next": "164"
@@ -3836,11 +3836,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Extinção do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Pagamento"
       },
       "prev": "163",
       "next": "165"
@@ -3862,11 +3862,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Extinção do Crédito Tributário",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Pagamento Indevido"
       },
       "prev": "164",
       "next": "166"
@@ -3886,11 +3886,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Extinção do Crédito Tributário",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Pagamento Indevido"
       },
       "prev": "165",
       "next": "167"
@@ -3910,11 +3910,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Extinção do Crédito Tributário",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Pagamento Indevido"
       },
       "prev": "166",
       "next": "168"
@@ -3936,11 +3936,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Extinção do Crédito Tributário",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Pagamento Indevido"
       },
       "prev": "167",
       "next": "169"
@@ -3962,11 +3962,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Extinção do Crédito Tributário",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Pagamento Indevido"
       },
       "prev": "168",
       "next": "170"
@@ -3988,11 +3988,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Extinção do Crédito Tributário",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Demais Modalidades de Extinção"
       },
       "prev": "169",
       "next": "170-A"
@@ -4014,11 +4014,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Extinção do Crédito Tributário",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Demais Modalidades de Extinção"
       },
       "prev": "170",
       "next": "171"
@@ -4039,11 +4039,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Extinção do Crédito Tributário",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Demais Modalidades de Extinção"
       },
       "prev": "170-A",
       "next": "172"
@@ -4066,11 +4066,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Extinção do Crédito Tributário",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Demais Modalidades de Extinção"
       },
       "prev": "171",
       "next": "173"
@@ -4093,11 +4093,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Extinção do Crédito Tributário",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Demais Modalidades de Extinção"
       },
       "prev": "172",
       "next": "174"
@@ -4120,11 +4120,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "IV",
-        "chapter_name": "CAPÍTULO IV",
+        "chapter_name": "Extinção do Crédito Tributário",
         "section": "IV",
-        "section_name": "Seção IV"
+        "section_name": "Demais Modalidades de Extinção"
       },
       "prev": "173",
       "next": "175"
@@ -4145,11 +4145,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V",
+        "chapter_name": "Exclusão de Crédito Tributário",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Disposições Gerais"
       },
       "prev": "174",
       "next": "176"
@@ -4170,11 +4170,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V",
+        "chapter_name": "Exclusão de Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Isenção"
       },
       "prev": "175",
       "next": "177"
@@ -4195,11 +4195,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V",
+        "chapter_name": "Exclusão de Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Isenção"
       },
       "prev": "176",
       "next": "178"
@@ -4220,11 +4220,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V",
+        "chapter_name": "Exclusão de Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Isenção"
       },
       "prev": "177",
       "next": "179"
@@ -4245,11 +4245,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V",
+        "chapter_name": "Exclusão de Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Isenção"
       },
       "prev": "178",
       "next": "180"
@@ -4270,11 +4270,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V",
+        "chapter_name": "Exclusão de Crédito Tributário",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Anistia"
       },
       "prev": "179",
       "next": "181"
@@ -4296,11 +4296,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V",
+        "chapter_name": "Exclusão de Crédito Tributário",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Anistia"
       },
       "prev": "180",
       "next": "182"
@@ -4321,11 +4321,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "V",
-        "chapter_name": "CAPÍTULO V",
+        "chapter_name": "Exclusão de Crédito Tributário",
         "section": "III",
-        "section_name": "Seção III"
+        "section_name": "Anistia"
       },
       "prev": "181",
       "next": "183"
@@ -4347,11 +4347,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI",
+        "chapter_name": "Garantias e Privilégios do Crédito Tributário",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Disposições Gerais"
       },
       "prev": "182",
       "next": "184"
@@ -4374,11 +4374,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI",
+        "chapter_name": "Garantias e Privilégios do Crédito Tributário",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Disposições Gerais"
       },
       "prev": "183",
       "next": "185"
@@ -4401,11 +4401,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI",
+        "chapter_name": "Garantias e Privilégios do Crédito Tributário",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Disposições Gerais"
       },
       "prev": "184",
       "next": "185-A"
@@ -4428,11 +4428,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI",
+        "chapter_name": "Garantias e Privilégios do Crédito Tributário",
         "section": "I",
-        "section_name": "Seção I"
+        "section_name": "Disposições Gerais"
       },
       "prev": "185",
       "next": "186"
@@ -4456,11 +4456,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI",
+        "chapter_name": "Garantias e Privilégios do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Preferências"
       },
       "prev": "185-A",
       "next": "187"
@@ -4484,11 +4484,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI",
+        "chapter_name": "Garantias e Privilégios do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Preferências"
       },
       "prev": "186",
       "next": "188"
@@ -4511,11 +4511,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI",
+        "chapter_name": "Garantias e Privilégios do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Preferências"
       },
       "prev": "187",
       "next": "189"
@@ -4538,11 +4538,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI",
+        "chapter_name": "Garantias e Privilégios do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Preferências"
       },
       "prev": "188",
       "next": "190"
@@ -4564,11 +4564,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI",
+        "chapter_name": "Garantias e Privilégios do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Preferências"
       },
       "prev": "189",
       "next": "191"
@@ -4588,11 +4588,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI",
+        "chapter_name": "Garantias e Privilégios do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Preferências"
       },
       "prev": "190",
       "next": "191-A"
@@ -4613,11 +4613,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI",
+        "chapter_name": "Garantias e Privilégios do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Preferências"
       },
       "prev": "191",
       "next": "192"
@@ -4638,11 +4638,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI",
+        "chapter_name": "Garantias e Privilégios do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Preferências"
       },
       "prev": "191-A",
       "next": "193"
@@ -4665,11 +4665,11 @@
       ],
       "hierarchy": {
         "title": "III",
-        "title_name": "TÍTULO III",
+        "title_name": "Crédito Tributário",
         "chapter": "VI",
-        "chapter_name": "CAPÍTULO VI",
+        "chapter_name": "Garantias e Privilégios do Crédito Tributário",
         "section": "II",
-        "section_name": "Seção II"
+        "section_name": "Preferências"
       },
       "prev": "192",
       "next": "194"
@@ -4692,9 +4692,9 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Administração Tributária",
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "Fiscalização",
         "section": null,
         "section_name": null
       },
@@ -4718,9 +4718,9 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Administração Tributária",
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "Fiscalização",
         "section": null,
         "section_name": null
       },
@@ -4743,9 +4743,9 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Administração Tributária",
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "Fiscalização",
         "section": null,
         "section_name": null
       },
@@ -4770,9 +4770,9 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Administração Tributária",
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "Fiscalização",
         "section": null,
         "section_name": null
       },
@@ -4796,9 +4796,9 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Administração Tributária",
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "Fiscalização",
         "section": null,
         "section_name": null
       },
@@ -4823,9 +4823,9 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Administração Tributária",
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "Fiscalização",
         "section": null,
         "section_name": null
       },
@@ -4848,9 +4848,9 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Administração Tributária",
         "chapter": "I",
-        "chapter_name": "CAPÍTULO I",
+        "chapter_name": "Fiscalização",
         "section": null,
         "section_name": null
       },
@@ -4873,9 +4873,9 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Administração Tributária",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Dívida Ativa",
         "section": null,
         "section_name": null
       },
@@ -4898,9 +4898,9 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Administração Tributária",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Dívida Ativa",
         "section": null,
         "section_name": null
       },
@@ -4923,9 +4923,9 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Administração Tributária",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Dívida Ativa",
         "section": null,
         "section_name": null
       },
@@ -4948,9 +4948,9 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Administração Tributária",
         "chapter": "II",
-        "chapter_name": "CAPÍTULO II",
+        "chapter_name": "Dívida Ativa",
         "section": null,
         "section_name": null
       },
@@ -4975,9 +4975,9 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Administração Tributária",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Certidões Negativas",
         "section": null,
         "section_name": null
       },
@@ -4999,9 +4999,9 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Administração Tributária",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Certidões Negativas",
         "section": null,
         "section_name": null
       },
@@ -5023,9 +5023,9 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Administração Tributária",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Certidões Negativas",
         "section": null,
         "section_name": null
       },
@@ -5047,9 +5047,9 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Administração Tributária",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Certidões Negativas",
         "section": null,
         "section_name": null
       },
@@ -5072,9 +5072,9 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Administração Tributária",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Certidões Negativas",
         "section": null,
         "section_name": null
       },
@@ -5096,9 +5096,9 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Administração Tributária",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Certidões Negativas",
         "section": null,
         "section_name": null
       },
@@ -5121,9 +5121,9 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Administração Tributária",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Certidões Negativas",
         "section": null,
         "section_name": null
       },
@@ -5146,9 +5146,9 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Administração Tributária",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Certidões Negativas",
         "section": null,
         "section_name": null
       },
@@ -5171,9 +5171,9 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Administração Tributária",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Certidões Negativas",
         "section": null,
         "section_name": null
       },
@@ -5196,9 +5196,9 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Administração Tributária",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Certidões Negativas",
         "section": null,
         "section_name": null
       },
@@ -5220,9 +5220,9 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Administração Tributária",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Certidões Negativas",
         "section": null,
         "section_name": null
       },
@@ -5243,9 +5243,9 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Administração Tributária",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Certidões Negativas",
         "section": null,
         "section_name": null
       },
@@ -5268,9 +5268,9 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Administração Tributária",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Certidões Negativas",
         "section": null,
         "section_name": null
       },
@@ -5292,9 +5292,9 @@
       ],
       "hierarchy": {
         "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title_name": "Administração Tributária",
         "chapter": "III",
-        "chapter_name": "CAPÍTULO III",
+        "chapter_name": "Certidões Negativas",
         "section": null,
         "section_name": null
       },

@@ -100,6 +100,11 @@ def texto_normalizado(valor: str) -> str:
 
 def decodificar_html(path: Path) -> str:
     bruto = path.read_bytes()
+    if bruto.startswith((b"\xff\xfe", b"\xfe\xff")):
+        # O Planalto publica algumas páginas em UTF-16 com BOM (ex.: Lei
+        # 11.340/2006); o BOM prevalece sobre o charset declarado no HTML.
+        # Um byte solto ao final (fora do fluxo de pares UTF-16) é descartado.
+        return bruto[: len(bruto) - (len(bruto) % 2)].decode("utf-16")
     inicio = bruto[:4096].decode("ascii", errors="ignore")
     charset = re.search(r"charset\s*=\s*[\"']?([\w-]+)", inicio, re.IGNORECASE)
     candidatos = [charset.group(1)] if charset else []
@@ -503,6 +508,39 @@ def fragmento_texto(texto: str) -> str:
     return quote(" ".join(palavras[:22]), safe="")
 
 
+def rotulo_inicial_em_link(no: Elemento) -> bool:
+    """Verifica se o primeiro texto do parágrafo está dentro de um ``<a href>``.
+
+    Quando uma lei insere dispositivos em outro diploma, a página compilada do
+    Planalto apresenta o texto inserido com o rótulo "Art. N" apontando para a
+    página do diploma alterado (ex.: "Art. 337-E" na Lei 14.133 liga a
+    Del2848.htm, o Código Penal). O dispositivo pertence ao diploma alterado e
+    não deve virar artigo da lei que o insere. Artigos próprios usam âncora
+    ``<a name=...>``, sem ``href``.
+    """
+
+    def primeiro_dono_de_texto(item: Elemento) -> Elemento | None:
+        if item.tag in {"script", "style", "noscript"}:
+            return None
+        for filho in item.filhos:
+            if isinstance(filho, str):
+                if texto_normalizado(filho):
+                    return item
+            else:
+                dono = primeiro_dono_de_texto(filho)
+                if dono is not None:
+                    return dono
+        return None
+
+    dono = primeiro_dono_de_texto(no)
+    atual: Elemento | None = dono
+    while atual is not None and atual is not no.pai:
+        if atual.tag == "a" and atual.atributos.get("href"):
+            return True
+        atual = atual.pai
+    return False
+
+
 def transformar_legislacao(
     config: dict[str, Any], bruto: Path, publicados: Path, candidatos: Path
 ) -> list[Path]:
@@ -570,6 +608,13 @@ def transformar_legislacao(
 
             artigo_match = ARTIGO.match(simples)
             if not artigo_match:
+                continue
+            if not tem_ancestral_riscado(paragrafo) and rotulo_inicial_em_link(
+                paragrafo
+            ):
+                # Dispositivo citado de outra norma (rótulo com href): não é
+                # artigo desta lei. Parágrafos riscados ficam de fora da regra
+                # para não perder artigos revogados retidos.
                 continue
             numero = numero_artigo(artigo_match)
             blocos = [simples]

@@ -247,6 +247,58 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
                     )
             self.assertFalse(destino.exists())
 
+    def test_decodifica_html_utf16_com_bom(self) -> None:
+        html = "<html><body><p>Art. 1º A proteção começa aqui.</p></body></html>"
+        with tempfile.TemporaryDirectory() as temp:
+            for encoding in ("utf-16-le", "utf-16-be"):
+                path = Path(temp) / f"{encoding}.html"
+                bom = b"\xff\xfe" if encoding == "utf-16-le" else b"\xfe\xff"
+                path.write_bytes(bom + html.encode(encoding))
+                self.assertEqual(pipeline.decodificar_html(path), html)
+            # Byte solto ao final, observado na página da Lei 11.340/2006.
+            impar = Path(temp) / "impar.html"
+            impar.write_bytes(b"\xff\xfe" + html.encode("utf-16-le") + b" ")
+            self.assertEqual(pipeline.decodificar_html(impar), html)
+
+    def test_transformacao_ignora_artigo_citado_de_outra_norma(self) -> None:
+        # Padrão da Lei 14.133: o art. 178 insere dispositivos no Código
+        # Penal e a página cita o texto inserido com o rótulo apontando
+        # (href) para Del2848.htm. O dispositivo citado não pertence à lei.
+        html = """
+        <html><body>
+        <p><a name="art1"></a>Art. 1º Artigo próprio da lei.</p>
+        <p>Art. 2º O Código passa a vigorar acrescido do seguinte artigo:</p>
+        <p><a href="Del2848.htm#art337e">Art. 337-E</a>. Texto inserido no
+        outro diploma.</p>
+        <p><a name="art3"></a>Art. 3º Esta Lei entra em vigor.</p>
+        </body></html>
+        """
+        config = {
+            "fontes": [
+                {
+                    "codigo": "XX",
+                    "url": "https://www.planalto.gov.br/teste",
+                    "arquivo_bruto": "xx.html",
+                    "destino": "lei_xx.json",
+                }
+            ]
+        }
+        with tempfile.TemporaryDirectory() as temp:
+            raiz = Path(temp)
+            bruto = raiz / "bruto"
+            publicados = raiz / "publicados"
+            bruto.mkdir()
+            publicados.mkdir()
+            (bruto / "xx.html").write_text(html, encoding="utf-8")
+            (publicados / "lei_xx.json").write_text(
+                json.dumps({"_meta": {}, "artigos": {}}), encoding="utf-8"
+            )
+            [saida] = pipeline.transformar_legislacao(
+                config, bruto, publicados, raiz / "candidatos"
+            )
+            objeto = json.loads(saida.read_text())
+        self.assertEqual(set(objeto["artigos"]), {"1", "2", "3"})
+
     def test_transforma_legislacao_sem_remover_registro_nao_reencontrado(self) -> None:
         html = """
         <html><body><p>TÍTULO I</p><p>Art. 1º Texto atualizado.</p>

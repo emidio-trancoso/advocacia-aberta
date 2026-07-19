@@ -1,0 +1,927 @@
+{
+  "_meta": {
+    "codigo": "LMP",
+    "nome": "Lei Maria da Penha",
+    "lei": "Lei 11.340/2006",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm",
+    "total_artigos": 57,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Esta Lei cria mecanismos para coibir e prevenir a violência doméstica e familiar contra a mulher, nos termos do § 8º do art. 226 da Constituição Federal, da Convenção sobre a Eliminação de Todas as Formas de Violência contra a Mulher, da Convenção Interamericana para Prevenir, Punir e Erradicar a Violência contra a Mulher e de outros tratados internacionais ratificados pela República Federativa do Brasil; dispõe sobre a criação dos Juizados de Violência Doméstica e Familiar contra a Mulher; e estabelece medidas de assistência e proteção às mulheres em situação de violência doméstica e familiar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%201%C2%BA%20Esta%20Lei%20cria%20mecanismos%20para%20coibir%20e%20prevenir%20a%20viol%C3%AAncia%20dom%C3%A9stica%20e%20familiar%20contra%20a%20mulher%2C%20nos%20termos%20do%20%C2%A7",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Toda mulher, independentemente de classe, raça, etnia, orientação sexual, renda, cultura, nível educacional, idade e religião, goza dos direitos fundamentais inerentes à pessoa humana, sendo-lhe asseguradas as oportunidades e facilidades para viver sem violência, preservar sua saúde física e mental e seu aperfeiçoamento moral, intelectual e social.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%202%C2%BA%20Toda%20mulher%2C%20independentemente%20de%20classe%2C%20ra%C3%A7a%2C%20etnia%2C%20orienta%C3%A7%C3%A3o%20sexual%2C%20renda%2C%20cultura%2C%20n%C3%ADvel%20educacional%2C%20idade%20e%20religi%C3%A3o%2C%20goza%20dos%20direitos%20fundamentais",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Serão asseguradas às mulheres as condições para o exercício efetivo dos direitos à vida, à segurança, à saúde, à alimentação, à educação, à cultura, à moradia, ao acesso à justiça, ao esporte, ao lazer, ao trabalho, à cidadania, à liberdade, à dignidade, ao respeito e à convivência familiar e comunitária.\n\n§ 1º O poder público desenvolverá políticas que visem garantir os direitos humanos das mulheres no âmbito das relações domésticas e familiares no sentido de resguardá-las de toda forma de negligência, discriminação, exploração, violência, crueldade e opressão.\n\n§ 2º Cabe à família, à sociedade e ao poder público criar as condições necessárias para o efetivo exercício dos direitos enunciados no caput.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%203%C2%BA%20Ser%C3%A3o%20asseguradas%20%C3%A0s%20mulheres%20as%20condi%C3%A7%C3%B5es%20para%20o%20exerc%C3%ADcio%20efetivo%20dos%20direitos%20%C3%A0%20vida%2C%20%C3%A0%20seguran%C3%A7a%2C%20%C3%A0%20sa%C3%BAde%2C%20%C3%A0%20alimenta%C3%A7%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Na interpretação desta Lei, serão considerados os fins sociais a que ela se destina e, especialmente, as condições peculiares das mulheres em situação de violência doméstica e familiar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%204%C2%BA%20Na%20interpreta%C3%A7%C3%A3o%20desta%20Lei%2C%20ser%C3%A3o%20considerados%20os%20fins%20sociais%20a%20que%20ela%20se%20destina%20e%2C%20especialmente%2C%20as%20condi%C3%A7%C3%B5es%20peculiares%20das",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Para os efeitos desta Lei, configura violência doméstica e familiar contra a mulher qualquer ação ou omissão baseada no gênero que lhe cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral ou patrimonial: (Vide Lei complementar nº 150, de 2015)\n\nI - no âmbito da unidade doméstica, compreendida como o espaço de convívio permanente de pessoas, com ou sem vínculo familiar, inclusive as esporadicamente agregadas;\n\nII - no âmbito da família, compreendida como a comunidade formada por indivíduos que são ou se consideram aparentados, unidos por laços naturais, por afinidade ou por vontade expressa;\n\nIII - em qualquer relação íntima de afeto, na qual o agressor conviva ou tenha convivido com a ofendida, independentemente de coabitação.\n\nParágrafo único. As relações pessoais enunciadas neste artigo independem de orientação sexual.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%205%C2%BA%20Para%20os%20efeitos%20desta%20Lei%2C%20configura%20viol%C3%AAncia%20dom%C3%A9stica%20e%20familiar%20contra%20a%20mulher%20qualquer%20a%C3%A7%C3%A3o%20ou%20omiss%C3%A3o%20baseada%20no%20g%C3%AAnero",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º A violência doméstica e familiar contra a mulher constitui uma das formas de violação dos direitos humanos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%206%C2%BA%20A%20viol%C3%AAncia%20dom%C3%A9stica%20e%20familiar%20contra%20a%20mulher%20constitui%20uma%20das%20formas%20de%20viola%C3%A7%C3%A3o%20dos%20direitos%20humanos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º São formas de violência doméstica e familiar contra a mulher, entre outras:\n\nI - a violência física, entendida como qualquer conduta que ofenda sua integridade ou saúde corporal;\n\nII - a violência psicológica, entendida como qualquer conduta que lhe cause dano emocional e diminuição da auto-estima ou que lhe prejudique e perturbe o pleno desenvolvimento ou que vise degradar ou controlar suas ações, comportamentos, crenças e decisões, mediante ameaça, constrangimento, humilhação, manipulação, isolamento, vigilância constante, perseguição contumaz, insulto, chantagem, ridicularização, exploração e limitação do direito de ir e vir ou qualquer outro meio que lhe cause prejuízo à saúde psicológica e à autodeterminação;\n\nII - a violência psicológica, entendida como qualquer conduta que lhe cause dano emocional e diminuição da autoestima ou que lhe prejudique e perturbe o pleno desenvolvimento ou que vise degradar ou controlar suas ações, comportamentos, crenças e decisões, mediante ameaça, constrangimento, humilhação, manipulação, isolamento, vigilância constante, perseguição contumaz, insulto, chantagem, violação de sua intimidade, ridicularização, exploração e limitação do direito de ir e vir ou qualquer outro meio que lhe cause prejuízo à saúde psicológica e à autodeterminação; (Redação dada pela Lei nº 13.772, de 2018)\n\nIII - a violência sexual, entendida como qualquer conduta que a constranja a presenciar, a manter ou a participar de relação sexual não desejada, mediante intimidação, ameaça, coação ou uso da força; que a induza a comercializar ou a utilizar, de qualquer modo, a sua sexualidade, que a impeça de usar qualquer método contraceptivo ou que a force ao matrimônio, à gravidez, ao aborto ou à prostituição, mediante coação, chantagem, suborno ou manipulação; ou que limite ou anule o exercício de seus direitos sexuais e reprodutivos;\n\nIV - a violência patrimonial, entendida como qualquer conduta que configure retenção, subtração, destruição parcial ou total de seus objetos, instrumentos de trabalho, documentos pessoais, bens, valores e direitos ou recursos econômicos, incluindo os destinados a satisfazer suas necessidades;\n\nV - a violência moral, entendida como qualquer conduta que configure calúnia, difamação ou injúria.\n\nVI – a violência vicária, entendida como qualquer forma de violência praticada contra descendente, ascendente, dependente, enteado, parente, pessoa sob guarda ou responsabilidade direta da mulher ou pessoa de sua rede de apoio, com vistas a atingi-la. (Incluído pela Lei nº 15.384, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%207%C2%BA%20S%C3%A3o%20formas%20de%20viol%C3%AAncia%20dom%C3%A9stica%20e%20familiar%20contra%20a%20mulher%2C%20entre%20outras%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º A política pública que visa coibir a violência doméstica e familiar contra a mulher far-se-á por meio de um conjunto articulado de ações da União, dos Estados, do Distrito Federal e dos Municípios e de ações não-governamentais, tendo por diretrizes:\n\nI - a integração operacional do Poder Judiciário, do Ministério Público e da Defensoria Pública com as áreas de segurança pública, assistência social, saúde, educação, trabalho e habitação;\n\nII - a promoção de estudos e pesquisas, estatísticas e outras informações relevantes, com a perspectiva de gênero e de raça ou etnia, concernentes às causas, às conseqüências e à freqüência da violência doméstica e familiar contra a mulher, para a sistematização de dados, a serem unificados nacionalmente, e a avaliação periódica dos resultados das medidas adotadas;\n\nIII - o respeito, nos meios de comunicação social, dos valores éticos e sociais da pessoa e da família, de forma a coibir os papéis estereotipados que legitimem ou exacerbem a violência doméstica e familiar, de acordo com o estabelecido no inciso III do art. 1º , no inciso IV do art. 3º e no inciso IV do art. 221 da Constituição Federal ;\n\nIV - a implementação de atendimento policial especializado para as mulheres, em particular nas Delegacias de Atendimento à Mulher;\n\nV - a promoção e a realização de campanhas educativas de prevenção da violência doméstica e familiar contra a mulher, voltadas ao público escolar e à sociedade em geral, e a difusão desta Lei e dos instrumentos de proteção aos direitos humanos das mulheres;\n\nVI - a celebração de convênios, protocolos, ajustes, termos ou outros instrumentos de promoção de parceria entre órgãos governamentais ou entre estes e entidades não-governamentais, tendo por objetivo a implementação de programas de erradicação da violência doméstica e familiar contra a mulher;\n\nVII - a capacitação permanente das Polícias Civil e Militar, da Guarda Municipal, do Corpo de Bombeiros e dos profissionais pertencentes aos órgãos e às áreas enunciados no inciso I quanto às questões de gênero e de raça ou etnia;\n\nVIII - a promoção de programas educacionais que disseminem valores éticos de irrestrito respeito à dignidade da pessoa humana com a perspectiva de gênero e de raça ou etnia;\n\nIX - o destaque, nos currículos escolares de todos os níveis de ensino, para os conteúdos relativos aos direitos humanos, à eqüidade de gênero e de raça ou etnia e ao problema da violência doméstica e familiar contra a mulher.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%208%C2%BA%20A%20pol%C3%ADtica%20p%C3%BAblica%20que%20visa%20coibir%20a%20viol%C3%AAncia%20dom%C3%A9stica%20e%20familiar%20contra%20a%20mulher%20far-se-%C3%A1%20por%20meio%20de%20um%20conjunto",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º A assistência à mulher em situação de violência doméstica e familiar será prestada de forma articulada e conforme os princípios e as diretrizes previstos na Lei Orgânica da Assistência Social, no Sistema Único de Saúde, no Sistema Único de Segurança Pública, entre outras normas e políticas públicas de proteção, e emergencialmente quando for o caso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%209%C2%BA%20A%20assist%C3%AAncia%20%C3%A0%20mulher%20em%20situa%C3%A7%C3%A3o%20de%20viol%C3%AAncia%20dom%C3%A9stica%20e%20familiar%20ser%C3%A1%20prestada%20de%20forma%20articulada%20e%20conforme%20os%20princ%C3%ADpios",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Na hipótese da iminência ou da prática de violência doméstica e familiar contra a mulher, a autoridade policial que tomar conhecimento da ocorrência adotará, de imediato, as providências legais cabíveis.\n\nParágrafo único. Aplica-se o disposto no caput deste artigo ao descumprimento de medida protetiva de urgência deferida.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2010.%20Na%20hip%C3%B3tese%20da%20imin%C3%AAncia%20ou%20da%20pr%C3%A1tica%20de%20viol%C3%AAncia%20dom%C3%A9stica%20e%20familiar%20contra%20a%20mulher%2C%20a%20autoridade%20policial%20que%20tomar",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "10-A"
+    },
+    "10-A": {
+      "numero": "10-A",
+      "texto": "Art. 10-A. É direito da mulher em situação de violência doméstica e familiar o atendimento policial e pericial especializado, ininterrupto e prestado por servidores - preferencialmente do sexo feminino - previamente capacitados. (Incluído pela Lei nº 13.505, de 2017)\n\n§ 1º A inquirição de mulher em situação de violência doméstica e familiar ou de testemunha de violência doméstica, quando se tratar de crime contra a mulher, obedecerá às seguintes diretrizes: (Incluído pela Lei nº 13.505, de 2017)\n\nI - salvaguarda da integridade física, psíquica e emocional da depoente, considerada a sua condição peculiar de pessoa em situação de violência doméstica e familiar; (Incluído pela Lei nº 13.505, de 2017)\n\nII - garantia de que, em nenhuma hipótese, a mulher em situação de violência doméstica e familiar, familiares e testemunhas terão contato direto com investigados ou suspeitos e pessoas a eles relacionadas; (Incluído pela Lei nº 13.505, de 2017)\n\nIII - não revitimização da depoente, evitando sucessivas inquirições sobre o mesmo fato nos âmbitos criminal, cível e administrativo, bem como questionamentos sobre a vida privada. (Incluído pela Lei nº 13.505, de 2017)\n\n§ 2º Na inquirição de mulher em situação de violência doméstica e familiar ou de testemunha de delitos de que trata esta Lei, adotar-se-á, preferencialmente, o seguinte procedimento: (Incluído pela Lei nº 13.505, de 2017)\n\nI - a inquirição será feita em recinto especialmente projetado para esse fim, o qual conterá os equipamentos próprios e adequados à idade da mulher em situação de violência doméstica e familiar ou testemunha e ao tipo e à gravidade da violência sofrida; (Incluído pela Lei nº 13.505, de 2017)\n\nII - quando for o caso, a inquirição será intermediada por profissional especializado em violência doméstica e familiar designado pela autoridade judiciária ou policial; (Incluído pela Lei nº 13.505, de 2017)\n\nIII - o depoimento será registrado em meio eletrônico ou magnético, devendo a degravação e a mídia integrar o inquérito. (Incluído pela Lei nº 13.505, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2010-A.%20%C3%89%20direito%20da%20mulher%20em%20situa%C3%A7%C3%A3o%20de%20viol%C3%AAncia%20dom%C3%A9stica%20e%20familiar%20o%20atendimento%20policial%20e%20pericial%20especializado%2C%20ininterrupto%20e%20prestado",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. No atendimento à mulher em situação de violência doméstica e familiar, a autoridade policial deverá, entre outras providências:\n\nI - garantir proteção policial, quando necessário, comunicando de imediato ao Ministério Público e ao Poder Judiciário;\n\nII - encaminhar a ofendida ao hospital ou posto de saúde e ao Instituto Médico Legal;\n\nIII - fornecer transporte para a ofendida e seus dependentes para abrigo ou local seguro, quando houver risco de vida;\n\nIV - se necessário, acompanhar a ofendida para assegurar a retirada de seus pertences do local da ocorrência ou do domicílio familiar;\n\nV - informar à ofendida os direitos a ela conferidos nesta Lei e os serviços disponíveis.\n\nV - informar à ofendida os direitos a ela conferidos nesta Lei e os serviços disponíveis, inclusive os de assistência judiciária para o eventual ajuizamento perante o juízo competente da ação de separação judicial, de divórcio, de anulação de casamento ou de dissolução de união estável. (Redação dada pela Lei nº 13.894, de 2019)\n\nParágrafo único. Verificados indícios de redução a condição análoga à de escravo ou outra forma de violência doméstica contra a trabalhadora doméstica, a autoridade policial que tomar conhecimento da ocorrência deverá comunicá-la, em até 48 (quarenta e oito) horas, à unidade regional do Ministério do Trabalho e Emprego e ao Ministério Público do Trabalho. (Incluído pela Lei nº 15.455, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2011.%20No%20atendimento%20%C3%A0%20mulher%20em%20situa%C3%A7%C3%A3o%20de%20viol%C3%AAncia%20dom%C3%A9stica%20e%20familiar%2C%20a%20autoridade%20policial%20dever%C3%A1%2C%20entre%20outras%20provid%C3%AAncias%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10-A",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Em todos os casos de violência doméstica e familiar contra a mulher, feito o registro da ocorrência, deverá a autoridade policial adotar, de imediato, os seguintes procedimentos, sem prejuízo daqueles previstos no Código de Processo Penal:\n\nI - ouvir a ofendida, lavrar o boletim de ocorrência e tomar a representação a termo, se apresentada;\n\nII - colher todas as provas que servirem para o esclarecimento do fato e de suas circunstâncias;\n\nIII - remeter, no prazo de 48 (quarenta e oito) horas, expediente apartado ao juiz com o pedido da ofendida, para a concessão de medidas protetivas de urgência;\n\nIV - determinar que se proceda ao exame de corpo de delito da ofendida e requisitar outros exames periciais necessários;\n\nV - ouvir o agressor e as testemunhas;\n\nVI - ordenar a identificação do agressor e fazer juntar aos autos sua folha de antecedentes criminais, indicando a existência de mandado de prisão ou registro de outras ocorrências policiais contra ele;\n\nVI-A - verificar se o agressor possui registro de porte ou posse de arma de fogo e, na hipótese de existência, juntar aos autos essa informação, bem como notificar a ocorrência à instituição responsável pela concessão do registro ou da emissão do porte, nos termos da Lei nº 10.826, de 22 de dezembro de 2003 (Estatuto do Desarmamento); (Incluído pela Lei nº 13.880, de 2019)\n\nVII - remeter, no prazo legal, os autos do inquérito policial ao juiz e ao Ministério Público.\n\n§ 1º O pedido da ofendida será tomado a termo pela autoridade policial e deverá conter:\n\nI - qualificação da ofendida e do agressor;\n\nII - nome e idade dos dependentes;\n\nIII - descrição sucinta do fato e das medidas protetivas solicitadas pela ofendida.\n\nIV - informação sobre a condição de a ofendida ser pessoa com deficiência e se da violência sofrida resultou deficiência ou agravamento de deficiência preexistente. (Incluído pela Lei nº 13.836, de 2019)\n\n§ 2º A autoridade policial deverá anexar ao documento referido no § 1º o boletim de ocorrência e cópia de todos os documentos disponíveis em posse da ofendida.\n\n§ 3º Serão admitidos como meios de prova os laudos ou prontuários médicos fornecidos por hospitais e postos de saúde.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2012.%20Em%20todos%20os%20casos%20de%20viol%C3%AAncia%20dom%C3%A9stica%20e%20familiar%20contra%20a%20mulher%2C%20feito%20o%20registro%20da%20ocorr%C3%AAncia%2C%20dever%C3%A1%20a%20autoridade",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "12-A"
+    },
+    "12-A": {
+      "numero": "12-A",
+      "texto": "Art. 12-A. Os Estados e o Distrito Federal, na formulação de suas políticas e planos de atendimento à mulher em situação de violência doméstica e familiar, darão prioridade, no âmbito da Polícia Civil, à criação de Delegacias Especializadas de Atendimento à Mulher (Deams), de Núcleos Investigativos de Feminicídio e de equipes especializadas para o atendimento e a investigação das violências graves contra a mulher.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2012-A.%20Os%20Estados%20e%20o%20Distrito%20Federal%2C%20na%20formula%C3%A7%C3%A3o%20de%20suas%20pol%C3%ADticas%20e%20planos%20de%20atendimento%20%C3%A0%20mulher%20em%20situa%C3%A7%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "12-B"
+    },
+    "12-B": {
+      "numero": "12-B",
+      "texto": "Art. 12-B. (VETADO). (Incluído pela Lei nº 13.505, de 2017)\n\n§ 1º (VETADO). (Incluído pela Lei nº 13.505, de 2017)\n\n§ 2º (VETADO. (Incluído pela Lei nº 13.505, de 2017)\n\n§ 3º A autoridade policial poderá requisitar os serviços públicos necessários à defesa da mulher em situação de violência doméstica e familiar e de seus dependentes. (Incluído pela Lei nº 13.505, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2012-B.%20%28VETADO%29.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.505%2C%20de%202017%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12-A",
+      "next": "12-C"
+    },
+    "12-C": {
+      "numero": "12-C",
+      "texto": "Art. 12-C. Verificada a existência de risco atual ou iminente à vida ou à integridade física da mulher em situação de violência doméstica e familiar, ou de seus dependentes, o agressor será imediatamente afastado do lar, domicílio ou local de convivência com a ofendida: (Incluído pela Lei nº 13.827, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2012-C.%20Verificada%20a%20exist%C3%AAncia%20de%20risco%20atual%20ou%20iminente%20a%CC%80%20vida%20ou%20a%CC%80%20integridade%20f%C3%ADsica%20da%20mulher%20em%20situa%C3%A7%C3%A3o%20de%20viol%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12-B",
+      "next": "12-D"
+    },
+    "12-D": {
+      "numero": "12-D",
+      "texto": "Art. 12-D. Verificada a existência de risco atual ou iminente à vida ou à integridade física ou psicológica da mulher em situação de violência doméstica e familiar, ou de seus dependentes, o agressor será imediatamente submetido à monitoração eletrônica: (Incluído pela Lei nº 15.383, de 2026)\n\nI – pela autoridade judicial; (Incluído pela Lei nº 15.383, de 2026)\n\nII – pelo delegado de polícia, quando o Município não for sede de comarca. (Incluído pela Lei nº 15.383, de 2026)\n\nParágrafo único. Na hipótese do inciso II do caput deste artigo, o juiz será comunicado no prazo máximo de 24 (vinte e quatro) horas e decidirá, em igual prazo, sobre a manutenção ou a revogação da medida aplicada, devendo dar ciência ao Ministério Público concomitantemente. (Incluído pela Lei nº 15.383, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2012-D.%20Verificada%20a%20exist%C3%AAncia%20de%20risco%20atual%20ou%20iminente%20%C3%A0%20vida%20ou%20%C3%A0%20integridade%20f%C3%ADsica%20ou%20psicol%C3%B3gica%20da%20mulher%20em%20situa%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12-C",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Ao processo, ao julgamento e à execução das causas cíveis e criminais decorrentes da prática de violência doméstica e familiar contra a mulher aplicar-se-ão as normas dos Códigos de Processo Penal e Processo Civil e da legislação específica relativa à criança, ao adolescente e ao idoso que não conflitarem com o estabelecido nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2013.%20Ao%20processo%2C%20ao%20julgamento%20e%20%C3%A0%20execu%C3%A7%C3%A3o%20das%20causas%20c%C3%ADveis%20e%20criminais%20decorrentes%20da%20pr%C3%A1tica%20de%20viol%C3%AAncia%20dom%C3%A9stica%20e%20familiar",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12-D",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Os Juizados de Violência Doméstica e Familiar contra a Mulher, órgãos da Justiça Ordinária com competência cível e criminal, poderão ser criados pela União, no Distrito Federal e nos Territórios, e pelos Estados, para o processo, o julgamento e a execução das causas decorrentes da prática de violência doméstica e familiar contra a mulher.\n\nParágrafo único. Os atos processuais poderão realizar-se em horário noturno, conforme dispuserem as normas de organização judiciária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2014.%20Os%20Juizados%20de%20Viol%C3%AAncia%20Dom%C3%A9stica%20e%20Familiar%20contra%20a%20Mulher%2C%20%C3%B3rg%C3%A3os%20da%20Justi%C3%A7a%20Ordin%C3%A1ria%20com%20compet%C3%AAncia%20c%C3%ADvel%20e%20criminal%2C%20poder%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "14-A"
+    },
+    "14-A": {
+      "numero": "14-A",
+      "texto": "Art. 14-A. A ofendida tem a opção de propor ação de divórcio ou de dissolução de união estável no Juizado de Violência Doméstica e Familiar contra a Mulher. (Incluído pela Lei nº 13.894, de 2019)\n\n§ 1º Exclui-se da competência dos Juizados de Violência Doméstica e Familiar contra a Mulher a pretensão relacionada à partilha de bens. (Incluído pela Lei nº 13.894, de 2019)\n\n§ 2º Iniciada a situação de violência doméstica e familiar após o ajuizamento da ação de divórcio ou de dissolução de união estável, a ação terá preferência no juízo onde estiver. (Incluído pela Lei nº 13.894, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2014-A.%20A%20ofendida%20tem%20a%20op%C3%A7%C3%A3o%20de%20propor%20a%C3%A7%C3%A3o%20de%20div%C3%B3rcio%20ou%20de%20dissolu%C3%A7%C3%A3o%20de%20uni%C3%A3o%20est%C3%A1vel%20no%20Juizado%20de%20Viol%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. É competente, por opção da ofendida, para os processos cíveis regidos por esta Lei, o Juizado:\n\nI - do seu domicílio ou de sua residência;\n\nII - do lugar do fato em que se baseou a demanda;\n\nIII - do domicílio do agressor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2015.%20%C3%89%20competente%2C%20por%20op%C3%A7%C3%A3o%20da%20ofendida%2C%20para%20os%20processos%20c%C3%ADveis%20regidos%20por%20esta%20Lei%2C%20o%20Juizado%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14-A",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Nas ações penais públicas condicionadas à representação da ofendida de que trata esta Lei, só será admitida a renúncia à representação perante o juiz, em audiência especialmente designada com tal finalidade, antes do recebimento da denúncia e ouvido o Ministério Público. (Vide ADI 7267)\n\nParágrafo único. A audiência prevista no caput deste artigo tem por objetivo confirmar a retratação da vítima, não a representação, e somente será designada pelo juiz mediante manifestação expressa de seu desejo de se retratar, apresentada por escrito ou oralmente antes do recebimento da denúncia, devendo a retratação ser devidamente registrada nos autos. (Incluído pela Lei nº 15.380, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2016.%20Nas%20a%C3%A7%C3%B5es%20penais%20p%C3%BAblicas%20condicionadas%20%C3%A0%20representa%C3%A7%C3%A3o%20da%20ofendida%20de%20que%20trata%20esta%20Lei%2C%20s%C3%B3%20ser%C3%A1%20admitida%20a%20ren%C3%BAncia%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "16-A"
+    },
+    "16-A": {
+      "numero": "16-A",
+      "texto": "Art. 16-A. Nos crimes praticados no âmbito de violência doméstica e familiar contra a mulher, a ofendida decai do direito de queixa ou de representação se não o exerce no prazo de 12 (doze) meses, contado do dia em que veio a saber quem é o autor do crime, ou, no caso do § 3º do art. 100 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), do dia em que se esgota o prazo para oferecimento da denúncia. (Incluído pela Lei nº 15.438, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2016-A.%20Nos%20crimes%20praticados%20no%20%C3%A2mbito%20de%20viol%C3%AAncia%20dom%C3%A9stica%20e%20familiar%20contra%20a%20mulher%2C%20a%20ofendida%20decai%20do%20direito%20de%20queixa",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. É vedada a aplicação, nos casos de violência doméstica e familiar contra a mulher, de penas de cesta básica ou outras de prestação pecuniária, bem como a substituição de pena que implique o pagamento isolado de multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2017.%20%C3%89%20vedada%20a%20aplica%C3%A7%C3%A3o%2C%20nos%20casos%20de%20viol%C3%AAncia%20dom%C3%A9stica%20e%20familiar%20contra%20a%20mulher%2C%20de%20penas%20de%20cesta%20b%C3%A1sica%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16-A",
+      "next": "17-A"
+    },
+    "17-A": {
+      "numero": "17-A",
+      "texto": "Art. 17-A. O nome da ofendida ficará sob sigilo nos processos em que se apuram crimes praticados no contexto de violência doméstica e familiar contra a mulher. (Incluído pela Lei nº 14.857, de 2024)\n\nParágrafo único. O sigilo referido no caput deste artigo não abrange o nome do autor do fato, tampouco os demais dados do processo. (Incluído pela Lei nº 14.857, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2017-A.%20O%20nome%20da%20ofendida%20ficar%C3%A1%20sob%20sigilo%20nos%20processos%20em%20que%20se%20apuram%20crimes%20praticados%20no%20contexto%20de%20viol%C3%AAncia%20dom%C3%A9stica",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Recebido o expediente com o pedido da ofendida, caberá ao juiz, no prazo de 48 (quarenta e oito) horas:\n\nI - conhecer do expediente e do pedido e decidir sobre as medidas protetivas de urgência;\n\nII - determinar o encaminhamento da ofendida ao órgão de assistência judiciária, quando for o caso;\n\nII - determinar o encaminhamento da ofendida ao órgão de assistência judiciária, quando for o caso, inclusive para o ajuizamento da ação de separação judicial, de divórcio, de anulação de casamento ou de dissolução de união estável perante o juízo competente; (Redação dada pela Lei nº 13.894, de 2019)\n\nIII - comunicar ao Ministério Público para que adote as providências cabíveis.\n\nIV - determinar a apreensão imediata de arma de fogo sob a posse do agressor. (Incluído pela Lei nº 13.880, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2018.%20Recebido%20o%20expediente%20com%20o%20pedido%20da%20ofendida%2C%20caber%C3%A1%20ao%20juiz%2C%20no%20prazo%20de%2048%20%28quarenta%20e%20oito%29%20horas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "17-A",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. As medidas protetivas de urgência poderão ser concedidas pelo juiz, a requerimento do Ministério Público ou a pedido da ofendida.\n\n§ 1º As medidas protetivas de urgência poderão ser concedidas de imediato, independentemente de audiência das partes e de manifestação do Ministério Público, devendo este ser prontamente comunicado.\n\n§ 2º As medidas protetivas de urgência serão aplicadas isolada ou cumulativamente, e poderão ser substituídas a qualquer tempo por outras de maior eficácia, sempre que os direitos reconhecidos nesta Lei forem ameaçados ou violados.\n\n§ 3º Poderá o juiz, a requerimento do Ministério Público ou a pedido da ofendida, conceder novas medidas protetivas de urgência ou rever aquelas já concedidas, se entender necessário à proteção da ofendida, de seus familiares e de seu patrimônio, ouvido o Ministério Público.\n\n§ 4º As medidas protetivas de urgência serão concedidas em juízo de cognição sumária a partir do depoimento da ofendida perante a autoridade policial ou da apresentação de suas alegações escritas e poderão ser indeferidas no caso de avaliação pela autoridade de inexistência de risco à integridade física, psicológica, sexual, patrimonial ou moral da ofendida ou de seus dependentes. (Incluído pela Lei nº 14.550, de 2023)\n\n§ 5º As medidas protetivas de urgência serão concedidas independentemente da tipificação penal da violência, do ajuizamento de ação penal ou cível, da existência de inquérito policial ou do registro de boletim de ocorrência. (Incluído pela Lei nº 14.550, de 2023)\n\n§ 6º As medidas protetivas de urgência vigorarão enquanto persistir risco à integridade física, psicológica, sexual, patrimonial ou moral da ofendida ou de seus dependentes. (Incluído pela Lei nº 14.550, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2019.%20As%20medidas%20protetivas%20de%20urg%C3%AAncia%20poder%C3%A3o%20ser%20concedidas%20pelo%20juiz%2C%20a%20requerimento%20do%20Minist%C3%A9rio%20P%C3%BAblico%20ou%20a%20pedido%20da%20ofendida.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Em qualquer fase do inquérito policial ou da instrução criminal, caberá a prisão preventiva do agressor, decretada pelo juiz, de ofício, a requerimento do Ministério Público ou mediante representação da autoridade policial.\n\nParágrafo único. O juiz poderá revogar a prisão preventiva se, no curso do processo, verificar a falta de motivo para que subsista, bem como de novo decretá-la, se sobrevierem razões que a justifiquem.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2020.%20Em%20qualquer%20fase%20do%20inqu%C3%A9rito%20policial%20ou%20da%20instru%C3%A7%C3%A3o%20criminal%2C%20caber%C3%A1%20a%20pris%C3%A3o%20preventiva%20do%20agressor%2C%20decretada%20pelo%20juiz%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. A ofendida deverá ser notificada dos atos processuais relativos ao agressor, especialmente dos pertinentes ao ingresso e à saída da prisão, sem prejuízo da intimação do advogado constituído ou do defensor público.\n\nParágrafo único. A ofendida não poderá entregar intimação ou notificação ao agressor .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2021.%20A%20ofendida%20dever%C3%A1%20ser%20notificada%20dos%20atos%20processuais%20relativos%20ao%20agressor%2C%20especialmente%20dos%20pertinentes%20ao%20ingresso%20e%20%C3%A0%20sa%C3%ADda%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Constatada a prática de violência doméstica e familiar contra a mulher, nos termos desta Lei, o juiz poderá aplicar, de imediato, ao agressor, em conjunto ou separadamente, as seguintes medidas protetivas de urgência, entre outras:\n\nI - suspensão da posse ou restrição do porte de armas, com comunicação ao órgão competente, nos termos da Lei nº 10.826, de 22 de dezembro de 2003 ;\n\nII - afastamento do lar, domicílio ou local de convivência com a ofendida;\n\nIII - proibição de determinadas condutas, entre as quais:\n\na) aproximação da ofendida, de seus familiares e das testemunhas, fixando o limite mínimo de distância entre estes e o agressor;\n\nb) contato com a ofendida, seus familiares e testemunhas por qualquer meio de comunicação;\n\nc) freqüentação de determinados lugares a fim de preservar a integridade física e psicológica da ofendida;\n\nIV - restrição ou suspensão de visitas aos dependentes menores, ouvida a equipe de atendimento multidisciplinar ou serviço similar;\n\nV - prestação de alimentos provisionais ou provisórios.\n\nVI – comparecimento do agressor a programas de recuperação e reeducação; e (Incluído pela Lei nº 13.984, de 2020)\n\nVII – acompanhamento psicossocial do agressor, por meio de atendimento individual e/ou em grupo de apoio. (Incluído pela Lei nº 13.984, de 2020)\n\nVIII – monitoração eletrônica, disponibilizando-se à vítima aplicação ou dispositivo de segurança que alerte sobre eventual aproximação do agressor. (Incluído pela Lei nº 15.383, de 2026)\n\n§ 1º As medidas referidas neste artigo não impedem a aplicação de outras previstas na legislação em vigor, sempre que a segurança da ofendida ou as circunstâncias o exigirem, devendo a providência ser comunicada ao Ministério Público.\n\n§ 2º Na hipótese de aplicação do inciso I, encontrando-se o agressor nas condições mencionadas no caput e incisos do art. 6º da Lei nº 10.826, de 22 de dezembro de 2003, o juiz comunicará ao respectivo órgão, corporação ou instituição as medidas protetivas de urgência concedidas e determinará a restrição do porte de armas, ficando o superior imediato do agressor responsável pelo cumprimento da determinação judicial, sob pena de incorrer nos crimes de prevaricação ou de desobediência, conforme o caso.\n\n§ 3º Para garantir a efetividade das medidas protetivas de urgência, poderá o juiz requisitar, a qualquer momento, auxílio da força policial.\n\n§ 4º Aplica-se às hipóteses previstas neste artigo, no que couber, o disposto no caput e nos §§ 5º e 6º do art. 461 da Lei no 5.869, de 11 de janeiro de 1973 (Código de Processo Civil).\n\n§ 4º Na aplicação das medidas protetivas de urgência, o juiz concederá a tutela específica ou determinará providências que assegurem a obtenção de tutela pelo resultado prático equivalente. (Redação dada pela Lei nº 15.412, de 2026)\n\n§ 5º Nos casos previstos neste artigo, a medida protetiva de urgência poderá ser cumulada com a sujeição do agressor a monitoração eletrônica, disponibilizando-se à vítima dispositivo de segurança que alerte sobre sua eventual aproximação. (Incluído pela Lei nº 15.125, de 2025)\n\n§ 5º (Revogado). (Redação dada pela Lei nº 15.383, de 2026)\n\n§ 6º A aplicação da medida prevista no inciso VIII do caput deste artigo terá prioridade nos casos em que houver descumprimento de medidas protetivas anteriormente impostas ou quando for verificado risco iminente à integridade física ou psicológica da vítima. (Incluído pela Lei nº 15.383, de 2026)\n\n§ 7º Para a efetivação da medida prevista no inciso VIII do caput deste artigo, a autoridade competente promoverá a instalação do equipamento e instruirá o agressor sobre o seu funcionamento e as áreas de exclusão onde não poderá circular, conforme definido na decisão da autoridade judicial, devendo a ciência constar de termo nos autos. (Incluído pela Lei nº 15.383, de 2026)\n\n§ 8º O sistema de monitoração eletrônica de que trata o inciso VIII do caput deste artigo deverá emitir alerta automático e simultâneo à vítima e à unidade policial mais próxima sempre que o agressor romper o perímetro de exclusão fixado judicialmente. (Incluído pela Lei nº 15.383, de 2026)\n\n§ 9º Nos casos previstos no § 6º deste artigo, a decisão judicial que deixar de aplicar a medida protetiva de monitoração eletrônica deverá apresentar fundamentação expressa quanto às razões da não aplicação da medida. (Incluído pela Lei nº 15.383, de 2026)\n\n§ 10 As medidas protetivas de natureza cível, inclusive as de prestação de alimentos provisionais ou provisórios, constituem título executivo judicial de pleno direito, dispensando a propositura de ação principal. (Incluído pela Lei nº 15.412, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2022.%20Constatada%20a%20pr%C3%A1tica%20de%20viol%C3%AAncia%20dom%C3%A9stica%20e%20familiar%20contra%20a%20mulher%2C%20nos%20termos%20desta%20Lei%2C%20o%20juiz%20poder%C3%A1%20aplicar%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Poderá o juiz, quando necessário, sem prejuízo de outras medidas:\n\nI - encaminhar a ofendida e seus dependentes a programa oficial ou comunitário de proteção ou de atendimento;\n\nII - determinar a recondução da ofendida e a de seus dependentes ao respectivo domicílio, após afastamento do agressor;\n\nIII - determinar o afastamento da ofendida do lar, sem prejuízo dos direitos relativos a bens, guarda dos filhos e alimentos;\n\nIV - determinar a separação de corpos.\n\nV - determinar a matrícula dos dependentes da ofendida em instituição de educação básica mais próxima do seu domicílio, ou a transferência deles para essa instituição, independentemente da existência de vaga. (Incluído pela Lei nº 13.882, de 2019)\n\nVI – conceder à ofendida auxílio-aluguel, com valor fixado em função de sua situação de vulnerabilidade social e econômica, por período não superior a 6 (seis) meses. (Incluído pela Lei nº 14.674, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2023.%20Poder%C3%A1%20o%20juiz%2C%20quando%20necess%C3%A1rio%2C%20sem%20preju%C3%ADzo%20de%20outras%20medidas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Para a proteção patrimonial dos bens da sociedade conjugal ou daqueles de propriedade particular da mulher, o juiz poderá determinar, liminarmente, as seguintes medidas, entre outras:\n\nI - restituição de bens indevidamente subtraídos pelo agressor à ofendida;\n\nII - proibição temporária para a celebração de atos e contratos de compra, venda e locação de propriedade em comum, salvo expressa autorização judicial;\n\nIII - suspensão das procurações conferidas pela ofendida ao agressor;\n\nIV - prestação de caução provisória, mediante depósito judicial, por perdas e danos materiais decorrentes da prática de violência doméstica e familiar contra a ofendida.\n\nParágrafo único. Deverá o juiz oficiar ao cartório competente para os fins previstos nos incisos II e III deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2024.%20Para%20a%20prote%C3%A7%C3%A3o%20patrimonial%20dos%20bens%20da%20sociedade%20conjugal%20ou%20daqueles%20de%20propriedade%20particular%20da%20mulher%2C%20o%20juiz%20poder%C3%A1%20determinar%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "23",
+      "next": "24-A"
+    },
+    "24-A": {
+      "numero": "24-A",
+      "texto": "Art. 24-A. Descumprir decisão judicial que defere medidas protetivas de urgência previstas nesta Lei: (Incluído pela Lei nº 13.641, de 2018)\n\nPena – detenção, de 3 (três) meses a 2 (dois) anos. (Incluído pela Lei nº 13.641, de 2018)\n\nPena – reclusão, de 2 (dois) a 5 (cinco) anos, e multa. (Redação dada pela Lei nº 14.994, de 2024)\n\n§ 1º A configuração do crime independe da competência civil ou criminal do juiz que deferiu as medidas. (Incluído pela Lei nº 13.641, de 2018)\n\n§ 2º Na hipótese de prisão em flagrante, apenas a autoridade judicial poderá conceder fiança. (Incluído pela Lei nº 13.641, de 2018)\n\n§ 3º O disposto neste artigo não exclui a aplicação de outras sanções cabíveis. (Incluído pela Lei nº 13.641, de 2018)\n\n§ 4º A pena será aumentada de 1/3 (um terço) até a metade se o descumprimento decorrer da violação das áreas de exclusão monitoradas eletronicamente ou da remoção, violação ou alteração do dispositivo de monitoração sem autorização judicial. (Incluído pela Lei nº 15.383, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2024-A.%20Descumprir%20decis%C3%A3o%20judicial%20que%20defere%20medidas%20protetivas%20de%20urg%C3%AAncia%20previstas%20nesta%20Lei%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.641%2C%20de%202018%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV (Incluído pela Lei nº 13.641, de 2018)"
+      },
+      "prev": "24",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. O Ministério Público intervirá, quando não for parte, nas causas cíveis e criminais decorrentes da violência doméstica e familiar contra a mulher.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2025.%20O%20Minist%C3%A9rio%20P%C3%BAblico%20intervir%C3%A1%2C%20quando%20n%C3%A3o%20for%20parte%2C%20nas%20causas%20c%C3%ADveis%20e%20criminais%20decorrentes%20da%20viol%C3%AAncia%20dom%C3%A9stica%20e%20familiar%20contra",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24-A",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Caberá ao Ministério Público, sem prejuízo de outras atribuições, nos casos de violência doméstica e familiar contra a mulher, quando necessário:\n\nI - requisitar força policial e serviços públicos de saúde, de educação, de assistência social e de segurança, entre outros;\n\nII - fiscalizar os estabelecimentos públicos e particulares de atendimento à mulher em situação de violência doméstica e familiar, e adotar, de imediato, as medidas administrativas ou judiciais cabíveis no tocante a quaisquer irregularidades constatadas;\n\nIII - cadastrar os casos de violência doméstica e familiar contra a mulher.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2026.%20Caber%C3%A1%20ao%20Minist%C3%A9rio%20P%C3%BAblico%2C%20sem%20preju%C3%ADzo%20de%20outras%20atribui%C3%A7%C3%B5es%2C%20nos%20casos%20de%20viol%C3%AAncia%20dom%C3%A9stica%20e%20familiar%20contra%20a%20mulher%2C%20quando",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Em todos os atos processuais, cíveis e criminais, a mulher em situação de violência doméstica e familiar deverá estar acompanhada de advogado, ressalvado o previsto no art. 19 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2027.%20Em%20todos%20os%20atos%20processuais%2C%20c%C3%ADveis%20e%20criminais%2C%20a%20mulher%20em%20situa%C3%A7%C3%A3o%20de%20viol%C3%AAncia%20dom%C3%A9stica%20e%20familiar%20dever%C3%A1%20estar%20acompanhada",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. É garantido a toda mulher em situação de violência doméstica e familiar o acesso aos serviços de Defensoria Pública ou de Assistência Judiciária Gratuita, nos termos da lei, em sede policial e judicial, mediante atendimento específico e humanizado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2028.%20%C3%89%20garantido%20a%20toda%20mulher%20em%20situa%C3%A7%C3%A3o%20de%20viol%C3%AAncia%20dom%C3%A9stica%20e%20familiar%20o%20acesso%20aos%20servi%C3%A7os%20de%20Defensoria%20P%C3%BAblica%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Os Juizados de Violência Doméstica e Familiar contra a Mulher que vierem a ser criados poderão contar com uma equipe de atendimento multidisciplinar, a ser integrada por profissionais especializados nas áreas psicossocial, jurídica e de saúde.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2029.%20Os%20Juizados%20de%20Viol%C3%AAncia%20Dom%C3%A9stica%20e%20Familiar%20contra%20a%20Mulher%20que%20vierem%20a%20ser%20criados%20poder%C3%A3o%20contar%20com%20uma%20equipe",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Compete à equipe de atendimento multidisciplinar, entre outras atribuições que lhe forem reservadas pela legislação local, fornecer subsídios por escrito ao juiz, ao Ministério Público e à Defensoria Pública, mediante laudos ou verbalmente em audiência, e desenvolver trabalhos de orientação, encaminhamento, prevenção e outras medidas, voltados para a ofendida, o agressor e os familiares, com especial atenção às crianças e aos adolescentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2030.%20Compete%20%C3%A0%20equipe%20de%20atendimento%20multidisciplinar%2C%20entre%20outras%20atribui%C3%A7%C3%B5es%20que%20lhe%20forem%20reservadas%20pela%20legisla%C3%A7%C3%A3o%20local%2C%20fornecer%20subs%C3%ADdios%20por%20escrito",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Quando a complexidade do caso exigir avaliação mais aprofundada, o juiz poderá determinar a manifestação de profissional especializado, mediante a indicação da equipe de atendimento multidisciplinar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2031.%20Quando%20a%20complexidade%20do%20caso%20exigir%20avalia%C3%A7%C3%A3o%20mais%20aprofundada%2C%20o%20juiz%20poder%C3%A1%20determinar%20a%20manifesta%C3%A7%C3%A3o%20de%20profissional%20especializado%2C%20mediante%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. O Poder Judiciário, na elaboração de sua proposta orçamentária, poderá prever recursos para a criação e manutenção da equipe de atendimento multidisciplinar, nos termos da Lei de Diretrizes Orçamentárias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2032.%20O%20Poder%20Judici%C3%A1rio%2C%20na%20elabora%C3%A7%C3%A3o%20de%20sua%20proposta%20or%C3%A7ament%C3%A1ria%2C%20poder%C3%A1%20prever%20recursos%20para%20a%20cria%C3%A7%C3%A3o%20e%20manuten%C3%A7%C3%A3o%20da%20equipe%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Enquanto não estruturados os Juizados de Violência Doméstica e Familiar contra a Mulher, as varas criminais acumularão as competências cível e criminal para conhecer e julgar as causas decorrentes da prática de violência doméstica e familiar contra a mulher, observadas as previsões do Título IV desta Lei, subsidiada pela legislação processual pertinente.\n\nParágrafo único. Será garantido o direito de preferência, nas varas criminais, para o processo e o julgamento das causas referidas no caput.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2033.%20Enquanto%20n%C3%A3o%20estruturados%20os%20Juizados%20de%20Viol%C3%AAncia%20Dom%C3%A9stica%20e%20Familiar%20contra%20a%20Mulher%2C%20as%20varas%20criminais%20acumular%C3%A3o%20as%20compet%C3%AAncias%20c%C3%ADvel",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. A instituição dos Juizados de Violência Doméstica e Familiar contra a Mulher poderá ser acompanhada pela implantação das curadorias necessárias e do serviço de assistência judiciária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2034.%20A%20institui%C3%A7%C3%A3o%20dos%20Juizados%20de%20Viol%C3%AAncia%20Dom%C3%A9stica%20e%20Familiar%20contra%20a%20Mulher%20poder%C3%A1%20ser%20acompanhada%20pela%20implanta%C3%A7%C3%A3o%20das%20curadorias%20necess%C3%A1rias",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. A União, o Distrito Federal, os Estados e os Municípios poderão criar e promover, no limite das respectivas competências: (Vide Lei nº 14.316, de 2022)\n\nI - centros de atendimento integral e multidisciplinar para mulheres e respectivos dependentes em situação de violência doméstica e familiar;\n\nII - casas-abrigos para mulheres e respectivos dependentes menores em situação de violência doméstica e familiar;\n\nIII - delegacias, núcleos de defensoria pública, serviços de saúde e centros de perícia médico-legal especializados no atendimento à mulher em situação de violência doméstica e familiar;\n\nIV - programas e campanhas de enfrentamento da violência doméstica e familiar;\n\nV - centros de educação e de reabilitação para os agressores.\n\nParágrafo único. As campanhas a que se refere o inciso IV do caput deste artigo deverão contemplar informações sobre procedimentos e abordagens policiais, prevenção à revitimização, funcionamento das medidas protetivas de urgência e mecanismos de monitoração eletrônica. (Incluído pela Lei nº 15.383, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2035.%20A%20Uni%C3%A3o%2C%20o%20Distrito%20Federal%2C%20os%20Estados%20e%20os%20Munic%C3%ADpios%20poder%C3%A3o%20criar%20e%20promover%2C%20no%20limite%20das%20respectivas%20compet%C3%AAncias%3A%20%28Vide",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. A União, os Estados, o Distrito Federal e os Municípios promoverão a adaptação de seus órgãos e de seus programas às diretrizes e aos princípios desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2036.%20A%20Uni%C3%A3o%2C%20os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%20promover%C3%A3o%20a%20adapta%C3%A7%C3%A3o%20de%20seus%20%C3%B3rg%C3%A3os%20e%20de%20seus%20programas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. A defesa dos interesses e direitos transindividuais previstos nesta Lei poderá ser exercida, concorrentemente, pelo Ministério Público e por associação de atuação na área, regularmente constituída há pelo menos um ano, nos termos da legislação civil.\n\nParágrafo único. O requisito da pré-constituição poderá ser dispensado pelo juiz quando entender que não há outra entidade com representatividade adequada para o ajuizamento da demanda coletiva.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2037.%20A%20defesa%20dos%20interesses%20e%20direitos%20transindividuais%20previstos%20nesta%20Lei%20poder%C3%A1%20ser%20exercida%2C%20concorrentemente%2C%20pelo%20Minist%C3%A9rio%20P%C3%BAblico%20e%20por%20associa%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. As estatísticas sobre a violência doméstica e familiar contra a mulher serão incluídas nas bases de dados dos órgãos oficiais do Sistema de Justiça e Segurança a fim de subsidiar o sistema nacional de dados e informações relativo às mulheres.\n\nParágrafo único. As Secretarias de Segurança Pública dos Estados e do Distrito Federal poderão remeter suas informações criminais para a base de dados do Ministério da Justiça.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2038.%20As%20estat%C3%ADsticas%20sobre%20a%20viol%C3%AAncia%20dom%C3%A9stica%20e%20familiar%20contra%20a%20mulher%20ser%C3%A3o%20inclu%C3%ADdas%20nas%20bases%20de%20dados%20dos%20%C3%B3rg%C3%A3os%20oficiais",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "38-A"
+    },
+    "38-A": {
+      "numero": "38-A",
+      "texto": "Art. 38-A. O juiz competente providenciará o registro da medida protetiva de urgência. (Incluído pela Lei nº 13.827, de 2019)\n\nParágrafo único. As medidas protetivas de urgência serão registradas em banco de dados mantido e regulamentado pelo Conselho Nacional de Justiça, garantido o acesso do Ministério Público, da Defensoria Pública e dos órgãos de segurança pública e de assistência social, com vistas à fiscalização e à efetividade das medidas protetivas. (Incluído pela Lei nº 13.827, de 2019)\n\nParágrafo único. As medidas protetivas de urgência serão, após sua concessão, imediatamente registradas em banco de dados mantido e regulamentado pelo Conselho Nacional de Justiça, garantido o acesso instantâneo do Ministério Público, da Defensoria Pública e dos órgãos de segurança pública e de assistência social, com vistas à fiscalização e à efetividade das medidas protetivas. (Redação dada Lei nº 14.310, de 2022) Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2038-A.%20O%20juiz%20competente%20providenciar%C3%A1%20o%20registro%20da%20medida%20protetiva%20de%20urg%C3%AAncia.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.827%2C%20de%202019%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. A União, os Estados, o Distrito Federal e os Municípios, no limite de suas competências e nos termos das respectivas leis de diretrizes orçamentárias, poderão estabelecer dotações orçamentárias específicas, em cada exercício financeiro, para a implementação das medidas estabelecidas nesta Lei.\n\nParágrafo único. Na implementação das medidas estabelecidas nesta Lei, os entes federativos deverão observar, entre as prioridades de alocação de recursos, a aquisição e a manutenção de equipamentos de monitoração eletrônica para agressores e de dispositivos de segurança para as vítimas. (Incluído pela Lei nº 15.383, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2039.%20A%20Uni%C3%A3o%2C%20os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%2C%20no%20limite%20de%20suas%20compet%C3%AAncias%20e%20nos%20termos%20das%20respectivas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38-A",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. As obrigações previstas nesta Lei não excluem outras decorrentes dos princípios por ela adotados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2040.%20As%20obriga%C3%A7%C3%B5es%20previstas%20nesta%20Lei%20n%C3%A3o%20excluem%20outras%20decorrentes%20dos%20princ%C3%ADpios%20por%20ela%20adotados.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "40-A"
+    },
+    "40-A": {
+      "numero": "40-A",
+      "texto": "Art. 40-A. Esta Lei será aplicada a todas as situações previstas no seu art. 5º, independentemente da causa ou da motivação dos atos de violência e da condição do ofensor ou da ofendida. (Incluído pela Lei nº 14.550, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2040-A.%20Esta%20Lei%20ser%C3%A1%20aplicada%20a%20todas%20as%20situa%C3%A7%C3%B5es%20previstas%20no%20seu%20art.%205%C2%BA%2C%20independentemente%20da%20causa%20ou%20da%20motiva%C3%A7%C3%A3o%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. Aos crimes praticados com violência doméstica e familiar contra a mulher, independentemente da pena prevista, não se aplica a Lei nº 9.099, de 26 de setembro de 1995.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2041.%20Aos%20crimes%20praticados%20com%20viol%C3%AAncia%20dom%C3%A9stica%20e%20familiar%20contra%20a%20mulher%2C%20independentemente%20da%20pena%20prevista%2C%20n%C3%A3o%20se%20aplica%20a%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40-A",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. O art. 313 do Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), passa a vigorar acrescido do seguinte inciso IV:\n\n“Art. 313. .................................................\n\n................................................................\n\nIV - se o crime envolver violência doméstica e familiar contra a mulher, nos termos da lei específica, para garantir a execução das medidas protetivas de urgência.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2042.%20O%20art.%20313%20do%20Decreto-Lei%20n%C2%BA%203.689%2C%20de%203%20de%20outubro%20de%201941%20%28C%C3%B3digo%20de%20Processo%20Penal%29%2C%20passa%20a%20vigorar",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. A alínea f do inciso II do art. 61 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), passa a vigorar com a seguinte redação:\n\n“Art. 61. ..................................................\n\n.................................................................\n\nII - ............................................................\n\n.................................................................\n\nf) com abuso de autoridade ou prevalecendo-se de relações domésticas, de coabitação ou de hospitalidade, ou com violência contra a mulher na forma da lei específica;\n\n........................................................... ” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2043.%20A%20al%C3%ADnea%20f%20do%20inciso%20II%20do%20art.%2061%20do%20Decreto-Lei%20n%C2%BA%202.848%2C%20de%207%20de%20dezembro%20de%201940%20%28C%C3%B3digo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. O art. 129 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), passa a vigorar com as seguintes alterações:\n\n“Art. 129. ..................................................\n\n..................................................................\n\n§ 9º Se a lesão for praticada contra ascendente, descendente, irmão, cônjuge ou companheiro, ou com quem conviva ou tenha convivido, ou, ainda, prevalecendo-se o agente das relações domésticas, de coabitação ou de hospitalidade:\n\nPena - detenção, de 3 (três) meses a 3 (três) anos.\n\n..................................................................\n\n§ 11. Na hipótese do § 9º deste artigo, a pena será aumentada de um terço se o crime for cometido contra pessoa portadora de deficiência.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2044.%20O%20art.%20129%20do%20Decreto-Lei%20n%C2%BA%202.848%2C%20de%207%20de%20dezembro%20de%201940%20%28C%C3%B3digo%20Penal%29%2C%20passa%20a%20vigorar%20com%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. O art. 152 da Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), passa a vigorar com a seguinte redação:\n\n“Art. 152. ...................................................\n\nParágrafo único. Nos casos de violência doméstica contra a mulher, o juiz poderá determinar o comparecimento obrigatório do agressor a programas de recuperação e reeducação.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2045.%20O%20art.%20152%20da%20Lei%20n%C2%BA%207.210%2C%20de%2011%20de%20julho%20de%201984%20%28Lei%20de%20Execu%C3%A7%C3%A3o%20Penal%29%2C%20passa%20a%20vigorar",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. Esta Lei entra em vigor 45 (quarenta e cinco) dias após sua publicação.\n\nBrasília, 7 de agosto de 2006; 185º da Independência e 118º da República.\n\nLUIZ INÁCIO LULA DA SILVA Dilma Rousseff\n\nEste texto não substitui o publicado no DOU de 8.8.2006\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm#:~:text=Art.%2046.%20Esta%20Lei%20entra%20em%20vigor%2045%20%28quarenta%20e%20cinco%29%20dias%20ap%C3%B3s%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": null
+    }
+  }
+}

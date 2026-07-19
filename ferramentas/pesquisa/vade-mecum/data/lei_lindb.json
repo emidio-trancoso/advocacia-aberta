@@ -1,0 +1,495 @@
+{
+  "_meta": {
+    "codigo": "LINDB",
+    "nome": "Lei de Introdução às Normas do Direito Brasileiro",
+    "lei": "Decreto-Lei 4.657/1942",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm",
+    "total_artigos": 30,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o Salvo disposição contrária, a lei começa a vigorar em todo o país quarenta e cinco dias depois de oficialmente publicada.\n\n§ 1o Nos Estados estrangeiros, a obrigatoriedade da lei brasileira, quando admitida, se inicia três meses depois de oficialmente publicada. (Vide Lei nº 1.991, de 1953) (Vide Lei nº 2.145, de 1953) (Vide Lei nº 2.410, de 1955) (Vide Lei nº 2.770, de 1956) (Vide Lei nº 3.244, de 1957) (Vide Lei nº 4.966, de 1966) (Vide Decreto-Lei nº 333, de 1967) (Vide Lei nº 2.807, de 1956) (Vide Lei nº 4.820, de 1965)\n\n§ 2o (Revogado pela Lei nº 12.036, de 2009).\n\n§ 3o Se, antes de entrar a lei em vigor, ocorrer nova publicação de seu texto, destinada a correção, o prazo deste artigo e dos parágrafos anteriores começará a correr da nova publicação.\n\n§ 4o As correções a texto de lei já em vigor consideram-se lei nova.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%201o%20Salvo%20disposi%C3%A7%C3%A3o%20contr%C3%A1ria%2C%20a%20lei%20come%C3%A7a%20a%20vigorar%20em%20todo%20o%20pa%C3%ADs%20quarenta%20e%20cinco%20dias%20depois%20de%20oficialmente%20publicada.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o Não se destinando à vigência temporária, a lei terá vigor até que outra a modifique ou revogue.\n\n§ 1o A lei posterior revoga a anterior quando expressamente o declare, quando seja com ela incompatível ou quando regule inteiramente a matéria de que tratava a lei anterior.\n\n§ 2o A lei nova, que estabeleça disposições gerais ou especiais a par das já existentes, não revoga nem modifica a lei anterior.\n\n§ 3o Salvo disposição em contrário, a lei revogada não se restaura por ter a lei revogadora perdido a vigência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%202o%20N%C3%A3o%20se%20destinando%20%C3%A0%20vig%C3%AAncia%20tempor%C3%A1ria%2C%20a%20lei%20ter%C3%A1%20vigor%20at%C3%A9%20que%20outra%20a%20modifique%20ou%20revogue.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o Ninguém se escusa de cumprir a lei, alegando que não a conhece.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%203o%20Ningu%C3%A9m%20se%20escusa%20de%20cumprir%20a%20lei%2C%20alegando%20que%20n%C3%A3o%20a%20conhece.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o Quando a lei for omissa, o juiz decidirá o caso de acordo com a analogia, os costumes e os princípios gerais de direito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%204o%20Quando%20a%20lei%20for%20omissa%2C%20o%20juiz%20decidir%C3%A1%20o%20caso%20de%20acordo%20com%20a%20analogia%2C%20os%20costumes%20e%20os%20princ%C3%ADpios",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o Na aplicação da lei, o juiz atenderá aos fins sociais a que ela se dirige e às exigências do bem comum.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%205o%20Na%20aplica%C3%A7%C3%A3o%20da%20lei%2C%20o%20juiz%20atender%C3%A1%20aos%20fins%20sociais%20a%20que%20ela%20se%20dirige%20e%20%C3%A0s%20exig%C3%AAncias%20do%20bem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º A Lei em vigor terá efeito imediato e geral, respeitados o ato jurídico perfeito, o direito adquirido e a coisa julgada. (Redação dada pela Lei nº 3.238, de 1957)\n\n§ 1º Reputa-se ato jurídico perfeito o já consumado segundo a lei vigente ao tempo em que se efetuou. (Incluído pela Lei nº 3.238, de 1957)\n\n§ 2º Consideram-se adquiridos assim os direitos que o seu titular, ou alguém por êle, possa exercer, como aquêles cujo comêço do exercício tenha têrmo pré-fixo, ou condição pré-estabelecida inalterável, a arbítrio de outrem. (Incluído pela Lei nº 3.238, de 1957)\n\n§ 3º Chama-se coisa julgada ou caso julgado a decisão judicial de que já não caiba recurso. (Incluído pela Lei nº 3.238, de 1957)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%206%C2%BA%20A%20Lei%20em%20vigor%20ter%C3%A1%20efeito%20imediato%20e%20geral%2C%20respeitados%20o%20ato%20jur%C3%ADdico%20perfeito%2C%20o%20direito%20adquirido%20e%20a%20coisa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o A lei do país em que domiciliada a pessoa determina as regras sobre o começo e o fim da personalidade, o nome, a capacidade e os direitos de família.\n\n§ 1o Realizando-se o casamento no Brasil, será aplicada a lei brasileira quanto aos impedimentos dirimentes e às formalidades da celebração.\n\n§ 2o O casamento de estrangeiros poderá celebrar-se perante autoridades diplomáticas ou consulares do país de ambos os nubentes. (Redação dada pela Lei nº 3.238, de 1957)\n\n§ 3o Tendo os nubentes domicílio diverso, regerá os casos de invalidade do matrimônio a lei do primeiro domicílio conjugal.\n\n§ 4o O regime de bens, legal ou convencional, obedece à lei do país em que tiverem os nubentes domicílio, e, se este for diverso, a do primeiro domicílio conjugal.\n\n§ 5º - O estrangeiro casado, que se naturalizar brasileiro, pode, mediante expressa anuência de seu cônjuge, requerer ao juiz, no ato de entrega do decreto de naturalização, se apostile ao mesmo a adoção do regime de comunhão parcial de bens, respeitados os direitos de terceiros e dada esta adoção ao competente registro. (Redação dada pela Lei nº 6.515, de 1977)\n\n§ 6º O divórcio realizado no estrangeiro, se um ou ambos os cônjuges forem brasileiros, só será reconhecido no Brasil depois de 1 (um) ano da data da sentença, salvo se houver sido antecedida de separação judicial por igual prazo, caso em que a homologação produzirá efeito imediato, obedecidas as condições estabelecidas para a eficácia das sentenças estrangeiras no país. O Superior Tribunal de Justiça, na forma de seu regimento interno, poderá reexaminar, a requerimento do interessado, decisões já proferidas em pedidos de homologação de sentenças estrangeiras de divórcio de brasileiros, a fim de que passem a produzir todos os efeitos legais. (Redação dada pela Lei nº 12.036, de 2009).\n\n§ 7o Salvo o caso de abandono, o domicílio do chefe da família estende-se ao outro cônjuge e aos filhos não emancipados, e o do tutor ou curador aos incapazes sob sua guarda.\n\n§ 8o Quando a pessoa não tiver domicílio, considerar-se-á domiciliada no lugar de sua residência ou naquele em que se encontre.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%207o%20A%20lei%20do%20pa%C3%ADs%20em%20que%20domiciliada%20a%20pessoa%20determina%20as%20regras%20sobre%20o%20come%C3%A7o%20e%20o%20fim%20da%20personalidade%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o Para qualificar os bens e regular as relações a eles concernentes, aplicar-se-á a lei do país em que estiverem situados.\n\n§ 1o Aplicar-se-á a lei do país em que for domiciliado o proprietário, quanto aos bens moveis que ele trouxer ou se destinarem a transporte para outros lugares.\n\n§ 2o O penhor regula-se pela lei do domicílio que tiver a pessoa, em cuja posse se encontre a coisa apenhada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%208o%20Para%20qualificar%20os%20bens%20e%20regular%20as%20rela%C3%A7%C3%B5es%20a%20eles%20concernentes%2C%20aplicar-se-%C3%A1%20a%20lei%20do%20pa%C3%ADs%20em%20que%20estiverem%20situados.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o Para qualificar e reger as obrigações, aplicar-se-á a lei do país em que se constituirem.\n\n§ 1o Destinando-se a obrigação a ser executada no Brasil e dependendo de forma essencial, será esta observada, admitidas as peculiaridades da lei estrangeira quanto aos requisitos extrínsecos do ato.\n\n§ 2o A obrigação resultante do contrato reputa-se constituida no lugar em que residir o proponente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%209o%20Para%20qualificar%20e%20reger%20as%20obriga%C3%A7%C3%B5es%2C%20aplicar-se-%C3%A1%20a%20lei%20do%20pa%C3%ADs%20em%20que%20se%20constituirem.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A sucessão por morte ou por ausência obedece à lei do país em que domiciliado o defunto ou o desaparecido, qualquer que seja a natureza e a situação dos bens.\n\n§ 1º A sucessão de bens de estrangeiros, situados no País, será regulada pela lei brasileira em benefício do cônjuge ou dos filhos brasileiros, ou de quem os represente, sempre que não lhes seja mais favorável a lei pessoal do de cujus. (Redação dada pela Lei nº 9.047, de 1995)\n\n§ 2o A lei do domicílio do herdeiro ou legatário regula a capacidade para suceder.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%2010.%20A%20sucess%C3%A3o%20por%20morte%20ou%20por%20aus%C3%AAncia%20obedece%20%C3%A0%20lei%20do%20pa%C3%ADs%20em%20que%20domiciliado%20o%20defunto%20ou%20o%20desaparecido%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. As organizações destinadas a fins de interesse coletivo, como as sociedades e as fundações, obedecem à lei do Estado em que se constituirem.\n\n§ 1o Não poderão, entretanto ter no Brasil filiais, agências ou estabelecimentos antes de serem os atos constitutivos aprovados pelo Governo brasileiro, ficando sujeitas à lei brasileira.\n\n§ 2o Os Governos estrangeiros, bem como as organizações de qualquer natureza, que eles tenham constituido, dirijam ou hajam investido de funções públicas, não poderão adquirir no Brasil bens imóveis ou susceptiveis de desapropriação.\n\n§ 3o Os Governos estrangeiros podem adquirir a propriedade dos prédios necessários à sede dos representantes diplomáticos ou dos agentes consulares. (Vide Lei nº 4.331, de 1964)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%2011.%20As%20organiza%C3%A7%C3%B5es%20destinadas%20a%20fins%20de%20interesse%20coletivo%2C%20como%20as%20sociedades%20e%20as%20funda%C3%A7%C3%B5es%2C%20obedecem%20%C3%A0%20lei%20do%20Estado%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. É competente a autoridade judiciária brasileira, quando for o réu domiciliado no Brasil ou aqui tiver de ser cumprida a obrigação.\n\n§ 1o Só à autoridade judiciária brasileira compete conhecer das ações relativas a imóveis situados no Brasil.\n\n§ 2o A autoridade judiciária brasileira cumprirá, concedido o exequatur e segundo a forma estabelecida pela lei brasileira, as diligências deprecadas por autoridade estrangeira competente, observando a lei desta, quanto ao objeto das diligências.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%2012.%20%C3%89%20competente%20a%20autoridade%20judici%C3%A1ria%20brasileira%2C%20quando%20for%20o%20r%C3%A9u%20domiciliado%20no%20Brasil%20ou%20aqui%20tiver%20de%20ser%20cumprida%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. A prova dos fatos ocorridos em país estrangeiro rege-se pela lei que nele vigorar, quanto ao ônus e aos meios de produzir-se, não admitindo os tribunais brasileiros provas que a lei brasileira desconheça.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%2013.%20A%20prova%20dos%20fatos%20ocorridos%20em%20pa%C3%ADs%20estrangeiro%20rege-se%20pela%20lei%20que%20nele%20vigorar%2C%20quanto%20ao%20%C3%B4nus%20e%20aos%20meios",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Não conhecendo a lei estrangeira, poderá o juiz exigir de quem a invoca prova do texto e da vigência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%2014.%20N%C3%A3o%20conhecendo%20a%20lei%20estrangeira%2C%20poder%C3%A1%20o%20juiz%20exigir%20de%20quem%20a%20invoca%20prova%20do%20texto%20e%20da%20vig%C3%AAncia.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Será executada no Brasil a sentença proferida no estrangeiro, que reuna os seguintes requisitos:\n\na) haver sido proferida por juiz competente;\n\nb) terem sido os partes citadas ou haver-se legalmente verificado à revelia;\n\nc) ter passado em julgado e estar revestida das formalidades necessárias para a execução no lugar em que foi proferida;\n\nd) estar traduzida por intérprete autorizado;\n\ne) ter sido homologada pelo Supremo Tribunal Federal. (Vide art.105, I, i da Constituição Federal).\n\nParágrafo único. (Revogado pela Lei nº 12.036, de 2009).",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%2015.%20Ser%C3%A1%20executada%20no%20Brasil%20a%20senten%C3%A7a%20proferida%20no%20estrangeiro%2C%20que%20reuna%20os%20seguintes%20requisitos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Quando, nos termos dos artigos precedentes, se houver de aplicar a lei estrangeira, ter-se-á em vista a disposição desta, sem considerar-se qualquer remissão por ela feita a outra lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%2016.%20Quando%2C%20nos%20termos%20dos%20artigos%20precedentes%2C%20se%20houver%20de%20aplicar%20a%20lei%20estrangeira%2C%20ter-se-%C3%A1%20em%20vista%20a%20disposi%C3%A7%C3%A3o%20desta%2C%20sem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. As leis, atos e sentenças de outro país, bem como quaisquer declarações de vontade, não terão eficácia no Brasil, quando ofenderem a soberania nacional, a ordem pública e os bons costumes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%2017.%20As%20leis%2C%20atos%20e%20senten%C3%A7as%20de%20outro%20pa%C3%ADs%2C%20bem%20como%20quaisquer%20declara%C3%A7%C3%B5es%20de%20vontade%2C%20n%C3%A3o%20ter%C3%A3o%20efic%C3%A1cia%20no%20Brasil%2C%20quando",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Tratando-se de brasileiros, são competentes as autoridades consulares brasileiras para lhes celebrar o casamento e os mais atos de Registro Civil e de tabelionato, inclusive o registro de nascimento e de óbito dos filhos de brasileiro ou brasileira nascido no país da sede do Consulado. (Redação dada pela Lei nº 3.238, de 1957)\n\n§ 1º As autoridades consulares brasileiras também poderão celebrar a separação consensual e o divórcio consensual de brasileiros, não havendo filhos menores ou incapazes do casal e observados os requisitos legais quanto aos prazos, devendo constar da respectiva escritura pública as disposições relativas à descrição e à partilha dos bens comuns e à pensão alimentícia e, ainda, ao acordo quanto à retomada pelo cônjuge de seu nome de solteiro ou à manutenção do nome adotado quando se deu o casamento. (Incluído pela Lei nº 12.874, de 2013) Vigência\n\n§ 2o É indispensável a assistência de advogado, devidamente constituído, que se dará mediante a subscrição de petição, juntamente com ambas as partes, ou com apenas uma delas, caso a outra constitua advogado próprio, não se fazendo necessário que a assinatura do advogado conste da escritura pública. (Incluído pela Lei nº 12.874, de 2013) Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%2018.%20Tratando-se%20de%20brasileiros%2C%20s%C3%A3o%20competentes%20as%20autoridades%20consulares%20brasileiras%20para%20lhes%20celebrar%20o%20casamento%20e%20os%20mais%20atos%20de%20Registro",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Reputam-se válidos todos os atos indicados no artigo anterior e celebrados pelos cônsules brasileiros na vigência do Decreto-lei nº 4.657, de 4 de setembro de 1942, desde que satisfaçam todos os requisitos legais. (Incluído pela Lei nº 3.238, de 1957)\n\nParágrafo único. No caso em que a celebração dêsses atos tiver sido recusada pelas autoridades consulares, com fundamento no artigo 18 do mesmo Decreto-lei, ao interessado é facultado renovar o pedido dentro em 90 (noventa) dias contados da data da publicação desta lei. (Incluído pela Lei nº 3.238, de 1957)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%2019.%20Reputam-se%20v%C3%A1lidos%20todos%20os%20atos%20indicados%20no%20artigo%20anterior%20e%20celebrados%20pelos%20c%C3%B4nsules%20brasileiros%20na%20vig%C3%AAncia%20do%20Decreto-lei%20n%C2%BA%204.657%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Nas esferas administrativa, controladora e judicial, não se decidirá com base em valores jurídicos abstratos sem que sejam consideradas as consequências práticas da decisão. (Incluído pela Lei nº 13.655, de 2018) (Regulamento)\n\nParágrafo único. A motivação demonstrará a necessidade e a adequação da medida imposta ou da invalidação de ato, contrato, ajuste, processo ou norma administrativa, inclusive em face das possíveis alternativas. (Incluído pela Lei nº 13.655, de 2018)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%2020.%20Nas%20esferas%20administrativa%2C%20controladora%20e%20judicial%2C%20n%C3%A3o%20se%20decidir%C3%A1%20com%20base%20em%20valores%20jur%C3%ADdicos%20abstratos%20sem%20que%20sejam%20consideradas%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. A decisão que, nas esferas administrativa, controladora ou judicial, decretar a invalidação de ato, contrato, ajuste, processo ou norma administrativa deverá indicar de modo expresso suas consequências jurídicas e administrativas. (Incluído pela Lei nº 13.655, de 2018) (Regulamento)\n\nParágrafo único. A decisão a que se refere o caput deste artigo deverá, quando for o caso, indicar as condições para que a regularização ocorra de modo proporcional e equânime e sem prejuízo aos interesses gerais, não se podendo impor aos sujeitos atingidos ônus ou perdas que, em função das peculiaridades do caso, sejam anormais ou excessivos. (Incluído pela Lei nº 13.655, de 2018)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%2021.%20A%20decis%C3%A3o%20que%2C%20nas%20esferas%20administrativa%2C%20controladora%20ou%20judicial%2C%20decretar%20a%20invalida%C3%A7%C3%A3o%20de%20ato%2C%20contrato%2C%20ajuste%2C%20processo%20ou%20norma%20administrativa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Na interpretação de normas sobre gestão pública, serão considerados os obstáculos e as dificuldades reais do gestor e as exigências das políticas públicas a seu cargo, sem prejuízo dos direitos dos administrados. (Regulamento)\n\n§ 1º Em decisão sobre regularidade de conduta ou validade de ato, contrato, ajuste, processo ou norma administrativa, serão consideradas as circunstâncias práticas que houverem imposto, limitado ou condicionado a ação do agente. (Incluído pela Lei nº 13.655, de 2018)\n\n§ 2º Na aplicação de sanções, serão consideradas a natureza e a gravidade da infração cometida, os danos que dela provierem para a administração pública, as circunstâncias agravantes ou atenuantes e os antecedentes do agente. (Incluído pela Lei nº 13.655, de 2018)\n\n§ 3º As sanções aplicadas ao agente serão levadas em conta na dosimetria das demais sanções de mesma natureza e relativas ao mesmo fato. (Incluído pela Lei nº 13.655, de 2018)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%2022.%20Na%20interpreta%C3%A7%C3%A3o%20de%20normas%20sobre%20gest%C3%A3o%20p%C3%BAblica%2C%20ser%C3%A3o%20considerados%20os%20obst%C3%A1culos%20e%20as%20dificuldades%20reais%20do%20gestor%20e%20as%20exig%C3%AAncias",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. A decisão administrativa, controladora ou judicial que estabelecer interpretação ou orientação nova sobre norma de conteúdo indeterminado, impondo novo dever ou novo condicionamento de direito, deverá prever regime de transição quando indispensável para que o novo dever ou condicionamento de direito seja cumprido de modo proporcional, equânime e eficiente e sem prejuízo aos interesses gerais. (Regulamento)\n\nParágrafo único. (VETADO). (Incluído pela Lei nº 13.655, de 2018)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%2023.%20A%20decis%C3%A3o%20administrativa%2C%20controladora%20ou%20judicial%20que%20estabelecer%20interpreta%C3%A7%C3%A3o%20ou%20orienta%C3%A7%C3%A3o%20nova%20sobre%20norma%20de%20conte%C3%BAdo%20indeterminado%2C%20impondo%20novo%20dever",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. A revisão, nas esferas administrativa, controladora ou judicial, quanto à validade de ato, contrato, ajuste, processo ou norma administrativa cuja produção já se houver completado levará em conta as orientações gerais da época, sendo vedado que, com base em mudança posterior de orientação geral, se declarem inválidas situações plenamente constituídas. (Incluído pela Lei nº 13.655, de 2018) (Regulamento)\n\nParágrafo único. Consideram-se orientações gerais as interpretações e especificações contidas em atos públicos de caráter geral ou em jurisprudência judicial ou administrativa majoritária, e ainda as adotadas por prática administrativa reiterada e de amplo conhecimento público. (Incluído pela Lei nº 13.655, de 2018)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%2024.%20A%20revis%C3%A3o%2C%20nas%20esferas%20administrativa%2C%20controladora%20ou%20judicial%2C%20quanto%20%C3%A0%20validade%20de%20ato%2C%20contrato%2C%20ajuste%2C%20processo%20ou%20norma%20administrativa%20cuja",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. (VETADO). (Incluído pela Lei nº 13.655, de 2018)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%2025.%20%28VETADO%29.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.655%2C%20de%202018%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Para eliminar irregularidade, incerteza jurídica ou situação contenciosa na aplicação do direito público, inclusive no caso de expedição de licença, a autoridade administrativa poderá, após oitiva do órgão jurídico e, quando for o caso, após realização de consulta pública, e presentes razões de relevante interesse geral, celebrar compromisso com os interessados, observada a legislação aplicável, o qual só produzirá efeitos a partir de sua publicação oficial. (Incluído pela Lei nº 13.655, de 2018) (Regulamento)\n\n§ 1º O compromisso referido no caput deste artigo: (Incluído pela Lei nº 13.655, de 2018)\n\nI - buscará solução jurídica proporcional, equânime, eficiente e compatível com os interesses gerais; (Incluído pela Lei nº 13.655, de 2018)\n\nII – (VETADO); (Incluído pela Lei nº 13.655, de 2018)\n\nIII - não poderá conferir desoneração permanente de dever ou condicionamento de direito reconhecidos por orientação geral; (Incluído pela Lei nº 13.655, de 2018)\n\nIV - deverá prever com clareza as obrigações das partes, o prazo para seu cumprimento e as sanções aplicáveis em caso de descumprimento. (Incluído pela Lei nº 13.655, de 2018)\n\n§ 2º (VETADO). (Incluído pela Lei nº 13.655, de 2018)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%2026.%20Para%20eliminar%20irregularidade%2C%20incerteza%20jur%C3%ADdica%20ou%20situa%C3%A7%C3%A3o%20contenciosa%20na%20aplica%C3%A7%C3%A3o%20do%20direito%20p%C3%BAblico%2C%20inclusive%20no%20caso%20de%20expedi%C3%A7%C3%A3o%20de%20licen%C3%A7a%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. A decisão do processo, nas esferas administrativa, controladora ou judicial, poderá impor compensação por benefícios indevidos ou prejuízos anormais ou injustos resultantes do processo ou da conduta dos envolvidos. (Incluído pela Lei nº 13.655, de 2018) (Regulamento)\n\n§ 1º A decisão sobre a compensação será motivada, ouvidas previamente as partes sobre seu cabimento, sua forma e, se for o caso, seu valor. (Incluído pela Lei nº 13.655, de 2018)\n\n§ 2º Para prevenir ou regular a compensação, poderá ser celebrado compromisso processual entre os envolvidos. (Incluído pela Lei nº 13.655, de 2018)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%2027.%20A%20decis%C3%A3o%20do%20processo%2C%20nas%20esferas%20administrativa%2C%20controladora%20ou%20judicial%2C%20poder%C3%A1%20impor%20compensa%C3%A7%C3%A3o%20por%20benef%C3%ADcios%20indevidos%20ou%20preju%C3%ADzos%20anormais%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. O agente público responderá pessoalmente por suas decisões ou opiniões técnicas em caso de dolo ou erro grosseiro. (Incluído pela Lei nº 13.655, de 2018) (Regulamento)\n\n§ 1º (VETADO). (Incluído pela Lei nº 13.655, de 2018)\n\n§ 2º (VETADO). (Incluído pela Lei nº 13.655, de 2018)\n\n§ 3º (VETADO). (Incluído pela Lei nº 13.655, de 2018)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%2028.%20O%20agente%20p%C3%BAblico%20responder%C3%A1%20pessoalmente%20por%20suas%20decis%C3%B5es%20ou%20opini%C3%B5es%20t%C3%A9cnicas%20em%20caso%20de%20dolo%20ou%20erro%20grosseiro.%20%28Inclu%C3%ADdo%20pela",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Em qualquer órgão ou Poder, a edição de atos normativos por autoridade administrativa, salvo os de mera organização interna, poderá ser precedida de consulta pública para manifestação de interessados, preferencialmente por meio eletrônico, a qual será considerada na decisão. (Incluído pela Lei nº 13.655, de 2018) (Vigência) (Regulamento)\n\n§ 1º A convocação conterá a minuta do ato normativo e fixará o prazo e demais condições da consulta pública, observadas as normas legais e regulamentares específicas, se houver. (Incluído pela Lei nº 13.655, de 2018) (Vigência)\n\n§ 2º (VETADO). (Incluído pela Lei nº 13.655, de 2018) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%2029.%20Em%20qualquer%20%C3%B3rg%C3%A3o%20ou%20Poder%2C%20a%20edi%C3%A7%C3%A3o%20de%20atos%20normativos%20por%20autoridade%20administrativa%2C%20salvo%20os%20de%20mera%20organiza%C3%A7%C3%A3o%20interna%2C%20poder%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. As autoridades públicas devem atuar para aumentar a segurança jurídica na aplicação das normas, inclusive por meio de regulamentos, súmulas administrativas e respostas a consultas. (Incluído pela Lei nº 13.655, de 2018) (Regulamento)\n\nParágrafo único. Os instrumentos previstos no caput deste artigo terão caráter vinculante em relação ao órgão ou entidade a que se destinam, até ulterior revisão. (Incluído pela Lei nº 13.655, de 2018)\n\nRio de Janeiro, 4 de setembro de 1942, 121o da Independência e 54o da República.\n\nGETULIO VARGAS Alexandre Marcondes Filho Oswaldo Aranha.\n\nEste texto não substitui o publicado no DOU de 9.9.1942, retificado em 8.10.1942 e retificado em 17.6.1943\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm#:~:text=Art.%2030.%20As%20autoridades%20p%C3%BAblicas%20devem%20atuar%20para%20aumentar%20a%20seguran%C3%A7a%20jur%C3%ADdica%20na%20aplica%C3%A7%C3%A3o%20das%20normas%2C%20inclusive%20por%20meio%20de%20regulamentos%2C%20s%C3%BAmulas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": null
+    }
+  }
+}

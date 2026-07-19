@@ -26,19 +26,19 @@ python3 ferramentas/manutencao/auditar_base_juridica.py --json
 
 | Acervo | Arquivos principais | Quantidade observada | Tamanho ou cobertura |
 |---|---:|---:|---|
-| Legislação | 11 | 6.999 registros | 11 diplomas |
+| Legislação | 19 | 8.172 registros | 19 diplomas |
 | Súmulas | 3 | 1.475 registros | STJ, STF e vinculantes do STF |
 | Jurisprudência em Teses | 1 | 3.508 teses | 283 edições do STJ |
 | Temas repetitivos | 1 | 1.462 temas | STJ |
 | Índices auxiliares | 2 exclusivos + índices embutidos | derivados | palavras-chave e termos de busca |
-| Total em JSON | 18 | — | 19.676.210 bytes, cerca de 20 MB |
+| Total em JSON | 26 | — | 21.422.393 bytes, cerca de 21 MB |
 
 Os números acima foram contados diretamente nos JSONs. `gerado_em` e `generatedAt`
 indicam geração do arquivo, não garantem a data de vigência do conteúdo.
 
 ## Legislação
 
-Todos os 6.803 registros legislativos possuem URL individual. Os metadados apontam
+Todos os 8.172 registros legislativos possuem URL individual. Os metadados apontam
 para páginas compiladas do Planalto.
 
 | Código | Diploma | Gerado em | Registros | Índice | Situação estrutural |
@@ -54,23 +54,47 @@ para páginas compiladas do Planalto.
 | `CPP` | Código de Processo Penal — Decreto-Lei 3.689/1941 | 2026-07-19 | 843 | pré-computado preservado | coerente |
 | `CTB` | Código de Trânsito Brasileiro — Lei 9.503/1997 | 2026-07-19 | 390 | pré-computado preservado | coerente |
 | `CTN` | Código Tributário Nacional — Lei 5.172/1966 | 2026-07-19 | 209 | pré-computado preservado | coerente |
+| `ECA` | Estatuto da Criança e do Adolescente — Lei 8.069/1990 | 2026-07-19 | 324 | sem índice curado; busca em texto integral | coerente |
+| `LBPS` | Lei de Benefícios da Previdência Social — Lei 8.213/1991 | 2026-07-19 | 177 | sem índice curado; busca em texto integral | coerente |
+| `LD` | Lei de Drogas — Lei 11.343/2006 | 2026-07-19 | 92 | sem índice curado; busca em texto integral | coerente |
+| `LEP` | Lei de Execução Penal — Lei 7.210/1984 | 2026-07-19 | 218 | sem índice curado; busca em texto integral | coerente |
+| `LGPD` | Lei Geral de Proteção de Dados Pessoais — Lei 13.709/2018 | 2026-07-19 | 79 | sem índice curado; busca em texto integral | coerente |
+| `LINDB` | Lei de Introdução às Normas do Direito Brasileiro — Decreto-Lei 4.657/1942 | 2026-07-19 | 30 | sem índice curado; busca em texto integral | coerente |
+| `LLC` | Lei de Licitações e Contratos Administrativos — Lei 14.133/2021 | 2026-07-19 | 196 | sem índice curado; busca em texto integral | coerente |
+| `LMP` | Lei Maria da Penha — Lei 11.340/2006 | 2026-07-19 | 57 | sem índice curado; busca em texto integral | coerente |
 
-A soma dos metadados e a contagem real são 6.999. O snapshot de 2026-07-19 foi o
+A soma dos metadados e a contagem real são 8.172. O snapshot de 2026-07-19 foi o
 primeiro produzido integralmente pelo pipeline reproduzível: o ganho de 196
-registros vem principalmente de artigos revogados retidos que o processo legado
-omitia, além de dispositivos novos como o art. 121-B e o art. 147-C do CP e o
-art. 699-A do CPC. Os índices invertidos pré-computados são enriquecimentos
-legados preservados na transformação; artigos acrescentados depois deles ficam
-fora do índice até o `BASE-019` tornar a geração reproduzível.
+registros nos 11 diplomas originais vem principalmente de artigos revogados
+retidos que o processo legado omitia, além de dispositivos novos como o art.
+121-B e o art. 147-C do CP e o art. 699-A do CPC. Os índices invertidos
+pré-computados são enriquecimentos legados preservados na transformação; artigos
+acrescentados depois deles ficam fora do índice até o `BASE-019` tornar a
+geração reproduzível.
+
+Os oito diplomas incorporados em 19 de julho de 2026 (piloto de expansão a partir
+das páginas compiladas do Planalto) não possuem índice curado: a busca usa o
+texto integral dos dispositivos. Particularidades observadas na fonte e
+preservadas no snapshot:
+
+- a página da Lei 8.213/1991 consolida os arts. 145 a 147 numa única linha de
+  revogação ("Art. 144. a Art. 147. Revogado"), registrada no art. 144; não há
+  registros separados para 145–147;
+- a página da LGPD apresenta o art. 57 com defeito tipográfico ("Art. 5 7.
+  (VETADO)."), e o dispositivo vetado não gera registro próprio;
+- os arts. 337-E a 337-P citados na página da Lei 14.133/2021 pertencem ao
+  Código Penal (inseridos pelo art. 178 daquela lei) e ficam registrados apenas
+  em `CP`; a transformação exclui dispositivos cujo rótulo aponta para outra
+  norma.
 
 ### Cobertura real do motor legislativo
 
 | Superfície | Cobertura observada |
 |---|---|
-| Arquivos disponíveis | `ADCT`, `CC`, `CDC`, `CE`, `CF`, `CLT`, `CP`, `CPC`, `CPP`, `CTB`, `CTN` |
-| Códigos declarados no TypeScript | exatamente os 11 arquivos disponíveis |
-| Busca com código específico | aceita os 11 códigos; valor desconhecido produz erro legível |
-| Busca `todos` | os 11 códigos do registro central |
+| Arquivos disponíveis | `ADCT`, `CC`, `CDC`, `CE`, `CF`, `CLT`, `CP`, `CPC`, `CPP`, `CTB`, `CTN`, `ECA`, `LBPS`, `LD`, `LEP`, `LGPD`, `LINDB`, `LLC`, `LMP` |
+| Códigos declarados no TypeScript | exatamente os 19 arquivos disponíveis |
+| Busca com código específico | aceita os 19 códigos; valor desconhecido produz erro legível |
+| Busca `todos` | os 19 códigos do registro central |
 | Esquema MCP e sua documentação | gerados a partir do mesmo registro central |
 
 Desde a conclusão de `BASE-002` e `BASE-003`:
@@ -220,7 +244,7 @@ proveniência e efeito jurídico. O vocabulário e as regras estão documentados
   a referência pública e o processo futuro já estejam documentados;
 - os rótulos reduzem inferências indevidas, mas não substituem o exame do inteiro teor,
   da vigência, da situação atual e da aplicabilidade ao caso;
-- a avaliação de recuperação cobre 24 consultas controladas e seis famílias; ela é um
+- a avaliação de recuperação cobre 34 consultas controladas e seis famílias; ela é um
   gate de regressão, não uma estimativa exaustiva para qualquer consulta jurídica.
 
 As métricas e limitações estão em

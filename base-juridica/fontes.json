@@ -90,6 +90,62 @@
           "url": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
           "arquivo_bruto": "ctn.html",
           "destino": "lei_ctn.json"
+        },
+        {
+          "id": "eca",
+          "codigo": "ECA",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069compilado.htm",
+          "arquivo_bruto": "eca.html",
+          "destino": "lei_eca.json"
+        },
+        {
+          "id": "lbps",
+          "codigo": "LBPS",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8213compilado.htm",
+          "arquivo_bruto": "lbps.html",
+          "destino": "lei_lbps.json"
+        },
+        {
+          "id": "ld",
+          "codigo": "LD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm",
+          "arquivo_bruto": "ld.html",
+          "destino": "lei_ld.json"
+        },
+        {
+          "id": "lep",
+          "codigo": "LEP",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l7210compilado.htm",
+          "arquivo_bruto": "lep.html",
+          "destino": "lei_lep.json"
+        },
+        {
+          "id": "lgpd",
+          "codigo": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "arquivo_bruto": "lgpd.html",
+          "destino": "lei_lgpd.json"
+        },
+        {
+          "id": "lindb",
+          "codigo": "LINDB",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm",
+          "arquivo_bruto": "lindb.html",
+          "destino": "lei_lindb.json"
+        },
+        {
+          "id": "llc",
+          "codigo": "LLC",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+          "arquivo_bruto": "llc.html",
+          "destino": "lei_llc.json"
+        },
+        {
+          "id": "lmp",
+          "codigo": "LMP",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm",
+          "arquivo_bruto": "lmp.html",
+          "destino": "lei_lmp.json"
         }
       ]
     },

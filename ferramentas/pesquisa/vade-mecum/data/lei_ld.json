@@ -1,0 +1,1487 @@
+{
+  "_meta": {
+    "codigo": "LD",
+    "nome": "Lei de Drogas",
+    "lei": "Lei 11.343/2006",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm",
+    "total_artigos": 92,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Esta Lei institui o Sistema Nacional de Políticas Públicas sobre Drogas - Sisnad; prescreve medidas para prevenção do uso indevido, atenção e reinserção social de usuários e dependentes de drogas; estabelece normas para repressão à produção não autorizada e ao tráfico ilícito de drogas e define crimes.\n\nParágrafo único. Para fins desta Lei, consideram-se como drogas as substâncias ou os produtos capazes de causar dependência, assim especificados em lei ou relacionados em listas atualizadas periodicamente pelo Poder Executivo da União.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%201%C2%BA%20Esta%20Lei%20institui%20o%20Sistema%20Nacional%20de%20Pol%C3%ADticas%20P%C3%BAblicas%20sobre%20Drogas%20-%20Sisnad%3B%20prescreve%20medidas%20para%20preven%C3%A7%C3%A3o%20do%20uso%20indevido%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Ficam proibidas, em todo o território nacional, as drogas, bem como o plantio, a cultura, a colheita e a exploração de vegetais e substratos dos quais possam ser extraídas ou produzidas drogas, ressalvada a hipótese de autorização legal ou regulamentar, bem como o que estabelece a Convenção de Viena, das Nações Unidas, sobre Substâncias Psicotrópicas, de 1971, a respeito de plantas de uso estritamente ritualístico-religioso.\n\nParágrafo único. Pode a União autorizar o plantio, a cultura e a colheita dos vegetais referidos no caput deste artigo, exclusivamente para fins medicinais ou científicos, em local e prazo predeterminados, mediante fiscalização, respeitadas as ressalvas supramencionadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%202%C2%BA%20Ficam%20proibidas%2C%20em%20todo%20o%20territ%C3%B3rio%20nacional%2C%20as%20drogas%2C%20bem%20como%20o%20plantio%2C%20a%20cultura%2C%20a%20colheita%20e%20a%20explora%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º O Sisnad tem a finalidade de articular, integrar, organizar e coordenar as atividades relacionadas com:\n\nI - a prevenção do uso indevido, a atenção e a reinserção social de usuários e dependentes de drogas;\n\nII - a repressão da produção não autorizada e do tráfico ilícito de drogas.\n\n§ 1º Entende-se por Sisnad o conjunto ordenado de princípios, regras, critérios e recursos materiais e humanos que envolvem as políticas, planos, programas, ações e projetos sobre drogas, incluindo-se nele, por adesão, os Sistemas de Políticas Públicas sobre Drogas dos Estados, Distrito Federal e Municípios. (Incluído pela Lei nº 13.840, de 2019)\n\n§ 2º O Sisnad atuará em articulação com o Sistema Único de Saúde - SUS, e com o Sistema Único de Assistência Social - SUAS. (Incluído pela Lei nº 13.840, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%203%C2%BA%20O%20Sisnad%20tem%20a%20finalidade%20de%20articular%2C%20integrar%2C%20organizar%20e%20coordenar%20as%20atividades%20relacionadas%20com%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º São princípios do Sisnad:\n\nI - o respeito aos direitos fundamentais da pessoa humana, especialmente quanto à sua autonomia e à sua liberdade;\n\nII - o respeito à diversidade e às especificidades populacionais existentes;\n\nIII - a promoção dos valores éticos, culturais e de cidadania do povo brasileiro, reconhecendo-os como fatores de proteção para o uso indevido de drogas e outros comportamentos correlacionados;\n\nIV - a promoção de consensos nacionais, de ampla participação social, para o estabelecimento dos fundamentos e estratégias do Sisnad;\n\nV - a promoção da responsabilidade compartilhada entre Estado e Sociedade, reconhecendo a importância da participação social nas atividades do Sisnad;\n\nVI - o reconhecimento da intersetorialidade dos fatores correlacionados com o uso indevido de drogas, com a sua produção não autorizada e o seu tráfico ilícito;\n\nVII - a integração das estratégias nacionais e internacionais de prevenção do uso indevido, atenção e reinserção social de usuários e dependentes de drogas e de repressão à sua produção não autorizada e ao seu tráfico ilícito;\n\nVIII - a articulação com os órgãos do Ministério Público e dos Poderes Legislativo e Judiciário visando à cooperação mútua nas atividades do Sisnad;\n\nIX - a adoção de abordagem multidisciplinar que reconheça a interdependência e a natureza complementar das atividades de prevenção do uso indevido, atenção e reinserção social de usuários e dependentes de drogas, repressão da produção não autorizada e do tráfico ilícito de drogas;\n\nX - a observância do equilíbrio entre as atividades de prevenção do uso indevido, atenção e reinserção social de usuários e dependentes de drogas e de repressão à sua produção não autorizada e ao seu tráfico ilícito, visando a garantir a estabilidade e o bem-estar social;\n\nXI - a observância às orientações e normas emanadas do Conselho Nacional Antidrogas - Conad.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%204%C2%BA%20S%C3%A3o%20princ%C3%ADpios%20do%20Sisnad%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º O Sisnad tem os seguintes objetivos:\n\nI - contribuir para a inclusão social do cidadão, visando a torná-lo menos vulnerável a assumir comportamentos de risco para o uso indevido de drogas, seu tráfico ilícito e outros comportamentos correlacionados;\n\nII - promover a construção e a socialização do conhecimento sobre drogas no país;\n\nIII - promover a integração entre as políticas de prevenção do uso indevido, atenção e reinserção social de usuários e dependentes de drogas e de repressão à sua produção não autorizada e ao tráfico ilícito e as políticas públicas setoriais dos órgãos do Poder Executivo da União, Distrito Federal, Estados e Municípios;\n\nIV - assegurar as condições para a coordenação, a integração e a articulação das atividades de que trata o art. 3º desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%205%C2%BA%20O%20Sisnad%20tem%20os%20seguintes%20objetivos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%206%C2%BA%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º A organização do Sisnad assegura a orientação central e a execução descentralizada das atividades realizadas em seu âmbito, nas esferas federal, distrital, estadual e municipal e se constitui matéria definida no regulamento desta Lei.\n\nArt. 7º-A. (VETADO). (Incluído pela Lei nº 13.840, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%207%C2%BA%20A%20organiza%C3%A7%C3%A3o%20do%20Sisnad%20assegura%20a%20orienta%C3%A7%C3%A3o%20central%20e%20a%20execu%C3%A7%C3%A3o%20descentralizada%20das%20atividades%20realizadas%20em%20seu%20%C3%A2mbito%2C%20nas%20esferas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%208%C2%BA%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%209%C2%BA%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II-A",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2010.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II-A",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2011.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II-A",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2012.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II-A",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2013.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II-A",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2014.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II-A",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2015.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. As instituições com atuação nas áreas da atenção à saúde e da assistência social que atendam usuários ou dependentes de drogas devem comunicar ao órgão competente do respectivo sistema municipal de saúde os casos atendidos e os óbitos ocorridos, preservando a identidade das pessoas, conforme orientações emanadas da União.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2016.%20As%20institui%C3%A7%C3%B5es%20com%20atua%C3%A7%C3%A3o%20nas%20%C3%A1reas%20da%20aten%C3%A7%C3%A3o%20%C3%A0%20sa%C3%BAde%20e%20da%20assist%C3%AAncia%20social%20que%20atendam%20usu%C3%A1rios%20ou%20dependentes%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Os dados estatísticos nacionais de repressão ao tráfico ilícito de drogas integrarão sistema de informações do Poder Executivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2017.%20Os%20dados%20estat%C3%ADsticos%20nacionais%20de%20repress%C3%A3o%20ao%20tr%C3%A1fico%20il%C3%ADcito%20de%20drogas%20integrar%C3%A3o%20sistema%20de%20informa%C3%A7%C3%B5es%20do%20Poder%20Executivo.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Constituem atividades de prevenção do uso indevido de drogas, para efeito desta Lei, aquelas direcionadas para a redução dos fatores de vulnerabilidade e risco e para a promoção e o fortalecimento dos fatores de proteção.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2018.%20Constituem%20atividades%20de%20preven%C3%A7%C3%A3o%20do%20uso%20indevido%20de%20drogas%2C%20para%20efeito%20desta%20Lei%2C%20aquelas%20direcionadas%20para%20a%20redu%C3%A7%C3%A3o%20dos%20fatores",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. As atividades de prevenção do uso indevido de drogas devem observar os seguintes princípios e diretrizes:\n\nI - o reconhecimento do uso indevido de drogas como fator de interferência na qualidade de vida do indivíduo e na sua relação com a comunidade à qual pertence;\n\nII - a adoção de conceitos objetivos e de fundamentação científica como forma de orientar as ações dos serviços públicos comunitários e privados e de evitar preconceitos e estigmatização das pessoas e dos serviços que as atendam;\n\nIII - o fortalecimento da autonomia e da responsabilidade individual em relação ao uso indevido de drogas;\n\nIV - o compartilhamento de responsabilidades e a colaboração mútua com as instituições do setor privado e com os diversos segmentos sociais, incluindo usuários e dependentes de drogas e respectivos familiares, por meio do estabelecimento de parcerias;\n\nV - a adoção de estratégias preventivas diferenciadas e adequadas às especificidades socioculturais das diversas populações, bem como das diferentes drogas utilizadas;\n\nVI - o reconhecimento do “não-uso”, do “retardamento do uso” e da redução de riscos como resultados desejáveis das atividades de natureza preventiva, quando da definição dos objetivos a serem alcançados;\n\nVII - o tratamento especial dirigido às parcelas mais vulneráveis da população, levando em consideração as suas necessidades específicas;\n\nVIII - a articulação entre os serviços e organizações que atuam em atividades de prevenção do uso indevido de drogas e a rede de atenção a usuários e dependentes de drogas e respectivos familiares;\n\nIX - o investimento em alternativas esportivas, culturais, artísticas, profissionais, entre outras, como forma de inclusão social e de melhoria da qualidade de vida;\n\nX - o estabelecimento de políticas de formação continuada na área da prevenção do uso indevido de drogas para profissionais de educação nos 3 (três) níveis de ensino;\n\nXI - a implantação de projetos pedagógicos de prevenção do uso indevido de drogas, nas instituições de ensino público e privado, alinhados às Diretrizes Curriculares Nacionais e aos conhecimentos relacionados a drogas;\n\nXII - a observância das orientações e normas emanadas do Conad;\n\nXIII - o alinhamento às diretrizes dos órgãos de controle social de políticas setoriais específicas.\n\nParágrafo único. As atividades de prevenção do uso indevido de drogas dirigidas à criança e ao adolescente deverão estar em consonância com as diretrizes emanadas pelo Conselho Nacional dos Direitos da Criança e do Adolescente - Conanda.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2019.%20As%20atividades%20de%20preven%C3%A7%C3%A3o%20do%20uso%20indevido%20de%20drogas%20devem%20observar%20os%20seguintes%20princ%C3%ADpios%20e%20diretrizes%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "18",
+      "next": "19-A"
+    },
+    "19-A": {
+      "numero": "19-A",
+      "texto": "Art. 19-A. Fica instituída a Semana Nacional de Políticas sobre Drogas, comemorada anualmente, na quarta semana de junho. (Incluído pela Lei nº 13.840, de 2019)\n\n§ 1º No período de que trata o caput , serão intensificadas as ações de: (Incluído pela Lei nº 13.840, de 2019)\n\nI - difusão de informações sobre os problemas decorrentes do uso de drogas; (Incluído pela Lei nº 13.840, de 2019)\n\nII - promoção de eventos para o debate público sobre as políticas sobre drogas; (Incluído pela Lei nº 13.840, de 2019)\n\nIII - difusão de boas práticas de prevenção, tratamento, acolhimento e reinserção social e econômica de usuários de drogas; (Incluído pela Lei nº 13.840, de 2019)\n\nIV - divulgação de iniciativas, ações e campanhas de prevenção do uso indevido de drogas; (Incluído pela Lei nº 13.840, de 2019)\n\nV - mobilização da comunidade para a participação nas ações de prevenção e enfrentamento às drogas; (Incluído pela Lei nº 13.840, de 2019)\n\nVI - mobilização dos sistemas de ensino previstos na Lei nº 9.394, de 20 de dezembro de 1996 - Lei de Diretrizes e Bases da Educação Nacional , na realização de atividades de prevenção ao uso de drogas. (Incluído pela Lei nº 13.840, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2019-A.%20Fica%20institu%C3%ADda%20a%20Semana%20Nacional%20de%20Pol%C3%ADticas%20sobre%20Drogas%2C%20comemorada%20anualmente%2C%20na%20quarta%20semana%20de%20junho.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "19",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Constituem atividades de atenção ao usuário e dependente de drogas e respectivos familiares, para efeito desta Lei, aquelas que visem à melhoria da qualidade de vida e à redução dos riscos e dos danos associados ao uso de drogas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2020.%20Constituem%20atividades%20de%20aten%C3%A7%C3%A3o%20ao%20usu%C3%A1rio%20e%20dependente%20de%20drogas%20e%20respectivos%20familiares%2C%20para%20efeito%20desta%20Lei%2C%20aquelas%20que%20visem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "19-A",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Constituem atividades de reinserção social do usuário ou do dependente de drogas e respectivos familiares, para efeito desta Lei, aquelas direcionadas para sua integração ou reintegração em redes sociais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2021.%20Constituem%20atividades%20de%20reinser%C3%A7%C3%A3o%20social%20do%20usu%C3%A1rio%20ou%20do%20dependente%20de%20drogas%20e%20respectivos%20familiares%2C%20para%20efeito%20desta%20Lei%2C%20aquelas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. As atividades de atenção e as de reinserção social do usuário e do dependente de drogas e respectivos familiares devem observar os seguintes princípios e diretrizes:\n\nI - respeito ao usuário e ao dependente de drogas, independentemente de quaisquer condições, observados os direitos fundamentais da pessoa humana, os princípios e diretrizes do Sistema Único de Saúde e da Política Nacional de Assistência Social;\n\nII - a adoção de estratégias diferenciadas de atenção e reinserção social do usuário e do dependente de drogas e respectivos familiares que considerem as suas peculiaridades socioculturais;\n\nIII - definição de projeto terapêutico individualizado, orientado para a inclusão social e para a redução de riscos e de danos sociais e à saúde;\n\nIV - atenção ao usuário ou dependente de drogas e aos respectivos familiares, sempre que possível, de forma multidisciplinar e por equipes multiprofissionais;\n\nV - observância das orientações e normas emanadas do Conad;\n\nVI - o alinhamento às diretrizes dos órgãos de controle social de políticas setoriais específicas.\n\nVII - estímulo à capacitação técnica e profissional; (Incluído pela Lei nº 13.840, de 2019)\n\nVIII - efetivação de políticas de reinserção social voltadas à educação continuada e ao trabalho; (Incluído pela Lei nº 13.840, de 2019)\n\nIX - observância do plano individual de atendimento na forma do art. 23-B desta Lei; (Incluído pela Lei nº 13.840, de 2019)\n\nX - orientação adequada ao usuário ou dependente de drogas quanto às consequências lesivas do uso de drogas, ainda que ocasional. (Incluído pela Lei nº 13.840, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2022.%20As%20atividades%20de%20aten%C3%A7%C3%A3o%20e%20as%20de%20reinser%C3%A7%C3%A3o%20social%20do%20usu%C3%A1rio%20e%20do%20dependente%20de%20drogas%20e%20respectivos%20familiares%20devem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "21",
+      "next": "22-A"
+    },
+    "22-A": {
+      "numero": "22-A",
+      "texto": "Art. 22-A. As pessoas atendidas por órgãos integrantes do Sisnad terão atendimento nos programas de educação profissional e tecnológica, educação de jovens e adultos e alfabetização. (Incluído pela Lei nº 13.840, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2022-A.%20As%20pessoas%20atendidas%20por%20%C3%B3rg%C3%A3os%20integrantes%20do%20Sisnad%20ter%C3%A3o%20atendimento%20nos%20programas%20de%20educa%C3%A7%C3%A3o%20profissional%20e%20tecnol%C3%B3gica%2C%20educa%C3%A7%C3%A3o%20de%20jovens",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "22",
+      "next": "22-B"
+    },
+    "22-B": {
+      "numero": "22-B",
+      "texto": "Art. 22-B. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2022-B.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "22-A",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. As redes dos serviços de saúde da União, dos Estados, do Distrito Federal, dos Municípios desenvolverão programas de atenção ao usuário e ao dependente de drogas, respeitadas as diretrizes do Ministério da Saúde e os princípios explicitados no art. 22 desta Lei, obrigatória a previsão orçamentária adequada.\n\nParágrafo único. Será criada estratégia específica de assistência multiprofissional e interdisciplinar às mulheres usuárias e dependentes de álcool, em especial às gestantes e às puérperas, em consonância com os princípios da universalidade e da integralidade e com o disposto nos incisos I, II, III, IV, IX e X do caput do art. 22 desta Lei. (Incluído pela Lei nº 15.581, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2023.%20As%20redes%20dos%20servi%C3%A7os%20de%20sa%C3%BAde%20da%20Uni%C3%A3o%2C%20dos%20Estados%2C%20do%20Distrito%20Federal%2C%20dos%20Munic%C3%ADpios%20desenvolver%C3%A3o%20programas%20de%20aten%C3%A7%C3%A3o%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "22-B",
+      "next": "23-A"
+    },
+    "23-A": {
+      "numero": "23-A",
+      "texto": "Art. 23-A. O tratamento do usuário ou dependente de drogas deverá ser ordenado em uma rede de atenção à saúde, com prioridade para as modalidades de tratamento ambulatorial, incluindo excepcionalmente formas de internação em unidades de saúde e hospitais gerais nos termos de normas dispostas pela União e articuladas com os serviços de assistência social e em etapas que permitam: (Incluído pela Lei nº 13.840, de 2019)\n\nI - articular a atenção com ações preventivas que atinjam toda a população; (Incluído pela Lei nº 13.840, de 2019)\n\nII - orientar-se por protocolos técnicos predefinidos, baseados em evidências científicas, oferecendo atendimento individualizado ao usuário ou dependente de drogas com abordagem preventiva e, sempre que indicado, ambulatorial; (Incluído pela Lei nº 13.840, de 2019)\n\nIII - preparar para a reinserção social e econômica, respeitando as habilidades e projetos individuais por meio de programas que articulem educação, capacitação para o trabalho, esporte, cultura e acompanhamento individualizado; e (Incluído pela Lei nº 13.840, de 2019)\n\nIV - acompanhar os resultados pelo SUS, Suas e Sisnad, de forma articulada. (Incluído pela Lei nº 13.840, de 2019)\n\n§ 1º Caberá à União dispor sobre os protocolos técnicos de tratamento, em âmbito nacional. (Incluído pela Lei nº 13.840, de 2019)\n\n§ 2º A internação de dependentes de drogas somente será realizada em unidades de saúde ou hospitais gerais, dotados de equipes multidisciplinares e deverá ser obrigatoriamente autorizada por médico devidamente registrado no Conselho Regional de Medicina - CRM do Estado onde se localize o estabelecimento no qual se dará a internação. (Incluído pela Lei nº 13.840, de 2019)\n\n§ 3º São considerados 2 (dois) tipos de internação: (Incluído pela Lei nº 13.840, de 2019)\n\nI - internação voluntária: aquela que se dá com o consentimento do dependente de drogas; (Incluído pela Lei nº 13.840, de 2019)\n\nII - internação involuntária: aquela que se dá, sem o consentimento do dependente, a pedido de familiar ou do responsável legal ou, na absoluta falta deste, de servidor público da área de saúde, da assistência social ou dos órgãos públicos integrantes do Sisnad, com exceção de servidores da área de segurança pública, que constate a existência de motivos que justifiquem a medida. (Incluído pela Lei nº 13.840, de 2019)\n\n§ 4º A internação voluntária: (Incluído pela Lei nº 13.840, de 2019)\n\nI - deverá ser precedida de declaração escrita da pessoa solicitante de que optou por este regime de tratamento; (Incluído pela Lei nº 13.840, de 2019)\n\nII - seu término dar-se-á por determinação do médico responsável ou por solicitação escrita da pessoa que deseja interromper o tratamento. (Incluído pela Lei nº 13.840, de 2019)\n\n§ 5º A internação involuntária: (Incluído pela Lei nº 13.840, de 2019)\n\nI - deve ser realizada após a formalização da decisão por médico responsável; (Incluído pela Lei nº 13.840, de 2019)\n\nII - será indicada depois da avaliação sobre o tipo de droga utilizada, o padrão de uso e na hipótese comprovada da impossibilidade de utilização de outras alternativas terapêuticas previstas na rede de atenção à saúde; (Incluído pela Lei nº 13.840, de 2019)\n\nIII - perdurará apenas pelo tempo necessário à desintoxicação, no prazo máximo de 90 (noventa) dias, tendo seu término determinado pelo médico responsável; (Incluído pela Lei nº 13.840, de 2019)\n\nIV - a família ou o representante legal poderá, a qualquer tempo, requerer ao médico a interrupção do tratamento. (Incluído pela Lei nº 13.840, de 2019)\n\n§ 6º A internação, em qualquer de suas modalidades, só será indicada quando os recursos extra-hospitalares se mostrarem insuficientes. (Incluído pela Lei nº 13.840, de 2019)\n\n§ 7º Todas as internações e altas de que trata esta Lei deverão ser informadas, em, no máximo, de 72 (setenta e duas) horas, ao Ministério Público, à Defensoria Pública e a outros órgãos de fiscalização, por meio de sistema informatizado único, na forma do regulamento desta Lei. (Incluído pela Lei nº 13.840, de 2019)\n\n§ 8º É garantido o sigilo das informações disponíveis no sistema referido no § 7º e o acesso será permitido apenas às pessoas autorizadas a conhecê-las, sob pena de responsabilidade. (Incluído pela Lei nº 13.840, de 2019)\n\n§ 9º É vedada a realização de qualquer modalidade de internação nas comunidades terapêuticas acolhedoras. (Incluído pela Lei nº 13.840, de 2019)\n\n§ 10. O planejamento e a execução do projeto terapêutico individual deverão observar, no que couber, o previsto na Lei nº 10.216, de 6 de abril de 2001 , que dispõe sobre a proteção e os direitos das pessoas portadoras de transtornos mentais e redireciona o modelo assistencial em saúde mental. (Incluído pela Lei nº 13.840, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2023-A.%20O%20tratamento%20do%20usu%C3%A1rio%20ou%20dependente%20de%20drogas%20dever%C3%A1%20ser%20ordenado%20em%20uma%20rede%20de%20aten%C3%A7%C3%A3o%20%C3%A0%20sa%C3%BAde%2C%20com%20prioridade",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "23",
+      "next": "23-B"
+    },
+    "23-B": {
+      "numero": "23-B",
+      "texto": "Art. 23-B . O atendimento ao usuário ou dependente de drogas na rede de atenção à saúde dependerá de: (Incluído pela Lei nº 13.840, de 2019)\n\nI - avaliação prévia por equipe técnica multidisciplinar e multissetorial; e (Incluído pela Lei nº 13.840, de 2019)\n\nII - elaboração de um Plano Individual de Atendimento - PIA. (Incluído pela Lei nº 13.840, de 2019)\n\n§ 1º A avaliação prévia da equipe técnica subsidiará a elaboração e execução do projeto terapêutico individual a ser adotado, levantando no mínimo: (Incluído pela Lei nº 13.840, de 2019)\n\nI - o tipo de droga e o padrão de seu uso; e (Incluído pela Lei nº 13.840, de 2019)\n\nII - o risco à saúde física e mental do usuário ou dependente de drogas ou das pessoas com as quais convive. (Incluído pela Lei nº 13.840, de 2019)\n\n§ 2º (VETADO). (Incluído pela Lei nº 13.840, de 2019)\n\n§ 3º O PIA deverá contemplar a participação dos familiares ou responsáveis, os quais têm o dever de contribuir com o processo, sendo esses, no caso de crianças e adolescentes, passíveis de responsabilização civil, administrativa e criminal, nos termos da Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente . (Incluído pela Lei nº 13.840, de 2019)\n\n§ 4º O PIA será inicialmente elaborado sob a responsabilidade da equipe técnica do primeiro projeto terapêutico que atender o usuário ou dependente de drogas e será atualizado ao longo das diversas fases do atendimento. (Incluído pela Lei nº 13.840, de 2019)\n\n§ 5º Constarão do plano individual, no mínimo: (Incluído pela Lei nº 13.840, de 2019)\n\nI - os resultados da avaliação multidisciplinar; (Incluído pela Lei nº 13.840, de 2019)\n\nII - os objetivos declarados pelo atendido; (Incluído pela Lei nº 13.840, de 2019)\n\nIII - a previsão de suas atividades de integração social ou capacitação profissional; (Incluído pela Lei nº 13.840, de 2019)\n\nIV - atividades de integração e apoio à família; (Incluído pela Lei nº 13.840, de 2019)\n\nV - formas de participação da família para efetivo cumprimento do plano individual; (Incluído pela Lei nº 13.840, de 2019)\n\nVI - designação do projeto terapêutico mais adequado para o cumprimento do previsto no plano; e (Incluído pela Lei nº 13.840, de 2019)\n\nVII - as medidas específicas de atenção à saúde do atendido. (Incluído pela Lei nº 13.840, de 2019)\n\n§ 6º O PIA será elaborado no prazo de até 30 (trinta) dias da data do ingresso no atendimento. (Incluído pela Lei nº 13.840, de 2019)\n\n§ 7º As informações produzidas na avaliação e as registradas no plano individual de atendimento são consideradas sigilosas. (Incluído pela Lei nº 13.840, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2023-B%20.%20O%20atendimento%20ao%20usu%C3%A1rio%20ou%20dependente%20de%20drogas%20na%20rede%20de%20aten%C3%A7%C3%A3o%20%C3%A0%20sa%C3%BAde%20depender%C3%A1%20de%3A%20%28Inclu%C3%ADdo%20pela%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "23-A",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. A União, os Estados, o Distrito Federal e os Municípios poderão conceder benefícios às instituições privadas que desenvolverem programas de reinserção no mercado de trabalho, do usuário e do dependente de drogas encaminhados por órgão oficial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2024.%20A%20Uni%C3%A3o%2C%20os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%20poder%C3%A3o%20conceder%20benef%C3%ADcios%20%C3%A0s%20institui%C3%A7%C3%B5es%20privadas%20que%20desenvolverem%20programas%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "23-B",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. As instituições da sociedade civil, sem fins lucrativos, com atuação nas áreas da atenção à saúde e da assistência social, que atendam usuários ou dependentes de drogas poderão receber recursos do Funad, condicionados à sua disponibilidade orçamentária e financeira.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2025.%20As%20institui%C3%A7%C3%B5es%20da%20sociedade%20civil%2C%20sem%20fins%20lucrativos%2C%20com%20atua%C3%A7%C3%A3o%20nas%20%C3%A1reas%20da%20aten%C3%A7%C3%A3o%20%C3%A0%20sa%C3%BAde%20e%20da%20assist%C3%AAncia%20social%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. O usuário e o dependente de drogas que, em razão da prática de infração penal, estiverem cumprindo pena privativa de liberdade ou submetidos a medida de segurança, têm garantidos os serviços de atenção à sua saúde, definidos pelo respectivo sistema penitenciário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2026.%20O%20usu%C3%A1rio%20e%20o%20dependente%20de%20drogas%20que%2C%20em%20raz%C3%A3o%20da%20pr%C3%A1tica%20de%20infra%C3%A7%C3%A3o%20penal%2C%20estiverem%20cumprindo%20pena%20privativa%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "25",
+      "next": "26-A"
+    },
+    "26-A": {
+      "numero": "26-A",
+      "texto": "Art. 26-A. O acolhimento do usuário ou dependente de drogas na comunidade terapêutica acolhedora caracteriza-se por: (Incluído pela Lei nº 13.840, de 2019)\n\nI - oferta de projetos terapêuticos ao usuário ou dependente de drogas que visam à abstinência; (Incluído pela Lei nº 13.840, de 2019)\n\nII - adesão e permanência voluntária, formalizadas por escrito, entendida como uma etapa transitória para a reinserção social e econômica do usuário ou dependente de drogas; (Incluído pela Lei nº 13.840, de 2019)\n\nIII - ambiente residencial, propício à formação de vínculos, com a convivência entre os pares, atividades práticas de valor educativo e a promoção do desenvolvimento pessoal, vocacionada para acolhimento ao usuário ou dependente de drogas em vulnerabilidade social; (Incluído pela Lei nº 13.840, de 2019)\n\nIV - avaliação médica prévia; (Incluído pela Lei nº 13.840, de 2019)\n\nV - elaboração de plano individual de atendimento na forma do art. 23-B desta Lei; e (Incluído pela Lei nº 13.840, de 2019)\n\nVI - vedação de isolamento físico do usuário ou dependente de drogas. (Incluído pela Lei nº 13.840, de 2019)\n\n§ 1º Não são elegíveis para o acolhimento as pessoas com comprometimentos biológicos e psicológicos de natureza grave que mereçam atenção médico-hospitalar contínua ou de emergência, caso em que deverão ser encaminhadas à rede de saúde. (Incluído pela Lei nº 13.840, de 2019)\n\n§ 2º (VETADO). (Incluído pela Lei nº 13.840, de 2019)\n\n§ 3º (VETADO). (Incluído pela Lei nº 13.840, de 2019)\n\n§ 4º (VETADO). (Incluído pela Lei nº 13.840, de 2019)\n\n§ 5º (VETADO). (Incluído pela Lei nº 13.840, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2026-A.%20O%20acolhimento%20do%20usu%C3%A1rio%20ou%20dependente%20de%20drogas%20na%20comunidade%20terap%C3%AAutica%20acolhedora%20caracteriza-se%20por%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.840%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "26",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. As penas previstas neste Capítulo poderão ser aplicadas isolada ou cumulativamente, bem como substituídas a qualquer tempo, ouvidos o Ministério Público e o defensor. (Vide RE 635659)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2027.%20As%20penas%20previstas%20neste%20Cap%C3%ADtulo%20poder%C3%A3o%20ser%20aplicadas%20isolada%20ou%20cumulativamente%2C%20bem%20como%20substitu%C3%ADdas%20a%20qualquer%20tempo%2C%20ouvidos%20o%20Minist%C3%A9rio",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "26-A",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Quem adquirir, guardar, tiver em depósito, transportar ou trouxer consigo, para consumo pessoal, drogas sem autorização ou em desacordo com determinação legal ou regulamentar será submetido às seguintes penas:\n\nI - advertência sobre os efeitos das drogas;\n\nII - prestação de serviços à comunidade;\n\nIII - medida educativa de comparecimento a programa ou curso educativo.\n\n§ 1º Às mesmas medidas submete-se quem, para seu consumo pessoal, semeia, cultiva ou colhe plantas destinadas à preparação de pequena quantidade de substância ou produto capaz de causar dependência física ou psíquica.\n\n§ 2º Para determinar se a droga destinava-se a consumo pessoal, o juiz atenderá à natureza e à quantidade da substância apreendida, ao local e às condições em que se desenvolveu a ação, às circunstâncias sociais e pessoais, bem como à conduta e aos antecedentes do agente.\n\n§ 3º As penas previstas nos incisos II e III do caput deste artigo serão aplicadas pelo prazo máximo de 5 (cinco) meses.\n\n§ 4º Em caso de reincidência, as penas previstas nos incisos II e III do caput deste artigo serão aplicadas pelo prazo máximo de 10 (dez) meses.\n\n§ 5º A prestação de serviços à comunidade será cumprida em programas comunitários, entidades educacionais ou assistenciais, hospitais, estabelecimentos congêneres, públicos ou privados sem fins lucrativos, que se ocupem, preferencialmente, da prevenção do consumo ou da recuperação de usuários e dependentes de drogas.\n\n§ 6º Para garantia do cumprimento das medidas educativas a que se refere o caput, nos incisos I, II e III, a que injustificadamente se recuse o agente, poderá o juiz submetê-lo, sucessivamente a:\n\nI - admoestação verbal;\n\nII - multa.\n\n§ 7º O juiz determinará ao Poder Público que coloque à disposição do infrator, gratuitamente, estabelecimento de saúde, preferencialmente ambulatorial, para tratamento especializado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2028.%20Quem%20adquirir%2C%20guardar%2C%20tiver%20em%20dep%C3%B3sito%2C%20transportar%20ou%20trouxer%20consigo%2C%20para%20consumo%20pessoal%2C%20drogas%20sem%20autoriza%C3%A7%C3%A3o%20ou%20em%20desacordo%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Na imposição da medida educativa a que se refere o inciso II do § 6º do art. 28, o juiz, atendendo à reprovabilidade da conduta, fixará o número de dias-multa, em quantidade nunca inferior a 40 (quarenta) nem superior a 100 (cem), atribuindo depois a cada um, segundo a capacidade econômica do agente, o valor de um trinta avos até 3 (três) vezes o valor do maior salário mínimo.\n\nParágrafo único. Os valores decorrentes da imposição da multa a que se refere o § 6º do art. 28 serão creditados à conta do Fundo Nacional Antidrogas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2029.%20Na%20imposi%C3%A7%C3%A3o%20da%20medida%20educativa%20a%20que%20se%20refere%20o%20inciso%20II%20do%20%C2%A7%206%C2%BA%20do%20art.%2028%2C%20o%20juiz%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Prescrevem em 2 (dois) anos a imposição e a execução das penas, observado, no tocante à interrupção do prazo, o disposto nos arts. 107 e seguintes do Código Penal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2030.%20Prescrevem%20em%202%20%28dois%29%20anos%20a%20imposi%C3%A7%C3%A3o%20e%20a%20execu%C3%A7%C3%A3o%20das%20penas%2C%20observado%2C%20no%20tocante%20%C3%A0%20interrup%C3%A7%C3%A3o%20do%20prazo%2C%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. É indispensável a licença prévia da autoridade competente para produzir, extrair, fabricar, transformar, preparar, possuir, manter em depósito, importar, exportar, reexportar, remeter, transportar, expor, oferecer, vender, comprar, trocar, ceder ou adquirir, para qualquer fim, drogas ou matéria-prima destinada à sua preparação, observadas as demais exigências legais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2031.%20%C3%89%20indispens%C3%A1vel%20a%20licen%C3%A7a%20pr%C3%A9via%20da%20autoridade%20competente%20para%20produzir%2C%20extrair%2C%20fabricar%2C%20transformar%2C%20preparar%2C%20possuir%2C%20manter%20em%20dep%C3%B3sito%2C%20importar%2C%20exportar%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. As plantações ilícitas serão imediatamente destruídas pelas autoridades de polícia judiciária, que recolherão quantidade suficiente para exame pericial, de tudo lavrando auto de levantamento das condições encontradas, com a delimitação do local, asseguradas as medidas necessárias para a preservação da prova.\n\n§ 1º A destruição de drogas far-se-á por incineração, no prazo máximo de 30 (trinta) dias, guardando-se as amostras necessárias à preservação da prova.\n\n§ 2º A incineração prevista no § 1º deste artigo será precedida de autorização judicial, ouvido o Ministério Público, e executada pela autoridade de polícia judiciária competente, na presença de representante do Ministério Público e da autoridade sanitária competente, mediante auto circunstanciado e após a perícia realizada no local da incineração.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2032.%20As%20planta%C3%A7%C3%B5es%20il%C3%ADcitas%20ser%C3%A3o%20imediatamente%20destru%C3%ADdas%20pelas%20autoridades%20de%20pol%C3%ADcia%20judici%C3%A1ria%2C%20que%20recolher%C3%A3o%20quantidade%20suficiente%20para%20exame%20pericial%2C%20de%20tudo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar:\n\nPena - reclusão de 5 (cinco) a 15 (quinze) anos e pagamento de 500 (quinhentos) a 1.500 (mil e quinhentos) dias-multa.\n\n§ 1º Nas mesmas penas incorre quem:\n\nI - importa, exporta, remete, produz, fabrica, adquire, vende, expõe à venda, oferece, fornece, tem em depósito, transporta, traz consigo ou guarda, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar, matéria-prima, insumo ou produto químico destinado à preparação de drogas;\n\nII - semeia, cultiva ou faz a colheita, sem autorização ou em desacordo com determinação legal ou regulamentar, de plantas que se constituam em matéria-prima para a preparação de drogas;\n\nIII - utiliza local ou bem de qualquer natureza de que tem a propriedade, posse, administração, guarda ou vigilância, ou consente que outrem dele se utilize, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar, para o tráfico ilícito de drogas.\n\nIV - vende ou entrega drogas ou matéria-prima, insumo ou produto químico destinado à preparação de drogas, sem autorização ou em desacordo com a determinação legal ou regulamentar, a agente policial disfarçado, quando presentes elementos probatórios razoáveis de conduta criminal preexistente. (Incluído pela Lei nº 13.964, de 2019)\n\n§ 2º Induzir, instigar ou auxiliar alguém ao uso indevido de droga: (Vide ADI nº 4.274)\n\nPena - detenção, de 1 (um) a 3 (três) anos, e multa de 100 (cem) a 300 (trezentos) dias-multa.\n\n§ 3º Oferecer droga, eventualmente e sem objetivo de lucro, a pessoa de seu relacionamento, para juntos a consumirem:\n\nPena - detenção, de 6 (seis) meses a 1 (um) ano, e pagamento de 700 (setecentos) a 1.500 (mil e quinhentos) dias-multa, sem prejuízo das penas previstas no art. 28.\n\n§ 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos , desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa. (Vide Resolução nº 5, de 2012)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2033.%20Importar%2C%20exportar%2C%20remeter%2C%20preparar%2C%20produzir%2C%20fabricar%2C%20adquirir%2C%20vender%2C%20expor%20%C3%A0%20venda%2C%20oferecer%2C%20ter%20em%20dep%C3%B3sito%2C%20transportar%2C%20trazer%20consigo%2C%20guardar%2C%20prescrever%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. Fabricar, adquirir, utilizar, transportar, oferecer, vender, distribuir, entregar a qualquer título, possuir, guardar ou fornecer, ainda que gratuitamente, maquinário, aparelho, instrumento ou qualquer objeto destinado à fabricação, preparação, produção ou transformação de drogas, sem autorização ou em desacordo com determinação legal ou regulamentar:\n\nPena - reclusão, de 3 (três) a 10 (dez) anos, e pagamento de 1.200 (mil e duzentos) a 2.000 (dois mil) dias-multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2034.%20Fabricar%2C%20adquirir%2C%20utilizar%2C%20transportar%2C%20oferecer%2C%20vender%2C%20distribuir%2C%20entregar%20a%20qualquer%20t%C3%ADtulo%2C%20possuir%2C%20guardar%20ou%20fornecer%2C%20ainda%20que%20gratuitamente%2C%20maquin%C3%A1rio%2C%20aparelho%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Associarem-se duas ou mais pessoas para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º , e 34 desta Lei:\n\nPena - reclusão, de 3 (três) a 10 (dez) anos, e pagamento de 700 (setecentos) a 1.200 (mil e duzentos) dias-multa.\n\nParágrafo único. Nas mesmas penas do caput deste artigo incorre quem se associa para a prática reiterada do crime definido no art. 36 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2035.%20Associarem-se%20duas%20ou%20mais%20pessoas%20para%20o%20fim%20de%20praticar%2C%20reiteradamente%20ou%20n%C3%A3o%2C%20qualquer%20dos%20crimes%20previstos%20nos%20arts.%2033%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Financiar ou custear a prática de qualquer dos crimes previstos nos arts. 33, caput e § 1º , e 34 desta Lei:\n\nPena - reclusão, de 8 (oito) a 20 (vinte) anos, e pagamento de 1.500 (mil e quinhentos) a 4.000 (quatro mil) dias-multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2036.%20Financiar%20ou%20custear%20a%20pr%C3%A1tica%20de%20qualquer%20dos%20crimes%20previstos%20nos%20arts.%2033%2C%20caput%20e%20%C2%A7%201%C2%BA%20%2C%20e%2034",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Colaborar, como informante, com grupo, organização ou associação destinados à prática de qualquer dos crimes previstos nos arts. 33, caput e § 1º , e 34 desta Lei:\n\nPena - reclusão, de 2 (dois) a 6 (seis) anos, e pagamento de 300 (trezentos) a 700 (setecentos) dias-multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2037.%20Colaborar%2C%20como%20informante%2C%20com%20grupo%2C%20organiza%C3%A7%C3%A3o%20ou%20associa%C3%A7%C3%A3o%20destinados%20%C3%A0%20pr%C3%A1tica%20de%20qualquer%20dos%20crimes%20previstos%20nos%20arts.%2033%2C%20caput",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Prescrever ou ministrar, culposamente, drogas, sem que delas necessite o paciente, ou fazê-lo em doses excessivas ou em desacordo com determinação legal ou regulamentar:\n\nPena - detenção, de 6 (seis) meses a 2 (dois) anos, e pagamento de 50 (cinqüenta) a 200 (duzentos) dias-multa.\n\nParágrafo único. O juiz comunicará a condenação ao Conselho Federal da categoria profissional a que pertença o agente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2038.%20Prescrever%20ou%20ministrar%2C%20culposamente%2C%20drogas%2C%20sem%20que%20delas%20necessite%20o%20paciente%2C%20ou%20faz%C3%AA-lo%20em%20doses%20excessivas%20ou%20em%20desacordo%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. Conduzir embarcação ou aeronave após o consumo de drogas, expondo a dano potencial a incolumidade de outrem:\n\nPena - detenção, de 6 (seis) meses a 3 (três) anos, além da apreensão do veículo, cassação da habilitação respectiva ou proibição de obtê-la, pelo mesmo prazo da pena privativa de liberdade aplicada, e pagamento de 200 (duzentos) a 400 (quatrocentos) dias-multa.\n\nParágrafo único. As penas de prisão e multa, aplicadas cumulativamente com as demais, serão de 4 (quatro) a 6 (seis) anos e de 400 (quatrocentos) a 600 (seiscentos) dias-multa, se o veículo referido no caput deste artigo for de transporte coletivo de passageiros.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2039.%20Conduzir%20embarca%C3%A7%C3%A3o%20ou%20aeronave%20ap%C3%B3s%20o%20consumo%20de%20drogas%2C%20expondo%20a%20dano%20potencial%20a%20incolumidade%20de%20outrem%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. As penas previstas nos arts. 33 a 37 desta Lei são aumentadas de um sexto a dois terços, se:\n\nI - a natureza, a procedência da substância ou do produto apreendido e as circunstâncias do fato evidenciarem a transnacionalidade do delito;\n\nII - o agente praticar o crime prevalecendo-se de função pública ou no desempenho de missão de educação, poder familiar, guarda ou vigilância;\n\nIII - a infração tiver sido cometida nas dependências ou imediações de estabelecimentos prisionais, de ensino ou hospitalares, de sedes de entidades estudantis, sociais, culturais, recreativas, esportivas, ou beneficentes, de locais de trabalho coletivo, de recintos onde se realizem espetáculos ou diversões de qualquer natureza, de serviços de tratamento de dependentes de drogas ou de reinserção social, de unidades militares ou policiais ou em transportes públicos;\n\nIV - o crime tiver sido praticado com violência, grave ameaça, emprego de arma de fogo, ou qualquer processo de intimidação difusa ou coletiva;\n\nV - caracterizado o tráfico entre Estados da Federação ou entre estes e o Distrito Federal;\n\nVI - sua prática envolver ou visar a atingir criança ou adolescente ou a quem tenha, por qualquer motivo, diminuída ou suprimida a capacidade de entendimento e determinação;\n\nVII - o agente financiar ou custear a prática do crime.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2040.%20As%20penas%20previstas%20nos%20arts.%2033%20a%2037%20desta%20Lei%20s%C3%A3o%20aumentadas%20de%20um%20sexto%20a%20dois%20ter%C3%A7os%2C%20se%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "39",
+      "next": "40-A"
+    },
+    "40-A": {
+      "numero": "40-A",
+      "texto": "Art. 40-A. As penas previstas nos arts. 33 a 37 desta Lei serão aplicadas em dobro se o crime tiver sido praticado por integrante de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada, no contexto da atuação ou para a consecução das condutas previstas no art. 2º da lei que institui o marco legal do combate ao crime organizado no Brasil. (Incluído pela Lei nº 15.358, de 2026)\n\nParágrafo único. Aplica-se a pena do concurso material prevista no art. 69 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), se o crime tiver sido praticado com o emprego de arma de fogo, independentemente de o seu uso estar diretamente ligado ao comércio ilícito de entorpecentes ou de o artefato ter sido utilizado para assegurar o sucesso da mercancia. (Incluído pela Lei nº 15.358, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2040-A.%20As%20penas%20previstas%20nos%20arts.%2033%20a%2037%20desta%20Lei%20ser%C3%A3o%20aplicadas%20em%20dobro%20se%20o%20crime%20tiver%20sido%20praticado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "40",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. O indiciado ou acusado que colaborar voluntariamente com a investigação policial e o processo criminal na identificação dos demais co-autores ou partícipes do crime e na recuperação total ou parcial do produto do crime, no caso de condenação, terá pena reduzida de um terço a dois terços.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2041.%20O%20indiciado%20ou%20acusado%20que%20colaborar%20voluntariamente%20com%20a%20investiga%C3%A7%C3%A3o%20policial%20e%20o%20processo%20criminal%20na%20identifica%C3%A7%C3%A3o%20dos%20demais%20co-autores",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "40-A",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. O juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2042.%20O%20juiz%2C%20na%20fixa%C3%A7%C3%A3o%20das%20penas%2C%20considerar%C3%A1%2C%20com%20preponder%C3%A2ncia%20sobre%20o%20previsto%20no%20art.%2059%20do%20C%C3%B3digo%20Penal%2C%20a%20natureza",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. Na fixação da multa a que se referem os arts. 33 a 39 desta Lei, o juiz, atendendo ao que dispõe o art. 42 desta Lei, determinará o número de dias-multa, atribuindo a cada um, segundo as condições econômicas dos acusados, valor não inferior a um trinta avos nem superior a 5 (cinco) vezes o maior salário-mínimo.\n\nParágrafo único. As multas, que em caso de concurso de crimes serão impostas sempre cumulativamente, podem ser aumentadas até o décuplo se, em virtude da situação econômica do acusado, considerá-las o juiz ineficazes, ainda que aplicadas no máximo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2043.%20Na%20fixa%C3%A7%C3%A3o%20da%20multa%20a%20que%20se%20referem%20os%20arts.%2033%20a%2039%20desta%20Lei%2C%20o%20juiz%2C%20atendendo%20ao%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. Os crimes previstos nos arts. 33, caput e § 1º , e 34 a 37 desta Lei são inafiançáveis e insuscetíveis de sursis, graça, indulto, anistia e liberdade provisória, vedada a conversão de suas penas em restritivas de direitos.\n\nParágrafo único. Nos crimes previstos no caput deste artigo, dar-se-á o livramento condicional após o cumprimento de dois terços da pena, vedada sua concessão ao reincidente específico.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2044.%20Os%20crimes%20previstos%20nos%20arts.%2033%2C%20caput%20e%20%C2%A7%201%C2%BA%20%2C%20e%2034%20a%2037%20desta%20Lei%20s%C3%A3o%20inafian%C3%A7%C3%A1veis%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. É isento de pena o agente que, em razão da dependência, ou sob o efeito, proveniente de caso fortuito ou força maior, de droga, era, ao tempo da ação ou da omissão, qualquer que tenha sido a infração penal praticada, inteiramente incapaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento.\n\nParágrafo único. Quando absolver o agente, reconhecendo, por força pericial, que este apresentava, à época do fato previsto neste artigo, as condições referidas no caput deste artigo, poderá determinar o juiz, na sentença, o seu encaminhamento para tratamento médico adequado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2045.%20%C3%89%20isento%20de%20pena%20o%20agente%20que%2C%20em%20raz%C3%A3o%20da%20depend%C3%AAncia%2C%20ou%20sob%20o%20efeito%2C%20proveniente%20de%20caso%20fortuito%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. As penas podem ser reduzidas de um terço a dois terços se, por força das circunstâncias previstas no art. 45 desta Lei, o agente não possuía, ao tempo da ação ou da omissão, a plena capacidade de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2046.%20As%20penas%20podem%20ser%20reduzidas%20de%20um%20ter%C3%A7o%20a%20dois%20ter%C3%A7os%20se%2C%20por%20for%C3%A7a%20das%20circunst%C3%A2ncias%20previstas%20no%20art.%2045",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Na sentença condenatória, o juiz, com base em avaliação que ateste a necessidade de encaminhamento do agente para tratamento, realizada por profissional de saúde com competência específica na forma da lei, determinará que a tal se proceda, observado o disposto no art. 26 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2047.%20Na%20senten%C3%A7a%20condenat%C3%B3ria%2C%20o%20juiz%2C%20com%20base%20em%20avalia%C3%A7%C3%A3o%20que%20ateste%20a%20necessidade%20de%20encaminhamento%20do%20agente%20para%20tratamento%2C%20realizada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. O procedimento relativo aos processos por crimes definidos neste Título rege-se pelo disposto neste Capítulo, aplicando-se, subsidiariamente, as disposições do Código de Processo Penal e da Lei de Execução Penal.\n\n§ 1º O agente de qualquer das condutas previstas no art. 28 desta Lei, salvo se houver concurso com os crimes previstos nos arts. 33 a 37 desta Lei, será processado e julgado na forma dos arts. 60 e seguintes da Lei nº 9.099, de 26 de setembro de 1995, que dispõe sobre os Juizados Especiais Criminais.\n\n§ 2º Tratando-se da conduta prevista no art. 28 desta Lei, não se imporá prisão em flagrante, devendo o autor do fato ser imediatamente encaminhado ao juízo competente ou, na falta deste, assumir o compromisso de a ele comparecer, lavrando-se termo circunstanciado e providenciando-se as requisições dos exames e perícias necessários.\n\n§ 3º Se ausente a autoridade judicial, as providências previstas no § 2º deste artigo serão tomadas de imediato pela autoridade policial, no local em que se encontrar, vedada a detenção do agente. (Vide ADIN 3807)\n\n§ 4º Concluídos os procedimentos de que trata o § 2º deste artigo, o agente será submetido a exame de corpo de delito, se o requerer ou se a autoridade de polícia judiciária entender conveniente, e em seguida liberado.\n\n§ 5º Para os fins do disposto no art. 76 da Lei nº 9.099, de 1995, que dispõe sobre os Juizados Especiais Criminais, o Ministério Público poderá propor a aplicação imediata de pena prevista no art. 28 desta Lei, a ser especificada na proposta.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2048.%20O%20procedimento%20relativo%20aos%20processos%20por%20crimes%20definidos%20neste%20T%C3%ADtulo%20rege-se%20pelo%20disposto%20neste%20Cap%C3%ADtulo%2C%20aplicando-se%2C%20subsidiariamente%2C%20as%20disposi%C3%A7%C3%B5es%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. Tratando-se de condutas tipificadas nos arts. 33, caput e § 1º , e 34 a 37 desta Lei, o juiz, sempre que as circunstâncias o recomendem, empregará os instrumentos protetivos de colaboradores e testemunhas previstos na Lei nº 9.807, de 13 de julho de 1999.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2049.%20Tratando-se%20de%20condutas%20tipificadas%20nos%20arts.%2033%2C%20caput%20e%20%C2%A7%201%C2%BA%20%2C%20e%2034%20a%2037%20desta%20Lei%2C%20o%20juiz%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. Ocorrendo prisão em flagrante, a autoridade de polícia judiciária fará, imediatamente, comunicação ao juiz competente, remetendo-lhe cópia do auto lavrado, do qual será dada vista ao órgão do Ministério Público, em 24 (vinte e quatro) horas.\n\n§ 1º Para efeito da lavratura do auto de prisão em flagrante e estabelecimento da materialidade do delito, é suficiente o laudo de constatação da natureza e quantidade da droga, firmado por perito oficial ou, na falta deste, por pessoa idônea.\n\n§ 2º O perito que subscrever o laudo a que se refere o § 1º deste artigo não ficará impedido de participar da elaboração do laudo definitivo.\n\n§ 3º Recebida cópia do auto de prisão em flagrante, o juiz, no prazo de 10 (dez) dias, certificará a regularidade formal do laudo de constatação e determinará a destruição das drogas apreendidas, guardando-se amostra necessária à realização do laudo definitivo. (Incluído pela Lei nº 12.961, de 2014)\n\n§ 4º A destruição das drogas será executada pelo delegado de polícia competente no prazo de 15 (quinze) dias na presença do Ministério Público e da autoridade sanitária. (Incluído pela Lei nº 12.961, de 2014)\n\n§ 5º O local será vistoriado antes e depois de efetivada a destruição das drogas referida no § 3º , sendo lavrado auto circunstanciado pelo delegado de polícia, certificando-se neste a destruição total delas. (Incluído pela Lei nº 12.961, de 2014)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2050.%20Ocorrendo%20pris%C3%A3o%20em%20flagrante%2C%20a%20autoridade%20de%20pol%C3%ADcia%20judici%C3%A1ria%20far%C3%A1%2C%20imediatamente%2C%20comunica%C3%A7%C3%A3o%20ao%20juiz%20competente%2C%20remetendo-lhe%20c%C3%B3pia%20do%20auto%20lavrado%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "49",
+      "next": "50-A"
+    },
+    "50-A": {
+      "numero": "50-A",
+      "texto": "Art. 50-A. A destruição de drogas apreendidas sem a ocorrência de prisão em flagrante será feita por incineração, no prazo máximo de 30 (trinta) dias contado da data da apreensão, guardando-se amostra necessária à realização do laudo definitivo, aplicando-se, no que couber, o procedimento dos §§ 3º a 5º do art. 50. (Incluído pela Lei nº 12.961, de 2014)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2050-A.%20A%20destrui%C3%A7%C3%A3o%20de%20drogas%20apreendidas%20sem%20a%20ocorr%C3%AAncia%20de%20pris%C3%A3o%20em%20flagrante%20ser%C3%A1%20feita%20por%20incinera%C3%A7%C3%A3o%2C%20no%20prazo%20m%C3%A1ximo%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "50",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. O inquérito policial será concluído no prazo de 30 (trinta) dias, se o indiciado estiver preso, e de 90 (noventa) dias, quando solto.\n\nParágrafo único. Os prazos a que se refere este artigo podem ser duplicados pelo juiz, ouvido o Ministério Público, mediante pedido justificado da autoridade de polícia judiciária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2051.%20O%20inqu%C3%A9rito%20policial%20ser%C3%A1%20conclu%C3%ADdo%20no%20prazo%20de%2030%20%28trinta%29%20dias%2C%20se%20o%20indiciado%20estiver%20preso%2C%20e%20de%2090%20%28noventa%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "50-A",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. Findos os prazos a que se refere o art. 51 desta Lei, a autoridade de polícia judiciária, remetendo os autos do inquérito ao juízo:\n\nI - relatará sumariamente as circunstâncias do fato, justificando as razões que a levaram à classificação do delito, indicando a quantidade e natureza da substância ou do produto apreendido, o local e as condições em que se desenvolveu a ação criminosa, as circunstâncias da prisão, a conduta, a qualificação e os antecedentes do agente; ou\n\nII - requererá sua devolução para a realização de diligências necessárias.\n\nParágrafo único. A remessa dos autos far-se-á sem prejuízo de diligências complementares:\n\nI - necessárias ou úteis à plena elucidação do fato, cujo resultado deverá ser encaminhado ao juízo competente até 3 (três) dias antes da audiência de instrução e julgamento;\n\nII - necessárias ou úteis à indicação dos bens, direitos e valores de que seja titular o agente, ou que figurem em seu nome, cujo resultado deverá ser encaminhado ao juízo competente até 3 (três) dias antes da audiência de instrução e julgamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2052.%20Findos%20os%20prazos%20a%20que%20se%20refere%20o%20art.%2051%20desta%20Lei%2C%20a%20autoridade%20de%20pol%C3%ADcia%20judici%C3%A1ria%2C%20remetendo%20os%20autos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. Em qualquer fase da persecução criminal relativa aos crimes previstos nesta Lei, são permitidos, além dos previstos em lei, mediante autorização judicial e ouvido o Ministério Público, os seguintes procedimentos investigatórios:\n\nI - a infiltração por agentes de polícia, em tarefas de investigação, constituída pelos órgãos especializados pertinentes;\n\nII - a não-atuação policial sobre os portadores de drogas, seus precursores químicos ou outros produtos utilizados em sua produção, que se encontrem no território brasileiro, com a finalidade de identificar e responsabilizar maior número de integrantes de operações de tráfico e distribuição, sem prejuízo da ação penal cabível.\n\nParágrafo único. Na hipótese do inciso II deste artigo, a autorização será concedida desde que sejam conhecidos o itinerário provável e a identificação dos agentes do delito ou de colaboradores.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2053.%20Em%20qualquer%20fase%20da%20persecu%C3%A7%C3%A3o%20criminal%20relativa%20aos%20crimes%20previstos%20nesta%20Lei%2C%20s%C3%A3o%20permitidos%2C%20al%C3%A9m%20dos%20previstos%20em%20lei%2C%20mediante",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. Recebidos em juízo os autos do inquérito policial, de Comissão Parlamentar de Inquérito ou peças de informação, dar-se-á vista ao Ministério Público para, no prazo de 10 (dez) dias, adotar uma das seguintes providências:\n\nI - requerer o arquivamento;\n\nII - requisitar as diligências que entender necessárias;\n\nIII - oferecer denúncia, arrolar até 5 (cinco) testemunhas e requerer as demais provas que entender pertinentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2054.%20Recebidos%20em%20ju%C3%ADzo%20os%20autos%20do%20inqu%C3%A9rito%20policial%2C%20de%20Comiss%C3%A3o%20Parlamentar%20de%20Inqu%C3%A9rito%20ou%20pe%C3%A7as%20de%20informa%C3%A7%C3%A3o%2C%20dar-se-%C3%A1%20vista%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. Oferecida a denúncia, o juiz ordenará a notificação do acusado para oferecer defesa prévia, por escrito, no prazo de 10 (dez) dias.\n\n§ 1º Na resposta, consistente em defesa preliminar e exceções, o acusado poderá argüir preliminares e invocar todas as razões de defesa, oferecer documentos e justificações, especificar as provas que pretende produzir e, até o número de 5 (cinco), arrolar testemunhas.\n\n§ 2º As exceções serão processadas em apartado, nos termos dos arts. 95 a 113 do Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal.\n\n§ 3º Se a resposta não for apresentada no prazo, o juiz nomeará defensor para oferecê-la em 10 (dez) dias, concedendo-lhe vista dos autos no ato de nomeação.\n\n§ 4º Apresentada a defesa, o juiz decidirá em 5 (cinco) dias.\n\n§ 5º Se entender imprescindível, o juiz, no prazo máximo de 10 (dez) dias, determinará a apresentação do preso, realização de diligências, exames e perícias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2055.%20Oferecida%20a%20den%C3%BAncia%2C%20o%20juiz%20ordenar%C3%A1%20a%20notifica%C3%A7%C3%A3o%20do%20acusado%20para%20oferecer%20defesa%20pr%C3%A9via%2C%20por%20escrito%2C%20no%20prazo%20de%2010",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. Recebida a denúncia, o juiz designará dia e hora para a audiência de instrução e julgamento, ordenará a citação pessoal do acusado, a intimação do Ministério Público, do assistente, se for o caso, e requisitará os laudos periciais.\n\n§ 1º Tratando-se de condutas tipificadas como infração do disposto nos arts. 33, caput e § 1º , e 34 a 37 desta Lei, o juiz, ao receber a denúncia, poderá decretar o afastamento cautelar do denunciado de suas atividades, se for funcionário público, comunicando ao órgão respectivo.\n\n§ 2º A audiência a que se refere o caput deste artigo será realizada dentro dos 30 (trinta) dias seguintes ao recebimento da denúncia, salvo se determinada a realização de avaliação para atestar dependência de drogas, quando se realizará em 90 (noventa) dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2056.%20Recebida%20a%20den%C3%BAncia%2C%20o%20juiz%20designar%C3%A1%20dia%20e%20hora%20para%20a%20audi%C3%AAncia%20de%20instru%C3%A7%C3%A3o%20e%20julgamento%2C%20ordenar%C3%A1%20a%20cita%C3%A7%C3%A3o%20pessoal",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. Na audiência de instrução e julgamento, após o interrogatório do acusado e a inquirição das testemunhas, será dada a palavra, sucessivamente, ao representante do Ministério Público e ao defensor do acusado, para sustentação oral, pelo prazo de 20 (vinte) minutos para cada um, prorrogável por mais 10 (dez), a critério do juiz.\n\nParágrafo único. Após proceder ao interrogatório, o juiz indagará das partes se restou algum fato para ser esclarecido, formulando as perguntas correspondentes se o entender pertinente e relevante.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2057.%20Na%20audi%C3%AAncia%20de%20instru%C3%A7%C3%A3o%20e%20julgamento%2C%20ap%C3%B3s%20o%20interrogat%C3%B3rio%20do%20acusado%20e%20a%20inquiri%C3%A7%C3%A3o%20das%20testemunhas%2C%20ser%C3%A1%20dada%20a%20palavra%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. Encerrados os debates, proferirá o juiz sentença de imediato, ou o fará em 10 (dez) dias, ordenando que os autos para isso lhe sejam conclusos.\n\n§ 1º Ao proferir sentença, o juiz, não tendo havido controvérsia, no curso do processo, sobre a natureza ou quantidade da substância ou do produto, ou sobre a regularidade do respectivo laudo, determinará que se proceda na forma do art. 32, § 1º , desta Lei, preservando-se, para eventual contraprova, a fração que fixar. (Revogado pela Lei nº 12.961, de 2014)\n\n§ 2º Igual procedimento poderá adotar o juiz, em decisão motivada e, ouvido o Ministério Público, quando a quantidade ou valor da substância ou do produto o indicar, precedendo a medida a elaboração e juntada aos autos do laudo toxicológico. (Revogado pela Lei nº 12.961, de 2014)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2058.%20Encerrados%20os%20debates%2C%20proferir%C3%A1%20o%20juiz%20senten%C3%A7a%20de%20imediato%2C%20ou%20o%20far%C3%A1%20em%2010%20%28dez%29%20dias%2C%20ordenando%20que%20os%20autos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. Nos crimes previstos nos arts. 33, caput e § 1º , e 34 a 37 desta Lei, o réu não poderá apelar sem recolher-se à prisão, salvo se for primário e de bons antecedentes, assim reconhecido na sentença condenatória.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2059.%20Nos%20crimes%20previstos%20nos%20arts.%2033%2C%20caput%20e%20%C2%A7%201%C2%BA%20%2C%20e%2034%20a%2037%20desta%20Lei%2C%20o%20r%C3%A9u%20n%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. O juiz, de ofício, a requerimento do Ministério Público ou mediante representação da autoridade de polícia judiciária, ouvido o Ministério Público, havendo indícios suficientes, poderá decretar, no curso do inquérito ou da ação penal, a apreensão e outras medidas assecuratórias relacionadas aos bens móveis e imóveis ou valores consistentes em produtos dos crimes previstos nesta Lei, ou que constituam proveito auferido com sua prática, procedendo-se na forma dos arts. 125 a 144 do Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal.\n\n§ 1º Decretadas quaisquer das medidas previstas neste artigo, o juiz facultará ao acusado que, no prazo de 5 (cinco) dias, apresente ou requeira a produção de provas acerca da origem lícita do produto, bem ou valor objeto da decisão.\n\n§ 2º Provada a origem lícita do produto, bem ou valor, o juiz decidirá pela sua liberação.\n\n§ 3º Nenhum pedido de restituição será conhecido sem o comparecimento pessoal do acusado, podendo o juiz determinar a prática de atos necessários à conservação de bens, direitos ou valores.\n\n§ 4º A ordem de apreensão ou seqüestro de bens, direitos ou valores poderá ser suspensa pelo juiz, ouvido o Ministério Público, quando a sua execução imediata possa comprometer as investigações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2060.%20O%20juiz%2C%20de%20of%C3%ADcio%2C%20a%20requerimento%20do%20Minist%C3%A9rio%20P%C3%BAblico%20ou%20mediante%20representa%C3%A7%C3%A3o%20da%20autoridade%20de%20pol%C3%ADcia%20judici%C3%A1ria%2C%20ouvido%20o%20Minist%C3%A9rio",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "59",
+      "next": "60-A"
+    },
+    "60-A": {
+      "numero": "60-A",
+      "texto": "Art. 60-A. Quando as medidas assecuratórias de que trata o art. 60 recaírem sobre moeda estrangeira, títulos, valores mobiliários ou cheques emitidos como ordem de pagamento, será determinada, imediatamente, a conversão em moeda nacional. (Incluído pela Medida Provisória nº 885, de 2019)\n\n§ 1º A moeda estrangeira apreendida em espécie será encaminhada a instituição financeira ou equiparada para alienação na forma prevista pelo Conselho Monetário Nacional. (Incluído pela Medida Provisória nº 885, de 2019)\n\n§ 2º Em caso de impossibilidade da alienação a que se refere o § 1º, a moeda estrangeira será custodiada pela instituição financeira até decisão sobre o seu destino. (Incluído pela Medida Provisória nº 885, de 2019)\n\n§ 3º Após a decisão sobre o destino da moeda estrangeira, caso seja verificada a inexistência de valor de mercado, a moeda poderá ser doada à representação diplomática do seu país de origem ou destruída. (Incluído pela Medida Provisória nº 885, de 2019)\n\n§ 4º Os valores relativos às apreensões feitas antes da data de entrada em vigor da Medida Provisória nº 885, de 17 de junho de 2019 , e que estejam custodiados nas dependências do Banco Central do Brasil serão transferidos, no prazo de trezentos e sessenta dias, à Caixa Econômica Federal para que se proceda à alienação ou custódia, de acordo com o previsto nesta Lei. (Incluído pela Medida Provisória nº 885, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2060-A.%20Quando%20as%20medidas%20assecurat%C3%B3rias%20de%20que%20trata%20o%20art.%2060%20reca%C3%ADrem%20sobre%20moeda%20estrangeira%2C%20t%C3%ADtulos%2C%20valores%20mobili%C3%A1rios%20ou%20cheques%20emitidos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "60",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. Não havendo prejuízo para a produção da prova dos fatos e comprovado o interesse público ou social, ressalvado o disposto no art. 62 desta Lei, mediante autorização do juízo competente, ouvido o Ministério Público e cientificada a Senad, os bens apreendidos poderão ser utilizados pelos órgãos ou pelas entidades que atuam na prevenção do uso indevido, na atenção e reinserção social de usuários e dependentes de drogas e na repressão à produção não autorizada e ao tráfico ilícito de drogas, exclusivamente no interesse dessas atividades.\n\nParágrafo único. Recaindo a autorização sobre veículos, embarcações ou aeronaves, o juiz ordenará à autoridade de trânsito ou ao equivalente órgão de registro e controle a expedição de certificado provisório de registro e licenciamento, em favor da instituição à qual tenha deferido o uso, ficando esta livre do pagamento de multas, encargos e tributos anteriores, até o trânsito em julgado da decisão que decretar o seu perdimento em favor da União.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2061.%20N%C3%A3o%20havendo%20preju%C3%ADzo%20para%20a%20produ%C3%A7%C3%A3o%20da%20prova%20dos%20fatos%20e%20comprovado%20o%20interesse%20p%C3%BAblico%20ou%20social%2C%20ressalvado%20o%20disposto",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "60-A",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. Os veículos, embarcações, aeronaves e quaisquer outros meios de transporte, os maquinários, utensílios, instrumentos e objetos de qualquer natureza, utilizados para a prática dos crimes definidos nesta Lei, após a sua regular apreensão, ficarão sob custódia da autoridade de polícia judiciária, excetuadas as armas, que serão recolhidas na forma de legislação específica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2062.%20Os%20ve%C3%ADculos%2C%20embarca%C3%A7%C3%B5es%2C%20aeronaves%20e%20quaisquer%20outros%20meios%20de%20transporte%2C%20os%20maquin%C3%A1rios%2C%20utens%C3%ADlios%2C%20instrumentos%20e%20objetos%20de%20qualquer%20natureza%2C%20utilizados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "61",
+      "next": "62-A"
+    },
+    "62-A": {
+      "numero": "62-A",
+      "texto": "Art. 62-A. O depósito, em dinheiro, de valores referentes ao produto da alienação ou relacionados a numerários apreendidos ou que tenham sido convertidos, serão efetuados na Caixa Econômica Federal, por meio de documento de arrecadação destinado a essa finalidade. (Incluído pela Medida Provisória nº 885, de 2019)\n\n§ 1º Os depósitos a que se refere o caput serão repassados pela Caixa Econômica Federal para a Conta Única do Tesouro Nacional, independentemente de qualquer formalidade, no prazo de vinte e quatro horas, contado do momento da realização do depósito. (Incluído pela Medida Provisória nº 885, de 2019)\n\n§ 2º Na hipótese de absolvição do acusado em decisão judicial, o valor do depósito será devolvido ao acusado pela Caixa Econômica Federal no prazo de até três dias úteis, acrescido de juros, na forma estabelecida pelo § 4º do art. 39 da Lei nº 9.250, de 26 de dezembro de 1995 . (Incluído pela Medida Provisória nº 885, de 2019)\n\n§ 3º Na hipótese de decretação do seu perdimento em favor da União, o valor do depósito será transformado em pagamento definitivo, respeitados os direitos de eventuais lesados e de terceiros de boa-fé. (Incluído pela Medida Provisória nº 885, de 2019)\n\n§ 4º Os valores devolvidos pela Caixa Econômica Federal, por decisão judicial, serão efetuados como anulação de receita do Fundo Nacional Antidrogas no exercício em que ocorrer a devolução. (Incluído pela Medida Provisória nº 885, de 2019)\n\n§ 5º A Caixa Econômica Federal manterá o controle dos valores depositados ou devolvidos. (Incluído pela Medida Provisória nº 885, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2062-A.%20O%20dep%C3%B3sito%2C%20em%20dinheiro%2C%20de%20valores%20referentes%20ao%20produto%20da%20aliena%C3%A7%C3%A3o%20ou%20relacionados%20a%20numer%C3%A1rios%20apreendidos%20ou%20que%20tenham%20sido",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "62",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. Ao proferir a sentença de mérito, o juiz decidirá sobre o perdimento do produto, bem ou valor apreendido, seqüestrado ou declarado indisponível.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2063.%20Ao%20proferir%20a%20senten%C3%A7a%20de%20m%C3%A9rito%2C%20o%20juiz%20decidir%C3%A1%20sobre%20o%20perdimento%20do%20produto%2C%20bem%20ou%20valor%20apreendido%2C%20seq%C3%BCestrado%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "62-A",
+      "next": "63-A"
+    },
+    "63-A": {
+      "numero": "63-A",
+      "texto": "Art. 63-A. Nenhum pedido de restituição será conhecido sem o comparecimento pessoal do acusado, podendo o juiz determinar a prática de atos necessários à conservação de bens, direitos ou valores. (Incluído pela Lei nº 13.840, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2063-A.%20Nenhum%20pedido%20de%20restitui%C3%A7%C3%A3o%20ser%C3%A1%20conhecido%20sem%20o%20comparecimento%20pessoal%20do%20acusado%2C%20podendo%20o%20juiz%20determinar%20a%20pr%C3%A1tica%20de%20atos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "63",
+      "next": "63-B"
+    },
+    "63-B": {
+      "numero": "63-B",
+      "texto": "Art. 63-B. O juiz determinará a liberação total ou parcial dos bens, direitos e objeto de medidas assecuratórias quando comprovada a licitude de sua origem, mantendo-se a constrição dos bens, direitos e valores necessários e suficientes à reparação dos danos e ao pagamento de prestações pecuniárias, multas e custas decorrentes da infração penal. (Incluído pela Lei nº 13.840, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2063-B.%20O%20juiz%20determinar%C3%A1%20a%20libera%C3%A7%C3%A3o%20total%20ou%20parcial%20dos%20bens%2C%20direitos%20e%20objeto%20de%20medidas%20assecurat%C3%B3rias%20quando%20comprovada%20a%20licitude",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "63-A",
+      "next": "63-C"
+    },
+    "63-C": {
+      "numero": "63-C",
+      "texto": "Art. 63-C. Compete à Secretaria Nacional de Políticas sobre Drogas do Ministério da Justiça e Segurança Pública proceder à destinação dos bens apreendidos e não leiloados em caráter cautelar, cujo perdimento seja decretado em favor da União, por meio das seguintes modalidades: (Incluído pela Medida Provisória nº 885, de 2019)\n\nI - alienação, mediante: (Incluído pela Medida Provisória nº 885, de 2019)\n\na) licitação; (Incluído pela Medida Provisória nº 885, de 2019)\n\nb) doação com encargo a entidades ou órgãos públicos que contribuam para o alcance das finalidades do Fundo Nacional Antidrogas; ou (Incluído pela Medida Provisória nº 885, de 2019)\n\nc) venda direta, observado o disposto no inciso II do caput do art. 24 da Lei nº 8.666, de 21 de junho de 1993 ; (Incluído pela Medida Provisória nº 885, de 2019)\n\nII - incorporação ao patrimônio de órgão da administração pública, observadas as finalidades do Fundo Nacional Antidrogas; (Incluído pela Medida Provisória nº 885, de 2019)\n\nIII - destruição; ou (Incluído pela Medida Provisória nº 885, de 2019)\n\nIV - inutilização. (Incluído pela Medida Provisória nº 885, de 2019)\n\n§ 1º A alienação por meio de licitação será na modalidade leilão, para bens móveis e imóveis, independentemente do valor de avaliação, isolado ou global, de bem ou de lotes, assegurada a venda pelo maior lance, por preço que não seja inferior a cinquenta por cento do valor da avaliação. (Incluído pela Medida Provisória nº 885, de 2019)\n\n§ 2º O edital do leilão a que se refere o § 1º será amplamente divulgado em jornais de grande circulação e em sítios eletrônicos oficiais, principalmente no Município em que será realizado, dispensada a publicação em diário oficial. (Incluído pela Medida Provisória nº 885, de 2019)\n\n§ 3º Nas alienações realizadas por meio de sistema eletrônico da administração pública, a publicidade dada pelo sistema substituirá a publicação em diário oficial e em jornais de grande circulação. (Incluído pela Medida Provisória nº 885, de 2019)\n\n§ 4º Na alienação de veículos, embarcações ou aeronaves, a autoridade de trânsito ou o órgão de registro equivalente procederá à regularização dos bens no prazo de trinta dias, de modo que o arrematante ficará livre do pagamento de multas, encargos e tributos anteriores, sem prejuízo de execução fiscal em relação ao antigo proprietário. (Incluído pela Medida Provisória nº 885, de 2019)\n\n§ 5º Na hipótese do § 4º, a autoridade de trânsito ou o órgão de registro equivalente poderá emitir novos identificadores dos bens. (Incluído pela Medida Provisória nº 885, de 2019)\n\n§ 6º A Secretaria Nacional de Políticas sobre Drogas do Ministério da Justiça e Segurança Pública poderá celebrar convênios ou instrumentos congêneres com órgãos e entidades da União, dos Estados, do Distrito Federal ou dos Municípios, a fim de dar imediato cumprimento ao estabelecido neste artigo. (Incluído pela Medida Provisória nº 885, de 2019)\n\n§ 7º Observados os procedimentos licitatórios previstos em lei, fica autorizada a contratação da iniciativa privada para a execução das ações de avaliação, administração e alienação dos bens a que se refere esta Lei. (Incluído pela Medida Provisória nº 885, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2063-C.%20Compete%20%C3%A0%20Secretaria%20Nacional%20de%20Pol%C3%ADticas%20sobre%20Drogas%20do%20Minist%C3%A9rio%20da%20Justi%C3%A7a%20e%20Seguran%C3%A7a%20P%C3%BAblica%20proceder%20%C3%A0%20destina%C3%A7%C3%A3o%20dos%20bens",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "63-B",
+      "next": "63-D"
+    },
+    "63-D": {
+      "numero": "63-D",
+      "texto": "Art. 63-D. Compete ao Ministério da Justiça e Segurança Pública regulamentar os procedimentos relativos à administração, à preservação e à destinação dos recursos provenientes de delitos e atos ilícitos e estabelecer os valores abaixo dos quais se deve proceder à sua destruição ou inutilização. (Incluído pela Medida Provisória nº 885, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2063-D.%20Compete%20ao%20Minist%C3%A9rio%20da%20Justi%C3%A7a%20e%20Seguran%C3%A7a%20P%C3%BAblica%20regulamentar%20os%20procedimentos%20relativos%20%C3%A0%20administra%C3%A7%C3%A3o%2C%20%C3%A0%20preserva%C3%A7%C3%A3o%20e%20%C3%A0%20destina%C3%A7%C3%A3o%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "63-C",
+      "next": "63-E"
+    },
+    "63-E": {
+      "numero": "63-E",
+      "texto": "Art. 63-E. O produto da alienação dos bens apreendidos ou confiscados será revertido integralmente ao Funad, nos termos do parágrafo único do art. 243 da Constituição Federal, vedada a sub-rogação sobre o valor da arrematação para saldar eventuais multas, encargos ou tributos pendentes de pagamento. (Incluído pela Lei nº 13.886, de 2019)\n\nParágrafo único. O disposto no caput deste artigo não prejudica o ajuizamento de execução fiscal em relação aos antigos devedores. (Incluído pela Lei nº 13.886, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2063-E.%20O%20produto%20da%20aliena%C3%A7%C3%A3o%20dos%20bens%20apreendidos%20ou%20confiscados%20ser%C3%A1%20revertido%20integralmente%20ao%20Funad%2C%20nos%20termos%20do%20par%C3%A1grafo%20%C3%BAnico%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "63-D",
+      "next": "63-F"
+    },
+    "63-F": {
+      "numero": "63-F",
+      "texto": "Art. 63-F. Na hipótese de condenação por infrações às quais esta Lei comine pena máxima superior a 6 (seis) anos de reclusão, poderá ser decretada a perda, como produto ou proveito do crime, dos bens correspondentes à diferença entre o valor do patrimônio do condenado e aquele compatível com o seu rendimento lícito. (Incluído pela Lei nº 13.886, de 2019)\n\n§ 1º A decretação da perda prevista no caput deste artigo fica condicionada à existência de elementos probatórios que indiquem conduta criminosa habitual, reiterada ou profissional do condenado ou sua vinculação a organização criminosa. (Incluído pela Lei nº 13.886, de 2019)\n\n§ 2º Para efeito da perda prevista no caput deste artigo, entende-se por patrimônio do condenado todos os bens: (Incluído pela Lei nº 13.886, de 2019)\n\nI – de sua titularidade, ou sobre os quais tenha domínio e benefício direto ou indireto, na data da infração penal, ou recebidos posteriormente; e (Incluído pela Lei nº 13.886, de 2019)\n\nII – transferidos a terceiros a título gratuito ou mediante contraprestação irrisória, a partir do início da atividade criminal. (Incluído pela Lei nº 13.886, de 2019)\n\n§ 3º O condenado poderá demonstrar a inexistência da incompatibilidade ou a procedência lícita do patrimônio. (Incluído pela Lei nº 13.886, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2063-F.%20Na%20hip%C3%B3tese%20de%20condena%C3%A7%C3%A3o%20por%20infra%C3%A7%C3%B5es%20%C3%A0s%20quais%20esta%20Lei%20comine%20pena%20m%C3%A1xima%20superior%20a%206%20%28seis%29%20anos%20de%20reclus%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "63-E",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. A União, por intermédio da Senad, poderá firmar convênio com os Estados, com o Distrito Federal e com organismos orientados para a prevenção do uso indevido de drogas, a atenção e a reinserção social de usuários ou dependentes e a atuação na repressão à produção não autorizada e ao tráfico ilícito de drogas, com vistas na liberação de equipamentos e de recursos por ela arrecadados, para a implantação e execução de programas relacionados à questão das drogas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2064.%20A%20Uni%C3%A3o%2C%20por%20interm%C3%A9dio%20da%20Senad%2C%20poder%C3%A1%20firmar%20conv%C3%AAnio%20com%20os%20Estados%2C%20com%20o%20Distrito%20Federal%20e%20com%20organismos%20orientados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "63-F",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art. 65. De conformidade com os princípios da não-intervenção em assuntos internos, da igualdade jurídica e do respeito à integridade territorial dos Estados e às leis e aos regulamentos nacionais em vigor, e observado o espírito das Convenções das Nações Unidas e outros instrumentos jurídicos internacionais relacionados à questão das drogas, de que o Brasil é parte, o governo brasileiro prestará, quando solicitado, cooperação a outros países e organismos internacionais e, quando necessário, deles solicitará a colaboração, nas áreas de:\n\nI - intercâmbio de informações sobre legislações, experiências, projetos e programas voltados para atividades de prevenção do uso indevido, de atenção e de reinserção social de usuários e dependentes de drogas;\n\nII - intercâmbio de inteligência policial sobre produção e tráfico de drogas e delitos conexos, em especial o tráfico de armas, a lavagem de dinheiro e o desvio de precursores químicos;\n\nIII - intercâmbio de informações policiais e judiciais sobre produtores e traficantes de drogas e seus precursores químicos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2065.%20De%20conformidade%20com%20os%20princ%C3%ADpios%20da%20n%C3%A3o-interven%C3%A7%C3%A3o%20em%20assuntos%20internos%2C%20da%20igualdade%20jur%C3%ADdica%20e%20do%20respeito%20%C3%A0%20integridade%20territorial%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "64",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art. 66. Para fins do disposto no parágrafo único do art. 1º desta Lei, até que seja atualizada a terminologia da lista mencionada no preceito, denominam-se drogas substâncias entorpecentes, psicotrópicas, precursoras e outras sob controle especial, da Portaria SVS/MS nº 344, de 12 de maio de 1998.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2066.%20Para%20fins%20do%20disposto%20no%20par%C3%A1grafo%20%C3%BAnico%20do%20art.%201%C2%BA%20desta%20Lei%2C%20at%C3%A9%20que%20seja%20atualizada%20a%20terminologia%20da%20lista",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V-A",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "65",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art. 67. A liberação dos recursos previstos na Lei nº 7.560, de 19 de dezembro de 1986, em favor de Estados e do Distrito Federal, dependerá de sua adesão e respeito às diretrizes básicas contidas nos convênios firmados e do fornecimento de dados necessários à atualização do sistema previsto no art. 17 desta Lei, pelas respectivas polícias judiciárias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2067.%20A%20libera%C3%A7%C3%A3o%20dos%20recursos%20previstos%20na%20Lei%20n%C2%BA%207.560%2C%20de%2019%20de%20dezembro%20de%201986%2C%20em%20favor%20de%20Estados%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V-A",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "66",
+      "next": "67-A"
+    },
+    "67-A": {
+      "numero": "67-A",
+      "texto": "Art. 67-A. Os gestores e entidades que recebam recursos públicos para execução das políticas sobre drogas deverão garantir o acesso às suas instalações, à documentação e a todos os elementos necessários à efetiva fiscalização pelos órgãos competentes. (Incluído pela Lei nº 13.840, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2067-A.%20Os%20gestores%20e%20entidades%20que%20recebam%20recursos%20p%C3%BAblicos%20para%20execu%C3%A7%C3%A3o%20das%20pol%C3%ADticas%20sobre%20drogas%20dever%C3%A3o%20garantir%20o%20acesso%20%C3%A0s%20suas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V-A",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "67",
+      "next": "68"
+    },
+    "68": {
+      "numero": "68",
+      "texto": "Art. 68. A União, os Estados, o Distrito Federal e os Municípios poderão criar estímulos fiscais e outros, destinados às pessoas físicas e jurídicas que colaborem na prevenção do uso indevido de drogas, atenção e reinserção social de usuários e dependentes e na repressão da produção não autorizada e do tráfico ilícito de drogas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2068.%20A%20Uni%C3%A3o%2C%20os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%20poder%C3%A3o%20criar%20est%C3%ADmulos%20fiscais%20e%20outros%2C%20destinados%20%C3%A0s%20pessoas%20f%C3%ADsicas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V-A",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "67-A",
+      "next": "69"
+    },
+    "69": {
+      "numero": "69",
+      "texto": "Art. 69. No caso de falência ou liquidação extrajudicial de empresas ou estabelecimentos hospitalares, de pesquisa, de ensino, ou congêneres, assim como nos serviços de saúde que produzirem, venderem, adquirirem, consumirem, prescreverem ou fornecerem drogas ou de qualquer outro em que existam essas substâncias ou produtos, incumbe ao juízo perante o qual tramite o feito:\n\nI - determinar, imediatamente à ciência da falência ou liquidação, sejam lacradas suas instalações;\n\nII - ordenar à autoridade sanitária competente a urgente adoção das medidas necessárias ao recebimento e guarda, em depósito, das drogas arrecadadas;\n\nIII - dar ciência ao órgão do Ministério Público, para acompanhar o feito.\n\n§ 1º Da licitação para alienação de substâncias ou produtos não proscritos referidos no inciso II do caput deste artigo, só podem participar pessoas jurídicas regularmente habilitadas na área de saúde ou de pesquisa científica que comprovem a destinação lícita a ser dada ao produto a ser arrematado.\n\n§ 2º Ressalvada a hipótese de que trata o § 3º deste artigo, o produto não arrematado será, ato contínuo à hasta pública, destruído pela autoridade sanitária, na presença dos Conselhos Estaduais sobre Drogas e do Ministério Público.\n\n§ 3º Figurando entre o praceado e não arrematadas especialidades farmacêuticas em condições de emprego terapêutico, ficarão elas depositadas sob a guarda do Ministério da Saúde, que as destinará à rede pública de saúde.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2069.%20No%20caso%20de%20fal%C3%AAncia%20ou%20liquida%C3%A7%C3%A3o%20extrajudicial%20de%20empresas%20ou%20estabelecimentos%20hospitalares%2C%20de%20pesquisa%2C%20de%20ensino%2C%20ou%20cong%C3%AAneres%2C%20assim%20como",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V-A",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "68",
+      "next": "70"
+    },
+    "70": {
+      "numero": "70",
+      "texto": "Art. 70. O processo e o julgamento dos crimes previstos nos arts. 33 a 37 desta Lei, se caracterizado ilícito transnacional, são da competência da Justiça Federal.\n\nParágrafo único. Os crimes praticados nos Municípios que não sejam sede de vara federal serão processados e julgados na vara federal da circunscrição respectiva.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2070.%20O%20processo%20e%20o%20julgamento%20dos%20crimes%20previstos%20nos%20arts.%2033%20a%2037%20desta%20Lei%2C%20se%20caracterizado%20il%C3%ADcito%20transnacional%2C%20s%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V-A",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "69",
+      "next": "71"
+    },
+    "71": {
+      "numero": "71",
+      "texto": "Art. 71. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2071.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V-A",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "70",
+      "next": "72"
+    },
+    "72": {
+      "numero": "72",
+      "texto": "Art. 72. Sempre que conveniente ou necessário, o juiz, de ofício, mediante representação da autoridade de polícia judiciária, ou a requerimento do Ministério Público, determinará que se proceda, nos limites de sua jurisdição e na forma prevista no § 1º do art. 32 desta Lei, à destruição de drogas em processos já encerrados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2072.%20Sempre%20que%20conveniente%20ou%20necess%C3%A1rio%2C%20o%20juiz%2C%20de%20of%C3%ADcio%2C%20mediante%20representa%C3%A7%C3%A3o%20da%20autoridade%20de%20pol%C3%ADcia%20judici%C3%A1ria%2C%20ou%20a%20requerimento%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V-A",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "71",
+      "next": "73"
+    },
+    "73": {
+      "numero": "73",
+      "texto": "Art. 73. A União poderá celebrar convênios com os Estados visando à prevenção e repressão do tráfico ilícito e do uso indevido de drogas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2073.%20A%20Uni%C3%A3o%20poder%C3%A1%20celebrar%20conv%C3%AAnios%20com%20os%20Estados%20visando%20%C3%A0%20preven%C3%A7%C3%A3o%20e%20repress%C3%A3o%20do%20tr%C3%A1fico%20il%C3%ADcito%20e%20do%20uso%20indevido",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V-A",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "72",
+      "next": "74"
+    },
+    "74": {
+      "numero": "74",
+      "texto": "Art. 74. Esta Lei entra em vigor 45 (quarenta e cinco) dias após a sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2074.%20Esta%20Lei%20entra%20em%20vigor%2045%20%28quarenta%20e%20cinco%29%20dias%20ap%C3%B3s%20a%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V-A",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "73",
+      "next": "75"
+    },
+    "75": {
+      "numero": "75",
+      "texto": "Art. 75. Revogam-se a Lei nº 6.368, de 21 de outubro de 1976, e a Lei nº 10.409, de 11 de janeiro de 2002.\n\nBrasília, 23 de agosto de 2006; 185º da Independência e 118º da República.\n\nLUIZ INÁCIO LULA DA SILVA\n\nMárcio Thomaz Bastos\n\nGuido Mantega\n\nJorge Armando Felix\n\nEste texto não substitui o publicado no DOU de 24.8.2006\n\n*\n\nNão remover!",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm#:~:text=Art.%2075.%20Revogam-se%20a%20Lei%20n%C2%BA%206.368%2C%20de%2021%20de%20outubro%20de%201976%2C%20e%20a%20Lei%20n%C2%BA%2010.409%2C%20de%2011%20de%20janeiro",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V-A",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "74",
+      "next": null
+    }
+  }
+}

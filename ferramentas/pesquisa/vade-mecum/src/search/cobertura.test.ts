@@ -23,10 +23,18 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "CPP",
   "CTB",
   "CTN",
+  "ECA",
+  "LBPS",
+  "LD",
+  "LEP",
+  "LGPD",
+  "LINDB",
+  "LLC",
+  "LMP",
 ];
 
 describe("cobertura declarada pelo motor", () => {
-  test("expõe exatamente os 11 diplomas que possuem arquivo", () => {
+  test("expõe exatamente os 19 diplomas que possuem arquivo", () => {
     expect([...CODIGOS_DISPONIVEIS].sort()).toEqual(CODIGOS_ESPERADOS);
     expect(resolverCodigos("todos").toSorted()).toEqual(CODIGOS_ESPERADOS);
   });
@@ -38,9 +46,9 @@ describe("cobertura declarada pelo motor", () => {
 
   test("carrega e descreve todos os diplomas disponíveis", () => {
     const legislacoes = listarLegislacaoDisponivel();
-    expect(legislacoes).toHaveLength(11);
+    expect(legislacoes).toHaveLength(19);
     expect(legislacoes.reduce((total, item) => total + item.registros, 0)).toBe(
-      6999,
+      8172,
     );
     for (const item of legislacoes) {
       expect(item.registros).toBeGreaterThan(0);

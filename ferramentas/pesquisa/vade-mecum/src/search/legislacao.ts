@@ -70,6 +70,38 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_ctn.json",
     rotulo: "Código Tributário Nacional (Lei 5.172/1966)",
   },
+  ECA: {
+    arquivo: "../../data/lei_eca.json",
+    rotulo: "Estatuto da Criança e do Adolescente (Lei 8.069/1990)",
+  },
+  LBPS: {
+    arquivo: "../../data/lei_lbps.json",
+    rotulo: "Lei de Benefícios da Previdência Social (Lei 8.213/1991)",
+  },
+  LD: {
+    arquivo: "../../data/lei_ld.json",
+    rotulo: "Lei de Drogas (Lei 11.343/2006)",
+  },
+  LEP: {
+    arquivo: "../../data/lei_lep.json",
+    rotulo: "Lei de Execução Penal (Lei 7.210/1984)",
+  },
+  LGPD: {
+    arquivo: "../../data/lei_lgpd.json",
+    rotulo: "Lei Geral de Proteção de Dados Pessoais (Lei 13.709/2018)",
+  },
+  LINDB: {
+    arquivo: "../../data/lei_lindb.json",
+    rotulo: "Lei de Introdução às Normas do Direito Brasileiro (Decreto-Lei 4.657/1942)",
+  },
+  LLC: {
+    arquivo: "../../data/lei_llc.json",
+    rotulo: "Lei de Licitações e Contratos Administrativos (Lei 14.133/2021)",
+  },
+  LMP: {
+    arquivo: "../../data/lei_lmp.json",
+    rotulo: "Lei Maria da Penha (Lei 11.340/2006)",
+  },
 } as const;
 
 export type CodigoCodigo = keyof typeof REGISTRO_CODIGOS;

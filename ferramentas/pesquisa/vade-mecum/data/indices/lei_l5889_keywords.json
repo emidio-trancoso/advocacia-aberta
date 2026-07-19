@@ -1,0 +1,60 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L5889",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l5889.json",
+      "colecao": "artigos",
+      "sha256": "7b719633f66578685d89a62b37914bddb0089b5a51af23028e4d5986021f5b9b",
+      "total_registros": 22,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 22,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art relacoes trabalho rural serao reguladas por esta lei que com ela nao colidirem pelas normas consolidacao das leis aprovada pelo decreto 452 1943 paragrafo unico observadas peculiaridades ele tambem aplicam 605 1949 4090 1962 4725 1965 alteracoes 4903 decretos 1966 368 1968",
+    "2": "art empregado rural toda pessoa fisica que propriedade predio rustico presta servicos natureza nao eventual empregador sob dependencia deste mediante salario",
+    "3": "art considera empregador rural para efeitos desta lei pessoa fisica juridica proprietario nao que explore atividade agro economica carater permanente temporario diretamente atraves prepostos com auxilio empregados inclui referida caput deste artigo exploracao industrial estabelecimento agrario compreendido consolidacao das leis trabalho alem clt aprovada pelo decreto 452 maio 1943 turismo ancilar agroeconomica redacao dada pela 171 2015 sempre uma mais empresas embora tendo cada delas personalidade propria estiverem sob direcao controle administracao outra ainda quando mesmo guardando sua autonomia integrem grupo economico financeiro serao responsaveis solidariamente nas obrigacoes decorrentes relacao emprego",
+    "4": "art equipara empregador rural pessoa fisica juridica que habitualmente carater profissional por conta terceiros execute servicos natureza agraria mediante utilizacao trabalho outrem vide lei 260 1975",
+    "5": "art qualquer trabalho continuo duracao superior seis horas sera obrigatoria concessao intervalo para repouso alimentacao observados usos costumes regiao nao computando este entre duas jornadas havera periodo minimo onze consecutivas descanso",
+    "6": "art nos servicos caracteristicamente intermitentes nao serao computados como efeito exercicio intervalos entre uma outra parte execucao tarefa diaria desde que tal hipotese seja expressamente ressalvada carteira trabalho previdencia social",
+    "7": "art para efeitos desta lei considera trabalho noturno executado entre vinte uma horas dia cinco seguinte lavoura quatro atividade pecuaria paragrafo unico todo sera acrescido por cento sobre remuneracao normal",
+    "8": "art menor anos vedado trabalho noturno",
+    "9": "art salvo hipoteses autorizacao legal decisao judiciaria poderao ser descontadas empregado rural seguintes parcelas calculadas sobre salario minimo ate limite vinte por cento pela ocupacao morada pelo fornecimento alimentacao sadia farta atendidos precos vigentes regiao adiantamentos dinheiro deducoes acima especificadas deverao previamente autorizadas sem que serao nulas pleno direito sempre mais residir mesma desconto previsto letra deste artigo sera dividido proporcionalmente numero empregados vedada qualquer hipotese moradia coletiva familias rescindido findo contrato trabalho obrigado desocupar casa dentro trinta dias regulamento desta lei especificara tipos para fins deducao cessao empregador sua infra estrutura basica assim como bens destinados producao subsistencia familia nao integram trabalhador desde caracterizados tais escrito celebrado entre partes com testemunhas notificacao obrigatoria respectivo sindicato trabalhadores rurais incluido 300",
+    "10": "art prescricao dos direitos assegurados por esta lei aos trabalhadores rurais ocorrera apos dois anos cessacao contrato trabalho paragrafo unico contra menor dezoito nao corre qualquer",
+    "11": "art empregado rural maior dezesseis anos assegurado salario minimo igual adulto paragrafo unico menor fixado valor correspondente metade estabelecido para",
+    "12": "art regioes que adota plantacao subsidiaria intercalar cultura secundaria cargo empregado rural quando autorizada permitida sera objeto contrato separado paragrafo unico embora devendo integrar resultado anual tiver direito nao podera compor parte correspondente salario minimo remuneracao geral durante ano agricola",
+    "13": "art nos locais trabalho rural serao observadas normas seguranca higiene estabelecidas portaria ministro previdencia social",
+    "14": "art expirado normalmente contrato empresa pagara safrista titulo indenizacao tempo servico importancia correspondente doze avos salario mensal por mes fracao superior quatorze dias paragrafo unico considera safra que tenha sua duracao dependente variacoes estacionais atividade agraria",
+    "14-A": "art produtor rural pessoa fisica podera realizar contratacao trabalhador por pequeno prazo para exercicio atividades natureza temporaria incluido pela medida provisoria 410 2007 contrato que superar dois meses dentro periodo ano fica convertido trabalho indeterminado filiacao inscricao trata este artigo previdencia social decorre automaticamente sua inclusao pelo empregador guia recolhimento fundo garantia tempo servico informacoes gfip cabendo instituir mecanismo permita identificacao nao necessita ser anotado carteira livro ficha registro empregados mas houver outro documental obrigatoria existencia escrito com fim especifico comprovacao fiscalizacao trabalhista situacao contribuicao segurado contratado prestar forma deste oito cento sobre respectivo salario definido inciso lei 212 julho 1991 pressupoe inexistencia sem prejuizo qualquer meio admitido direito relacao juridica diversa das contribuicoes previdenciarias far nos termos legislacao sao assegurados alem remuneracao equivalente permanente demais direitos todas parcelas devidas serao calculadas dia pagas diretamente ele mediante recibo fgts devera recolhido 036 maio 1990",
+    "15": "art durante prazo aviso previo rescisao tiver sido promovida pelo empregador empregado rural tera direito dia por semana sem prejuizo salario integral para procurar outro trabalho",
+    "16": "art toda propriedade rural que mantenha seu servico trabalhando seus limites mais cinquenta familias trabalhadores qualquer natureza obrigada possuir conservar funcionamento escola primaria inteiramente gratuita para filhos destes com tantas classes quantos sejam grupos quarenta criancas idade escolar paragrafo unico matricula populacao sera obrigatoria sem outra exigencia alem certidao nascimento cuja obtencao empregador proporcionara todas facilidades aos responsaveis pelas",
+    "17": "art normas presente lei sao aplicaveis que couber aos trabalhadores rurais nao compreendidos definicao prestem servicos empregador rural",
+    "18": "art infracoes aos dispositivos desta lei consolidacao das leis trabalho salvo titulo capitulos iii viii serao punidas com multa decimo dez salarios minimos regionais segundo natureza infracao sua gravidade aplicada dobro nos casos reincidencia oposicao fiscalizacao desacato autoridade falta registro empregados seu livros fichas nao rubricadas legalizadas forma sujeitara empresa infratora salario minimo regional por empregado situacao irregular tratando infrator primario penalidade prevista neste artigo excedera quatro penalidades aplicadas pela competente ministerio previdencia social acordo disposto vii",
+    "19": "art enquadramento contribuicao sindical rurais continuam regidos pela legislacao ora vigor seguro social contra acidente trabalho serao regulados por lei especial vide 195 1974",
+    "20": "art lei especial dispora sobre aplicacao trabalhador rural que couber regime fundo garantia tempo servico",
+    "21": "art esta lei entra vigor data sua publicacao revogadas disposicoes contrario especial 214 1963 decreto 761 1969 brasilia junho 1973 152 independencia republica emilio medici julio barata este texto nao substitui publicado dou retificado"
+  }
+}

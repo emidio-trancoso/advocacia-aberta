@@ -1,0 +1,53 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "EPC",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_epc.json",
+      "colecao": "artigos",
+      "sha256": "7b891b529692222bd41d31f706614555efd37ccfc6d9164d16f4e948ed85536a",
+      "total_registros": 15,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 15,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art fica instituido estatuto pessoa com cancer destinado assegurar promover condicoes igualdade acesso tratamento adequado exercicio dos direitos das liberdades fundamentais vistas garantir respeito dignidade cidadania sua inclusao social paragrafo unico esta lei estabelece principios objetivos essenciais protecao efetivacao politicas publicas prevencao combate",
+    "2": "art sao principios essenciais deste estatuto respeito dignidade pessoa humana igualdade nao discriminacao autonomia individual acesso universal equanime tratamento adequado iii diagnostico precoce estimulo prevencao informacao clara confiavel sobre doenca seu transparencia das informacoes dos orgaos entidades seus processos prazos fluxos vii oferecimento sistemico referenciado acordo com diretrizes preestabelecidas por competentes viii fomento formacao especializacao profissionais envolvidos conscientizacao educacao apoio familiar ampliacao rede atendimento sua infraestrutura sustentabilidade tratamentos garantida inclusive tomada decisao vistas agravamentos socioeficiencia xii humanizacao atencao paciente familia",
+    "3": "art sao objetivos essenciais deste estatuto garantir viabilizar pleno exercicio dos direitos sociais pessoa com cancer promover mecanismos adequados para diagnostico precoce doenca iii tratamento adequado nos termos das leis 080 setembro 1990 732 novembro 2012 fomentar comunicacao publicidade conscientizacao sobre sua prevencao seus tratamentos transparencia informacoes orgaos entidades processos prazos fluxos acesso imprescindiveis acerca seu pelos pacientes por familiares cumprimento legislacao vigente vistas reduzir dificuldades desde ate realizacao vii instrumentos viabilizacao politica nacional controle rede atencao saude pessoas doencas cronicas ambito sistema unico sus viii criacao fortalecimento politicas publicas combate articulacao entre paises tecnologias conhecimentos metodos praticas formacao qualificacao especializacao recursos humanos envolvidos processo sistemas afericao qualificada numero acometidas pela xii combater desinformacao preconceito xiii contribuir melhoria qualidade vida xiv incidencia meio acoes mortalidade incapacidade causadas xvi educacao apoio paciente familia xvii incentivar manutencao utilizacao fundos especiais nacionais estaduais municipais xviii diferenciado universal integral criancas aos adolescentes priorizando xix estimular expansao continua sustentavel responsavel atendimento infraestrutura humanizacao prestando diferenciada",
+    "4": "art sao direitos fundamentais pessoa com cancer obtencao diagnostico precoce acesso tratamento universal equanime adequado menos nocivo iii informacoes transparentes objetivas relativas doenca seu assistencia social juridica prioridade protecao bem estar pessoal economico vii presenca acompanhante durante atendimento periodo viii acolhimento preferencialmente por sua propria familia detrimento abrigo instituicao longa permanencia exceto que careca condicoes manutencao sobrevivencia domiciliar priorizado educacional classe hospitalar regime conforme interesse nos termos respectivo sistema ensino para efeitos desta lei considera aquela tenha regular relatorio elaborado medico devidamente inscrito conselho profissional acompanhado pelos laudos exames diagnosticos complementares necessarios correta caracterizacao entende direito previsto inciso caput deste artigo seguintes garantias concedidas clinicamente ativo respeitadas conciliadas normas garantem mesmo aos idosos gestantes pessoas deficiencia preferencial respeitada precedencia dos casos mais graves outras prioridades legais servicos publicos orgaos privados prestadores populacao mecanismos favorecam divulgacao prevencao tramitacao processos judiciais administrativos",
+    "5": "art dever familia comunidade sociedade poder publico assegurar pessoa com cancer prioritariamente plena efetivacao dos direitos referentes vida saude alimentacao assistencia social juridica convivencia familiar comunitaria entre outros decorrentes constituicao federal das leis",
+    "6": "art nenhuma pessoa com cancer sera objeto qualquer tipo negligencia discriminacao violencia todo atentado aos seus direitos por acao omissao punido forma lei considera distincao restricao exclusao razao doenca mediante que tenha proposito efeito prejudicar impedir anular reconhecimento dos assegurados nesta cidadao tem dever comunicar autoridade competente violacao esta testemunhado conhecimento",
+    "7": "art dever estado desenvolver politicas publicas saude especificas direcionadas pessoa com cancer que incluam entre outras medidas promover acoes campanhas preventivas doenca garantir acesso universal igualitario gratuito aos servicos iii vetado avaliacao periodica tratamento ofertado paciente rede publica adotar necessarias para diminuir desigualdades existentes estabelecer normas tecnicas padroes conduta serem observados pelos publicos privados atendimento estimular desenvolvimento cientifico tecnologico promocao avancos prevencao diagnostico combate vii processos continuos capacitacao dos profissionais atuam diretamente nas fases viii capacitar orientar familiares cuidadores entidades assistenciais grupos autoajuda pessoas organizar programa rastreamento favoreca inicio precoce conscientizacao respeito direitos beneficios previdenciarios tributarios trabalhistas processuais tratamentos outros",
+    "8": "art direito assistencia social previsto inciso caput desta lei sera prestado forma articulada com base nos principios diretrizes previstos 742 dezembro 1993 organica harmonizada demais politicas sociais observadas normas pertinentes poder publico devera promover acesso pessoa cancer ministerio defensoria publica judiciario todas suas instancias estimulara por meio juridica conhecimento aos incentivos fiscais subsidios devidos",
+    "9": "art estado devera formular politicas direcionadas pessoa com cancer que esteja situacao vulnerabilidade social forma facilitar andamento dos procedimentos diagnostico tratamento",
+    "10": "art atendimento prestado criancas aos adolescentes com cancer suspeicao devera ser especial todas suas fases devendo garantido tratamento universal integral priorizados prevencao diagnostico precoce",
+    "11": "art direito saude pessoa com cancer sera assegurado mediante efetivacao politicas sociais publicas modo garantir seu bem estar fisico psiquico emocional social vistas preservacao recuperacao sua",
+    "12": "art obrigatorio atendimento integral saude pessoa com cancer por intermedio sus forma regulamento para efeitos desta lei entende aquele realizado nos diversos niveis complexidade hierarquia bem como nas diversas especialidades medicas acordo necessidades incluidos assistencia medica farmacos psicologica atendimentos especializados sempre que possivel internacao domiciliares devera garantir ainda tratamento adequado dor multidisciplinar cuidados paliativos",
+    "13": "art conscientizacao apoio familia pessoa com cancer constituem compromissos fundamentais estado fazem parte indispensaveis deste estatuto",
+    "14": "art direitos garantias previstos nesta lei nao excluem resguardados outras legislacoes",
+    "15": "art esta lei entra vigor data sua publicacao brasilia novembro 2021 200o independencia 133o republica jair messias bolsonaro marcelo antonio cartaxo queiroga lopes damares regina alves este texto nao substitui publicado dou"
+  }
+}

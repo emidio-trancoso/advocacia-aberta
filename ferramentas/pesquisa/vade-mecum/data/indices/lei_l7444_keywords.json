@@ -1,0 +1,50 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L7444",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l7444.json",
+      "colecao": "artigos",
+      "sha256": "5e7aaf42e17288e4700eb981a866d02df9086be4e6ecc56a4abb358fffc39ede",
+      "total_registros": 12,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 12,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art alistamento eleitoral sera feito mediante processamento eletronico dados paragrafo unico cada zona enquanto nao for implantada continuara ser efetuado forma legislacao vigor data desta lei",
+    "2": "art adotar sistema que trata artigo anterior justica eleitoral procedera cada zona revisao dos eleitores inscritos bem como conferencia atualizacao respectivos registros constituirao seguir cadastros mantidos computador",
+    "3": "art revisao eleitorado prevista desta lei far conformidade com instrucoes baixadas pelo tribunal superior eleitoral mediante apresentacao titulo pelos eleitores inscritos zona preenchimento formulario adotado para alistamento que trata podera realizar simultaneamente mais uma varias circunscricoes sera procedida sempre ampla divulgacao processando prazo marcado pela justica nao inferior trinta dias sem prejuizo disposto deste artigo fixar datas especiais designar previamente locais dos proceder ficam anistiados debitos falta cada vencido cancelar inscricoes correspondentes aos titulos forem apresentados",
+    "4": "art para conferencia atualizacao dos registros eleitorais que refere desta lei justica eleitoral podera utilizar tambem informacoes pertinentes constantes cadastros qualquer natureza mantidos por orgaos federais estaduais municipais paragrafo unico aludidos neste artigo ficam obrigados fornecer gratuitamente solicitadas",
+    "5": "art para alistamento forma desta lei alistando apresentara cartorio local previamente designado requerimento formulario que obedecera modelo aprovado pelo tribunal superior eleitoral escrivao funcionario preparador recebendo documentos datara determinara nele aponha sua assinatura nao souber assinar impressao digital seu polegar direito atestando seguir terem sido lancadas presenca inscricao sera instruido com dos seguintes carteira identidade expedida por orgao oficial competente certificado quitacao servico militar iii emitida pelos orgaos criados federal controladores exercicio profissional certidao idade extraida registro civil instrumento publico qual infira ter requerente minima dezoito anos constem tambem demais elementos necessarios qualificacao documento nacionalidade brasileira originaria adquirida devolvido contenha dados constantes mesma ordem caracteres inequivocos deste artigo dispensada apresentacao fotografia",
+    "6": "art implantado sistema previsto desta lei titulo eleitoral sera emitido por computador tribunal superior aprovara modelo definira procedimento ser adotado justica para sua expedicao aos eleitores inscritos cada zona apos revisao conferencia seu registro conformidade paragrafos expedido nova forma deste artigo",
+    "7": "art justica eleitoral executara servicos previstos nesta lei atendidas condicoes peculiaridades locais diretamente mediante convenio contrato paragrafo unico convenios contratos que cuida este artigo somente poderao ser ajustados com entidades administracao direta indireta uniao dos estados distrito federal municipios empresas cujo capital seja exclusivamente nacional",
+    "8": "art para implantacao alistamento mediante processamento dados revisao eleitorado nos termos desta lei justica eleitoral podera requisitar servidores federais estaduais municipais bem como utilizar instalacoes servicos orgaos uniao dos estados distrito federal territorios municipios",
+    "9": "art tribunal superior eleitoral baixara instrucoes necessarias execucao desta lei especialmente para definir administracao utilizacao dos cadastros eleitorais computador exclusivamente pela justica forma solicitacao informacoes constantes cadastras mantidos por orgaos federais estaduais municipais visando resguardar sua privacidade iii condicoes gerais direta mediante convenio contrato servicos alistamento revisao eleitorado conferencia atualizacao registros inclusive coleta transporte documentos quando necessario das zonas ate centros processamento dados acompanhamento fiscalizacao pelos partido politicos que trata este programacao calendario divulgacao cada zona circunscricao atendidas peculiaridades locais vii qualquer outra especificacao necessaria esta",
+    "10": "art fica poder executivo autorizado abrir para justica eleitoral disposicao tribunal superior credito especial 600 000 seiscentos bilhoes cruzeiros destinado atender despesas decorrentes desta lei",
+    "11": "art esta lei entra vigor data sua publicacao",
+    "12": "art revogam disposicoes contrario especialmente lei 996 junho 1932 brasilia dezembro 1985 164 independencia republica jose sarney fernando lyra este texto nao substitui publicado dou"
+  }
+}

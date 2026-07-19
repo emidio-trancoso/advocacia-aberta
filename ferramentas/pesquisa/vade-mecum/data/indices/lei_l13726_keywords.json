@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L13726",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l13726.json",
+      "colecao": "artigos",
+      "sha256": "456103ff019b41252ba7e63649cda17a9035370db540c210793d035f1d1fcdbd",
+      "total_registros": 10,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 10,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art esta lei racionaliza atos procedimentos administrativos dos poderes uniao estados distrito federal municipios mediante supressao simplificacao formalidades exigencias desnecessarias superpostas cujo custo economico social tanto para erario como cidadao seja superior eventual risco fraude institui selo desburocratizacao",
+    "2": "art vetado",
+    "3": "art relacao dos orgaos entidades poderes uniao estados distrito federal municipios com cidadao dispensada exigencia reconhecimento firma devendo agente administrativo confrontando assinatura aquela constante documento identidade signatario estando este presente assinando diante lavrar sua autenticidade proprio autenticacao copia cabendo mediante comparacao entre original atestar iii juntada pessoal usuario que podera ser substituido por autenticada pelo apresentacao certidao nascimento substituida cedula titulo eleitor expedida conselho regional fiscalizacao profissional carteira trabalho certificado prestacao isencao servico militar passaporte funcional orgao publico exceto para votar registrar candidatura autorizacao reconhecida viagem menor pais estiverem presentes embarque vedada prova relativa fato houver sido comprovado pela outro valido quando motivo nao imputavel solicitante for possivel obter diretamente entidade responsavel comprobatorio regularidade fatos poderao comprovados declaracao escrita assinada caso falsa ficara sujeito sancoes administrativas civis penais aplicaveis integrantes poder estado municipio exigir expedido mesmo ressalvadas seguintes hipoteses antecedentes criminais informacoes sobre pessoa juridica outras expressamente previstas lei",
+    "4": "art vetado",
+    "5": "art poderes uniao dos estados distrito federal municipios poderao criar grupos setoriais trabalho com seguintes objetivos identificar nas respectivas areas dispositivos legais regulamentares que prevejam exigencias descabidas exageradas procedimentos desnecessarios redundantes sugerir medidas visem eliminar excesso burocracia",
+    "6": "art ressalvados casos que impliquem imposicao deveres onus sancoes restricoes exercicio direitos atividades comunicacao entre poder publico cidadao podera ser feita por qualquer meio inclusive verbal direta telefonica correio eletronico devendo circunstancia registrada quando necessario",
+    "7": "art instituido selo desburocratizacao simplificacao destinado reconhecer estimular projetos programas praticas que simplifiquem funcionamento administracao publica melhorem atendimento aos usuarios dos servicos publicos paragrafo unico sera concedido forma regulamento por comissao formada representantes sociedade civil observados seguintes criterios racionalizacao processos procedimentos administrativos eliminacao formalidades desnecessarias desproporcionais para finalidades almejadas iii ganhos sociais oriundos medida reducao tempo espera adocao solucoes tecnologicas organizacionais possam ser replicadas outras esferas",
+    "8": "art participacao servidor desenvolvimento execucao projetos programas que resultem desburocratizacao servico publico sera registrada seus assentamentos funcionais",
+    "9": "art orgaos entidades estatais que receberem selo desburocratizacao simplificacao serao inscritos cadastro nacional paragrafo unico premiados anualmente dois cada unidade federativa selecionados com base nos criterios estabelecidos por esta lei",
+    "10": "art vetado brasilia outubro 2018 197 independencia 130 republica michel temer eliseu padilha grace maria fernandes mendonca este texto nao substitui publicado dou"
+  }
+}

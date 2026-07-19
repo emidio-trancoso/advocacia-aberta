@@ -1,0 +1,49 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "LC142",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_lc142.json",
+      "colecao": "artigos",
+      "sha256": "09aadce6202cb482d33840738391aa1e4993e1b300f63625ebda8e56d4a29951",
+      "total_registros": 11,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 11,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art esta lei complementar regulamenta concessao aposentadoria pessoa com deficiencia segurada regime geral previdencia social rgps que trata 201 constituicao federal",
+    "2": "art para reconhecimento direito aposentadoria que trata esta lei complementar considera pessoa com deficiencia aquela tem impedimentos longo prazo natureza fisica mental intelectual sensorial quais interacao diversas barreiras podem obstruir sua participacao plena efetiva sociedade igualdade condicoes demais pessoas",
+    "3": "art assegurada concessao aposentadoria pelo rgps segurado com deficiencia observadas seguintes condicoes aos vinte cinco anos tempo contribuicao homem mulher caso grave nove quatro moderada iii trinta tres oito leve sessenta idade cinquenta independentemente grau desde que cumprido minimo quinze comprovada existencia durante igual periodo paragrafo unico regulamento poder executivo definira deficiencias para fins desta lei complementar",
+    "4": "art avaliacao deficiencia sera medica funcional nos termos regulamento",
+    "5": "art grau deficiencia sera atestado por pericia propria instituto nacional seguro social inss meio instrumentos desenvolvidos para esse fim",
+    "6": "art contagem tempo contribuicao condicao segurado com deficiencia sera objeto comprovacao exclusivamente forma desta lei complementar existencia anterior data vigencia devera ser certificada inclusive quanto seu grau por ocasiao primeira avaliacao sendo obrigatoria fixacao provavel inicio periodo entrada vigor nao admitida meio prova testemunhal",
+    "7": "art segurado apos filiacao rgps tornar pessoa com deficiencia tiver seu grau alterado parametros mencionados serao proporcionalmente ajustados considerando numero anos que exerceu atividade laboral sem observado correspondente nos termos regulamento refere paragrafo unico desta lei complementar",
+    "8": "art renda mensal aposentadoria devida segurado com deficiencia sera calculada aplicando sobre salario beneficio apurado conformidade disposto lei 213 julho 1991 seguintes percentuais 100 cem por cento caso que tratam incisos iii setenta mais grupo doze contribuicoes mensais ate maximo trinta idade",
+    "9": "art aplicam pessoa com deficiencia que trata esta lei complementar fator previdenciario nas aposentadorias resultar renda mensal valor mais elevado contagem reciproca tempo contribuicao condicao segurado relativo filiacao rgps regime proprio previdencia servidor publico militar devendo regimes compensar financeiramente iii regras pagamento recolhimento das contribuicoes previdenciarias contidas 212 julho 1991 demais normas relativas aos beneficios percepcao qualquer outra especie aposentadoria estabelecida 213 lhe seja vantajosa opcoes apresentadas nesta",
+    "10": "art reducao tempo contribuicao prevista nesta lei complementar nao podera ser acumulada tocante mesmo periodo contributivo com assegurada aos casos atividades exercidas sob condicoes especiais que prejudiquem saude integridade fisica",
+    "11": "art esta lei complementar entra vigor apos decorridos seis meses sua publicacao oficial brasilia maio 2013 192o independencia 125o republica dilma rousseff miriam belchior garibaldi alves filho maria rosario nunes este texto nao substitui publicado dou"
+  }
+}

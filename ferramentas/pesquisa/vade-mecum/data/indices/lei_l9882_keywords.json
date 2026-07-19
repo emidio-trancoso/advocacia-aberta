@@ -1,0 +1,52 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L9882",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l9882.json",
+      "colecao": "artigos",
+      "sha256": "e42f14da1b146f3ab1543298da35dc5409e1240a8ed8e384d9446b1399378b8b",
+      "total_registros": 14,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 14,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art arguicao prevista 102 constituicao federal sera proposta perante supremo tribunal tera por objeto evitar reparar lesao preceito fundamental resultante ato poder publico paragrafo unico cabera tambem descumprimento quando for relevante fundamento controversia constitucional sobre lei normativo estadual municipal incluidos anteriores vetado",
+    "2": "art podem propor arguicao descumprimento preceito fundamental legitimados para acao direta inconstitucionalidade vetado hipotese inciso faculta interessado mediante representacao solicitar propositura procurador geral republica que examinando fundamentos juridicos pedido decidira cabimento seu ingresso juizo",
+    "3": "art peticao inicial devera conter indicacao preceito fundamental que considera violado ato questionado iii prova violacao pedido com suas especificacoes for caso comprovacao existencia controversia judicial relevante sobre aplicacao paragrafo unico acompanhada instrumento mandato sera apresentada duas vias devendo copias dos documentos necessarios para comprovar impugnacao",
+    "4": "art peticao inicial sera indeferida liminarmente pelo relator quando nao for caso arguicao descumprimento preceito fundamental faltar algum dos requisitos prescritos nesta lei inepta admitida houver qualquer outro meio eficaz sanar lesividade decisao indeferimento cabera agravo prazo cinco dias",
+    "5": "art supremo tribunal federal por decisao maioria absoluta seus membros podera deferir pedido medida liminar arguicao descumprimento preceito fundamental caso extrema urgencia perigo lesao grave ainda periodo recesso relator conceder referendum pleno ouvir orgaos autoridades responsaveis pelo ato questionado bem como advogado geral uniao procurador republica prazo comum cinco dias consistir determinacao que juizes tribunais suspendam andamento processo efeitos decisoes judiciais qualquer outra apresente relacao com materia objeto salvo decorrentes coisa julgada vetado",
+    "6": "art apreciado pedido liminar relator solicitara informacoes autoridades responsaveis pela pratica ato questionado prazo dez dias entender necessario podera ouvir partes nos processos que ensejaram arguicao requisitar adicionais designar perito comissao peritos para emita parecer sobre questao ainda fixar data declaracoes audiencia publica pessoas com experiencia autoridade materia poderao ser autorizadas criterio sustentacao oral juntada memoriais por requerimento dos interessados processo",
+    "7": "art decorrido prazo das informacoes relator lancara relatorio com copia todos ministros pedira dia para julgamento paragrafo unico ministerio publico nas arguicoes que nao houver formulado tera vista processo por cinco dias apos decurso",
+    "8": "art decisao sobre arguicao descumprimento preceito fundamental somente sera tomada presentes sessao pelo menos dois tercos dos ministros vetado",
+    "9": "art vetado",
+    "10": "art julgada acao far comunicacao autoridades orgaos responsaveis pela pratica dos atos questionados fixando condicoes modo interpretacao aplicacao preceito fundamental presidente tribunal determinara imediato cumprimento decisao lavrando acordao posteriormente dentro prazo dez dias contado partir transito julgado sua parte dispositiva sera publicada secao especial diario justica oficial uniao tera eficacia contra todos efeito vinculante relativamente aos demais poder publico vide adpf 774",
+    "11": "art declarar inconstitucionalidade lei ato normativo processo arguicao descumprimento preceito fundamental tendo vista razoes seguranca juridica excepcional interesse social podera supremo tribunal federal por maioria dois tercos seus membros restringir efeitos daquela declaracao decidir que ela tenha eficacia partir seu transito julgado outro momento venha ser fixado",
+    "12": "art decisao que julgar procedente improcedente pedido arguicao descumprimento preceito fundamental irrecorrivel nao podendo ser objeto acao rescisoria",
+    "13": "art cabera reclamacao contra descumprimento decisao proferida pelo supremo tribunal federal forma seu regimento interno",
+    "14": "art esta lei entra vigor data sua publicacao brasilia dezembro 1999 178o independencia 11o republica fernando henrique cardoso jose carlos dias este texto nao substitui publicado dou"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "LC135",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_lc135.json",
+      "colecao": "artigos",
+      "sha256": "d432db2c8f65fb9f12d7c2bc9672be0651ad6d7c2fdf0574f18ce303d357e3d3",
+      "total_registros": 5,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 5,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art esta lei complementar altera maio 1990 que estabelece acordo com constituicao federal casos inelegibilidade prazos cessacao determina outras providencias",
+    "2": "art lei complementar 1990 passa vigorar com seguintes alteracoes governador vice estado distrito federal prefeito que perderem seus cargos eletivos por infringencia dispositivo constituicao estadual organica municipio para eleicoes realizarem durante periodo remanescente nos oito anos subsequentes termino mandato qual tenham sido eleitos contra sua pessoa representacao julgada procedente pela justica eleitoral decisao transitada julgado proferida orgao colegiado processo apuracao abuso poder economico politico eleicao concorrem diplomados bem como forem condenados judicial desde condenacao ate transcurso prazo apos cumprimento pena pelos crimes economia popular publica administracao patrimonio publico privado sistema financeiro mercado capitais previstos regula falencia meio ambiente saude eleitorais quais comine privativa liberdade autoridade casos houver perda cargo inabilitacao exercicio funcao lavagem ocultacao bens direitos valores trafico entorpecentes drogas afins racismo tortura terrorismo hediondos reducao condicao analoga escravo vida dignidade sexual praticados organizacao criminosa quadrilha bando declarados indignos oficialato ele incompativeis pelo tiverem suas contas relativas funcoes publicas rejeitadas irregularidade insanavel configure ato doloso improbidade administrativa irrecorrivel competente salvo esta suspensa anulada judiciario contados partir data aplicando disposto inciso todos ordenadores despesa sem exclusao mandatarios houverem agido nessa detentores direta indireta fundacional beneficiarem terceiros corrupcao captacao ilicita sufragio doacao gastos ilicitos recursos campanha conduta vedada aos agentes publicos campanhas impliquem cassacao registro diploma contar presidente republica membros congresso nacional das assembleias legislativas camara legislativa camaras municipais renunciarem mandatos oferecimento peticao capaz autorizar abertura foram legislatura suspensao dos politicos importe lesao enriquecimento ilicito transito excluidos profissao sancionatoria profissional decorrencia infracao etico anulado suspenso razao terem desfeito simulado desfazer vinculo conjugal uniao estavel evitar caracterizacao inelegibilidade reconhecer fraude demitidos servico administrativo contado fisica dirigentes pessoas juridicas responsaveis doacoes tidas ilegais observando procedimento previsto magistrados ministerio aposentados compulsoriamente perdido sentenca pedido exoneracao aposentadoria voluntaria pendencia disciplinar prevista alinea deste artigo nao aplica culposos aqueles definidos menor potencial ofensivo nem acao penal privada renuncia atender desincompatibilizacao vistas candidatura eletivo assuncao gerara menos reconheca nesta publicada declarar candidato ser lhe negado cancelado tiver feito declarado nulo expedido paragrafo unico refere caput independentemente apresentacao recurso devera comunicada imediato expedicao reu xiv ainda proclamacao tribunal declarara representado quantos hajam contribuido pratica cominando lhes sancao verificou alem diretamente beneficiado interferencia desvio meios comunicacao determinando remessa autos instauracao for caso ordenando quaisquer outras providencias especie comportar revogado xvi configuracao abusivo sera considerada potencialidade fato alterar resultado mas apenas gravidade circunstancias caracterizam afastada aplicar quanto estabelece normas darao prioridade sobre outros processos sejam julgados ressalvados habeas corpus mandado seguranca defeso autoridades mencionadas neste deixar cumprir qualquer sob alegacao acumulo regulares policias judiciarias orgaos receita municipal tribunais banco central brasil conselho controle atividade financeira auxiliarao delitos atribuicoes corregedorias manterao acompanhamento relatorios mensais atividades fornecidos pelas unidades fim verificar eventuais descumprimentos injustificados prazos promovendo quando devida responsabilizacao couber apreciacao decisoes colegiadas referem alineas podera carater cautelar suspender sempre existir plausibilidade pretensao recursal providencia tenha expressamente requerida preclusao ocasiao interposicao conferido efeito suspensivo julgamento tera demais excecao mantida derivou revogada liminar mencionada serao desconstituidos eventualmente concedidos recorrente atos manifestamente protelatorios parte defesa longo tramitacao acarretara revogacao",
+    "3": "art recursos interpostos antes vigencia desta lei complementar poderao ser aditados para fim que refere caput maio 1990 introduzido por esta",
+    "4": "art revoga inciso lei complementar maio 1990",
+    "5": "art esta lei complementar entra vigor data sua publicacao brasilia junho 2010 189o independencia 122o republica luiz inacio lula silva paulo teles ferreira barreto luis lucena adams este texto nao substitui publicado dou"
+  }
+}

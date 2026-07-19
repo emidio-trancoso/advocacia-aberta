@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "CTN",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_ctn.json",
+      "colecao": "artigos",
+      "sha256": "bfcf75d051d6159e780206a6bed1b1c54a45ebc87f56921e34d021bd03e95959",
+      "total_registros": 209,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 5,
+      "dispositivos_no_indice_curado": 204
+    }
+  },
+  "tokens": {
+    "86": "art revogado pela lei complementar 143 2013 producao efeito",
+    "88": "art revogado pela lei complementar 143 2013 producao efeito",
+    "93": "art revogado pela lei complementar 143 2013 producao efeito",
+    "94": "art revogado pela lei complementar 143 2013 producao efeito",
+    "95": "art revogado pela lei complementar 143 2013 producao efeito paragrafo unico pelo ato 1967 livro segundo normas gerais direito tributario"
+  }
+}

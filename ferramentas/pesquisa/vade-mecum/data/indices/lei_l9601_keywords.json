@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L9601",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l9601.json",
+      "colecao": "artigos",
+      "sha256": "631b51679c4c1caebc1fad5a8d2d5dbc67f09b2194b6e85b8fc27880f3f02203",
+      "total_registros": 10,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 10,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art convencoes acordos coletivos trabalho poderao instituir contrato por prazo determinado que trata 443 consolidacao das leis clt independentemente condicoes estabelecidas seu qualquer atividade desenvolvida pela empresa estabelecimento para admissoes representem acrescimo numero empregados partes estabelecerao convencao acordo coletivo referido neste artigo indenizacao hipoteses rescisao antecipada este iniciativa empregador empregado nao aplicando disposto nos arts 479 480 multas pelo descumprimento suas clausulas aplica previsto 451 vetado sao garantidas estabilidades provisorias gestante dirigente sindical ainda suplente eleito cargo direcao comissoes internas prevencao acidentes acidentado termos 118 lei 213 julho 1991 durante vigencia podera ser rescindido antes estipulado pelas",
+    "2": "art para contratos previstos artigo anterior sao reduzidas por dezoito meses contar data publicacao desta lei",
+    "3": "art numero empregados contratados nos termos desta lei observara limite estabelecido instrumento decorrente negociacao coletiva nao podendo ultrapassar seguintes percentuais que serao aplicados cumulativamente cinquenta por cento trabalhadores para parcela inferior trinta cinco entre noventa nove iii vinte acima duzentos paragrafo unico parcelas referidas incisos deste artigo calculadas sobre media aritmetica mensal prazo indeterminado estabelecimento seis meses imediatamente anteriores data publicacao",
+    "4": "art reducoes previstas serao asseguradas desde que momento contratacao empregador esteja adimplente junto instituto nacional seguro social inss fundo garantia tempo servico fgts contrato trabalho por prazo determinado relacao mencionada deste artigo tenham sido depositados ministerio referidas neste subsistirao enquanto quadro empregados respectiva folha salarial empresa estabelecimento forem superiores respectivas medias mensais dos seis meses imediatamente anteriores data publicacao desta lei numero contratados indeterminado for minino igual media referida paragrafo unico tomara disponiveis agente operador informacoes constantes convencao acordo coletivo trata depositado necessarias controle recolhimento das contribuicoes mencionadas respectivamente nos incisos devera afixar avisos copias instrumento normativo mencionado contera dentre outras nome empregado carteira previdencia inscricao trabalhador programa integracao pis datas inicio termino ministro dispora sobre variaveis serem consideradas metodologia calculo aritmeticas",
+    "5": "art empresas que partir data publicacao desta lei aumentarem seu quadro pessoal relacao media mensal numero empregos periodo referencia mencionado artigo anterior terao preferencia obtencao recursos ambito dos programas executados pelos estabelecimentos federais credito especialmente junto banco nacional desenvolvimento economico social bndes",
+    "6": "art consolidacao das leis trabalho clt passa vigorar com seguinte redacao podera ser dispensado acrescimo salario por forca acordo convencao coletiva excesso horas dia for compensado pela correspondente diminuicao outro maneira que nao exceda periodo maximo cento vinte dias soma jornadas semanais previstas nem seja ultrapassado iimite dez diarias hipotese rescisao contrato sem tenha havido compensacao integral jornada extraordinaria forma paragrafo anterior fara trabalhador jus pagamento extras compensadas calculadas sobre valor remuneracao data",
+    "7": "art descumprimento pelo empregador disposto nos arts desta lei sujeita multa quinhentas unidades fiscais referencia ufir por trabalhador contratado moldes que constituira receita adicional fundo amparo fat trata 998 janeiro 1990",
+    "8": "art poder executivo regulamentara esta lei prazo trinta dias contado partir data sua publicacao",
+    "9": "art esta lei entra vigor data sua publicacao",
+    "10": "art revogam disposicoes contrario brasilia janeiro 1998 177 independencia 110 republica fernando henrique cardoso paulo paiva este texto nao substitui publicado dou"
+  }
+}

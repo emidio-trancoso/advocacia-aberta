@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L14181",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l14181.json",
+      "colecao": "artigos",
+      "sha256": "57a037404536caff69fa990cff3586b4e61327850f772047463094298c90cc7f",
+      "total_registros": 5,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 5,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art lei 078 setembro 1990 codigo defesa consumidor passa vigorar com seguintes alteracoes fomento acoes direcionadas educacao financeira ambiental dos consumidores prevencao tratamento superendividamento como forma evitar exclusao social instituicao mecanismos extrajudicial judicial protecao pessoa natural vii nucleos conciliacao mediacao conflitos oriundos garantia praticas credito responsavel situacoes preservado minimo existencial nos termos regulamentacao por meio revisao repactuacao divida entre outras medidas xii preservacao dividas concessao xiii informacao acerca precos produtos unidade medida tal quilo litro metro outra conforme caso xvii condicionem limitem qualquer acesso aos orgaos poder judiciario xviii estabelecam prazos carencia impontualidade das prestacoes mensais impecam restabelecimento integral direitos seus meios pagamento partir purgacao mora acordo credores xix vetado capitulo este dispoe sobre entende impossibilidade manifesta boa pagar totalidade suas consumo exigiveis vincendas sem comprometer seu referidas deste artigo englobam quaisquer compromissos financeiros assumidos decorrentes relacao inclusive operacoes compras prazo servicos prestacao continuada disposto neste nao aplica cujas tenham sido contraidas mediante fraude sejam oriundas contratos celebrados dolosamente proposito realizar decorram aquisicao contratacao luxo alto valor fornecimento venda alem informacoes obrigatorias previstas legislacao aplicavel materia fornecedor intermediario devera informar previa adequadamente momento oferta custo efetivo total descricao elementos que compoem taxa efetiva mensal juros bem encargos natureza previstos para atraso iii montante validade deve ser dois dias nome endereco eletronico direito liquidacao antecipada onerosa debito vigor caput devem constar clara resumida proprio contrato fatura instrumento apartado facil efeitos operacao consistira percentual anual compreendera todos valores cobrados prejuizo calculo padronizado pela autoridade reguladora sistema financeiro indicar agente financiador soma financiamento vedado expressa implicitamente publicitaria podera concluida consulta avaliacao situacao ocultar dificultar compreensao onus riscos assediar pressionar contratar produto servico principalmente tratar idoso analfabeto doente estado vulnerabilidade agravada envolver premio condicionar atendimento pretensoes inicio tratativas renuncia desistencia demandas judiciais honorarios advocaticios depositos paragrafo unico previamente condutas esclarecer considerada sua idade modalidade oferecido custos incidentes observado arts consequencias genericas especificas inadimplemento avaliar condicoes analise disponiveis bancos dados identidade entregar garante outros coobrigados copia descumprimento deveres acarretar judicialmente reducao acrescimo principal dilacao previsto original gravidade conduta possibilidades financeiras sancoes indenizacao perdas danos patrimoniais morais sao conexos coligados interdependentes acessorios lhe garantam quando recorrer preparacao conclusao oferecer local atividade empresarial financiado onde for celebrado exercicio arrependimento nas hipoteses implica resolucao pleno seja conexo casos incisos houver inexecucao obrigacoes requerer rescisao cumprido contra cabera igualmente portador cheque pos datado emitido administrador emitente cartao similar forem fornecidos pelo mesmo entidades pertencentes grupo economico invalidade ineficacia implicara ressalvado obter devolucao entregues relativamente tributos envolva proceder cobranca conta quantia contestada compra realizada enquanto solucionada controversia desde haja notificado administradora antecedencia menos dez contados data vencimento vedada manutencao seguinte assegurado deduzir disputa efetuar parte podendo emissor lancar confianca identico transacao tenha cobrada encerrada apuracao contestacao recusar minuta papel outro suporte duradouro disponivel acessivel apos impedir utilizacao fraudulenta peca obtenha anulacao imediato bloqueio ainda restituicao indevidamente recebidos dever esclarecimento entrega emprestimo cuja feita consignacao folha formalizacao ocorrerao fonte pagadora indicacao existencia margem consignavel adesao prestar tratam porventura determinadas fica obrigado 104 requerimento superendividado juiz instaurar processo vistas realizacao audiencia conciliatoria presidida ele conciliador credenciado juizo presenca qual apresentara proposta plano maximo cinco anos preservados garantias formas originalmente pactuadas excluem relacoes provenientes real financiamentos imobiliarios rural comparecimento injustificado credor procurador poderes especiais plenos transigir trata acarretara suspensao exigibilidade interrupcao sujeicao compulsoria devido ausente certo conhecido devendo esse estipulado ocorrer apenas presentes sentenca homologar descrevera tera eficacia titulo executivo forca coisa julgada constarao referido remuneracao destinadas facilitar referencia extincao curso sera providenciada cadastros inadimplentes condicionamento abstencao importem agravamento pedido refere importara declaracao insolvencia civil repetido somente decorrido contado homologado eventual exito instaurara integracao remanescentes compulsorio procedera citacao cujos creditos integrado serao considerados documentos prestadas quinze citados juntarao razoes negativa aceder voluntario renegociar nomear isso onere partes ate trinta cumpridas diligencias eventualmente necessarias contemple temporizacao atenuacao assegurara corrigido monetariamente indices oficiais preco prevera quitacao consensual sendo primeira parcela devida 180 cento oitenta homologacao restante saldo parcelas iguais sucessivas compete concorrente facultativamente publicos integrantes nacional fase preventiva moldes couber possibilidade regulado convenios especificos referidos instituicoes credoras associacoes administrativa prevenir poderao promover reclamacoes individuais global elaboracao sob supervisao desses demais atividades reeducacao cabiveis firmado perante incluira especialmente contrair novas",
+    "2": "art lei 741 outubro 2003 estatuto idoso passa vigorar acrescido seguinte nao constitui crime negativa credito motivada por superendividamento",
+    "3": "art validade dos negocios demais atos juridicos credito curso constituidos antes entrada vigor desta lei obedece disposto anterior mas efeitos produzidos apos subordinam aos seus preceitos",
+    "4": "art vetado",
+    "5": "art esta lei entra vigor data sua publicacao brasilia julho 2021 200o independencia 133o republica jair messias bolsonaro anderson gustavo torres paulo guedes damares regina alves este texto nao substitui publicado dou"
+  }
+}

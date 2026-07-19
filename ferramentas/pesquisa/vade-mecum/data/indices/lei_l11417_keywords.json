@@ -1,0 +1,49 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L11417",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l11417.json",
+      "colecao": "artigos",
+      "sha256": "10bdc629d97847c7519a127e2c3d7090fc64d0f1bb11b1b06fc16eee7886b612",
+      "total_registros": 11,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 11,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art esta lei disciplina edicao revisao cancelamento enunciado sumula vinculante pelo supremo tribunal federal outras providencias",
+    "2": "art supremo tribunal federal podera oficio por provocacao apos reiteradas decisoes sobre materia constitucional editar enunciado sumula que partir sua publicacao imprensa oficial tera efeito vinculante relacao aos demais orgaos poder judiciario administracao publica direta indireta nas esferas estadual municipal bem como proceder revisao cancelamento forma prevista nesta lei objeto validade interpretacao eficacia normas determinadas acerca das quais haja entre judiciarios esses controversia atual acarrete grave inseguranca juridica relevante multiplicacao processos identica questao procurador geral republica propostas nao houver formulado manifestar previamente edicao com dependerao decisao tomada dois tercos dos membros sessao plenaria prazo dez dias rever cancelar fara publicar secao especial diario justica uniao respectivo",
+    "3": "art sao legitimados propor edicao revisao cancelamento enunciado sumula vinculante presidente republica mesa senado federal iii camara dos deputados procurador geral conselho ordem advogados brasil defensor publico uniao vii partido politico com representacao congresso nacional viii confederacao sindical entidade classe ambito assembleia legislativa distrito governador estado tribunais superiores justica estados territorios regionais federais trabalho eleitorais militares municipio podera incidentalmente curso processo que seja parte nao autoriza suspensao procedimento relator admitir por decisao irrecorrivel manifestacao terceiros questao nos termos regimento interno supremo tribunal",
+    "4": "art sumula com efeito vinculante tem eficacia imediata mas supremo tribunal federal por decisao dois tercos dos seus membros podera restringir efeitos vinculantes decidir que tenha partir outro momento tendo vista razoes seguranca juridica excepcional interesse publico",
+    "5": "art revogada modificada lei que fundou edicao enunciado sumula vinculante supremo tribunal federal oficio por provocacao procedera sua revisao cancelamento conforme caso",
+    "6": "art proposta edicao revisao cancelamento enunciado sumula vinculante nao autoriza suspensao dos processos que discuta mesma questao",
+    "7": "art decisao judicial ato administrativo que contrariar enunciado sumula vinculante negar lhe vigencia aplica indevidamente cabera reclamacao supremo tribunal federal sem prejuizo dos recursos outros meios admissiveis impugnacao contra omissao administracao publica uso sera admitido apos esgotamento das vias administrativas julgar procedente anulara cassara impugnada determinando outra seja proferida com aplicacao conforme caso",
+    "8": "art lei 784 janeiro 1999 passa vigorar acrescido seguinte recorrente alegar que decisao administrativa contraria enunciado sumula vinculante cabera autoridade prolatora impugnada nao reconsiderar explicitar antes encaminhar recurso superior razoes aplicabilidade inaplicabilidade conforme caso",
+    "9": "art lei 784 janeiro 1999 passa vigorar acrescida dos seguintes arts recorrente alegar violacao enunciado sumula vinculante orgao competente para decidir recurso explicitara razoes aplicabilidade inaplicabilidade conforme caso acolhida pelo supremo tribunal federal reclamacao fundada dar ciencia autoridade prolatora julgamento que deverao adequar futuras decisoes administrativas casos semelhantes sob pena responsabilizacao pessoal nas esferas civel administrativa penal",
+    "10": "art procedimento edicao revisao cancelamento enunciado sumula com efeito vinculante obedecera subsidiariamente disposto regimento interno supremo tribunal federal",
+    "11": "art esta lei entra vigor tres meses apos sua publicacao brasilia dezembro 2006 185 independencia 118 republica luiz inacio lula silva marcio thomaz bastos este texto nao substitui publicado dou"
+  }
+}

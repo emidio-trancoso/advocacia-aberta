@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "LMS",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_lms.json",
+      "colecao": "artigos",
+      "sha256": "5b2289f663a30f2ee2465717a440a5ce597ad5187cdd8eb99f416534f8312040",
+      "total_registros": 29,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 29,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art conceder mandado seguranca para proteger direito liquido certo nao amparado por habeas corpus data sempre que ilegalmente com abuso poder qualquer pessoa fisica juridica sofrer violacao houver justo receio sofre parte autoridade seja categoria for sejam quais forem funcoes exerca vide adin 4296 equiparam autoridades efeitos desta lei representantes orgaos partidos politicos administradores entidades autarquicas bem como dirigentes pessoas juridicas naturais exercicio atribuicoes publico somente disser respeito essas cabe contra atos gestao comercial praticados pelos empresas publicas sociedade economia mista concessionarias servico quando ameacado violado couber varias delas podera requerer",
+    "2": "art considerar federal autoridade coatora consequencias ordem patrimonial ato contra qual requer mandado houverem ser suportadas pela uniao entidade por ela controlada",
+    "3": "art titular direito liquido certo decorrente condicoes identicas terceiro podera impetrar mandado seguranca favor originario seu nao fizer prazo trinta dias quando notificado judicialmente paragrafo unico exercicio previsto caput deste artigo submete fixado desta lei contado notificacao",
+    "4": "art caso urgencia permitido observados requisitos legais impetrar mandado seguranca por telegrama radiograma fax outro meio eletronico autenticidade comprovada podera juiz notificar autoridade que assegure documento imediata ciencia pela texto original peticao devera ser apresentado nos cinco dias uteis seguintes para fins deste artigo tratando serao observadas regras infra estrutura chaves publicas brasileira icp brasil",
+    "5": "art nao concedera mandado seguranca quando tratar ato qual caiba recurso administrativo com efeito suspensivo independentemente caucao decisao judicial iii transitada julgado paragrafo unico vetado",
+    "6": "art peticao inicial que devera preencher requisitos estabelecidos pela lei processual sera apresentada duas vias com documentos instruirem primeira reproduzidos segunda indicara alem autoridade coatora pessoa juridica esta integra qual acha vinculada exerce atribuicoes caso documento necessario prova alegado ache reparticao estabelecimento publico poder recuse fornece por certidao terceiro juiz ordenara preliminarmente oficio exibicao desse original copia autentica marcara para cumprimento ordem prazo dez dias escrivao extraira copias junta las via tiver procedido dessa maneira for propria far proprio instrumento notificacao considera aquela tenha praticado ato impugnado emane sua pratica vetado denega mandado seguranca nos casos previstos pelo 267 869 janeiro 1973 codigo processo civil pedido podera ser renovado dentro decadencial decisao denegatoria nao lhe houver apreciado merito",
+    "7": "art despachar inicial juiz ordenara que notifique coator conteudo peticao enviando lhe segunda via apresentada com copias dos documentos fim prazo dez dias preste informacoes ciencia feito orgao representacao judicial pessoa juridica interessada copia sem para querendo ingresse iii suspenda ato deu motivo pedido quando houver fundamento relevante impugnado puder resultar ineficacia medida caso seja finalmente deferida sendo facultado exigir impetrante caucao fianca deposito objetivo assegurar ressarcimento vide adin 4296 decisao primeiro grau conceder denegar liminar cabera agravo instrumento observado disposto lei 869 janeiro 1973 codigo processo civil nao sera concedida tenha por objeto compensacao creditos tributarios entrega mercadorias bens provenientes exterior reclassificacao equiparacao servidores publicos concessao aumento extensao vantagens pagamento qualquer natureza efeitos salvo revogada cassada persistirao ate prolacao sentenca tera prioridade julgamento vedacoes relacionadas liminares previstas neste artigo estendem tutela antecipada referem arts 273 461",
+    "8": "art sera decretada perempcao caducidade medida liminar officio requerimento ministerio publico quando concedida impetrante criar obstaculo normal andamento processo deixar promover por mais tres dias uteis atos diligencias que lhe cumprirem",
+    "9": "art autoridades administrativas prazo quarenta oito horas notificacao medida liminar remeterao ministerio orgao que acham subordinadas advogado geral uniao quem tiver representacao judicial estado municipio entidade apontada como coatora copia autenticada mandado notificatorio assim indicacoes elementos outros necessarios providencias serem tomadas para eventual suspensao defesa ato apontado ilegal abusivo poder",
+    "10": "art inicial sera desde logo indeferida por decisao motivada quando nao for caso mandado seguranca lhe faltar algum dos requisitos legais decorrido prazo legal para impetracao indeferimento pelo juiz primeiro grau cabera apelacao competencia julgamento couber originariamente tribunais ato relator agravo orgao competente tribunal que integre ingresso litisconsorte ativo admitido apos despacho peticao",
+    "11": "art feitas notificacoes serventuario cujo cartorio corra feito juntara aos autos copia autentica dos oficios enderecados coator orgao representacao judicial pessoa juridica interessada bem como prova entrega estes sua recusa aceita los dar recibo caso desta lei comprovacao remessa",
+    "12": "art findo prazo que refere inciso caput desta lei juiz ouvira representante ministerio publico opinara dentro improrrogavel dez dias paragrafo unico com sem parecer autos serao conclusos para decisao qual devera ser necessariamente proferida trinta",
+    "13": "art concedido mandado juiz transmitira oficio por intermedio oficial juizo pelo correio mediante correspondencia com aviso recebimento inteiro teor sentenca autoridade coatora pessoa juridica interessada paragrafo unico caso urgencia podera observar disposto desta lei",
+    "14": "art sentenca denegando concedendo mandado cabe apelacao concedida seguranca estara sujeita obrigatoriamente duplo grau jurisdicao estende autoridade coatora direito recorrer que conceder pode ser executada provisoriamente salvo nos casos for vedada concessao medida liminar pagamento vencimentos vantagens pecuniarias assegurados concessiva servidor publico administracao direta autarquica federal estadual municipal somente sera efetuado relativamente prestacoes vencerem contar data ajuizamento inicial",
+    "15": "art quando requerimento pessoa juridica direito publico interessada ministerio para evitar grave lesao ordem saude seguranca economia publicas presidente tribunal qual couber conhecimento respectivo recurso suspender decisao fundamentada execucao liminar sentenca dessa cabera agravo sem efeito suspensivo prazo cinco dias que sera levado julgamento sessao seguinte sua interposicao indeferido pedido suspensao provido refere caput deste artigo novo competente conhecer eventual especial extraordinario cabivel tambem negado provimento instrumento interposto contra este concedida nas acoes movidas poder seus agentes nao prejudica nem condiciona podera conferir constatar juizo previo plausibilidade invocado urgencia concessao medida liminares cujo objeto seja identico poderao ser suspensas uma unica podendo estender efeitos supervenientes mediante simples aditamento original",
+    "16": "art nos casos competencia originaria dos tribunais cabera relator instrucao processo sendo assegurada defesa oral sessao julgamento",
+    "17": "art nas decisoes proferidas mandado seguranca nos respectivos recursos quando nao publicado prazo trinta dias contado data julgamento acordao sera substituido pelas respectivas notas taquigraficas independentemente revisao",
+    "18": "art das decisoes mandado seguranca proferidas unica instancia pelos tribunais cabe recurso especial extraordinario nos casos legalmente previstos ordinario quando ordem for denegada",
+    "19": "art sentenca acordao que denegar mandado seguranca sem decidir merito nao impedira requerente por acao propria pleiteie seus direitos respectivos efeitos patrimoniais",
+    "20": "art processos mandado seguranca respectivos recursos terao prioridade sobre todos atos judiciais salvo habeas corpus instancia superior deverao ser levados julgamento primeira sessao que seguir data forem conclusos relator prazo para conclusao dos autos nao podera exceder cinco dias",
+    "21": "art mandado seguranca coletivo pode ser impetrado por partido politico com representacao congresso nacional defesa seus interesses legitimos relativos integrantes finalidade partidaria organizacao sindical entidade classe associacao legalmente constituida funcionamento pelo menos ano direitos liquidos certos totalidade parte dos membros associados forma estatutos desde que pertinentes suas finalidades dispensada para tanto autorizacao especial paragrafo unico protegidos podem coletivos assim entendidos efeito desta lei transindividuais natureza indivisivel seja titular grupo categoria pessoas ligadas entre contraria uma relacao juridica basica individuais homogeneos decorrentes origem comum atividade situacao especifica impetrante",
+    "22": "art mandado seguranca coletivo sentenca fara coisa julgada limitadamente aos membros grupo categoria substituidos pelo impetrante vide adin 4296 nao induz litispendencia para acoes individuais mas efeitos beneficiarao titulo individual requerer desistencia seu prazo trinta dias contar ciencia comprovada impetracao coletiva liminar podera ser concedida apos audiencia representante judicial pessoa juridica direito publico que devera pronunciar setenta duas horas",
+    "23": "art direito requerer mandado seguranca extinguir decorridos 120 cento vinte dias contados ciencia pelo interessado ato impugnado vide adin 4296",
+    "24": "art aplicam mandado seguranca arts lei 869 janeiro 1973 codigo processo civil",
+    "25": "art nao cabem processo mandado seguranca interposicao embargos infringentes condenacao pagamento dos honorarios advocaticios sem prejuizo aplicacao sancoes caso litigancia vide adin 4296",
+    "26": "art constitui crime desobediencia nos termos 330 decreto lei 848 dezembro 1940 nao cumprimento das decisoes proferidas mandado seguranca sem prejuizo sancoes administrativas aplicacao 079 abril 1950 quando cabiveis",
+    "27": "art regimentos dos tribunais que couber leis organizacao judiciaria deverao ser adaptados disposicoes desta lei prazo 180 cento oitenta dias contado sua publicacao",
+    "28": "art esta lei entra vigor data sua publicacao",
+    "29": "art revogam leis nos 533 dezembro 1951 166 1962 348 junho 1964 021 1966 lei 014 1973 071 julho 1974 978 janeiro 1982 259 1996 brasilia agosto 2009 188o independencia 121o republica luiz inacio lula silva tarso genro jose antonio dias toffoli este texto nao substitui publicado dou"
+  }
+}

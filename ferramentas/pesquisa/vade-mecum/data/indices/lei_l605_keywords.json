@@ -1,0 +1,54 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L605",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l605.json",
+      "colecao": "artigos",
+      "sha256": "e59d90199c6d6f9666f669d1ec08cd9d7ead9ef070a9b983b7d14d9da54c9049",
+      "total_registros": 16,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 16,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art todo empregado tem direito repouso semanal remunerado vinte quatro horas consecutivas preferentemente aos domingos nos limites das exigencias tecnicas empresas feriados civis religiosos acordo com tradicao local",
+    "2": "art entre empregados que refere esta lei incluem trabalhos rurais salvo operem qualquer regime parceria meacao forma semelhante participacao producao",
+    "3": "art regime desta lei sera extensivo aqueles que sob forma autonoma trabalhem agrupados por intermedio sindicato caixa portuaria entidade congenere remuneracao repouso obrigatorio nesse caso consistira acrescimo sexto calculado sobre salarios efetivamente percebidos pelo trabalhador paga juntamente com mesmos",
+    "4": "art devido repouso semanal remunerado nos termos desta lei aos trabalhadores das autarquias empresas industriais sob administracao uniao dos estados municipios incorporadas seus patrimonios que nao estejam subordinados regime funcionalismo publico",
+    "5": "art esta lei nao aplica seguintes pessoas aos empregados domesticos assim considerados modo geral que prestem servico natureza economica pessoa familia ambito residencial destas revogada pela 324 2006 funcionarios publicos uniao dos estados municipios respectivos extranumerarios nas proprias reparticoes servidores autarquias paraestatais desde sujeitos regime proprio protecao trabalho lhes assegure situacao analoga paragrafo unico sao exigencias tecnicas para efeitos desta pelas condicoes peculiares atividades empresa razao interesse publico tornem indispensavel continuidade",
+    "6": "art nao sera devida remuneracao quando sem motivo justificado empregado tiver trabalhado durante toda semana anterior cumprindo integralmente seu horario trabalho sao motivos justificados previstos artigo 473 paragrafo unico consolidacao das leis ausencia devidamente justificada criterio administracao estabelecimento paralisacao servico nos dias que por conveniencia empregador tenha havido ate tres consecutivos virtude casamento falta com fundamento lei sobre acidente doenca comprovada mediante atestado medico empresa ela designado pago deste instituicao previdencia social esteja filiado industria comercio reparticao federal estadual municipal incumbida assuntos higiene saude existindo estes localidade trabalhar sua escolha estiver sucessivamente representacao incumbido publica redacao dada pela 761 nas empresas vigorar regime reduzido frequencia exigida correspondera numero periodo emergencia decorrente covid imposicao isolamento dispensara comprovacao sete incluido 128 2021 caso razao trabalhador podera apresentar como justificativa valida oitavo dia afastamento alem disposto neste documento unidade sistema sus eletronico regulamentado pelo ministerio",
+    "7": "art remuneracao repouso semanal correspondera para que trabalham por dia semana quinzena mes servico nao computadas horas suplementares extraordinarias habitualmente prestadas redacao dada pela lei 415 hora sua jornada normal trabalho excluidas complementares norma tarefa peca equivalente salario correspondente tarefas pecas feitas durante horario dividido pelos dias efetivamente prestados empregador empregado domicilio quociente divisao seis importancia total producao empregados cujos salarios sofram descontos motivo feriados civis religiosos sao considerados remunerados nesses mesmos conquanto tenham direito dominical consideram mensalista quinzenalista cujo calculo mensal quinzenal falta sejam efetuados base numero trinta quinze diarias respectivamente",
+    "8": "art excetuados casos que execucao servico for imposta pelas exigencias tecnicas das empresas vedado trabalho dias feriados civis religiosos garantida entretanto aos empregados remuneracao respectiva observados dispositivos dos artigos desta lei revogado pela medida provisoria 905 2019 revogada 955 2020 vigencia encerrada",
+    "9": "art nas atividades que nao for possivel virtude das exigencias tecnicas empresas suspensao trabalho nos dias feriados civis religiosos remuneracao sera paga dobro salvo empregador determinar outro dia folga revogado pela medida provisoria 905 2019 revogada 955 2020 vigencia encerrada",
+    "10": "art verificacao das exigencias tecnicas que referem artigos anteriores ter vista ordem economica permanentes ocasionais bem como peculiaridades locais revogado pela medida provisoria 905 2019 revogada 955 2020 vigencia encerrada paragrafo unico poder executivo decreto especial regulamento expedir par fiel execucao desta lei definira mesmas especificara tanto quanto possivel empresas elas sujeitas ficando desde incluidas entre servicos publicos transportes",
+    "11": "art sao feriados civis declarados lei federal religiosos dias guarda municipal acordo com tradicao local numero nao superior sete",
+    "12": "art salvo que entende com instituicoes publicas referidas artigo infracoes disposto nesta lei serao punidas segundo carater gravidade multa cem cinco mil cruzeiros",
+    "13": "art serao originariamente competentes para imposicao das multas que trata presente lei delegados regionais ministerio trabalho nos estados onde houver delegacao atribuicoes autoridade delegada",
+    "14": "art fiscalizacao execucao presente lei processo autuacao dos seus infratores recursos cobranca das multas reger pelo disposto titulo vii consolidacao leis trabalho",
+    "15": "art presente lei entrara vigor data sua publicacao",
+    "16": "art revogam disposicoes contrario rio janeiro 1949 128 independencia republica eurico gaspar dutra adroaldo mesquita costa sylvio noronha canrobert raul fernandes correa castro clovis pestana daniel carvalho clemente mariani honorio monteiro armando trompowsky este texto nao substitui publicado dou"
+  }
+}

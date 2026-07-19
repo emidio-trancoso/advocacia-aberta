@@ -1,0 +1,59 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L14063",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l14063.json",
+      "colecao": "artigos",
+      "sha256": "4c89cc1f0b0390b437a838c194df9542b3311c9b237b68a6e8eef251f91731f2",
+      "total_registros": 21,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 21,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art esta lei dispoe sobre uso assinaturas eletronicas interacoes com entes publicos atos pessoas juridicas questoes saude licencas softwares desenvolvidos por objetivo proteger informacoes pessoais sensiveis dos cidadaos base nos incisos xii caput constituicao federal 709 agosto 2018 geral protecao dados bem como atribuir eficiencia seguranca aos servicos prestados sobretudo ambiente eletronico",
+    "2": "art este capitulo estabelece regras procedimentos sobre uso assinaturas eletronicas ambito interacao interna dos orgaos entidades administracao direta autarquica fundacional poderes constitucionalmente autonomos entes federativos entre pessoas naturais juridicas direito privado publicos que trata inciso caput deste artigo iii paragrafo unico disposto neste nao aplica aos processos judiciais qual seja permitido anonimato dispensada identificacao particular sistemas ouvidoria programas assistencia vitimas testemunhas ameacadas outras hipoteses nas quais deva ser dada garantia preservacao sigilo identidade atuacao perante ente publico",
+    "3": "art para fins desta lei considera autenticacao processo eletronico que permite identificacao eletronica uma pessoa natural juridica assinatura dados formato ligam estao logicamente associados outros sao utilizados pelo signatario assinar observados niveis assinaturas apropriados atos previstos nesta iii certificado digital atestado associa validacao icp brasil emitido por autoridade certificadora credenciada infraestrutura chaves publicas brasileira forma legislacao vigente",
+    "4": "art para efeitos desta lei assinaturas eletronicas sao classificadas assinatura eletronica simples que permite identificar seu signatario anexa associa dados outros formato eletronico avancada utiliza certificados nao emitidos pela icp brasil outro meio comprovacao autoria integridade documentos forma desde admitido pelas partes como valido aceito pessoa quem for oposto documento com seguintes caracteristicas esta associada maneira univoca criacao cujo pode elevado nivel confianca operar sob controle exclusivo relacionada aos ela associados tal modo qualquer modificacao posterior detectavel iii qualificada certificado digital nos termos medida provisoria 200 agosto 2001 tres tipos referidos incisos caput deste artigo caracterizam sobre identidade manifestacao vontade titular possui mais confiabilidade partir suas normas seus padroes procedimentos especificos devem ser asseguradas formas revogacao cancelamento definitivo utilizado previstas nesta sobretudo casos comprometimento sua seguranca vazamento",
+    "5": "art ambito suas competencias ato titular poder orgao constitucionalmente autonomo cada ente federativo estabelecera nivel minimo exigido para assinatura eletronica documentos interacoes com publico regulamento que trata caput deste artigo observara seguinte simples podera ser admitida nas menor impacto nao envolvam informacoes protegidas por grau sigilo avancada inclusive hipoteses inciso paragrafo vetado registro atos perante juntas comerciais iii qualificada sera qualquer interacao independentemente cadastramento previo mencionadas nos incisos obrigatorio uso assinados chefes ministros estado titulares emissoes notas fiscais eletronicas excecao daquelas cujos emitentes sejam pessoas fisicas microempreendedores individuais meis situacoes torna facultativo transferencia bens imoveis ressalvado disposto alinea demais previstas lei informara seu site requisitos mecanismos estabelecidos internamente reconhecimento caso conflito entre normas vigentes editadas entes distintos prevalecera assinaturas qualificadas certidoes emitidas sistema eletronico justica eleitoral possuem publica casos dos orgaos partidarios substituem cartorios juridicas constituicao estaduais municipais dispensados quaisquer registros circunscricao respectivo partidario",
+    "6": "art medida provisoria 200 agosto 2001 passa vigorar com seguinte redacao compete entidades operacionalmente vinculadas determinada identificar cadastrar usuarios encaminhar solicitacoes certificados manter registros suas operacoes paragrafo unico identificacao que refere caput deste artigo sera feita presencialmente mediante comparecimento pessoal usuario por outra forma garanta nivel seguranca equivalente observadas normas tecnicas icp brasil",
+    "7": "art lei 096 setembro 1995 passam vigorar com seguinte redacao apos recebimento comunicacao constituicao dos orgaos direcao regionais municipais definitivos provisorios tribunal superior eleitoral condicao unidade cadastradora devera proceder inscricao restabelecimento alteracao dados cadastrais situacao cadastral perante cnpj secretaria especial receita federal brasil reativacao partidarios referidos deste artigo que estejam baixada inativada seus",
+    "8": "art assinaturas eletronicas qualificadas contidas atas deliberativas assembleias convencoes reunioes das pessoas juridicas direito privado constantes lei 406 janeiro 2002 codigo civil devem ser aceitas pelas publico pela administracao publica direta indireta pertencentes aos poderes executivo legislativo judiciario",
+    "9": "art vetado",
+    "10": "art ato que trata caput desta lei podera prever nivel assinatura eletronica incompativel com previsto para atos realizados durante periodo emergencia saude publica importancia internacional decorrente pandemia covid 979 fevereiro 2020 vistas reducao contatos presenciais realizacao outro modo ficariam impossibilitados",
+    "11": "art vetado",
+    "12": "art vetado",
+    "13": "art receituarios medicamentos sujeitos controle especial atestados medicos meio eletronico previstos ato ministerio saude somente serao validos quando subscritos com assinatura eletronica qualificada profissional paragrafo unico exigencias nivel minimo previstas caput deste artigo desta lei nao aplicam aos atos internos ambiente hospitalar",
+    "14": "art com excecao disposto desta lei documentos eletronicos subscritos por profissionais saude relacionados sua area atuacao sao validos para todos fins quando assinados meio assinatura eletronica avancada qualificada paragrafo unico observada legislacao especifica caput deste artigo ato ministro estado diretoria colegiada agencia nacional vigilancia sanitaria anvisa ambito suas competencias especificara hipoteses criterios validacao dos que trata",
+    "15": "art lei 991 dezembro 1973 passa vigorar com seguintes alteracoes numerando atual paragrafo unico como revogada que seja escrita vernaculo redigida sem abreviacoes forma legivel observe nomenclatura sistema pesos medidas oficiais contenha nome endereco residencial paciente expressamente modo usar medicacao iii data assinatura profissional saude seu consultorio sua residencia numero inscricao conselho receituario medicamentos tera validade todo territorio nacional independentemente ente federativo tenha sido emitido inclusive sujeitos controle sanitario especial nos termos regulacao receitas meio eletronico ressalvados atos internos ambiente hospitalar somente serao validas contiverem eletronica avancada qualificada atenderem aos requisitos ato diretoria colegiada agencia vigilancia sanitaria anvisa ministro estado conforme respectivas competencias obrigatoria utilizacao assinaturas eletronicas qualificadas para receituarios atestados medicos",
+    "16": "art sistemas informacao comunicacao desenvolvidos exclusivamente por orgaos entidades administracao direta autarquica fundacional dos poderes constitucionalmente autonomos entes federativos sao regidos licenca codigo aberto permitida sua utilizacao copia alteracao distribuicao sem restricoes todos abrangidos este artigo disposto caput deste aplica inclusive aos operacao data entrada vigor desta lei nao estao sujeitos neste cujo fonte possua restricao acesso nos termos capitulo 527 novembro 2011 dados armazenados pelos iii componentes propriedade terceiros contratos desenvolvimento que tenham sido firmados com antes contenham clausula intelectual divergente",
+    "17": "art disposto nesta lei nao estabelece obrigacao aos orgaos entidades administracao direta indireta autarquica fundacional dos poderes constitucionalmente autonomos entes federativos disponibilizarem mecanismos comunicacao eletronica todas hipoteses interacao com pessoas naturais juridicas",
+    "17-A": "art instituicoes financeiras que atuem com credito imobiliario autorizadas celebrar instrumentos particulares carater escritura publica participes dos contratos correspondentes poderao fazer uso das assinaturas eletronicas nas modalidades avancada qualificada trata esta lei incluido pela medida provisoria 162 2023",
+    "18": "art sistemas uso data entrada vigor desta lei que utilizem assinaturas eletronicas nao atendam disposto serao adaptados ate julho 2021",
+    "19": "art revogam alineas caput lei 991 dezembro 1973",
+    "20": "art esta lei entra vigor data sua publicacao brasilia setembro 2020 199 independencia 132 republica jair messias bolsonaro paulo guedes eduardo pazuello walter souza braga netto este texto nao substitui publicado dou"
+  }
+}

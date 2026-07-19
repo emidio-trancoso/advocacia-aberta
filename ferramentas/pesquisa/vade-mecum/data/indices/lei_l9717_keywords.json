@@ -1,0 +1,53 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L9717",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l9717.json",
+      "colecao": "artigos",
+      "sha256": "d18081120b595d451eb1c986bdbb253aacc583243d09dc098cf018dbcb244edf",
+      "total_registros": 15,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 15,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art regimes proprios previdencia social dos servidores publicos uniao estados distrito federal municipios militares deverao ser organizados baseados normas gerais contabilidade atuaria modo garantir seu equilibrio financeiro atuarial observados seguintes criterios realizacao avaliacao inicial cada balanco utilizando parametros para organizacao revisao plano custeio beneficios redacao dada pela medida provisoria 187 2001 financiamento mediante recursos provenientes das contribuicoes pessoal civil militar ativo inativo pensionistas seus respectivos iii vinculados fundo previdenciario somente poderao utilizadas pagamento previdenciarios ressalvadas despesas administrativas estabelecidas inciso viii desta lei observado limites gastos estabelecidos cobertura numero minimo segurados que possam diretamente totalidade riscos cobertos preservando sem necessidade resseguro conforme exclusiva titulares cargos efetivos dependentes ente estatal vedado convenios consorcios entre pleno acesso informacoes relativas gestao regime participacao representantes ativos inativos nos colegiados instancias decisao interesses sejam objeto discussao deliberacao vii registro contabil individualizado servidor entes estatais diretrizes identificacao consolidacao demonstrativos financeiros orcamentarios todas fixas variaveis com bem como encargos incidentes sobre proventos pensoes pagos sujeicao inspecoes auditorias natureza financeira orcamentaria patrimonial orgaos controle interno externo vedacao inclusao efeito percepcao destes parcelas remuneratorias pagas decorrencia local trabalho funcao confianca cargo comissao exceto quando tais integrarem remuneracao contribuicao aposentar fundamento constituicao respeitado qualquer hipotese limite previsto citado artigo 887 2004 abono permanencia tratam emenda constitucional dezembro 2003 aplicam adicionalmente aos disposicoes fundos finalidade previdenciaria por eles instituidos renumerado paragrafo unico 846 2019 operacionalizarao compensacao referem 201 796 maio 1999 geral sob pena incidirem nas sancoes trata incluido",
+    "1-A": "art servidor publico titular cargo efetivo uniao dos estados distrito federal municipios militar filiado regime proprio previdencia social quando cedido orgao entidade outro ente federacao com sem onus para cessionario permanecera vinculado origem redacao dada pela medida provisoria 187 2001",
+    "2": "art contribuicao uniao dos estados distrito federal municipios incluidas suas autarquias fundacoes aos regimes proprios previdencia social que estejam vinculados seus servidores nao podera ser inferior valor servidor ativo nem superior dobro desta redacao dada pela lei 887 2004 sao responsaveis cobertura eventuais insuficiencias financeiras respectivo regime proprio decorrentes pagamento beneficios previdenciarios publicarao ate trinta dias apos encerramento cada bimestre demonstrativo financeiro orcamentario receita despesa previdenciarias acumuladas exercicio curso revogado",
+    "2-A": "art revogado pela lei 887 2004",
+    "3": "art aliquotas contribuicao dos servidores ativos estados distrito federal municipios para respectivos regimes proprios previdencia social nao serao inferiores titulares cargos efetivos uniao devendo ainda ser observadas caso das contribuicoes sobre proventos inativos pensoes mesmas aplicadas remuneracoes atividade respectivo ente estatal redacao dada pela lei 887 2004",
+    "4": "art revogado pela lei 887 2004",
+    "5": "art regimes proprios previdencia social dos servidores publicos uniao estados distrito federal municipios militares nao poderao conceder beneficios distintos previstos regime geral que trata lei 213 julho 1991 salvo disposicao contrario constituicao paragrafo unico fica vedada concessao aposentadoria especial nos termos ate complementar discipline materia redacao dada pela medida provisoria 187 2001",
+    "6": "art fica facultada uniao aos estados distrito federal municipios constituicao fundos integrados bens direitos ativos com finalidade previdenciaria desde que observados criterios trata artigo adicionalmente seguintes preceitos revogado pela medida provisoria 187 2001 existencia conta fundo distinta tesouro unidade federativa iii aplicacao recursos conforme estabelecido pelo conselho monetario nacional vedacao utilizacao para emprestimos qualquer natureza inclusive entidades administracao indireta respectivos segurados titulos publicos excecao governo vii avaliacao conformidade lei 320 marco 1964 alteracoes subsequentes viii estabelecimento limites taxa parametros gerais extincao mediante paragrafo unico das condicoes dos regimes proprios previdencia social forma inciso caput deste devera considerar entre outros requisitos incluido 846 2019 publica unidades gestoras desses aplicados exigindo observancia principios seguranca protecao prudencia financeira necessidade exigencia relacao instituicoes publicas privadas administram direta indiretamente por meio investimento relacionados boa qualidade gestao ambiente controle interno historico experiencia atuacao solidez patrimonial volume sob destinados mitigacao riscos",
+    "7": "art descumprimento disposto nesta lei pelos estados distrito federal municipios respectivos fundos implicara partir julho 1999 suspensao das transferencias voluntarias recursos pela uniao impedimento para celebrar acordos contratos convenios ajustes bem como receber emprestimos financiamentos avais subvencoes geral orgaos entidades administracao direta indireta iii por instituicoes financeiras federais revogado 846 2019",
+    "8": "art responsaveis pelos poderes orgaos entidades ente estatal dirigentes unidade gestora respectivo regime proprio previdencia social membros dos seus conselhos comites respondem diretamente por infracao disposto nesta lei sujeitando que couber disciplinar estabelecido complementar 109 maio 2001 seu regulamento conforme diretrizes gerais redacao dada pela 846 2019 infracoes serao apuradas mediante processo administrativo tenha base auto representacao denuncia positiva fatos irregulares assegurados acusado contraditorio ampla defesa conformidade com renumerado paragrafo unico sao tambem quaisquer profissionais prestem servicos tecnicos intermedio pessoa juridica contratada incluido",
+    "8-A": "art dirigentes ente federativo instituidor regime proprio previdencia social unidade gestora demais responsaveis pelas acoes investimento aplicacao dos recursos previdenciarios inclusive consultores distribuidores instituicao financeira administradora carteira fundo investimentos que tenha recebido seus gestores administradores serao solidariamente medida sua participacao pelo ressarcimento prejuizos decorrentes desacordo com legislacao vigente tiverem dado causa incluido pela lei 846 2019",
+    "8-B": "art dirigentes unidade gestora regime proprio previdencia social deverao atender aos seguintes requisitos minimos incluido pela lei 846 2019 nao ter sofrido condenacao criminal incidido alguma das demais situacoes inelegilidade previstas inciso caput complementar maio 1990 observados criterios prazos previstos referida possuir certificacao habilitacao comprovadas nos termos definidos parametros gerais iii comprovada experiencia exercicio atividade nas areas financeira administrativa contabil juridica fiscalizacao atuarial auditoria formacao superior paragrafo unico que referem incisos deste artigo aplicam membros dos conselhos deliberativo fiscal comite investimentos",
+    "9": "art compete uniao por intermedio secretaria especial previdencia trabalho ministerio economia relacao aos regimes proprios social seus fundos previdenciarios redacao dada pela lei 846 2019 orientacao supervisao fiscalizacao acompanhamento estabelecimento publicacao parametros diretrizes criterios responsabilidade previdenciaria sua instituicao organizacao funcionamento relativos custeio beneficios atuaria contabilidade aplicacao utilizacao recursos constituicao manutencao dos para preservacao carater contributivo solidario equilibrio financeiro atuarial iii apuracao infracoes servidor credenciado penalidades orgao proprio nos casos previstos desta emissao certificado regularidade crp que atestara fins disposto cumprimento pelos estados distrito federal municipios exigencias aplicaveis incluido paragrafo unico encaminharao forma periodicidade ela definidos dados informacoes sobre regime segurados",
+    "10": "art caso extincao regime proprio previdencia social uniao estado distrito federal municipios assumirao integralmente responsabilidade pelo pagamento dos beneficios concedidos durante sua vigencia bem como daqueles cujos requisitos necessarios concessao foram implementados anteriormente",
+    "11": "art esta lei entra vigor data sua publicacao brasilia novembro 1998 177o independencia 110o republica fernando henrique cardoso waldeck ornelas este texto nao substitui publicado dou"
+  }
+}

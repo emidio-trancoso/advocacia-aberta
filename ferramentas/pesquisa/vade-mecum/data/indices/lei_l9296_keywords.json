@@ -1,0 +1,52 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L9296",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l9296.json",
+      "colecao": "artigos",
+      "sha256": "cf5925ff3b5fa0947d64b9813c60aa679541e1bb6501a1893daae28a6b3ef9f9",
+      "total_registros": 14,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 14,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art interceptacao comunicacoes telefonicas qualquer natureza para prova investigacao criminal instrucao processual penal observara disposto nesta lei dependera ordem juiz competente acao principal sob segredo justica paragrafo unico aplica fluxo sistemas informatica telematica",
+    "2": "art nao sera admitida interceptacao comunicacoes telefonicas quando ocorrer qualquer das seguintes hipoteses houver indicios razoaveis autoria participacao infracao penal prova puder ser feita por outros meios disponiveis iii fato investigado constituir punida maximo com pena detencao paragrafo unico hipotese deve descrita clareza situacao objeto investigacao inclusive indicacao qualificacao dos investigados salvo impossibilidade manifesta devidamente justificada",
+    "3": "art interceptacao das comunicacoes telefonicas podera ser determinada pelo juiz oficio requerimento autoridade policial investigacao criminal representante ministerio publico instrucao processual penal",
+    "4": "art pedido interceptacao comunicacao telefonica contera demonstracao que sua realizacao necessaria apuracao infracao penal com indicacao dos meios serem empregados excepcionalmente juiz podera admitir seja formulado verbalmente desde estejam presentes pressupostos autorizem caso concessao sera condicionada reducao termo prazo maximo vinte quatro horas decidira sobre",
+    "5": "art decisao sera fundamentada sob pena nulidade indicando tambem forma execucao diligencia que nao podera exceder prazo quinze dias renovavel por igual tempo uma vez comprovada indispensabilidade meio prova",
+    "6": "art deferido pedido autoridade policial conduzira procedimentos interceptacao dando ciencia ministerio publico que podera acompanhar sua realizacao caso diligencia possibilitar gravacao comunicacao interceptada sera determinada transcricao cumprida encaminhara resultado juiz acompanhado auto circunstanciado devera conter resumo das operacoes realizadas recebidos esses elementos determinara providencia ciente",
+    "7": "art para procedimentos interceptacao que trata esta lei autoridade policial podera requisitar servicos tecnicos especializados concessionarias servico publico",
+    "8": "art interceptacao comunicacao telefonica qualquer natureza ocorrera autos apartados apensados aos inquerito policial processo criminal preservando sigilo das diligencias gravacoes transcricoes respectivas paragrafo unico apensacao somente podera ser realizada imediatamente antes relatorio autoridade quando tratar codigo penal conclusao juiz para despacho decorrente disposto nos arts 407 502 538",
+    "8-A": "art para investigacao instrucao criminal podera ser autorizada pelo juiz requerimento autoridade policial ministerio publico captacao ambiental sinais eletromagneticos opticos acusticos quando incluido pela lei 964 2019 prova nao puder feita por outros meios disponiveis igualmente eficazes houver elementos probatorios razoaveis autoria participacao infracoes criminais cujas penas maximas sejam superiores quatro anos penais conexas devera descrever circunstanciadamente local forma instalacao dispositivo vetado realizada necessaria meio operacao disfarcada periodo noturno exceto casa nos termos inciso caput constituicao federal vigencia exceder prazo quinze dias renovavel decisao judicial iguais periodos comprovada indispensabilidade presente atividade permanente habitual continuada dos interlocutores sem previo conhecimento utilizada materia defesa demonstrada integridade gravacao aplicam subsidiariamente regras previstas legislacao especifica interceptacao telefonica telematica",
+    "9": "art gravacao que nao interessar prova sera inutilizada por decisao judicial durante inquerito instrucao processual apos esta virtude requerimento ministerio publico parte interessada paragrafo unico incidente inutilizacao assistido pelo sendo facultada presenca acusado seu representante legal",
+    "10": "art constitui crime realizar interceptacao comunicacoes telefonicas informatica telematica quebrar segredo justica sem autorizacao judicial com objetivos nao autorizados lei pena reclusao dois quatro anos multa",
+    "10-A": "art realizar captacao ambiental sinais eletromagneticos opticos acusticos para investigacao instrucao criminal sem autorizacao judicial quando esta for exigida incluido pela lei 964 2019 pena reclusao dois quatro anos multa nao crime realizada por dos interlocutores sera aplicada dobro funcionario publico que descumprir determinacao sigilo das investigacoes envolvam revelar conteudo gravacoes enquanto mantido",
+    "11": "art esta lei entra vigor data sua publicacao",
+    "12": "art revogam disposicoes contrario brasilia julho 1996 175 independencia 108 republica fernando henrique cardoso nelson jobim este texto nao substitui publicado"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L5474",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l5474.json",
+      "colecao": "artigos",
+      "sha256": "b62373ccc8724520e0b6ebce086cbb46f27417a8c1477e61ff54df74292c7bb6",
+      "total_registros": 28,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 28,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art todo contrato compra venda mercantil entre partes domiciliadas territorio brasileiro com prazo nao inferior trinta dias contado data entrega despacho das mercadorias vendedor extraira respectiva fatura para apresentacao comprador discriminara vendidas quando convier indicara somente numeros valores notas parciais expedidas por ocasiao vendas despachos entregas revogado pelo decreto lei 436 1969",
+    "2": "art ato emissao fatura dela podera ser extraida uma duplicata para circulacao como efeito comercial nao sendo admitida qualquer outra especie titulo credito documentar saque vendedor pela importancia faturada comprador contera denominacao data sua numero ordem iii certa vencimento declaracao vista nome domicilio ven dedor pagar algarismos por extenso praca pagamento vii clausula viii reconhecimento exatidao obrigacao paga assinada pelo aceite cambial assinatura emitente pode corresponder mais nos casos venda parcelas emitida unica que discriminarao todas prestacoes seus vencimentos serie duplicatas cada prestacao distinguindo numeracao refere item deste artigo acrescimo letra alfabeto sequencia",
+    "3": "art duplicata indicara sempre valor total fatura ainda que comprador tenha direito qualquer rebate mencionando vendedor liquido devera reconhecer como obrigacao pagar nao incluirao abatimentos precos das mercadorias feitas pelo ate ato faturamento desde constem venda mercantil para pagamento contra entrega mercadoria conhecimento transporte sejam mesma praca prazo inferior trinta dias contado despacho podera representar tambem por declarara sera feito nessas condicoes",
+    "4": "art nas vendas realizadas por consignatarios comissarios faturas nome conta consignante comitente cabera aqueles cumprir dispositivos desta lei",
+    "5": "art quando mercadoria for vendida por conta consignatario este obrigado ocasiao expedir fatura duplicata comunicar venda consignante sua vez expedira correspondente mesma fim ser esta assinada pelo mencionando prazo estipulado para liquidacao saldo fica dispensado emitir comunicacao que refere declarar produto liquido apurado disposicao",
+    "6": "art remessa duplicata podera ser feita diretamente pelo vendedor por seus representantes intermedio instituicoes financeiras procuradores correspondentes que incumbam apresenta comprador praca lugar seu estabelecimento podendo intermediarios devolve depois assinada conserva poder ate momento resgate segundo instrucoes quem lhes cometeu encargo prazo para sera trinta dias contado data sua emissao for estes deverao apresentar titulo dentro dez contados recebimento pagamento",
+    "7": "art duplicata quando nao for vista devera ser devolvida pelo comprador apresentante dentro prazo dez dias contado data sua apresentacao devidamente assinada acompanhada declaracao por escrito contendo razoes falta aceite havendo expressa concordancia instituicao financeira cobradora sacado podera reter seu poder ate vencimento desde que comunique retencao comunicacao trata paragrafo anterior substituira necessario ato protesto execucao judicial refere redacao dada pela lei 458 1977",
+    "8": "art comprador podera deixar aceitar duplicata por motivo avaria nao recebimento das mercadorias quando expedidas entregues sua conta risco vicios defeitos diferencas qualidade quantidade devidamente comprovados iii divergencia nos prazos precos ajustados",
+    "9": "art licito comprador resgatar duplicata antes aceita data vencimento prova pagamento recibo passado pelo legitimo portador por seu representante com poderes especiais verso proprio titulo documento separado referencia expressa constituira igualmente total parcial liquidacao cheque favor estabelecimento endossatario qual conste que valor destina amortizacao nele caracterizada",
+    "10": "art pagamento duplicata poderao ser deduzidos quaisquer creditos favor devedor resultantes devolucao mercadorias diferencas preco enganos verificados pagamentos por conta outros motivos assemelhados desde que devidamente autorizados",
+    "11": "art duplicata admite reforma prorrogacao prazo vencimento mediante declaracao separado nela escrita assinada pelo vendedor endossatario por representante com poderes especiais paragrafo unico que trata este artigo para manter coobrigacao dos demais intervenientes endosso aval requer anuencia expressa destes",
+    "12": "art pagamento duplicata podera ser assegurado por aval sendo avalista equiparado aquele cujo nome indicar falta indicacao abaixo cuja firma lancar sua fora desses casos comprador paragrafo unico dado posteriormente vencimento titulo produzira mesmos efeitos que prestado anteriormente aquela ocorrencia",
+    "13": "art duplicata protestavel por falta aceite devolucao pagamento redacao dada pelo decreto lei 436 1969 protesto sera tirado conforme caso mediante apresentacao triplicata ainda simples indicacoes portador titulo fato nao ter sido exercida faculdade protestar elide possibilidade praca constante que tirar forma regular dentro prazo trinta dias contado data seu vencimento perdera direito regresso contra endossantes respectivos avalistas",
+    "14": "art nos casos protesto por falta aceite devolucao pagamento feitos indicacoes portador instrumento devera conter requisitos enumerados artigo decreto 044 dezembro 1908 exceto transcricao mencionada inciso que sera substituida pela reproducao das feitas pelo titulo redacao dada lei 436 1969",
+    "15": "art cobranca judicial duplicata triplicata sera efetuada conformidade com processo aplicavel aos titulos executivos extrajudiciais que cogita livro codigo civil quando tratar redacao dada pela lei 458 1977 aceita protestada nao contanto cumulativamente haja sido esteja acompanhada documento habil comprobatorio entrega recebimento mercadoria permitida sua comprovacao por meio eletronico 301 2022 sacado tenha comprovadamente recusado aceite prazo nas condicoes pelos motivos previstos nos arts desta contra sacador endossantes respectivos avalistas cabera execucao referido neste artigo quaisquer sejam forma protesto processar tambem mesma maneira devolvida desde mediante indicacoes credor apresentante titulo termos preenchidas inciso deste trata alinea caput podera ser disciplinada ato poder executivo federal incluido",
+    "16": "art aplica procedimento ordinario previsto codigo processo civil acao credor contra devedor por duplicata triplicata que nao preencha requisitos incisos bem como para ilidir razoes invocadas pelo aceite titulo nos casos previstos redacao dada pela lei 458 1977",
+    "17": "art foro competente para cobranca judicial duplicata triplicata praca pagamento constante titulo outra domicilio comprador caso acao regressiva dos sacadores endossantes respectivos avalistas redacao dada pela lei 458 1977",
+    "18": "art pretensao execucao duplicata prescreve redacao dada pela lei 458 1977 contra sacado respectivos avalistas tres anos contados data vencimento titulo endossante seus ano contado protesto ill qualquer dos coobrigados demais que haja sido efetuado pagamento cobranca judicial podera ser proposta todos sem observancia ordem figurem respondem solidariamente pelo aceite",
+    "19": "art adocao regime vendas que trata desta lei obriga vendedor ter escriturar livro registro duplicatas serao escrituradas cronologicamente todas emitidas com numero ordem data valor das faturas originarias sua expedicao nome domicilio comprador anotacoes reformas prorrogacoes outras circunstancias necessarias registros nao poderao conter emendas borroes rasuras entrelinhas deverao ser conservados nos proprios estabelecimentos podera substituido por qualquer sistema mecanizado desde requesitos deste artigo sejam observados",
+    "20": "art poderao emitir forma prevista nesta lei fatura duplicata redacao dada pela 206 2021 empresas individuais coletivas fundacoes sociedades civis que dediquem prestacao servicos incluido transportador autonomo cargas tac trata inciso caput 442 janeiro 2007 devera discriminar natureza dos prestados soma pagar dinheiro correspondera preco aplicam triplicata com adaptacoes cabiveis disposicoes referentes venda mercantil constituindo documento habil para transcricao instrumento protesto qualquer comprove efetiva vinculo contratual autorizou pelo decreto 436 1969",
+    "21": "art sacado podera deixar aceitar duplicata prestacao servicos por motivo nao correspondencia com efetivamente contratados vicios defeitos qualidade dos prestados devidamente comprovados iii divergencia nos prazos precos ajustados",
+    "22": "art equiparam entidades constantes para efeitos presente lei ressalvado disposto capitulo profissionais liberais que prestam servico natureza eventual desde valor ultrapasse ncr 100 cem cruzeiros novos nos casos deste artigo credor enviara devedor fatura conta mencione dos servicos prestados data local pagamento vinculo contratual deu origem aos executados registrada cartorio titulos documentos sera ela remetida com cautelas nao prazo nela fixado autorizara leva protesto valendo ausencia original certidao competente instrumento elaborado discriminando ajuizamento processo execucao forma prescrita nesta redacao dada pela 458 1977",
+    "23": "art perda extravio duplicata obrigara vendedor extrair triplicata que tera mesmos efeitos requisitos obedecera mesmas formalidades daquela",
+    "24": "art duplicata poderao constar outras indicacoes desde que nao alterem sua feicao caracteristica",
+    "25": "art aplicam duplicata triplicata que couber dispositivos legislacao sobre emissao circulacao pagamento das letras cambio",
+    "26": "art 172 codigo penal decreto lei numero 848 dezembro 1940 passa vigorar com seguinte redacao expedir aceitar duplicata que nao corresponda juntamente fatura respectiva uma venda efetiva bens real prestacao servico pena detencao cinco anos multa equivalente sobre valor paragrafo unico nas mesmas penas incorrera aquele falsificar adulterar escrituracao livro registro duplicatas",
+    "27": "art conselho monetario nacional por proposta ministerio industria comercio baixara dentro 120 cento vinte dias data publicacao desta lei normas para padronizacao formal dos titulos documentos nela referidos fixando prazo sua adocao obrigatoria",
+    "28": "art esta lei entrara vigor trinta dias apos data sua publicacao revogando numero 187 janeiro 1936 068 junho 1962 decretos leis numeros 265 fevereiro 1967 320 marco 331 setembro 345 dezembro parte referente duplicatas todas demais disposicoes contrario brasilia julho 1968 147 independencia republica costa silva luis antonio gama delfim netto edmundo macedo soares este texto nao substitui publicado dou"
+  }
+}

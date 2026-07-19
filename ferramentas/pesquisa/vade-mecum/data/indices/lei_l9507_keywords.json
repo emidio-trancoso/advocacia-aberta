@@ -1,0 +1,61 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L9507",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l9507.json",
+      "colecao": "artigos",
+      "sha256": "ca5f54df345adb968607c1d4fc21b8ed4214f5fa6ae802db18ed64ade74124ae",
+      "total_registros": 23,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 23,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art vetado paragrafo unico considera carater publico todo registro banco dados contendo informacoes que sejam possam ser transmitidas terceiros nao uso privativo orgao entidade produtora depositaria das",
+    "2": "art requerimento sera apresentado orgao entidade depositaria registro banco dados deferido indeferido prazo quarenta oito horas paragrafo unico decisao comunicada requerente vinte quatro",
+    "3": "art deferir pedido depositario registro banco dados marcara dia hora para que requerente tome conhecimento das informacoes paragrafo unico vetado",
+    "4": "art constatada inexatidao qualquer dado seu respeito interessado peticao acompanhada documentos comprobatorios podera requerer sua retificacao feita maximo dez dias apos entrada requerimento entidade orgao depositario registro informacao dara ciencia ainda que nao constate apresentar explicacao contestacao sobre mesmo justificando possivel pendencia fato objeto tal sera anotada cadastro",
+    "5": "art vetado",
+    "6": "art vetado",
+    "7": "art conceder habeas data para assegurar conhecimento informacoes relativas pessoa impetrante constantes registro banco dados entidades governamentais carater publico retificacao quando nao prefira faze por processo sigiloso judicial administrativo iii anotacao nos assentamentos interessado contestacao explicacao sobre dado verdadeiro mas justificavel que esteja sob pendencia amigavel",
+    "8": "art peticao inicial que devera preencher requisitos dos arts 282 285 codigo processo civil sera apresentada duas vias documentos instruirem primeira serao reproduzidos por copia segunda paragrafo unico ser instruida com prova recusa acesso informacoes decurso mais dez dias sem decisao fazer retificacao quinze iii anotacao refere",
+    "9": "art despachar inicial juiz ordenara que notifique coator conteudo peticao entregando lhe segunda via apresentada pelo impetrante com copias dos documentos fim prazo dez dias preste informacoes julgar necessarias",
+    "10": "art inicial sera desde logo indeferida quando nao for caso habeas data lhe faltar algum dos requisitos previstos nesta lei paragrafo unico despacho indeferimento cabera recurso previsto",
+    "11": "art feita notificacao serventuario cujo cartorio corra feito juntara aos autos copia autentica oficio enderecado coator bem como prova sua entrega este recusa seja recebe dar recibo",
+    "12": "art findo prazo que refere ouvido representante ministerio publico dentro cinco dias autos serao conclusos juiz para decisao ser proferida",
+    "13": "art decisao julgar procedente pedido juiz marcara data horario para que coator apresente impetrante informacoes seu respeito constantes registros bancos dadas juizo prova retificacao anotacao feita nos assentamentos",
+    "14": "art decisao sera comunicada coator por correio com aviso recebimento telegrama radiograma telefonema conforme requerer impetrante paragrafo unico originais caso transmissao telegrafica radiofonica telefonica deverao ser apresentados agencia expedidora firma juiz devidamente reconhecida",
+    "15": "art sentenca que conceder negar habeas data cabe apelacao paragrafo unico quando recurso tera efeito meramente devolutivo",
+    "16": "art quando habeas data for concedido presidente tribunal qual competir conhecimento recurso ordenar juiz suspensao execucao sentenca desse seu ato cabera agravo para que presida",
+    "17": "art nos casos competencia supremo tribunal federal dos demais tribunais cabera relator instrucao processo",
+    "18": "art pedido habeas data podera ser renovado decisao denegatoria nao lhe houver apreciado merito",
+    "19": "art processos habeas data terao prioridade sobre todos atos judiciais exceto corpus mandado seguranca instancia superior deverao ser levados julgamento primeira sessao que seguir feita distribuicao forem conclusos relator paragrafo unico prazo para conclusao nao podera exceder vinte quatro horas contar",
+    "20": "art julgamento habeas data compete originariamente supremo tribunal federal contra atos presidente republica das mesas camara dos deputados senado contas uniao procurador geral proprio superior justica ministro estado aos tribunais regionais federais juiz ato autoridade excetuados casos competencia estaduais segundo disposto constituicao estadual nos demais grau recurso quando decisao denegatoria for proferida unica instancia pelos superiores por distrito territorios conforme dispuserem respectiva lei que organizar iii mediante extraordinario previstos",
+    "21": "art sao gratuitos procedimento administrativo para acesso informacoes retificacao dados anotacao justificacao bem como acao habeas data",
+    "22": "art esta lei entra vigor data sua publicacao",
+    "23": "art revogam disposicoes contrario brasilia novembro 1997 176 independencia 109 republica fernando henrique cardoso iris rezende este texto nao substitui publicado dou"
+  }
+}

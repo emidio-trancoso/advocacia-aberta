@@ -1,0 +1,57 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L7783",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l7783.json",
+      "colecao": "artigos",
+      "sha256": "c83aaf6c6279fc11057b8b21473e62d77c38e004e7bede546e585dbc019dab40",
+      "total_registros": 19,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 19,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art assegurado direito greve competindo aos trabalhadores decidir sobre oportunidade exerce interesses que devam por meio dele defender paragrafo unico sera exercido forma estabelecida nesta lei",
+    "2": "art para fins desta lei considera legitimo exercicio direito greve suspensao coletiva temporaria pacifica total parcial prestacao pessoal servicos empregador",
+    "3": "art frustrada negociacao verificada impossibilidade recursos via arbitral facultada cessacao coletiva trabalho paragrafo unico entidade patronal correspondente empregadores diretamente interessados serao notificados com antecedencia minima quarenta oito horas paralisacao",
+    "4": "art cabera entidade sindical correspondente convocar forma seu estatuto assembleia geral que definira reivindicacoes categoria deliberara sobre paralisacao coletiva prestacao servicos devera prever formalidades convocacao quorum para deliberacao tanto deflagracao quanto cessacao greve falta dos trabalhadores interessados fins previstos caput constituindo comissao negociacao",
+    "5": "art entidade sindical comissao especialmente eleita representara interesses dos trabalhadores nas negociacoes justica trabalho",
+    "6": "art sao assegurados aos grevistas dentre outros direitos emprego meios pacificos tendentes persuadir aliciar trabalhadores aderirem greve arrecadacao fundos livre divulgacao movimento nenhuma hipotese adotados por empregados empregadores poderao violar constranger garantias fundamentais outrem vedado empresas adotar para empregado comparecimento trabalho bem como capazes frustrar manifestacoes atos persuasao utilizados pelos nao impedir acesso nem causar ameaca dano propriedade pessoa",
+    "7": "art observadas condicoes previstas nesta lei participacao greve suspende contrato trabalho devendo relacoes obrigacionais durante periodo ser regidas pelo acordo convencao laudo arbitral decisao justica paragrafo unico vedada rescisao bem como contratacao trabalhadores substitutos exceto ocorrencia das hipoteses nos arts",
+    "8": "art justica trabalho por iniciativa qualquer das partes ministerio publico decidira sobre procedencia total parcial improcedencia reivindicacoes cumprindo tribunal publicar imediato competente acordao",
+    "9": "art durante greve sindicato comissao negociacao mediante acordo com entidade patronal diretamente empregador mantera atividade equipes empregados proposito assegurar servicos cuja paralisacao resultem prejuizo irreparavel pela deterioracao irreversivel bens maquinas equipamentos bem como manutencao daqueles essenciais retomada das atividades empresa quando cessacao movimento paragrafo unico nao havendo assegurado enquanto perdurar direito contratar necessarios que refere este artigo",
+    "10": "art sao considerados servicos atividades essenciais tratamento abastecimento agua producao distribuicao energia eletrica gas combustiveis assistencia medica hospitalar iii comercializacao medicamentos alimentos funerarios transporte coletivo captacao esgoto lixo vii telecomunicacoes viii guarda uso controle substancias radioativas equipamentos materiais nucleares processamento dados ligados trafego aereo navegacao aerea redacao dada pela medida provisoria 866 2018 revogada 883 2019 vigencia encerrada lei 903 compensacao bancaria xii medico periciais relacionadas com regime geral previdencia social incluido 846 xiii caracterizacao impedimento fisico mental intelectual sensorial pessoa deficiencia por meio integracao equipes multiprofissionais interdisciplinares para fins reconhecimento direitos previstos especial 146 julho 2015 estatuto xiv outras prestacoes carreira perito federal indispensaveis atendimento das necessidades inadiaveis comunidade portuarias 945 2020 047",
+    "11": "art nos servicos atividades essenciais sindicatos empregadores trabalhadores ficam obrigados comum acordo garantir durante greve prestacao dos indispensaveis atendimento das necessidades inadiaveis comunidade paragrafo unico sao aquelas que nao atendidas coloquem perigo iminente sobrevivencia saude seguranca populacao",
+    "12": "art caso inobservancia disposto artigo anterior poder publico assegurara prestacao dos servicos indispensaveis",
+    "13": "art greve servicos atividades essenciais ficam entidades sindicais trabalhadores conforme caso obrigados comunicar decisao aos empregadores usuarios com antecedencia minima setenta duas horas paralisacao",
+    "14": "art constitui abuso direito greve inobservancia das normas contidas presente lei bem como manutencao paralisacao apos celebracao acordo convencao decisao justica trabalho paragrafo unico vigencia sentenca normativa nao exercicio que tenha por objetivo exigir cumprimento clausula condicao seja motivada pela superveniencia fatos novo acontecimento imprevisto modifique substancialmente relacao",
+    "15": "art responsabilidade pelos atos praticados ilicitos crimes cometidos curso greve sera apurada conforme caso segundo legislacao trabalhista civil penal paragrafo unico devera ministerio publico oficio requisitar abertura competente inquerito oferecer denuncia quando houver indicio pratica delito",
+    "16": "art para fins previstos inciso vii constituicao lei complementar definira termos limites que direito greve podera ser exercido",
+    "17": "art fica vedada paralisacao das atividades por iniciativa empregador com objetivo frustrar negociacao dificultar atendimento reivindicacoes dos respectivos empregados lockout paragrafo unico pratica referida caput assegura aos trabalhadores direito percepcao salarios durante periodo",
+    "18": "art ficam revogados lei 330 junho 1964 decreto 632 agosto 1978 demais disposicoes contrario",
+    "19": "art esta lei entra vigor data sua publicacao brasilia junho 1989 168 independencia 101 republica jose sarney oscar dias correa dorothea werneck este texto nao substitui publicado dou"
+  }
+}

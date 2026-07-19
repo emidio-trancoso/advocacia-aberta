@@ -1,0 +1,77 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L9868",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l9868.json",
+      "colecao": "artigos",
+      "sha256": "564ae8302b5417f6c957f893ac838c9d1634340dcf4461d8a146918aa8ebe083",
+      "total_registros": 39,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 39,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art esta lei dispoe sobre processo julgamento acao direta inconstitucionalidade declaratoria constitucionalidade perante supremo tribunal federal",
+    "2": "art podem propor acao direta inconstitucionalidade vide artigo 103 constituicao federal presidente republica mesa senado iii camara dos deputados assembleia legislativa distrito governador estado procurador geral vii conselho ordem advogados brasil viii partido politico com representacao congresso nacional confederacao sindical entidade classe ambito paragrafo unico vetado",
+    "3": "art peticao indicara dispositivo lei ato normativo impugnado fundamentos juridicos pedido relacao cada uma das impugnacoes com suas especificacoes paragrafo unico inicial acompanhada instrumento procuracao quando subscrita por advogado sera apresentada duas vias devendo conter copias dos documentos necessarios para comprovar impugnacao",
+    "4": "art peticao inicial inepta nao fundamentada manifestamente improcedente serao liminarmente indeferidas pelo relator paragrafo unico cabe agravo decisao que indeferir",
+    "5": "art proposta acao direta nao admitira desistencia paragrafo unico vetado",
+    "6": "art relator pedira informacoes aos orgaos autoridades das quais emanou lei ato normativo impugnado paragrafo unico serao prestadas prazo trinta dias contado recebimento pedido",
+    "7": "art nao admitira intervencao terceiros processo acao direta inconstitucionalidade vetado relator considerando relevancia materia representatividade dos postulantes podera por despacho irrecorrivel admitir observado prazo fixado paragrafo anterior manifestacao outros orgaos entidades",
+    "8": "art decorrido prazo das informacoes serao ouvidos sucessivamente advogado geral uniao procurador republica que deverao manifestar cada qual quinze dias",
+    "9": "art vencidos prazos artigo anterior relator lancara relatorio com copia todos ministros pedira dia para julgamento caso necessidade esclarecimento materia circunstancia fato notoria insuficiencia das informacoes existentes nos autos podera requisitar adicionais designar perito comissao peritos que emita parecer sobre questao fixar data audiencia publica ouvir depoimentos pessoas experiencia autoridade ainda solicitar aos tribunais superiores federais estaduais acerca aplicacao norma impugnada ambito sua jurisdicao pericias audiencias referem paragrafos anteriores serao realizadas prazo trinta dias contado solicitacao",
+    "10": "art salvo periodo recesso medida cautelar acao direta sera concedida por decisao maioria absoluta dos membros tribunal observado disposto apos audiencia orgaos autoridades quais emanou lei ato normativo impugnado que deverao pronunciar prazo cinco dias relator julgando indispensavel ouvira advogado geral uniao procurador republica tres julgamento pedido facultada sustentacao oral aos representantes judiciais requerente das responsaveis pela expedicao forma estabelecida regimento caso excepcional urgencia podera deferir sem",
+    "11": "art concedida medida cautelar supremo tribunal federal fara publicar secao especial diario oficial uniao justica parte dispositiva decisao prazo dez dias devendo solicitar informacoes autoridade qual tiver emanado ato observando que couber procedimento estabelecido deste capitulo dotada eficacia contra todos sera com efeito nunc salvo entender deva conceder lhe retroativa concessao torna aplicavel legislacao anterior acaso existente expressa manifestacao sentido contrario",
+    "12": "art havendo pedido medida cautelar relator face relevancia materia seu especial significado para ordem social seguranca juridica podera apos prestacao das informacoes prazo dez dias manifestacao advogado geral uniao procurador republica sucessivamente cinco submeter processo diretamente tribunal que tera faculdade julgar definitivamente acao vide ado",
+    "12-A": "art podem propor acao direta inconstitucionalidade por omissao legitimados propositura declaratoria constitucionalidade incluido pela lei 063 2009",
+    "12-B": "art peticao indicara incluido pela lei 063 2009 omissao inconstitucional total parcial quanto cumprimento dever constitucional legislar adocao providencia indole administrativa pedido com suas especificacoes paragrafo unico inicial acompanhada instrumento procuracao for caso sera apresentada duas vias devendo conter copias dos documentos necessarios para comprovar alegacao",
+    "12-C": "art peticao inicial inepta nao fundamentada manifestamente improcedente serao liminarmente indeferidas pelo relator incluido pela lei 063 2009 paragrafo unico cabe agravo decisao que indeferir",
+    "12-D": "art proposta acao direta inconstitucionalidade por omissao nao admitira desistencia incluido pela lei 063 2009",
+    "12-E": "art aplicam procedimento acao direta inconstitucionalidade por omissao que couber disposicoes constantes secao capitulo desta lei incluido pela 063 2009 demais titulares referidos poderao manifestar escrito sobre objeto pedir juntada documentos reputados uteis para exame materia prazo das informacoes bem como apresentar memoriais relator podera solicitar manifestacao advogado geral uniao devera ser encaminhada quinze dias procurador republica nas acoes nao for autor tera vista processo apos decurso",
+    "12-F": "art caso excepcional urgencia relevancia materia tribunal por decisao maioria absoluta seus membros observado disposto podera conceder medida cautelar apos audiencia dos orgaos autoridades responsaveis pela omissao inconstitucional que deverao pronunciar prazo cinco dias incluido lei 063 2009 consistir suspensao aplicacao ato normativo questionado parcial bem como processos judiciais procedimentos administrativos ainda outra providencia ser fixada pelo relator julgando indispensavel ouvira procurador geral republica tres julgamento pedido sera facultada sustentacao oral aos representantes requerente das forma estabelecida regimento",
+    "12-G": "art concedida medida cautelar supremo tribunal federal fara publicar secao especial diario oficial uniao justica parte dispositiva decisao prazo dez dias devendo solicitar informacoes autoridade orgao responsavel pela omissao inconstitucional observando que couber procedimento estabelecido capitulo desta lei incluido 063 2009",
+    "12-H": "art declarada inconstitucionalidade por omissao com observancia disposto sera dada ciencia poder competente para adocao das providencias necessarias incluido pela lei 063 2009 caso imputavel orgao administrativo deverao ser adotadas prazo trinta dias razoavel estipulado excepcionalmente pelo tribunal tendo vista circunstancias especificas interesse publico envolvido aplica decisao acao direta que couber capitulo desta",
+    "13": "art podem propor acao declaratoria constitucionalidade lei ato normativo federal vide artigo 103 constituicao presidente republica mesa camara dos deputados iii senado procurador geral",
+    "14": "art peticao inicial indicara dispositivo lei ato normativo questionado fundamentos juridicos pedido com suas especificacoes iii existencia controversia judicial relevante sobre aplicacao disposicao objeto acao declaratoria paragrafo unico acompanhada instrumento procuracao quando subscrita por advogado sera apresentada duas vias devendo conter copias dos documentos necessarios para comprovar procedencia declaracao constitucionalidade",
+    "15": "art peticao inicial inepta nao fundamentada manifestamente improcedente serao liminarmente indeferidas pelo relator paragrafo unico cabe agravo decisao que indeferir",
+    "16": "art proposta acao declaratoria nao admitira desistencia",
+    "17": "art vetado",
+    "18": "art nao admitira intervencao terceiros processo acao declaratoria constitucionalidade vetado",
+    "19": "art decorrido prazo artigo anterior sera aberta vista procurador geral republica que devera pronunciar quinze dias",
+    "20": "art vencido prazo artigo anterior relator lancara relatorio com copia todos ministros pedira dia para julgamento caso necessidade esclarecimento materia circunstancia fato notoria insuficiencia das informacoes existentes nos autos podera requisitar adicionais designar perito comissao peritos que emita parecer sobre questao fixar data audiencia publica ouvir depoimentos pessoas experiencia autoridade solicitar ainda aos tribunais superiores federais estaduais acerca aplicacao norma questionada ambito sua jurisdicao pericias audiencias referem paragrafos anteriores serao realizadas trinta dias contado solicitacao",
+    "21": "art supremo tribunal federal por decisao maioria absoluta seus membros podera deferir pedido medida cautelar acao declaratoria constitucionalidade consistente determinacao que juizes tribunais suspendam julgamento dos processos envolvam aplicacao lei ato normativo objeto ate seu definitivo paragrafo unico concedida fara publicar secao especial diario oficial uniao parte dispositiva prazo dez dias devendo proceder cento oitenta sob pena perda sua eficacia",
+    "22": "art decisao sobre constitucionalidade inconstitucionalidade lei ato normativo somente sera tomada presentes sessao pelo menos oito ministros",
+    "23": "art efetuado julgamento proclamar constitucionalidade inconstitucionalidade disposicao norma impugnada num noutro sentido tiverem manifestado pelo menos seis ministros quer trate acao direta declaratoria paragrafo unico nao for alcancada maioria necessaria declaracao estando ausentes numero que possa influir este sera suspenso fim aguardar comparecimento dos ate atinja necessario para prolacao decisao",
+    "24": "art proclamada constitucionalidade julgar improcedente acao direta procedente eventual declaratoria inconstitucionalidade",
+    "25": "art julgada acao far comunicacao autoridade orgao responsavel pela expedicao ato",
+    "26": "art decisao que declara constitucionalidade inconstitucionalidade lei ato normativo acao direta declaratoria irrecorrivel ressalvada interposicao embargos declaratorios nao podendo igualmente ser objeto rescisoria",
+    "27": "art declarar inconstitucionalidade lei ato normativo tendo vista razoes seguranca juridica excepcional interesse social podera supremo tribunal federal por maioria dois tercos seus membros restringir efeitos daquela declaracao decidir que ela tenha eficacia partir seu transito julgado outro momento venha ser fixado",
+    "28": "art dentro prazo dez dias apos transito julgado decisao supremo tribunal federal fara publicar secao especial diario justica oficial uniao parte dispositiva acordao paragrafo unico declaracao constitucionalidade inconstitucionalidade inclusive interpretacao conforme constituicao parcial sem reducao texto tem eficacia contra todos efeito vinculante relacao aos orgaos poder judiciario administracao publica estadual municipal",
+    "29": "art 482 codigo processo civil fica acrescido dos seguintes paragrafos ministerio publico pessoas juridicas direito responsaveis pela edicao ato questionado assim requererem poderao manifestar incidente inconstitucionalidade observados prazos condicoes fixados regimento interno tribunal titulares propositura referidos 103 constituicao por escrito sobre questao constitucional objeto apreciacao pelo orgao especial pleno prazo fixado sendo lhes assegurado apresentar memoriais pedir juntada documentos relator considerando relevancia materia representatividade postulantes podera admitir despacho irrecorrivel manifestacao outros orgaos entidades",
+    "30": "art lei 185 maio 1991 passa vigorar acrescido dos seguintes dispositivos acao direta inconstitucionalidade ato normativo distrito federal face sua organica sao partes legitimas para propor governador mesa camara legislativa iii procurador geral justica ordem advogados brasil secao entidades sindicais classe atuacao demonstrando que pretensao por elas deduzida guarda relacao pertinencia com seus objetivos institucionais partidos politicos representacao aplicam processo julgamento perante tribunal territorios disposicoes sera sempre ouvido nas acoes diretas constitucionalidade declarada omissao medida tornar efetiva norma decisao comunicada poder competente adocao das providencias necessarias tratando orgao administrativo faze trinta dias somente pelo voto maioria absoluta membros seu especial podera declarar suspender vigencia cautelar couber normas sobre supremo",
+    "31": "art esta lei entra vigor data sua publicacao brasilia novembro 1999 178o independencia 111o republica fernando henrique cardoso jose carlos dias este texto nao substitui publicado dou"
+  }
+}

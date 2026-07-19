@@ -1,0 +1,56 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "D11034",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_d11034.json",
+      "colecao": "artigos",
+      "sha256": "ae423afaf862dee38a1ad26bad1d926bede5c92ff7a8cea75395734d7fcdc81b",
+      "total_registros": 18,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 18,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art este decreto regulamenta lei 078 setembro 1990 codigo defesa consumidor para estabelecer diretrizes normas sobre servico atendimento sac ambito dos fornecedores servicos regulados pelo poder executivo federal com vistas garantir direito obtencao informacao adequada contratados tratamento suas demandas paragrafo unico fins disposto neste orgaos entidades reguladoras considerarao porte fornecedor regulado",
+    "2": "art para fins disposto neste decreto considera servico atendimento consumidor sac realizado por diversos canais integrados dos fornecedores servicos regulados com finalidade dar tratamento demandas consumidores tais como informacao duvida reclamacao contestacao suspensao cancelamento contratos paragrafo unico nao aplica oferta contratacao produtos",
+    "3": "art acesso sac sera gratuito atendimento das demandas nao acarretara onus para consumidor",
+    "4": "art acesso sac estara disponivel ininterruptamente durante vinte quatro horas por dia sete dias semana que trata caput sera garantido meio minimo dos canais atendimento integrados cujo funcionamento amplamente divulgado prestado telefonico obrigatorio nos termos disposto hipotese servico ofertado nao estar para fruicao contratacao podera ser interrompido observada regulamentacao orgaos das entidades reguladoras competentes inicial atendente condicionado fornecimento previo dados pelo consumidor vedada veiculacao mensagens publicitarias tempo espera exceto houver consentimento sem prejuizo admitida carater informativo desde tratem direitos deveres consumidores outros disponiveis",
+    "5": "art orgaos entidades reguladoras competentes observarao seguintes condicoes minimas para atendimento telefonico consumidor horario nao inferior oito horas diarias com disponibilizacao por humano opcoes constantes primeiro menu incluidas obrigatoriamente reclamacao cancelamento contratos servicos iii tempo maximo espera contato direto atendente quando essa opcao for selecionada transferencia setor competente definitivo demanda tiver atribuicao paragrafo unico poderao estabelecer regulado superior previsto inciso caput",
+    "6": "art obrigatoria acessibilidade canais sac mantidos pelos fornecedores que trata este decreto para uso pessoa com deficiencia garantido acesso pleno atendimento suas demandas paragrafo unico ato secretaria nacional consumidor ministerio justica seguranca publica dispora sobre consideradas especificidades das deficiencias",
+    "7": "art opcoes acesso sac constarao maneira clara todos documentos materiais impressos entregues consumidor contratacao servico durante seu fornecimento nos canais eletronicos fornecedor",
+    "8": "art tratamento das demandas sac garantira tempestividade seguranca iii privacidade resolutividade demanda paragrafo unico serao observados ainda principios dignidade boa transparencia eficiencia eficacia celeridade vii cordialidade",
+    "9": "art dados pessoais consumidor serao coletados armazenados tratados transferidos utilizados exclusivamente nos termos disposto lei 709 agosto 2018",
+    "10": "art vedado solicitar repeticao demanda consumidor apos seu registro primeiro atendimento",
+    "11": "art caso chamada telefonica seja finalizada pelo fornecedor antes conclusao atendimento devera retornar consumidor informar registro numerico que trata iii concluir",
+    "12": "art direito consumidor acompanhar nos diversos canais atendimento integrados todas suas demandas por meio registro numerico outro tipo procedimento eletronico tera acesso historico sem onus das que refere sera enviado mediante solicitacao prazo cinco dias corridos contado data correspondencia criterio contera informacoes relacionadas demanda incluido conteudo resposta fornecedor observado disposto quando tratar chamada telefonica manutencao gravacao efetuada para sac obrigatoria pelo minimo noventa durante trata podera requerer mantido disposicao orgao entidade fiscalizadora dois anos resolucao",
+    "13": "art demandas consumidor serao respondidas prazo sete dias corridos contado data seu registro sera informado sobre conclusao tratamento sua demanda mediante solicitacao recebera fornecedor comprovacao pertinente por correspondencia meio eletronico criterio resposta clara objetiva conclusiva abordara todos pontos quando tratar servico nao solicitado cobranca indevida adotara imediatamente medidas necessarias suspensao orgaos entidades reguladoras competentes poderao estabelecer setor regulado para resolucao das sac",
+    "14": "art recebimento processamento imediato pedido cancelamento servico feito pelo consumidor por meio sac observara seguintes diretrizes sera permitido assegurado todos meios disponiveis para contratacao observadas condicoes aplicaveis rescisao multas decorrentes clausulas contratuais efeitos serao imediatos independentemente adimplemento contratual exceto quando for necessario tecnico demanda iii assegurada informacao sobre eventuais incidentes descumprimento permanencia minima cabiveis comprovante encaminhado correspondencia eletronico criterio podera ser oferecida opcao programado sujeita anuencia paragrafo unico orgaos entidades reguladoras competentes fixarao prazo conclusao que trata inciso caput",
+    "15": "art secretaria nacional consumidor ministerio justica seguranca publica competira desenvolver metodologia implementar ferramenta acompanhamento efetividade dos sac ouvidos orgaos entidades reguladoras integrantes sistema defesa representantes prestadores servicos relacionamento com consumidores desenvolvimento implementacao que trata caput serao considerados minimo seguintes parametros quantidade reclamacoes referentes ponderada por clientes unidades producao taxa resolucao das demandas sob otica iii indice junto aos principalmente informacoes sitio eletronico gov nas plataformas venham substitui los orgao entidade reguladora setorial grau satisfacao dara transparencia divulgados uma vez ano resultados podera solicitar dados fornecedores observadas hipoteses legais sigilo vistas poderao ser compartilhados competentes nos termos disposto decreto 046 outubro 2019 base averiguar baixa determinados estabelecer horario atendimento telefonico humano superior previsto inciso",
+    "16": "art inobservancia disposto neste decreto acarretara aplicacao das sancoes estabelecidas lei 078 1990 codigo defesa consumidor sem prejuizo constantes dos regulamentos especificos orgaos entidades reguladoras",
+    "17": "art fica revogado decreto 523 julho 2008",
+    "18": "art este decreto entra vigor cento oitenta dias apos data sua publicacao brasilia abril 2022 201 independencia 134 republica jair messias bolsonaro anderson gustavo torres texto nao substitui publicado dou"
+  }
+}

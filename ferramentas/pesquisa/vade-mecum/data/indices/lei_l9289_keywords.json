@@ -1,0 +1,56 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L9289",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l9289.json",
+      "colecao": "artigos",
+      "sha256": "4d804b19aee19ebd0823fc9b8a1231a11e5ca7a445898f1a6e1371f137054726",
+      "total_registros": 18,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 18,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art custas devidas uniao justica federal primeiro segundo graus sao cobradas acordo com normas estabelecidas nesta lei rege pela legislacao estadual respectiva cobranca nas causas ajuizadas perante exercicio jurisdicao previstas tabelas anexas nao excluem despesas processual disciplinadas por esta",
+    "2": "art pagamento das custas feito mediante documento arrecadacao receitas federais caixa economica federal cef nao existindo agencia desta instituicao local outro banco oficial",
+    "3": "art incumbe diretor secretaria fiscalizar exato recolhimento das custas",
+    "4": "art sao isentos pagamento custas uniao estados municipios territorios federais distrito federal respectivas autarquias fundacoes que provarem insuficiencia recursos beneficiarios assistencia judiciaria gratuita iii ministerio publico autores nas acoes populares civis publicas coletivas trata codigo defesa consumidor ressalvada hipotese litigancia paragrafo unico isencao prevista neste artigo nao alcanca entidades fiscalizadoras exercicio profissional nem exime pessoas juridicas referidas inciso obrigacao reembolsar despesas judiciais feitas pela parte vencedora",
+    "5": "art nao sao devidas custas nos processos habeas corpus data",
+    "6": "art nas acoes penais subdivididas custas sao pagas final pelo reu condenado",
+    "7": "art reconvencao embargos execucao nao sujeitam pagamento custas",
+    "8": "art recursos dependentes instrumento sujeitam pagamento das despesas traslado paragrafo unico recurso for unicamente qualquer pessoas juridicas referidas inciso custas dos traslados sera efetuado final pelo vencido salvo este tambem isento",
+    "9": "art caso incompetencia redistribuido feito outro juiz federal nao havera novo pagamento custas nem restituicao quando declinar competencia para outros orgaos jurisdicionais",
+    "10": "art remuneracao perito interprete tradutor sera fixada pelo juiz despacho fundamentado ouvidas partes vista proposta honorarios apresentada considerados local prestacao servico natureza complexidade tempo estimado trabalho realizar aplicando que couber disposto codigo processo civil",
+    "11": "art depositos pedras metais preciosos quantias dinheiro amortizacao liquidacao divida ativa serao recolhidos sob responsabilidade parte diretamente caixa economica federal sua inexistencia local outro banco oficial quais manterao guias proprias para tal finalidade efetuados observarao mesmas regras das cadernetas poupanca que refere remuneracao basica prazo levantamento dos este artigo dependera alvara oficio juiz",
+    "12": "art unidade utilizada para calculo das custas previstas nesta lei mesma debitos natureza fiscal considerando valor fixado primeiro dia mes",
+    "13": "art nao fara levantamento caucao fianca sem pagamento das custas",
+    "14": "art pagamento das custas contribuicoes devidas nos feitos recursos que processam proprios autos efetua forma seguinte autor requerente pagara metade tabeladas por ocasiao distribuicao feito nao havendo logo apos despacho inicial aquele recorrer sentenca outra dentro prazo cinco dias sob pena desercao adiantara comprovando adiantamento ato interposicao recurso observado disposto 007 codigo processo civil redacao dada pela lei 105 2015 vigencia iii cumprindo vencido desde reembolsara vencedor este adiantadas ficando obrigado previsto inciso embora recorrendo oferecer defesa sua execucao embaracar seu cumprimento devera pagar marcado pelo juiz excedente tres ter apreciada impugnacao abandono desistencia existencia transacao lhe ponha termo qualquer fase dispensa exigiveis nem direito restituicao somente com importancia igual paga ate momento serao admitidos assistente litisconsorte ativo voluntario oponente nas acoes valor estimado for inferior liquidacao parte pode prosseguir sem efetuar diferenca recalculadas acordo final apurada resultante condenacao definitiva reembolsadas ainda seja uma entidades referidas termos decisao condenar pelas partes proporcao seus quinhoes processos divisorios demarcatorios suportadas quem tiver dado causa procedimento judicial refere artigo efetuado recorrente aproveita aos demais salvo representados mesmo advogado",
+    "15": "art indenizacao transporte que trata lei 112 dezembro 1990 destinada ressarcimento despesas realizadas com utilizacao meio proprio locomocao para execucao servicos externos sera paga aos oficiais justica avaliadores federal primeiro segundo graus acordo criterios estabelecidos pelo conselho fixara tambem percentual correspondente paragrafo unico efeito disposto neste artigo consideram como servico externo atividades exercidas cumprimento das diligencias fora dependencias dos tribunais regionais federais secoes judiciarias estejam lotados",
+    "16": "art extinto processo parte responsavel pelas custas devidamente intimada nao pagar dentro quinze dias diretor secretaria encaminhara elementos necessarios procuradoria fazenda nacional para sua inscricao como divida ativa uniao",
+    "17": "art esta lei entra vigor data sua publicacao",
+    "18": "art revogam disposicoes contrario especial lei 032 abril 1974 alterada pelas leis nos 789 maio 1980 400 novembro 1985 brasilia julho 1996 175 independencia 108 republica fernando henrique cardoso nelson jobim este texto nao substitui publicado dou republicado tabela custas das acoes civeis geral por cento sobre valor causa com minimo dez ufir maximo mil oitocentos processo cautelar procedimentos jurisdicao voluntaria cinquenta dos valores constantes letra causas inestimavel cumprimento carta rogatoria criminais penais pelo vencido final duzentas oitenta privadas cem notificacoes interpelacoes cautelares iii arrematacao adjudicacao remicao meio respectivo oitocentas observacao serao pagas pela interessada antes assinatura auto correspondente certidoes cartas sentencas vide adin 2259 folha expedida mediante processamento eletronico dados quarenta copia reprografica"
+  }
+}

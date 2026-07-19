@@ -1,0 +1,41 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "D9039",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_d9039.json",
+      "colecao": "artigos",
+      "sha256": "80f8cfdeb03e9f975d7ddd1cb7ff38be5e749a86b2994f6063eebac9bc2c144e",
+      "total_registros": 3,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 3,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art fica promulgada convencao sobre obtencao provas estrangeiro materia civil comercial firmada haia marco 1970 com reserva paragrafo capitulo nos termos declaracoes previstas anexa este decreto",
+    "2": "art sao sujeitos aprovacao congresso nacional atos que possam resultar revisao convencao ajustes complementares acarretem encargos compromissos gravosos patrimonio nos termos inciso caput constituicao",
+    "3": "art este decreto entra vigor data sua publicacao brasilia abril 2017 196 independencia 129 republica michel temer osmar serraglio aloysio nunes ferreira filho texto nao substitui publicado dou convencao sobre obtencao provas estrangeiro materia civil comercial firmada marco 1970 desde outubro 1972 estados signatarios presente desejando facilitar transmissao cumprimento cartas rogatorias promover harmonizacao dos diversos metodos por eles utilizados para tais fins tornar mais eficiente cooperacao judiciaria mutua decidiram firmar uma concordaram com seguintes disposicoes"
+  }
+}

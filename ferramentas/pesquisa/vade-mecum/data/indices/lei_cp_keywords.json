@@ -1,0 +1,40 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "CP",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_cp.json",
+      "colecao": "artigos",
+      "sha256": "f3c1c416c58c190a536fdfbf17fa677fe4c7813eb3e98e88b4fd2808a2b713eb",
+      "total_registros": 432,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 2,
+      "dispositivos_no_indice_curado": 430
+    }
+  },
+  "tokens": {
+    "121-B": "art 121 matar descendente ascendente dependente enteado pessoa sob guarda responsabilidade direta mulher com fim especifico causar lhe sofrimento punicao controle contexto violencia domestica familiar incluido pela lei 384 2026 pena reclusao vinte quarenta anos paragrafo unico vicaricidio aumentada terco ate metade crime for praticado presenca quem pretende contra crianca adolescente idosa deficiencia iii descumprimento medida protetiva urgencia induzimento instigacao auxilio suicidio automutilacao redacao dada 968 2019",
+    "147-C": "art 147 ameacar alguem por palavra escrito gesto qualquer outro meio simbolico causar lhe mal injusto grave contexto atuacao para consecucao das condutas previstas lei que institui marco legal combate crime organizado brasil incluido pela 358 2026 pena reclusao tres anos sequestro carcere privado"
+  }
+}

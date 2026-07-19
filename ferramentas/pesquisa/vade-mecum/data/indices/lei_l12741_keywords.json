@@ -1,0 +1,44 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L12741",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l12741.json",
+      "colecao": "artigos",
+      "sha256": "a4bce6adb1ee1cc92e1f8b8a2ffc01f7d8ebac2455cf8a0cbe4d52b3ef2921da",
+      "total_registros": 6,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 6,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art emitidos por ocasiao venda consumidor mercadorias servicos todo territorio nacional devera constar dos documentos fiscais equivalentes informacao valor aproximado correspondente totalidade tributos federais estaduais municipais cuja incidencia influi formacao respectivos precos apuracao incidentes ser feita relacao cada mercadoria servico separadamente inclusive nas hipoteses regimes juridicos tributarios diferenciados fabricantes varejistas prestadores quando couber que trata este artigo podera painel afixado local visivel estabelecimento qualquer outro meio eletronico impresso forma demonstrar percentual ambos aproximados sobre todas postos hipotese informacoes serem prestadas serao elaboradas termos percentuais preco pago tratar tributo com aliquota valorem valores monetarios caso especifica utilizar estar disponivel ambito comercial vetado deverao computados sao seguintes imposto operacoes relativas circulacao prestacoes transporte interestadual intermunicipal comunicacao icms natureza iss iii produtos industrializados ipi credito cambio seguro titulos mobiliarios iof vii contribuicao social para programa integracao pis patrimonio servidor publico pasep viii financiamento seguridade cofins intervencao dominio economico incidente importacao comercializacao petroleo seus derivados gas natural alcool etilico combustivel cide informados ainda referentes cujos insumos componentes sejam oriundos comercio exterior representem superior vinte cento nos bem como todos fornecedores constantes das diversas cadeias produtivas fornecer aos adquirentes magnetico dois individualizados item comercializado financeira nao seja legalmente prevista emissao documento fiscal feitas tabelas afixadas estabelecimentos indicacao relativa inciso restringe financeiros quais incida diretamente aquele incisos limitar tributacao operacao sempre pagamento pessoal constituir custo direto produto fornecido deve divulgada previdenciaria empregados empregadores alocada",
+    "2": "art valores aproximados que trata serao apurados sobre cada operacao poderao criterio das empresas vendedoras ser calculados fornecidos semestralmente por instituicao ambito nacional reconhecidamente idonea voltada primordialmente apuracao analise dados economicos",
+    "3": "art inciso iii lei 078 setembro 1990 passa vigorar com seguinte redacao informacao adequada clara sobre diferentes produtos servicos especificacao correta quantidade caracteristicas composicao qualidade tributos incidentes preco bem como riscos que apresentem",
+    "4": "art vetado",
+    "5": "art descumprimento disposto nesta lei sujeitara infrator sancoes previstas capitulo vii titulo 078 1990",
+    "6": "art esta lei entra vigor seis meses apos data sua publicacao brasilia dezembro 2012 191 independencia 124 republica dilma rousseff jose eduardo cardozo guido mantega este texto nao substitui publicado dou"
+  }
+}

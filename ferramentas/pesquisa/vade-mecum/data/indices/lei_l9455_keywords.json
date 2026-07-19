@@ -1,0 +1,42 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L9455",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l9455.json",
+      "colecao": "artigos",
+      "sha256": "b11cab10533b20e634747061b3cff7b80f42b1c52b3df088c534c2c3f758f595",
+      "total_registros": 4,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 4,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art constitui crime tortura constranger alguem com emprego violencia grave ameaca causando lhe sofrimento fisico mental fim obter informacao declaracao confissao vitima terceira pessoa para provocar acao omissao natureza criminosa razao discriminacao racial religiosa submeter sob sua guarda poder autoridade intenso como forma aplicar castigo pessoal medida carater preventivo iii mulher reiteradamente contexto domestica familiar sem prejuizo aplicacao das penas correspondentes outras infracoes penais incluido pela lei 410 2026 pena reclusao dois oito anos mesma incorre quem submete presa sujeita seguranca por intermedio pratica ato nao previsto resultante legal aquele que omite face dessas condutas quando tinha dever evita las apura detencao quatro resulta lesao corporal gravissima dez morte dezesseis aumenta sexto ate terco cometido agente publico contra crianca gestante deficiente adolescente portador deficiencia maior sessenta redacao dada 741 2003 mediante sequestro condenacao acarretara perda cargo funcao interdicao seu exercicio pelo dobro prazo aplicada inafiancavel insuscetivel graca anistia condenado nesta salvo hipotese iniciara cumprimento regime fechado",
+    "2": "art disposto nesta lei aplica ainda quando crime nao tenha sido cometido territorio nacional sendo vitima brasileira encontrando agente local sob jurisdicao",
+    "3": "art esta lei entra vigor data sua publicacao",
+    "4": "art revoga 233 lei 069 julho 1990 estatuto crianca adolescente brasilia abril 1997 176 independencia 109 republica fernando henrique cardoso nelson jobim este texto nao substitui publicado"
+  }
+}

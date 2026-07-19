@@ -13,6 +13,10 @@ export interface Artigo {
   readonly keywords?: string[];
 }
 
+// Números de artigo podem ser sufixados ("121-A"), então o índice aceita
+// strings além de números; o motor normaliza tudo para string no lookup.
+type IndiceInvertido = Record<string, ReadonlyArray<number | string>>;
+
 interface CodigoJSON {
   _meta: {
     codigo: string;
@@ -22,7 +26,17 @@ interface CodigoJSON {
     total_artigos: number;
   };
   artigos: Record<string, Artigo>;
-  indexes?: { keywords?: Record<string, number[]> };
+  indexes?: { keywords?: IndiceInvertido };
+}
+
+// Índice derivado por diploma (BASE-019): para cada dispositivo fora do
+// índice curado, os tokens normalizados do texto publicado, em uma string
+// na ordem da primeira ocorrência. Gerado por
+// ferramentas/manutencao/gerar_indices_derivados.py (manifesto em
+// base-juridica/indices-derivados.json).
+interface IndiceGeradoJSON {
+  _meta: { codigo: string | null; fonte: { sha256: string } };
+  tokens: Record<string, string>;
 }
 
 const REGISTRO_CODIGOS = {
@@ -1134,6 +1148,30 @@ function loadCodigo(codigo: CodigoCodigo): CodigoJSON {
   return data;
 }
 
+const cacheIndices = new Map<CodigoCodigo, IndiceGeradoJSON | null>();
+
+export function carregarIndiceGerado(
+  codigo: CodigoCodigo,
+): IndiceGeradoJSON | null {
+  const memo = cacheIndices.get(codigo);
+  if (memo !== undefined) return memo;
+  const arquivo = REGISTRO_CODIGOS[codigo].arquivo.replace(
+    /^\.\.\/\.\.\/data\/(lei_.+)\.json$/,
+    "../../data/indices/$1_keywords.json",
+  );
+  let indice: IndiceGeradoJSON | null = null;
+  try {
+    indice = require(arquivo) as IndiceGeradoJSON;
+  } catch {
+    // Sem índice derivado o diploma cai na busca em texto integral (fallback
+    // correto, apenas mais lento); a auditoria e os testes acusam a ausência.
+    indice = null;
+  }
+  cacheIndices.set(codigo, indice);
+  return indice;
+}
+
+
 // ── Public API ─────────────────────────────────────────────────────────────
 
 export function isCodigoDisponivel(valor: string): valor is CodigoCodigo {
@@ -1202,31 +1240,60 @@ export function buscarLegislacao(
 
   for (const cod of codigos) {
     const data = loadCodigo(cod);
-    const kwIdx = data.indexes?.keywords;
+    const curado = data.indexes?.keywords;
+    const gerado = carregarIndiceGerado(cod);
 
-    if (kwIdx) {
-      // Usa índice pré-computado
+    if (curado || gerado) {
       const scores = new Map<string, number>();
-      for (const word of words) {
-        (kwIdx[word] ?? []).forEach((numero) => {
-          const key = String(numero);
-          scores.set(key, (scores.get(key) ?? 0) + 2);
-        });
-        // Match parcial
-        for (const [indexWord, numeros] of Object.entries(kwIdx)) {
-          const prefixoCompativel =
-            indexWord.length >= 4 &&
-            word.length >= 4 &&
-            (indexWord.startsWith(word.slice(0, 4)) ||
-              word.startsWith(indexWord.slice(0, 4)));
-          if (prefixoCompativel) {
-            numeros.forEach((numero) => {
-              const key = String(numero);
-              scores.set(key, (scores.get(key) ?? 0) + 1);
-            });
+
+      if (curado) {
+        // Índice curado preservado: esquema legado de pontuação, estrutural
+        // para o ranking do núcleo (não substituir sem passar pela avaliação).
+        for (const word of words) {
+          (curado[word] ?? []).forEach((numero) => {
+            const key = String(numero);
+            scores.set(key, (scores.get(key) ?? 0) + 2);
+          });
+          // Match parcial
+          for (const [indexWord, numeros] of Object.entries(curado)) {
+            const prefixoCompativel =
+              indexWord.length >= 4 &&
+              word.length >= 4 &&
+              (indexWord.startsWith(word.slice(0, 4)) ||
+                word.startsWith(indexWord.slice(0, 4)));
+            if (prefixoCompativel) {
+              numeros.forEach((numero) => {
+                const key = String(numero);
+                scores.set(key, (scores.get(key) ?? 0) + 1);
+              });
+            }
           }
         }
       }
+
+      if (gerado) {
+        // Índice gerado (BASE-019): reproduz a busca em texto integral sobre
+        // os tokens dos dispositivos que o índice curado não cobre — uma
+        // palavra casa quando aparece dentro da string de tokens (nunca cruza
+        // um espaço), conta no máximo uma vez por dispositivo e o piso de 40%
+        // é o mesmo do fallback. As entradas seguem a ordem do documento, e a
+        // ordenação final estável resolve empates pela posição do artigo,
+        // como no texto integral. A escala ×3 equipara uma palavra casada ao
+        // caso típico do índice curado (casamento exato +2 somado ao próprio
+        // prefixo +1); num diploma sem índice curado o fator é monotônico e
+        // não altera o ranking interno.
+        const minMatches = Math.max(1, Math.ceil(words.length * 0.4));
+        for (const [numero, tokens] of Object.entries(gerado.tokens)) {
+          let casadas = 0;
+          for (const word of words) {
+            if (tokens.includes(word)) casadas += 1;
+          }
+          if (casadas >= minMatches) {
+            scores.set(numero, (scores.get(numero) ?? 0) + casadas * 3);
+          }
+        }
+      }
+
       [...scores.entries()]
         .sort((a, b) => b[1] - a[1])
         .slice(0, limit)

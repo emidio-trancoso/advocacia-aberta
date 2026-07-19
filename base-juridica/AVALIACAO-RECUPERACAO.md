@@ -70,6 +70,17 @@ lavagem de dinheiro e interceptação) tiveram os julgamentos revisados com
 justificativa registrada depois que a correção do rótulo "Art. 1º-A" separou
 dispositivos antes absorvidos no artigo anterior.
 
+O `BASE-019` (19 de julho de 2026) introduziu os índices derivados de legislação
+para os 270 diplomas e o complemento dos índices curados do núcleo. A avaliação
+arbitrou a estratégia: a substituição do índice curado (precisão de legislação
+0,5528) e a geração aditiva com a pontuação legada (0,5915) foram reprovadas; a
+estratégia adotada — índice curado intacto mais índice derivado que reproduz a
+semântica da busca em texto integral, com stopwords preservadas — retornou
+exatamente os mesmos resultados nos 74 casos, caso a caso. A linha de base acima
+permanece válida sem alteração; a mudança funcional é que 314 dispositivos do
+núcleo antes invisíveis à busca textual passaram a ser recuperáveis, com teste
+de regressão próprio fora deste corpus.
+
 Os valores são uma linha de base operacional, não uma alegação de precisão geral para
 qualquer consulta jurídica.
 

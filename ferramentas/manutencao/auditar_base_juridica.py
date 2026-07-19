@@ -10,6 +10,7 @@ from __future__ import annotations
 import argparse
 from collections import Counter
 from datetime import date
+import hashlib
 import json
 from pathlib import Path
 import re
@@ -49,6 +50,7 @@ def auditar() -> dict[str, Any]:
         )
 
     legislacao: list[dict[str, Any]] = []
+    dispositivos_indexados = 0
     for path in sorted(DATA.glob("lei_*.json")):
         dados = carregar(path)
         meta = dados.get("_meta", {})
@@ -72,6 +74,46 @@ def auditar() -> dict[str, Any]:
                 f"{codigo}: {quantidade - com_url} registros não têm URL de origem.",
             )
 
+        # Índice derivado do BASE-019: existência, sincronia com o diploma e
+        # cobertura 1:1 em união com o índice curado preservado.
+        indice_path = DATA / "indices" / f"{path.stem}_keywords.json"
+        estado_indice = "completo"
+        if not indice_path.exists():
+            estado_indice = "ausente"
+            registrar(
+                "P0",
+                "INDICE_LEGISLACAO",
+                f"{codigo}: índice derivado ausente ({indice_path.name}); "
+                "regenere com gerar_indices_derivados.py --escrever.",
+            )
+        else:
+            indice = carregar(indice_path)
+            sha_fonte = hashlib.sha256(path.read_bytes()).hexdigest()
+            sha_registrado = (
+                indice.get("_meta", {}).get("fonte", {}).get("sha256")
+            )
+            if sha_registrado != sha_fonte:
+                estado_indice = "desatualizado"
+                registrar(
+                    "P0",
+                    "INDICE_LEGISLACAO",
+                    f"{codigo}: índice derivado desatualizado em relação ao "
+                    "diploma; regenere com gerar_indices_derivados.py --escrever.",
+                )
+            curados: set[str] = set()
+            for numeros in (dados.get("indexes") or {}).get("keywords", {}).values():
+                curados.update(str(numero) for numero in numeros)
+            gerados = set(indice.get("tokens", {}))
+            if curados & gerados or (curados | gerados) != set(artigos):
+                estado_indice = "cobertura_incompleta"
+                registrar(
+                    "P0",
+                    "INDICE_LEGISLACAO",
+                    f"{codigo}: índice curado e derivado não cobrem os "
+                    "dispositivos em relação 1:1.",
+                )
+            dispositivos_indexados += len(gerados)
+
         legislacao.append(
             {
                 "arquivo": path.name,
@@ -85,6 +127,7 @@ def auditar() -> dict[str, Any]:
                 "registros_com_url": com_url,
                 "registros_com_keywords": com_keywords,
                 "indice_precomputado": bool(dados.get("indexes")),
+                "indice_derivado": estado_indice,
                 "url_base": meta.get("url_base"),
             }
         )
@@ -331,6 +374,11 @@ def auditar() -> dict[str, Any]:
             "total_registros_legislacao": sum(
                 item["registros"] for item in legislacao
             ),
+            "indices_legislacao": {
+                "diretorio": "indices/",
+                "arquivos": len(list((DATA / "indices").glob("*.json"))),
+                "dispositivos_indexados": dispositivos_indexados,
+            },
             "sumulas": sumulas,
             "total_sumulas": sum(item["registros"] for item in sumulas),
             "jurisprudencia_em_teses": {

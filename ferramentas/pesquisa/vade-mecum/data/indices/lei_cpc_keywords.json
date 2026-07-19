@@ -1,0 +1,39 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "CPC",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_cpc.json",
+      "colecao": "artigos",
+      "sha256": "31c6e3dc57c02275995f6ab6c7679e6c4c10f4501c35aac033ae914c5e496da7",
+      "total_registros": 1073,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 1,
+      "dispositivos_no_indice_curado": 1072
+    }
+  },
+  "tokens": {
+    "699-A": "art 699 nas acoes guarda antes iniciada audiencia mediacao conciliacao que trata 695 deste codigo juiz indagara partes ministerio publico risco violencia domestica familiar fixando prazo cinco dias para apresentacao prova indicios pertinentes incluido pela lei 713 2023"
+  }
+}

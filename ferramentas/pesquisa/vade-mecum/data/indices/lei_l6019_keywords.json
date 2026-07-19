@@ -1,0 +1,68 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L6019",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l6019.json",
+      "colecao": "artigos",
+      "sha256": "4276b9068c7f1fbd8cb725818b559b425780772689920533f8c20f3a6c0b9875",
+      "total_registros": 30,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 30,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art relacoes trabalho empresa temporario prestacao servicos nas respectivas tomadoras servico contratante regem por esta lei redacao dada pela 429 2017",
+    "2": "art trabalho temporario aquele prestado por pessoa fisica contratada uma empresa que coloca disposicao tomadora servicos para atender necessidade substituicao transitoria pessoal permanente demanda complementar redacao dada pela lei 429 2017 proibida contratacao trabalhadores greve salvo nos casos previstos incluido considera seja oriunda fatores imprevisiveis quando decorrente previsiveis tenha natureza intermitente periodica sazonal",
+    "3": "art reconhecida atividade empresa trabalho temporario que passa integrar plano basico enquadramento sindical refere 577 consolidacao leis",
+    "4": "art empresa trabalho temporario pessoa juridica devidamente registrada ministerio responsavel pela colocacao trabalhadores disposicao outras empresas temporariamente redacao dada lei 429 2017",
+    "4-A": "art considera prestacao servicos terceiros transferencia feita pela contratante execucao quaisquer suas atividades inclusive sua atividade principal pessoa juridica direito privado prestadora que possua capacidade economica compativel com redacao dada lei 467 2017 empresa contrata remunera dirige trabalho realizado por seus trabalhadores subcontrata outras empresas para realizacao desses incluido 429 nao configura vinculo empregaticio entre socios das prestadoras qualquer seja seu ramo",
+    "4-B": "art sao requisitos para funcionamento empresa prestacao servicos terceiros incluido pela lei 429 2017 prova inscricao cadastro nacional pessoa juridica cnpj registro junta comercial iii capital social compativel com numero empregados observando seguintes parametros empresas ate dez minimo 000 mil reais mais vinte cinco cinquenta quarenta cem 100 250 duzentos",
+    "4-C": "art sao asseguradas aos empregados empresa prestadora servicos que refere desta lei quando enquanto podem ser qualquer uma das atividades contratante forem executados nas dependencias tomadora mesmas condicoes incluido pela 467 2017 relativas alimentacao garantida oferecida refeitorios direito utilizar transporte atendimento medico ambulatorial existente local por ela designado treinamento adequado fornecido contratada atividade exigir sanitarias medidas protecao saude seguranca trabalho instalacoes adequadas prestacao servico poderao estabelecer assim entenderem farao jus salario equivalente pago alem outros direitos nao previstos neste artigo nos contratos impliquem mobilizacao numero igual superior vinte cento dos esta podera disponibilizar locais apropriados com padrao vistas manter pleno funcionamento existentes",
+    "5": "art empresa tomadora servicos pessoa juridica entidade ela equiparada que celebra contrato prestacao trabalho temporario com definida desta lei redacao dada pela 429 2017",
+    "5-A": "art contratante pessoa fisica juridica que celebra contrato com empresa prestacao servicos relacionados quaisquer suas atividades inclusive sua atividade principal redacao dada pela lei 467 2017 vedada utilizacao dos trabalhadores distintas daquelas foram objeto prestadora incluido 429 contratados poderao ser executados nas instalacoes fisicas outro local comum acordo entre partes responsabilidade garantir condicoes seguranca higiene salubridade quando trabalho for realizado dependencias previamente convencionado podera estender trabalhador mesmo atendimento medico ambulatorial refeicao destinado aos seus empregados existente por ela designado subsidiariamente responsavel pelas obrigacoes trabalhistas referentes periodo ocorrer recolhimento das contribuicoes previdenciarias observara disposto 212 julho 1991",
+    "5-B": "art contrato prestacao servicos contera incluido pela lei 429 2017 qualificacao das partes especificacao servico ser prestado iii prazo para realizacao quando for caso valor",
+    "5-C": "art nao pode figurar como contratada nos termos desta lei pessoa juridica cujos titulares socios tenham ultimos dezoito meses prestado servicos contratante qualidade empregado trabalhador sem vinculo empregaticio exceto referidos forem aposentados incluido pela 467 2017",
+    "5-D": "art empregado que for demitido nao podera prestar servicos para esta mesma empresa qualidade prestadora antes decurso prazo dezoito meses contados partir demissao incluido pela lei 467 2017",
+    "6": "art sao requisitos para funcionamento registro empresa trabalho temporario ministerio redacao dada pela lei 429 2017 revogada prova inscricao cadastro nacional pessoa juridica cnpj fazenda incluido competente junta comercial localidade que tenha sede iii possuir capital social minimo 100 000 cem mil reais paragrafo unico revogado",
+    "7": "art empresa trabalho temporario que estiver funcionando data vigencia desta lei tera prazo noventa dias para atendimento das exigencias contidas artigo anterior paragrafo unico infratora presente podera ter seu funcionamento suspenso por ato diretor geral departamento nacional mao obra cabendo recurso ministro estado dez contar publicacao diario oficial uniao",
+    "8": "art empresa trabalho temporario obrigada fornecer departamento nacional mao obra quando solicitada elementos informacao julgados necessarios estudo mercado",
+    "9": "art contrato celebrado pela empresa trabalho temporario tomadora servicos sera por escrito ficara disposicao autoridade fiscalizadora estabelecimento contera redacao dada lei 429 2017 qualificacao das partes incluido motivo justificador demanda iii prazo prestacao valor disposicoes sobre seguranca saude trabalhador independentemente local realizacao responsabilidade contratante garantir condicoes higiene salubridade dos trabalhadores quando for realizado suas dependencias ela designado estendera mesmo atendimento medico ambulatorial refeicao destinado aos seus empregados existente nas pode versar desenvolvimento atividades meio fim serem executadas",
+    "10": "art qualquer que seja ramo empresa tomadora servicos nao existe vinculo emprego entre ela trabalhadores contratados pelas empresas trabalho temporario redacao dada pela lei 429 2017 contrato com relacao mesmo empregador podera exceder prazo cento oitenta dias consecutivos incluido ser prorrogado por ate noventa alem estabelecido deste artigo quando comprovada manutencao das condicoes ensejaram vetado aplica trabalhador contratado experiencia previsto paragrafo unico 445 consolidacao leis clt aprovada pelo decreto 452 maio 1943 cumprir periodo estipulado nos somente colocado disposicao mesma novo apos termino anterior contratacao caracteriza empregaticio contratante subsidiariamente responsavel obrigacoes trabalhistas referentes ocorrer recolhimento contribuicoes previdenciarias observara disposto 212 julho 1991",
+    "11": "art contrato trabalho celebrado entre empresa temporario cada dos assalariados colocados disposicao uma tomadora cliente sera obrigatoriamente escrito dele deverao constar expressamente direitos conferidos aos trabalhadores por esta lei paragrafo unico nula pleno direito qualquer clausula reserva proibindo contratacao trabalhador pela fim prazo que tenha sido colocado sua",
+    "12": "art ficam assegurados trabalhador temporario seguintes direitos remuneracao equivalente percebida pelos empregados mesma categoria empresa tomadora cliente calculados base horaria garantida qualquer hipotese percepcao salario minimo regional jornada oito horas remuneradas extraordinarias nao excedentes duas com acrescimo vinte por cento ferias proporcionais nos termos artigo lei 107 setembro 1966 repouso semanal remunerado adicional trabalho noturno indenizacao dispensa sem justa causa termino normal contrato correspondente doze avos pagamento recebido seguro contra acidente protecao previdenciaria disposto organica previdencia social alteracoes introduzidas pela 890 junho 1973 item iii letra decreto 771 registrar carteira sua condicao obrigada comunicar ocorrencia todo cuja vitima seja assalariado posto disposicao considerando local para efeito legislacao especifica tanto aquele onde efetua prestacao quanto sede",
+    "13": "art constituem justa causa para rescisao contrato trabalhador temporario atos circunstancias mencionados nos artigos 482 483 consolidacao das leis trabalho ocorrentes entre empresa aquele cliente onde estiver prestando servico",
+    "14": "art empresas trabalho temporario sao obrigadas fornecer tomadoras clientes seu pedido comprovante regularidade sua situacao com instituto nacional previdencia social",
+    "15": "art fiscalizacao trabalho podera exigir empresa tomadora cliente apresentacao contrato firmado com temporario desta ultima trabalhador bem como comprovacao respectivo recolhimento das contribuicoes previdenciarias",
+    "16": "art caso falencia empresa trabalho temporario tomadora cliente solidariamente responsavel pelo recolhimento das contribuicoes previdenciarias tocante tempo que trabalhador esteve sob suas ordens assim como referencia mesmo periodo pela remuneracao indenizacao previstas nesta lei",
+    "17": "art defeso empresas prestacao servico temporario contratacao estrangeiros com visto provisorio permanencia pais",
+    "18": "art vedado empresa trabalho temporario cobrar trabalhador qualquer importancia mesmo titulo mediacao podendo apenas efetuar descontos previstos lei paragrafo unico infracao deste artigo importa cancelamento registro para funcionamento sem prejuizo das sancoes administrativas penais cabiveis",
+    "19": "art competira justica trabalho dirimir litigios entre empresas servico temporario seus trabalhadores",
+    "19-A": "art descumprimento disposto nesta lei sujeita empresa infratora pagamento multa incluido pela 429 2017 paragrafo unico fiscalizacao autuacao processo imposicao das multas reger pelo titulo vii consolidacao leis trabalho clt aprovada decreto 452 maio 1943",
+    "19-B": "art disposto nesta lei nao aplica empresas vigilancia transporte valores permanecendo respectivas relacoes trabalho reguladas por legislacao especial subsidiariamente pela consolidacao das leis clt aprovada pelo decreto 452 maio 1943 incluido 429 2017",
+    "19-C": "art contratos vigencia partes assim acordarem poderao ser adequados aos termos desta lei incluido pela 429 2017",
+    "20": "art esta lei entrara vigor sessenta dias apos sua publicacao revogadas disposicoes contrario brasilia janeiro 1974 153 independencia republica emilio medici alfredo buzaid julio barata este texto nao substitui publicado dou"
+  }
+}

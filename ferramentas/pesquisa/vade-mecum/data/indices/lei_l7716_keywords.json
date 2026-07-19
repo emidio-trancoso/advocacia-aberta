@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L7716",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l7716.json",
+      "colecao": "artigos",
+      "sha256": "c6ad11eeb66c4b4eba1993ba59b5d483e3d9ec671084915fbc8f8e97c640c117",
+      "total_registros": 27,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 27,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art serao punidos forma desta lei crimes resultantes discriminacao preconceito raca cor etnia religiao procedencia nacional redacao dada pela 459",
+    "2": "art vetado",
+    "2-A": "art injuriar alguem ofendendo lhe dignidade decoro razao raca cor etnia procedencia nacional incluido pela lei 532 2023 pena reclusao dois cinco anos multa paragrafo unico aumentada metade crime for cometido mediante concurso duas mais pessoas",
+    "3": "art impedir obstar acesso alguem devidamente habilitado qualquer cargo administracao direta indireta bem como das concessionarias servicos publicos pena reclusao dois cinco anos paragrafo unico incorre mesma quem por motivo discriminacao raca cor etnia religiao procedencia nacional promocao funcional incluido pela lei 288 2010",
+    "4": "art negar obstar emprego empresa privada pena reclusao dois cinco anos incorre mesma quem por motivo discriminacao raca cor praticas resultantes preconceito descendencia origem nacional etnica incluido pela lei 288 2010 deixar conceder equipamentos necessarios empregado igualdade condicoes com demais trabalhadores impedir ascensao funcional outra forma beneficio profissional iii proporcionar tratamento diferenciado ambiente trabalho especialmente quanto salario ficara sujeito penas multa prestacao servicos comunidade incluindo atividades promocao racial anuncios qualquer recrutamento exigir aspectos aparencia proprios etnia para cujas nao justifiquem essas exigencias",
+    "5": "art recusar impedir acesso estabelecimento comercial negando servir atender receber cliente comprador pena reclusao tres anos",
+    "6": "art recusar negar impedir inscricao ingresso aluno estabelecimento ensino publico privado qualquer grau pena reclusao tres cinco anos paragrafo unico crime for praticado contra menor dezoito agravada terco",
+    "7": "art impedir acesso recusar hospedagem hotel pensao estalagem qualquer estabelecimento similar pena reclusao tres cinco anos",
+    "8": "art impedir acesso recusar atendimento restaurantes bares confeitarias locais semelhantes abertos publico pena reclusao tres anos",
+    "9": "art impedir acesso recusar atendimento estabelecimentos esportivos casas diversoes clubes sociais abertos publico pena reclusao tres anos",
+    "10": "art impedir acesso recusar atendimento saloes cabeleireiros barbearias termas casas massagem estabelecimento com mesmas finalidades pena reclusao tres anos",
+    "11": "art impedir acesso entradas sociais edificios publicos residenciais elevadores escada aos mesmos pena reclusao tres anos",
+    "12": "art impedir acesso uso transportes publicos como avioes navios barcas barcos onibus trens metro qualquer outro meio transporte concedido pena reclusao tres anos",
+    "13": "art impedir obstar acesso alguem servico qualquer ramo das forcas armadas pena reclusao dois quatro anos",
+    "14": "art impedir obstar por qualquer meio forma casamento convivencia familiar social pena reclusao dois quatro anos",
+    "15": "art vetado",
+    "16": "art constitui efeito condenacao perda cargo funcao publica para servidor publico suspensao funcionamento estabelecimento particular por prazo nao superior tres meses",
+    "17": "art vetado",
+    "18": "art efeitos que tratam arts desta lei nao sao automaticos devendo ser motivadamente declarados sentenca",
+    "19": "art vetado",
+    "20": "art praticar induzir incitar discriminacao preconceito raca cor etnia religiao procedencia nacional redacao dada pela lei 459 pena reclusao tres anos multa fabricar comercializar distribuir veicular simbolos emblemas ornamentos distintivos propaganda que utilizem cruz suastica gamada para fins divulgacao nazismo dois cinco incluido qualquer dos crimes previstos neste artigo for cometido por intermedio meios comunicacao social publicacao redes sociais rede mundial computadores natureza 532 2023 contexto atividades esportivas religiosas artisticas culturais destinadas publico proibicao frequencia locais destinados praticas conforme caso sem prejuizo correspondente violencia incorre nas mesmas penas previstas caput deste quem obstar impedir empregar contra quaisquer manifestacoes juiz podera determinar ouvido ministerio pedido ainda antes inquerito policial sob desobediencia recolhimento imediato busca apreensao exemplares material respectivo cessacao das respectivas transmissoes radiofonicas televisivas eletronicas meio 735 2012 iii interdicao mensagens paginas informacao 288 2010 hipotese constitui efeito condenacao apos transito julgado decisao destruicao apreendido",
+    "20-A": "art crimes previstos nesta lei terao penas aumentadas terco ate metade quando ocorrerem contexto com intuito descontracao diversao recreacao incluido pela 532 2023",
+    "20-B": "art crimes previstos nos arts desta lei terao penas aumentadas terco ate metade quando praticados por funcionario publico conforme definicao prevista decreto 848 dezembro 1940 codigo penal exercicio suas funcoes pretexto exerce las incluido pela 532 2023",
+    "20-C": "art interpretacao desta lei juiz deve considerar como discriminatoria qualquer atitude tratamento dado pessoa grupos minoritarios que cause constrangimento humilhacao vergonha medo exposicao indevida usualmente nao dispensaria outros razao cor etnia religiao procedencia incluido pela 532 2023",
+    "20-D": "art todos atos processuais civeis criminais vitima dos crimes racismo devera estar acompanhada advogado defensor publico incluido pela lei 532 2023",
+    "21": "art esta lei entra vigor data sua publicacao renumerado pela 081 1990",
+    "22": "art revogam disposicoes contrario renumerado pela lei 081 1990 brasilia janeiro 1989 168 independencia 101 republica este texto nao substitui publicado dou retificada"
+  }
+}

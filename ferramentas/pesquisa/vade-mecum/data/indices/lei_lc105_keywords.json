@@ -1,0 +1,51 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "LC105",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_lc105.json",
+      "colecao": "artigos",
+      "sha256": "e5a8b0b51252a1fee0802ceede075f2fd80283cadca51d87acd6cc0548c8698f",
+      "total_registros": 13,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 13,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art instituicoes financeiras conservarao sigilo suas operacoes ativas passivas servicos prestados sao consideradas para efeitos desta lei complementar bancos qualquer especie distribuidoras valores mobiliarios iii corretoras cambio sociedades credito financiamento investimentos imobiliario administradoras cartoes vii arrendamento mercantil viii mercado balcao organizado cooperativas associacoes poupanca emprestimo bolsas mercadorias futuros xii entidades liquidacao compensacao xiii outras que razao natureza assim venham ser pelo conselho monetario nacional empresas fomento comercial factoring obedecerao normas aplicaveis previstas nao constitui violacao dever troca informacoes entre fins cadastrais inclusive por intermedio centrais risco observadas baixadas banco central brasil fornecimento constantes cadastro emitentes cheques sem provisao fundos devedores inadimplentes protecao das trata 311 outubro 1996 comunicacao autoridades competentes pratica ilicitos penais administrativos abrangendo sobre envolvam recursos provenientes criminosa revelacao sigilosas com consentimento expresso dos interessados prestacao nos termos condicoes estabelecidos artigos dados financeiros pagamentos relativos obrigacoes pagamento adimplidas andamento pessoas naturais juridicas gestores formacao historico especifica incluido pela 166 2019 vigencia publicacao relativas identificacao beneficiarios aproveitados concessao incentivo beneficio tributaria financeira crediticia implique diminuicao receita aumento despesa 224 2025 producao quebra podera decretada quando necessaria apuracao ocorrencia ilicito fase inquerito processo judicial especialmente seguintes crimes terrorismo trafico substancias entorpecentes drogas afins contrabando armas municoes material destinado sua extorsao mediante sequestro contra sistema financeiro administracao publica ordem previdencia social lavagem dinheiro ocultacao bens direitos praticado organizacao",
+    "2": "art dever sigilo extensivo banco central brasil relacao operacoes que realizar informacoes obtiver exercicio suas atribuicoes inclusive quanto contas depositos aplicacoes investimentos mantidos instituicoes financeiras nao pode ser oposto desempenho funcoes fiscalizacao compreendendo apuracao qualquer tempo ilicitos praticados por controladores administradores membros conselhos estatutarios gerentes mandatarios prepostos proceder inquerito instituicao financeira submetida regime especial comissoes encarregadas dos inqueritos refere inciso poderao examinar quaisquer documentos relativos bens direitos obrigacoes das seus correntes com outras disposto neste artigo aplica comissao valores mobiliarios quando tratar servicos mercado nas sejam companhias abertas areas competencia firmar convenios outros orgaos publicos fiscalizadores objetivando realizacao fiscalizacoes conjuntas observadas respectivas competencias bancos centrais entidades fiscalizadoras paises filiais subsidiarias estrangeiras funcionamento exterior brasileiras cooperacao mutua intercambio para investigacao atividades impliquem aplicacao negociacao ocultacao transferencia ativos financeiros relacionados pratica condutas ilicitas trata esta lei complementar estende aos mencionados agentes demais fornecerao conselho controle coaf 613 marco 1998 cadastrais movimento previstas referida",
+    "3": "art serao prestadas pelo banco central brasil pela comissao valores mobiliarios pelas instituicoes financeiras informacoes ordenadas poder judiciario preservado seu carater sigiloso mediante acesso restrito partes que delas nao poderao servir para fins estranhos lide dependem previa autorizacao prestacao fornecimento documentos sigilosos solicitados por inquerito administrativo destinada apurar responsabilidade servidor publico infracao praticada exercicio suas atribuicoes tenha relacao com cargo encontre investido nas hipoteses requerimento quebra sigilo independe existencia processo judicial curso alem dos casos previstos neste artigo fornecerao advocacia geral uniao necessarios defesa acoes seja parte",
+    "4": "art banco central brasil comissao valores mobiliarios nas areas suas atribuicoes instituicoes financeiras fornecerao poder legislativo federal informacoes documentos sigilosos que fundamentadamente fizerem necessarios exercicio respectivas competencias constitucionais legais comissoes parlamentares inquerito sua competencia constitucional legal ampla investigacao obterao necessitarem diretamente das por intermedio solicitacoes trata este artigo deverao ser previamente aprovadas pelo plenario camara dos deputados senado",
+    "5": "art poder executivo disciplinara inclusive quanto periodicidade aos limites valor criterios segundo quais instituicoes financeiras informarao administracao tributaria uniao operacoes efetuadas pelos usuarios seus servicos regulamento consideram para efeitos deste artigo depositos vista prazo conta poupanca pagamentos efetuados moeda corrente cheques iii emissao ordens credito documentos assemelhados resgates contas contratos mutuo descontos duplicatas notas promissorias outros titulos vii aquisicoes vendas renda fixa variavel viii aplicacoes fundos investimentos estrangeira conversoes nacional transferencias valores exterior xii com ouro ativo financeiro xiii cartao xiv arrendamento mercantil quaisquer outras natureza semelhante que venham ser autorizadas pelo banco central brasil comissao mobiliarios outro orgao competente informacoes transferidas forma caput restringir informes relacionados identificacao dos titulares das montantes globais mensalmente movimentados vedada insercao qualquer elemento permita identificar sua origem gastos partir deles nao incluem entre trata este pelas administracoes direta indireta estados distrito federal municipios recebidas detectados indicios falhas incorrecoes omissoes cometimento ilicito fiscal autoridade interessada podera requisitar necessitar bem como realizar fiscalizacao auditoria adequada apuracao fatos refere serao conservadas sob sigilo legislacao vigor",
+    "6": "art autoridades agentes fiscais tributarios uniao dos estados distrito federal municipios somente poderao examinar documentos livros registros instituicoes financeiras inclusive referentes contas depositos aplicacoes quando houver processo administrativo instaurado procedimento fiscal curso tais exames sejam considerados indispensaveis pela autoridade administrativa competente regulamento paragrafo unico resultado informacoes que refere este artigo serao conservados sigilo observada legislacao tributaria",
+    "7": "art sem prejuizo disposto comissao valores mobiliarios instaurado inquerito administrativo podera solicitar autoridade judiciaria competente levantamento sigilo junto instituicoes financeiras informacoes documentos relativos bens direitos obrigacoes pessoa fisica juridica submetida seu poder disciplinar paragrafo unico banco central brasil manterao permanente intercambio acerca dos resultados das inspecoes que realizarem inqueritos instaurarem penalidades aplicarem sempre forem necessarias desempenho suas atividades",
+    "8": "art cumprimento das exigencias formalidades previstas nos artigos sera expressamente declarado pelas autoridades competentes nas solicitacoes dirigidas banco central brasil comissao valores mobiliarios instituicoes financeiras",
+    "9": "art quando exercicio suas atribuicoes banco central brasil comissao valores mobiliarios verificarem ocorrencia crime definido lei como acao publica indicios pratica tais crimes informarao ministerio publico juntando comunicacao documentos necessarios apuracao comprovacao dos fatos que trata este artigo sera efetuada pelos presidentes admitida delegacao competencia prazo maximo quinze dias contar recebimento processo com manifestacao respectivos servicos juridicos independentemente disposto caput deste comunicarao aos orgaos publicos competentes irregularidades ilicitos administrativos tenham conhecimento sua anexando pertinentes",
+    "10": "art quebra sigilo fora das hipoteses autorizadas nesta lei complementar constitui crime sujeita responsaveis pena reclusao quatro anos multa aplicando que couber codigo penal sem prejuizo outras sancoes cabiveis paragrafo unico incorre nas mesmas penas quem omitir retardar injustificadamente prestar falsamente informacoes requeridas nos termos desta",
+    "11": "art servidor publico que utilizar viabilizar utilizacao qualquer informacao obtida decorrencia quebra sigilo trata esta lei complementar responde pessoal diretamente pelos danos decorrentes sem prejuizo responsabilidade objetiva entidade publica quando comprovado agiu acordo com orientacao oficial",
+    "12": "art esta lei complementar entra vigor data sua publicacao",
+    "13": "art revoga lei 595 dezembro 1964 brasilia janeiro 2001 180o independencia 113o republica fernando henrique cardoso jose gregori pedro malan martus tavares este texto nao substitui publicado dou"
+  }
+}

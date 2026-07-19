@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L10101",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l10101.json",
+      "colecao": "artigos",
+      "sha256": "19788ca6d6a1ec409ae688cb212348c1cc10aeec885c2f39582181e75fa4c93e",
+      "total_registros": 10,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 10,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art esta lei regula participacao dos trabalhadores nos lucros resultados empresa como instrumento integracao entre capital trabalho incentivo produtividade termos inciso constituicao premios",
+    "2": "art participacao nos lucros resultados sera objeto negociacao entre empresa seus empregados mediante dos procedimentos seguir descritos escolhidos pelas partes comum acordo comissao paritaria escolhida integrada tambem por representante indicado pelo sindicato respectiva categoria redacao dada pela lei 832 2013 producao efeito convencao coletivo instrumentos decorrentes deverao constar regras claras objetivas quanto fixacao direitos substantivos das adjetivas inclusive mecanismos afericao informacoes pertinentes cumprimento acordado periodicidade distribuicao periodo vigencia prazos para revisao podendo ser considerados outros seguintes criterios condicoes indices produtividade qualidade lucratividade programas metas pactuados previamente instrumento celebrado arquivado entidade sindical trabalhadores nao equipara fins desta pessoa fisica sem lucrativos que cumulativamente distribua qualquer titulo ainda indiretamente dirigentes administradores empresas vinculadas aplique integralmente recursos sua atividade institucional pais destine seu patrimonio congenere poder publico caso encerramento suas atividades mantenha escrituracao contabil capaz comprovar observancia demais requisitos deste inciso normas fiscais comerciais direito economico lhe sejam aplicaveis equiparacao trata artigo aplicavel hipoteses tenham sido utilizados incluido 020 2020 quando forem definidos incisos devera prestar aos representantes colaborem aplicam referentes saude seguranca trabalho podem adotar estabelecidos caput simultaneamente estabelecer multiplos observada estabelecida refere valores utilizacao exclusiva individuais autonomia vontade contratantes respeitada prevalecera face interesse terceiros consideram estabelecidas fixadas assinado anteriormente pagamento antecipacao prevista com antecedencia minimo noventa dias data parcela unica final haja inobservancia invalida exclusivamente pagamentos feitos desacordo norma assim entendidos excedentes segundo mesmo empregado ano civil efetuados inferior trimestre anterior hipotese mantem validade uma vez composta dara ciencia escrito ente indique prazo maximo dez corridos findo qual podera iniciar concluir tratativas",
+    "3": "art participacao que trata nao substitui complementa remuneracao devida qualquer empregado nem constitui base incidencia encargo trabalhista lhe aplicando principio habitualidade para efeito apuracao lucro real pessoa juridica podera deduzir como despesa operacional participacoes atribuidas aos empregados nos lucros resultados termos presente lei dentro proprio exercicio sua constituicao vedado pagamento antecipacao distribuicao valores titulo empresa mais duas vezes mesmo ano civil periodicidade inferior trimestre redacao dada pela 832 2013 producao todos pagamentos efetuados decorrencia planos mantidos espontaneamente poderao ser compensados com obrigacoes decorrentes acordos convencoes coletivas trabalho atinentes semestral minima referida alterada pelo poder executivo ate dezembro 2000 funcao eventuais impactos nas receitas tributarias este artigo sera tributada imposto sobre renda exclusivamente fonte separado dos demais rendimentos recebidos recebimento credito tabela progressiva anual constante anexo integrara calculo devido beneficiario declaracao ajuste trabalhadores integralmente incluido hipotese uma parcela referente calendario deve recalculado total recebida mediante utilizacao deduzindo assim apurado valor retido anteriormente pagos acumuladamente serao tributados sujeitando tambem forma acumulada considera acumulado fins relativa determinacao deduzidas importancias pagas dinheiro pensao alimenticia face das normas direito familia quando cumprimento decisao judicial acordo homologado judicialmente separacao divorcio consensual realizado por escritura publica desde correspondentes esse rendimento podendo utilizada mesma partir 2014 inclusive reajustados percentual reajuste mensal incidente pessoas fisicas",
+    "4": "art caso negociacao visando participacao nos lucros resultados empresa resulte impasse partes poderao utilizar dos seguintes mecanismos solucao litigio mediacao arbitragem ofertas finais utilizando que couber termos lei 307 setembro 1996 redacao dada pela 832 2013 producao efeito considera aquela arbitro deve restringir optar proposta apresentada carater definitivo por uma das mediador sera escolhido comum acordo entre firmado compromisso arbitral nao admitida desistencia unilateral qualquer laudo tera forca normativa independentemente homologacao judicial",
+    "5": "art participacao que trata desta lei relativamente aos trabalhadores empresas estatais observara diretrizes especificas fixadas pelo poder executivo paragrafo unico consideram publicas sociedades economia mista suas subsidiarias controladas demais uniao direta indiretamente detenha maioria capital social com direito voto",
+    "6": "art fica autorizado trabalho aos domingos nas atividades comercio geral observada legislacao municipal nos termos inciso constituicao redacao dada pela lei 603 2007 paragrafo unico repouso semanal remunerado devera coincidir pelo menos uma vez periodo maximo tres semanas com domingo respeitadas demais normas protecao outras serem estipuladas negociacao coletiva",
+    "6-A": "art permitido trabalho feriados nas atividades comercio geral desde que autorizado convencao coletiva observada legislacao municipal nos termos inciso constituicao incluido pela lei 603 2007",
+    "6-B": "art infracoes disposto nos arts desta lei serao punidas com multa prevista consolidacao das leis trabalho aprovada pelo decreto 452 maio 1943 incluido pela 603 2007 paragrafo unico processo fiscalizacao autuacao imposicao multas reger titulo vii",
+    "7": "art ficam convalidados atos praticados com base medida provisoria 982 outubro 2000",
+    "8": "art esta lei entra vigor data sua publicacao congresso nacional dezembro 2000 179o independencia 112o republica senador antonio carlos magalhaes presidente este texto nao substitui publicado dou anexo incluido pela 832 2013 producao efeito participacao nos lucros tabela tributacao exclusiva fonte valor plr anual aliquota parcela deduzir 000 450 125 025 acima 775"
+  }
+}

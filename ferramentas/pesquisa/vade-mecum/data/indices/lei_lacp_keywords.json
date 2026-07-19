@@ -1,0 +1,61 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "LACP",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_lacp.json",
+      "colecao": "artigos",
+      "sha256": "52d08e61cafdb8bc84215ed1d05b7d90869c192974f876faa8e686930b02dbfe",
+      "total_registros": 23,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 23,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art regem pelas disposicoes desta lei sem prejuizo acao popular acoes responsabilidade por danos morais patrimoniais causados redacao dada pela 529 2011 meio ambiente consumidor iii bens direitos valor artistico estetico historico turistico paisagistico qualquer outro interesse difuso coletivo incluido 078 1990 infracao ordem economica urbanistica medida provisoria 180 2001 vii honra dignidade grupos raciais etnicos religiosos 966 2014 viii patrimonio publico social 004 paragrafo unico nao sera cabivel civil publica para veicular pretensoes que envolvam tributos contribuicoes previdenciarias fundo garantia tempo servico fgts outros fundos natureza institucional cujos beneficiarios podem ser individualmente determinados",
+    "2": "art acoes previstas nesta lei serao propostas foro local onde ocorrer dano cujo juizo tera competencia funcional para processar julgar causa paragrafo unico propositura acao prevenira jurisdicao todas posteriormente intentadas que possuam mesma pedir mesmo objeto incluido pela medida provisoria 180 2001",
+    "3": "art acao civil podera ter por objeto condenacao dinheiro cumprimento obrigacao fazer nao",
+    "4": "art podera ser ajuizada acao cautelar para fins desta lei objetivando inclusive evitar dano patrimonio publico social meio ambiente consumidor honra dignidade grupos raciais etnicos religiosos ordem urbanistica aos bens direitos valor artistico estetico historico turistico paisagistico redacao dada pela 004 2014",
+    "5": "art tem legitimidade para propor acao principal cautelar redacao dada pela lei 448 2007 ministerio publico defensoria publica iii uniao estados distrito federal municipios incluido autarquia empresa fundacao sociedade economia mista associacao que concomitantemente esteja constituida pelo menos ano nos termos civil inclua entre suas finalidades institucionais protecao patrimonio social meio ambiente consumidor ordem economica livre concorrencia aos direitos grupos raciais etnicos religiosos artistico estetico historico turistico paisagistico 004 2014 nao intervier processo como parte atuara obrigatoriamente fiscal fica facultado poder outras associacoes legitimadas deste artigo habilitar litisconsortes qualquer das partes caso desistencia infundada abandono por legitimada outro legitimado assumira titularidade ativa 078 1990 requisito pre constituicao podera ser dispensado juiz quando haja manifesto interesse evidenciado dimensao caracteristica dano relevancia bem juridico protegido admitir litisconsorcio facultativo ministerios publicos dos defesa interesses cuida esta vide mensagem veto orgaos legitimados poderao tomar interessados compromisso ajustamento sua conduta exigencias legais mediante cominacoes tera eficacia titulo executivo extrajudicial",
+    "6": "art qualquer pessoa podera servidor publico devera provocar iniciativa ministerio ministrando lhe informacoes sobre fatos que constituam objeto acao civil indicando elementos conviccao",
+    "7": "art exercicio suas funcoes juizes tribunais tiverem conhecimento fatos que possam ensejar propositura acao civil remeterao pecas ministerio publico para providencias cabiveis",
+    "8": "art para instruir inicial interessado podera requerer autoridades competentes certidoes informacoes que julgar necessarias serem fornecidas prazo quinze dias ministerio publico instaurar sob sua presidencia inquerito civil requisitar qualquer organismo particular exames pericias assinalar qual nao ser inferior dez uteis somente nos casos lei impuser sigilo negada certidao informacao hipotese acao proposta desacompanhada daqueles documentos cabendo juiz requisita los",
+    "9": "art orgao ministerio publico esgotadas todas diligencias convencer inexistencia fundamento para propositura acao civil promovera arquivamento dos autos inquerito das pecas informativas fazendo fundamentadamente informacao arquivadas serao remetidos sob pena incorrer falta grave prazo tres dias conselho superior ate que sessao seja homologada rejeitada promocao poderao associacoes legitimadas apresentar razoes escritas documentos juntados aos anexados sera submetida exame deliberacao conforme dispuser seu regimento deixando homologar designara desde logo outro ajuizamento",
+    "10": "art constitui crime punido com pena reclusao tres anos mais multa dez 000 mil obrigacoes reajustaveis tesouro nacional ortn recusa retardamento omissao dados tecnicos indispensaveis propositura acao civil quando requisitados pelo ministerio publico",
+    "11": "art acao que tenha por objeto cumprimento obrigacao fazer nao juiz determinara prestacao atividade devida cessacao nociva sob pena execucao especifica cominacao multa diaria esta for suficiente compativel independentemente requerimento autor",
+    "12": "art podera juiz conceder mandado liminar com sem justificacao previa decisao sujeita agravo requerimento pessoa juridica direito publico interessada para evitar grave lesao ordem saude seguranca economia publica presidente tribunal que competir conhecimento respectivo recurso suspender execucao fundamentada qual cabera uma das turmas julgadoras prazo cinco dias partir publicacao ato multa cominada liminarmente sera exigivel reu apos transito julgado favoravel autor mas devida desde dia houver configurado descumprimento",
+    "13": "art havendo condenacao dinheiro indenizacao pelo dano causado revertera fundo gerido por conselho federal conselhos estaduais que participarao necessariamente ministerio publico representantes comunidade sendo seus recursos destinados reconstituicao dos bens lesados regulamento enquanto nao for regulamentado ficara depositado estabelecimento oficial credito conta com correcao monetaria renumerado paragrafo unico pela lei 288 2010 acordo fundamento ato discriminacao etnica nos termos disposto desta prestacao diretamente trata caput sera utilizada para acoes promocao igualdade conforme definicao nacional racial hipotese extensao locais nas hipoteses danos regional local respectivamente incluido vigencia",
+    "14": "art juiz podera conferir efeito suspensivo aos recursos para evitar dano irreparavel parte",
+    "15": "art decorridos sessenta dias transito julgado sentenca condenatoria sem que associacao autora lhe promova execucao devera faze ministerio publico facultada igual iniciativa aos demais legitimados redacao dada pela lei 078 1990",
+    "16": "art sentenca civil fara coisa julgada erga omnes nos limites competencia territorial orgao prolator exceto pedido for julgado improcedente por insuficiencia provas hipotese que qualquer legitimado podera intentar outra acao com identico fundamento valendo nova prova redacao dada pela lei 494 1997",
+    "17": "art caso litigancia associacao autora diretores responsaveis pela propositura acao serao solidariamente condenados honorarios advocaticios decuplo das custas sem prejuizo responsabilidade por perdas danos renumerado paragrafo unico com nova redacao lei 078 1990",
+    "18": "art nas acoes que trata esta lei nao havera adiantamento custas emolumentos honorarios periciais quaisquer outras despesas nem condenacao associacao autora salvo comprovada advogado processuais redacao dada pela 078 1990",
+    "19": "art aplica acao civil publica prevista nesta lei codigo processo aprovado pela 869 janeiro 1973 naquilo que nao contrarie suas disposicoes",
+    "20": "art fundo que trata desta lei sera regulamentado pelo poder executivo prazo noventa dias regulamento",
+    "21": "art aplicam defesa dos direitos interesses difusos coletivos individuais que for cabivel dispositivos titulo iii lei instituiu codigo consumidor incluido 078 1990",
+    "22": "art esta lei entra vigor data sua publicacao renumerado pela 078 1990",
+    "23": "art revogam disposicoes contrario renumerado pela lei 078 1990 brasilia julho 1985 164 independencia republica jose sarney fernando lyra este texto nao substitui publicado dou"
+  }
+}

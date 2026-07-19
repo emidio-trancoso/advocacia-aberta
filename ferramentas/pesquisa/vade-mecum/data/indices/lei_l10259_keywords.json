@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L10259",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l10259.json",
+      "colecao": "artigos",
+      "sha256": "c66312377d4147babb8068aeacc81a3801384a8d61a19c87da70441090424198",
+      "total_registros": 27,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 27,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art sao instituidos juizados especiais civeis criminais justica federal aos quais aplica que nao conflitar com esta lei disposto 099 setembro 1995",
+    "2": "art compete juizado especial federal criminal processar julgar feitos competencia justica relativos infracoes menor potencial ofensivo",
+    "3": "art compete juizado especial federal civel processar conciliar julgar causas competencia justica ate valor sessenta salarios minimos bem como executar suas sentencas nao incluem referidas 109 incisos iii constituicao acoes mandado seguranca desapropriacao divisao demarcacao populares execucoes fiscais por improbidade administrativa demandas sobre direitos interesses difusos coletivos individuais homogeneos bens imoveis uniao autarquias fundacoes publicas federais para anulacao cancelamento ato administrativo salvo natureza previdenciaria lancamento fiscal que tenham objeto impugnacao pena demissao imposta servidores publicos civis sancoes disciplinares aplicadas militares quando pretensao versar obrigacoes vincendas fins soma doze parcelas podera exceder referido caput foro onde estiver instalada vara sua absoluta",
+    "4": "art juiz podera oficio requerimento das partes deferir medidas cautelares curso processo para evitar dano dificil reparacao",
+    "5": "art exceto nos casos somente sera admitido recurso sentenca definitiva",
+    "6": "art podem ser partes juizado especial federal civel como autores pessoas fisicas microempresas empresas pequeno porte assim definidas lei 317 dezembro 1996 res uniao autarquias fundacoes publicas federais",
+    "7": "art citacoes intimacoes uniao serao feitas forma prevista nos arts lei complementar fevereiro 1993 paragrafo unico citacao das autarquias fundacoes empresas publicas sera feita pessoa representante maximo entidade local onde proposta causa quando ali instalado seu escritorio representacao nao sede",
+    "8": "art partes serao intimadas sentenca quando nao proferida esta audiencia que estiver presente seu representante por armp aviso recebimento mao propria demais intimacoes das feitas pessoa dos advogados procuradores oficiem nos respectivos autos pessoalmente via postal tribunais poderao organizar servico intimacao recepcao peticoes meio eletronico",
+    "9": "art nao havera prazo diferenciado para pratica qualquer ato processual pelas pessoas juridicas direito publico inclusive interposicao recursos devendo citacao audiencia conciliacao ser efetuada com antecedencia minima trinta dias",
+    "10": "art partes poderao designar por escrito representantes para causa advogado nao paragrafo unico judiciais uniao autarquias fundacoes empresas publicas federais bem como indicados forma caput ficam autorizados conciliar transigir desistir nos processos competencia dos juizados especiais",
+    "11": "art entidade publica devera fornecer juizado documentacao que disponha para esclarecimento causa apresentando ate instalacao audiencia conciliacao paragrafo unico composicao dos danos resultantes ilicito criminal arts lei 099 setembro 1995 representante comparecer tera poderes acordar desistir transigir forma",
+    "12": "art para efetuar exame tecnico necessario conciliacao julgamento causa juiz nomeara pessoa habilitada que apresentara laudo ate cinco dias antes audiencia independentemente intimacao das partes honorarios serao antecipados conta verba orcamentaria respectivo tribunal quando vencida entidade publica seu valor sera incluido ordem pagamento ser feita favor nas acoes previdenciarias relativas assistencia social havendo designacao intimadas dez apresentar quesitos indicar assistentes",
+    "13": "art nas causas que trata esta lei nao havera reexame necessario",
+    "14": "art cabera pedido uniformizacao interpretacao lei federal quando houver divergencia entre decisoes sobre questoes direito material proferidas por turmas recursais fundado mesma regiao sera julgado reuniao conjunta das conflito sob presidencia juiz coordenador diferentes regioes proferida contrariedade sumula jurisprudencia dominante stj turma integrada juizes justica domiciliados cidades diversas feita pela via eletronica orientacao acolhida contrariar superior tribunal parte interessada podera provocar manifestacao deste que dirimira caso presente plausibilidade invocado havendo receio dano dificil reparacao relator conceder oficio requerimento interessado medida liminar determinando suspensao dos processos nos quais controversia esteja estabelecida eventuais pedidos identicos recebidos subsequentemente quaisquer ficarao retidos autos aguardando pronunciamento necessario pedira informacoes presidente recursal ouvira ministerio publico prazo cinco dias interessados ainda nao sejam partes processo poderao manifestar trinta decorridos prazos referidos incluira pauta secao com preferencia todos demais feitos ressalvados reus presos habeas corpus mandados seguranca publicado acordao respectivo serao apreciados pelas exercer juizo retratacao declara los prejudicados veicularem tese pelo tribunais regionais supremo ambito suas competencias expedirao normas regulamentando composicao orgaos procedimentos serem adotados para processamento julgamento recurso extraordinario",
+    "15": "art recurso extraordinario para efeitos desta lei sera processado julgado segundo estabelecido nos alem observancia das normas regimento",
+    "16": "art cumprimento acordo sentenca com transito julgado que imponham obrigacao fazer nao entrega coisa certa sera efetuado mediante oficio juiz autoridade citada para causa copia",
+    "17": "art tratando obrigacao pagar quantia certa apos transito julgado decisao pagamento sera efetuado prazo sessenta dias contados entrega requisicao por ordem juiz autoridade citada para causa agencia mais proxima caixa economica federal banco brasil independentemente precatorio efeitos 100 constituicao obrigacoes ali definidas como pequeno valor serem pagas terao limite mesmo estabelecido nesta lei competencia juizado especial civel caput desatendida judicial determinara sequestro numerario suficiente cumprimento sao vedados fracionamento reparticao quebra execucao modo que faca parte forma estabelecida deste artigo mediante expedicao complementar suplementar pago ultrapassar far sempre meio sendo facultado exequente renuncia credito excedente possa optar pelo saldo sem prevista",
+    "18": "art juizados especiais serao instalados por decisao tribunal regional federal juiz presidente juizado designara conciliadores pelo periodo dois anos admitida reconducao exercicio dessas funcoes sera gratuito assegurados direitos prerrogativas jurado 437 codigo processo penal paragrafo unico adjuntos nas localidades cujo movimento forense nao justifique existencia especial cabendo designar vara onde funcionara",
+    "19": "art prazo seis meses contar publicacao desta lei deverao ser instalados juizados especiais nas capitais dos estados distrito federal paragrafo unico capital outras cidades onde for necessario neste ultimo caso por decisao tribunal regional serao com competencia exclusiva para acoes previdenciarias",
+    "20": "art onde nao houver vara federal causa podera ser proposta juizado especial mais proximo foro definido lei 099 setembro 1995 vedada aplicacao desta juizo estadual",
+    "21": "art turmas recursais serao instituidas por decisao tribunal regional federal que definira sua composicao area competencia podendo abranger mais uma secao nao sera permitida reconducao salvo quando houver outro juiz sede turma recursal regiao revogado pela lei 665 2012 designacao dos juizes das obedecera aos criterios antiguidade merecimento",
+    "22": "art juizados especiais serao coordenados por juiz respectivo tribunal regional escolhido seus pares com mandato dois anos paragrafo unico federal quando exigirem circunstancias podera determinar funcionamento juizado especial carater itinerante mediante autorizacao previa antecedencia dez dias",
+    "23": "art conselho justica federal podera limitar por ate tres anos contados partir publicacao desta lei competencia dos juizados especiais civeis atendendo necessidade organizacao servicos judiciarios administrativos",
+    "24": "art centro estudos judiciarios conselho justica federal escolas magistratura dos tribunais regionais federais criarao programas informatica necessarios para subsidiar instrucao das causas submetidas aos juizados promoverao cursos aperfeicoamento destinados seus magistrados servidores",
+    "25": "art nao serao remetidas aos juizados especiais demandas ajuizadas ate data sua instalacao",
+    "26": "art competira aos tribunais regionais federais prestar suporte administrativo necessario funcionamento dos juizados especiais",
+    "27": "art esta lei entra vigor seis meses apos data sua publicacao brasilia julho 2001 180o independencia 113o republica fernando henrique cardoso paulo tarso tamos ribeiro roberto brant gilmar ferreira mendes este texto nao substitui publicado dou"
+  }
+}

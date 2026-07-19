@@ -30,8 +30,8 @@ python3 ferramentas/manutencao/auditar_base_juridica.py --json
 | Súmulas | 3 | 1.475 registros | STJ, STF e vinculantes do STF |
 | Jurisprudência em Teses | 1 | 3.508 teses | 283 edições do STJ |
 | Temas repetitivos | 1 | 1.462 temas | STJ |
-| Índices auxiliares | 2 exclusivos + índices embutidos | derivados | palavras-chave e termos de busca |
-| Total em JSON | 277 | — | 40.742.582 bytes, cerca de 41 MB |
+| Índices auxiliares | 272 exclusivos (2 de súmulas, 270 de legislação em `indices/`) + índices embutidos | derivados | palavras-chave e termos de busca |
+| Total em JSON | 547 | — | 48.143.340 bytes, cerca de 48 MB |
 
 Os números acima foram contados diretamente nos JSONs. `gerado_em` e `generatedAt`
 indicam geração do arquivo, não garantem a data de vigência do conteúdo.
@@ -43,36 +43,47 @@ para páginas compiladas do Planalto.
 
 | Código | Diploma | Gerado em | Registros | Índice | Situação estrutural |
 |---|---|---:|---:|---|---|
-| `ADCT` | Ato das Disposições Constitucionais Transitórias | 2026-07-19 | 148 | pré-computado preservado | coerente |
-| `CC` | Código Civil — Lei 10.406/2002 | 2026-07-19 | 2.084 | pré-computado preservado | coerente |
-| `CDC` | Código de Defesa do Consumidor — Lei 8.078/1990 | 2026-07-19 | 131 | palavras-chave por registro | coerente |
-| `CE` | Código Eleitoral — Lei 4.737/1965 | 2026-07-19 | 387 | palavras-chave por registro | coerente |
-| `CF` | Constituição Federal de 1988 | 2026-07-19 | 276 | pré-computado preservado | coerente |
-| `CLT` | Consolidação das Leis do Trabalho | 2026-07-19 | 1.027 | pré-computado preservado | coerente |
-| `CP` | Código Penal — Decreto-Lei 2.848/1940 | 2026-07-19 | 432 | pré-computado preservado | coerente |
-| `CPC` | Código de Processo Civil — Lei 13.105/2015 | 2026-07-19 | 1.073 | pré-computado preservado | coerente |
-| `CPP` | Código de Processo Penal — Decreto-Lei 3.689/1941 | 2026-07-19 | 843 | pré-computado preservado | coerente |
-| `CTB` | Código de Trânsito Brasileiro — Lei 9.503/1997 | 2026-07-19 | 390 | pré-computado preservado | coerente |
-| `CTN` | Código Tributário Nacional — Lei 5.172/1966 | 2026-07-19 | 209 | pré-computado preservado | coerente |
-| `ECA` | Estatuto da Criança e do Adolescente — Lei 8.069/1990 | 2026-07-19 | 324 | sem índice curado; busca em texto integral | coerente |
-| `LBPS` | Lei de Benefícios da Previdência Social — Lei 8.213/1991 | 2026-07-19 | 177 | sem índice curado; busca em texto integral | coerente |
-| `LD` | Lei de Drogas — Lei 11.343/2006 | 2026-07-19 | 92 | sem índice curado; busca em texto integral | coerente |
-| `LEP` | Lei de Execução Penal — Lei 7.210/1984 | 2026-07-19 | 218 | sem índice curado; busca em texto integral | coerente |
-| `LGPD` | Lei Geral de Proteção de Dados Pessoais — Lei 13.709/2018 | 2026-07-19 | 79 | sem índice curado; busca em texto integral | coerente |
-| `LINDB` | Lei de Introdução às Normas do Direito Brasileiro — Decreto-Lei 4.657/1942 | 2026-07-19 | 30 | sem índice curado; busca em texto integral | coerente |
-| `LLC` | Lei de Licitações e Contratos Administrativos — Lei 14.133/2021 | 2026-07-19 | 196 | sem índice curado; busca em texto integral | coerente |
-| `LMP` | Lei Maria da Penha — Lei 11.340/2006 | 2026-07-19 | 57 | sem índice curado; busca em texto integral | coerente |
+| `ADCT` | Ato das Disposições Constitucionais Transitórias | 2026-07-19 | 148 | curado preservado + complemento derivado | coerente |
+| `CC` | Código Civil — Lei 10.406/2002 | 2026-07-19 | 2.084 | curado preservado + complemento derivado | coerente |
+| `CDC` | Código de Defesa do Consumidor — Lei 8.078/1990 | 2026-07-19 | 131 | derivado (texto integral) | coerente |
+| `CE` | Código Eleitoral — Lei 4.737/1965 | 2026-07-19 | 387 | derivado (texto integral) | coerente |
+| `CF` | Constituição Federal de 1988 | 2026-07-19 | 276 | curado preservado + complemento derivado | coerente |
+| `CLT` | Consolidação das Leis do Trabalho | 2026-07-19 | 1.027 | curado preservado + complemento derivado | coerente |
+| `CP` | Código Penal — Decreto-Lei 2.848/1940 | 2026-07-19 | 432 | curado preservado + complemento derivado | coerente |
+| `CPC` | Código de Processo Civil — Lei 13.105/2015 | 2026-07-19 | 1.073 | curado preservado + complemento derivado | coerente |
+| `CPP` | Código de Processo Penal — Decreto-Lei 3.689/1941 | 2026-07-19 | 849 | curado preservado + complemento derivado | coerente |
+| `CTB` | Código de Trânsito Brasileiro — Lei 9.503/1997 | 2026-07-19 | 391 | derivado (texto integral) | coerente |
+| `CTN` | Código Tributário Nacional — Lei 5.172/1966 | 2026-07-19 | 209 | curado preservado + complemento derivado | coerente |
+| `ECA` | Estatuto da Criança e do Adolescente — Lei 8.069/1990 | 2026-07-19 | 325 | derivado (texto integral) | coerente |
+| `LBPS` | Lei de Benefícios da Previdência Social — Lei 8.213/1991 | 2026-07-19 | 177 | derivado (texto integral) | coerente |
+| `LD` | Lei de Drogas — Lei 11.343/2006 | 2026-07-19 | 99 | derivado (texto integral) | coerente |
+| `LEP` | Lei de Execução Penal — Lei 7.210/1984 | 2026-07-19 | 219 | derivado (texto integral) | coerente |
+| `LGPD` | Lei Geral de Proteção de Dados Pessoais — Lei 13.709/2018 | 2026-07-19 | 79 | derivado (texto integral) | coerente |
+| `LINDB` | Lei de Introdução às Normas do Direito Brasileiro — Decreto-Lei 4.657/1942 | 2026-07-19 | 30 | derivado (texto integral) | coerente |
+| `LLC` | Lei de Licitações e Contratos Administrativos — Lei 14.133/2021 | 2026-07-19 | 196 | derivado (texto integral) | coerente |
+| `LMP` | Lei Maria da Penha — Lei 11.340/2006 | 2026-07-19 | 57 | derivado (texto integral) | coerente |
 
-A tabela acima cobre o núcleo e o piloto (19 diplomas, 8.173 registros); os
+Na coluna "Índice", **curado preservado** é o índice invertido legado
+`indexes.keywords`, estrutural para o ranking do núcleo e mantido como artefato
+preservado; **complemento derivado** e **derivado (texto integral)** são os
+índices reproduzíveis do `BASE-019` em `data/indices/`, que reproduzem a
+semântica da busca em texto integral. CDC, CE e CTB também guardam
+palavras-chave curadas por registro, preservadas nos dados mas não usadas pelo
+motor de busca.
+
+A tabela acima cobre o núcleo e o piloto (19 diplomas, 8.189 registros; as
+contagens refletem a recaptura com o rótulo "Art. 1º-A" corrigido); os
 demais diplomas da expansão estão resumidos por grupo mais abaixo, e o
 inventário completo sai do auditor. O snapshot de 2026-07-19 foi o
-primeiro produzido integralmente pelo pipeline reproduzível: o ganho de 196
+primeiro produzido integralmente pelo pipeline reproduzível: o ganho de
 registros nos 11 diplomas originais vem principalmente de artigos revogados
 retidos que o processo legado omitia, além de dispositivos novos como o art.
 121-B e o art. 147-C do CP e o art. 699-A do CPC. Os índices invertidos
-pré-computados são enriquecimentos legados preservados na transformação; artigos
-acrescentados depois deles ficam fora do índice até o `BASE-019` tornar a
-geração reproduzível.
+curados são enriquecimentos legados preservados na transformação; desde o
+`BASE-019`, os dispositivos que eles não cobrem entram no índice derivado
+regenerável, e um teste garante a cobertura 1:1 — 314 dispositivos do núcleo
+que estavam invisíveis à busca textual (ex.: CLT art. 7º, CPP arts. 3º-A a
+3º-F, CP arts. 121-B e 147-C) voltaram a ser recuperáveis.
 
 A revisão da expansão descobriu defeitos tipográficos nas páginas do Planalto
 ("Art 4º" sem ponto na Lei 6.001; "Art . 16." com espaço na Lei 6.880) e o
@@ -83,7 +94,8 @@ art. 67-B do CTB, que estavam retidos do snapshot legado sem rótulo.
 
 Os diplomas incorporados pela expansão (piloto de 8 leis e fatias do manifesto
 [`expansao/normas.json`](expansao/normas.json)) não possuem índice curado: a
-busca usa o texto integral dos dispositivos. Particularidades observadas na
+busca usa o índice derivado do `BASE-019`, que reproduz a semântica do texto
+integral dos dispositivos. Particularidades observadas na
 fonte e preservadas no snapshot:
 
 - a página da Lei 8.213/1991 consolida os arts. 145 a 147 numa única linha de
@@ -195,18 +207,22 @@ As contagens, os estados e a presença de URLs são coerentes com os metadados. 
 auditoria não comparou os enunciados nem os estados atuais com os portais dos
 tribunais.
 
-### Índices derivados de súmulas
+### Índices derivados de súmulas e de legislação
 
 | Arquivo | Cobertura | Gerado em | Processo declarado |
 |---|---:|---:|---|
 | `sumulas_keywords.json` | 676 súmulas STJ | 2026-07-19 | `tokens-significativos-v1` local, regenerado após a atualização das súmulas |
 | `sumulas_stf_keywords.json` | 736 súmulas STF | 2026-07-19 | `tokens-significativos-v1` local, regenerado após a atualização das súmulas |
+| `indices/lei_*_keywords.json` (270 arquivos) | 15.757 dispositivos fora dos índices curados; a união cobre os 21.541 em relação 1:1 | 2026-07-19 | `tokens-texto-integral-v1` local, regenerado após cada promoção de legislação |
 
-São dados derivados para recuperação, não fontes jurídicas. Desde o `BASE-010`, o
-repositório contém gerador, manifesto, parâmetros, checksums das fontes e testes de
-cobertura 1:1. O processo não usa modelo de linguagem: `modelo` e `prompt` são
-explicitamente nulos, e os tokens vêm dos enunciados publicados. A reprodução completa
-está documentada em [`indices-derivados.json`](indices-derivados.json).
+São dados derivados para recuperação, não fontes jurídicas. Desde o `BASE-010`
+(súmulas) e o `BASE-019` (legislação), o repositório contém gerador, manifesto,
+parâmetros, checksums das fontes e testes de cobertura 1:1. O processo não usa
+modelo de linguagem: `modelo` e `prompt` são explicitamente nulos, e os tokens
+vêm dos textos publicados. No índice de legislação as stopwords são preservadas
+de propósito, para que o ranking reproduza a busca em texto integral do motor.
+A reprodução completa está documentada em
+[`indices-derivados.json`](indices-derivados.json).
 
 ## Jurisprudência em Teses do STJ
 
@@ -247,8 +263,10 @@ oficiais do Portal de Dados Abertos do STJ e a chave de relacionamento. O snapsh
 (`provenanceStatus: reproducible_pipeline`), superando a limitação histórica do
 snapshot legado de janeiro, cujos brutos não haviam sido versionados. Os índices
 `keywords` e `terms` consumidos pelo motor são enriquecimentos legados preservados
-na transformação; temas acrescentados depois deles ficam fora do índice até o
-`BASE-019`.
+na transformação, e a busca de temas não tem fallback textual: os 57 temas 1406 a
+1462, acrescentados depois dos índices, hoje só são encontrados pela busca por
+número. O `BASE-020` rastreia a correção, no padrão que o `BASE-019` estabeleceu
+para a legislação.
 
 ## Rastreabilidade entregue pelo motor
 

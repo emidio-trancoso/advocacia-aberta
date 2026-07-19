@@ -1,0 +1,41 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "D8660",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_d8660.json",
+      "colecao": "artigos",
+      "sha256": "807875a595b67bad7f7c224477ddb3a2f0f791561f9cf4b86cbad27a0320aee0",
+      "total_registros": 3,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 3,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art fica promulgada convencao sobre eliminacao exigencia legalizacao documentos publicos estrangeiros firmada haia outubro 1961 anexa este decreto",
+    "2": "art sao sujeitos aprovacao congresso nacional atos que possam resultar revisao acordo ajustes complementares acarretem encargos compromissos gravosos patrimonio nos termos inciso caput constituicao",
+    "3": "art este decreto entra vigor data sua publicacao brasilia janeiro 2016 195 independencia 128 republica dilma rousseff jose eduardo cardozo mauro luiz iecker vieira texto nao substitui publicado dou convencao sobre eliminacao exigencia legalizacao documentos publicos estrangeiros celebrada outubro 1961 estados signatarios presente desejando eliminar diplomatica consular decidiram celebrar uma com essa finalidade concordaram seguintes disposicoes artigo aplica feitos territorio dos contratantes que devam produzir efeitos outro estado contratante ambito sao considerados provenientes autoridade agente publico vinculados qualquer jurisdicao inclusive ministerio escrivao judiciario oficial justica administrativos atos notariais declaracoes oficiais apostas natureza privada tais como certidoes comprovem registro documento existencia determinada reconhecimentos assinatura entretanto aos emitidos por agentes diplomaticos consulares diretamente relacionados operacoes comerciais aduaneiras cada dispensara quais seu significa apenas formalidade pela qual pais deve atestam autenticidade funcao cargo exercidos pelo signatario quando cabivel selo carimbo aposto unica podera ser exigida para atestar exercido consiste aposicao apostila definida emitida competente originado contudo prevista paragrafo anterior pode leis regulamentos costumes onde deva acordo entre dois mais afastem simplifiquem dispensem ato primeiro sera aposta proprio folha ele apensa devera estar conformidade modelo anexo redigida idioma emite termos padronizados nela inscritos tambem poderao redigidos segundo titulo apostille convention haye octobre escrito frances mediante solicitacao portador preenchida adequadamente atesta nele contidos serao isentos certificacao designara autoridades razao exercem atribuida competencia emitir esta designacao notificada das relacoes exteriores paises baixos momento deposito respectivo instrumento ratificacao adesao respectiva declaracao extensao todas modificacoes ocorrerem daquelas deverao notificadas referido designadas nos mantera arquivo anotadas apostilas emitidas especificando numero nome exercida caso assinados indicacao apos interessado emissora verificara dados correspondem aqueles sempre tratado contiver sujeitem reconhecimento certas formalidades derrogara referidas forem rigorosas artigos tomara providencias necessarias evitar seus realizem legalizacoes casos esse procedimento seja dispensado fica aberta pelos representados sessao conferencia haia direito internacional privado bem irlanda islandia liechtenstein turquia ratificada instrumentos depositados junto entrara sexagesimo dia terceiro previsto ratifique posteriormente esteja mencionado aderir depois entrada depositado somente produzira aderente apresentem objecao seis meses posteriores recebimento notificacao alinea informada tiverem apresentado expiracao prazo declarar aplicacao estendera conjunto territorios representa plano alguns dentre eles tera efeito questao extensoes tenha assinado ratificado apresentar conforme for feita aderido vigencia cinco anos partir ratificaram ela aderiram haja denuncia renovada tacitamente menos antes final periodo limitar relacao feito permanecera outros notificar mencionados tenham seguinte notificacoes previstas assinaturas ratificacoes adesoes objecoes entrarao denuncias abaixo devidamente autorizados firmaram concluida ingles sendo prevalecera divergencia textos copia depositada arquivos governo remetida autenticada via representado foi agindo qualidade tem reconhecido sob forma quadrado lados medindo minimo centimetros"
+  }
+}

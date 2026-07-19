@@ -1,0 +1,41 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L13058",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l13058.json",
+      "colecao": "artigos",
+      "sha256": "4ed915d607e0e8b85a45f45a031f8c4c6208d15f4d1afc0045f41fe852953a05",
+      "total_registros": 3,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 3,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art esta lei estabelece significado expressao guarda compartilhada dispoe sobre sua aplicacao para que modifica arts 583 584 585 634 406 janeiro 2002 codigo civil",
+    "2": "art lei 406 janeiro 2002 codigo civil passa vigorar com seguintes alteracoes 583 guarda compartilhada tempo convivio filhos deve ser dividido forma equilibrada mae pai sempre tendo vista condicoes faticas interesses dos revogado iii cidade considerada base moradia sera aquela que melhor atender aos unilateral obriga nao detenha supervisionar para possibilitar tal supervisao qualquer genitores parte legitima solicitar informacoes prestacao contas objetivas subjetivas assuntos situacoes direta indiretamente afetem saude fisica psicologica educacao seus 584 quando houver acordo entre quanto filho encontrando ambos aptos exercer poder familiar aplicada salvo declarar magistrado deseja menor estabelecer atribuicoes periodos convivencia sob juiz oficio requerimento ministerio publico podera basear orientacao tecnico profissional equipe interdisciplinar devera visar divisao alteracao autorizada descumprimento imotivado clausula implicar reducao prerrogativas atribuidas seu detentor verificar permanecer deferira pessoa revele compatibilidade natureza medida considerados preferencia grau parentesco relacoes afinidade afetividade estabelecimento privado obrigado prestar sobre destes pena multa 200 duzentos reais 500 quinhentos por dia pelo atendimento solicitacao 585 sede cautelar separacao corpos outra fixacao liminar decisao mesmo provisoria proferida preferencialmente apos oitiva ambas partes perante protecao exigir concessao sem aplicando disposicoes 634 compete pais seja sua situacao conjugal pleno exercicio consiste dirigir lhes criacao nos termos conceder negar consentimento casarem viajarem exterior mudarem residencia permanente outro municipio nomear tutor testamento documento autentico lhe sobreviver sobrevivo puder vii representa los judicial extrajudicialmente ate dezesseis anos atos vida assisti essa idade forem suprindo viii reclama quem ilegalmente prestem obediencia respeito servicos proprios condicao",
+    "3": "art esta lei entra vigor data sua publicacao brasilia dezembro 2014 193 independencia 126 republica dilma rousseff jose eduardo cardozo claudinei nascimento este texto nao substitui publicado dou retificado"
+  }
+}

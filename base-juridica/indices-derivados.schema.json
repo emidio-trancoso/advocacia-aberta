@@ -3,21 +3,21 @@
   "$id": "https://github.com/emidio-a11y/advocacia-aberta/blob/main/base-juridica/indices-derivados.schema.json",
   "title": "Manifesto de índices derivados",
   "type": "object",
-  "required": ["schema_version", "gerado_em", "diretorio_dados", "gerador", "conjuntos"],
+  "required": ["schema_version", "gerado_em", "diretorio_dados", "gerador", "legislacao", "conjuntos"],
   "properties": {
-    "schema_version": { "const": 1 },
+    "schema_version": { "const": 2 },
     "gerado_em": { "type": "string", "format": "date" },
     "diretorio_dados": { "type": "string" },
-    "gerador": {
+    "gerador": { "$ref": "#/$defs/gerador" },
+    "legislacao": {
       "type": "object",
-      "required": ["caminho", "versao", "algoritmo", "modelo", "prompt", "parametros"],
+      "required": ["padrao_fonte", "subdiretorio_destino", "sufixo_destino", "gerado_em", "gerador"],
       "properties": {
-        "caminho": { "type": "string" },
-        "versao": { "type": "string" },
-        "algoritmo": { "type": "string" },
-        "modelo": { "type": ["string", "null"] },
-        "prompt": { "type": ["string", "null"] },
-        "parametros": { "type": "object" }
+        "padrao_fonte": { "type": "string", "pattern": "^[^/]+$" },
+        "subdiretorio_destino": { "type": "string", "pattern": "^[^/]+$" },
+        "sufixo_destino": { "type": "string", "pattern": "^[^/]+\\.json$" },
+        "gerado_em": { "type": "string", "format": "date" },
+        "gerador": { "$ref": "#/$defs/gerador" }
       }
     },
     "conjuntos": {
@@ -34,6 +34,20 @@
           "campos_copiados": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
           "prefixo_id": { "type": "string" }
         }
+      }
+    }
+  },
+  "$defs": {
+    "gerador": {
+      "type": "object",
+      "required": ["caminho", "versao", "algoritmo", "modelo", "prompt", "parametros"],
+      "properties": {
+        "caminho": { "type": "string" },
+        "versao": { "type": "string" },
+        "algoritmo": { "type": "string" },
+        "modelo": { "type": ["string", "null"] },
+        "prompt": { "type": ["string", "null"] },
+        "parametros": { "type": "object" }
       }
     }
   }

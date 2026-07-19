@@ -1,0 +1,58 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L13260",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l13260.json",
+      "colecao": "artigos",
+      "sha256": "031fe3ae73f21b0dbcd521c58c6293be1c60b8743e936bc6ce9ce5b8ccea50c4",
+      "total_registros": 20,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 20,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art esta lei regulamenta disposto inciso xliii constituicao federal disciplinando terrorismo tratando disposicoes investigatorias processuais reformulando conceito organizacao terrorista",
+    "2": "art terrorismo consiste pratica por mais individuos dos atos previstos neste artigo razoes xenofobia discriminacao preconceito raca cor etnia religiao quando cometidos com finalidade provocar terror social generalizado expondo perigo pessoa patrimonio paz publica incolumidade sao usar ameacar transportar guardar portar trazer consigo explosivos gases toxicos venenos conteudos biologicos quimicos nucleares outros meios capazes causar danos promover destruicao massa vetado iii sabotar funcionamento apoderar violencia grave ameaca servindo mecanismos ciberneticos controle total parcial ainda que modo temporario meio comunicacao transporte portos aeroportos estacoes ferroviarias rodoviarias hospitais casas saude escolas estadios esportivos instalacoes publicas locais onde funcionem servicos publicos essenciais geracao transmissao energia militares exploracao refino processamento petroleo gas instituicoes bancarias sua rede atendimento atentar contra vida integridade fisica pena reclusao doze trinta anos alem das sancoes correspondentes disposto nao aplica conduta individual coletiva pessoas manifestacoes politicas movimentos sociais sindicais religiosos classe categoria profissional direcionados propositos reivindicatorios visando contestar criticar protestar apoiar objetivo defender direitos garantias liberdades constitucionais sem prejuizo tipificacao penal contida lei",
+    "3": "art promover constituir integrar prestar auxilio pessoalmente por interposta pessoa organizacao terrorista pena reclusao cinco oito anos multa vetado",
+    "4": "art vetado",
+    "5": "art realizar atos preparatorios terrorismo com proposito inequivoco consumar tal delito pena correspondente consumado diminuida quarto ate metade incorre nas mesmas penas agente que praticar recrutar organizar transportar municiar individuos viajem para pais distinto daquele sua residencia nacionalidade fornecer receber treinamento hipoteses quando conduta nao envolver viagem sera dois tercos",
+    "6": "art receber prover oferecer obter guardar manter deposito solicitar investir qualquer modo direta indiretamente recursos ativos bens direitos valores servicos natureza para planejamento preparacao execucao dos crimes previstos nesta lei pena reclusao quinze trinta anos paragrafo unico incorre mesma quem obtiver mantiver contribuir obtencao ativo bem recurso financeiro com finalidade financiar total parcialmente pessoa grupo pessoas associacao entidade organizacao criminosa que tenha como atividade principal secundaria mesmo carater eventual pratica",
+    "7": "art salvo quando for elementar pratica qualquer crime previsto nesta lei algum deles resultar lesao corporal grave aumenta pena terco morte metade",
+    "8": "art vetado",
+    "9": "art vetado",
+    "10": "art mesmo antes iniciada execucao crime terrorismo hipotese desta lei aplicam disposicoes decreto 848 dezembro 1940 codigo penal",
+    "11": "art para todos efeitos legais considera que crimes previstos nesta lei sao praticados contra interesse uniao cabendo policia federal investigacao criminal sede inquerito policial justica seu processamento julgamento nos termos inciso 109 constituicao paragrafo unico vetado",
+    "12": "art juiz oficio requerimento ministerio publico mediante representacao delegado policia ouvido vinte quatro horas havendo indicios suficientes crime previsto nesta lei podera decretar curso investigacao acao penal medidas assecuratorias bens direitos valores investigado acusado existentes nome interpostas pessoas que sejam instrumento produto proveito dos crimes previstos proceder alienacao antecipada para preservacao valor sempre estiverem sujeitos qualquer grau deterioracao depreciacao quando houver dificuldade sua manutencao determinara liberacao total parcial comprovada licitude origem destinacao mantendo constricao necessarios reparacao danos pagamento prestacoes pecuniarias multas custas decorrentes infracao nenhum pedido sera conhecido sem comparecimento pessoal interposta pessoa refere caput deste artigo podendo determinar pratica atos conservacao prejuizo disposto poderao ser decretadas sobre dano decorrente antecedente prevista prestacao pecuniaria multa",
+    "13": "art quando circunstancias aconselharem juiz ouvido ministerio publico nomeara pessoa fisica juridica qualificada para administracao dos bens direitos valores sujeitos medidas assecuratorias mediante termo compromisso",
+    "14": "art pessoa responsavel pela administracao dos bens fara jus uma remuneracao fixada pelo juiz que sera satisfeita preferencialmente com produto objeto prestara por determinacao judicial informacoes periodicas situacao sob sua bem como explicacoes detalhamentos sobre investimentos reinvestimentos realizados paragrafo unico atos relativos serao levados conhecimento ministerio publico requerera entender cabivel",
+    "15": "art juiz determinara hipotese existencia tratado convencao internacional por solicitacao autoridade estrangeira competente medidas assecuratorias sobre bens direitos valores oriundos crimes descritos nesta lei praticados estrangeiro aplica disposto neste artigo independentemente quando houver reciprocidade governo pais solicitante falta sujeitos recursos provenientes sua alienacao serao repartidos entre estado requerente brasil proporcao metade ressalvado direito lesado terceiro boa",
+    "16": "art aplicam disposicoes lei 850 agosto 2013 para investigacao processo julgamento dos crimes previstos nesta",
+    "17": "art aplicam disposicoes lei 072 julho 1990 aos crimes previstos nesta",
+    "18": "art inciso iii lei 960 dezembro 1989 passa vigorar acrescido seguinte alinea crimes previstos terrorismo",
+    "19": "art lei 850 agosto 2013 passa vigorar com seguinte alteracao organizacoes terroristas entendidas como aquelas voltadas para pratica dos atos terrorismo legalmente definidos",
+    "20": "art esta lei entra vigor data sua publicacao brasilia marco 2016 195 independencia 128 republica dilma rousseff wellington cesar lima silva nelson barbosa nilma lino gomes este texto nao substitui publicado dou edicao extra retificada"
+  }
+}

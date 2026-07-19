@@ -1,0 +1,53 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L9709",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l9709.json",
+      "colecao": "artigos",
+      "sha256": "4a773263ec57c898f16bde2a16bde9eed1e21b13021d63675fa2c38e3fc83329",
+      "total_registros": 15,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 15,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art soberania popular exercida por sufragio universal pelo voto direto secreto com valor igual para todos nos termos desta lei das normas constitucionais pertinentes mediante plebiscito referendo iii iniciativa",
+    "2": "art plebiscito referendo sao consultas formuladas povo para que delibere sobre materia acentuada relevancia natureza constitucional legislativa administrativa convocado com anterioridade ato legislativo administrativo cabendo pelo voto aprovar denegar lhe tenha sido submetido posterioridade cumprindo respectiva ratificacao rejeicao",
+    "3": "art nas questoes relevancia nacional competencia poder legislativo executivo caso constituicao federal plebiscito referendo sao convocados mediante decreto por proposta terco minimo dos membros que compoem qualquer das casas congresso conformidade com esta lei",
+    "4": "art incorporacao estados entre subdivisao desmembramento para anexarem outros formarem novos territorios federais dependem aprovacao populacao diretamente interessada por meio plebiscito realizado mesma data horario cada dos congresso nacional lei complementar ouvidas respectivas assembleias legislativas proclamado resultado consulta plebiscitaria sendo favoravel alteracao territorial prevista caput projeto respectivo sera proposto perante qualquer das casas casa qual tenha sido apresentado referido paragrafo anterior compete proceder audiencia oportunidade opinarao sem carater vinculativo sobre materia fornecerao detalhamentos tecnicos concernentes aos aspectos administrativos financeiros sociais economicos area geopolitica afetada aprovar tomara conta informacoes tecnicas que refere",
+    "5": "art plebiscito destinado criacao incorporacao fusao desmembramento municipios sera convocado pela assembleia legislativa conformidade com legislacao federal estadual",
+    "6": "art nas demais questoes competencia dos estados distrito federal municipios plebiscito referendo serao convocados conformidade respectivamente com constituicao estadual lei organica",
+    "7": "art nas consultas plebiscitarias previstas nos arts entende por populacao diretamente interessada tanto territorio que pretende desmembrar quanto sofrera desmembramento caso fusao anexacao area quer anexar recebera acrescimo vontade popular aferira pelo percentual manifestar relacao total consultada",
+    "8": "art aprovado ato convocatorio presidente congresso nacional dara ciencia justica eleitoral quem incumbira nos limites sua circunscricao fixar data consulta popular tornar publica cedula respectiva iii expedir instrucoes para realizacao plebiscito referendo assegurar gratuidade meio comunicacao massa concessionarios servico publico aos partidos politicos frentes suprapartidarias organizadas pela sociedade civil torno materia questao divulgacao seus postulados referentes tema sob",
+    "9": "art convocado plebiscito projeto legislativo medida administrativa nao efetivada cujas materias constituam objeto consulta popular tera sustada sua tramitacao ate que resultado das urnas seja proclamado",
+    "10": "art plebiscito referendo convocado nos termos presente lei sera considerado aprovado rejeitado por maioria simples acordo com resultado homologado pelo tribunal superior eleitoral",
+    "11": "art referendo pode ser convocado prazo trinta dias contar promulgacao lei adocao medida administrativa que relacione maneira direta com consulta popular",
+    "12": "art tramitacao dos projetos plebiscito referendo obedecera normas regimento comum congresso nacional",
+    "13": "art iniciativa popular consiste apresentacao projeto lei camara dos deputados subscrito por minimo cento eleitorado nacional distribuido pelo menos cinco estados com nao tres decimos eleitores cada deles devera circunscrever assunto podera ser rejeitado vicio forma cabendo seu orgao competente providenciar correcao eventuais impropriedades tecnica legislativa redacao",
+    "14": "art camara dos deputados verificando cumprimento das exigencias estabelecidas respectivos paragrafos dara seguimento iniciativa popular consoante normas regimento interno",
+    "15": "art esta lei entra vigor data sua publicacao brasilia novembro 1998 177o independencia 110o republica fernando henrique cardoso renan calheiros este texto nao substitui publicado dou"
+  }
+}

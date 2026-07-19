@@ -1,0 +1,46 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L4950A",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l4950a.json",
+      "colecao": "artigos",
+      "sha256": "6e267acf3de9eef7d0fe5765b5fd4e08e8b241201c47d699f85a9bc398d1998d",
+      "total_registros": 8,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 8,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art salario minimo dos diplomados pelos cursos regulares superiores mantidos pelas escolas engenharia quimica arquitetura agronomia veterinaria fixado pela presente lei",
+    "2": "art salario minimo fixado pela presente lei remuneracao minima obrigatoria por servicos prestados pelos profissionais definidos com relacao emprego funcao qualquer que seja fonte pagadora",
+    "3": "art para efeitos desta lei atividades tarefas desempenhadas pelos profissionais enumerados sao classificadas com exigencia seis horas diarias servico mais paragrafo unico jornada trabalho fixada contrato determinacao legal vigente",
+    "4": "art para efeitos desta lei profissionais citados sao classificados diplomados pelos cursos regulares superiores mantidos pelas escolas engenharia quimica arquitetura agronomia veterinaria com curso universitario quatro anos mais menos",
+    "5": "art para execucao das atividades tarefas classificadas alinea fica fixado salario base minimo seis vezes maior comum vigente pais profissionais relacionados cinco",
+    "6": "art para execucao atividades tarefas classificadas alinea fixacao salario base minimo sera feito tomando por custo hora fixado desta lei acrescidas horas excedentes das seis diarias servicos",
+    "7": "art remuneracao trabalho noturno sera feita base diurno acrescida vinte cinco por cento",
+    "8": "art esta lei entrara vigor data sua publicacao revogadas disposicoes contrario brasilia abril 1966 145 independencia republica auro moura andrade presidente senado federal este texto nao substitui publicado dou"
+  }
+}

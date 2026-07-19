@@ -1,0 +1,73 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L7492",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l7492.json",
+      "colecao": "artigos",
+      "sha256": "4e13955ee3b529941ac59c761e0cc6b7a73321aa52fb683a88fac5e007238f0c",
+      "total_registros": 35,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 35,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art considera instituicao financeira para efeito desta lei pessoa juridica direito publico privado que tenha como atividade principal acessoria cumulativamente nao captacao intermediacao aplicacao recursos financeiros vetado terceiros moeda nacional estrangeira custodia emissao distribuicao negociacao administracao valores mobiliarios paragrafo unico equipara capte administre seguros cambio consorcio capitalizacao qualquer tipo poupanca ofereca servicos referentes operacoes com ativos virtuais inclusive incluido pela 478 2022 vigencia natural exerca quaisquer das atividades referidas neste artigo ainda forma eventual dos crimes contra sistema financeiro",
+    "2": "art imprimir reproduzir qualquer modo fabricar por circulacao sem autorizacao escrita sociedade emissora certificado cautela outro documento representativo titulo valor mobiliario pena reclusao dois oito anos multa paragrafo unico incorre mesma quem imprime fabrica divulga distribui faz distribuir prospecto material propaganda relativo aos papeis referidos neste artigo",
+    "3": "art divulgar informacao falsa prejudicialmente incompleta sobre instituicao financeira pena reclusao dois seis anos multa",
+    "4": "art gerir fraudulentamente instituicao financeira pena reclusao tres doze anos multa paragrafo unico gestao temeraria dois oito",
+    "5": "art apropriar quaisquer das pessoas mencionadas desta lei dinheiro titulo valor qualquer outro bem movel que tem posse desvia proveito proprio alheio pena reclusao dois seis anos multa paragrafo unico incorre mesma negociar direito imovel sem autorizacao quem",
+    "6": "art induzir manter erro socio investidor reparticao publica competente relativamente operacao situacao financeira sonegando lhe informacao prestando falsamente pena reclusao dois seis anos multa",
+    "7": "art emitir oferecer negociar qualquer modo titulos valores mobiliarios falsos falsificados sem registro previo emissao junto autoridade competente condicoes divergentes das constantes irregularmente registrados iii lastro garantia suficientes nos termos legislacao autorizacao previa quando legalmente exigida pena reclusao dois oito anos multa",
+    "8": "art exigir desacordo com legislacao vetado juro comissao qualquer tipo remuneracao sobre operacao credito seguro administracao fundo mutuo fiscal consorcio servico corretagem distribuicao titulos valores mobiliarios pena reclusao quatro anos multa",
+    "9": "art fraudar fiscalizacao investidor inserindo fazendo inserir documento comprobatorio investimento titulos valores mobiliarios declaracao falsa diversa que dele deveria constar pena reclusao cinco anos multa",
+    "10": "art fazer inserir elemento falso omitir exigido pela legislacao demonstrativos contabeis instituicao financeira seguradora integrante sistema distribuicao titulos valores mobiliarios pena reclusao cinco anos multa",
+    "11": "art manter movimentar recurso valor paralelamente contabilidade exigida pela legislacao pena reclusao cinco anos multa",
+    "12": "art deixar administrador instituicao financeira apresentar interventor liquidante sindico nos prazos condicoes estabelecidas lei informacoes declaracoes documentos sua responsabilidade pena reclusao quatro anos multa",
+    "13": "art desviar vetado bem alcancado pela indisponibilidade legal resultante intervencao liquidacao extrajudicial falencia instituicao financeira pena reclusao dois seis anos multa paragrafo unico mesma incorra interventor liquidante sindico que apropriar abrangido pelo caput deste artigo desvia proveito proprio alheio",
+    "14": "art apresentar liquidacao extrajudicial falencia instituicao financeira declaracao credito reclamacao falsa juntar elas titulo falso simulado pena reclusao dois oito anos multa paragrafo unico mesma incorre administrador falido que reconhecer como verdadeiro nao seja",
+    "15": "art manifestar falsamente interventor liquidante sindico vetado respeito assunto relativo intervencao liquidacao extrajudicial falencia instituicao financeira pena reclusao dois oito anos multa",
+    "16": "art fazer operar sem devida autorizacao com obtida mediante declaracao vetado falsa instituicao financeira inclusive distribuicao valores mobiliarios cambio pena reclusao quatro anos multa",
+    "17": "art tomar receber qualquer das pessoas mencionadas desta lei direta indiretamente emprestimo adiantamento deferi controlador administrador membro conselho estatutario aos respectivos conjuges ascendentes descendentes parentes linha colateral ate grau consanguineos afins sociedade cujo controle seja por ela exercido dessas",
+    "18": "art violar sigilo operacao servico prestado por instituicao financeira integrante sistema distribuicao titulos mobiliarios que tenha conhecimento razao oficio pena reclusao quatro anos multa",
+    "19": "art obter mediante fraude financiamento instituicao financeira pena reclusao dois seis anos multa paragrafo unico aumentada terco crime cometido detrimento oficial por ela credenciada para repasse",
+    "20": "art aplicar finalidade diversa prevista lei contrato recursos provenientes financiamento concedido por instituicao financeira oficial credenciada para repassa pena reclusao dois seis anos multa",
+    "21": "art atribuir terceiro falsa identidade para realizacao operacao cambio pena detencao quatro anos multa paragrafo unico incorre mesma quem mesmo fim sonega informacao que devia prestar presta",
+    "22": "art efetuar operacao cambio nao autorizada com fim promover evasao divisas pais pena reclusao dois seis anos multa paragrafo unico incorre mesma quem qualquer titulo promove sem autorizacao legal saida moeda divisa para exterior nele mantiver depositos declarados reparticao federal competente",
+    "23": "art omitir retardar praticar funcionario publico contra disposicao expressa lei ato oficio necessario regular funcionamento sistema financeiro nacional bem como preservacao dos interesses valores ordem economico financeira pena reclusao quatro anos multa",
+    "24": "art vetado aplicacao procedimento criminal",
+    "25": "art sao penalmente responsaveis nos termos desta lei controlador administradores instituicao financeira assim considerados diretores gerentes vetado equiparam aos interventor liquidante sindico crimes previstos nesta cometidos quadrilha autoria autor participe que atraves confissao espontanea revelar autoridade policial judicial toda trama delituosa tera sua pena reduzida dois tercos incluido pela 080 1995",
+    "26": "art acao penal nos crimes previstos nesta lei sera promovida pelo ministerio publico federal perante justica paragrafo unico sem prejuizo disposto 268 codigo processo aprovado decreto 689 outubro 1941 admitida assistencia comissao valores mobiliarios cvm quando crime tiver sido praticado ambito atividade sujeita disciplina fiscalizacao dessa autarquia banco central brasil fora daquela hipotese houver cometido orbita sua",
+    "27": "art quando denuncia nao for intentada prazo legal ofendido podera representar procurador geral republica para que este ofereca designe outro orgao ministerio publico oferece determine arquivamento das pecas informacao recebidas",
+    "28": "art quando exercicio suas atribuicoes legais banco central brasil comissao valores mobiliarios cvm verificar ocorrencia crime previsto nesta lei disso devera informar ministerio publico federal enviando lhe documentos necessarios comprovacao fato paragrafo unico conduta que trata este artigo sera observada pelo interventor liquidante sindico curso intervencao liquidacao extrajudicial falencia esta",
+    "29": "art orgao ministerio publico federal sempre que julgar necessario podera requisitar qualquer autoridade informacao documento diligencia relativa prova dos crimes previstos nesta lei paragrafo unico sigilo servicos operacoes financeiras nao pode ser invocado como obice atendimento requisicao prevista caput deste artigo",
+    "30": "art sem prejuizo disposto 312 codigo processo penal aprovado pelo decreto lei 689 outubro 1941 prisao preventiva acusado pratica crime previsto nesta podera ser decretada razao magnitude lesao causada vetado",
+    "31": "art nos crimes previstos nesta lei punidos com pena reclusao reu nao podera prestar fianca nem apelar antes ser recolhido prisao ainda que primario bons antecedentes estiver configurada situacao autoriza preventiva",
+    "32": "art vetado",
+    "33": "art fixacao pena multa relativa aos crimes previstos nesta lei limite que refere codigo penal aprovado pelo decreto 848 dezembro 1940 pode ser estendido ate decuplo verificada situacao nele cogitada",
+    "34": "art esta lei entra vigor data sua publicacao",
+    "35": "art revogam disposicoes contrario brasilia junho 1986 165 independencia republica jose sarney paulo brossard este texto nao substitui publicado dou"
+  }
+}

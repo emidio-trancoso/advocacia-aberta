@@ -1,0 +1,54 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "DL911",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_dl911.json",
+      "colecao": "artigos",
+      "sha256": "fc0e30c1b1707940ea3ea7d560a0bf5baf0a64ff2b8fa89ec34f5367c9daa638",
+      "total_registros": 16,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 16,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art artigo lei 728 julho 1965 passa ter seguinte redacao vide 931 2004 alienacao fiduciaria garantia transfere credor dominio resoluvel posse indireta coisa movel alienada independentemente tradicao efetiva bem tornando alienante devedor possuidor direto depositario com todas responsabilidades encargos que lhe incumbem acordo civil penal somente prova por escrito seu instrumento publico particular qualquer seja valor sera obrigatoriamente arquivado copia microfilme registro titulos documentos domicilio sob pena nao valer contra terceiros contera alem outros dados seguintes total divida sua estimativa local data pagamento taxa juros comissoes cuja cobranca for permitida eventualmente clausula estipulacao correcao monetaria indicacao dos indices aplicaveis descricao objeto elementos indispensaveis identificacao ainda proprietario contrato fiduciario desta transferira momento aquisicao propriedade pelo formalidade posterior identifica numeros marcas sinais indicados cabe onus identidade bens encontram poder caso inadimplemento obrigacao garantida pode vender aplicar preco venda credito das despesas decorrentes entregando saldo porventura apurado houver bastar para pagar forma paragrafo anterior continuara pessoalmente obrigado nula autoriza ficar paga vencimento aplica disposto nos artigos 758 762 763 802 codigo couber alienar der alienara fiduciariamente ficara sujeito prevista 171 inciso 1279 veiculo automotor devera fins probatoros constar certificado refere nacional transito",
+    "2": "art caso inadimplemento mora nas obrigacoes contratuais garantidas mediante alienacao fiduciaria proprietario fiduciario credor podera vender coisa terceiros independentemente leilao hasta publica avaliacao previa qualquer outra medida judicial extrajudicial salvo disposicao expressa contrario prevista contrato devendo aplicar preco venda pagamento seu credito das despesas decorrentes entregar devedor saldo apurado houver",
+    "3": "art proprietario fiduciario credor podera requerer contra devedor terceiro busca apreensao bem alienado fiduciariamente qual sera concedida iiminarmente desde que comprovada mora inadimplemento",
+    "4": "art bem alienado fiduciariamente nao for encontrado achar posse devedor credor podera intentar acao deposito forma prevista titulo xii livro codigo processo civil",
+    "5": "art credor preferir recorrer acao executiva for caso executivo fiscal serao penhorados criterio autor bens devedor quantos bastem para assegurar execucao paragrafo unico nao aplica alienacao fiduciaria disposto nos incisos xlll artigo 942 codigo processo civil",
+    "6": "art avalista fiador terceiro interessado que pagar divida alienante devedor sub rogara pleno direito credito garantia constituida pela alienacao fiduciaria",
+    "6-A": "art pedido recuperacao judicial extrajudicial pelo devedor nos termos lei 101 fevereiro 2005 nao impede distribuicao busca apreensao bem incluido pela 043 2014",
+    "7": "art falencia devedor alienante fica assegurado credor proprietario fiduciario direito pedir forma prevista lei restituicao bem alienado fiduciariamente paragrafo unico efetivada agira neste decreto",
+    "7-A": "art nao sera aceito bloqueio judicial bens constituidos por alienacao fiduciaria nos termos deste decreto lei sendo que qualquer discussao sobre concursos preferencias devera ser resolvida pelo valor venda bem incluido pela 043 2014",
+    "8": "art conselho nacional transito prazo maximo dias contar vigencia presente decreto lei expedira normas regulamentares relativas alienacao fiduciaria veiculos automotores",
+    "8-A": "art procedimento judicial disposto neste decreto lei aplica exclusivamente hipoteses secao xiv 728 julho 1965 quando onus propriedade fiduciaria tiver sido constituido para fins garantia debito fiscal previdenciario incluido pela 931 2004 revogado 711 2023",
+    "8-B": "art desde que haja previsao expressa contrato clausula destaque apos comprovacao mora forma deste decreto lei facultado credor promover consolidacao propriedade perante competente cartorio registro titulos documentos lugar procedimento judicial referem arts incluido pela 711 2023 domicilio devedor localizacao bem celebracao vencida nao paga divida oficial requerimento fiduciario acompanhado notificara para pagar voluntariamente prazo vinte dias sob pena apresentar for caso comprobatorios cobranca total parcialmente indevida avaliara apresentados inciso artigo hipotese constatar direito devera abster prosseguir alegar caber lhe declarar valor entender correto dentro indicado assegurado optar pelo cobrar saldo remanescente frustracao parcial extrajudicial notificacao cargo sera feita preferencialmente por meio eletronico ser enviada endereco ausencia confirmacao recebimento eletronica ate tres uteis contados implicara realizacao postal com aviso exigido assinatura constante seja proprio destinatario cadastro ficara convalescido alienacao fiduciaria garantia averbara bens cuja tenha sido registrada apenas outro orgao comunicara este devida averbacao comunicacao trata ocorrer conforme convenio das serventias ainda suas entidades representativas competentes orgaos registrais pagamento voluntario legal dever mesmo ciencia entregar disponibilizar coisa venda sujeitar multa cinco cento respeitado recibo escrito parte poderao incluidos valores dos emolumentos despesas postais remocao disponibilizado vez entregado conter minimo seguintes informacoes copia referente acordo possivel data iii planilha detalhamento evolucao boleto bancario dados bancarios outra indicacao inclusive faculdade direto especialmente nome numero inscricao pessoas fisicas cpf nacional pessoa juridica cnpj telefone outros canais contato entrega disponibilizacao voluntarias inadimplemento vii advertencias referentes disposto nos",
+    "8-C": "art consolidada propriedade credor podera vender bem forma deste decreto lei incluido pela 711 2023 caso nao tenha sido entregue disponibilizado voluntariamente prazo legal requerer oficial registro titulos documentos busca apreensao extrajudicial com apresentacao valor atualizado divida planilha prevista inciso iii recebido requerimento como viabilizar adotara seguintes providencias lancara veiculos restricao circulacao transferencia sistema que trata comunicara for aos orgaos registrais competentes para averbacao indisponibilidade plataforma eletronica mantida pelos cartorios por meio suas entidades representativas base 977 julho 2009 expedira certidao facilitar realizacao das tratam incisos artigo transito outros poderao manter convenios ainda incumbidas promover eletronico terceiros mandatarios realizar diligencias localizacao dos bens ser empresas especializadas ato poder executivo definir requisitos minimos funcionamento constituidas fins apreendido pelo serventia venda caput devera comunica cartorio qual cancelara lancamentos comunicacoes averbara pertinente cuja alienacao fiduciaria registrada apenas outro orgao este devida fiduciario somente sera obrigado encargos tributarios administrativos vinculados partir aquisicao posse plena dara sua entrega voluntaria cinco dias uteis apos devedor fiduciante tera direito pagar integralidade pendente segundo valores apresentados seu hipotese cancelada consolidacao restituida incluir emolumentos despesas procedimento previsto neste alem tributos demais pactuados contrato impedira uso processo judicial",
+    "8-D": "art caso cobranca extrajudicial realizada forma dos arts deste decreto lei ser considerada indevida credor fiduciario sujeitar multa dever indenizar que tratam incluido pela 711 2023",
+    "8-E": "art quando tratar veiculos automotores facultado credor alternativamente promover procedimentos execucao extrajudicial que referem arts desta lei perante orgaos executivos transito dos estados observancia competencias previstas 361 406 janeiro 2002 codigo civil incluido pela 711 2023 paragrafo unico hipotese exercer faculdade trata caput deste artigo empresas 129 503 setembro 1997 brasileiro praticarao atos processamento inclusive",
+    "9": "art presente decreto lei entrara vigor data sua publicacao aplicando desde logo aos processos curso revogadas disposicoes contrario brasilia outubro 1969 148 independencia republica augusto hamann rademaker grunewald aurelio lyra tavares marcio souza mello luis antonio gama silva delfim netto este texto nao substitui publicado dou"
+  }
+}

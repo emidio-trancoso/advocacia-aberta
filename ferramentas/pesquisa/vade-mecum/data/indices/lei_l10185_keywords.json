@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L10185",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l10185.json",
+      "colecao": "artigos",
+      "sha256": "232d416048b124fe752f65dff591948b7a3984c64c8aa7b9aac1a2c9020cbb9c",
+      "total_registros": 5,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 5,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art sociedades seguradoras poderao operar seguro enquadrado inciso lei 656 junho 1998 desde que estejam constituidas como especializadas nesse devendo seu estatuto social vedar atuacao quaisquer outros ramos modalidades operam trata caput deste artigo conjuntamente com deverao providenciar sua especializacao ate julho 2001 ser processada junto superintendencia seguros privados susep mediante cisao outro ato societario pertinente nos termos ficam subordinadas normas fiscalizacao agencia nacional saude ans podera aplicar lhes caso infringencia legislacao regula planos assistencia penalidades previstas 961 janeiro 2000 cabera exclusivamente conselho complementar consu disciplinar este quanto materias incisos referida bem autorizacao funcionamento operacao das suplementar redacao dada pela medida provisoria 177 enquanto nao promoverem ficarao sujeitas ambito suas respectivas competencias continuarao sobre aplicacoes dos ativos garantidores provisoes tecnicas expedidas pelo monetario cmn",
+    "2": "art para efeito lei 656 1998 961 2000 enquadra seguro saude como plano privado assistencia sociedade seguradora especializada operadora",
+    "3": "art sociedade seguradora que nao adaptar disposto nesta lei fica obrigada transferir sua carteira saude para especializada estabelecida operadora planos privados assistencia venha apresentar plano sucessao segundo normas fixadas pela ans paragrafo unico devera ser observado prazo limite julho 2001 transferencia trata caput deste artigo",
+    "4": "art ficam convalidados atos praticados com base medida provisoria 122 dezembro 2000",
+    "5": "art esta lei entra vigor data sua publicacao congresso nacional fevereiro 2001 180o independencia 113o republica senador antonio carlos magalhaes presidente este texto nao substitui publicado dou"
+  }
+}

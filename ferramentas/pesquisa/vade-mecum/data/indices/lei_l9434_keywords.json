@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L9434",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l9434.json",
+      "colecao": "artigos",
+      "sha256": "564346dde09bde1f3d16a97a7f4015bd56d211392784f4ff93b6794712c03db9",
+      "total_registros": 29,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 29,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art disposicao gratuita tecidos orgaos partes corpo humano vida post mortem para fins transplante tratamento permitida forma desta lei paragrafo unico efeitos nao estao compreendidos entre que refere este artigo sangue esperma ovulo",
+    "2": "art realizacao transplante enxertos tecidos orgaos partes corpo humano podera ser realizada por estabelecimento saude publico privado equipes medico cirurgicas remocao previamente autorizados pelo orgao gestao nacional sistema unico paragrafo transplantes autorizada apos doador todos testes triagem para diagnostico infeccao infestacao exigidos normas regulamentares expedidas ministerio redacao dada pela lei 211 2001",
+    "3": "art retirada post mortem tecidos orgaos partes corpo humano destinados transplante tratamento devera ser precedida diagnostico morte encefalica constatada registrada por dois medicos nao participantes das equipes remocao mediante utilizacao criterios clinicos tecnologicos definidos resolucao conselho federal medicina prontuarios contendo resultados laudos dos exames referentes aos diagnosticos copias documentos que tratam arts paragrafo unico seus paragrafos quando couber detalhando atos cirurgicos relativos transplantes enxertos serao mantidos nos arquivos instituicoes referidas periodo minimo cinco anos enviarao anualmente relatorio nomes pacientes receptores orgao gestor estadual sistema saude sera admitida presenca medico confianca familia falecido ato comprovacao atestacao",
+    "4": "art retirada tecidos orgaos partes corpo pessoas falecidas para transplantes outra finalidade terapeutica dependera autorizacao conjuge parente maior idade obedecida linha sucessoria reta colateral ate segundo grau inclusive firmada documento subscrito por duas testemunhas presentes verificacao morte redacao dada pela lei 211 2001 paragrafo unico vetado incluido revogado",
+    "5": "art remocao post mortem tecidos orgaos partes corpo pessoa juridicamente incapaz podera ser feita desde que permitida expressamente por ambos pais seus responsaveis legais",
+    "6": "art vedada remocao post mortem tecidos orgaos partes corpo pessoas nao identificadas",
+    "7": "art vetado paragrafo unico caso morte sem assistencia medica obito decorrencia causa mal definida outras situacoes nas quais houver indicacao verificacao remocao tecidos orgaos partes cadaver para fins transplante terapeutica somente podera ser realizada apos autorizacao patologista servico responsavel pela investigacao citada relatorio necropsia",
+    "8": "art apos retirada tecidos orgaos partes cadaver sera imediatamente necropsiado verificada hipotese paragrafo unico qualquer caso condignamente recomposto para ser entregue seguida aos parentes morto seus responsaveis legais sepultamento redacao dada pela lei 211 2001",
+    "9": "art permitida pessoa juridicamente capaz dispor gratuitamente tecidos orgaos partes proprio corpo vivo para fins terapeuticos transplantes conjuge parentes consanguineos ate quarto grau inclusive forma deste artigo qualquer outra mediante autorizacao judicial dispensada esta relacao medula ossea redacao dada pela lei 211 2001 vetado doacao referida neste quando tratar duplos cuja retirada nao impeca organismo doador continuar vivendo sem risco sua integridade represente grave comprometimento suas aptidoes vitais saude mental cause mutilacao deformacao inaceitavel corresponda uma necessidade terapeutica comprovadamente indispensavel receptora devera autorizar preferencialmente por escrito diante testemunhas especificamente tecido orgao parte objeto podera ser revogada pelo pelos responsaveis legais momento antes concretizacao individuo incapaz com compatibilidade imunologica comprovada fazer nos casos transplante desde que haja consentimento ambos pais seus ato oferecer vedado gestante seu exceto utilizado feto auto depende apenas registrado prontuario medico ele for",
+    "9-A": "art garantido toda mulher acesso informacoes sobre possibilidades beneficios doacao voluntaria sangue cordao umbilical placentario durante periodo consultas pre natais momento realizacao parto incluido pela lei 633 2007 capitulo das disposicoes complementares",
+    "10": "art transplante enxerto fara com consentimento expresso receptor assim inscrito lista unica espera apos aconselhamento sobre excepcionalidade riscos procedimento redacao dada pela lei 211 2001 nos casos que seja juridicamente incapaz cujas condicoes saude impecam comprometam manifestacao valida sua vontade trata este artigo sera dado por seus pais responsaveis legais incluido inscricao nao confere pretenso familia direito subjetivo indenizacao realizar decorrencia alteracao estado orgaos tecidos partes lhe seriam destinados provocado acidente incidente seu transporte paragrafo unico",
+    "11": "art proibida veiculacao atraves qualquer meio comunicacao social anuncio que configure publicidade estabelecimentos autorizados realizar transplantes enxertos relativa estas atividades apelo publico sentido doacao tecido orgao parte corpo humano para pessoa determinada identificada nao ressalvado disposto paragrafo unico arrecadacao fundos financiamento transplante enxerto beneficio particulares orgaos gestao nacional regional local sistema saude realizarao periodicamente dos meios adequados campanhas esclarecimento beneficios esperados partir vigencia desta lei estimulo",
+    "12": "art vetado",
+    "13": "art obrigatorio para todos estabelecimentos saude notificar centrais notificacao captacao distribuicao orgaos unidade federada onde ocorrer diagnostico morte encefalica feito pacientes por eles atendidos paragrafo unico apos prevista caput deste artigo nao autorizados retirar tecidos partes corpo humano destinados transplante tratamento deverao permitir imediata remocao paciente franquear suas instalacoes fornecer apoio operacional necessario equipes medico cirurgicas hipotese que serao ressarcidos forma lei incluido pela 521 2007",
+    "13-A": "art orgaos publicos civis instituicoes militares empresas publicas privadas que operem utilizem veiculos transporte pessoas cargas por via terrestre aerea aquatica sao obrigados dar prioridade tecidos partes corpo humano para fins transplante tratamento integrantes equipe captacao distribuicao acompanhara material incluido pela lei 858 2024 previsto caput deste artigo sera gratuito coordenado pelo sistema nacional transplantes snt meio central cnt realizado forma articulada entre remetente transportador destinatario nos termos acordo firmado esse fim tempo condicoes adequados cada tipo orgao tecido parte garantindo qualidade seguranca integridade conforme disposicoes regulamento constitui justa causa cancelamento reserva espaco vaga passageiro virtude lotacao esgotada veiculo disposto isenta empresa responder descumprimento contrato nao aplica quando aeronaves embarcacoes estiverem missao defesa aeroespacial engajados operacoes definido respectivo comando forca militar competente",
+    "14": "art remover tecidos orgaos partes corpo pessoa cadaver desacordo com disposicoes desta lei pena reclusao dois seis anos multa 100 360 dias crime cometido mediante paga promessa recompensa por outro motivo torpe tres oito 150 praticado viva resulta para ofendido incapacidade ocupacoes habituais mais trinta perigo vida iii debilidade permanente membro sentido funcao aceleracao parto dez 200 trabalho enfermidade incuravel perda inutilizacao deformidade aborto quatro doze 300 morte vinte",
+    "15": "art comprar vender tecidos orgaos partes corpo humano pena reclusao tres oito anos multa 200 360 dias paragrafo unico incorre mesma quem promove intermedeia facilita aufere qualquer vantagem com transacao",
+    "16": "art realizar transplante enxerto utilizando tecidos orgaos partes corpo humano que tem ciencia terem sido obtidos desacordo com dispositivos desta lei pena reclusao seis anos multa 150 300 dias",
+    "17": "art recolher transportar guardar distribuir partes corpo humano que tem ciencia terem sido obtidos desacordo com dispositivos desta lei pena reclusao seis meses dois anos multa 100 250 dias",
+    "18": "art realizar transplante enxerto desacordo com disposto desta lei seu paragrafo unico pena detencao seis meses dois anos",
+    "19": "art deixar recompor cadaver devolvendo lhe aspecto condigno para sepultamento entregar retardar sua entrega aos familiares interessados pena detencao seis meses dois anos",
+    "20": "art publicar anuncio apelo publico desacordo com disposto pena multa 100 200 dias",
+    "21": "art caso dos crimes previstos nos arts estabelecimento saude equipes medico cirurgicas envolvidas poderao ser desautorizadas temporaria permanentemente pelas autoridades competentes instituicao particular autoridade competente podera multa 200 360 dias reincidencia ter suas atividades suspensas definitivamente sem direito qualquer indenizacao compensacao por investimentos realizados proibida estabelecer contratos convenios com entidades publicas bem como beneficiar creditos oriundos instituicoes governamentais daquelas que estado acionista pelo prazo cinco anos",
+    "22": "art instituicoes que deixarem manter arquivo relatorios dos transplantes realizados conforme disposto nao enviarem mencionados orgao gestao estadual sistema unico saude estao sujeitas multa 100 200 dias incorre mesma pena estabelecimento deixar fazer notificacoes previstas desta lei proibir dificultar atrasar hipoteses definidas seu paragrafo redacao dada pela 521 2007 caso reincidencia alem podera determinar desautorizacao temporaria permanente instituicao",
+    "23": "art sujeita penas lei 117 agosto 1962 empresa comunicacao social que veicular anuncio desacordo com disposto",
+    "23-A": "art empresas instituicoes que recusarem sem justa causa fazer transporte orgaos tecidos partes corpo humano para fins transplante tratamento estando autorizadas faze nos termos legais regulamentares contratuais estao sujeitas multa 100 cem 150 cento cinquenta dias incluido pela lei 858 2024 paragrafo unico infracao prevista caput deste artigo resultar perda material sera 360 trezentos sessenta",
+    "23-B": "art transportar orgaos tecidos partes corpo humano para fins transplante tratamento desacordo com disposto nesta lei regulamento incluido pela 858 2024 pena previstas inciso xxiii caput 437 agosto 1977",
+    "24": "art vetado",
+    "25": "art revogam disposicoes contrario particularmente lei 489 novembro 1992 decreto 879 julho 1993 brasilia fevereiro 1997 176 independencia 109 republica fernando henrique cardoso nelson jobim carlos cesar albuquerque este texto nao substitui publicado dou"
+  }
+}

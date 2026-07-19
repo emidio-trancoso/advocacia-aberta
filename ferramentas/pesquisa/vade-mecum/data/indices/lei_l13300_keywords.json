@@ -1,0 +1,53 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L13300",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l13300.json",
+      "colecao": "artigos",
+      "sha256": "9308554da31de240fca5c1345e7fdf07f2c05ed2576e032e10e6a6b823bd116d",
+      "total_registros": 15,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 15,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art esta lei disciplina processo julgamento dos mandados injuncao individual coletivo nos termos inciso lxxi constituicao federa",
+    "2": "art conceder mandado injuncao sempre que falta total parcial norma regulamentadora torne inviavel exercicio dos direitos liberdades constitucionais das prerrogativas inerentes nacionalidade soberania cidadania paragrafo unico considera regulamentacao quando forem insuficientes normas editadas pelo orgao legislador competente",
+    "3": "art sao legitimados para mandado injuncao como impetrantes pessoas naturais juridicas que afirmam titulares dos direitos das liberdades prerrogativas referidos impetrado poder orgao autoridade com atribuicao editar norma regulamentadora",
+    "4": "art peticao inicial devera preencher requisitos estabelecidos pela lei processual indicara alem orgao impetrado pessoa juridica que ele integra aquela esta vinculado quando nao for transmitida por meio eletronico documentos instruem serao acompanhados tantas vias quantos forem impetrados documento necessario prova alegado encontrar reparticao estabelecimento publico poder autoridade terceiro havendo recusa fornece certidao original copia autentica sera ordenada pedido impetrante exibicao prazo dez dias devendo nesse caso ser juntada segunda via fornecer ordem feita proprio instrumento notificacao",
+    "5": "art recebida peticao inicial sera ordenada notificacao impetrado sobre conteudo devendo lhe ser enviada segunda via apresentada com copias dos documentos fim que prazo dez dias preste informacoes ciencia ajuizamento acao orgao representacao judicial pessoa juridica interessada copia para querendo ingresse feito",
+    "6": "art peticao inicial sera desde logo indeferida quando impetracao for manifestamente incabivel improcedente paragrafo unico decisao relator que indeferir cabera agravo cinco dias para orgao colegiado competente julgamento",
+    "7": "art findo prazo para apresentacao das informacoes sera ouvido ministerio publico que opinara dez dias apos com sem parecer autos serao conclusos decisao",
+    "8": "art reconhecido estado mora legislativa sera deferida injuncao para determinar prazo razoavel que impetrado promova edicao norma regulamentadora estabelecer condicoes dara exercicio dos direitos das liberdades prerrogativas reclamados for caso podera interessado promover acao propria visando exerce los nao seja suprida determinado paragrafo unico dispensada determinacao refere inciso caput quando comprovado deixou atender mandado anterior estabelecido",
+    "9": "art decisao tera eficacia subjetiva limitada partes produzira efeitos ate advento norma regulamentadora podera ser conferida ultra erga omnes quando isso for inerente indispensavel exercicio direito liberdade prerrogativa objeto impetracao transitada julgado seus poderao estendidos aos casos analogos por monocratica relator indeferimento pedido insuficiencia prova nao impede renovacao fundada outros elementos probatorios",
+    "10": "art sem prejuizo dos efeitos produzidos decisao podera ser revista pedido qualquer interessado quando sobrevierem relevantes modificacoes das circunstancias fato direito paragrafo unico acao revisao observara que couber procedimento estabelecido nesta lei",
+    "11": "art norma regulamentadora superveniente produzira efeitos nunc relacao aos beneficiados por decisao transitada julgado salvo aplicacao editada lhes for mais favoravel paragrafo unico estara prejudicada impetracao antes caso que processo sera extinto sem resolucao merito",
+    "12": "art mandado injuncao coletivo pode ser promovido pelo ministerio publico quando tutela requerida for especialmente relevante para defesa ordem juridica regime democratico dos interesses sociais individuais indisponiveis por partido politico com representacao congresso nacional assegurar exercicio direitos liberdades prerrogativas seus integrantes relacionados finalidade partidaria iii organizacao sindical entidade classe associacao legalmente constituida funcionamento menos ano favor totalidade parte membros associados forma estatutos desde que pertinentes suas finalidades dispensada tanto autorizacao especial pela defensoria publica promocao humanos coletivos necessitados inciso lxxiv constituicao federal paragrafo unico protegidos sao pertencentes indistintamente uma coletividade indeterminada pessoas determinada grupo categoria",
+    "13": "art mandado injuncao coletivo sentenca fara coisa julgada limitadamente pessoas integrantes coletividade grupo classe categoria substituidos pelo impetrante sem prejuizo disposto nos paragrafo unico nao induz litispendencia relacao aos individuais mas efeitos beneficiarao que requerer desistencia demanda individual prazo trinta dias contar ciencia comprovada impetracao coletiva",
+    "14": "art aplicam subsidiariamente mandado injuncao normas seguranca disciplinado pela lei 016 agosto 2009 codigo processo civil instituido 869 janeiro 1973 105 marco 2015 observado disposto seus arts 045 046",
+    "15": "art esta lei entra vigor data sua publicacao brasilia junho 2016 195 independencia 128 republica michel temer alexandre moraes fabio medina osorio este texto nao substitui publicado dou"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L6858",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l6858.json",
+      "colecao": "artigos",
+      "sha256": "41701f169397f172f61b28c77c92d1e1c13346475a1d2b81a0de55555ca14109",
+      "total_registros": 4,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 4,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art valores devidos pelos empregadores aos empregados montantes das contas individuais fundo garantia tempo servico participacao pis pasep nao recebidos vida respectivos titulares serao pagos quotas iguais dependentes habilitados perante previdencia social forma legislacao especifica dos servidores civis militares sua falta sucessores previstos lei civil indicados alvara judicial independentemente inventario arrolamento atribuidas menores ficarao depositadas caderneta poupanca rendendo juros correcao monetaria disponiveis apos menor completar dezoito anos salvo autorizacao juiz para aquisicao imovel destinado residencia familia dispendio necessario subsistencia educacao inexistindo que trata este artigo reverterao favor respectivamente assistencia conforme tratar quantias devidas pelo empregador fgts",
+    "2": "art disposto nesta lei aplica restituicoes relativas imposto renda outros tributos recolhidos por pessoa fisica nao existindo bens sujeitos inventario aos saldos bancarios contas cadernetas poupanca fundos investimento valor ate 500 quinhentas obrigacoes reajustaveis tesouro nacional paragrafo unico hipotese inexistirem dependentes sucessores titular valores referidos neste artigo reverterao favor fundo previdencia assistencia social",
+    "3": "art esta lei entrara vigor data sua publicacao",
+    "4": "art revogam disposicoes contrario brasilia novembro 1980 159 independencia republica joao figueiredo ibrahim abi ackel ernane galveas helio beltrao este texto nao substitui publicado dou retificado"
+  }
+}

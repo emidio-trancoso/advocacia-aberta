@@ -1,0 +1,51 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L13775",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l13775.json",
+      "colecao": "artigos",
+      "sha256": "c6c58d7ab6716633a5fc6faf896905359e93a5c61926a6a9a940cc4f40b7bb43",
+      "total_registros": 13,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 13,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art esta lei dispoe sobre emissao duplicata sob forma escritural",
+    "2": "art duplicata que trata lei 474 julho 1968 pode ser emitida sob forma escritural para circulacao como efeito comercial observadas disposicoes desta",
+    "3": "art emissao duplicata sob forma escritural far mediante lancamento sistema eletronico escrituracao gerido por quaisquer das entidades que exercam atividade duplicatas escriturais trata caput deste artigo deverao ser autorizadas orgao entidade administracao federal direta indireta exercer caso feita central nacional registro titulos documentos apos autorizada prevista nos termos referida cabera oficial domicilio emissor nao estiver integrado competencia sera transferida para capital respectiva federativa valor total dos emolumentos cobrados pela pratica atos descritos nesta lei fixado pelos estados pelo distrito observado maximo real",
+    "4": "art devera ocorrer sistema eletronico que trata desta lei relativamente duplicata emitida sob forma escritural escrituracao minimo dos seguintes aspectos apresentacao aceite devolucao formalizacao prova pagamento controle transferencia titularidade iii pratica atos cambiais tais como endosso aval inclusao indicacoes informacoes declaracoes referentes operacao com base qual foi proprio titulo respeito onus gravames constituidos sobre duplicatas gestor realizar comunicacoes caput deste artigo devedor aos demais interessados orgao entidade administracao federal podera definir procedimentos deverao ser observados para realizacao das previstas dispora mecanismos permitam sacador sacado comprovarem por quaisquer meios admitidos direito entrega recebimento mercadorias prestacao servico devendo provas efetuada meio endossantes avalistas indicados pelo apresentante credor garantidores cumprimento obrigacao constarao tal extratos",
+    "5": "art constituira prova pagamento total parcial duplicata emitida sob forma escritural liquidacao favor legitimo credor utilizando qualquer meio existente ambito sistema pagamentos brasileiro paragrafo unico que trata caput deste artigo devera ser informada eletronico escrituracao previsto desta lei com referencia expressa amortizada liquidada",
+    "6": "art gestores dos sistemas eletronicos escrituracao que trata desta lei depositarios centrais hipotese duplicata emitida sob forma escritural ter sido depositada acordo com 810 maio 2013 expedirao pedido qualquer solicitante extrato registro eletronico deverao constar expedido minimo data emissao informacoes referentes sistema ambito qual foi elementos necessarios identificacao nos termos 474 julho 1968 iii clausula inegociabilidade acerca onus gravames caput deste artigo pode ser emitido eletronica observados requisitos seguranca garantam autenticidade documento devera manter seus arquivos copia extratos emitidos sera gratuita informacao prestada por meio rede mundial computadores inadimplementos registrados relacao determinado devedor",
+    "7": "art duplicata emitida sob forma escritural extrato que trata desta lei sao titulos executivos extrajudiciais devendo observar para sua cobranca judicial disposto 474 julho 1968",
+    "8": "art lei 492 setembro 1997 passa vigorar com seguintes alteracoes titulos documentos divida mantidos sob forma escritural nos sistemas eletronicos escrituracao depositos centralizados que trata 810 maio 2013 poderao ser recepcionados para protesto por extrato desde atestado seu emitente penas informacoes conferem consta origem tabeliaes manterao ambito nacional uma central servicos compartilhados prestara menos emissao duplicata observado disposto legislacao especifica inclusive quanto requisito autorizacao previa exercicio atividade pelo orgao supervisor aos demais requisitos previstos regulamentacao ele editada recepcao distribuicao escriturais iii consulta gratuita devedores inadimplentes protestos realizados dados desses dos tabelionatos quais foram distribuidos ainda respectivos nao sejam confirmacao autenticidade instrumentos meio eletronico anuencia eletronica cancelamento partir implementacao caput deste artigo disponibilizarao poder publico sem onus acesso constantes seus bancos obrigatoria adesao imediata todos pais responsaveis expediente pena responsabilizacao disciplinar termos inciso 935 novembro 1994",
+    "9": "art lancamentos sistema eletronico que trata desta lei substituem livro registro duplicatas previsto 474 julho 1968",
+    "10": "art sao nulas pleno direito clausulas contratuais que vedam limitam oneram forma direta indireta emissao circulacao duplicatas emitidas sob cartular escritural",
+    "11": "art orgao entidade administracao federal que trata desta lei podera regulamentar disposto nesta inclusive quanto forma periodicidade compartilhamento registros fiscalizacao atividade escrituracao duplicatas escriturais aos requisitos funcionamento sistema eletronico condicoes emissao negociacao liquidacao duplicata emitida sob escritural paragrafo unico caso descumprimento regulamentacao caput deste artigo serao aplicaveis disposicoes 506 novembro 2017 pelo",
+    "12": "art duplicatas escriturais sao aplicaveis forma subsidiaria disposicoes lei 474 julho 1968 apresentacao duplicata escritural sera efetuada por meio eletronico observados prazos determinados pelo orgao entidade administracao federal que trata desta ausencia dessa determinacao prazo dois dias uteis contados sua emissao devedor podera recusar nas condicoes pelos motivos previstos nos arts apresentada mesmo acrescido metade aceita para fins protesto praca pagamento das inciso devera coincidir com domicilio segundo regra geral 327 406 janeiro 2002 codigo civil salvo convencao expressa entre partes demonstre concordancia inequivoca",
+    "13": "art esta lei entra vigor apos decorridos 120 cento vinte dias sua publicacao oficial brasilia dezembro 2018 197 independencia 130 republica michel temer eduardo refinetti guardia marcos jorge esteves pedro colnago junior ilan goldfajn grace maria fernandes mendonca este texto nao substitui publicado dou"
+  }
+}

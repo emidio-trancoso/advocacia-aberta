@@ -1,0 +1,47 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "D7962",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_d7962.json",
+      "colecao": "artigos",
+      "sha256": "4606446fabb2cd659aab169af7aa782d25ecc333d536c5f1f3b74c824787d032",
+      "total_registros": 9,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 9,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art este decreto regulamenta lei 078 setembro 1990 para dispor sobre contratacao comercio eletronico abrangendo seguintes aspectos informacoes claras respeito produto servico fornecedor atendimento facilitado consumidor iii direito arrependimento",
+    "2": "art sitios eletronicos demais meios utilizados para oferta conclusao contrato consumo devem disponibilizar local destaque facil visualizacao seguintes informacoes nome empresarial numero inscricao fornecedor quando houver cadastro nacional pessoas fisicas juridicas ministerio fazenda endereco fisico eletronico necessarias sua localizacao contato iii caracteristicas essenciais produto servico incluidos riscos saude seguranca dos consumidores discriminacao preco quaisquer despesas adicionais acessorias tais como entrega seguros condicoes integrais incluidas modalidades pagamento disponibilidade forma prazo execucao disponibilizacao claras ostensivas respeito restricoes fruicao",
+    "3": "art sitios eletronicos demais meios utilizados para ofertas compras coletivas modalidades analogas contratacao deverao conter alem das informacoes previstas seguintes quantidade minima consumidores efetivacao contrato prazo utilizacao oferta pelo consumidor iii identificacao fornecedor responsavel sitio eletronico produto servico ofertado nos termos dos incisos",
+    "4": "art para garantir atendimento facilitado consumidor comercio eletronico fornecedor devera apresentar sumario contrato antes contratacao com informacoes necessarias pleno exercicio direito escolha enfatizadas clausulas que limitem direitos fornecer ferramentas eficazes identificacao correcao imediata erros ocorridos nas etapas ante riores finalizacao iii confirmar imediatamente recebimento aceitacao oferta disponibilizar meio permita sua conservacao reproducao apos manter servico adequado eficaz possibilite resolucao demandas referentes informacao duvida reclamacao suspensao cancelamento referidas inciso pelo mesmo empregado vii utilizar mecanismos seguranca pagamento tratamento dados paragrafo unico manifestacao previstas caput sera encaminhada ate cinco dias",
+    "5": "art fornecedor deve informar forma clara ostensiva meios adequados eficazes para exercicio direito arrependimento pelo consumidor podera exercer seu pela mesma ferramenta utilizada contratacao sem prejuizo outros disponibilizados implica rescisao dos contratos acessorios qualquer onus sera comunicado imediatamente instituicao financeira administradora cartao credito similar que transacao nao seja lancada fatura efetivado estorno valor caso lancamento tenha sido realizado enviar confirmacao imediata recebimento manifestacao",
+    "6": "art contratacoes comercio eletronico deverao observar cumprimento das condicoes oferta com entrega dos produtos servicos contratados observados prazos quantidade qualidade adequacao",
+    "7": "art inobservancia das condutas descritas neste decreto ensejara aplicacao sancoes previstas lei 078 1990",
+    "8": "art decreto 903 setembro 2006 passa vigorar com seguintes alteracoes paragrafo unico disposto nos arts deste aplica contratacoes comercio eletronico",
+    "9": "art este decreto entra vigor sessenta dias apos data sua publicacao brasilia marco 2013 192 independencia 125 republica dilma rousseff jose eduardo cardozo texto nao substitui publicado dou edicao extra"
+  }
+}

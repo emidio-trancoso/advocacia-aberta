@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L13487",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l13487.json",
+      "colecao": "artigos",
+      "sha256": "951668f8de1dd89d0d8d4bca89881a5b594731c1a6da2f3d3172e931582f33be",
+      "total_registros": 5,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 5,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art lei 504 setembro 1997 passa vigorar com seguintes alteracoes fundo especial financiamento campanha fefc",
+    "2": "art arts lei 096 setembro 1995 passam vigorar com seguintes alteracoes iii vetado instituto podera ser criado sob qualquer das formas admitidas pela civil patrimonio fundacao direito privado que referem inciso desta caput deste artigo sera vertido ente vier sucede nos casos extincao quando extinto fundido incorporado partido politico assim como nas demais hipoteses previstas legislacao conversao transformacao para fins disposto versao implica sucessao todos direitos deveres obrigacoes transformado convertido for caso ocorrera por decisao orgao direcao nacional",
+    "3": "art valor ser definido pelo tribunal superior eleitoral para fins disposto inciso caput lei 504 setembro 1997 sera equivalente somatoria compensacao fiscal que emissoras comerciais radio televisao receberam pela divulgacao propaganda partidaria efetuada ano publicacao desta imediatamente anterior atualizada monetariamente cada eleicao indice nacional precos consumidor inpc fundacao instituto brasileiro geografia estatistica ibge por substituir",
+    "4": "art esta lei entra vigor data sua publicacao",
+    "5": "art ficam revogados partir dia janeiro subsequente publicacao desta lei arts paragrafo unico 096 setembro 1995 brasilia outubro 2017 196 independencia 129 republica michel temer eliseu padilha antonio imbassahy este texto nao substitui publicado dou edicao extra"
+  }
+}

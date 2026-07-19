@@ -1,0 +1,41 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L13777",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l13777.json",
+      "colecao": "artigos",
+      "sha256": "2b016e94ccde2fe7484edc66eb0bb89fd1be25f28e708969f4dbc646dac75590",
+      "total_registros": 3,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 3,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art titulo iii livro parte especial lei 406 janeiro 2002 codigo civil passa vigorar acrescido seguinte capitulo vii condominio multipropriedade",
+    "2": "art lei 015 dezembro 1973 passa vigorar com seguintes alteracoes 176 tratando imovel regime multipropriedade indicacao existencia matriculas nos termos deste artigo quando destinar alem matricula havera uma para cada fracao tempo qual registrarao averbarao atos referentes respectiva ressalvado disposto hipotese prevista podera funcao legislacao tributaria municipal ser objeto inscricao imobiliaria individualizada inciso 358 406 janeiro 2002 codigo civil adicional destinada realizacao reparos constara referente principal multiproprietario nao sera especifica 178 iii convencoes condominio edilicio geral voluntario",
+    "3": "art vetado brasilia dezembro 2018 197 independencia 130 republica michel temer torquato jardim eduardo refinetti guardia este texto nao substitui publicado dou"
+  }
+}

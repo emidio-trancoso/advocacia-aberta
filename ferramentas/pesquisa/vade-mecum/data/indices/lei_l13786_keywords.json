@@ -1,0 +1,42 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L13786",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l13786.json",
+      "colecao": "artigos",
+      "sha256": "c37722678c6bcebd7b1cbc8961130ebbba18f13a8eab8cc62635f6f95a11dbb7",
+      "total_registros": 4,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 4,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art esta lei altera leis 591 dezembro 1964 766 1979 para disciplinar resolucao contrato por inadimplemento adquirente unidade imobiliaria incorporacao parcelamento solo urbano",
+    "2": "art lei 591 dezembro 1964 passa vigorar acrescida dos seguintes arts contratos compra venda promessa cessao unidades autonomas integrantes incorporacao imobiliaria serao iniciados por quadro resumo que devera conter preco total ser pago pelo imovel valor parcela tratada como entrada sua forma pagamento com destaque para vista seus percentuais sobre contrato iii referente corretagem suas condicoes identificacao precisa seu beneficiario indicacao clara valores vencimentos das parcelas indices correcao monetaria aplicaveis quando houver pluralidade periodo aplicacao cada consequencias desfazimento seja meio distrato resolucao contratual motivada inadimplemento obrigacao adquirente incorporador negritado penalidades prazos devolucao vii taxas juros eventualmente aplicadas mensais anuais nominais efetivas incidencia sistema amortizacao viii informacoes acerca possibilidade exercicio parte direito arrependimento previsto 078 setembro 1990 codigo defesa consumidor todos firmados estandes vendas fora sede estabelecimento comercial prazo quitacao obrigacoes apos obtencao auto conclusao obra onus recaiam especial vinculem garantia real financiamento destinado construcao investimento numero registro memorial matricula cartorio imoveis competente xii termo final habite efeitos contratuais intempestividade prevista desta identificada ausencia quaisquer previstas caput deste artigo sera concedido trinta dias aditamento saneamento omissao findo qual essa nao sanada caracterizara justa causa rescisao efetivacao referidas inciso dependera anuencia previa especifica respeito mediante assinatura junto essas clausulas deverao redigidas conforme disposto entrega ate 180 cento oitenta corridos data estipulada contratualmente empreendimento desde expressamente pactuado destacada dara nem ensejara qualquer penalidade ultrapassar estabelecido tenha dado atraso podera promovida este sem prejuizo integralidade pagos multa estabelecida sessenta contados corrigidos nos termos hipotese estender superior aquele tratar devida adimplente ocasiao unidade indenizacao efetivamente incorporadora mes pro rata die corrigido monetariamente indice estipulado mora cumprimento alguma cumulada trata inexecucao caso celebrado exclusivamente absoluto fara jus restituicao quantias diretamente atualizadas base delas deduzidas cumulativamente comissao pena convencional exceder vinte cinco quantia paga exigir necessario alegue funcao teve disponibilizada responde ainda pelos correspondentes aos impostos reais incidentes cotas condominio contribuicoes devidas associacoes moradores correspondente fruicao equivalente decimos atualizado demais encargos despesas debitos deducoes poderao compensacao restituida descontos retencoes estao limitados salvo relacao relativas estiver submetida regime patrimonio afetacao tratam restituira deduzidos descritos neste atualizados maximo documento expedido orgao publico municipal admitindo nessa referida limite cinquenta esteja 931 agosto 2004 referem paragrafos anteriores remanescente ressarcido realizado unica contado ocorra revenda antes transcorrido devido deve incidira clausula penal der encontrar comprador substituto sub rogue direitos originalmente assumidos haja aprovacao cadastros capacidade financeira economica permitem durante improrrogavel sete antecipados inclusive cabera demonstrar tempestivo carta registrada aviso recebimento considerada postagem inicial contagem refere sido exercido observada irretratabilidade partes comum acordo instrumento especifico definir diferenciadas nesta nas hipoteses leilao objeto parcelado pacto adjeto alienacao fiduciaria contexto execucao judicial procedimento extrajudicial far criterios estabelecidos respectiva normas geral",
+    "3": "art lei 766 dezembro 1979 passa vigorar com seguintes alteracoes contratos compra venda cessao promessa loteamento devem ser iniciados por quadro resumo que devera conter alem das indicacoes constantes desta preco total pago pelo imovel valor referente corretagem suas condicoes pagamento identificacao precisa seu beneficiario iii forma indicacao clara dos valores vencimentos parcelas indices correcao monetaria aplicaveis contrato quando houver pluralidade periodo aplicacao cada consequencias desfazimento seja mediante distrato meio resolucao contratual motivada inadimplemento obrigacao adquirente loteador destaque negritado para penalidades prazos devolucao taxas juros eventualmente aplicadas mensais anuais nominais efetivas incidencia sistema amortizacao vii informacoes acerca possibilidade exercicio parte direito arrependimento previsto 078 setembro 1990 codigo defesa consumidor todos firmados estandes vendas fora sede estabelecimento comercial viii prazo quitacao obrigacoes apos obtencao termo vistoria obras onus recaiam sobre numero registro desmembramento matricula cartorio imoveis competente final execucao projeto referido data protocolo pedido emissao identificada ausencia quaisquer previstas caput deste artigo sera concedido trinta dias aditamento saneamento omissao findo qual essa nao sanada caracterizara justa causa rescisao efetivacao mencionadas inciso dependera anuencia previa especifica respeito assinatura junto essas clausulas deverao redigidas conforme disposto caso fato imputado respeitado restituidos pagos ele atualizados base indice contratualmente estabelecido podendo descontados itens correspondentes eventual fruicao ate equivalente setenta cinco centesimos cento atualizado cujo contado partir transmissao posse sua restituicao montante devido clausula penal despesas administrativas inclusive arras sinal limitado desconto dez encargos moratorios relativos prestacoes pagas atraso debitos impostos propriedade predial territorial urbana contribuicoes condominiais associativas outras igual natureza sejam estas equiparadas tarifas vinculadas lote bem como tributos custas emolumentos incidentes comissao desde integrada ocorrera doze inicio seguinte carencia loteamentos andamento maximo 180 oitenta conclusao concluidas meses formalizacao somente efetuado nova for comprovado vendedor titular cancelado pactuadas dispensada comprovacao nos casos localizado tiver manifestado termos procedimento neste aplica aos escrituras sob modalidade alienacao fiduciaria 514 novembro 1997 sessenta constituicao mora fica hipotese obrigado alienar leilao judicial extrajudicial ocorrer cancelamento sido realizado mais terco ajustado oficial mencionara esse quantia paga ato novo relativo mesmo apresentacao assinado pelas partes parcela unica primeira restituido deposito dinheiro disposicao condicao prevista podera convencionarem modo diverso expressa documento elas",
+    "4": "art esta lei entra vigor data sua publicacao brasilia dezembro 2018 197 independencia 130 republica michel temer torquato jardim eduardo refinetti guardia este texto nao substitui publicado dou"
+  }
+}

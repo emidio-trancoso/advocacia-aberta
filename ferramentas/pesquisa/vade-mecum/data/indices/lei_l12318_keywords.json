@@ -1,0 +1,50 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L12318",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l12318.json",
+      "colecao": "artigos",
+      "sha256": "78161cdb69bb42ebd84908d8717c5b8e01f8ce9d87bc02e5083d9750f24510f1",
+      "total_registros": 12,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 12,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art esta lei dispoe sobre alienacao parental",
+    "2": "art considera ato alienacao parental interferencia formacao psicologica crianca adolescente promovida induzida por dos genitores pelos avos que tenham sob sua autoridade guarda vigilancia para repudie genitor cause prejuizo estabelecimento manutencao vinculos com este paragrafo unico sao formas exemplificativas alem atos assim declarados pelo juiz constatados pericia praticados diretamente auxilio terceiros realizar campanha desqualificacao conduta exercicio paternidade maternidade dificultar iii contato direito regulamentado convivencia familiar omitir deliberadamente informacoes pessoais relevantes sobre inclusive escolares medicas alteracoes endereco apresentar falsa denuncia contra familiares deste obstar deles vii mudar domicilio local distante sem justificativa visando outro",
+    "3": "art pratica ato alienacao parental fere direito fundamental crianca adolescente convivencia familiar saudavel prejudica realizacao afeto nas relacoes com genitor grupo constitui abuso moral contra descumprimento dos deveres inerentes autoridade decorrentes tutela guarda",
+    "4": "art declarado indicio ato alienacao parental requerimento oficio qualquer momento processual acao autonoma incidentalmente processo tera tramitacao prioritaria juiz determinara com urgencia ouvido ministerio publico medidas provisorias necessarias para preservacao integridade psicologica crianca adolescente inclusive assegurar sua convivencia genitor viabilizar efetiva reaproximacao entre ambos for caso paragrafo unico garantia minima visitacao assistida ressalvados casos que iminente risco prejuizo fisica atestado por profissional eventualmente designado pelo acompanhamento das visitas forum tramita entidades conveniadas justica redacao dada pela lei 340 2022",
+    "5": "art havendo indicio pratica ato alienacao parental acao autonoma incidental juiz necessario determinara pericia psicologica biopsicossocial laudo pericial tera base ampla avaliacao conforme caso compreendendo inclusive entrevista pessoal com partes exame documentos dos autos historico relacionamento casal separacao cronologia incidentes personalidade envolvidos forma como crianca adolescente manifesta acerca eventual acusacao contra genitor sera realizada por profissional equipe multidisciplinar habilitados exigido qualquer aptidao comprovada academico para diagnosticar atos perito designada verificar ocorrencia prazo noventa dias apresentacao prorrogavel exclusivamente autorizacao judicial baseada justificativa circunstanciada ausencia insuficiencia serventuarios responsaveis pela realizacao estudo psicologico outra especie tecnica exigida esta lei determinacao autoridade judiciaria podera proceder nomeacao qualificacao experiencia pertinentes tema nos termos arts 156 465 105 marco 2015 codigo processo civil incluido 340 2022",
+    "6": "art caracterizados atos tipicos alienacao parental qualquer conduta que dificulte convivencia crianca adolescente com genitor acao autonoma incidental juiz podera cumulativamente nao sem prejuizo decorrente responsabilidade civil criminal ampla utilizacao instrumentos processuais aptos inibir atenuar seus efeitos segundo gravidade caso declarar ocorrencia advertir alienador ampliar regime familiar favor alienado iii estipular multa determinar acompanhamento psicologico biopsicossocial alteracao guarda para compartilhada sua inversao fixacao cautelar domicilio vii suspensao autoridade revogado redacao dada pela lei 340 2022 paragrafo unico caracterizado mudanca abusiva endereco inviabilizacao obstrucao tambem inverter obrigacao levar retirar residencia por ocasiao das alternancias dos periodos incluido deve ser submetido avaliacoes periodicas emissao pelo menos laudo inicial contenha avaliacao indicativo metodologia empregada final termino",
+    "7": "art atribuicao alteracao guarda dar por preferencia genitor que viabiliza efetiva convivencia crianca adolescente com outro nas hipoteses seja inviavel compartilhada",
+    "8": "art alteracao domicilio crianca adolescente irrelevante para determinacao competencia relacionada acoes fundadas direito convivencia familiar salvo decorrente consenso entre genitores decisao judicial",
+    "8-A": "art sempre que necessario depoimento oitiva criancas adolescentes casos alienacao parental eles serao realizados obrigatoriamente nos termos lei 431 abril 2017 sob pena nulidade processual incluido pela 340 2022",
+    "9": "art vetado",
+    "10": "art vetado",
+    "11": "art esta lei entra vigor data sua publicacao brasilia agosto 2010 189o independencia 122o republica luiz inacio lula dasilva paulo teles ferreira barreto tarso vannuchi jose gomes temporao este texto nao substitui publicado dou retificado"
+  }
+}

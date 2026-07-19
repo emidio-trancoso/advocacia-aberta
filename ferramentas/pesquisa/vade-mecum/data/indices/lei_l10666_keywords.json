@@ -1,0 +1,53 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L10666",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l10666.json",
+      "colecao": "artigos",
+      "sha256": "eeff6e77adbe70b3c0f5882decdc6afccc32c3a3fbe443173b31726042e24b2d",
+      "total_registros": 15,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 15,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art disposicoes legais sobre aposentadoria especial segurado filiado regime geral previdencia social aplicam tambem cooperado cooperativa trabalho producao que trabalha sujeito condicoes especiais prejudiquem sua saude integridade fisica sera devida contribuicao adicional nove sete cinco pontos percentuais cargo empresa tomadora servicos incidente valor bruto nota fiscal fatura prestacao conforme atividade exercida pelo permita concessao apos quinze vinte anos respectivamente efeito doze seis remuneracao paga creditada hipotese exercicio autorize considera aquela seus associados contribuem com laborativos profissionais para comum bens quando detenha por qualquer forma meios",
+    "2": "art revogado pela lei 846 2019",
+    "3": "art perda qualidade segurado nao sera considerada para concessao das aposentadorias por tempo contribuicao especial hipotese aposentadoria idade desse beneficio desde que conte com minimo correspondente exigido efeito carencia data requerimento nos termos observara fins calculo valor disposto caput lei 876 novembro 1999 havendo salarios recolhidos periodo partir competencia julho 1994 213 1991",
+    "4": "art fica empresa obrigada arrecadar contribuicao segurado contribuinte individual seu servico descontando respectiva remuneracao recolher valor arrecadado juntamente com cargo ate dia vinte mes seguinte competencia util imediatamente anterior nao houver expediente bancario naquele redacao dada pela lei 933 2009 producao efeitos cooperativas trabalho arrecadarao social dos seus associados como recolherao subsequente que referir cooperativa pessoa juridica sao obrigadas efetuar inscricao instituto nacional seguro inss cooperados contratados respectivamente contribuintes individuais ainda inscritos disposto neste artigo aplica quando contratado por outro equiparado produtor rural fisica missao diplomatica reparticao consular carreira estrangeiras nem brasileiro civil trabalha exterior para organismo oficial internacional qual brasil membro efetivo",
+    "5": "art contribuinte individual que refere obrigado complementar diretamente contribuicao ate valor minimo mensal salario quando remuneracoes recebidas mes por servicos prestados pessoas juridicas forem inferiores este",
+    "6": "art percentual retencao valor bruto nota fiscal fatura prestacao servicos relativa prestados mediante cessao mao obra inclusive regime trabalho temporario cargo empresa contratante acrescido quatro tres dois pontos percentuais relativamente aos pelo segurado empregado cuja atividade permita concessao aposentadoria especial apos quinze vinte cinco anos contribuicao respectivamente producao efeito",
+    "7": "art nao poderao ser objeto parcelamento contribuicoes descontadas dos empregados inclusive domesticos trabalhadores avulsos contribuintes individuais decorrentes sub rogacao demais importancias forma legislacao previdenciaria",
+    "8": "art empresa que utiliza sistema processamento eletronico dados para registro negocios atividades economicas escrituracao livros producao documentos natureza contabil fiscal trabalhista previdenciaria obrigada arquivar conservar devidamente certificados respectivos sistemas arquivos meio digital assemelhado durante dez anos disposicao fiscalizacao",
+    "9": "art fica extinta escala transitoria salario base utilizada para fins enquadramento fixacao contribuicao dos contribuintes individual facultativo filiados regime geral previdencia social estabelecida pela lei 876 novembro 1999 producao efeito",
+    "10": "art aliquota contribuicao dois tres por cento destinada financiamento beneficio aposentadoria especial daqueles concedidos razao grau incidencia incapacidade laborativa decorrente dos riscos ambientais trabalho podera ser reduzida ate cinquenta aumentada cem conforme dispuser regulamento desempenho empresa relacao respectiva atividade economica apurado conformidade com resultados obtidos partir indices frequencia gravidade custo calculados segundo metodologia aprovada pelo conselho nacional previdencia social",
+    "11": "art ministerio previdencia social inss manterao programa permanente revisao concessao manutencao dos beneficios fim apurar irregularidades falhas existentes havendo indicio irregularidade beneficio notificara beneficiario para apresentar defesa provas documentos que dispuser prazo dez dias notificacao refere far por via postal com aviso recebimento nao comparecendo nem apresentando sera suspenso decorrido concedido pela sem tenha havido resposta caso seja considerada como insuficiente improcedente apresentada cancelado dando conhecimento decisao",
+    "12": "art para fins compensacao financeira entre regime geral previdencia social rgps proprio rpps uniao dos estados distrito federal municipios regimes instituidores apresentarao aos origem dados relativos beneficios manutencao maio 1999 concedidos partir outubro 1988 redacao dada pela lei 135 2015",
+    "13": "art aplicam disposto nesta lei que couber disposicoes legais pertinentes regime geral previdencia social",
+    "14": "art poder executivo regulamentara desta lei prazo trezentos sessenta dias",
+    "15": "art esta lei entra vigor data sua publicacao produzindo efeitos quanto aos arts partir abril 2003 brasilia maio 182o independencia 115o republica luiz inacio lula silva ricardo jose ribeiro berzoini este texto nao substitui publicado dou"
+  }
+}

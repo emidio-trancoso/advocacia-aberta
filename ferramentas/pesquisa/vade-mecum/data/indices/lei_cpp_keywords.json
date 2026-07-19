@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "CPP",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_cpp.json",
+      "colecao": "artigos",
+      "sha256": "da12b61edd3513c2b243fedc3348fdf419ad62655d597fe40220332e5611b69f",
+      "total_registros": 849,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 27,
+      "dispositivos_no_indice_curado": 822
+    }
+  },
+  "tokens": {
+    "3-A": "art processo penal tera estrutura acusatoria vedadas iniciativa juiz fase investigacao substituicao atuacao probatoria orgao acusacao incluido pela lei 964 2019 vigencia vide adi 298 300 305",
+    "3-B": "art juiz das garantias responsavel pelo controle legalidade investigacao criminal pela salvaguarda dos direitos individuais cuja franquia tenha sido reservada autorizacao previa poder judiciario competindo lhe especialmente incluido lei 964 2019 vigencia vide adi 298 299 300 305 receber comunicacao imediata prisao nos termos inciso lxii caput constituicao federal auto flagrante para observado disposto 310 deste codigo iii zelar observancia preso podendo determinar que este seja conduzido sua presenca qualquer tempo ser informado sobre instauracao decidir requerimento provisoria outra medida cautelar artigo prorrogar bem como substitui las revoga assegurado primeiro caso exercicio contraditorio audiencia publica oral forma neste legislacao especial pertinente vii producao antecipada provas consideradas urgentes nao repetiveis assegurados ampla defesa viii prazo duracao inquerito estando investigado vista razoes apresentadas autoridade policial trancamento quando houver fundamento razoavel prosseguimento requisitar documentos laudos informacoes delegado policia andamento requerimentos interceptacao telefonica fluxo comunicacoes sistemas informatica telematica outras formas afastamento sigilos fiscal bancario dados telefonico busca apreensao domiciliar acesso sigilosas outros meios obtencao prova restrinjam fundamentais xii julgar habeas corpus impetrado antes oferecimento denuncia xiii incidente insanidade mental xiv recebimento queixa 399 assegurar prontamente fizer necessario direito outorgado seu defensor todos elementos informativos produzidos ambito salvo concerne estritamente diligencias xvi deferir pedido admissao assistente tecnico acompanhar pericia xvii homologacao acordo persecucao penal colaboracao premiada formalizados durante xviii materias inerentes atribuicoes definidas por forca mandado sera encaminhado competente celebracao custodia vinte quatro horas momento realizara videoconferencia com ministerio publico defensoria advogado constituido estabelecida redacao dada 358 2026 estiver podera mediante representacao ouvido uma unica vez ate quinze dias apos ainda assim for concluida imediatamente relaxada",
+    "3-C": "art competencia juiz das garantias abrange todas infracoes penais exceto menor potencial ofensivo cessa com recebimento denuncia queixa forma 399 deste codigo incluido pela lei 964 2019 vigencia vide adi 298 299 300 305 recebida questoes pendentes serao decididas pelo instrucao julgamento decisoes proferidas nao vinculam que apos devera reexaminar necessidade medidas cautelares curso prazo maximo dez dias autos compoem materias ficarao acautelados secretaria desse juizo disposicao ministerio publico defesa apensados aos processo enviados ressalvados documentos relativos provas irrepetiveis obtencao antecipacao deverao ser remetidos para apensamento apartado fica assegurado partes amplo acesso",
+    "3-D": "art juiz que fase investigacao praticar qualquer ato incluido nas competencias dos arts deste codigo ficara impedido funcionar processo pela lei 964 2019 vigencia vide adi 298 299 300 305 paragrafo unico comarcas apenas tribunais criarao sistema rodizio magistrados fim atender disposicoes capitulo",
+    "3-E": "art juiz das garantias sera designado conforme normas organizacao judiciaria uniao dos estados distrito federal observando criterios objetivos serem periodicamente divulgados pelo respectivo tribunal incluido pela lei 964 2019 vigencia vide adi 298 299 300 305",
+    "3-F": "art juiz das garantias devera assegurar cumprimento regras para tratamento dos presos impedindo acordo ajuste qualquer autoridade com orgaos imprensa explorar imagem pessoa submetida prisao sob pena responsabilidade civil administrativa penal incluido pela lei 964 2019 vigencia vide adi 298 299 300 305 paragrafo unico por meio regulamento autoridades deverao disciplinar 180 cento oitenta dias modo pelo qual informacoes sobre realizacao identidade preso serao padronizado respeitada programacao normativa aludida caput deste artigo transmitidas assegurados efetividade persecucao direito informacao dignidade",
+    "498": "art 498 revogado pela lei 719 2008",
+    "499": "art 499 revogado pela lei 719 2008",
+    "500": "art 500 revogado pela lei 719 2008",
+    "501": "art 501 revogado pela lei 719 2008",
+    "502": "art 502 revogado pela lei 719 2008",
+    "503": "art 503 revogado pela lei 101 2005",
+    "504": "art 504 revogado pela lei 101 2005",
+    "505": "art 505 revogado pela lei 101 2005",
+    "506": "art 506 revogado pela lei 101 2005",
+    "507": "art 507 revogado pela lei 101 2005",
+    "508": "art 508 revogado pela lei 101 2005",
+    "509": "art 509 revogado pela lei 101 2005",
+    "510": "art 510 revogado pela lei 101 2005",
+    "511": "art 511 revogado pela lei 101 2005",
+    "512": "art 512 revogado pela lei 101 2005",
+    "556": "art 556 560 revogado pela lei 658 1993",
+    "632": "art 632 revogado pela lei 396 1958",
+    "633": "art 633 revogado pela lei 396 1958",
+    "634": "art 634 revogado pela lei 396 1958",
+    "635": "art 635 revogado pela lei 396 1958",
+    "636": "art 636 revogado pela lei 396 1958"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L12037",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l12037.json",
+      "colecao": "artigos",
+      "sha256": "2120ece939cfe65bfa89bab189fc0e6b3e66971c182b0af999a63fb870955a18",
+      "total_registros": 13,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 13,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art civilmente identificado nao sera submetido identificacao criminal salvo nos casos previstos nesta lei",
+    "2": "art identificacao civil atestada por qualquer dos seguintes documentos carteira identidade trabalho revogado pela medida provisoria 905 2019 iii profissional passaporte funcional outro documento publico que permita indiciado paragrafo unico para finalidades desta lei equiparam aos civis militares",
+    "3": "art embora apresentado documento identificacao podera ocorrer criminal quando apresentar rasura tiver indicio falsificacao for insuficiente para identificar cabalmente indiciado iii portar documentos identidade distintos com informacoes conflitantes entre essencial investigacoes policiais segundo despacho autoridade judiciaria competente que decidira oficio mediante representacao policial ministerio publico defesa constar registros uso outros nomes diferentes qualificacoes estado conservacao distancia temporal localidade expedicao impossibilite completa dos caracteres essenciais vii houver recebimento denuncia pelo juiz por incluido pela lei 295 2025 vigencia crime praticado grave violencia contra pessoa liberdade sexual vulneravel crimes crianca adolescente previstos nos arts 240 241 069 julho 1990 estatuto previsto 850 agosto 2013 organizacao criminosa utilizar sua disposicao armas fogo paragrafo unico copias apresentados deverao ser juntadas aos autos inquerito outra forma investigacao ainda consideradas insuficientes",
+    "4": "art quando houver necessidade identificacao criminal autoridade encarregada tomara providencias necessarias para evitar constrangimento identificado",
+    "5": "art identificacao criminal incluira processo datiloscopico fotografico que serao juntados aos autos comunicacao prisao flagrante inquerito policial outra forma investigacao paragrafo unico hipotese inciso podera incluir coleta material biologico para obtencao perfil genetico incluido pela lei 654 2012 nas hipoteses dos incisos vii caput 295 2025 vigencia nos casos decorrencia cometimento crimes referidos desta tambem sera realizada",
+    "5-A": "art dados relacionados coleta perfil genetico deverao ser armazenados banco perfis geneticos gerenciado por unidade oficial pericia criminal incluido pela lei 654 2012 informacoes geneticas contidas nos bancos nao poderao revelar tracos somaticos comportamentais das pessoas exceto determinacao genetica genero consoante normas constitucionais internacionais sobre direitos humanos genoma humano constantes dos terao carater sigiloso respondendo civil penal administrativamente aquele que permitir promover sua utilizacao para fins diversos previstos nesta decisao judicial obtidas partir coincidencia consignadas laudo pericial firmado perito devidamente habilitado",
+    "6": "art vedado mencionar identificacao criminal indiciado atestados antecedentes informacoes nao destinadas juizo antes transito julgado sentenca condenatoria",
+    "7": "art caso nao oferecimento denuncia sua rejeicao absolvicao facultado indiciado reu apos arquivamento definitivo inquerito transito julgado sentenca requerer retirada identificacao fotografica processo desde que apresente provas civil",
+    "7-A": "art exclusao dos perfis geneticos bancos dados ocorrera termino prazo estabelecido lei para prescricao delito incluido pela 654 2012",
+    "7-B": "art identificacao perfil genetico sera armazenada banco dados sigiloso conforme regulamento ser expedido pelo poder executivo incluido pela lei 654 2012",
+    "7-C": "art fica autorizada criacao ministerio justica seguranca publica banco nacional multibiometrico impressoes digitais incluido pela lei 964 2019 formacao gestao acesso serao regulamentados ato poder executivo federal tem como objetivo armazenar dados registros biometricos quando possivel iris face voz para subsidiar investigacoes criminais federais estaduais distritais sera integrado pelos colhidos por ocasiao identificacao criminal poderao ser dos presos provisorios definitivos nao tiverem sido extraidos integrar com ele interoperar constantes quaisquer bancos geridos orgaos poderes legislativo judiciario das esferas estadual distrital inclusive pelo tribunal superior eleitoral institutos civil caso natureza administrativa integracao compartilhamento limitado informacoes necessarias seu titular interoperacao multibiometricos outros ocorrera meio acordo convenio unidade gestora terao carater sigiloso aquele que permitir promover sua utilizacao fins diversos previstos nesta decisao judicial respondera penal administrativamente obtidas partir coincidencia relacionados crimes deverao consignadas laudo pericial firmado perito oficial habilitado vedada comercializacao total parcial base autoridade policial publico requerer juiz competente inquerito acao instaurados",
+    "8": "art esta lei entra vigor data sua publicacao",
+    "9": "art revoga lei 054 dezembro 2000 brasilia outubro 2009 188 independencia 121 republica jose alencar gomes silva luiz paulo teles ferreira barreto este texto nao substitui publicado dou"
+  }
+}

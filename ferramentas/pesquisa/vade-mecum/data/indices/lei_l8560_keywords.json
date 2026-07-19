@@ -1,0 +1,49 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L8560",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l8560.json",
+      "colecao": "artigos",
+      "sha256": "5484099e6528531957b29359da9b1bf8241e74cc2381819a699ddfd39cfd463f",
+      "total_registros": 11,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 11,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art reconhecimento dos filhos havidos fora casamento irrevogavel sera feito registro nascimento por escritura publica escrito particular ser arquivado cartorio iii testamento ainda que incidentalmente manifestado manifestacao expressa direta perante juiz nao haja sido objeto unico principal ato contem",
+    "2": "art registro nascimento menor apenas com maternidade estabelecida oficial remetera juiz certidao integral nome prenome profissao identidade residencia suposto pai fim ser averiguada oficiosamente procedencia alegacao sempre que possivel ouvira mae sobre paternidade alegada mandara qualquer caso notificar independente seu estado civil para manifeste lhe atribuida quando entender necessario determinara diligencia seja realizada segredo justica confirmar expressamente sera lavrado termo reconhecimento remetida devida averbacao nao atender prazo trinta dias notificacao judicial negar autos representante ministerio publico intente havendo elementos suficientes acao investigacao iniciativa conferida impede quem tenha legitimo interesse intentar visando obter pretendido nas hipoteses previstas deste artigo dispensavel ajuizamento pelo apos comparecimento recusa assumir ele crianca for encaminhada adocao redacao dada pela lei 010 2009 vigencia incluido",
+    "2-A": "art acao investigacao paternidade todos meios legais bem como moralmente legitimos serao habeis para provar verdade dos fatos incluido pela lei 004 2009 recusa reu submeter exame codigo genetico dna gerara presuncao ser apreciada conjunto com contexto probatorio renumerado paragrafo unico 138 2021 suposto pai houver falecido nao existir noticia seu paradeiro juiz determinara expensas autor realizacao pareamento parentes consanguineos preferindo grau mais proximo aos distantes importando",
+    "3": "art vedado legitimar reconhecer filho ata casamento paragrafo unico ressalvado direito averbar alteracao patronimico materno decorrencia termo nascimento",
+    "4": "art filho maior nao pode ser reconhecido sem seu consentimento",
+    "5": "art registro nascimento nao fara qualquer referencia natureza filiacao sua ordem relacao outros irmaos mesmo prenome exceto gemeos lugar cartorio casamento dos pais estado civil destes",
+    "6": "art das certidoes nascimento nao constarao indicios concepcao haver sido decorrente relacao extraconjugal devera constar qualquer caso estado civil dos pais natureza filiacao bem como lugar cartorio casamento proibida referencia presente lei sao ressalvadas autorizacoes requisicoes judiciais inteiro teor mediante decisao fundamentada assegurados direitos garantias interesses relevantes registrado",
+    "7": "art sempre que sentenca primeiro grau reconhecer paternidade nela fixarao alimentos provisionais definitivos reconhecido deles necessite",
+    "8": "art registros nascimento anteriores data presente lei poderao ser retificados por decisao judicial ouvido ministerio publico",
+    "9": "art esta lei entra vigor data sua publicacao",
+    "10": "art sao revogados arts 332 337 347 codigo civil demais disposicoes contrario brasilia dezembro 1992 171 independencia 104 republica itamar franco mauricio correa este texto nao substitui publicado dou"
+  }
+}

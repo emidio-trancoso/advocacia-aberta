@@ -1,0 +1,44 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L9029",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l9029.json",
+      "colecao": "artigos",
+      "sha256": "05ab788bff5c403afa45d17a3c396f374107b5e9d70d25ea5a29fe994f993792",
+      "total_registros": 6,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 6,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art fica proibida adocao qualquer pratica discriminatoria limitativa para efeito acesso relacao emprego sua manutencao por motivo sexo origem raca cor estado civil situacao familiar idade ressalvadas neste caso hipoteses protecao menor previstas inciso xxxiii constituicao federal",
+    "2": "art constituem crime seguintes praticas discriminatorias exigencia teste exame pericia laudo atestado declaracao qualquer outro procedimento relativo esterilizacao estado gravidez adocao quaisquer medidas iniciativa empregador que configurem inducao instigamento genetica promocao controle natalidade assim nao considerado oferecimento servicos aconselhamento planejamento familiar realizados atraves instituicoes publicas privadas submetidas normas sistema unico saude sus pena detencao dois anos multa paragrafo sao sujeitos ativos dos crimes refere este artigo pessoa fisica empregadora representante legal como definido legislacao trabalhista iii dirigente direto por delegacao orgaos publicos entidades das administracoes direta indireta fundacional poderes uniao estados distrito federal municipios",
+    "3": "art sem prejuizo prescrito artigo anterior infracoes disposto nesta lei sao passiveis das seguintes cominacoes",
+    "4": "art rompimento relacao trabalho por ato discriminatorio nos moldes desta lei faculta empregado optar entre",
+    "5": "art esta lei entra vigor data sua publicacao",
+    "6": "art revogam disposicoes contrario brasilia abril 1995 174 independencia 107 republica fernando henrique cardoso paulo paiva este texto nao substitui publicado dou"
+  }
+}

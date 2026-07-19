@@ -1,0 +1,61 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L8137",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l8137.json",
+      "colecao": "artigos",
+      "sha256": "ead536a365e87f119f64bf2dc0c448cf90f45403328029ddb8bcd00d5d18faec",
+      "total_registros": 23,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 23,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art constitui crime contra ordem tributaria suprimir reduzir tributo contribuicao social qualquer acessorio mediante seguintes condutas vide lei 964 2000 omitir informacao prestar declaracao falsa autoridades fazendarias fraudar fiscalizacao inserindo elementos inexatos omitindo operacao natureza documento livro exigido pela fiscal iii falsificar alterar nota fatura duplicata venda outro relativo tributavel elaborar distribuir fornecer emitir utilizar que saiba deva saber falso inexato negar deixar quando obrigatorio equivalente relativa mercadoria prestacao servico efetivamente realizada fornece desacordo com legislacao pena reclusao dois cinco anos multa paragrafo unico falta atendimento exigencia autoridade prazo dez dias podera ser convertido horas razao maior menor complexidade materia dificuldade quanto caracteriza infracao prevista inciso",
+    "2": "art constitui crime mesma natureza vide lei 964 2000 fazer declaracao falsa omitir sobre rendas bens fatos empregar outra fraude para eximir total parcialmente pagamento tributo deixar recolher prazo legal valor contribuicao social descontado cobrado qualidade sujeito passivo obrigacao que deveria aos cofres publicos iii exigir pagar receber contribuinte beneficiario qualquer percentagem parcela dedutivel deduzida imposto como incentivo fiscal aplicar desacordo com estatuido parcelas liberadas por orgao entidade desenvolvimento utilizar divulgar programa processamento dados permita tributaria possuir informacao contabil diversa daquela fornecida fazenda publica pena detencao seis meses dois anos multa",
+    "3": "art constitui crime funcional contra ordem tributaria alem dos previstos decreto lei 848 dezembro 1940 codigo penal titulo capitulo extraviar livro oficial processo fiscal qualquer documento que tenha guarda razao funcao sonega inutiliza total parcialmente acarretando pagamento indevido inexato tributo contribuicao social exigir solicitar receber para outrem direta indiretamente ainda fora antes iniciar seu exercicio mas dela vantagem indevida aceitar promessa tal deixar lancar cobrar cobra los pena reclusao tres oito anos multa iii patrocinar interesse privado perante administracao fazendaria valendo qualidade funcionario publico quatro",
+    "4": "art constitui crime contra ordem economica abusar poder economico dominando mercado eliminando total parcialmente concorrencia mediante ajuste acordo empresas aquisicao acervos cotas acoes titulos direitos coalizao incorporacao fusao integracao concentracao empresa coligadas controladas pessoas fisicas cessacao parcial das atividades impedimento constituicao funcionamento desenvolvimento concorrente formar convenio alianca entre ofertantes visando fixacao artificial precos quantidades vendidas produzidas controle regionalizado por grupo detrimento rede distribuicao fornecedores iii discriminar bens prestacao servicos ajustes com fim estabelecer monopolio eliminar acambarcar sonegar destruir inutilizar producao consumo provocar oscilacao vendedor materia prima outro meio fraudulento vender mercadorias abaixo preco custo impedir vii elevar sem justa causa valendo natural fato bem servico posicao dominante redacao dada pela lei 884 1994 pena reclusao dois cinco anos multa qualquer forma 529 2011 revogada revogado",
+    "5": "art constitui crime mesma natureza revogado pela lei 529 2011 exigir exclusividade propaganda transmissao difusao publicidade detrimento concorrencia subordinar venda bem utilizacao servico aquisicao outro uso determinado iii sujeitar quantidade arbitrariamente determinada recusar sem justa causa diretor administrador gerente empresa prestar autoridade competente presta modo inexato informando sobre custo producao preco pena detencao dois cinco anos multa paragrafo unico falta atendimento exigencia prazo dez dias que podera ser convertido horas razao maior menor complexidade materia dificuldade quanto caracteriza infracao prevista inciso",
+    "6": "art constitui crime mesma natureza revogado pela lei 529 2011 vender oferecer venda mercadoria contratar servico por preco superior oficialmente tabelado regime legal controle aplicar formula reajustamento precos indexacao contrato proibida diversa daquela que for legalmente estabelecida fixada autoridade competente iii exigir cobrar receber qualquer vantagem importancia adicional congelado administrado fixado controlado pelo poder publico inclusive meio adocao aumento taxa outro percentual incidente sobre contratacao pena detencao quatro anos multa",
+    "7": "art constitui crime contra relacoes consumo favorecer preferir sem justa causa comprador fregues ressalvados sistemas entrega por intermedio distribuidores revendedores vender expor venda mercadoria cuja embalagem tipo especificacao peso composicao esteja desacordo com prescricoes legais que nao corresponda respectiva classificacao oficial iii misturar generos mercadorias especies diferentes para vende los expo como puros qualidades desiguais preco estabelecido demais mais alto custo fraudar precos meio alteracao modificacao essencial qualidade elementos tais denominacao sinal externo marca tecnica descricao volume pintura acabamento bem servico divisao partes habitualmente oferecido conjunto juncao bens servicos comumente oferecidos separado aviso inclusao insumo empregado producao prestacao dos elevar valor cobrado nas vendas prazo mediante exigencia comissao taxa juros ilegais sonegar insumos recusando quem pretenda compra condicoes publicamente ofertadas rete fim especulacao vii induzir consumidor usuario erro via indicacao afirmacao falsa enganosa sobre natureza utilizando qualquer inclusive veiculacao divulgacao publicitaria viii destruir inutilizar danificar materia prima provocar alta proveito proprio terceiros ter deposito forma entregar improprias pena detencao dois cinco anos multa paragrafo unico hipoteses incisos pune modalidade culposa reduzindo terco quinta parte",
+    "8": "art nos crimes definidos arts desta lei pena multa sera fixada entre dez 360 trezentos sessenta dias conforme seja necessario suficiente para reprovacao prevencao crime paragrafo unico dia fixado pelo juiz valor nao inferior quatorze nem superior 200 duzentos bonus tesouro nacional btn",
+    "9": "art pena detencao reclusao podera ser convertida multa valor equivalente 200 000 duzentos mil ate cinco milhoes btn nos crimes definidos arts iii cinquenta milhao",
+    "10": "art caso juiz considerado ganho ilicito situacao economica reu verifique insuficiencia excessiva onerosidade das penas pecuniarias previstas nesta lei podera diminui las ate decima parte eleva decuplo",
+    "11": "art quem qualquer modo inclusive por meio pessoa juridica concorre para crimes definidos nesta lei incide nas penas estes cominadas medida sua culpabilidade paragrafo unico quando venda consumidor for efetuada sistema entrega consumo intermedio outro que preco estabelecido sugerido pelo fabricante concedente ato este praticado nao alcanca distribuidor revendedor",
+    "12": "art sao circunstancias que podem agravar terco ate metade penas previstas nos arts ocasionar grave dano coletividade ser crime cometido por servidor publico exercicio suas funcoes iii praticado relacao prestacao servicos comercio bens essenciais vida saude relacionado alcancados pelas imunidades tributarias dispostas inciso caput 150 constituicao federal incluido pela lei complementar 224 2025 producao efeitos",
+    "13": "art vetado",
+    "14": "art extingue punibilidade dos crimes definidos nos arts quando agente promover pagamento tributo contribuicao social inclusive acessorios antes recebimento denuncia revogado pela lei 383 1991",
+    "15": "art crimes previstos nesta lei sao acao penal publica aplicando lhes disposto 100 decreto 848 dezembro 1940 codigo",
+    "16": "art qualquer pessoa podera provocar iniciativa ministerio publico nos crimes descritos nesta lei fornecendo lhe por escrito informacoes sobre fato autoria bem como indicando tempo lugar elementos conviccao paragrafo unico previstos cometidos quadrilha autor participe que atraves confissao espontanea revelar autoridade policial judicial toda trama delituosa tera sua pena reduzida dois tercos incluido pela 080 1995",
+    "17": "art compete departamento nacional abastecimento precos quando necessario providenciar desapropriacao estoques fim evitar crise mercado colapso",
+    "18": "art fica acrescentado capitulo iii titulo decreto lei 848 dezembro 1940 codigo penal artigo com paragrafo unico apos 162 renumerando subsequentes seguinte redacao revogado pela 176 1991 163 produzir explorar bens definidos como pertencentes uniao sem autorizacao legal desacordo obrigacoes impostas pelo autorizativo pena detencao quatro anos multa incorre mesma aquele que adquirir transportar industrializar tiver consigo consumir comercializar produtos materia prima obtidos forma prevista caput",
+    "19": "art caput 172 decreto lei 848 dezembro 1940 codigo penal passa ter seguinte redacao emitir fatura duplicata nota venda que nao corresponda mercadoria vendida quantidade qualidade servico prestado pena detencao dois quatro anos multa",
+    "20": "art 316 decreto lei 848 dezembro 1940 codigo penal passa ter seguinte redacao funcionario exige tributo contribuicao social que sabe deveria saber indevido quando devido emprega cobranca meio vexatorio gravoso nao autoriza pena reclusao tres oito anos multa",
+    "21": "art 318 decreto lei 848 dezembro 1940 codigo penal quanto fixacao pena passa ter seguinte redacao reclusao tres oito anos multa",
+    "22": "art esta lei entra vigor data sua publicacao",
+    "23": "art revogam disposicoes contrario especial 279 decreto lei 848 dezembro 1940 codigo penal brasilia 1990 169 independencia 102 republica fernando collor jarbas passarinho zelia cardoso mello este texto nao substitui publicado dou"
+  }
+}

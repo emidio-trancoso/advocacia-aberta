@@ -1,0 +1,45 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L8142",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l8142.json",
+      "colecao": "artigos",
+      "sha256": "6a840220e553b471f338d8805ae289f5765cf869c14b02217a4e32ef2cb7f64b",
+      "total_registros": 7,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 7,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art sistema unico saude sus que trata lei 080 setembro 1990 contara cada esfera governo sem prejuizo das funcoes poder legislativo com seguintes instancias colegiadas conferencia conselho reunir quatro anos representacao dos varios segmentos sociais para avaliar situacao propor diretrizes formulacao politica nos niveis correspondentes convocada pelo executivo extraordinariamente por esta carater permanente deliberativo orgao colegiado composto representantes prestadores servico profissionais usuarios atua estrategias controle execucao instancia correspondente inclusive aspectos economicos financeiros cujas decisoes serao homologadas chefe legalmente constituido nacional secretarios conass municipais conasems terao conselhos conferencias sera paritaria relacao conjunto demais sua organizacao normas funcionamento definidas regimento proprio aprovadas respectivo",
+    "2": "art recursos fundo nacional saude fns serao alocados como despesas custeio capital ministerio seus orgaos entidades administracao direta indireta investimentos previstos lei orcamentaria iniciativa poder legislativo aprovados pelo congresso iii plano quinquenal cobertura das acoes servicos serem implementados pelos municipios estados distrito federal paragrafo unico referidos inciso deste artigo destinar rede assistencial ambulatorial hospitalar demais",
+    "3": "art recursos referidos inciso desta lei serao repassados forma regular automatica para municipios estados distrito federal acordo com criterios previstos 080 setembro 1990 enquanto nao for regulamentada aplicacao dos sera utilizado repasse exclusivamente criterio estabelecido mesmo artigo vide neste destinados pelo menos setenta por cento aos afetando restante poderao estabelecer consorcio execucao acoes servicos saude remanejando entre parcelas",
+    "4": "art para receberem recursos que trata desta lei municipios estados distrito federal deverao contar com fundo saude conselho composicao paritaria acordo decreto 438 agosto 1990 iii plano relatorios gestao permitam controle 080 setembro contrapartida respectivo orcamento comissao elaboracao carreira cargos salarios pccs previsto prazo dois anos sua implantacao paragrafo unico nao atendimento pelos pelo dos requisitos estabelecidos neste artigo implicara concernentes sejam administrados respectivamente pela uniao",
+    "5": "art ministerio saude mediante portaria ministro estado autorizado estabelecer condicoes para aplicacao desta lei",
+    "6": "art esta lei entra vigor data sua publicacao",
+    "7": "art revogam disposicoes contrario brasilia dezembro 1990 169 independencia 102 republica fernando collor alceni guerra este texto nao substitui publicado dou"
+  }
+}

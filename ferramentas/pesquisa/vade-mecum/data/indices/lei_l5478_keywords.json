@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L5478",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l5478.json",
+      "colecao": "artigos",
+      "sha256": "95696aada5b961657c17bc9e55230ecedcc1722de15f42445a93f2378b7864e0",
+      "total_registros": 29,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 29,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art acao alimentos rito especial independente previa distribuicao anterior concessao beneficio gratuidade sera determinada posteriormente por oficio juizo inclusive para fim registro feito parte que nao estiver condicoes pagar custas processo sem prejuizo sustento proprio sua familia gozara simples afirmativa dessas perante juiz sob pena pagamento ate decuplo das judiciais presume pobre prova contrario quem afirmar essa condicao nos termos desta lei impugnacao direito suspende curso feita autos apartados",
+    "2": "art credor pessoalmente por intermedio advogado dirigir juiz competente qualificando expora suas necessidades provando apenas parentesco obrigacao alimentar devedor indicando seu nome sobrenome residencia local trabalho profissao naturalidade quanto ganha aproximadamente recursos que dispoe dispensar producao inicial documentos probatorios quando existente notas registros reparticoes estabelecimentos publicos ocorrer impedimento demora extrair certidoes estiverem poder obrigado prestacoes alimenticias terceiro residente lugar incerto nao sabido ficam isentos reconhecimento firma comparecer indicar profissional haja concordado assisti designara desde logo quem deva fazer",
+    "3": "art pedido sera apresentado por escrito tres vias devera conter indicacao juiz quem for dirigido elementos referidos artigo anterior historico sumario dos fatos houver sido designado pelo defensor para assistir solicitante forma prevista formulara dentro vinte quatro horas nomeacao podendo achar conveniente indicar seja solicitacao verbal reduzida termo previsto paragrafo datadas assinadas escrivao observado que couber disposto caput presente",
+    "4": "art despachar pedido juiz fixara desde logo alimentos provisorios serem pagos pelo devedor salvo credor expressamente declarar que deles nao necessita paragrafo unico tratar pedidos conjuge casado regime comunhao universal bens determinara igualmente seja entregue mensalmente parte renda liquida dos comuns administrados",
+    "5": "art escrivao dentro quarenta oito horas remetera devedor segunda via peticao termo juntamente com copia despacho juiz comunicacao dia hora realizacao audiencia conciliacao julgamento designacao fixara prazo razoavel que possibilite reu contestacao acao proposta eventualidade citacao por edital sera feita mediante registro postal isento taxas aviso recebimento importa para todos efeitos legais criar embaracoes nao for encontrado repetir diligencia intermedio oficial justica servindo mandado terceira impossibilitada qualquer dos modos acima previstos ele citado afixado sede juizo publicado tres vezes consecutivas orgao estado correndo despesa conta vencido final sendo previamente juntada aos autos devera conter resumo pedido inicial integra nele exarado data autor notificado ato lavratura marcar oficiara empregador mesmo funcionario publico responsavel sua reparticao solicitando envio maximo ate marcada informacoes sobre salario vencimentos sob penas previstas desta lei nos casos arts 175 176 codigo processo civil far forma caso artigos 200 201 artigo redacao dada pela 014",
+    "6": "art audiencia conciliacao julgamento deverao estar presentes autor reu independentemente intimacao comparecimento seus representantes",
+    "7": "art nao comparecimento autor determina arquivamento pedido ausencia reu importa revelia alem confissao quanto materia fato",
+    "8": "art autor reu comparecerao audiencia acompanhados suas testemunhas tres maximo apresentando nessa ocasiao demais provas",
+    "9": "art aberta audiencia lida peticao termo contestacao houver dispensada leitura juiz ouvira partes litigantes representante ministerio publico propondo conciliacao",
+    "10": "art audiencia julgamento sera continua mas nao for possivel por motivo forca maior conclui mesmo dia juiz marcara sua continuacao para primeiro desimpedido independentemente novas intimacoes",
+    "11": "art terminada instrucao poderao partes ministerio publico aduzir alegacoes finais prazo nao excedente dez minutos para cada paragrafo unico seguida juiz renovara proposta conciliacao sendo aceita ditara sua sentenca que contera sucinto relatorio ocorrido audiencia",
+    "12": "art sentenca serao partes intimadas pessoalmente atraves seus representantes propria audiencia ainda quando ausentes desde que sua realizacao",
+    "13": "art disposto nesta lei aplica igualmente que couber acoes ordinarias desquite nulidade anulacao casamento revisao sentencas proferidas pedidos alimentos respectivas execucoes provisorios fixados inicial poderao ser revistos qualquer tempo houver modificacao situacao financeira das partes mas pedido sera sempre processado apartado caso retroagem data citacao serao devidos ate decisao final inclusive julgamento recurso extraordinario",
+    "14": "art decisao final juiz inclusive nos autos apartado cabera agravo peticao",
+    "15": "art decisao judicial sobre alimentos nao transita julgado pode qualquer tempo ser revista face modificacao situacao financeira dos interessados",
+    "16": "art execucao sentenca acordo nas acoes alimento sera observado disposto artigo 919 seu paragrafo unico codigo processo civil",
+    "17": "art quando nao for possivel efetivacao executiva sentenca acordo mediante desconto folha poderao ser prestacoes cobradas alugueres predios quaisquer outros rendimentos devedor que serao recebidos diretamente pelo alimentando por depositario nomeado juiz revogado pela lei 105 2015 vigencia",
+    "18": "art mesmo assim nao for possivel satisfacao debito alimenticio juiz aplicara disposto artigo 920 codigo processo civil",
+    "19": "art juiz para instrucao causa execucao sentenca acordo podera tomar todas providencias necessarias seu esclarecimento cumprimento julgado inclusive decretacao prisao devedor ate sessenta dias artigo 921 codigo processo civil decreto lei 608 setembro 1939 passa vigorar com seguinte redacao",
+    "20": "art reparticoes publicas civis militares inclusive imposto renda darao todas informacoes necessarias instrucao dos processos previstos nesta lei execucao que for decidido acordado juizo",
+    "21": "art 244 codigo penal passa vigorar com seguinte redacao deixar sem justa causa prover subsistencia conjuge filho menor anos inapto para trabalho ascendente invalido valetudinario nao lhes proporcionando recursos necessarios faltando pagamento pensao alimenticia judicialmente acordada fixada majorada socorrer descendente gravemente enfermo pena detencao ano quatro multa uma dez vezes maior salario minimo vigente pais paragrafo unico nas mesmas penas incide quem sendo solvente frustra ilide qualquer modo inclusive por abandono injustificado emprego funcao",
+    "22": "art constitui crime contra administracao justica deixar empregador funcionario publico prestar juizo competente informacoes necessarias instrucao processo execucao sentenca acordo que fixe pensao alimenticia pena detencao seis meses ano sem prejuizo acessoria suspensao emprego trinta noventa dias paragrafo unico nas mesmas penas incide quem qualquer modo ajuda devedor eximir pagamento judicialmente acordada fixada majorada recusa procrastina executar ordem descontos folhas expedida pelo juiz",
+    "23": "art prescricao quinquenal referida 178 inciso codigo civil alcanca prestacoes mensais nao direito alimentos que embora irrenunciavel pode ser provisoriamente dispensado",
+    "24": "art parte responsavel pelo sustento familia que deixar residencia comum por motivo nao necessitara declarar podera tomar iniciativa comunicar juizo rendimentos dispoe pedir citacao credor para comparecer audiencia conciliacao julgamento destinada fixacao dos alimento esta obrigado",
+    "25": "art prestacao nao pecuniaria estabelecida 403 codigo civil pode ser autorizada pelo juiz ela anuir alimentado capaz",
+    "26": "art competente para acoes alimentos decorrentes aplicacao decreto legislativo novembro 1958 826 setembro 1965 juizo federal capital unidade federativa brasileira que reside devedor sendo considerada instituicao intermediaria fins dos referidos decretos procuradoria geral republica paragrafo unico nos termos inciso iii convencao internacional sobre governo brasileiro comunicara sem demora secretario das nacoes unidas disposto neste artigo",
+    "27": "art aplicam supletivamente nos processos regulados por esta lei disposicoes codigo processo civil",
+    "28": "art esta lei entrara vigor trinta dias depois sua publicacao",
+    "29": "art revogam disposicoes contrario brasilia julho 1968 147 independencia republica costa silva luis antonio gama este texto nao substitui publicado dou retificado republicado 1974"
+  }
+}

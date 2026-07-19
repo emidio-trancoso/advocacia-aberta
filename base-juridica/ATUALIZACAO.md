@@ -48,10 +48,15 @@ O manifesto versionado está em [fontes.json](fontes.json), validado pelo contra
 | Jurisprudência em Teses | páginas de cada edição no STJ | índice e edições de `1` até a mais recente observada | extrai edição, título, data, enunciados, julgados e links para o PDF oficial |
 | Temas repetitivos | Portal de Dados Abertos do STJ | metadados CKAN, `Temas.csv` e `Processos.csv` | relaciona os CSVs por `sequencialPrecedente` e produz questões, teses, processo representativo e links |
 
-Os índices `sumulas_keywords.json` e `sumulas_stf_keywords.json` são enriquecimentos
-derivados, não fontes jurídicas. Desde o `BASE-010`, eles são produzidos localmente a
-partir dos enunciados publicados, sem modelo ou prompt externo. Algoritmo, parâmetros,
-fontes, relação 1:1 e data estão em
+Os índices `sumulas_keywords.json` e `sumulas_stf_keywords.json` (súmulas,
+`BASE-010`) e os 270 arquivos `indices/lei_*_keywords.json` (legislação,
+`BASE-019`) são enriquecimentos derivados, não fontes jurídicas. Eles são
+produzidos localmente a partir dos textos publicados, sem modelo ou prompt
+externo. No índice de legislação, cada diploma tem um arquivo com os tokens dos
+dispositivos que o índice curado preservado (`indexes.keywords`) não cobre; a
+união dos dois cobre todos os dispositivos em relação 1:1, e as stopwords são
+preservadas para que o ranking reproduza a busca em texto integral do motor.
+Algoritmos, parâmetros, fontes, relação 1:1 e data estão em
 [`indices-derivados.json`](indices-derivados.json).
 
 Para conferir que os arquivos publicados correspondem exatamente ao processo
@@ -61,7 +66,8 @@ versionado:
 python3 ferramentas/manutencao/gerar_indices_derivados.py --verificar
 ```
 
-Depois de revisar uma atualização das súmulas, regenere os índices com:
+Depois de revisar uma atualização das súmulas **ou promover qualquer mudança de
+legislação**, regenere os índices com:
 
 ```bash
 python3 ferramentas/manutencao/gerar_indices_derivados.py --escrever
@@ -69,7 +75,10 @@ python3 ferramentas/manutencao/gerar_indices_derivados.py --escrever
 
 Cada saída registra o SHA-256 da fonte, o total de registros, a versão do gerador e os
 parâmetros. Alterar o algoritmo exige nova versão no manifesto e revisão das diferenças
-antes da promoção.
+antes da promoção. O auditor estrutural acusa como P0 um índice de legislação
+ausente ou dessincronizado do diploma (comparação de SHA-256), então o CI
+bloqueia promoções que esqueçam a regeneração — artigos novos nunca mais ficam
+invisíveis à busca.
 
 ## Expansão da legislação
 
@@ -95,8 +104,9 @@ contagens, sequência de numeração, cabeçalho oficial contra o manifesto e os
 dispositivos excluídos por pertencerem a outra norma.
 `gerar_expansao_legislacao.py --verificar` confere a sincronia
 (manifesto ↔ `fontes.json` ↔ registro do motor ↔ `data/`) e roda nos testes.
-Depois da promoção de cada fatia, atualize os fixtures de cobertura, acrescente
-consultas julgadas à avaliação e registre a fatia no catálogo.
+Depois da promoção de cada fatia, regenere os índices derivados
+(`gerar_indices_derivados.py --escrever`), atualize os fixtures de cobertura,
+acrescente consultas julgadas à avaliação e registre a fatia no catálogo.
 
 ## Monitoramento de mudanças
 
@@ -212,9 +222,12 @@ Se o gate volumétrico for acionado, examine os IDs alterados e acrescente
 `--aceitar-mudanca-volumosa` somente depois de confirmar que a mudança em massa é
 intencional.
 
-Depois da promoção, execute a auditoria e os testes do motor:
+Depois da promoção, regenere os índices derivados (obrigatório para súmulas e
+legislação; a auditoria acusa índice dessincronizado) e execute a auditoria e
+os testes do motor:
 
 ```bash
+python3 ferramentas/manutencao/gerar_indices_derivados.py --escrever
 python3 ferramentas/manutencao/auditar_base_juridica.py --strict
 python3 -m unittest discover -s ferramentas/manutencao/tests -p 'test_*.py'
 cd ferramentas/pesquisa/vade-mecum

@@ -1,0 +1,49 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L3207",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l3207.json",
+      "colecao": "artigos",
+      "sha256": "f2adbf55b446592209661b8c3f3f78605cedaf29955b0fb2f5a705f6f8128691",
+      "total_registros": 11,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 11,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art atividades dos empregados vendedores viajantes pracistas serao reguladas pelos preceitos desta lei sem prejuizo das normas estabelecidas consolidacao leis trabalho decreto numero 452 maio 1943 que lhes for aplicavel",
+    "2": "art empregado vendedor tera direito comissao avencada sobre vendas que realizar caso lhe ter sido reservada expressamente com exclusividade uma zona trabalho esse ali realizadas diretamente pela empresa por preposto desta podera ser ampliada restringida acordo necessidade respeitados dispositivos lei quanto irredutibilidade remuneracao sempre conveniencia empregadora for viajante transferido reducao vantagens assegurado como minimo salario correspondente media dos doze ultimos meses anteriores transferencia",
+    "3": "art transacao sera considerada aceita empregador nao recusar por escrito dentro dez dias contados data proposta tratando ser concluida com comerciante empresa estabelecida noutro estado estrangeiro prazo para aceitacao recusa venda noventa podendo ainda prorrogado tempo determinado mediante comunicacao escrita feita empregado",
+    "4": "art pagamento comissoes percentagem devera ser feito mensalmente expedindo empresa fim cada mes conta respectiva com copias das faturas correspondentes aos negocios concluidos paragrafo unico ressalva partes interessadas fixar outra epoca para percentagens que entanto nao podera exceder trimestre contado aceitacao negocio sendo sempre obrigatoria expedicao pela referida neste artigo",
+    "5": "art nas transacoes que empresa obrigar por prestacoes sucessivas pagamento das comissoes percentagens sera exigivel acordo com ordem recebimento mesmas",
+    "6": "art cessacao das relacoes trabalho inexecucao voluntaria negocio pelo empregador nao prejudicara percepcao comissoes percentagens devidas",
+    "7": "art verificada insolvencia comprador cabe empregador direito estornar comissao que houver pago",
+    "8": "art quando for prestado servico inspecao fiscalizacao pelo empregado vendedor ficara empresa vendedora obrigada pagamento adicional decimo remuneracao atribuida mesmo",
+    "9": "art empregado vendedor viajante nao podera permanecer viagem por tempo superior seis meses consecutivos seguida cada havera intervalo para descanso calculado base tres dias mes realizada podendo porem ultrapassar limite quinze",
+    "10": "art caracterizada relacao emprego aplicam preceitos desta lei quantos exercerem funcoes iguais semelhantes equivalentes aos empregados viajantes embora sob outras designacoes",
+    "11": "art esta lei entrara vigor data sua publicacao revogadas disposicoes contrario rio janeiro julho 1957 136 independencia republica juscelino kubitschek parsifal barroso este texto nao substitui publicado dou"
+  }
+}

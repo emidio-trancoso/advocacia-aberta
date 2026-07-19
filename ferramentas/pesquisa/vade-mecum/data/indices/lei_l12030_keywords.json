@@ -1,0 +1,44 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L12030",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l12030.json",
+      "colecao": "artigos",
+      "sha256": "3224d7f992ef71088d8387ef2a3268743b96aef7d816f27294c1dd729b3cb0e1",
+      "total_registros": 6,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 6,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art esta lei estabelece normas gerais para pericias oficiais natureza criminal",
+    "2": "art exercicio atividade pericia oficial natureza criminal assegurado autonomia tecnica cientifica funcional exigido concurso publico com formacao academica especifica para provimento cargo perito",
+    "3": "art razao exercicio das atividades pericia oficial natureza criminal peritos estao sujeitos regime especial trabalho observada legislacao especifica cada ente que encontrem vinculados",
+    "4": "art vetado",
+    "5": "art observado disposto legislacao especifica cada ente que perito encontra vinculado sao peritos natureza criminal criminais medico legistas odontolegistas com formacao superior detalhada regulamento acordo necessidade orgao por area atuacao profissional",
+    "6": "art esta lei entra vigor noventa dias apos data sua publicacao brasilia setembro 2009 188o independencia 121o republica luiz inacio lula silva tarso genro paulo bernardo este texto nao substitui publicado dou"
+  }
+}

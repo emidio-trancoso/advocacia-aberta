@@ -1,0 +1,40 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L12506",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l12506.json",
+      "colecao": "artigos",
+      "sha256": "3aaf56cb60561763ffa1147f8c6ce972fcb3d9d051b82f0b0236edfcf751ab16",
+      "total_registros": 2,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 2,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art aviso previo que trata capitulo titulo consolidacao das leis trabalho clt aprovada pelo decreto lei 452 maio 1943 sera concedido proporcao trinta dias aos empregados contem ate ano servico mesma empresa paragrafo unico previsto neste artigo serao acrescidos tres por prestado maximo sessenta perfazendo total noventa",
+    "2": "art esta lei entra vigor data sua publicacao brasilia outubro 2011 190 independencia 123 republica dilma rousseff jose eduardo cardozo guido mantega carlos lupi fernando damata pimentel miriam belchior garibaldi alves filho luis inacio lucena adams este texto nao substitui publicado dou"
+  }
+}

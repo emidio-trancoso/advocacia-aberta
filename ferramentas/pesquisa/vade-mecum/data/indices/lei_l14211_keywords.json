@@ -1,0 +1,42 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L14211",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l14211.json",
+      "colecao": "artigos",
+      "sha256": "a7995e71f75aab3b2da9786e27e8f98e3e1777a67d8b6d58d0d44c1f888a6e6d",
+      "total_registros": 4,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 4,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art lei 737 julho 1965 codigo eleitoral passa vigorar com seguintes alteracoes competencia normativa regulamentar prevista paragrafo unico inciso caput deste restringe materias especificamente autorizadas sendo vedado tribunal superior tratar materia relativa organizacao dos partidos politicos facultado aos celebrar coligacoes registro candidatos eleicoes majoritarias 107 determina para cada partido quociente partidario dividindo pelo numero votos validos dados sob mesma legenda desprezada fracao 108 estarao eleitos entre registrados por que tenham obtido igual dez cento tantos quantos respectivo indicar ordem votacao nominal tenha recebido 109 dividir atribuidos lugares ele mais cabendo apresentar maior media preencher desde candidato atenda exigencia minima iii quando nao houver atendam duas exigencias cadeiras serao distribuidas apresentarem maiores medias preenchimento for contemplado far segundo recebida seus poderao concorrer distribuicao todos participaram pleito menos oitenta vinte desse 111 nenhum alcancar considerar ate serem preenchidos votados",
+    "2": "art lei 504 setembro 1997 das eleicoes passa vigorar com seguintes alteracoes facultado aos partidos politicos dentro mesma circunscricao celebrar coligacoes para eleicao majoritaria cada partido podera registrar candidatos camara dos deputados legislativa assembleias legislativas camaras municipais total ate 100 cem por cento numero lugares preencher mais revogado vetado majoritarias serao registrados legenda respectivo nas proporcionais debates deverao ser organizados modo que assegurem presenca equivalente todos mesmo cargo eletivo poderao desdobrar dia respeitada proporcao homens mulheres estabelecida desta realizarem primeiro turno consideradas aprovadas regras inclusive definirem participantes obtiverem concordancia pelo menos dois tercos aptos caso proporcional noventa distribuidos proporcionalmente representantes considerado coligacao resultado soma seis maiores integrem",
+    "3": "art revogam 105 lei 737 julho 1965 codigo eleitoral incisos 504 setembro 1997",
+    "4": "art esta lei entra vigor data sua publicacao brasilia outubro 2021 200o independencia 133o republica jair messias bolsonaro ciro nogueira lima filho este texto nao substitui publicado dou edicao extra"
+  }
+}

@@ -1,5 +1,15 @@
 #!/usr/bin/env python3
-"""Gera índices locais de palavras-chave a partir dos enunciados publicados."""
+"""Gera índices locais de palavras-chave a partir dos textos publicados.
+
+Duas famílias de saída, ambas determinísticas e sem modelo de linguagem:
+
+- súmulas (`tokens-significativos-v1`): tokens dos enunciados, sem stopwords,
+  um arquivo derivado por conjunto;
+- legislação (`tokens-texto-integral-v1`): tokens dos dispositivos que o índice
+  curado (`indexes.keywords`) não cobre, preservando as stopwords para manter
+  fidelidade à busca em texto integral do motor; um arquivo derivado por
+  diploma em `data/indices/`.
+"""
 
 from __future__ import annotations
 
@@ -35,12 +45,18 @@ def carregar_json(path: Path) -> dict[str, Any]:
 
 def carregar_manifesto(path: Path = MANIFESTO_PADRAO) -> dict[str, Any]:
     dados = carregar_json(path)
-    if dados.get("schema_version") != 1:
+    if dados.get("schema_version") != 2:
         raise ValueError("versão desconhecida do manifesto de índices")
     gerador = dados.get("gerador", {})
     if gerador.get("algoritmo") != "tokens-significativos-v1":
         raise ValueError("algoritmo de índices não suportado")
     if gerador.get("modelo") is not None or gerador.get("prompt") is not None:
+        raise ValueError("o gerador local não aceita modelo ou prompt externos")
+    legislacao = dados.get("legislacao", {})
+    if legislacao.get("gerador", {}).get("algoritmo") != "tokens-texto-integral-v1":
+        raise ValueError("algoritmo de índices de legislação não suportado")
+    gerador_leg = legislacao["gerador"]
+    if gerador_leg.get("modelo") is not None or gerador_leg.get("prompt") is not None:
         raise ValueError("o gerador local não aceita modelo ou prompt externos")
     return dados
 
@@ -63,6 +79,25 @@ def tokens_significativos(textos: list[str], tamanho_minimo: int) -> list[str]:
                 continue
             vistos.add(token)
             tokens.append(token)
+    return tokens
+
+
+def tokens_texto_integral(texto: str, tamanho_minimo: int) -> list[str]:
+    """Tokens do texto sem remover stopwords, na ordem da primeira ocorrência.
+
+    As stopwords são preservadas porque o motor casa as palavras da consulta
+    contra estes tokens exatamente como a busca em texto integral casaria
+    contra o texto publicado; removê-las mudaria ranking e piso de corte.
+    Tokens abaixo do tamanho mínimo nunca casariam com uma palavra de consulta
+    (o motor descarta palavras com menos de três caracteres) e ficam de fora.
+    """
+    vistos: set[str] = set()
+    tokens: list[str] = []
+    for token in TOKEN_RE.findall(normalizar(texto)):
+        if len(token) < tamanho_minimo or token in vistos:
+            continue
+        vistos.add(token)
+        tokens.append(token)
     return tokens
 
 
@@ -125,14 +160,93 @@ def gerar_conjunto(
     return destino_path, saida
 
 
+def numeros_no_indice_curado(dados: dict[str, Any]) -> set[str]:
+    curado = (dados.get("indexes") or {}).get("keywords") or {}
+    numeros: set[str] = set()
+    for lista in curado.values():
+        numeros.update(str(numero) for numero in lista)
+    return numeros
+
+
+def gerar_diploma(
+    manifesto: dict[str, Any],
+    fonte_path: Path,
+) -> tuple[Path, dict[str, Any]]:
+    config = manifesto["legislacao"]
+    fonte = carregar_json(fonte_path)
+    artigos = fonte["artigos"]
+    curados = numeros_no_indice_curado(fonte)
+    fantasmas = curados - set(artigos)
+    if fantasmas:
+        raise ValueError(
+            f"{fonte_path.name}: índice curado aponta dispositivos inexistentes: "
+            + ", ".join(sorted(fantasmas))
+        )
+
+    tamanho_minimo = int(config["gerador"]["parametros"]["tamanho_minimo_token"])
+    tokens: dict[str, str] = {}
+    for numero, artigo in artigos.items():
+        if numero in curados:
+            continue
+        encontrados = tokens_texto_integral(str(artigo["texto"]), tamanho_minimo)
+        if not encontrados:
+            raise ValueError(f"{fonte_path.name}:{numero} não produziu token")
+        tokens[numero] = " ".join(encontrados)
+
+    meta_fonte = fonte.get("_meta", {})
+    destino = fonte_path.parent / config["subdiretorio_destino"] / (
+        fonte_path.stem + config["sufixo_destino"]
+    )
+    saida = {
+        "_meta": {
+            "schema_version": 2,
+            "tipo": "indice_derivado",
+            "codigo": meta_fonte.get("codigo"),
+            "gerado_em": config["gerado_em"],
+            "gerador": config["gerador"],
+            "fonte": {
+                "arquivo": fonte_path.name,
+                "colecao": "artigos",
+                "sha256": sha256(fonte_path),
+                "total_registros": len(artigos),
+                "gerado_em": meta_fonte.get("gerado_em"),
+            },
+            "relacao": {
+                "chave": "numero",
+                "cobertura": (
+                    "complementar ao índice curado indexes.keywords; "
+                    "a união cobre todos os dispositivos publicados (1:1)"
+                ),
+                "dispositivos_indexados": len(tokens),
+                "dispositivos_no_indice_curado": len(curados),
+            },
+        },
+        "tokens": tokens,
+    }
+    return destino, saida
+
+
+def gerar_legislacao(
+    manifesto: dict[str, Any],
+) -> list[tuple[Path, dict[str, Any]]]:
+    config = manifesto["legislacao"]
+    diretorio = ROOT / manifesto["diretorio_dados"]
+    fontes = sorted(diretorio.glob(config["padrao_fonte"]))
+    if not fontes:
+        raise ValueError("nenhum diploma encontrado para indexar")
+    return [gerar_diploma(manifesto, fonte_path) for fonte_path in fontes]
+
+
 def gerar_todos(
     manifesto_path: Path = MANIFESTO_PADRAO,
 ) -> list[tuple[Path, dict[str, Any]]]:
     manifesto = carregar_manifesto(manifesto_path)
-    return [
+    saidas = [
         gerar_conjunto(manifesto, nome, config)
         for nome, config in manifesto["conjuntos"].items()
     ]
+    saidas.extend(gerar_legislacao(manifesto))
+    return saidas
 
 
 def serializar(objeto: dict[str, Any]) -> str:
@@ -141,6 +255,7 @@ def serializar(objeto: dict[str, Any]) -> str:
 
 def escrever(manifesto_path: Path) -> int:
     for destino, objeto in gerar_todos(manifesto_path):
+        destino.parent.mkdir(parents=True, exist_ok=True)
         destino.write_text(serializar(objeto), encoding="utf-8")
         print(f"Gerado: {destino.relative_to(ROOT)}")
     return 0

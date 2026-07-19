@@ -1,0 +1,58 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L6996",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l6996.json",
+      "colecao": "artigos",
+      "sha256": "d042a010ba503033253a3ba91cff1b9aef1380259aa551c24dadf4c66aba644c",
+      "total_registros": 20,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 20,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art tribunais regionais eleitorais nos estados que for autorizado pelo tribunal superior eleitoral poderao utilizar processamento eletronico dados servicos forma prevista nesta lei autorizacao sera solicitada regional interessado previamente ouvira partidos politicos pedido podera referir alistamento votacao apuracao apenas uma dessas fases todo estado determinadas zonas parte destas",
+    "2": "art concedida autorizacao tribunal regional eleitoral conformidade com condicoes peculiaridades locais executara servicos processamento eletronico dados diretamente mediante convenio contrato que trata este artigo deverao ser executados acordo definicoes especificacoes fixadas pelo superior nao poderao contratados entidades administracao direta indireta dos estados municipios empresas cuja maioria capital for detido por pessoa fisica juridica estabelecida exterior revogado pela lei 444 1985",
+    "3": "art setor secretaria tribunal regional eleitoral responsavel pelos servicos processamento eletronico dados compete preencher formulas dos titulos documentos eleitorais confeccionar relacoes eleitores destinadas aos cartorios partidos politicos iii manter atualizado cadastro geral estado filiacao partidaria expedindo justica expedir comunicacoes padronizadas previamente programadas nos processos alistamento transferencia cancelamento inscricoes contar votos totalizar resultados apurados boletins destinados vii calcular quociente partidario distribuicao sobras indicando eleitos viii diplomas com finais cada pleito executar outras tarefas que lhe forem atribuidas por instrucoes superior",
+    "4": "art alistamento faz mediante inscricao eleitor paragrafo unico para efeito domicilio eleitoral lugar residencia moradia requerente verificado ter alistando mais uma considerar qualquer delas",
+    "5": "art alistando apresentara cartorio local previamente designado requerimento formulario que obedecera modelo aprovado pelo tribunal superior eleitoral paragrafo unico escrivao funcionario preparador recebendo documentos determinara date assine ato continuo atestara terem sido data assinatura lancadas sua presenca",
+    "6": "art pedido inscricao eleitor sera instruido com dos seguintes documentos carteira identidade certificado quitacao servico militar iii emitida pelos orgaos criados por lei federal controladores exercicio profissional certidao idade extraida registro civil instrumento publico qual infira direito ter requerente superior dezoito anos conste tambem demais elementos necessarios sua qualificacao documento nacionalidade brasileira originaria adquirida restituicao qualquer nao podera ser feita antes despachado requerimento pelo juiz eleitoral sempre que for apresentada copia original devolvido ato autenticacao proprio funcionario cartorio mediante aposicao assinatura verso apresentado autenticada tabeliao dispensando nessa hipotese nova conferencia",
+    "7": "art despachado requerimento inscricao pelo juiz eleitoral setor secretaria tribunal regional responsavel pelos servicos processamento eletronico dados enviara cartorio que fornecera aos partidos politicos relacoes dos eleitores inscritos originariamente por transferencia com respectivos enderecos assim como pedidos indeferidos convertidos diligencia despacho indeferir cabera recurso interposto alistando prazo cinco dias deferir podera recorrer qualquer delegado partido politico dez refere caput deste artigo serao fornecidas nos primeiro quinze cada mes dia util seguinte datas comecarao correr prazos mencionados paragrafo anterior ainda tenham sido exibidas antes dessas mesmo nao retirem",
+    "8": "art transferencia eleitor sera admitida satisfeitas seguintes exigencias entrada requerimento cartorio eleitoral novo domicilio ate 100 cem dias antes data eleicao transcurso pelo menos ano inscricao anterior iii residencia minima tres meses declarada sob penas lei proprio paragrafo unico disposto nos incisos deste artigo nao aplica titulo servidor publico civil militar autarquico membro sua familia por motivo remocao",
+    "9": "art nas zonas eleitorais que alistamento fizer pelo processamento eletronico dados sera cancelada inscricao eleitor nao votar pagar multa justificar prazo seis meses contar data eleicao revogado pela lei 663 1988 paragrafo unico sem prova votou ultima pagou respectiva justificou devidamente podera ser investido empossado cargo funcao publica receber vencimentos remuneracao salario proventos emprego publico autarquico paraestatal bem como empresas publicas fundacoes mantidas instituidas poder correspondentes segundo mes subsequente iii firmar pessoa fisica quaisquer contratos prestacao servicos perante orgaos entidades uniao dos estados territorios municipios obter passaporte",
+    "10": "art votacao podera ser utilizada cedula acordo com modelo aprovado pelo tribunal superior eleitoral",
+    "11": "art tribunal superior eleitoral estabelecera numero eleitores das secoes eleitorais funcao cabinas nelas existentes paragrafo unico cada secao tera minimo duas",
+    "12": "art nas secoes das zonas eleitorais que alistamento fizer pelo processamento eletronico dados folhas individuais votacao serao substituidas por listas eleitores emitidas computador quais constarao alem nome eleitor qualificacao indicados tribunal superior eleitoral somente poderao votar fora respectiva secao mesarios candidatos fiscais delegados partidos politicos desde municipio posse titulo ainda nao esteja seu sera admitido seja inscrito conste lista dos exiba documento comprove sua identidade votos mencionados nos paragrafos anteriores tomados separado voto recolhido involucro especial quando houver duvida quanto inscricao constar apresentar correspondente validade mesmo examinada conjunto pela junta apuradora independentemente apuracao contidos urnas",
+    "13": "art tribunal superior eleitoral podera autorizar criacao juntas apuradoras regionais nos termos das instrucoes que baixar",
+    "14": "art apuracao podera ser iniciada partir recebimento primeira urna prolongando pelo tempo necessario observado prazo maximo dez dias paragrafo unico ultrapassada fase abertura cedulas programadas para atraves computacao serao eletronicamente processadas caso que partidos poderao manter fiscais nos locais destinados esse fim",
+    "15": "art incorrera nas penas 315 codigo eleitoral quem processamento eletronico das cedulas alterar resultados qualquer que seja metodo utilizado",
+    "16": "art nos estados que for utilizado processamento eletronico dados alistamento filiacao partidaria far formulario proprio substituira fichas revogado pela lei 096 1995 deferida comissao executiva prazo tres dias enviara justica eleitoral estando vigor inscricao sera emitido por processo cartao filiado para eleitor incluido seu nome nas relacoes destinadas partido politico cartorio",
+    "17": "art arts paragrafo unico desta lei tambem serao aplicados nas zonas eleitorais que alistamento continuar ser efetuado forma prevista codigo eleitoral",
+    "18": "art tribunal superior eleitoral expedira instrucoes que fizerem necessarias para cumprimento desta lei inclusive divulgando entre partidos politicos juizes cartorios eleitorais manuais procedimentos detalhando nova sistematica",
+    "19": "art esta lei entra vigor data sua publicacao",
+    "20": "art revogam disposicoes contrario brasilia junho 1982 161 independencia republica joao figueiredo ibrahim abi ackel este texto nao substitui publicado dou"
+  }
+}

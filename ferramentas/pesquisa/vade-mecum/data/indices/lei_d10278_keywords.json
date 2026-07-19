@@ -1,0 +1,51 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "D10278",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_d10278.json",
+      "colecao": "artigos",
+      "sha256": "14f169ef7c7924f3ff229c568a6428359793a22627b6cac0d1fe5130f09a98e7",
+      "total_registros": 13,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 13,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art este decreto regulamenta disposto inciso caput lei 874 setembro 2019 682 julho 2012 para estabelecer tecnica requisitos digitalizacao documentos publicos privados fim que digitalizados produzam mesmos efeitos legais dos originais ambito aplicacao",
+    "2": "art aplica disposto neste decreto aos documentos fisicos digitalizados que sejam produzidos por pessoas juridicas direito publico interno ainda envolva relacoes com particulares privado naturais para comprovacao perante outras paragrafo unico nao nato digitais sao originalmente formato digital referentes operacoes transacoes realizadas sistema financeiro nacional iii microfilme audiovisuais identificacao porte obrigatorio definicoes",
+    "3": "art para fins disposto neste decreto considera documento digitalizado representante digital processo digitalizacao fisico seus metadados dados estruturados que permitem classificar descrever gerenciar documentos iii publico produzidos recebidos por pessoas juridicas direito interno entidades privadas encarregadas gestao servicos publicos integridade estado dos nao foram corrompidos alterados forma autorizada regras gerais",
+    "4": "art procedimentos tecnologias utilizados digitalizacao documentos fisicos devem assegurar integridade confiabilidade documento digitalizado rastreabilidade auditabilidade dos empregados iii emprego padroes tecnicos para garantir qualidade imagem legibilidade uso confidencialidade quando aplicavel interoperabilidade entre sistemas informatizados requisitos que envolva entidades publicas",
+    "5": "art documento digitalizado destinado equiparar fisico para todos efeitos legais comprovacao qualquer ato perante pessoa juridica direito publico interno devera ser assinado digitalmente com certificacao digital padrao infraestrutura chaves publicas brasileira icp brasil modo garantir autoria digitalizacao integridade seus metadados seguir padroes tecnicos minimos previstos anexo iii conter minimo especificados requisito entre particulares",
+    "6": "art hipotese documento que envolva relacoes entre particulares qualquer meio comprovacao autoria integridade necessario confidencialidade documentos digitalizados sera valido desde escolhido comum acordo pelas partes aceito pela pessoa quem for oposto paragrafo unico nao ter havido previo aplica disposto desnecessidade digitalizacao",
+    "7": "art digitalizacao documentos por pessoas juridicas direito publico interno sera precedida avaliacao dos conjuntos documentais conforme estabelecido tabelas temporalidade destinacao modo identificar previamente que devem ser encaminhados para descarte responsabilidade pela",
+    "8": "art processo digitalizacao podera ser realizado pelo possuidor documento fisico por terceiros cabe responsabilidade perante pela conformidade disposto neste decreto hipotese contratacao administracao publica federal instrumento contratual prevera integral contratado solidaria ilimitada relacao terceiro prejudicado culpa dolo requisitos seguranca informacao protecao dados nos termos legislacao vigente descarte dos documentos fisicos",
+    "9": "art apos processo digitalizacao realizado conforme este decreto documento fisico podera ser descartado ressalvado aquele que apresente conteudo valor historico manutencao dos documentos digitalizados",
+    "10": "art armazenamento documentos digitalizados assegurara protecao documento digitalizado contra alteracao destruicao quando cabivel acesso reproducao nao autorizados indexacao metadados que possibilitem localizacao gerenciamento conferencia processo digitalizacao adotado preservacao dos",
+    "11": "art documentos digitalizados sem valor historico serao preservados minimo ate transcurso dos prazos prescricao decadencia direitos que referem presevacao documento entes publicos",
+    "12": "art pessoas juridicas direito publico interno observarao disposto lei 159 janeiro 1991 nas tabelas temporalidade destinacao documentos aprovadas pelas instituicoes arquivisticas publicas ambito suas competencias observadas diretrizes conselho nacional arquivos conarq quanto guarda preservacao vigencia",
+    "13": "art este decreto entra vigor data sua publicacao brasilia marco 2020 199 independencia 132 republica jair messias bolsonaro sergio moro paulo guedes texto nao substitui publicado dou anexo padroes tecnicos minimos para digitalizacao documentos documento resolucao minima cor tipo original formato arquivo textos impressos sem ilustracao preto branco 300 dpi monocromatico pdf com escala cinza imagem cores rgb colorido manuscritos fotografias cartazes png plantas mapas 600 hipotese ser comprimido deve realizada compressao perda forma que informacao obtida apos descompressao seja identica antes comprimida metadados exigidos todos definicao assunto palavras chave representam conteudo pode preenchimento livre uso vocabulario controlado tesauro autor nome pessoa natural juridica emitiu local registro cronologico hora topico identificador digital unico atribuido ato captura sistema informatizado negocios responsavel pela fisica titulo elemento descricao nomeia formal designacao registrada providenciada identificacao formalmente desprovido documental indica configuracao especie acordo atividade gerou hash chekcsum algoritmo mapeia uma sequencia bits finalidade realizar verificacao integridade digitalizados por pessoas juridicas direito publico interno classe subclasse grupo subgrupo base plano classificacao producao destinacao prevista eliminacao guarda permanente indicacao proxima acao transferencia recolhimento cumprimento tabela temporalidade das atividades meio fim genero signos utilizado comunicacao prazo estabelecido"
+  }
+}

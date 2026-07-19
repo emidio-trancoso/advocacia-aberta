@@ -1,0 +1,58 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L12414",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l12414.json",
+      "colecao": "artigos",
+      "sha256": "8aa94deb752eb7d46ea6685c6f4d7f9f38ef1c3a40c9726eec8904da54077607",
+      "total_registros": 20,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 20,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art esta lei disciplina formacao consulta bancos dados com informacoes adimplemento pessoas naturais juridicas para historico credito sem prejuizo disposto 078 setembro 1990 codigo protecao defesa consumidor paragrafo unico instituidos mantidos por direito publico interno serao regidos legislacao especifica",
+    "2": "art para efeitos desta lei considera banco dados conjunto relativo pessoa natural juridica armazenados com finalidade subsidiar concessao credito realizacao venda prazo outras transacoes comerciais empresariais que impliquem risco financeiro gestor responsavel pela administracao bem como coleta armazenamento analise acesso terceiros aos atenda requisitos minimos funcionamento previstos nesta regulamentacao complementar pelo redacao dada 166 2019 vigencia iii cadastrado tenha autorizado inclusao suas informacoes cujas tenham sido incluidas fonte conceda realize lhe administre operacoes autofinanciamento inclusive instituicoes autorizadas funcionar central brasil prestadores servicos continuados agua esgoto eletricidade gas telecomunicacoes assemelhados consulente acesse bancos qualquer permitida por esta anotacao acao efeito anotar assinalar averbar incluir inscrever registrar informacao relativa historico vii financeiros pagamentos relativos obrigacoes pagamento adimplidas andamento",
+    "3": "art bancos dados poderao conter informacoes adimplemento cadastrado para formacao historico credito nas condicoes estabelecidas nesta lei banco somente ser armazenadas objetivas claras verdadeiras facil compreensao que sejam necessarias avaliar situacao economica fins disposto consideram aquelas descritivas dos fatos nao envolvam juizo valor possibilitem imediato entendimento independentemente remissao anexos formulas siglas simbolos termos tecnicos nomenclatura especifica iii exatas completas sujeitas comprovacao nos desta sentido comum assegurem pleno conhecimento conteudo alcance sobre ele anotados ficam proibidas anotacoes excessivas assim consideradas estiverem vinculadas analise risco consumidor sensiveis pertinentes origem social etnica saude informacao genetica orientacao sexual conviccoes politicas religiosas filosoficas",
+    "4": "art abertura cadastro requer autorizacao previa potencial cadastrado mediante consentimento informado por meio assinatura instrumento especifico clausula apartada",
+    "5": "art sao direitos cadastrado obter cancelamento cadastro quando solicitado reabertura redacao dada pela lei complementar 166 2019 vigencia acessar gratuitamente informacoes sobre ele existentes banco dados inclusive seu historico cabendo gestor manter sistemas seguros por telefone meio eletronico consulta para informar adimplemento independentemente justificativa sua nota pontuacao credito pelo iii solicitar impugnacao qualquer informacao erroneamente anotada ter ate sete dias correcao comunicacao aos bancos com quais compartilhou dez todos que compartilharam conhecer principais elementos criterios considerados analise risco resguardado segredo empresarial ser informado previamente armazenamento identidade objetivo tratamento dos pessoais destinatarios caso compartilhamento consulente revisao decisao realizada exclusivamente meios automatizados vii seus utilizados somente acordo finalidade qual eles foram coletados vetado prazo disponibilizacao das tratam incisos caput deste artigo sera incluido serao processados mediante solicitacao gratuita podera realizar trata telefonico fisico receber obrigado dois uteis encerrar reabrir conforme transmitir demais gestores devem tambem atender mesmo deve proceder automaticamente pessoa natural juridica tenha manifestado vontade nao aberto implica impossibilidade uso pelos fins previstos nesta composicao terceiros cadastrados forma desta",
+    "6": "art ficam gestores bancos dados obrigados quando solicitados fornecer cadastrado todas informacoes sobre ele constantes seus arquivos momento solicitacao indicacao das fontes relativas que trata inciso incluindo endereco telefone para contato iii dos com quais foram compartilhadas todos consulentes tiveram acesso qualquer informacao nos seis meses anteriores redacao dada pela lei complementar 166 2019 vigencia copia texto contendo sumario direitos definidos normas infralegais pertinentes sua relacao bem como lista orgaos governamentais aos podera recorrer caso considere esses infringidos confirmacao cancelamento cadastro incluido vedado estabelecerem politicas realizarem operacoes impecam limitem dificultem previsto prazo atendimento estabelecidas incisos deste artigo sera sete dias tratam caput dez",
+    "7": "art informacoes disponibilizadas nos bancos dados somente poderao ser utilizadas para realizacao analise risco credito cadastrado subsidiar concessao extensao venda prazo outras transacoes comerciais empresariais que impliquem financeiro consulente paragrafo unico cabe gestor manter sistemas seguros por telefone meio eletronico consulta informar aos consulentes adimplemento",
+    "7-A": "art nos elementos criterios considerados para composicao nota pontuacao credito pessoa cadastrada banco dados que trata esta lei nao podem ser utilizadas informacoes incluido pela complementar 166 2019 vigencia estiverem vinculadas analise risco aquelas relacionadas origem social etnica saude informacao genetica sexo conviccoes politicas religiosas filosoficas pessoas tenham com cadastrado relacao parentesco primeiro grau dependencia economica iii exercicio regular direito pelo previsto inciso caput desta gestor deve disponibilizar seu sitio eletronico forma clara acessivel facil compreensao sua politica coleta utilizacao pessoais fins elaboracao transparencia deste artigo objeto verificacao regulamentacao expedida poder executivo",
+    "8": "art sao obrigacoes das fontes manter registros adequados para demonstrar que pessoa natural juridica autorizou envio anotacao informacoes bancos dados revogado redacao dada pela lei complementar 166 2019 vigencia comunicar gestores acerca eventual exclusao revogacao autorizacao cadastrado iii verificar confirmar corrigir prazo nao superior dois dias uteis informacao impugnada sempre solicitado por gestor banco diretamente pelo atualizar enviadas aos sete dez fornecer sobre bases discriminatorias todos solicitarem mesmo formato contendo mesmas fornecidas outros paragrafo unico vedado estabelecerem politicas realizarem operacoes impecam limitem dificultem transmissao cadastrados tenham autorizado seus estabelecer realizar",
+    "9": "art compartilhamento informacao adimplemento permitido autorizado expressamente pelo cadastrado por meio assinatura instrumento especifico clausula apartada",
+    "10": "art proibido gestor exigir exclusividade das fontes informacoes",
+    "11": "art desde que autorizados pelo cadastrado prestadores servicos continuados agua esgoto eletricidade gas telecomunicacoes dentre outros poderao fornecer aos bancos dados indicados forma regulamento informacao sobre adimplemento das obrigacoes financeiras revogado pela lei complementar 166 2019 vigencia paragrafo unico vedada anotacao servico telefonia movel modalidade pos paga",
+    "12": "art quando solicitado pelo cliente instituicoes autorizadas funcionar banco central brasil fornecerao aos bancos dados indicados informacoes relativas suas operacoes credito",
+    "13": "art poder executivo regulamentara disposto nesta lei especial quanto uso guarda escopo compartilhamento das informacoes recebidas por bancos dados",
+    "14": "art informacoes adimplemento nao poderao constar bancos dados por periodo superior quinze anos",
+    "15": "art informacoes sobre cadastrado constantes dos bancos dados somente poderao ser acessadas por consulentes que com ele mantiverem pretenderem manter relacao comercial crediticia",
+    "16": "art banco dados fonte consulente sao responsaveis objetiva solidariamente pelos danos materiais morais que causarem cadastrado",
+    "17": "art nas situacoes que cadastrado for consumidor caracterizado conforme lei 078 setembro 1990 codigo protecao defesa aplicam sancoes penas nela previstas disposto nos casos previstos caput fiscalizacao aplicacao das serao exercidas concorrentemente pelos orgaos uniao dos estados distrito federal municipios respectivas areas atuacao administrativa sem prejuizo poderao aplicar medidas corretivas estabelecendo aos bancos dados descumprirem previsto nesta obrigacoes fazer com sejam excluidas cadastro prazo sete dias informacoes incorretas bem como cancelados cadastros pessoas nao autorizaram abertura deste artigo estabelecer obrigacao excluir dez cancelar solicitaram cancelamento inciso desta redacao dada pela complementar 166 2019 vigencia",
+    "17-A": "art quebra sigilo previsto lei complementar 105 janeiro 2001 sujeita responsaveis penalidades previstas referida sem prejuizo disposto 078 setembro 1990 codigo protecao defesa consumidor incluido pela 166 2019 vigencia",
+    "18": "art esta lei entra vigor data sua publicacao brasilia junho 2011 190 independencia 123 republica dilma rousseff jose eduardo cardozo guido mantega este texto nao substitui publicado dou"
+  }
+}

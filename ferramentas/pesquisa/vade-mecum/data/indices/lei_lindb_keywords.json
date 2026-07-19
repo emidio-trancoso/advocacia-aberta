@@ -1,0 +1,68 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "LINDB",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_lindb.json",
+      "colecao": "artigos",
+      "sha256": "b1ca29cb83fbbc599beb2796e466a430403d4c14f329a98b1f36d06f855faa9d",
+      "total_registros": 30,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 30,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art salvo disposicao contraria lei comeca vigorar todo pais quarenta cinco dias depois oficialmente publicada nos estados estrangeiros obrigatoriedade brasileira quando admitida inicia tres meses vide 991 1953 145 410 1955 770 1956 244 1957 966 1966 decreto 333 1967 807 820 1965 revogado pela 036 2009 antes entrar vigor ocorrer nova publicacao seu texto destinada correcao prazo deste artigo dos paragrafos anteriores comecara correr correcoes consideram",
+    "2": "art nao destinando vigencia temporaria lei tera vigor ate que outra modifique revogue posterior revoga anterior quando expressamente declare seja com ela incompativel regule inteiramente materia tratava nova estabeleca disposicoes gerais especiais par das existentes nem modifica salvo disposicao contrario revogada restaura por ter revogadora perdido",
+    "3": "art ninguem escusa cumprir lei alegando que nao conhece",
+    "4": "art quando lei for omissa juiz decidira caso acordo com analogia costumes principios gerais direito",
+    "5": "art aplicacao lei juiz atendera aos fins sociais que ela dirige exigencias bem comum",
+    "6": "art lei vigor tera efeito imediato geral respeitados ato juridico perfeito direito adquirido coisa julgada redacao dada pela 238 1957 reputa consumado segundo vigente tempo que efetuou incluido consideram adquiridos assim direitos seu titular alguem por ele possa exercer como aqueles cujo comeco exercicio tenha termo pre fixo condicao estabelecida inalteravel arbitrio outrem chama caso julgado decisao judicial nao caiba recurso",
+    "7": "art lei pais que domiciliada pessoa determina regras sobre comeco fim personalidade nome capacidade direitos familia realizando casamento brasil sera aplicada brasileira quanto aos impedimentos dirimentes formalidades celebracao estrangeiros podera celebrar perante autoridades diplomaticas consulares ambos nubentes redacao dada pela 238 1957 tendo domicilio diverso regera casos invalidade matrimonio primeiro conjugal regime bens legal convencional obedece tiverem este for estrangeiro casado naturalizar brasileiro pode mediante expressa anuencia seu conjuge requerer juiz ato entrega decreto naturalizacao apostile mesmo adocao comunhao parcial respeitados terceiros esta competente registro 515 1977 divorcio realizado conjuges forem brasileiros reconhecido depois ano data sentenca salvo houver sido antecedida separacao judicial por igual prazo caso homologacao produzira efeito imediato obedecidas condicoes estabelecidas para eficacia das sentencas estrangeiras superior tribunal justica forma regimento interno reexaminar requerimento interessado decisoes proferidas pedidos passem produzir todos efeitos legais 036 2009 abandono chefe estende outro filhos nao emancipados tutor curador incapazes sob sua guarda quando tiver considerar lugar residencia naquele encontre",
+    "8": "art para qualificar bens regular relacoes eles concernentes aplicar lei pais que estiverem situados for domiciliado proprietario quanto aos moveis ele trouxer destinarem transporte outros lugares penhor regula pela domicilio tiver pessoa cuja posse encontre coisa apenhada",
+    "9": "art para qualificar reger obrigacoes aplicar lei pais que constituirem destinando obrigacao ser executada brasil dependendo forma essencial sera esta observada admitidas peculiaridades estrangeira quanto aos requisitos extrinsecos ato resultante contrato reputa constituida lugar residir proponente",
+    "10": "art sucessao por morte ausencia obedece lei pais que domiciliado defunto desaparecido qualquer seja natureza situacao dos bens estrangeiros situados sera regulada pela brasileira beneficio conjuge filhos brasileiros quem represente sempre nao lhes mais favoravel pessoal cujus redacao dada 047 1995 domicilio herdeiro legatario regula capacidade para suceder",
+    "11": "art organizacoes destinadas fins interesse coletivo como sociedades fundacoes obedecem lei estado que constituirem nao poderao entretanto ter brasil filiais agencias estabelecimentos antes serem atos constitutivos aprovados pelo governo brasileiro ficando sujeitas brasileira governos estrangeiros bem qualquer natureza eles tenham constituido dirijam hajam investido funcoes publicas adquirir bens imoveis susceptiveis desapropriacao podem propriedade dos predios necessarios sede representantes diplomaticos agentes consulares vide 331 1964",
+    "12": "art competente autoridade judiciaria brasileira quando for reu domiciliado brasil aqui tiver ser cumprida obrigacao compete conhecer das acoes relativas imoveis situados cumprira concedido exequatur segundo forma estabelecida pela lei diligencias deprecadas por estrangeira observando desta quanto objeto",
+    "13": "art prova dos fatos ocorridos pais estrangeiro rege pela lei que nele vigorar quanto onus aos meios produzir nao admitindo tribunais brasileiros provas brasileira desconheca",
+    "14": "art nao conhecendo lei estrangeira podera juiz exigir quem invoca prova texto vigencia",
+    "15": "art sera executada brasil sentenca proferida estrangeiro que reuna seguintes requisitos haver sido por juiz competente terem partes citadas legalmente verificado revelia ter passado julgado estar revestida das formalidades necessarias para execucao lugar foi traduzida interprete autorizado homologada pelo supremo tribunal federal vide 105 constituicao paragrafo unico revogado pela lei 036 2009",
+    "16": "art quando nos termos dos artigos precedentes houver aplicar lei estrangeira ter vista disposicao desta sem considerar qualquer remissao por ela feita outra",
+    "17": "art leis atos sentencas outro pais bem como quaisquer declaracoes vontade nao terao eficacia brasil quando ofenderem soberania nacional ordem publica bons costumes",
+    "18": "art tratando brasileiros sao competentes autoridades consulares brasileiras para lhes celebrar casamento mais atos registro civil tabelionato inclusive nascimento obito dos filhos brasileiro brasileira nascido pais sede consulado redacao dada pela lei 238 1957 tambem poderao separacao consensual divorcio nao havendo menores incapazes casal observados requisitos legais quanto aos prazos devendo constar respectiva escritura publica disposicoes relativas descricao partilha bens comuns pensao alimenticia ainda acordo retomada pelo conjuge seu nome solteiro manutencao adotado quando deu incluido 874 2013 vigencia indispensavel assistencia advogado devidamente constituido que dara mediante subscricao peticao juntamente com ambas partes apenas uma delas caso outra constitua proprio fazendo necessario assinatura conste",
+    "19": "art reputam validos todos atos indicados artigo anterior celebrados pelos consules brasileiros vigencia decreto lei 657 setembro 1942 desde que satisfacam requisitos legais incluido pela 238 1957 paragrafo unico caso celebracao desses tiver sido recusada pelas autoridades consulares com fundamento mesmo interessado facultado renovar pedido dentro noventa dias contados data publicacao desta",
+    "20": "art nas esferas administrativa controladora judicial nao decidira com base valores juridicos abstratos sem que sejam consideradas consequencias praticas decisao incluido pela lei 655 2018 regulamento paragrafo unico motivacao demonstrara necessidade adequacao medida imposta invalidacao ato contrato ajuste processo norma inclusive face das possiveis alternativas",
+    "21": "art decisao que nas esferas administrativa controladora judicial decretar invalidacao ato contrato ajuste processo norma devera indicar modo expresso suas consequencias juridicas administrativas incluido pela lei 655 2018 regulamento paragrafo unico refere caput deste artigo quando for caso condicoes para regularizacao ocorra proporcional equanime sem prejuizo aos interesses gerais nao podendo impor sujeitos atingidos onus perdas funcao das peculiaridades sejam anormais excessivos",
+    "22": "art interpretacao normas sobre gestao publica serao considerados obstaculos dificuldades reais gestor exigencias das politicas publicas seu cargo sem prejuizo dos direitos administrados regulamento decisao regularidade conduta validade ato contrato ajuste processo norma administrativa consideradas circunstancias praticas que houverem imposto limitado condicionado acao agente incluido pela lei 655 2018 aplicacao sancoes natureza gravidade infracao cometida danos dela provierem para administracao agravantes atenuantes antecedentes aplicadas levadas conta dosimetria demais mesma relativas mesmo fato",
+    "23": "art decisao administrativa controladora judicial que estabelecer interpretacao orientacao nova sobre norma conteudo indeterminado impondo novo dever condicionamento direito devera prever regime transicao quando indispensavel para seja cumprido modo proporcional equanime eficiente sem prejuizo aos interesses gerais regulamento paragrafo unico vetado incluido pela lei 655 2018",
+    "24": "art revisao nas esferas administrativa controladora judicial quanto validade ato contrato ajuste processo norma cuja producao houver completado levara conta orientacoes gerais epoca sendo vedado que com base mudanca posterior orientacao geral declarem invalidas situacoes plenamente constituidas incluido pela lei 655 2018 regulamento paragrafo unico consideram interpretacoes especificacoes contidas atos publicos carater jurisprudencia majoritaria ainda adotadas por pratica reiterada amplo conhecimento publico",
+    "25": "art vetado incluido pela lei 655 2018",
+    "26": "art para eliminar irregularidade incerteza juridica situacao contenciosa aplicacao direito publico inclusive caso expedicao licenca autoridade administrativa podera apos oitiva orgao juridico quando for realizacao consulta publica presentes razoes relevante interesse geral celebrar compromisso com interessados observada legislacao aplicavel qual produzira efeitos partir sua publicacao oficial incluido pela lei 655 2018 regulamento referido caput deste artigo buscara solucao proporcional equanime eficiente compativel interesses gerais vetado iii nao conferir desoneracao permanente dever condicionamento reconhecidos por orientacao devera prever clareza obrigacoes das partes prazo seu cumprimento sancoes aplicaveis descumprimento",
+    "27": "art decisao processo nas esferas administrativa controladora judicial podera impor compensacao por beneficios indevidos prejuizos anormais injustos resultantes conduta dos envolvidos incluido pela lei 655 2018 regulamento sobre sera motivada ouvidas previamente partes seu cabimento sua forma for caso valor para prevenir regular ser celebrado compromisso processual entre",
+    "28": "art agente publico respondera pessoalmente por suas decisoes opinioes tecnicas caso dolo erro grosseiro incluido pela lei 655 2018 regulamento vetado",
+    "29": "art qualquer orgao poder edicao atos normativos por autoridade administrativa salvo mera organizacao interna podera ser precedida consulta publica para manifestacao interessados preferencialmente meio eletronico qual sera considerada decisao incluido pela lei 655 2018 vigencia regulamento convocacao contera minuta ato normativo fixara prazo demais condicoes observadas normas legais regulamentares especificas houver vetado",
+    "30": "art autoridades publicas devem atuar para aumentar seguranca juridica aplicacao das normas inclusive por meio regulamentos sumulas administrativas respostas consultas incluido pela lei 655 2018 regulamento paragrafo unico instrumentos previstos caput deste artigo terao carater vinculante relacao orgao entidade que destinam ate ulterior revisao rio janeiro setembro 1942 121o independencia 54o republica getulio vargas alexandre marcondes filho oswaldo aranha este texto nao substitui publicado dou retificado 1943"
+  }
+}

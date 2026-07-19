@@ -1,0 +1,58 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L5584",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l5584.json",
+      "colecao": "artigos",
+      "sha256": "9b0f6f18acaef7f1057e81b8511cc63d66ddea487a07edcd13ef92e08218769f",
+      "total_registros": 20,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 20,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art nos processos perante justica trabalho observar principios estabelecidos nesta lei",
+    "2": "art nos dissidios individuais proposta conciliacao nao havendo acordo presidente junta juiz antes passar instrucao causa fixar lhe valor para determinacao alcada este for indeterminado pedido audiencia aduzir razoes finais podera qualquer das partes impugnar fixado mantiver pedir revisao decisao prazo quarenta oito horas tribunal regional que tera efeito suspensivo devera ser instruido com peticao inicial ata copia autenticada pela secretaria sera julgado partir seu recebimento pelo quando forma deste artigo exceder duas vezes salario minimo vigente sede juizo dispensavel resumo dos depoimentos devendo constar conclusao quanto materia fato salvo versarem sobre constitucional nenhum recurso clt 893 cabera sentencas proferidas refere paragrafo anterior considerado esse fim data ajuizamento acao redacao dada lei 402 1985",
+    "3": "art exames periciais serao realizados por perito unico designado pelo juiz que fixara prazo para entrega laudo paragrafo permitir cada parte indicacao assistente cuja tera ser apresentado mesmo assinado sob pena desentranhado dos autos",
+    "4": "art nos dissidios alcada exclusiva das juntas naqueles que empregados empregadores reclamarem pessoalmente processo podera ser impulsionado oficio pelo juiz",
+    "5": "art para exarar parecer tera orgao ministerio publico uniao junto justica trabalho prazo oito dias contados data que lhe for distribuido processo",
+    "6": "art sera oito dias prazo para interpor contra arrazoar qualquer recurso clt 893",
+    "7": "art comprovacao deposito condenacao clt 899 tera que ser feita dentro prazo para interposicao recurso sob pena este considerado deserto",
+    "8": "art das decisoes proferidas nos dissidios coletivos podera uniao interpor recurso qual sera sempre recebido efeito suspensivo quanto parte que exceder indice fixado pela politica salarial governo",
+    "9": "art tribunal superior trabalho quando pedido recorrente contrariar prejulgado estabelecido sumula jurisprudencia uniforme deste compendiada podera relator negar prosseguimento recurso indicando correspondente paragrafo unico parte prejudicada interpor agravo desde que especie nao aplique citada pelo",
+    "10": "art artigo 477 consolidacao das leis trabalho alterado pela lei 562 pelo decreto 766 passa vigorar com seguinte redacao assegurado todo empregado nao existindo prazo estipulado para terminacao respectivo contrato quando haja ele dado motivo cessacao relacoes direto haver empregador uma indenizacao paga base maior remuneracao que tenha percebido mesma empresa pedido demissao recibo quitacao rescisao firmado por mais ano servico sera valido feito assistencia sindicato perante autoridade ministerio previdencia social instrumento qualquer seja causa forma dissolucao deve ter especificada natureza cada parcela discriminado seu valor sendo valida apenas relativamente mesmas parcelas existir localidade nenhum dos orgaos previstos neste prestada represente publico onde houver defensor falta impedimento deste juiz paz pagamento fizer jus efetuado ato homologacao dinheiro cheque visado conforme acordem partes salvo for analfabeto somente podera ser compensacao trata paragrafo anterior exceder equivalente mes",
+    "11": "art artigo 500 consolidacao das lei trabalho revogado pela 562 1968 passa vigorar com seguinte redacao pedido demissao empregado estavel sera valido quando feito assistencia respectivo sindicato nao houver perante autoridade local competente ministerio previdencia social justica",
+    "12": "art artigo 888 consolidacao das leis trabalho passa vigorar com seguinte redacao concluida avaliacao dentro dez dias contados data nomeacao avaliador seguir arrematacao que sera anunciada por edital afixado sede juizo tribunal publicado jornal local houver antecedencia vinte far dia hora lugar anunciados bens serao vendidos pelo maior lance tendo exequente preferencia para adjudicacao arrematante devera garantir sinal correspondente cento seu valor nao havendo licitante requerendo dos penhorados poderao mesmos ser leiloeiro nomeado juiz presidente fiador pagar quatro horas preco perdera beneficio execucao trata deste voltando praca executados",
+    "13": "art qualquer hipotese remicao sera deferivel executado este oferecer preco igual valor condenacao assistencia judiciaria",
+    "14": "art justica trabalho assistencia judiciaria que refere lei 060 fevereiro 1950 sera prestada pelo sindicato categoria profissional pertencer trabalhador devida todo aquele perceber salario igual inferior dobro minimo legal ficando assegurado beneficio maior uma vez provado sua situacao economica nao lhe permite demandar sem prejuizo sustento proprio familia comprovada atestado fornecido pela autoridade local ministerio previdencia social mediante diligencia sumaria podera exceder quarenta oito horas havendo referida paragrafo anterior devera ser expedido delegado policia circunscricao onde resida empregado",
+    "15": "art para auxiliar patrocinio das causas observados arts lei 215 abril 1963 poderao ser designados pelas diretorias dos sindicatos academicos direito partir serie comprovadamente matriculados estabelecimento ensino oficial sob fiscalizacao governo federal",
+    "16": "art honorarios advogado pagos pelo vencido reverterao favor sindicato assistente revogado pela lei 725 2018",
+    "17": "art quando nas respectivas comarcas nao houver juntas conciliacao julgamento existir sindicato categoria profissional trabalhador atribuido aos promotores publicos defensores encargo prestar assistencia judiciaria prevista nesta lei paragrafo unico hipotese neste artigo importancia proveniente condenacao despesas processuais sera recolhida tesouro respectivo estado",
+    "18": "art assistencia judiciaria nos termos presente lei sera prestada trabalhador ainda que nao seja associado respectivo sindicato",
+    "19": "art diretores sindicatos que sem comprovado motivo ordem financeira deixarem dar cumprimento disposicoes desta lei ficarao sujeitos penalidade prevista 553 alinea consolidacao das leis trabalho",
+    "20": "art esta lei entra vigor data sua publicacao revogadas disposicoes contrario brasilia junho 1970 149 independencia republica emilio medici aifredo buzaid este texto nao substitui publicado dou"
+  }
+}

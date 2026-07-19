@@ -1,0 +1,49 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L13488",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l13488.json",
+      "colecao": "artigos",
+      "sha256": "e0dd9dc46dcb2de960d3d8b970067d14f704160b9d1672c0e9d11d2da9db3d80",
+      "total_registros": 11,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 11,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art lei 504 setembro 1997 passa vigorar com seguintes alteracoes podera participar das eleicoes partido que ate seis meses antes pleito tenha registrado seu estatuto tribunal superior eleitoral conforme disposto data convencao orgao direcao constituido circunscricao acordo respectivo para concorrer candidato devera possuir domicilio respectiva pelo prazo estar filiacao deferida mesmo iii parcelamento multas eleitorais direito dos cidadaos pessoas juridicas pode ser feito sessenta salvo quando valor parcela ultrapassar cinco por cento renda mensal caso cidadao dois faturamento pessoa juridica hipotese estender modo parcelas nao ultrapassem referidos limites outras debitos natureza imputados poder publico garantido tambem aos partidos politicos limite repasse fundo partidario referido vedado registro candidatura avulsa ainda requerente partidaria recursos especial financiamento campanha fefc primeiro turno serao distribuidos entre obedecidos criterios divididos igualitariamente todos estatutos registrados trinta tenham menos representante camara deputados proporcao percentual votos eles obtidos ultima eleicao geral quarenta oito numero representantes consideradas legendas titulares quinze senado federal vetado acesso refere este artigo fazer requerimento escrito gastos definidos divulgados desde dia maio ano facultada pre candidatos arrecadacao previa modalidade prevista inciso desta mas liberacao parte entidades arrecadadoras fica condicionada realizacao despesas observar calendario deste for efetivado deverao devolver valores arrecadados doadores doacao quantia acima fixados neste sujeita infrator pagamento multa 100 cem excesso instituicoes promovam tecnicas servicos coletivo meio sitios internet aplicativos eletronicos outros similares atender requisitos cadastro previo justica estabelecera regulamentacao prestacao contas fiscalizacao instantanea doacoes intermediarias houver repasses identificacao obrigatoria nome completo inscricao fisicas cpf cada quantias doadas disponibilizacao sitio eletronico lista respectivas atualizada instantaneamente nova emissao recibo doador relativo realizada sob responsabilidade entidade arrecadadora envio imediato todas informacoes relativas ampla ciencia eleitores acerca taxas administrativas serem cobradas pela servico incidencia quaisquer hipoteses listadas observancia especialmente diz respeito inicio periodo financeira nos termos dispostos dispositivos relacionados propaganda comercializacao bens promocao eventos realizados diretamente politico mencionadas dispensada apresentacao sua comprovacao documento bancario identifique realizadas modalidades previstas incisos devem informadas pelos previsto contado partir momento forem depositados nas bancarias coligacoes fraudes erros cometidos sem conhecimento ensejarao destes nem rejeicao suas aplica estimaveis dinheiro utilizacao moveis imoveis propriedade proprios estimado ultrapasse 000 mil reais ficam autorizadas transacoes atendam expedida banco central operar arranjos financeiras poderao recusar cartoes debito credito como transporte deslocamento pessoal candidaturas observadas excecoes custos criacao inclusao impulsionamento conteudos contratados provedor aplicacao sede foro pais fins inclui formas conteudo priorizacao paga resultantes aplicacoes busca sao sujeitam combustivel manutencao veiculo automotor usado remuneracao alimentacao hospedagem condutor alinea paragrafo propria uso linhas telefonicas registradas fisica tres cessao automovel conjuge seus parentes terceiro grau durante vii permitida veiculacao material publicos particulares exceto bandeiras longo vias publicas dificultem bom andamento transito veiculos adesivo plastico automoveis caminhoes bicicletas motocicletas janelas residenciais exceda metro quadrado publicacao novos trata podendo mantidos funcionamento publicados anteriormente circulacao carros som minitrios observado oitenta decibeis nivel pressao sonora medido sete metros distancia respeitadas vedacoes apenas carreatas caminhadas passeatas reunioes comicios independentemente gratuita horario definido nesta transmissao emissora radio televisao debates sobre majoritaria proporcional assegurada participacao representacao congresso nacional minimo parlamentares demais seguinte segundo emissoras reservarao sexta feira antevespera destinado divulgacao dividida blocos diarios dez minutos terao doze horas treze vinte canais assinatura mencionados setenta usados insercoes segundos criterio coligacao assinadas obrigatoriamente distribuidas programacao veiculada quatro obedecido onde cargo disputa disposicoes blogs redes sociais mensagens instantaneas assemelhadas cujo seja gerado editado qualquer natural contrate enderecos aqueles iniciativa comunicados todo mesmos admitida cunho mediante usuario intencao falsear identidade vedada ferramentas digitais disponibilizadas gratuitas alterar teor repercussao tanto quanto terceiros possibilite pago contar canal comunicacao usuarios somente responsabilizado danos decorrentes impulsionado apos ordem judicial especifica tomar providencias ambito tecnicos dentro assinalado tornar indisponivel apontado infringente violacao responsavel comprovado beneficiario equivalente dobro despendida esse calculo superar maximo tipo excetuado identificado forma inequivoca tal contratado exclusivamente caput filial sucursal escritorio estabelecimento legalmente estabelecido fim promover beneficiar agremiacoes rito determinar suspensao veiculado deixar cumprir devendo definida proporcionalmente gravidade infracao cometida regulamentara arts cenario tecnologicas existentes promovera interessadas formulacao regras boas praticas campanhas deferido pedido ofensor divulgar resposta ofendido entrega midia empregar nessa eventualmente espaco local pagina eletronica tamanho caracteres elementos realce ofensa compreendido abril julho anos continuos requisitados institucional destinada incentivar feminina jovens comunidade negra politica bem esclarecer sistema brasileiro",
+    "2": "art lei 096 setembro 1995 passa vigorar com seguintes alteracoes paragrafo unico partido politico nao equipara entidades paraestatais entes publicos pessoas juridicas qualquer natureza ressalvadas dotacoes referidas desta proveniente fundo especial financiamento campanha iii revogado fisicas que exercam funcao cargo publico livre nomeacao exoneracao emprego temporario ressalvados filiados",
+    "3": "art lei 737 julho 1965 codigo eleitoral passa vigorar com seguintes alteracoes 109 poderao concorrer distribuicao dos lugares todos partidos coligacoes que participaram pleito 354 apropriar candidato administrador financeiro campanha quem fato exerca essa funcao bens recursos valores destinados financiamento proveito proprio alheio pena reclusao dois seis anos multa",
+    "4": "art 2018 para fins disposto nos incisos iii caput lei 504 setembro 1997 distribuicao dos recursos entre partidos tera por base numero representantes titulares camara deputados senado federal apurado agosto 2017 nas eleicoes subsequentes ultimo dia sessao legislativa imediatamente anterior ano eleitoral revogado pela 877 2019",
+    "5": "art nas eleicoes para presidente republica 2018 limite gastos campanha cada candidato sera 000 setenta milhoes reais paragrafo unico segundo turno houver cinquenta por cento valor estabelecido caput deste artigo",
+    "6": "art limite gastos nas campanhas dos candidatos eleicoes governador senador 2018 sera definido acordo com numero eleitores cada unidade federacao apurado dia maio nos termos previstos neste artigo para serao seguintes limites campanha candidato unidades ate milhao 800 000 dois milhoes oitocentos mil reais mais 900 quatro novecentos iii 600 cinco seiscentos dez 100 nove cem vinte catorze 500 quinhentos tres 200 duzentos segundo turno onde houver cinquenta por cento fixados deste",
+    "7": "art 2018 limite gastos sera 500 000 dois milhoes quinhentos mil reais para campanhas dos candidatos eleicoes deputado federal milhao estadual distrital",
+    "8": "art nas eleicoes 2018 doacoes pessoas fisicas candidatos somadas aos recursos publicos excederem limite gastos permitido para respectiva campanha valor excedente podera ser transferido partido candidato",
+    "9": "art partidos deverao adequar seus estatutos aos termos desta lei ate final exercicio 2017",
+    "10": "art esta lei entra vigor data sua publicacao",
+    "11": "art vetado"
+  }
+}

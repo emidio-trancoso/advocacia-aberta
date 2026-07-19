@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L11638",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l11638.json",
+      "colecao": "artigos",
+      "sha256": "86616cb7f0c8e89599905c6085d42f1817bf6aa68ec1ad67cd19cf883ac1104a",
+      "total_registros": 10,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 10,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art arts 176 179 181 184 187 188 197 199 226 248 lei 404 dezembro 1976 passam vigorar com seguinte redacao demonstracao dos fluxos caixa companhia aberta valor adicionado fechada patrimonio liquido data balanco inferior 000 dois milhoes reais nao sera obrigada elaboracao publicacao 177 disposicoes tributaria legislacao especial sobre atividade que constitui objeto conduzam utilizacao metodos criterios contabeis diferentes outras demonstracoes elidem obrigacao elaborar para todos fins desta financeiras consonancia disposto caput deste artigo deverao ser alternativamente observadas mediante registro livros auxiliares sem modificacao escrituracao mercantil caso das tributarios desde sejam efetuados seguida lancamentos adicionais assegurem preparacao divulgacao observancia devendo essas auditadas por auditor independente registrado comissao valores mobiliarios normas expedidas pela refere elaboradas padroes internacionais contabilidade adotados nos principais mercados companhias fechadas poderao optar observar abertas ajuste exclusivamente harmonizacao termos apuracoes eles base incidencia impostos contribuicoes nem ter quaisquer outros efeitos 178 ativo permanente dividido investimentos imobilizado intangivel diferido capital social reservas ajustes avaliacao patrimonial lucros acoes tesouraria prejuizos acumulados direitos tenham bens corporeos destinados manutencao atividades empresa exercidos essa finalidade inclusive decorrentes operacoes transfiram beneficios riscos controle desses despesas pre operacionais gastos reestruturacao contribuirao efetivamente aumento resultado mais exercicio configurem tao somente uma reducao custos acrescimo eficiencia operacional incorporeos fundo comercio adquirido vetado",
+    "2": "art lei 404 dezembro 1976 passa vigorar acrescida seguinte 195 reserva incentivos fiscais",
+    "3": "art aplicam sociedades grande porte ainda que nao constituidas sob forma por acoes disposicoes lei 404 dezembro 1976 sobre escrituracao elaboracao demonstracoes financeiras obrigatoriedade auditoria independente auditor registrado comissao valores mobiliarios paragrafo unico considera para fins exclusivos desta sociedade conjunto controle comum tiver exercicio social anterior ativo total superior 240 000 duzentos quarenta milhoes reais receita bruta anual 300 trezentos",
+    "4": "art normas que tratam incisos lei 385 dezembro 1976 poderao ser especificadas por categorias companhias abertas demais emissores valores mobiliarios funcao seu porte das especies classes dos eles emitidos negociados mercado",
+    "5": "art lei 385 dezembro 1976 passa vigorar acrescida seguinte comissao valores mobiliarios banco central brasil demais orgaos agencias reguladoras poderao celebrar convenio com entidade que tenha por objeto estudo divulgacao principios normas padroes contabilidade auditoria podendo exercicio suas atribuicoes regulamentares adotar todo parte pronunciamentos orientacoes tecnicas emitidas paragrafo unico referida caput deste artigo devera ser majoritariamente composta contadores dela fazendo paritariamente representantes entidades representativas sociedades submetidas regime elaboracao demonstracoes financeiras previstas nesta auditam analisam orgao federal fiscalizacao profissao contabil universidade instituto pesquisa reconhecida atuacao area mercado capitais",
+    "6": "art saldos existentes nas reservas reavaliacao deverao ser mantidos ate sua efetiva realizacao estornados final exercicio social que esta lei entrar vigor",
+    "7": "art demonstracoes referidas nos incisos caput 176 lei 404 dezembro 1976 poderao ser divulgadas primeiro ano vigencia desta sem indicacao dos valores correspondentes exercicio anterior",
+    "8": "art textos consolidados das leis 404 dezembro 1976 385 com todas alteracoes nelas introduzidas pela legislacao posterior inclusive esta lei serao publicados diario oficial uniao pelo poder executivo",
+    "9": "art esta lei entra vigor primeiro dia exercicio seguinte sua publicacao",
+    "10": "art ficam revogadas alineas 182 187 lei 404 dezembro 1976 brasilia 2007 186o independencia 119o republica luiz inacio lula silva arno hugo augustin filho este texto nao substitui publicado dou edicao extra"
+  }
+}

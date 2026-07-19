@@ -43,9 +43,38 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 | `BASE-016` | Endurecer coleta e promoção do pipeline | Allowlist cobre URL inicial e redirecionada; tipo de conteúdo, volume, re-promoção e estados não ativos têm gates e testes | **concluído em 2026-07-17** |
 | `BASE-017` | Não existe detecção de mudança nem agendamento; a atualização depende de alguém lembrar | Comando barato responde "a fonte mudou?" por família, sem preparar candidatos; execução agendada publica o resultado; a promoção continua humana | **concluído em 2026-07-18** |
 | `BASE-018` | O adaptador de legislação captura `title_name` genérico ("TÍTULO I") onde o snapshot legado tinha o nome real ("DOS PRINCÍPIOS FUNDAMENTAIS") | O adaptador extrai os nomes reais de títulos e capítulos das páginas do Planalto, com teste; o motor não consome o campo hoje, então o item é de qualidade do dado | aberto |
-| `BASE-019` | O índice invertido de legislação (`indexes.keywords`) e os `keywords` por artigo são enriquecimentos legados sem processo reproduzível; a transformação os preserva do arquivo publicado, e artigos novos ficam fora do índice (invisíveis à busca textual quando o índice existe). Os diplomas incorporados pela expansão de julho de 2026 (piloto de 8 leis e fatias do manifesto `expansao/normas.json`) não têm índice curado e usam a busca em texto integral | Gerador determinístico versionado cobre todos os artigos publicados, como o `BASE-010` fez para súmulas; teste garante cobertura 1:1 | aberto |
+| `BASE-019` | O índice invertido de legislação (`indexes.keywords`) e os `keywords` por artigo são enriquecimentos legados sem processo reproduzível; a transformação os preserva do arquivo publicado, e artigos novos ficam fora do índice (invisíveis à busca textual quando o índice existe). Os diplomas incorporados pela expansão de julho de 2026 (piloto de 8 leis e fatias do manifesto `expansao/normas.json`) não têm índice curado e usam a busca em texto integral | Gerador determinístico versionado cobre todos os artigos publicados, como o `BASE-010` fez para súmulas; teste garante cobertura 1:1 | **concluído em 2026-07-19** |
+| `BASE-020` | A busca de temas repetitivos usa somente os índices legados `keywords` e `terms`, sem fallback textual: os 57 temas 1406 a 1462, incorporados pela atualização de 2026-07-19, só são encontrados pela busca por número | Gerador determinístico cobre todos os temas publicados (como o `BASE-019` fez para a legislação) ou a busca ganha fallback textual; teste garante que nenhum tema publicado fica invisível | aberto |
 
 ## Itens concluídos
+
+### `BASE-019` — índices de legislação reproduzíveis
+
+- o gerador local produz, por diploma, um índice derivado determinístico
+  (`tokens-texto-integral-v1`) em `data/indices/lei_*_keywords.json`, cobrindo os
+  15.757 dispositivos fora dos índices curados; a união com o índice curado
+  preservado cobre os 21.541 dispositivos em relação 1:1, garantida por teste em
+  Python e no motor;
+- 314 dispositivos dos 8 diplomas com índice curado (ex.: CLT art. 7º, CPP arts.
+  3º-A a 3º-F do juiz das garantias, CP arts. 121-B e 147-C, CC arts. 757 a 786)
+  estavam invisíveis à busca textual e voltaram a ser recuperáveis, com teste de
+  regressão;
+- as stopwords são preservadas de propósito: o índice reproduz a semântica da
+  busca em texto integral do motor (casamento por subpalavra, piso de 40%,
+  empate pela ordem do documento), e a avaliação de recuperação retornou
+  exatamente os mesmos resultados nos 74 casos (precisão global 0,8121;
+  legislação 0,8295; recall, obrigatórios e MRR preservados);
+- a substituição do índice curado do núcleo foi medida e reprovada pela
+  avaliação (precisão de legislação cairia a 0,5528; a variante aditiva com a
+  pontuação legada cairia a 0,5915), repetindo a lição do d4a0b30 — o esquema
+  de pontuação curado permanece intacto;
+- modelo e prompt são nulos; algoritmo, parâmetros, SHA-256 da fonte, contagens
+  e relação de cobertura ficam registrados em cada arquivo derivado e no
+  manifesto [`indices-derivados.json`](indices-derivados.json) (schema 2);
+- `gerar_indices_derivados.py --verificar` confere igualdade byte a byte e o
+  auditor acusa como P0 índice ausente, desatualizado ou com cobertura quebrada;
+- a verificação completa está em
+  [`verificacoes/BASE-019.md`](verificacoes/BASE-019.md).
 
 ### `BASE-017` — monitoramento de mudanças nas fontes
 
@@ -205,8 +234,8 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 
 1. `BASE-011`, ampliando validações de esquema e integridade.
 2. `BASE-013`, versionando snapshots e diferenças.
-3. `BASE-019`, tornando reproduzíveis os índices de busca da legislação (artigos
-   novos hoje ficam fora do índice preservado).
+3. `BASE-020`, cobrindo os temas repetitivos invisíveis à busca textual (1406 a
+   1462), no padrão que o `BASE-019` estabeleceu para a legislação.
 4. `BASE-018`, recuperando os nomes reais de títulos e capítulos no adaptador de
    legislação.
 

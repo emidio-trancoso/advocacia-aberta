@@ -1,0 +1,46 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L14192",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l14192.json",
+      "colecao": "artigos",
+      "sha256": "c3a64023985e088a371e4cdf46e46910fc9c2b6a7b636106bf58d2f246d0efdb",
+      "total_registros": 8,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 8,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art esta lei estabelece normas para prevenir reprimir combater violencia politica contra mulher nos espacos atividades relacionados exercicio seus direitos politicos suas funcoes publicas assegurar participacao mulheres debates eleitorais dispoe sobre crimes divulgacao fato video com conteudo inveridico periodo campanha eleitoral",
+    "2": "art serao garantidos direitos participacao politica mulher vedadas discriminacao desigualdade tratamento virtude sexo raca acesso instancias representacao exercicio funcoes publicas paragrafo unico autoridades competentes priorizarao imediato direito violado conferindo especial importancia declaracoes vitima aos elementos indiciarios",
+    "3": "art considera violencia politica contra mulher toda acao conduta omissao com finalidade impedir obstaculizar restringir direitos politicos paragrafo unico constituem igualmente atos qualquer distincao exclusao restricao reconhecimento gozo exercicio seus suas liberdades politicas fundamentais virtude sexo",
+    "4": "art lei 737 julho 1965 codigo eleitoral passa vigorar com seguintes alteracoes 243 que deprecie condicao mulher estimule sua discriminacao razao sexo feminino relacao cor raca etnia 323 divulgar propaganda durante periodo campanha fatos sabe inveridicos partidos candidatos capazes exercer influencia perante eleitorado paragrafo unico revogado nas mesmas penas incorre quem produz oferece vende video conteudo inveridico acerca aumenta pena terco ate metade crime cometido por meio imprensa radio televisao internet rede social transmitido tempo real envolve menosprezo 326 assediar constranger humilhar perseguir ameacar qualquer candidata cargo eletivo detentora mandato utilizando finalidade impedir dificultar desempenho seu reclusao quatro anos multa contra gestante maior sessenta iii deficiencia 327 cominadas nos arts 324 325 aumentam dos crimes transmissao",
+    "5": "art caput lei 096 setembro 1995 dos partidos politicos passa vigorar acrescido seguinte inciso prevencao repressao combate violencia politica contra mulher",
+    "6": "art inciso caput lei 504 setembro 1997 das eleicoes passa vigorar com seguinte redacao nas proporcionais debates poderao desdobrar mais dia deverao ser organizados modo que assegurem presenca numero equivalente candidatos todos partidos concorrem mesmo cargo eletivo respeitada proporcao homens mulheres estabelecida desta",
+    "7": "art partidos politicos deverao adequar seus estatutos disposto nesta lei prazo 120 cento vinte dias contado data sua publicacao",
+    "8": "art esta lei entra vigor data sua publicacao brasilia agosto 2021 200o independencia 133o republica jair messias bolsonaro damares regina alves este texto nao substitui publicado dou"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L8072",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l8072.json",
+      "colecao": "artigos",
+      "sha256": "3245ad706d052a2c11c908d2bb80772abaeee5d113fbc8128da8490c77a96300",
+      "total_registros": 13,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 13,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art sao considerados hediondos seguintes crimes todos tipificados decreto lei 848 dezembro 1940 codigo penal consumados tentados redacao dada pela 930 1994 vide 210 1984 homicidio 121 quando praticado atividade tipica grupo exterminio ainda que cometido por agente qualificado 159 2025 lesao corporal dolosa natureza gravissima 129 seguida morte praticadas contra autoridade descrito nos arts 142 144 constituicao federal integrantes sistema prisional forca nacional seguranca publica exercicio funcao decorrencia dela seu conjuge companheiro parente consanguineo ate terceiro grau razao dessa condicao membro poder judiciario ministerio publico defensoria advocacia tratam 131 132 oficial justica inclusive afinidade nas dependencias instituicao ensino incluido feminicidio 994 2024 vicaricidio 384 2026 roubo 964 2019 circunstanciado restricao liberdade vitima 157 inciso pelo emprego arma fogo uso proibido restrito resultado grave iii extorsao qualificada ocorrencia 158 mediante sequestro forma caput estupro 213 015 2009 vulneravel 217 vii epidemia com 267 vetado 695 1998 falsificacao corrupcao adulteracao alteracao produto destinado fins terapeuticos medicinais 273 677 julho viii favorecimento prostituicao outra exploracao sexual crianca adolescente 218 978 2014 furto explosivo artefato analogo cause perigo comum 155 induzimento instigacao auxilio suicidio automutilacao realizados meio rede computadores social transmitidos tempo real 122 811 carcere privado menor dezoito anos 148 xii trafico pessoas 149 incisos paragrafo unico consideram tambem crime genocidio previsto 889 outubro 1956 posse porte ilegal 826 2003 comercio armas internacional acessorio municao organizacao criminosa direcionado pratica hediondo equiparado previstos 001 1969 militar apresentem identidade desta 688 2023 240 241 069 1990 estatuto dominio estruturado institui marco legal combate organizado brasil 358",
+    "2": "art crimes hediondos pratica tortura trafico ilicito entorpecentes drogas afins terrorismo sao insuscetiveis vide sumula vinculante anistia graca indulto fianca redacao dada pela lei 464 2007 pena por crime previsto neste artigo sera cumprida inicialmente regime fechado revogado 964 2019 caso sentenca condenatoria juiz decidira fundamentadamente reu podera apelar liberdade prisao temporaria sobre qual dispoe 960 dezembro 1989 nos previstos tera prazo trinta dias prorrogavel igual periodo extrema comprovada necessidade incluido",
+    "3": "art uniao mantera estabelecimentos penais seguranca maxima destinados cumprimento penas impostas condenados alta periculosidade cuja permanencia presidios estaduais ponha risco ordem incolumidade publica",
+    "4": "art vetado",
+    "5": "art codigo penal acrescido seguinte inciso cumprido mais dois tercos pena nos casos condenacao por crime hediondo pratica tortura trafico ilicito entorpecentes drogas afins terrorismo apenado nao for reincidente especifico crimes dessa natureza",
+    "6": "art arts 157 159 caput seus 213 214 223 seu paragrafo unico 267 270 todos codigo penal passam vigorar com seguinte redacao violencia resulta lesao corporal grave pena reclusao cinco quinze anos alem multa morte vinte trinta sem prejuizo",
+    "7": "art 159 codigo penal fica acrescido seguinte paragrafo crime cometido por quadrilha bando autor que denuncia autoridade facilitando libertacao sequestrado tera sua pena reduzida dois tercos",
+    "8": "art sera tres seis anos reclusao pena prevista 288 codigo penal quando tratar crimes hediondos pratica tortura trafico ilicito entorpecentes drogas afins terrorismo paragrafo unico participante associado que denunciar autoridade bando quadrilha possibilitando seu desmantelamento tera reduzida dois tercos",
+    "9": "art penas fixadas para crimes capitulados nos arts 157 158 159 caput seus 213 sua combinacao com 223 paragrafo unico 214 todos codigo penal sao acrescidas metade respeitado limite superior trinta anos reclusao estando vitima qualquer das hipoteses referidas 224 tambem",
+    "10": "art lei 368 outubro 1976 passa vigorar acrescido paragrafo unico com seguinte redacao prazos procedimentais deste capitulo serao contados dobro quando tratar dos crimes previstos nos arts",
+    "11": "art vetado",
+    "12": "art esta lei entra vigor data sua publicacao",
+    "13": "art revogam disposicoes contrario brasilia julho 1990 169 independencia 102 republica fernando collor bernardo cabral este texto nao substitui publicado dou"
+  }
+}

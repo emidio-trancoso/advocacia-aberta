@@ -1,0 +1,47 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L10962",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l10962.json",
+      "colecao": "artigos",
+      "sha256": "b9d7d7ecb42617a7e7479a53e32aeaa89b5eb8b2e8bc911ea6eef8048ecd9722",
+      "total_registros": 9,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 9,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art esta lei regula condicoes oferta afixacao precos bens servicos para consumidor",
+    "2": "art sao admitidas seguintes formas afixacao precos vendas varejo para consumidor comercio geral por meio etiquetas similares afixados diretamente nos bens expostos venda vitrines mediante divulgacao preco vista caracteres legiveis auto servicos supermercados hipermercados mercearias estabelecimentos comerciais onde tenha acesso direto produto sem intervencao comerciante impressao embalagem codigo referencial ainda com barras iii eletronico ostensiva junto imagem descricao servico facilmente tamanho fonte nao inferior doze incluido pela lei 543 2017 paragrafo unico casos utilizacao devera expor forma clara legivel aos itens informacao relativa suas caracteristicas",
+    "2-A": "art venda varejo produtos fracionados pequenas quantidades comerciante devera informar etiqueta contendo preco junto aos itens expostos alem produto vista correspondente uma das seguintes unidades fundamentais medida capacidade massa volume comprimento area acordo com forma habitual comercializacao cada tipo incluido pela lei 175 2015 paragrafo unico disposto neste artigo nao aplica medicamentos",
+    "3": "art impossibilidade afixacao precos conforme disposto permitido uso relacoes dos produtos expostos bem como servicos oferecidos forma escrita clara acessivel consumidor",
+    "4": "art nos estabelecimentos que utilizem codigo barras para aprecamento deverao ser oferecidos equipamentos leitura otica consulta preco pelo consumidor localizados area vendas outras facil acesso regulamento desta lei definira observados dentre outros criterios fatores tipo tamanho estabelecimento quantidade diversidade dos itens bens servicos maxima devera atendida por cada leitora fins considera aquela qual consumidores tem mercadorias consumo varejo dentro",
+    "5": "art caso divergencia precos para mesmo produto entre sistemas informacao utilizados pelo estabelecimento consumidor pagara menor dentre eles",
+    "5-A": "art fornecedor deve informar local formato visiveis consumidor eventuais descontos oferecidos funcao prazo instrumento pagamento utilizado incluido pela lei 455 2017 paragrafo unico aplicam infracoes este artigo sancoes previstas 078 setembro 1990",
+    "6": "art vetado",
+    "7": "art esta lei entra vigor data sua publicacao brasilia outubro 2004 183 independencia 116 republica luiz inacio lula silva marcio thomaz bastos este texto nao substitui publicado dou"
+  }
+}

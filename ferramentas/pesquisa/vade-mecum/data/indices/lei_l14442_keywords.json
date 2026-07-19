@@ -1,0 +1,46 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L14442",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l14442.json",
+      "colecao": "artigos",
+      "sha256": "f0893f7b96cbf0145da758a71c48ade2511c9854547c8f36025d2dd6f87a5008",
+      "total_registros": 8,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 8,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art esta lei dispoe sobre pagamento auxilio alimentacao empregado bem como altera 321 abril 1976 consolidacao das leis trabalho aprovada pelo decreto 452 maio 1943",
+    "2": "art importancias pagas pelo empregador titulo auxilio alimentacao que trata 457 consolidacao das leis trabalho aprovada decreto lei 452 maio 1943 deverao ser utilizadas para pagamento refeicoes restaurantes estabelecimentos similares aquisicao generos alimenticios comerciais",
+    "3": "art empregador contratar pessoa juridica para fornecimento auxilio alimentacao que trata desta lei nao podera exigir receber qualquer tipo desagio imposicao descontos sobre valor contratado prazos repasse pagamento descaracterizem natureza pre paga dos valores serem disponibilizados aos empregados iii outras verbas beneficios diretos indiretos vinculados diretamente promocao saude seguranca alimentar empregado ambito contratos firmados com empresas emissoras instrumentos vedacao caput deste artigo aplica vigentes ate seu encerramento tenha decorrido prazo quatorze meses contado data publicacao ocorrer primeiro vedada prorrogacao contrato desconformidade disposto",
+    "4": "art execucao inadequada desvio desvirtuamento das finalidades auxilio alimentacao que trata 457 consolidacao leis trabalho aprovada pelo decreto lei 452 maio 1943 pelos empregadores pelas empresas emissoras instrumentos pagamento sem prejuizo aplicacao outras penalidades cabiveis orgaos competentes acarretara multa valor 000 cinco mil reais cinquenta qual sera aplicada dobro caso reincidencia embaraco fiscalizacao criterios calculo parametros gradacao prevista caput deste artigo serao estabelecidos ato ministro estado previdencia estabelecimento comercializa produtos nao relacionados empregado empresa credenciou sujeitam",
+    "5": "art lei 321 abril 1976 passa vigorar com seguintes alteracoes pessoas juridicas poderao deduzir lucro tributavel para fins apuracao imposto sobre renda dobro das despesas comprovadamente realizadas periodo base programas alimentacao trabalhador previamente aprovados pelo ministerio trabalho previdencia forma acordo limites dispostos decreto que regulamenta esta destinadas aos deverao abranger exclusivamente pagamento refeicoes restaurantes estabelecimentos similares aquisicao generos alimenticios comerciais beneficiarias nao exigir receber qualquer tipo desagio imposicao descontos valor contratado prazos repasse descaracterizem natureza pre paga dos valores serem disponibilizados trabalhadores iii outras verbas beneficios diretos indiretos vinculados diretamente promocao saude seguranca alimentar ambito contrato firmado empresas emissoras instrumentos auxilio vedacao trata deste artigo tera vigencia conforme definido regulamento servicos pagamentos contratados execucao observarao seguinte operacionalizacao por meio arranjo fechado aberto devendo organizadas permitir interoperabilidade entre arranjos abertos indistintamente objetivo compartilhar rede credenciada partir maio 2023 portabilidade gratuita servico mediante solicitacao expressa alem normas fixadas poder executivo vetado inadequada desvio desvirtuamento finalidades pelas registradas sem prejuizo aplicacao penalidades cabiveis pelos orgaos competentes acarretarao multa 000 cinco mil reais cinquenta qual sera aplicada caso reincidencia embaraco fiscalizacao cancelamento inscricao pessoa juridica beneficiaria registro vinculadas cadastradas desde data primeira irregularidade passivel estabelecido ato especifico perda incentivo fiscal consequencia previsto inciso caput criterios calculo parametros gradacao prevista serao estabelecidos ministro estado estabelecimento comercializa produtos relacionados empresa credenciou sujeitam hipotese novo perante somente podera ser pleiteado decorrido prazo",
+    "6": "art consolidacao das leis trabalho aprovada pelo decreto lei 452 maio 1943 passa vigorar com seguintes alteracoes iii empregados regime teletrabalho que prestam servico por producao tarefa considera remoto prestacao servicos fora dependencias empregador maneira preponderante nao utilizacao tecnologias informacao comunicacao sua natureza configure externo comparecimento ainda modo habitual para realizacao atividades especificas exijam presenca empregado estabelecimento descaracteriza submetido podera prestar jornada hipotese aplicara disposto capitulo titulo desta confunde nem equipara ocupacao operador telemarketing teleatendimento tempo uso equipamentos tecnologicos infraestrutura necessaria bem como softwares ferramentas digitais aplicacoes internet utilizados normal constitui disposicao prontidao sobreaviso exceto houver previsao acordo individual convencao coletiva fica permitida adocao estagiarios aprendizes aos aplicam disposicoes previstas legislacao local nas convencoes nos acordos coletivos relativas base territorial lotacao contrato admitido brasil optar pela territorio nacional aplica brasileira excetuadas constantes 064 dezembro 1982 salvo contrario estipulada entre partes dispor sobre horarios meios desde assegurados repousos legais modalidade devera constar expressamente instrumento sera responsavel pelas despesas resultantes retorno presencial localidade prevista empregadores deverao dar prioridade deficiencia filhos crianca sob guarda judicial ate quatro anos idade alocacao vagas possam ser efetuadas meio",
+    "7": "art vetado",
+    "8": "art esta lei entra vigor data sua publicacao brasilia setembro 2022 201 independencia 134 republica jair messias bolsonaro paulo guedes jose carlos oliveira este texto nao substitui publicado dou"
+  }
+}

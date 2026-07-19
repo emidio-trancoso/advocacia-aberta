@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L13966",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l13966.json",
+      "colecao": "artigos",
+      "sha256": "d79f967ff3f0c65940a6d1ccfe0b7913cf3067065171d887501f739c5fa9a954",
+      "total_registros": 10,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 10,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art esta lei disciplina sistema franquia empresarial pelo qual franqueador autoriza por meio contrato franqueado usar marcas outros objetos propriedade intelectual sempre associados direito producao distribuicao exclusiva nao produtos servicos tambem uso metodos sistemas implantacao administracao negocio operacional desenvolvido detido mediante remuneracao direta indireta sem caracterizar relacao consumo vinculo empregaticio seus empregados ainda que durante periodo treinamento para fins autorizacao referida caput deve ser titular requerente direitos sobre negociados ambito estar expressamente autorizado pode adotada empresa privada estatal entidade lucrativos independentemente segmento desenvolva atividades",
+    "2": "art para implantacao franquia franqueador devera fornecer interessado circular oferta escrita lingua portuguesa forma objetiva acessivel contendo obrigatoriamente historico resumido negocio franqueado qualificacao completa das empresas que esteja ligado identificando com respectivos numeros inscricao cadastro nacional pessoa juridica cnpj iii balancos demonstracoes financeiras empresa franqueadora relativos aos dois ultimos exercicios indicacao acoes judiciais relativas questionem sistema possam comprometer operacao pais nas quais sejam parte controladoras subfranqueador titulares marcas demais direitos propriedade intelectual descricao detalhada geral atividades serao desempenhadas pelo perfil ideal refere experiencia anterior escolaridade outras caracteristicas deve ter obrigatoria preferencialmente vii requisitos quanto envolvimento direto administracao viii especificacoes total estimado investimento inicial necessario aquisicao entrada valor taxa filiacao instalacoes dos equipamentos estoque suas condicoes pagamento informacoes claras taxas periodicas outros valores serem pagos terceiros por este indicados detalhando respectivas bases calculo elas remuneram fim destinam indicando especificamente seguinte remuneracao periodica uso marca objetos sobre detem ainda pelos servicos prestados aluguel ponto comercial publicidade semelhante seguro minimo relacao todos franqueados subfranqueados subfranqueadores rede tambem desligaram nos vinte quatro meses nomes enderecos telefones politica atuacao territorial devendo ser especificado garantida exclusividade preferencia determinado territorio neste caso sob possibilidade realizar vendas prestar fora seu exportacoes sao regras concorrencia entre unidades proprias franqueadas xii detalhadas obrigacao adquirir quaisquer bens insumos necessarios sua apenas fornecedores aprovados incluindo desses xiii oferecido suporte supervisao incorporacao inovacoes tecnologicas franquias treinamento seus funcionarios especificando duracao conteudo custos manuais auxilio analise escolha onde sera instalada leiaute padroes arquitetonicos arranjo fisico instrumentos memorial descritivo composicao croqui xiv situacao franqueada relacionados cujo autorizado contrato caracterizacao numero registro pedido protocolizado classe subclasse orgaos competentes cultivares perante servico protecao snpc apos expiracao know how tecnologia produto processo gestao confidenciais segredos industria comercio financas negocios venha acesso funcao atividade concorrente xvi modelo padrao for pre adotado texto completo inclusive anexos prazos validade xvii existencia nao transferencia sucessao positivo xviii situacoes aplicadas penalidades multas indenizacoes estabelecidos xix cotas minimas compra junto designados recusa produtos exigidos conselho associacao atribuicoes poderes mecanismos representacao detalhamento competencias fiscalizacao aplicacao recursos fundos existentes xxi limitacao durante vigencia abrangencia prazo restricao descumprimento xxii especificacao precisa contratual renovacao houver xxiii local dia hora recebimento documentacao proposta bem como inicio abertura envelopes quando tratar orgao entidade publica entregue candidato dez dias antes assinatura qualquer tipo ligada salvo licitacao promovida divulgada logo selecao hipotese cumprimento disposto podera arguir anulabilidade nulidade conforme exigir devolucao todas quantias pagas titulo royalties corrigidas monetariamente",
+    "3": "art nos casos que franqueador subloque franqueado ponto comercial onde acha instalada franquia qualquer uma das partes tera legitimidade para propor renovacao contrato locacao imovel vedada exclusao delas sublocacao por ocasiao sua prorrogacao salvo inadimplencia dos respectivos contratos paragrafo unico valor aluguel ser pago pelo nas sublocacoes trata caput podera superior paga proprietario originaria desde essa possibilidade esteja expressa clara circular oferta maior nao implique excessiva onerosidade garantida manutencao equilibrio economico financeiro vigencia",
+    "4": "art aplica franqueador que omitir informacoes exigidas por lei veicular falsas circular oferta franquia sancao prevista desta sem prejuizo das sancoes penais cabiveis",
+    "5": "art para fins desta lei disposicoes referentes franqueador franqueado aplicam que couber subfranqueador subfranqueado respectivamente",
+    "6": "art vetado",
+    "7": "art contratos franquia obedecerao seguintes condicoes que produzirem efeitos exclusivamente territorio nacional serao escritos lingua portuguesa regidos pela legislacao brasileira internacional originalmente terao traducao certificada para custeada pelo franqueador contratantes poderao optar contrato foro seus paises domicilio partes eleger juizo arbitral solucao controversias relacionadas fins desta lei entende como aquele pelos atos concernentes sua conclusao execucao situacao das quanto nacionalidade localizacao seu objeto tem liames com mais sistema juridico caso expresso opcao deverao constituir manter representante legal procurador devidamente qualificado domiciliado pais definido poderes representa las administrativa judicialmente inclusive receber citacoes",
+    "8": "art aplicacao desta lei observara disposto legislacao propriedade intelectual vigente pais",
+    "9": "art revoga lei 955 dezembro 1994 franquia",
+    "10": "art esta lei entra vigor apos decorridos noventa dias sua publicacao oficial brasilia dezembro 2019 198 independencia 131 republica jair messias bolsonaro paulo guedes este texto nao substitui publicado dou"
+  }
+}

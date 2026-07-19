@@ -1,0 +1,49 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L10779",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l10779.json",
+      "colecao": "artigos",
+      "sha256": "ebba534de9abd07d6f2e6001fdcc78387c98d6212e372832a2bcd12e3e19c15a",
+      "total_registros": 11,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 11,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art pescador artesanal que tratam alinea inciso vii lei 212 julho 1991 213 desde exerca sua atividade profissional ininterruptamente forma individualmente regime economia familiar fara jus beneficio seguro desemprego valor salario minimo mensal durante periodo defeso pesqueira para preservacao especie redacao dada pela 134 2015 considera profissao habitual principal meio vida exercida compreendido entre anterior curso nos doze meses imediatamente anteriores for menor fixado pelo instituto brasileiro ambiente dos recursos naturais renovaveis ibama relacao marinha fluvial lacustre cuja captura dedique ininterrupta incluido somente tera direito segurado especial nao disponha outra fonte renda diversa decorrente mesmo ano mais defesos relativos especies distintas concessao sera extensivel atividades apoio pesca nem aos familiares satisfacam requisitos condicoes estabelecidos nesta pessoal intransferivel recebimento podera exceder limite maximo variavel trata caput 998 janeiro 1990 ressalvado disposto referido artigo orgaos federais disponibilizarao informacoes constantes das bases dados sejam detentores necessarias verificacao manutencao quais serao objeto cruzamento com cadastrais oficiais termos ato poder executivo federal 265 2025 requerente deste solicitado registro biometrico 077 dezembro 2024 inscricao cadastro unico programas sociais governo cadunico sem efeitos acesso admitida fins biometrica utilizacao base tribunal superior eleitoral carteira nacional habilitacao cnh ate plena implementacao identidade 399 2026 este comprovar domicilio municipio abrangido limitrofe area definida instituiu conforme procedimentos criterios resolucao conselho deliberativo fundo amparo trabalhador codefat casos exclusao por inconsistencia cadastral falha conferencia disponibilizados canais revisao celeres presenciais virtuais gratuitos pescadores artesanais diretamente entidades habilitadas ministerio trabalho emprego pagamento previsto ocorrera correspondente regras programa",
+    "2": "art compete ministerio trabalho emprego mte receber processar requerimentos habilitar beneficiarios seguro desemprego pescador artesanal conforme procedimentos criterios validacoes estabelecidos resolucao codefat redacao dada pela lei 265 2025 revogado 134 2015 iii revogada para fazer jus beneficio nao podera estar gozo previdenciario assistencial natureza continuada exceto pensao por morte auxilio acidente transferencias renda que tratam paragrafo unico inciso caput 203 constituicao federal 835 janeiro 2004 devera apresentar seguintes documentos registro como profissional categoria devidamente atualizado geral atividade pesqueira rgp emitido pelo pesca aquicultura com antecedencia minima ano contado data requerimento incluido copia dos fiscais venda pescado empresa adquirente consumidora consignataria producao conste alem operacao realizada valor respectiva contribuicao previdenciaria trata 212 julho 1991 referentes menos seis doze meses anteriores inicio periodo defeso comprovantes mensal aos exercicio caso tenha comercializado sua pessoa fisica outros ato comprovem profissao forma desta dedicou durante definido dispoe outra fonte diversa decorrente habilitacao verificar condicao segurado pagamento nos ultimos imediatamente entre defesos for menor desenvolvera atividades garantam acesso informacoes cadastrais disponiveis 959 junho 2009 necessarias concessao aplicacao disposto deste artigo resultar nenhum onus segurados quando julgar necessario exigir divulgara mensalmente lista nome municipio residencia numero inscricao vedada divulgacao endereco completo qualquer dado permita identificacao especifica domicilio beneficiario 399 2026 601 2023 vigencia medida provisoria 303 encerrada casos justificados impossibilidade manutencao ficam condicionadas comprovacao meio relatorio anual conter sobre prazos observados ser submetido vetado processo elaboracao das normas regulamentem complementem dispositivos legais relacionados sera assegurada participacao direito voz representantes entidades representativas pescadores artesanais credenciadas cinco grandes regioes pais termos definidos",
+    "2-A": "art ministerio trabalho emprego promovera acoes orientacao formacao direcionadas aos pescadores profissionais artesanais sobre seguro desemprego pescador artesanal conforme disponibilidade orcamentaria financeira incluido pela lei 399 2026",
+    "3": "art sem prejuizo das sancoes civis penais cabiveis responsaveis pelo uso meios fraudulentos habilitacao percepcao seguro desemprego estarao sujeitos redacao dada pela lei 265 2025 demissao cargo que ocupa servidor publico suspensao sua atividade com cancelamento respectivo registro por cinco anos 399 2026 iii impedimento requerer beneficio estabelecido caput desta prazo aplicando dobro nos casos reincidencia alem estabelecidas entidade representativa pesca artesanal colaborar qualquer forma para dos trata deste artigo ficara impedida celebrar modalidade parceria prevista nesta bem como tera suas eventuais parcerias curso canceladas incluido ministerio trabalho emprego comunicara instituto nacional social inss desenvolvimento assistencia familia combate fome aquicultura ocorrencias",
+    "3-A": "art uniao instituira mecanismos permanentes acompanhamento cadastral dos pescadores artesanais beneficiarios seguro desemprego com vistas incluido pela lei 399 2026 atualizacao periodica dados socioeconomicos produtivos identificacao demandas regionais perfil produtivo paragrafo unico informacoes coletadas forma caput deste artigo respeitada privacidade pessoais utilizados serao divulgadas plataforma digital acesso amplo",
+    "4": "art beneficio que trata esta lei sera cancelado nas seguintes hipoteses inicio atividade remunerada percepcao outra renda iii morte beneficiario desrespeito periodo defeso comprovacao falsidade informacoes prestadas para obtencao",
+    "4-A": "art pescador profissional artesanal que houver percebido indevidamente parcela seguro desemprego trata esta lei sujeitar compensacao automatica valor com novo beneficio fizer jus forma acordo criterios definidos resolucao codefat redacao dada pela 265 2025",
+    "5": "art beneficio seguro desemprego que refere esta lei sera pago conta fundo amparo trabalhador fat instituido pela 998 janeiro 1990 despesa resultante concessao trata fica limitada cada exercicio dotacao orcamentaria para essa referente anterior corrigida pelo indice calculado nos termos dos arts complementar 200 agosto 2023 aplicavel incluido 399 2026 observara disposto deste artigo nao excedera 909 535 000 sete bilhoes novecentos nove milhoes quinhentos trinta cinco mil reais",
+    "5-A": "art ministerio trabalho emprego devera prover meios para requerimento identificacao comprovacao documental demais exigencias acesso seguro desemprego pelos pescadores artesanais com restricoes fisicas residentes areas longinquas sem insatisfatorio internet disponibilidade precaria transporte recursos tecnologicos geral incluido pela lei 399 2026 nas situacoes previstas caput deste artigo poderao ser utilizadas unidades moveis pelo diretamente por meio das alternativas desta vetado",
+    "6": "art esta lei entra vigor data sua publicacao",
+    "7": "art fica revogada lei 287 dezembro 1991 brasilia novembro 2003 182o independencia 115o republica luiz inacio lula silva jaques wagner este texto nao substitui publicado"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L9494",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l9494.json",
+      "colecao": "artigos",
+      "sha256": "2fe41c69acad14e56f61e113c1abeecc85f1c93bf5b9ec05d6c056d1160f731f",
+      "total_registros": 12,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 12,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art aplica tutela antecipada prevista nos arts 273 461 codigo processo civil disposto seu paragrafo unico lei 348 junho 1964 021 1966 437 1992",
+    "1-A": "art estao dispensadas deposito previo para interposicao recurso pessoas juridicas direito publico federais estaduais distritais municipais incluido pela medida provisoria 180 2001",
+    "1-B": "art prazo que refere caput dos arts 730 codigo processo civil 884 consolidacao das leis trabalho aprovada pelo decreto lei 452 maio 1943 passa ser trinta dias incluido pela medida provisoria 180 2001",
+    "1-C": "art prescrevera cinco anos direito obter indenizacao dos danos causados por agentes pessoas juridicas publico privado prestadoras servicos publicos incluido pela medida provisoria 180 2001",
+    "1-D": "art nao serao devidos honorarios advocaticios pela fazenda publica nas execucoes embargadas incluido medida provisoria 180 2001",
+    "1-E": "art sao passiveis revisao pelo presidente tribunal oficio requerimento das partes contas elaboradas para aferir valor dos precatorios antes seu pagamento credor incluido pela medida provisoria 180 2001",
+    "1-F": "art juros mora nas condenacoes impostas fazenda publica para pagamento verbas remuneratorias devidas servidores empregados publicos nao poderao ultrapassar percentual seis por cento ano incluido pela medida provisoria 180 2001",
+    "2": "art lei 347 julho 1985 passa vigorar com seguinte redacao sentenca civil fara coisa julgada erga omnes nos limites competencia territorial orgao prolator exceto pedido for julgado improcedente por insuficiencia provas hipotese que qualquer legitimado podera intentar outra acao identico fundamento valendo nova prova",
+    "2-A": "art sentenca civil prolatada acao carater coletivo proposta por entidade associativa defesa dos interesses direitos seus associados abrangera apenas substituidos que tenham data propositura domicilio ambito competencia territorial orgao prolator incluido pela medida provisoria 180 2001 paragrafo unico nas acoes coletivas propostas contra uniao estados distrito federal municipios suas autarquias fundacoes peticao inicial devera obrigatoriamente estar instruida com ata assembleia autorizou acompanhada relacao nominal indicacao respectivos enderecos",
+    "2-B": "art sentenca que tenha por objeto liberacao recurso inclusao folha pagamento reclassificacao equiparacao concessao aumento extensao vantagens servidores uniao dos estados distrito federal municipios inclusive suas autarquias fundacoes somente podera ser executada apos seu transito julgado incluido pela medida provisoria 180 2001",
+    "3": "art ficam convalidados atos praticados com base medida provisoria 570 julho 1997",
+    "4": "art esta lei entra vigor data sua publicacao congresso nacional setembro 1997 176 independencia 109 republica senador antonio carlos magalhaes presidente este texto nao substitui publicado"
+  }
+}

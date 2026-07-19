@@ -1,0 +1,54 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L9609",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l9609.json",
+      "colecao": "artigos",
+      "sha256": "3e836b8f4821ad918aecd46e238908909a4a667732de814261e2d3ceade008d8",
+      "total_registros": 16,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 16,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art programa computador expressao conjunto organizado instrucoes linguagem natural codificada contida suporte fisico qualquer natureza emprego necessario maquinas automaticas tratamento informacao dispositivos instrumentos equipamentos perifericos baseados tecnica digital analoga para faze los funcionar modo fins determinados",
+    "2": "art regime protecao propriedade intelectual programa computador conferido obras literarias pela legislacao direitos autorais conexos vigentes pais observado disposto nesta lei nao aplicam disposicoes relativas aos morais ressalvado qualquer tempo direito autor reivindicar paternidade opor alteracoes autorizadas quando estas impliquem deformacao mutilacao outra modificacao que prejudiquem sua honra reputacao fica assegurada tutela dos relativos pelo prazo cinquenta anos contados partir janeiro ano subsequente publicacao ausencia desta criacao trata esta independe registro atribuidos por ficam assegurados estrangeiros domiciliados exterior desde origem conceda brasileiros brasil equivalentes inclui dentre aquele exclusivo autorizar proibir aluguel comercial sendo esse exaurivel venda licenca forma transferencia copia paragrafo anterior aplica casos seja objeto essencial",
+    "3": "art programas computador poderao criterio titular ser registrados orgao entidade designado por ato poder executivo iniciativa ministerio responsavel pela politica ciencia tecnologia regulamento pedido registro estabelecido neste artigo devera conter pelo menos seguintes informacoes dados referentes autor programa distinto sejam pessoas fisicas juridicas identificacao descricao funcional iii trechos outros que considerar suficientes para identifica caracterizar sua originalidade ressalvando direitos terceiros responsabilidade governo referidas inciso paragrafo anterior sao carater sigiloso nao podendo reveladas salvo ordem judicial requerimento proprio",
+    "4": "art salvo estipulacao contrario pertencerao exclusivamente empregador contratante servicos orgao publico direitos relativos programa computador desenvolvido elaborado durante vigencia contrato vinculo estatutario expressamente destinado pesquisa desenvolvimento que atividade empregado contratado servico servidor seja prevista ainda decorra propria natureza dos encargos concernentes esses vinculos ressalvado ajuste compensacao trabalho prestado limitar remuneracao salario convencionado com exclusividade gerado sem relacao prestacao utilizacao recursos informacoes tecnologicas segredos industriais negocios materiais instalacoes equipamentos empresa entidade qual mantenha assemelhados tratamento previsto neste artigo sera aplicado nos casos for por bolsistas estagiarios",
+    "5": "art direitos sobre derivacoes autorizadas pelo titular dos programa computador inclusive sua exploracao economica pertencerao pessoa autorizada que fizer salvo estipulacao contratual contrario",
+    "6": "art nao constituem ofensa aos direitos titular programa computador reproducao exemplar copia legitimamente adquirida desde que destine salvaguarda armazenamento eletronico hipotese original servira citacao parcial para fins didaticos identificados dos respectivos iii ocorrencia semelhanca outro preexistente quando der por forca das caracteristicas funcionais sua aplicacao observancia preceitos normativos tecnicos limitacao forma alternativa expressao integracao mantendo suas essenciais sistema aplicativo operacional tecnicamente indispensavel necessidades usuario uso exclusivo quem promoveu",
+    "7": "art contrato licenca uso programa computador documento fiscal correspondente suportes fisicos respectivas embalagens deverao consignar forma facilmente legivel pelo usuario prazo validade tecnica versao comercializada",
+    "8": "art aquele que comercializar programa computador quer seja titular dos direitos comercializacao fica obrigado territorio nacional durante prazo validade tecnica respectiva versao assegurar aos respectivos usuarios prestacao servicos tecnicos complementares relativos adequado funcionamento consideradas suas especificacoes paragrafo unico obrigacao persistira caso retirada circulacao comercial salvo justa indenizacao eventuais prejuizos causados terceiros",
+    "9": "art uso programa computador pais sera objeto contrato licenca paragrafo unico hipotese eventual inexistencia referido caput deste artigo documento fiscal relativo aquisicao licenciamento copia servira para comprovacao regularidade seu",
+    "10": "art atos contratos licenca direitos comercializacao referentes programas computador origem externa deverao fixar quanto aos tributos encargos exigiveis responsabilidade pelos respectivos pagamentos estabelecerao remuneracao titular dos programa residente domiciliado exterior serao nulas clausulas que limitem producao distribuicao violacao disposicoes normativas vigor eximam qualquer contratantes das responsabilidades por eventuais acoes terceiros decorrentes vicios defeitos autor remetente correspondente valor moeda estrangeira pagamento trata conservara seu poder pelo prazo cinco anos todos documentos necessarios comprovacao licitude remessas sua conformidade caput deste artigo",
+    "11": "art nos casos transferencia tecnologia programa computador instituto nacional propriedade industrial fara registro dos respectivos contratos para que produzam efeitos relacao terceiros paragrafo unico trata este artigo obrigatoria entrega por parte fornecedor receptor documentacao completa especial codigo fonte comentado memorial descritivo especificacoes funcionais internas diagramas fluxogramas outros dados tecnicos necessarios absorcao",
+    "12": "art violar direitos autor programa computador pena detencao seis meses dois anos multa violacao consistir reproducao por qualquer meio todo parte para fins comercio sem autorizacao expressa quem represente reclusao quatro mesma paragrafo anterior incorre vende expoe venda introduz pais adquire oculta tem deposito original copia produzido com direito autoral nos crimes previstos neste artigo somente procede mediante queixa salvo quando praticados prejuizo entidade publico autarquia empresa publica sociedade economia mista fundacao instituida pelo poder decorrencia ato delituoso resultar sonegacao fiscal perda arrecadacao tributaria pratica quaisquer dos contra ordem relacoes consumo caso inciso exigibilidade tributo contribuicao social acessorio processar independentemente representacao",
+    "13": "art acao penal diligencias preliminares busca apreensao nos casos violacao direito autor programa computador serao precedidas vistoria podendo juiz ordenar das copias produzidas comercializadas com suas versoes derivacoes poder infrator quem esteja expondo mantendo deposito reproduzindo comercializando",
+    "14": "art independentemente acao penal prejudicado podera intentar para proibir infrator pratica ato incriminado com cominacao pena pecuniaria caso transgressao preceito abstencao ser cumulada perdas danos pelos prejuizos decorrentes infracao cautelar preparatoria juiz conceder medida liminar proibindo nos termos deste artigo procedimentos civeis medidas cautelares busca apreensao observarao disposto anterior hipotese serem apresentadas juizo defesa dos interesses qualquer das partes informacoes que caracterizem como confidenciais devera determinar processo prossiga segredo justica vedado uso tais tambem outra parte outras finalidades sera responsabilizado por aquele requerer promover previstas neste arts agindo espirito emulacao capricho erro grosseiro codigo civil",
+    "15": "art esta lei entra vigor data sua publicacao",
+    "16": "art fica revogada lei 646 dezembro 1987 brasilia fevereiro 1998 177 independencia 110 republica fernando henrique cardoso jose israel vargas este texto nao substitui publicado dou retificado"
+  }
+}

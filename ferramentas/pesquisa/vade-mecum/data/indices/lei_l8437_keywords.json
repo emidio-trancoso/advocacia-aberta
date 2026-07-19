@@ -1,0 +1,44 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L8437",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l8437.json",
+      "colecao": "artigos",
+      "sha256": "1561621a9a7b84c11a15943294bc08d8c1dbee0e872bd21cf018c0aebba938ca",
+      "total_registros": 6,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 6,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art nao sera cabivel medida liminar contra atos poder publico procedimento cautelar quaisquer outras acoes natureza preventiva toda vez que providencia semelhante puder ser concedida mandado seguranca virtude vedacao legal juizo primeiro grau inominada sua quando impugnado ato autoridade sujeita via competencia originaria tribunal disposto paragrafo anterior aplica aos processos acao popular civil publica esgote todo qualquer parte objeto nos casos sem prejuizo comunicacao dirigente orgao entidade respectivo representante judicial dela imediatamente intimado incluido pela provisoria 180 2001 defira compensacao creditos tributarios previdenciarios",
+    "2": "art mandado seguranca coletivo acao civil publica liminar sera concedida quando cabivel apos audiencia representante judicial pessoa juridica direito publico que devera pronunciar prazo setenta duas horas",
+    "3": "art recurso voluntario officio interposto contra sentenca processo cautelar proferida pessoa juridica direito publico seus agentes que importe outorga adicao vencimentos reclassificacao funcional tera efeito suspensivo",
+    "4": "art compete presidente tribunal qual couber conhecimento respectivo recurso suspender despacho fundamentado execucao liminar nas acoes movidas contra poder publico seus agentes requerimento ministerio pessoa juridica direito interessada caso manifesto interesse flagrante ilegitimidade para evitar grave lesao ordem saude seguranca economia publicas aplica disposto neste artigo sentenca proferida processo acao cautelar inominada popular civil publica enquanto nao transitada julgado podera ouvir autor cinco dias setenta duas horas redacao dada pela medida provisoria 180 2001 que conceder negar suspensao cabera agravo prazo sera levado julgamento sessao seguinte sua interposicao trata resultar manutencao restabelecimento decisao pretende novo pedido competente conhecer eventual especial extraordinario incluido cabivel tambem refere quando negado provimento instrumento interposto este concedida prejudica nem condiciona conferir efeito suspensivo constatar juizo previo plausibilidade invocado urgencia concessao liminares cujo objeto seja identico poderao ser suspensas uma unica podendo estender efeitos supervenientes mediante simples aditamento original deferida pelo vigorara ate transito merito principal",
+    "5": "art esta lei entra vigor data sua publicacao",
+    "6": "art revogam disposicoes contrario brasilia junho 1992 171 independencia 104 republica fernando collor celio borja marcilio marques moreira este texto nao substitui publicado dou"
+  }
+}

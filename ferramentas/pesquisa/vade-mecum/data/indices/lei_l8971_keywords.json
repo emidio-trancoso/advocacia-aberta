@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L8971",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l8971.json",
+      "colecao": "artigos",
+      "sha256": "25c31d4a80996f8cf52798a9fa156a52cb314b6fa4cb41848ee240c4e0278c3a",
+      "total_registros": 5,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 5,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art companheira comprovada homem solteiro separado judicialmente divorciado viuvo que com ele viva mais cinco anos dele tenha prole podera valer disposto lei 478 julho 1968 enquanto nao constituir nova uniao desde prove necessidade paragrafo unico igual direito nas mesmas condicoes reconhecido companheiro mulher solteira separada divorciada viuva",
+    "2": "art pessoas referidas artigo anterior participarao sucessao companheiro nas seguintes condicoes sobrevivente tera direito enquanto nao constituir nova uniao usufruto quarta parte dos bens cujos houver filhos comuns metade embora sobrevivam ascendentes iii falta descendentes totalidade heranca",
+    "3": "art quando bens deixados pelo autor heranca resultarem atividade que haja colaboracao companheiro tera sobrevivente direito metade dos",
+    "4": "art esta lei entra vigor data sua publicacao",
+    "5": "art revogam disposicoes contrario brasilia dezembro 1994 173 independencia 106 republica itamar franco alexandre paula dupeyrat martins este texto nao substitui publicado dou"
+  }
+}

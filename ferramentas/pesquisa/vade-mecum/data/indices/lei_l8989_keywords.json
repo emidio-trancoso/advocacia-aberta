@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L8989",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l8989.json",
+      "colecao": "artigos",
+      "sha256": "d4b210b9413d9421bd9c7b5b3ba4d55fefdc73d3bf4a01c61876adae3edbd3e4",
+      "total_registros": 10,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 10,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art ficam isentos imposto sobre produtos industrializados ipi automoveis passageiros fabricacao nacional equipados com motor cilindrada nao superior 000 dois mil centimetros cubicos minimo quatro portas inclusive acesso bagageiro movidos combustivel origem renovavel sistema reversivel combustao hibrido eletricos quando adquiridos por redacao dada pela lei 13755 2018 motoristas profissionais que exercam comprovadamente veiculo sua propriedade atividade condutor autonomo condicao titular autorizacao permissao concessao poder publico destinam automovel utilizacao categoria aluguel taxi 317 1996 autonomos titulares para exploracao servico transporte individual impedidos continuar exercendo essa virtude destruicao completa furto roubo desde destinem adquirido iii cooperativas trabalho sejam permissionarias concessionarias tais veiculos nessa pessoas deficiencia fisica visual auditiva mental severa profunda transtorno espectro autista diretamente intermedio seu representante legal 287 2021 vide decreto 063 2022 vetado incluido 690 2003 considera pessoa aquela impedimento longo prazo natureza intelectual sensorial interacao uma mais barreiras pode obstruir participacao plena efetiva sociedade igualdade condicoes demais conforme avaliacao biopsicossocial prevista 146 julho 2015 estatuto enquanto executivo regulamentar sera exigida fins beneficio fiscal referida deste artigo revogado hipotese inciso refere caput serao pelas tenham capacidade juridica caso dos interditos pelos curadores respondem solidariamente quanto deixar ser pago razao isencao trata este exigencia aquisicao combustiveis aplica aos portadores 754 somente novo cujo preco venda consumidor incluidos tributos incidentes seja 200 duzentos reais",
+    "2": "art isencao imposto sobre produtos industrializados ipi que trata desta lei somente podera ser utilizada uma vez salvo veiculo tiver sido adquirido mais dois anos redacao dada pela 196 2005 paragrafo unico hipotese prevista inciso caput prazo deste artigo fica ampliado para tres 183 2021",
+    "3": "art isencao sera reconhecida pela secretaria especial receita federal brasil mediante previa verificacao que adquirente preenche requisitos previstos nesta lei redacao dada 183 2021",
+    "4": "art fica assegurada manutencao credito imposto sobre produtos industrializados ipi relativo redacao dada pela lei 113 2009 materias primas aos intermediarios material embalagem efetivamente utilizados industrializacao dos referidos nesta incluido pago desembaraco aduaneiro referente automovel passageiros originario procedente paises integrantes mercado comum sul mercosul saido estabelecimento importador pessoa juridica fabricante automoveis posicao tabela incidencia tipi com isencao que trata",
+    "5": "art imposto incidira normalmente sobre quaisquer acessorios opcionais que nao sejam equipamentos originais veiculo adquirido paragrafo unico vetado incluido pela lei 287 2021",
+    "6": "art alienacao veiculo adquirido nos termos desta lei que ocorrer periodo dois anos contado data sua aquisicao pessoas nao satisfacam condicoes requisitos estabelecidos para fruicao isencao acarretara pagamento pelo alienante tributo dispensado atualizado forma prevista legislacao tributaria redacao dada pela 183 2021 paragrafo unico inobservancia disposto neste artigo sujeita ainda multa juros moratorios previstos vigor hipotese fraude falta imposto devido",
+    "7": "art caso falecimento incapacitacao motorista profissional alcancado pelos incisos desta lei sem que tenha efetivamente adquirido veiculo direito sera transferido conjuge herdeiro designado por esse pelo juizo desde seja habilitado destine servico taxi",
+    "8": "art ficam convalidados atos praticados com base medida provisoria 790 dezembro 1994",
+    "9": "art esta lei entra vigor data sua publicacao produzira efeitos ate dezembro 2026 redacao dada pela 287 2021",
+    "10": "art revogam leis 199 1991 843 1994 senado federal fevereiro 1995 174 independencia 107 republica senador jose sarney presidente este texto nao substitui publicado dou edicao extra"
+  }
+}

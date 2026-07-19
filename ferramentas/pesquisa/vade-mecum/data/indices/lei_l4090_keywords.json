@@ -1,0 +1,42 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L4090",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l4090.json",
+      "colecao": "artigos",
+      "sha256": "182d0aea98b86796374b9955d3d48202e268a5ba9dad9f550040d4d78a13641b",
+      "total_registros": 4,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 4,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art mes dezembro cada ano todo empregado sera paga pelo empregador uma gratificacao salarial independentemente remuneracao que fizer jus correspondera avos devida por servico correspondente fracao igual superior quinze dias trabalho havida como integral para efeitos paragrafo anterior proporcional incluido pela lei 011 1995 extincao dos contratos prazo entre estes incluidos safra ainda relacao emprego haja findado antes cessacao resultante aposentadoria trabalhador verificada",
+    "2": "art faltas legais justificadas servico nao serao deduzidas para fins previstos desta lei",
+    "3": "art ocorrendo rescisao sem justa causa contrato trabalho empregado recebera gratificacao devida nos termos dos paragrafos desta lei calculada sobre remuneracao mes",
+    "4": "art esta lei entrara vigor data sua publicacao revogadas disposicoes contrario brasilia julho 1962 141 independencia republica joao goulart francisco brochado rocha hermes lima este texto nao substitui publicado dou"
+  }
+}

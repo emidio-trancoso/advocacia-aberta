@@ -1,0 +1,75 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L6615",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l6615.json",
+      "colecao": "artigos",
+      "sha256": "6842cd14c0f6c9e1403c19b3187f13465fa581da398057c5c4cea668f145bd57",
+      "total_registros": 37,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 37,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art exercicio profissao radialista regulado pela presente lei",
+    "2": "art considera radialista empregado empresa radiodifusao que exerca uma das funcoes desdobram atividades mencionadas",
+    "3": "art considera empresa radiodifusao para efeitos desta lei aquela que explora servicos transmissao programas mensagens destinada ser recebida livre gratuitamente pelo publico geral compreendendo sonora radio sons imagens televisao paragrafo unico igualmente explore servico musica funcional ambiental outras executem por quaisquer processos transmissoes dedique exclusivamente producao empresas entidade execute repeticao retransmissao privada fundacao mantenedora inclusive circuito fechado qualquer natureza agencias destinadas sua finalidade filmes dublagens comerciais nao serem divulgados atraves das",
+    "4": "art profissao radialista compreende seguintes atividades administracao producao iii tecnica compreendem somente especializadas peculiares empresas radiodifusao subdividem nos setores autoria direcao interpretacao dublagem locucao caracterizacao cenografia tecnicas tratamento registros sonoros visuais montagem arquivamento transmissao sons imagens revelacao copiagem filmes artes plasticas animacao desenhos objetos manutencao denominacoes descricoes das funcoes que desdobram mencionados paragrafos anteriores constarao regulamento serem previstas atualizadas deverao considerar redacao dada pela lei 424 2017 ocupacoes multifuncionalidades geradas digitalizacao emissoras novas tecnologias equipamentos meios informacao comunicacao incluido exclusivamente proprias",
+    "5": "art nao incluem disposto nesta lei atores figurantes que prestam servicos empresas radiodifusao",
+    "6": "art exercicio profissao radialista requer previo registro delegacia regional trabalho ministerio qual tera validade todo territorio nacional revogado pela medida provisoria 905 2019 revogada 955 2020 vigencia encerrada paragrafo unico pedido que trata este artigo podera ser encaminhado atraves sindicato representativo categoria profissional federacao respectiva",
+    "7": "art para registro radialista necessario apresentacao revogado pela medida provisoria 905 2019 revogada 955 2020 vigencia encerrada diploma curso superior quando existente funcoes que desdobram atividades fornecido por escola reconhecida forma lei certificado correspondente habilitacoes profissionais basicas grau iii atestado capacitacao profissional conforme dispuser regulamentacao desta",
+    "7-A": "art valida todo territorio nacional para fins identificacao profissional carteira radialista emitida pelo ministerio trabalho emprego incluido pela lei 335 2026 podera delegar etapas processo emissao que trata caput deste artigo sindicato categoria federacao devidamente credenciada registrada nos termos regulamento sera desde respeitado modelo proprio",
+    "7-B": "art modelo carteira identidade profissional radialista sera aprovado pelo ministerio trabalho emprego devera conter inscricao valida todo territorio nacional seguintes informacoes alem daquelas previstas regulamento incluido pela lei 335 2026 armas republica federativa brasil governo federal registro geral orgao emitente local data expedicao iii numero serie previdencia social nome filiacao sexo nascimento identificado bem como forma resumida comarca cartorio livro folha fotografia formato 3x4 assinatura impressao digital polegar direito nacionalidade naturalidade vii viii perante regional cargo funcao especifica",
+    "7-C": "art radialista nao sindicalizado tambem fara jus carteira profissional desde que seja habilitado registrado perante orgao regional ministerio trabalho emprego nos termos legislacao regulamenta atividade incluido pela lei 335 2026",
+    "8": "art contrato trabalho quando por tempo determinado devera ser registrado ministerio ate vespera sua vigencia conter obrigatoriamente revogado pela medida provisoria 905 2019 revogada 955 2020 encerrada qualificacao completa das partes contrates prazo iii natureza servico local que sera prestado clausula reiativa exclusividade transferibiiidade jornada com especificacao horario intervalo repouso vii remuneracao forma pagamento viii quanto categoria transporte hospedagem assegurada caso prestacao servicos fora onde foi contratado dia folga semanal numero carteira previdencia social trata este artigo visado pelo sindicato representativo profissional federacao respectiva como condicao para registro entidade sindical visar nao maximo dois dias uteis findos quais ele podera faltar manifestacao decisao negar visto cabera recurso",
+    "9": "art caso tratar rede radiodifusao propriedade controle mesmo grupo devera ser mencionado carteira trabalho previdencia social nome emissora qual sera prestado servico paragrafo unico quando onda tropical pertencente mesma concessionaria que transmita simultanea integral permanentemente programacao media serao mencionados nomes das duas emissoras",
+    "10": "art para contratacao estrangeiro domiciliado exterior exigir previo recolhimento importancia equivalente dez por cento valor total ajuste caixa economica federal titulo contribuicao sindical nome entidade categoria profissional revogado pela medida provisoria 905 2019 revogada 955 2020 vigencia encerrada",
+    "11": "art utilizacao profissional contratado por agencia locacao mao obra obrigara tomador servico solidariamente pelo cumprimento das obrigacoes legais contratuais caracterizar tentativa utilizar para fugir responsabilidades decorrentes desta lei contrato trabalho",
+    "12": "art nos contratos trabalho por tempo determinado para producao mensagens publicitarias feitas radio televisao constara obrigatoriamente contrato nome produtor anunciante hover agencia publicidade quem mensagem produzida exploracao comercial iii produto ser promovido meios comunicacao atraves dos quais sera exibida duracao suas caracterfsticas",
+    "13": "art hipotese exercicio funcoes acumuladas dentro mesmo setor que desdobram atividades mencionadas sera assegurado radialista adicional minimo quarenta por cento pela funcao acumulada tomando base melhor remunerada nas emissoras potencia igual superior dez quilowatts empresas equiparadas segundo paragrafo unico vinte inferior quilowatt iii",
+    "14": "art nao sera permitido por forca contrato trabalho exercicio para diferentes setores dentre mencionados",
+    "15": "art quando exercicio qualquer funcao for acumulado com responsabilidade chefia radialista fara jus acrescimo quarenta por cento sobre salario",
+    "16": "art hipotese trabalho executado fora local constante contrato correrao conta empregador alem salario despesas transportes alimentacao hospedagem ate respectivo retorno",
+    "17": "art nao sera permitida cessao promessa dos direitos autor que lhes sao conexos trata lei 988 dezembro 1973 decorrentes prestacao servicos profissionais paragrafo unico autorais serao devidos decorrencia cada exibicao obra",
+    "18": "art duracao normal trabalho radialista cinco horas para setores autoria locucao seis producao interpretacao dublagem tratamento registros sonoros visuais montagem arquivamento transmissao sons imagens revelacao copiagem filmes artes plasticas animacao desenhos objetos manutencao tecnica iii sete cenografia caracterizacao deduzindo desse tempo vinte minutos descanso sempre que verificar esforco continuo mais tres oito demais paragrafo unico prestado alem das limitacoes diarias previstas nos itens acima sera considerado extraordinario aplicando lhe disposto arts consolidacao leis clt",
+    "19": "art sera considerado como servico efetivo periodo que radialista permanecer disposicao empregador",
+    "20": "art assegurada radialista uma folga semanal remunerada vinte quatro horas consecutivas preferencia aos domingos paragrafo unico empresas organizarao escalas revezamento maneira favorecer empregado com repouso dominical mensal pelo menos salvo quando pela natureza servico atividade for desempenhada habitualmente",
+    "21": "art jornada trabalho dos radialistas que prestem servicos condicoes insalubridade periculosidade podera ser organizada turnos respeitada duracao semanal desde previamente autorizado pelo ministerio revogado pela medida provisoria 905 2019 revogada 955 2020 vigencia encerrada",
+    "22": "art clausula exclusividade nao impedira radialista prestar servicos outro empregador desde que meio comunicacao sem caracterize prejuizo para primeiro contratante",
+    "23": "art textos destinados memorizacao juntamente com roteiro gravacao plano trabalho deverao ser entregues profissional antecedencia minima vinte quatro horas relacao inicio dos trabalhos",
+    "24": "art nenhum profissional sera obrigado participar qualquer trabalho que coloque risco sua integridade fisica moral",
+    "25": "art fornecimento guarda roupa mais recursos indispensaveis cumprimento das tarefas contratuais sera responsabilidade empregador",
+    "26": "art empresa nao podera obrigar radialista fazer uso uniformes durante desempenho suas funcoes que contenham simbolos marcas qualquer mensagem carater publicitario paragrafo unico incluem nessa proibicao identificadores empregador",
+    "27": "art infracoes disposto nesta lei serao punidas com multa duas vinte vezes maior valor referencia previsto paragrafo unico 205 abril 1975 calculada razao por empregado situacao irregular caso reincidencia embaraco resistencia fiscalizacao emprego artificio simulacao objetivo fraudar sera aplicada seu maximo revogado pela medida provisoria 905 2019 revogada 955 2020 vigencia encerrada",
+    "28": "art empregador punido forma artigo anterior enquanto nao regularizar situacao que deu causa autuacao recolher multa aplicada apos esgotados recursos cabiveis podera receber beneficio incentivo subvencao concedidos por orgaos publicos",
+    "29": "art assegurado registro que refere radialista ate data publicacao desta lei tenha exercido comprovadamente respectiva profissao revogado pela medida provisoria 905 2019 revogada 955 2020 vigencia encerrada",
+    "30": "art aplicam radialista normas legislacao trabalho exceto naquilo que for incompativel com disposicoes desta lei",
+    "31": "art sao inaplicaveis orgaos administracao publica direta indireta disposicoes constantes desta lei revogado pela medida provisoria 905 2019 revogada 955 2020 vigencia encerrada",
+    "32": "art poder executivo expedira regulamento desta lei",
+    "33": "art esta lei entrara vigor noventa dias apos sua publicacao",
+    "34": "art revogam disposicoes contrario brasilia dezembro 1978 157 independencia republica ernesto geisel arnaldo prieto este texto nao substitui publicado dou"
+  }
+}

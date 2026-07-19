@@ -1,0 +1,70 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "LC108",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_lc108.json",
+      "colecao": "artigos",
+      "sha256": "1348369fed358b9c3a5fbce8904f541776d1097379b783b92cd3b5c5d32d3140",
+      "total_registros": 32,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 32,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art relacao entre uniao estados distrito federal municipios inclusive suas autarquias fundacoes sociedades economia mista empresas controladas direta indiretamente enquanto patrocinadores entidades fechadas previdencia complementar respectivas que referem 202 constituicao sera disciplinada pelo disposto nesta lei",
+    "2": "art regras principios gerais estabelecidos lei complementar que regula caput 202 constituicao federal aplicam entidades reguladas por esta ressalvadas disposicoes especificas",
+    "3": "art observado disposto artigo anterior planos beneficios das entidades que trata esta lei complementar atenderao seguintes regras carencia minima sessenta contribuicoes mensais plano cessacao vinculo com patrocinador para tornar elegivel beneficio prestacao seja programada continuada concessao pelo regime previdencia qual participante esteja filiado por intermedio seu quando tratar modalidade definido instituido depois publicacao desta paragrafo unico reajustes dos manutencao serao efetuados acordo criterios estabelecidos nos regulamentos vedado repasse ganhos produtividade abono vantagens qualquer natureza tais",
+    "4": "art nas sociedades economia mista empresas controladas direta indiretamente pela uniao pelos estados pelo distrito federal municipios proposta instituicao plano beneficios adesao execucao sera submetida orgao fiscalizador acompanhada manifestacao favoravel responsavel supervisao coordenacao controle patrocinador paragrafo unico alteracoes que implique elevacao contribuicao patrocinadores serao objeto previa referido caput",
+    "5": "art vedado uniao aos estados distrito federal municipios suas autarquias fundacoes empresas publicas sociedades economia mista outras entidades aporte recursos previdencia privada carater complementar salvo condicao patrocinador",
+    "6": "art custeio dos planos beneficios sera responsabilidade patrocinador participantes inclusive assistidos contribuicao normal para plano hipotese alguma excedera participante observado disposto emenda constitucional dezembro 1998 regras especificas emanadas orgao regulador fiscalizador alem das contribuicoes normais poderao prever aporte recursos pelos titulo facultativa sem contrapartida vedado assumir encargos adicionais financiamento daqueles previstos nos respectivos",
+    "7": "art despesa administrativa entidade previdencia complementar sera custeada pelo patrocinador pelos participantes assistidos atendendo limites criterios estabelecidos orgao regulador fiscalizador paragrafo unico facultada aos patrocinadores cessao pessoal entidades que patrocinam desde ressarcidos custos correspondentes",
+    "8": "art administracao execucao dos planos beneficios compete entidades fechadas previdencia complementar mencionadas desta lei paragrafo unico que trata caput organizar sob forma fundacao sociedade civil sem fins lucrativos",
+    "9": "art estrutura organizacional das entidades previdencia complementar que refere esta lei constituida conselho deliberativo fiscal diretoria executiva",
+    "10": "art conselho deliberativo orgao maximo estrutura organizacional responsavel pela definicao politica geral administracao entidade seus planos beneficios",
+    "11": "art composicao conselho deliberativo integrado por maximo seis membros sera paritaria entre representantes dos participantes assistidos patrocinadores cabendo estes indicacao conselheiro presidente que tera alem seu voto qualidade escolha dar meio eleicao direta seus pares caso estatuto entidade fechada respeitado numero conselheiros trata caput participacao preveja outra tenha sido aprovada forma prevista esta podera ser aplicada mediante autorizacao orgao regulador fiscalizador",
+    "12": "art mandato dos membros conselho deliberativo sera quatro anos com garantia estabilidade permitida uma reconducao membro somente perdera virtude renuncia condenacao judicial transitada julgado processo administrativo disciplinar instauracao para apuracao irregularidades ambito atuacao entidade fechada podera determinar afastamento conselheiro ate sua conclusao que trata paragrafo anterior nao implica prorrogacao permanencia cargo alem data inicialmente prevista termino estatuto devera regulamentar procedimentos tratam paragrafos anteriores deste artigo",
+    "13": "art conselho deliberativo compete definicao das seguintes materias politica geral administracao entidade seus planos beneficios alteracao estatuto regulamentos dos bem como implantacao extincao deles retirada patrocinador iii gestao investimentos plano aplicacao recursos autorizar que envolvam valores iguais superiores cinco por cento garantidores contratacao auditor independente atuario avaliador observadas disposicoes regulamentares aplicaveis nomeacao exoneracao membros diretoria executiva vii exame grau recurso decisoes paragrafo unico previstas inciso devera ser aprovada pelo",
+    "14": "art conselho fiscal orgao controle interno entidade",
+    "15": "art composicao conselho fiscal integrado por maximo quatro membros sera paritaria entre representantes patrocinadores participantes assistidos cabendo estes indicacao conselheiro presidente que tera alem seu voto qualidade paragrafo unico caso estatuto entidade fechada respeitado numero conselheiros trata caput participacao dos preveja outra tenha sido aprovada forma prevista esta podera ser aplicada mediante autorizacao orgao regulador fiscalizador",
+    "16": "art mandato dos membros conselho fiscal sera quatro anos vedada reconducao",
+    "17": "art renovacao dos mandatos conselheiros devera obedecer criterio proporcionalidade forma que processe parcialmente cada dois anos primeira investidura conselhos apos publicacao desta lei complementar seus membros terao mandato com prazo diferenciado conselho deliberativo renovar tres fiscal mesma periodicidade observada regra transicao estabelecida paragrafo anterior",
+    "18": "art aplicam aos membros dos conselhos deliberativo fiscal mesmos requisitos previstos nos incisos iii desta lei complementar",
+    "19": "art diretoria executiva orgao responsavel pela administracao entidade conformidade com politica tracada pelo conselho deliberativo sera composta maximo por seis membros definidos funcao patrimonio seu numero participantes inclusive assistidos estatuto fechada respeitado diretores que trata paragrafo anterior devera prever forma composicao mandato aprovado prevista observadas demais disposicoes desta lei complementar",
+    "20": "art membros diretoria executiva deverao atender aos seguintes requisitos minimos comprovada experiencia exercicio atividade area financeira administrativa contabil juridica fiscalizacao atuarial auditoria nao ter sofrido condenacao criminal transitada julgado iii penalidade por infracao legislacao seguridade social inclusive previdencia complementar como servidor publico formacao nivel superior",
+    "21": "art aos membros diretoria executiva vedado exercer simultaneamente atividade patrocinador integrar concomitantemente conselho deliberativo fiscal entidade mesmo depois termino seu mandato enquanto nao tiver suas contas aprovadas iii longo exercicio prestar servicos instituicoes integrantes sistema financeiro",
+    "22": "art entidade previdencia complementar informara orgao regulador fiscalizador responsavel pelas aplicacoes dos recursos escolhido entre membros diretoria executiva paragrafo unico demais responderao solidariamente com dirigente indicado forma caput pelos danos prejuizos causados para quais tenham concorrido",
+    "23": "art nos doze meses seguintes termino exercicio cargo diretor estara impedido prestar direta indiretamente independentemente forma natureza contrato qualquer tipo servico empresas sistema financeiro que impliquem utilizacao das informacoes teve acesso decorrencia exercido sob pena responsabilidade civil penal durante impedimento nao tiver sido destituido pedir afastamento sera assegurada possibilidade entidade mediante remuneracao equivalente direcao exerceu outro orgao administracao publica incorre pratica advocacia administrativa sujeitando penas lei violar previsto neste artigo exceto retornar emprego ocupava junto patrocinador anteriormente indicacao para respectiva diretoria executiva for nomeado",
+    "24": "art fiscalizacao controle dos planos beneficios das entidades fechadas previdencia complementar que trata esta lei competem orgao regulador fiscalizador",
+    "25": "art acoes exercidas pelo orgao referido artigo anterior nao eximem patrocinadores responsabilidade pela supervisao fiscalizacao sistematica das atividades suas respectivas entidades previdencia complementar paragrafo unico resultados controle exercidos pelos serao encaminhados mencionado",
+    "26": "art entidades fechadas previdencia complementar patrocinadas por empresas privadas permissionarias concessionarias prestacao servicos publicos subordinam que couber disposicoes desta lei forma estabelecida pelo orgao regulador fiscalizador",
+    "27": "art entidades previdencia complementar patrocinadas por publicas inclusive empresas sociedades economia mista deverao rever prazo dois anos contar dezembro 1998 seus planos beneficios servicos modo ajusta los atuarialmente ativos sob pena intervencao sendo dirigentes respectivos patrocinadores responsaveis civil criminalmente pelo descumprimento disposto neste artigo",
+    "28": "art infracao qualquer disposicao desta lei complementar seu regulamento para qual nao haja penalidade expressamente cominada sujeita pessoa fisica juridica responsavel conforme caso gravidade penalidades administrativas previstas que disciplina caput 202 constituicao federal",
+    "29": "art entidades previdencia privada patrocinadas por empresas controladas direta indiretamente pela uniao estados distrito federal municipios que possuam planos beneficios definidos com responsabilidade patrocinadora nao poderao exercer controle participar acordo acionistas tenha objeto formacao grupo sociedade anonima sem previa expressa autorizacao seu respectivo ente controlador paragrafo unico disposto caput aplica participacoes acionarias detidas data publicacao desta lei complementar",
+    "30": "art entidades previdencia complementar terao prazo ano para adaptar sua organizacao estatutaria disposto nesta lei contados partir data publicacao",
+    "31": "art esta lei complementar entra vigor data sua publicacao",
+    "32": "art revoga lei 020 abril 1990 brasilia maio 2001 180o independencia 113o republica fernando henrique cardoso jose gregori pedro malan roberto brant este texto nao substitui publicado dou"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L14478",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l14478.json",
+      "colecao": "artigos",
+      "sha256": "ee3f4f39fadd70ffe04973792e6882d7cf50d669fffaecdb28daf6faa8dce34e",
+      "total_registros": 14,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 14,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art esta lei dispoe sobre diretrizes serem observadas prestacao servicos ativos virtuais regulamentacao das prestadoras paragrafo unico disposto nesta nao aplica aos representativos valores mobiliarios sujeitos regime 385 dezembro 1976 altera nenhuma competencia comissao",
+    "2": "art prestadoras servicos ativos virtuais somente poderao funcionar pais mediante previa autorizacao orgao entidade administracao publica federal paragrafo unico ato que refere caput estabelecera hipoteses parametros trata deste artigo podera ser concedida procedimento simplificado",
+    "3": "art para efeitos desta lei considera ativo virtual representacao digital valor que pode ser negociada transferida por meios eletronicos utilizada realizacao pagamentos com proposito investimento nao incluidos moeda nacional moedas estrangeiras eletronica nos termos 865 outubro 2013 iii instrumentos provejam seu titular acesso produtos servicos especificados beneficio proveniente desses exemplo pontos recompensas programas fidelidade representacoes ativos cuja emissao escrituracao negociacao liquidacao esteja prevista regulamento valores mobiliarios financeiros paragrafo unico competira orgao entidade administracao publica federal definido ato poder executivo estabelecer quais serao regulados fins",
+    "4": "art prestacao servico ativos virtuais deve observar seguintes diretrizes segundo parametros serem estabelecidos pelo orgao pela entidade administracao publica federal definido ato poder executivo livre iniciativa concorrencia boas praticas governanca transparencia nas operacoes abordagem baseada riscos iii seguranca informacao protecao dados pessoais defesa consumidores usuarios poupanca popular solidez eficiencia das vii prevencao lavagem dinheiro financiamento terrorismo proliferacao armas destruicao massa alinhamento com padroes internacionais",
+    "5": "art considera prestadora servicos ativos virtuais pessoa juridica que executa nome terceiros pelo menos dos entendidos como troca entre moeda nacional estrangeira mais iii transferencia custodia administracao instrumentos possibilitem controle sobre participacao financeiros prestacao relacionados oferta por emissor venda paragrafo unico orgao entidade publica federal indicado ato poder executivo podera autorizar realizacao outros estejam direta indiretamente atividade trata caput deste artigo",
+    "6": "art ato poder executivo atribuira mais orgaos entidades administracao publica federal disciplina funcionamento supervisao prestadora servicos ativos virtuais",
+    "7": "art compete orgao entidade reguladora indicada ato poder executivo federal autorizar funcionamento transferencia controle fusao cisao incorporacao prestadora servicos ativos virtuais estabelecer condicoes para exercicio cargos orgaos estatutarios contratuais posse pessoas administracao iii supervisionar aplicar disposicoes lei 506 novembro 2017 caso descumprimento desta sua regulamentacao cancelar oficio pedido autorizacoes que tratam incisos deste caput dispor sobre hipoteses atividades operacoes trata serao incluidas mercado cambio deverao submeter capitais brasileiros exterior estrangeiros pais paragrafo unico publica definira poderao provocar cancelamento previsto inciso artigo respectivo procedimento",
+    "8": "art instituicoes autorizadas funcionar pelo banco central brasil poderao prestar exclusivamente servico ativos virtuais cumula com outras atividades forma regulamentacao ser editada por orgao entidade administracao publica federal indicada ato poder executivo",
+    "9": "art orgao entidade administracao publica federal que trata caput desta lei estabelecera condicoes prazos nao inferiores seis meses para adequacao das prestadoras servicos ativos virtuais estiverem atividade disposicoes normas por ele estabelecidas",
+    "10": "art decreto lei 848 dezembro 1940 codigo penal passa vigorar acrescido seguinte 171 fraude com utilizacao ativos virtuais valores mobiliarios financeiros",
+    "11": "art paragrafo unico lei 492 junho 1986 passa vigorar com seguintes alteracoes pessoa juridica que ofereca servicos referentes operacoes ativos virtuais inclusive intermediacao negociacao custodia",
+    "12": "art lei 613 marco 1998 passa vigorar com seguintes alteracoes pena sera aumentada terco dois tercos crimes definidos nesta forem cometidos forma reiterada por intermedio organizacao criminosa meio utilizacao ativo virtual paragrafo unico xix prestadoras servicos ativos virtuais manterao registro toda transacao moeda nacional estrangeira titulos valores mobiliarios credito metais qualquer passivel ser convertido dinheiro que ultrapassar limite fixado pela autoridade competente nos termos instrucoes esta expedidas ato poder executivo federal regulamentara disciplina funcionamento cadastro pessoas expostas politicamente cnpep disponibilizado pelo portal transparencia orgaos entidades quaisquer poderes uniao dos estados distrito municipios deverao encaminhar gestor periodicidade definidas regulamento trata caput deste artigo informacoes atualizadas sobre seus integrantes classificados como peps legislacao regulacao vigentes referidas desta incluirao consulta entre procedimentos para cumprimento das obrigacoes previstas arts sem prejuizo outras diligencias exigidas orgao indicara ativa internet deixem cumprir obrigacao prevista",
+    "13": "art aplicam operacoes conduzidas mercado ativos virtuais que couber disposicoes lei 078 setembro 1990 codigo defesa consumidor",
+    "14": "art esta lei entra vigor apos decorridos 180 cento oitenta dias sua publicacao oficial brasilia dezembro 2022 201o independencia 134o republica jair messias bolsonaro marcelo pacheco dos guaranys wagner campos rosario este texto nao substitui publicado dou"
+  }
+}

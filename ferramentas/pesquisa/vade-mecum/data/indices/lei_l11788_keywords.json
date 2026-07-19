@@ -1,0 +1,60 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L11788",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l11788.json",
+      "colecao": "artigos",
+      "sha256": "6d116add7bcbae46033fa8efd60dba97733b35946d7b4ae10de851d520c38c76",
+      "total_registros": 22,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 22,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art estagio ato educativo escolar supervisionado desenvolvido ambiente trabalho que visa preparacao para produtivo educandos estejam frequentando ensino regular instituicoes educacao superior profissional medio especial dos anos finais fundamental modalidade jovens adultos faz parte projeto pedagogico curso alem integrar itinerario formativo educando aprendizado competencias proprias atividade contextualizacao curricular objetivando desenvolvimento vida cidada",
+    "2": "art estagio podera ser obrigatorio nao conforme determinacao das diretrizes curriculares etapa modalidade area ensino projeto pedagogico curso aquele definido como tal cuja carga horaria requisito para aprovacao obtencao diploma desenvolvido atividade opcional acrescida regular obrigatoria atividades extensao monitorias iniciacao cientifica educacao superior desenvolvidas pelo estudante somente poderao equiparadas caso previsao intercambio exterior redacao dada pela lei 913 2024",
+    "3": "art estagio tanto hipotese desta lei quanto prevista mesmo dispositivo nao cria vinculo empregaticio qualquer natureza observados seguintes requisitos matricula frequencia regular educando curso educacao superior profissional ensino medio especial nos anos finais fundamental modalidade jovens adultos atestados pela instituicao celebracao termo compromisso entre parte concedente iii compatibilidade atividades desenvolvidas aquelas previstas como ato educativo escolar supervisionado devera ter acompanhamento efetivo pelo professor orientador por supervisor comprovado vistos relatorios referidos inciso caput mencao aprovacao final descumprimento dos incisos deste artigo obrigacao contida caracteriza emprego com para todos fins legislacao trabalhista previdenciaria",
+    "4": "art realizacao estagios nos termos desta lei aplica aos estudantes estrangeiros regularmente matriculados cursos superiores pais autorizados reconhecidos observado prazo visto temporario estudante forma legislacao aplicavel",
+    "5": "art instituicoes ensino partes cedentes estagio podem seu criterio recorrer servicos agentes integracao publicos privados mediante condicoes acordadas instrumento juridico apropriado devendo ser observada caso contratacao com recursos legislacao que estabelece normas gerais licitacao cabe aos como auxiliares processo aperfeicoamento instituto identificar oportunidades ajustar suas realizacao iii fazer acompanhamento administrativo encaminhar negociacao seguros contra acidentes pessoais cadastrar estudantes vedada cobranca qualquer valor dos titulo remuneracao pelos referidos nos incisos deste artigo serao responsabilizados civilmente indicarem estagiarios para atividades nao compativeis programacao curricular estabelecida cada curso assim matriculados cursos quais previsao",
+    "6": "art local estagio pode ser selecionado partir cadastro partes cedentes organizado pelas instituicoes ensino pelos agentes integracao",
+    "7": "art sao obrigacoes das instituicoes ensino relacao aos estagios seus educandos celebrar termo compromisso com educando seu representante assistente legal quando ele for absoluta relativamente incapaz parte concedente indicando condicoes adequacao estagio proposta pedagogica curso etapa modalidade formacao escolar estudante horario calendario avaliar instalacoes sua cultural profissional iii indicar professor orientador area ser desenvolvida como responsavel pelo acompanhamento avaliacao atividades estagiario exigir apresentacao periodica prazo nao superior seis meses relatorio zelar cumprimento reorientando para outro local caso descumprimento suas normas elaborar complementares instrumentos dos vii comunicar inicio periodo letivo datas realizacao avaliacoes escolares academicas paragrafo unico plano elaborado acordo tres partes que refere inciso caput desta lei sera incorporado por meio aditivos medida avaliado progressivamente desempenho",
+    "8": "art facultado instituicoes ensino celebrar com entes publicos privados convenio concessao estagio nos quais explicitem processo educativo compreendido nas atividades programadas para seus educandos condicoes que tratam arts desta lei paragrafo unico celebracao entre instituicao parte concedente nao dispensa termo compromisso trata inciso caput",
+    "9": "art pessoas juridicas direito privado orgaos administracao publica direta autarquica fundacional qualquer dos poderes uniao estados distrito federal municipios bem como profissionais liberais nivel superior devidamente registrados seus respectivos conselhos fiscalizacao profissional podem oferecer estagio observadas seguintes obrigacoes celebrar termo compromisso com instituicao ensino educando zelando por seu cumprimento ofertar instalacoes que tenham condicoes proporcionar atividades aprendizagem social cultural iii indicar funcionario quadro pessoal formacao experiencia area conhecimento desenvolvida curso estagiario para orientar supervisionar ate dez estagiarios simultaneamente contratar favor seguro contra acidentes pessoais cuja apolice seja compativel valores mercado conforme fique estabelecido ocasiao desligamento entregar realizacao indicacao resumida das desenvolvidas periodos avaliacao desempenho manter disposicao documentos comprovem relacao vii enviar periodicidade minima seis meses relatorio vista obrigatoria paragrafo unico caso obrigatorio responsabilidade pela contratacao trata inciso caput deste artigo podera alternativamente ser assumida incluido lei 913 2024 referido tambem celebrado esteja vinculado intercambista estrangeiro realizar intercambio estudante brasileiro",
+    "10": "art jornada atividade estagio sera definida comum acordo entre instituicao ensino parte concedente aluno estagiario seu representante legal devendo constar termo compromisso ser compativel com atividades escolares nao ultrapassar quatro horas diarias vinte semanais caso estudantes educacao especial dos anos finais fundamental modalidade profissional jovens adultos seis trinta superior nivel medio regular relativo cursos que alternam teoria pratica nos periodos estao programadas aulas presenciais podera ter ate quarenta desde isso esteja previsto projeto pedagogico curso adotar verificacoes aprendizagem periodicas avaliacao carga horaria reduzida pelo menos metade segundo estipulado para garantir bom desempenho estudante",
+    "11": "art duracao estagio mesma parte concedente nao podera exceder dois anos exceto quando tratar estagiario portador deficiencia",
+    "12": "art estagiario podera receber bolsa outra forma contraprestacao que venha ser acordada sendo compulsoria sua concessao bem como auxilio transporte hipotese estagio nao obrigatorio eventual beneficios relacionados alimentacao saude entre outros caracteriza vinculo empregaticio educando inscrever contribuir segurado facultativo regime geral previdencia social",
+    "13": "art assegurado estagiario sempre que estagio tenha duracao igual superior ano periodo recesso trinta dias ser gozado preferencialmente durante suas ferias escolares trata este artigo devera remunerado quando receber bolsa outra forma contraprestacao previstos neste serao concedidos maneira proporcional nos casos ter inferior",
+    "14": "art aplica estagiario legislacao relacionada saude seguranca trabalho sendo sua implementacao responsabilidade parte concedente estagio",
+    "15": "art manutencao estagiarios desconformidade com esta lei caracteriza vinculo emprego educando parte concedente estagio para todos fins legislacao trabalhista previdenciaria instituicao privada publica que reincidir irregularidade trata este artigo ficara impedida receber por dois anos contados data decisao definitiva processo administrativo correspondente penalidade deste limita filial agencia for cometida",
+    "16": "art termo compromisso devera ser firmado pelo estagiario com seu representante assistente legal pelos representantes legais parte concedente instituicao ensino vedada atuacao dos agentes integracao que refere desta lei como qualquer das partes",
+    "17": "art numero maximo estagiarios relacao quadro pessoal das entidades concedentes estagio devera atender seguintes proporcoes cinco empregados estagiario seis dez ate dois iii onze vinte acima por cento para efeito desta lei considera conjunto trabalhadores existentes estabelecimento hipotese parte concedente contar com varias filiais estabelecimentos quantitativos previstos nos incisos deste artigo serao aplicados cada deles quando calculo percentual disposto inciso caput resultar fracao podera ser arredondado inteiro imediatamente superior nao aplica aos estagios nivel medio profissional fica assegurado pessoas portadoras deficiencia vagas oferecidas pela",
+    "18": "art prorrogacao dos estagios contratados antes inicio vigencia desta lei apenas podera ocorrer ajustada suas disposicoes",
+    "19": "art 428 consolidacao das leis trabalho clt aprovada pelo decreto lei 452 maio 1943 passa vigorar com seguintes alteracoes validade contrato aprendizagem pressupoe anotacao carteira previdencia social matricula frequencia aprendiz escola caso nao haja concluido ensino medio inscricao programa desenvolvido sob orientacao entidade qualificada formacao tecnico profissional metodica podera ser estipulado por mais dois anos exceto quando tratar portador deficiencia vide medida provisoria 116 2022 nas localidades onde houver oferta para cumprimento disposto deste artigo contratacao ocorrer sem desde que ele tenha fundamental",
+    "20": "art lei 394 dezembro 1996 passa vigorar com seguinte redacao sistemas ensino estabelecerao normas realizacao estagio sua jurisdicao observada federal sobre materia paragrafo unico revogado",
+    "21": "art esta lei entra vigor data sua publicacao",
+    "22": "art revogam leis nos 494 dezembro 1977 859 marco 1994 paragrafo unico lei 394 1996 medida provisoria 164 agosto 2001 brasilia setembro 2008 187o independencia 120o republica luiz inacio lula silva fernando haddad andre peixoto figueiredo lima este texto nao substitui publicado dou"
+  }
+}

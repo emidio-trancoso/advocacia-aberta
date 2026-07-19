@@ -1,0 +1,66 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L6091",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l6091.json",
+      "colecao": "artigos",
+      "sha256": "ceb43ea3954f2e8e42c131dc71154f5dc247787c55596687bcf6195eca6c4ce7",
+      "total_registros": 28,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 28,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art veiculos embarcacoes devidamente abastecidos tripulados pertencentes uniao estados territorios municipios suas respectivas autarquias sociedades economia mista excluidos uso militar ficarao disposicao justica eleitoral para transporte gratuito eleitores zonas rurais dias eleicao excetuam disposto neste artigo numero justificadamente indispensavel funcionamento servico publico insusceptivel interrupcao ate quinze antes das eleicoes requisitara dos orgaos administracao direta indireta distrito federal funcionarios instalacoes que necessitar possibilitar execucao servicos alimentacao previstos nesta lei",
+    "2": "art utilizacao veiculos pertencentes entidades previstas nao for suficiente para atender disposto nesta lei justica eleitoral requisitara embarcacoes particulares preferencia aluguel paragrafo unico servicos requisitados serao pagos ate trinta dias depois pleito precos que correspondam aos criterios localidade despesa correra por conta fundo partidario",
+    "3": "art ate cinquenta dias antes data pleito responsaveis por todas reparticoes orgaos unidades servico publico federal estadual municipal oficiarao justica eleitoral informando numero especie lotacao dos veiculos embarcacoes sua propriedade justificando for caso ocorrencia excecao prevista paragrafo desta lei disposicao deverao mediante comunicacao expressa seus proprietarios estar condicoes ser utilizados pelo menos vinte quatro horas das eleicoes circularao exibindo modo bem visivel distico letras garrafais com frase vista informacoes recebidas planejara execucao transporte eleitores requisitara aos pelas trinta necessarios",
+    "4": "art quinze dias antes pleito justica eleitoral divulgara pelo orgao competente quadro geral percursos horarios programados para transporte eleitores dele fornecendo copias aos partidos politicos somente sera feito dentro dos limites territoriais respectivo municipio quando das zonas rurais mesas receptoras distar menos dois quilometros candidatos numero vinte poderao oferecer reclamacoes tres contados divulgacao serao apreciadas nos subsequentes delas cabendo recurso sem efeito suspensivo decididas pelos meios disponiveis definitivo",
+    "5": "art nenhum veiculo embarcacao podera fazer transporte eleitores desde dia anterior ate posterior eleicao salvo servico justica eleitoral coletivos linhas regulares nao fretados iii uso individual proprietario para exercicio proprio voto dos membros sua familia normal sem finalidade veiculos aluguel atingidos pela requisicao que trata",
+    "6": "art indisponibilidade deficiencias transporte que trata esta lei nao eximem eleitor dever votar paragrafo unico verificada inexistencia deficiencia embarcacoes veiculos poderao orgaos partidarios candidatos indicar justica eleitoral onde disponibilidade para seja feita competente requisicao",
+    "7": "art eleitor que deixar votar nao justificar perante juiz eleitoral ate sessenta dias apos realizacao eleicao incorrera multa tres dez por cento sobre salario minimo regiao imposta pelo cobrada forma prevista 367 lei 737 julho 1965",
+    "8": "art somente justica eleitoral podera quando imprescindivel face absoluta carencia recursos eleitores zona rural fornecer lhes refeicoes correndo nesta hipotese despesas por conta fundo partidario",
+    "9": "art facultado aos partidos exercer fiscalizacao nos locais onde houver transporte fornecimento refeicoes eleitores",
+    "10": "art vedado aos candidatos orgaos partidarios qualquer pessoa fornecimento transporte refeicoes eleitores zona urbana",
+    "11": "art constitui crime eleitoral descumprir responsavel por orgao reparticao unidade servico publico dever imposto prestar informacao inexata que vise elidir total parcialmente contribuicao ele trata pena detencao quinze dias seis meses pagamento 100 multa desatender requisicao 200 300 alem apreensao veiculo para fim previsto iii proibicao dos artigos reclusao quatro anos 302 codigo obstar qualquer forma prestacao servicos previstos nos arts desta lei atribuidos justica dois utilizar campanha decurso noventa antecedem pleito veiculos embarcacoes pertencentes uniao estados territorios municipios respectivas autarquias sociedades economia mista cancelamento registro candidato seu diploma houver sido proclamado eleito paragrafo unico pela guarda embarcacao sera punido com sessenta cem",
+    "12": "art propaganda eleitoral radio televisao circunscrever unica exclusivamente horario gratuito disciplinado pela justica com expressa proibicao qualquer paga paragrafo unico sera permitida apenas divulgacao imprensa escrita curriculum vitae candidato numero seu registro bem como partido que pertence",
+    "13": "art sao vedados considerados nulos pleno direito nao gerando obrigacao especie alguma para pessoa juridica interessada nem qualquer beneficiario atos que periodo compreendido entre noventa dias anteriores data das eleicoes parlamentares termino respectivamente mandato governador estado importem nomear contratar designar readaptar proceder quaisquer outras formas provimento funcionario servidor administracao direta nas autarquias empresas publicas sociedades economia mista dos estados municipios salvo cargos comissao magistratura ministerio publico com aprovacao respectivo orgao legislativo tribunais contas aprovados concursos publicos homologados ate publicacao desta lei excetuam disposto artigo nomeacao contratacao necessarias instalacao inadiavel servicos essenciais previa expressa autorizacao prefeito tecnico indispensavel funcionamento servico essencial ato devida fundamentacao sera publicado oficial",
+    "14": "art justica eleitoral instalara trinta dias antes pleito sede cada municipio comissao especial transporte alimentacao composta pessoas indicadas pelos diretorios regionais dos partidos politicos nacionais com finalidade colaborar execucao desta lei para compor partido indicara tres que nao disputem cargo eletivo facultado candidato sua notoria influencia politica indicar diretorio seu pessoa confianca integrar",
+    "15": "art diretorios regionais ate quarenta dias antes pleito farao indicacoes que trata artigo desta lei",
+    "16": "art eleitor que deixar votar por encontrar ausente seu domicilio eleitoral devera justificar falta prazo sessenta dias meio requerimento dirigido juiz sua zona inscricao mandara anotar fato respectiva folha individual votacao duas vias sera levado sobrecarta aberta agencia postal depois dar andamento via aplicara carimbo recepcao devolvendo interessado valendo esta como prova para todos efeitos legais estando exterior dia realizarem eleicoes tera trinta contar volta pais justificacao",
+    "17": "art eleitor que residir distrito federal podera requerer juiz eleitoral seu novo domicilio remessa sua folha individual votacao para sufragar nas eleicoes senado camara dos deputados candidatos estado territorio seja",
+    "18": "art zona eleitoral origem recebendo requisicao juiz determinara revogado pela lei 493 1986 remessa imediata folha individual votacao parte canhoto titulo juizo distrito federal anotacao que eleitor enquanto nao optar devolucao dos documentos mencionados permanecera votando apenas nas eleicoes para congresso nacional",
+    "19": "art prazo que refere artigo reabrir noventa dias apos data das eleicoes gerais revogado pela lei 493 1986",
+    "20": "art mesas receptoras votos distrito federal aplicam seguintes normas revogado pela lei 493 1986 seus membros serao nomeados ate trinta dias antes eleicao dentre eleitores propria secao sendo necessario outros locais onde funcionarao designados prazo inciso anterior iii deverao ser organizadas distintas para cada estado territorio quando numero for reduzido juiz eleitoral podera reunir dois mais estados territorios numa unica utilizando porem urnas diferentes circunscricao ressalvadas disposicoes constantes deste artigo todas legislacao",
+    "21": "art tribunais regionais eleitorais dos estados comunicarao tribunal regional eleitoral distrito federal nomes numeros candidatos que houverem registrado revogado pela lei 493 1986",
+    "22": "art delegados fiscais dos partidos serao nomeados pelo presidente respectivo diretorio nacional revogado pela lei 493 1986",
+    "23": "art urnas utilizadas distrito federal dia seguinte eleicao serao enviados para tribunal regional eleitoral estado correspondente que designara junta juntas competentes apuracao revogado pela lei 493 1986",
+    "24": "art normas constantes legislacao eleitoral partidaria que regulam propaganda dos partidos candidatos nao aplicam distrito federal onde sera admitida qualquer especie salvo divulgacao escrita nomes numeros registrados feito exclusivamente pelo diretorio nacional politicos revogado pela lei 493 1986",
+    "25": "art eleitor inscrito distrito federal por transferencia podera partir 1975 requerer retransferencia para zona eleitoral origem revogado pela lei 493 1986 pedido devidamente instruido sera remetido indicada pelo onde processado despachado diligencias que tornarem necessarias serao cumpridas atraves juizo deferida inscricao juiz novo domicilio enviara titulo ser entregue assim como folha individual votacao segunda parte",
+    "26": "art poder executivo autorizado abrir credito especial 000 vinte milhoes cruzeiros destinado fundo partidario para atender despesas decorrentes aplicacao desta lei eleicao novembro 1974 paragrafo unico abertura neste artigo sera compensada mediante anulacao dotacoes constantes orcamento corrente exercicio que trata 964 1973",
+    "27": "art sem prejuizo disposto inciso xvii artigo codigo eleitoral lei 737 julho 1965 tribunal superior expedira dentro dias data publicacao desta instrucoes necessarias sua execucao",
+    "28": "art esta lei entra vigor data sua publicacao revogadas disposicoes contrario brasilia agosto 1974 153 independencia republica ernesto geisel armando falcao mario henrique simonsen joao paulo dos reis velloso este texto nao substitui publicado dou"
+  }
+}

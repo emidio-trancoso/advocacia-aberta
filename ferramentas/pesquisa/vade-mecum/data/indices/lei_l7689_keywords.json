@@ -1,0 +1,51 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L7689",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l7689.json",
+      "colecao": "artigos",
+      "sha256": "dd65f20bd7c5424f378d4a6364d61c1707516ad854e6a4485f68f54709578148",
+      "total_registros": 13,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 13,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art fica instituida contribuicao social sobre lucro das pessoas juridicas destinada financiamento seguridade",
+    "2": "art base calculo contribuicao valor resultado exercicio antes provisao para imposto renda efeito disposto neste artigo sera considerado periodo encerrado dezembro cada ano caso incorporacao fusao cisao encerramento atividades apurado respectivo balanco com observancia legislacao comercial ajustado pela exclusao positivo avaliacao investimentos pelo patrimonio liquido dos lucros dividendos derivados avaliados custo aquisicao que tenham sido computado como receita lucro decorrente exportacoes incentivadas trata decreto lei 413 fevereiro 1988 segundo 598 1977 alteracoes posteriores revogado 856 1989 988 adicao negativo redacao dada medida provisoria 161 1990 reserva reavaliacao baixado durante cuja contrapartida nao tenha computada das provisoes deduzieis determinacao real exceto computados incluido corrigido monetariamente adicionadas forma item baixados curso 034 baixada dedutiveis participacoes societarias pessoas juridicas domiciliadas brasil 973 2014 vigencia baixadas pessoa juridica desobrigada escrituracao contabil correspondera dez por cento bruta auferida janeiro ressalvado alinea paragrafo anterior",
+    "3": "art aliquota contribuicao oito por cento vide lei 856 1989 medida provisoria paragrafo unico exercicio instituicoes referidas decreto 426 abril 1988 pagarao doze",
+    "4": "art sao contribuintes pessoas juridicas domiciliadas pais que lhes equiparadas pela legislacao tributaria",
+    "5": "art contribuicao social sera convertida numero obrigacoes tesouro nacional otn mediante divisao seu valor cruzados pelo uma vigente mes encerramento periodo base sua apuracao paga seis prestacoes mensais iguais consecutivas expressas venciveis ultimo dia util abril setembro cada exercicio financeiro caso alinea devera ser ate subsequente incorporacao fusao cisao atividades valores parcela serao expressos segunda casa decimal quando resultarem fracionarios abandonando demais nenhuma exceto unica inferior dez determinado multiplicacao expresso pagamento",
+    "6": "art administracao fiscalizacao contribuicao social que trata esta lei compete secretaria receita federal paragrafo unico aplicam couber disposicoes legislacao imposto renda referente lancamento consulta cobranca penalidades garantias processo administrativo",
+    "7": "art orgao secretaria receita federal enviarao procuradorias fazenda nacional demonstrativos debitos contribuicao que trata esta lei para fins apuracao inscricao divida ativa uniao este artigo poderao sem prejuizo respectiva liquidez certeza ser inscritos pelo valor expresso otn far conversao debito forma prevista paragrafo anterior com base mes seu vencimento",
+    "8": "art contribuicao social sera devida partir resultado apurado periodo base ser encerrado dezembro 1988 vide adin execucao suspensa pela rsf 1995",
+    "9": "art ficam mantidas contribuicoes previstas legislacao vigor incidentes sobre folha salarios que trata decreto lei 940 maio 1982 alteracoes posteriores incidente faturamento das empresas com fundamento 195 constituicao federal vide adin",
+    "10": "art partir exercicio financeiro 1989 pessoas juridicas pagarao imposto renda aliquota trinta por cento sobre lucro real arbitrado apurado conformidade com legislacao tributaria sem prejuizo adicional que trata arts decreto lei 462 agosto 1988",
+    "11": "art relacao aos fatos geradores ocorridos entre janeiro dezembro 1989 fica alterada para trinta cinco centesimos por cento aliquota que tratam itens iii decreto lei 445 junho 1988 com redacao dada pelo 449 julho",
+    "12": "art esta lei entra vigor data sua publicacao",
+    "13": "art revogam disposicoes contrario senado federal dezembro 1988 167 independencia 100 republica humberto lucena este texto nao substitui publicado dou"
+  }
+}

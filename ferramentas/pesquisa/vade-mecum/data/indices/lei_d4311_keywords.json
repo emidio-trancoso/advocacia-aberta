@@ -1,0 +1,41 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "D4311",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_d4311.json",
+      "colecao": "artigos",
+      "sha256": "53d4859589a65f9e2e36c836b80ef99e9de8613a85dd7cf79328ef0a7103f45c",
+      "total_registros": 3,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 3,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art convencao sobre reconhecimento execucao sentencas arbitrais estrangeiras apensa por copia presente decreto sera executada cumprida tao inteiramente como nela contem",
+    "2": "art sao sujeitos aprovacao congresso nacional quaisquer atos que possam resultar revisao referida convencao assim como ajustes complementares nos termos inciso constituicao acarretem encargos compromissos gravosos patrimonio",
+    "3": "art este decreto entra vigor data sua publicacao brasilia julho 2002 181o independencia 114o republica fernando henrique cardoso celso lafer texto nao substitui publicado convencao sobre reconhecimento execucao sentencas arbitrais estrangeiras feita nova york junho 1958 artigo presente aplicar proferidas territorio estado que tencione tais oriundas divergencias entre pessoas sejam elas fisicas juridicas igualmente consideradas como domesticas onde seu entender por arbitros nomeados para cada caso mas tambem aquelas emitidas orgaos permanentes aos quais partes submetam quando assinatura ratificacao adesao notificacao extensao nos termos qualquer podera com base reciprocidade declarar aplicara unicamente outro signatario somente relacionamentos juridicos eles contratuais considerados comerciais lei nacional fizer tal declaracao devera reconhecer acordo escrito pelo qual comprometem submeter arbitragem todas tenham surgido possam vir surgir diz respeito relacionamento juridico definido seja ele contratual relacao uma materia passivel solucao mediante clausula arbitral inserida contrato firmado pelas contido troca cartas telegramas tribunal posse acao estabelecido pedido delas encaminhara menos constate nulo sem efeitos inoperante inexequivel iii reconhecera obrigatorias executara conformidade regras procedimento sentenca invocada condicoes estabelecidas artigos seguem fins das aplica serao impostas substancialmente mais onerosas taxas cobrancas altas fim obter mencionados precedente parte solicitar fornecera solicitacao original devidamente autenticada copia mesma certificada refere mesmo for feito idioma oficial pais produzira traducao desses documentos sera tradutor juramentado agente diplomatico consular poderao ser indeferidos contra ela esta fornecer autoridade competente tenciona prova estavam aplicavel algum modo incapacitadas valido submeteram ausencia indicacao foi proferida recebeu apropriada acerca designacao arbitro processo lhe impossivel outras razoes apresentar seus argumentos divergencia prevista enquadra submissao contem decisoes materias transcendem alcance contanto suscetiveis puderem separadas daquelas possa reconhecida executada composicao deu acordado ocorreu ainda tornou obrigatoria anulada suspensa conforme tenha sido recusados constatar segundo daquele objeto seria contrario ordem publica anulacao suspensao solicitada mencionada perante sendo assim julgar cabivel adiar decisao quanto reivindica ordenar outra forneca garantias apropriadas vii disposicoes afetarao validade acordos multilaterais bilaterais relativos celebrados pelos estados signatarios nem privarao interessada direito ter valer maneira medida permitidas pela tratados protocolo genebra clausulas 1923 1927 deixarao efeito tornem obrigados viii estara aberta ate dezembro membro nacoes unidas doravante torne orgao especializado estatuto corte internacional justica convidado assembleia geral ratificada instrumento depositado junto secretario todos efetuada deposito estendera dos territorios cujas relacoes internacionais responsavel passara entrar tempo partir dessa dirigida tera nonagesimo dia contar recebimento entrada considerada sempre ultima aqueles estendida interessado examinara possibilidade tomar medidas necessarias estender aplicacao respeitando necessidade exigido constitucionais consentimento governos federativo unitario seguintes enquadrem jurisdicao legislativa federal obrigacoes governo mesmas sao federativos provincias constituintes virtude sistema constitucional confederacao adotar legislativas cedo possivel levara recomendacao favoravel conhecimento autoridades competentes atendendo transmitido meio pratica suas unidades disposicao particular indicando ponto efetiva aquela xii entrara apos terceiro ratificar aderir xiii denunciar denuncia ano deixara questao continuara instituidos processos antes surtir xiv outros salvo esteja obrigado notificara previstos assinaturas ratificacoes adesoes declaracoes notificacoes denuncias xvi textos chines ingles frances russo espanhol autenticos depositada arquivos transmitira contemplados"
+  }
+}

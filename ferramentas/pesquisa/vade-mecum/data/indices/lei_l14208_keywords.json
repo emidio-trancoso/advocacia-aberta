@@ -1,0 +1,41 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L14208",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l14208.json",
+      "colecao": "artigos",
+      "sha256": "95a97b0b76b48d99a90c0f167ca47e2257f19d7476c8c265d34c0c1985147458",
+      "total_registros": 3,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 3,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art lei 096 setembro 1995 dos partidos politicos passa vigorar acrescida seguinte dois mais poderao reunir federacao qual apos sua constituicao respectivo registro perante tribunal superior eleitoral atuara como fosse uma unica agremiacao partidaria aplicam todas normas que regem funcionamento parlamentar fidelidade assegura preservacao identidade autonomia integrantes criacao obedecera seguintes regras somente podera ser integrada por com definitivo reunidos deverao permanecer ela filiados minimo quatro anos iii constituida ate data final periodo realizacao das convencoes partidarias tera abrangencia nacional seu sera encaminhado descumprimento disposto inciso deste artigo acarretara partido vedacao ingressar celebrar coligacao nas duas eleicoes completar prazo remanescente utilizar fundo partidario hipotese desligamento continuara eleicao desde nela permanecam pedido acompanhado documentos copia resolucao tomada pela maioria absoluta votos orgaos deliberacao cada programa estatuto comuns ata orgao direcao trata definira para composicao lista proporcionais atividades diz respeito inclusive refere escolha candidatos majoritarias arrecadacao aplicacao recursos campanhas eleitorais propaganda contagem obtencao cadeiras prestacao contas convocacao suplentes perdera mandato detentor cargo eletivo desfiliar sem justa causa integra",
+    "2": "art lei 504 setembro 1997 das eleicoes passa vigorar acrescida seguinte federacoes",
+    "3": "art esta lei entra vigor data sua publicacao brasilia setembro 2021 200 independencia 133 republica jair messias bolsonaro este texto nao substitui publicado dou"
+  }
+}

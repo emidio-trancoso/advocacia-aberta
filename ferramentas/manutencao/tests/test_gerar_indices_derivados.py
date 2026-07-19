@@ -49,6 +49,47 @@ class IndicesDerivadosTest(unittest.TestCase):
             self.assertTrue(all(item["keywords"] for item in itens.values()))
             self.assertEqual(indice["_meta"]["fonte"]["sha256"], hashlib.sha256(fonte_path.read_bytes()).hexdigest())
 
+    def test_manifesto_da_legislacao_declara_processo_local_sem_modelo(self) -> None:
+        manifesto = gerador.carregar_manifesto()
+        config = manifesto["legislacao"]["gerador"]
+        self.assertEqual(config["algoritmo"], "tokens-texto-integral-v1")
+        self.assertIsNone(config["modelo"])
+        self.assertIsNone(config["prompt"])
+        self.assertEqual(config["parametros"]["tamanho_minimo_token"], 3)
+        # As stopwords são preservadas de propósito: o índice reproduz a busca
+        # em texto integral do motor, e removê-las mudaria ranking e piso.
+        self.assertIn("nenhuma", config["parametros"]["stopwords"])
+
+    def test_indices_da_legislacao_cobrem_todos_os_dispositivos(self) -> None:
+        manifesto = gerador.carregar_manifesto()
+        diretorio = ROOT / manifesto["diretorio_dados"]
+        config = manifesto["legislacao"]
+        fontes = sorted(diretorio.glob(config["padrao_fonte"]))
+        self.assertGreaterEqual(len(fontes), 270)
+        for fonte_path in fontes:
+            fonte = json.loads(fonte_path.read_text(encoding="utf-8"))
+            indice_path = (
+                diretorio
+                / config["subdiretorio_destino"]
+                / (fonte_path.stem + config["sufixo_destino"])
+            )
+            self.assertTrue(indice_path.exists(), indice_path.name)
+            indice = json.loads(indice_path.read_text(encoding="utf-8"))
+            curados = gerador.numeros_no_indice_curado(fonte)
+            gerados = set(indice["tokens"])
+            artigos = set(fonte["artigos"])
+            # Cobertura 1:1: cada dispositivo publicado aparece exatamente uma
+            # vez, no índice curado preservado ou no derivado — nenhum artigo
+            # novo pode ficar invisível à busca textual.
+            self.assertEqual(curados | gerados, artigos, fonte_path.name)
+            self.assertEqual(curados & gerados, set(), fonte_path.name)
+            self.assertTrue(all(indice["tokens"].values()), fonte_path.name)
+            self.assertEqual(
+                indice["_meta"]["fonte"]["sha256"],
+                hashlib.sha256(fonte_path.read_bytes()).hexdigest(),
+                fonte_path.name,
+            )
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -1,0 +1,46 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L4749",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l4749.json",
+      "colecao": "artigos",
+      "sha256": "8bd8768d730f6da00ebc3d9b1ec099a9904420b8548422a266ff5c64c50fe192",
+      "total_registros": 8,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 8,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art gratificacao salarial instituida pela lei numero 090 julho 1962 sera paga pelo empregador ate dia dezembro cada ano compensada importancia que titulo adiantamento empregado houver recebido forma artigo seguinte paragrafo unico vetado",
+    "2": "art entre meses fevereiro novembro cada ano empregador pagara como adiantamento gratificacao referida artigo precedente uma vez metade salario recebido pelo respectivo empregado mes anterior nao estara obrigado pagar mesmo todos seus empregados sera pago ensejo das ferias sempre que este requerer janeiro correspondente",
+    "3": "art ocorrendo extincao contrato trabalho antes pagamento que trata desta lei empregador podera compensar adiantamento mencionado com gratificacao devida nos termos numero 090 julho 1962 nao bastar outro credito natureza trabalhista possua respectivo empregado",
+    "4": "art contribuicoes devidas instituto nacional previdencia social que incidem sobre gratificacao salarial referida nesta lei ficam sujeitas limite estabelecido legislacao",
+    "5": "art aplica corrente ano regra estatuida desta lei podendo empregado usar faculdade seu curso dos primeiros trinta dias vigencia",
+    "6": "art poder executivo prazo trinta dias adaptara regulamento aprovado pelo decreto numero 881 dezembro 1962 aos preceitos desta lei",
+    "7": "art esta lei entra vigor data sua publicacao",
+    "8": "art revogam disposicoes contrario brasilia agosto 1965 144 independencia republica castello branco arnaldo sussekind este texto nao substitui publicado dou"
+  }
+}

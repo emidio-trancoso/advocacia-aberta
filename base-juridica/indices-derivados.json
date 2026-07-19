@@ -1,6 +1,6 @@
 {
   "$schema": "./indices-derivados.schema.json",
-  "schema_version": 1,
+  "schema_version": 2,
   "gerado_em": "2026-07-17",
   "diretorio_dados": "ferramentas/pesquisa/vade-mecum/data",
   "gerador": {
@@ -15,6 +15,27 @@
       "stopwords": "pt-juridico-v1",
       "ordem": "primeira ocorrência no enunciado",
       "duplicatas": "removidas por registro"
+    }
+  },
+  "legislacao": {
+    "padrao_fonte": "lei_*.json",
+    "subdiretorio_destino": "indices",
+    "sufixo_destino": "_keywords.json",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
     }
   },
   "conjuntos": {

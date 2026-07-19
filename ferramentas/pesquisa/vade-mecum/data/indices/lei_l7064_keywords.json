@@ -1,0 +1,62 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L7064",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l7064.json",
+      "colecao": "artigos",
+      "sha256": "ed9ca5a98095e63d689937580c0d1f13d33984e68faaa4e3e7c4d56c785ee038",
+      "total_registros": 24,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 24,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art esta lei regula situacao trabalhadores contratados brasil transferidos por empresas prestadoras servicos engenharia inclusive consultoria projetos obras montagens gerenciamento congeneres para prestar exterior",
+    "2": "art para efeitos desta lei considera transferido empregado removido exterior cujo contrato estava sendo executado territorio brasileiro cedido empresa sediada estrangeiro trabalhar desde que mantido vinculo trabalhista com empregador iii contratado por brasil seu servico",
+    "3": "art empresa responsavel pelo contrato trabalho empregado transferido assegurar lhe independentemente observancia legislacao local execucao dos servicos direitos previstos nesta lei aplicacao brasileira protecao naquilo que nao for incompativel com disposto quando mais favoravel territorial conjunto normas relacao cada materia paragrafo unico respeitadas disposicoes especiais desta aplicar sobre previdencia social fundo garantia por tempo servico fgts programa integracao pis pasep",
+    "4": "art mediante ajuste escrito empregador empregado fixarao valores salario base adicional transferencia ajustado forma deste artigo fica sujeito aos reajustes aumentos compulsorios previstos legislacao brasileira valor nao podera ser inferior minimo estabelecido para categoria profissional incidirao exclusivamente sobre ajustados moeda nacional",
+    "5": "art salario base contrato sera obrigatoriamente estipulado moeda nacional mas remuneracao devida durante transferencia empregado computado adicional que trata artigo anterior podera todo parte ser paga exterior estrangeira por opcao escrita parcela depositada conta bancaria assegurada enquanto estiver prestando servicos conversao remessa dos correspondentes valores para local trabalho observado disposto regulamento",
+    "6": "art apos dois anos permanencia exterior sera facultado empregado gozar anualmente ferias brasil correndo por conta empresa empregadora para qual tenha sido cedido custeio viagem que trata este artigo estende conjuge aos demais dependentes com ele residentes disposto neste nao aplicara caso retorno definitivo antes epoca gozo das",
+    "7": "art retorno empregado brasil podera ser determinado pela empresa quando nao tornar mais necessario conveniente servico exterior der justa causa para rescisao contrato paragrafo unico fica assegurado seu termino prazo transferencia antes deste ocorrencia das seguintes hipoteses apos tres anos trabalho continuo atender necessidade grave natureza familiar devidamente comprovada por motivo saude conforme recomendacao constante laudo medico empregador hipotese prevista inciso artigo",
+    "8": "art cabe empresa custeio retorno empregado paragrafo unico quando verificar por iniciativa der justa causa para rescisao contrato ficara ele obrigado reembolso das respectivas despesas ressalvados casos previstos artigo anterior",
+    "9": "art periodo duracao transferencia sera computado tempo servico empregado para todos efeitos legislacao brasileira ainda que lei local prestacao considere essa como resultante contrato autonomo determine liquidacao dos direitos oriundos respectiva cessacao hipotese prevista neste artigo empresa empregadora fica autorizada deduzir esse pagamento depositos fgts nome existentes conta vinculada trata 107 setembro 1966 regulamento saldo refere paragrafo anterior nao comportar deducao ali mencionada diferenca podera ser novamente deduzida dessa quando brasil respectivo trabalho deducoes acima mencionadas relativamente moeda estrangeira serao calculadas mediante conversao cruzeiros cambio dia operar levantamento pelo empregador decorrente dependera homologacao judicial",
+    "10": "art adicional transferencia prestacoes natura bem como quaisquer outras vantagens que fizer jus empregado funcao sua permanencia exterior nao serao devidas apos seu retorno brasil",
+    "11": "art durante prestacao servicos exterior nao serao devidas relacao aos empregados transferidos contribuicoes referentes salario educacao servico social industria comercio nacional aprendizagem comercial industrial instituto colonizacao reforma agraria",
+    "12": "art contratacao trabalhador por empresa estrangeira para trabalhar exterior esta condicionada previa autorizacao ministerio trabalho regulamento",
+    "13": "art autorizacao que refere somente podera ser dada empresa cujo capital participe pelo menos cinco por cento pessoa juridica domiciliada brasil",
+    "14": "art sem prejuizo aplicacao das leis pais prestacao dos servicos que respeita direitos vantagens garantias trabalhistas previdenciarias empresa estrangeira assegurara trabalhador ele conferidos neste capitulo",
+    "15": "art correrao obrigatoriamente por conta empresa estrangeira despesas viagem ida volta trabalhador exterior inclusive dos dependentes com ele residentes",
+    "16": "art permanencia trabalhador exterior nao podera ser ajustada por periodo superior tres anos salvo quando for assegurado ele seus dependentes direito gozar ferias anuais brasil com despesas viagem pagas pela empresa estrangeira",
+    "17": "art empresa estrangeira assegurara retorno definitivo trabalhador brasil quando houver terminado prazo duracao contrato for mesmo rescindido por motivo saude devidamente comprovado laudo medico oficial que recomende",
+    "18": "art empresa estrangeira mantera brasil procurador bastante com poderes especiais representacao inclusive receber citacao",
+    "19": "art pessoa juridica domiciliada brasil que alude sera solidariamente responsavel com empresa estrangeira por todas obrigacoes decorrentes contratacao trabalhador",
+    "20": "art aliciamento trabalhador domiciliado brasil para trabalhar exterior fora regime desta lei configurara crime previsto 206 codigo penal brasileiro",
+    "21": "art empresas que trata esta lei farao obrigatoriamente seguro vida acidentes pessoais favor trabalhador cobrindo periodo partir embarque para exterior ate retorno brasil paragrafo unico valor nao podera ser inferior doze vezes remuneracao mensal",
+    "22": "art empresas que refere esta lei garantirao empregado local trabalho exterior proximo ele servicos gratuitos adequados assistencia medica social",
+    "23": "art serao regulamentadas prazo noventa dias disposicoes dos artigos paragrafos",
+    "24": "art esta lei entra vigor data sua publicacao revogadas disposicoes contrario brasilia dezembro 1982 161 independencia republica joao figueiredo murillo macedo este texto nao substitui publicado"
+  }
+}

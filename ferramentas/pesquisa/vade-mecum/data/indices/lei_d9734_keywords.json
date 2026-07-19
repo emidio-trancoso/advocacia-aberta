@@ -1,0 +1,42 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "D9734",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_d9734.json",
+      "colecao": "artigos",
+      "sha256": "3e854bebd1e6f1e2cf9ae5e77789a1494e04c65267b632aa8c18a3d2a6cb5ed7",
+      "total_registros": 4,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 4,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art fica promulgado texto convencao relativa citacao intimacao notificacao estrangeiro documentos judiciais extrajudiciais materia civil comercial firmada haia novembro 1965 com reserva aos artigo anexo este decreto paragrafo unico relacao que refere caput republica federativa brasil opoe uso dos metodos transmissao previstos nos",
+    "2": "art para fins disposto texto convencao relativa citacao intimacao notificacao estrangeiro documentos judiciais extrajudiciais materia civil comercial republica federativa brasil apresenta declaracoes relacao aos artigos artigo fica designado ministerio justica seguranca publica como autoridade central paragrafo que serao objeto transmitidos deverao ser acompanhados traducao lingua portuguesa nao aplica modelo formulario solicitacao anexo refere quando for estado requerido certificado expedido acordo com sera firmado pelo juiz competente pela designada nos termos",
+    "3": "art sao sujeitos aprovacao congresso nacional atos que possam resultar revisao texto convencao ajustes complementares acarretem encargos compromissos gravosos patrimonio nos termos inciso caput constituicao",
+    "4": "art este decreto entra vigor data sua publicacao brasilia marco 2019 198 independencia 131 republica jair messias bolsonaro ernesto henrique fraga araujo texto nao substitui publicado dou convencao relativa citacao intimacao notificacao estrangeiro documentos judiciais extrajudiciais materia civil comercial firmada novembro 1965 desde fevereiro 1969 estados signatarios presente desejosos criar meios adequados para que devam ser objetos sejam levados conhecimento destinatario tempo habil melhorar organizacao auxilio juridico mutuo com finalidade simplificar agilizar procedimento decidiram firmar nesse sentido concordaram seguintes disposicoes artigo aplicar todos casos documento judicial extrajudicial deva transmitido exterior objeto esta aplicara quando endereco for desconhecido"
+  }
+}

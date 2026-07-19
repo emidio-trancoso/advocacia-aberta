@@ -1,0 +1,64 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L6099",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l6099.json",
+      "colecao": "artigos",
+      "sha256": "780f5e01e7d7687350f766e0a3dcdb9c997b6231e8a840fddfb2a1e1eedcf9ca",
+      "total_registros": 26,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 26,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art tratamento tributario das operacoes arrendamento mercantil reger pelas disposicoes desta lei paragrafo unico considera operacao realizada entre pessoas juridicas que tenha por objeto bens adquiridos terceiros pela arrendadora para fins uso proprio arrendataria atendam especificacoes efeitos negocio juridico realizado pessoa juridica qualidade fisica segundo redacao dada 132 1983",
+    "1-A": "art considera operacao credito independentemente nomenclatura que lhes for atribuida operacoes arrendamento cujo somatorio das contraprestacoes perfaz mais setenta cinco por cento custo bem incluido pela medida provisoria 449 2008 vigencia paragrafo unico porcentual caput inclui valor residual garantido tenha sido antecipado mercantil para efeitos desta lei negocio juridico realizado entre pessoa juridica qualidade arrendadora fisica arrendataria objeto bens adquiridos segundo especificacoes uso proprio redacao dada 132 1983",
+    "2": "art nao tera tratamento previsto nesta lei arrendamento bens contratado entre pessoas juridicas direta indiretamente coligadas interdependentes assim como com proprio fabricante conselho monetario nacional especificara regulamento casos coligacao interdependencia somente farao jus operacoes realizadas por empresas arrendadoras que fizerem dessa operacao objeto principal sua atividade centralizarem tais departamento especializado escrituracao propria",
+    "3": "art serao escriturados conta especial ativo imobilizado arrendadora bens destinados arrendamento mercantil",
+    "4": "art pessoa juridica arrendadora mantera registro individualizado que permita verificacao fator determinante receita tempo efetivo arrendamento",
+    "5": "art contratos arrendamento mercantil conterao seguintes disposicoes prazo contrato valor cada contraprestacao por periodos determinados nao superiores semestre opcao compra renovacao como faculdade arrendatario preco para criterio sua fixacao quando for estipulada esta clausula paragrafo unico podera conselho monetario nacional nas operacoes que venha definir estabelecer contraprestacoes sejam estipuladas aos previstos alinea deste artigo incluido pela lei 132 1983",
+    "6": "art conselho monetario nacional podera estabelecer indices maximos para soma das contraprestacoes acrescida preco exercicio opcao compra nas operacoes arrendamento mercantil ficam sujeitas regra deste artigo prorrogacoes nele referido que trata este serao fixados considerando custo relacao funcionamento venda",
+    "7": "art todas operacoes arrendamento mercantil subordinam controle fiscalizacao banco central brasil segundo normas estabelecidas pelo conselho monetario nacional elas aplicando que couber disposicoes lei numero 595 dezembro 1964 legislacao posterior relativa sistema financeiro",
+    "8": "art conselho monetario nacional podera baixar resolucao disciplinando condicoes segundo quais instituicoes financeiras poderao financiar suas coligadas interdependentes que especializarem operacoes arrendamento mercantil",
+    "9": "art operacoes arrendamento mercantil contratadas com proprio vendedor bem pessoas juridicas ele vinculadas mediante qualquer das relacoes previstas artigo desta lei poderao enquadrar tratamento tributario previsto nesta serao privativas instituicoes financeiras que trata este conselho monetario nacional estabelecera condicoes para realizacao neste nos casos deste nao admitira deducao prejuizo decorrente venda dos bens quando apuracao lucro tributavel pelo imposto renda",
+    "10": "art somente poderao ser objeto arrendamento mercantil bens producao estrangeira que forem enumerados pelo conselho monetario nacional podera tambem estabelecer condicoes para seu empresas cujo controle acionario pertencer pessoas residentes exterior",
+    "11": "art serao consideradas como custo despesa operacional pessoa juridica arrendataria contraprestacoes pagas creditadas por forca contrato arrendamento mercantil aquisicao pelo arrendatario bens arrendados desacordo com disposicoes desta lei sera considerada operacao compra venda prestacao preco caso paragrafo anterior total das durante vigencia acrescido parcela paga titulo hipotese prevista primeiro deste artigo importancias deduzidas pela adquirente acrescerao lucro tributavel imposto renda exercicio correspondente respectiva deducao nao recolhido devido acrescimo juros correcao monetaria multa demais penalidades legais",
+    "12": "art serao admitidas como custos das pessoas juridicas arrendadoras cotas depreciacao preco aquisicao bem arrendado calculadas acordo com vida util entende por prazo durante qual possa esperar sua efetiva utilizacao economica secretaria receita federal publicara periodicamente admissivel condicoes normais para cada especie enquanto nao forem publicados prazos que trata paragrafo anterior determinacao fara segundo normas previstas pela legislacao imposto renda fixacao taxa",
+    "13": "art nos casos operacoes vendas bens que tenham sido objeto arrendamento mercantil saldo nao depreciado sera admitido como custo para efeito apuracao lucro tributavel pelo imposto renda",
+    "14": "art nao sera dedutivel para fins apuracao lucro tributavel pelo imposto renda diferenca menor entre valor contabil residual bem arrendado seu preco venda quando exercicio opcao compra",
+    "15": "art exercida opcao compra pelo arrendatario bem integrara ativo fixo adquirente seu custo aquisicao vide medida provisoria 627 2013 vigencia revogado pela lei 973 2014 paragrafo unico entende como para fins deste artigo preco pago arrendador exercicio",
+    "16": "art contratos arrendamento mercantil celebrados com entidades sede exterior serao submetidos registro banco central brasil conselho monetario nacional estabelecera normas para concessao que refere este artigo observando seguintes condicoes razoabilidade contraprestacao criterio fixacao vida util bem objeto compatibilidade prazo sua relacao entre preco internacional comercializacao custo total opcao compra outras cautelas ditadas pela politica economica financeira vedada criterios condicionais determinacao quando arrendadora for entidade",
+    "17": "art entrada territorio nacional dos bens objeto arrendamento mercantil contratado com entidades arrendadoras sede exterior nao confunde regime admissao temporaria que trata decreto lei numero novembro 1966 sujeitara todas normas legais regem importacao",
+    "18": "art base calculo para efeito imposto sobre produtos industrializados fato gerador que ocorre por ocasiao remessa bens importados estabelecimento empresa arrendataria corresponde preco atacado desse bem praca arrendadora estiver sediada",
+    "19": "art fica equiparada exportacao compra venda bens mercado interno para fim especifico arrendamento pelo comprador arrendatario domiciliado exterior vide decreto lei 397 1987 413 1988",
+    "20": "art sao assegurados vendedor dos bens que trata artigo anterior todos beneficios fiscais concedidos por lei para incentivo exportacao observadas condicoes qualidade pessoa outras exigidas casos direta indireta vide decreto 397 1987 413 1988 este serao sobre equivalente moeda nacional garantia irrevogavel pagamento das contraprestacoes arrendamento contratado limitada base calculo preco compra venda fins paragrafo equivalencia sera determinada pela maior taxa cambio dia utilizacao disposto quando for efetivado estrangeira livre conversibilidade redacao dada 024 2009",
+    "21": "art ministro fazenda podera estender aos arrendatarios maquinas aparelhos equipamentos producao nacional objeto arrendamento mercantil beneficios que trata decreto lei 136 dezembro 1970",
+    "22": "art pessoas juridicas que estiverem operando com arrendamento bens ajustarem disposicoes desta lei dentro 180 cento oitenta dias contar sua vigencia terao suas operacoes regidas por este diploma legal desde ajustem convenientemente seus contratos mediante instrumentos aditamento",
+    "23": "art fica conselho monetario nacional autorizado baixar normas que visem estabelecer mecanismos reguladores das atividades previstas nesta lei inclusive excluir modalidades operacoes tratamento nela previsto expedir neia limitar proibir sua pratica por determinadas categorias pessoas fisicas juridicas redacao dada pela 132 1983 enumerar restritivamente bens nao poderao ser objeto arrendamento mercantil tendo vista politica economica financeira pais",
+    "24": "art cessao contrato arrendamento mercantil entidade domiciliada exterior reger pelo disposto nesta lei dependera previa autorizacao banco central brasil conforme normas expedidas conselho monetario nacional incluido pela 132 1983 revogado 286 2021 vigencia paragrafo unico observado neste artigo poderao ser transferidos exclusiva independentemente direitos credito relativos contraprestacoes devidas",
+    "25": "art esta lei entrara vigor data sua publicacao revogadas disposicoes contrario artigo renumerado pela 132 1983 brasilia setembro 1974 153 independencia republica ernesto geisel mario henrique simonsen joao paulo dos reis velloso este texto nao substitui publicado dou retificado"
+  }
+}

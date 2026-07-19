@@ -1,0 +1,75 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L6533",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l6533.json",
+      "colecao": "artigos",
+      "sha256": "2b3787bc83c09fdc57ecf5ba8e8c8f39ccbe1a2e3112aa8721c9488dbbeaf1f0",
+      "total_registros": 37,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 37,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art exercicio das profissoes artista tecnico espetaculos diversoes regulado pela presente lei",
+    "2": "art para efeitos desta lei considerado artista profissional que cria interpreta executa obra carater cultural qualquer natureza efeito exibicao divulgacao publica atraves meios comunicacao massa locais onde realizam espetaculos diversao tecnico diversoes mesmo auxiliar participa individualmente grupo atividade ligada diretamente elaboracao registro apresentacao conservacao programas producoes paragrafo unico denominacoes descricoes das funcoes desdobram atividades constarao regulamento",
+    "3": "art aplicam disposicoes desta lei pessoas fisicas juridicas que tiverem seu servico profissionais definidos artigo anterior para realizacao espetaculos programas producoes mensagens publicitarias paragrafo unico igualmente agenciem colocacao mao obra",
+    "4": "art pessoas fisicas juridicas que trata artigo anterior deverao ser previamente inscritas ministerio trabalho",
+    "5": "art nao incluem disposto nesta lei tecnicos espetaculos diversoes que prestam servicos empresa radiodifusao",
+    "6": "art exercicio das profissoes artista tecnico espetaculos diversoes requer previo registro delegacia regional trabalho ministerio qual tera validade todo territorio nacional",
+    "7": "art para registro artista tecnico espetaculos diversoes necessario apresentacao diploma curso superior diretor teatro coreografo professor arte dramatica outros cursos semelhantes reconhecidos forma lei certificado correspondentes habilitacoes profissionais grau ator contra regra cenotecnico sonoplasta outras reconhecidas iii atestado capacitacao profissional fornecido pelo sindicato representativo das categorias subsidiariamente pela federacao respectiva entidade sindical devera conceder negar mencionado item prazo tres dias uteis podendo ser concedido ainda que provisorio faltar manifestacao nesse decisao concessao deste artigo cabera recurso ministerio trabalho ate trinta contar ciencia",
+    "8": "art registro que trata artigo anterior podera ser concedido titulo provisorio pelo prazo maximo ano com dispensa atestado refere item iii mesmo mediante indicacao conjunta dos sindicatos empregadores empregados",
+    "9": "art exercicio das profissoes que trata esta lei exige contrato trabalho padronizado nos termos instrucoes serem expedidas pelo ministerio sera visado sindicato representativo categoria profissional subsidiariamente pela federacao respectiva como condicao para registro ate vespera sua vigencia entidade sindical devera visar nao prazo maximo dois dias uteis findos quais ele podera ser registrado faltar manifestacao decisao negar visto cabera recurso",
+    "10": "art contrato trabalho contera obrigatoriamente qualificacao das partes contratantes prazo vigencia iii natureza funcao profissional com definicao obrigacoes respectivas titulo programa espetaculo producao ainda que provisorio indicacao personagem nos casos por tempo determinado locais onde atuara contratado inclusive opcionais jornada especificacao horario intervalo repouso vii remuneracao sua forma pagamento viii disposicao sobre eventual inclusao nome credito apresentacao cartazes impressos programas dia folga semanal ajuste viagens deslocamentos periodo realizacao trabalhos complementares dublagem quando posteriores execucao interpretacao objeto xii numero carteira previdencia social paragrafo unico contratos indeterminado devera constar clausula relativa adicional devido caso deslocamento para prestacao servico fora cidade ajustada",
+    "11": "art clausula exclusividade nao impedira artista tecnico espetaculos diversoes prestar servicos outro empregador atividade diversa ajustada contrato trabalho desde que meio comunicacao sem caracterize prejuizo para contratante com qual foi assinada",
+    "12": "art empregador podera utilizar trabalho profissional mediante nota contratual para substituicao artista tecnico espetaculos diversoes prestacao servico caracteristicamente eventual por prazo nao superior sete dias consecutivos vedada utilizacao desse mesmo nos sessenta subsequentes essa forma pelo paragrafo unico ministerio expedira instrucoes sobre aprovara seu modelo",
+    "13": "art nao sera permitida cessao promessa direitos autorais conexos decorrentes prestacao servicos profissionais paragrafo unico dos serao devidos decorrencia cada exibicao obra",
+    "14": "art nas mensagens publicitarias feitas para cinema televisao serem divulgadas por outros veiculos constara contrato trabalho obrigatoriamente nome produtor anunciante houver agencia publicidade quem mensagem produzida tempo exploracao comercial iii produto ser promovido atraves dos quais sera exibida pracas onde veiculada duracao suas caracteristicas",
+    "15": "art contrato trabalho nota contratual serao emitidos com numeracao sucessiva ordem cronologica paragrafo unico documentos que trata este artigo firmados pelo menos duas vias contratado ficando uma delas seu poder",
+    "16": "art profissional nao podera recusar auto dublagem quando couber paragrafo unico empregador tomador servicos preferir por terceiros ela ser feita com autorizacao escrito salvo for realizada lingua estrangeira",
+    "17": "art utilizacao profissional contratado por agencia locacao mao obra obrigara tomador servico solidariamente pelo cumprimento das obrigacoes legais contratuais caracterizar tentativa utilizar para fugir responsabilidades decorrentes desta lei contrato",
+    "18": "art comparecimento profissional hora lugar convocacao implica percepcao integral salario mesmo que trabalho nao realize por motivo independente sua vontade",
+    "19": "art profissional contratado por prazo determinado nao podera rescindir contrato trabalho sem justa causa sob pena ser obrigado indenizar pregador dos prejuizos que desse fato lhe resultarem paragrafo unico indenizacao trata este artigo exceder aquela teria direito empregado identicas condicoes",
+    "20": "art rescisao sem justa causa distrato cessacao contrato trabalho empregado podera ser assistido pelo sindicato representativo categoria subsidiariamente pela federacao respectiva respeitado disposto artigo 477 consolidacao das leis",
+    "21": "art jornada normal trabalho dos profissionais que trata esta lei tera nos setores atividades respectivos seguintes duracoes radiodifusao fotografia gravacao seis horas diarias com limitacao trinta semanais cinema inclusive publicitario quando estudio iii teatro partir estreia espetaculo duracao das sessoes oito circo variedades dublagem quarenta prestado alem limitacoes previstas neste artigo sera considerado extraordinario aplicando lhe disposto artigos consolidacao leis dividida dois turnos nenhum quais podera exceder quatro respeitado intervalo previsto espetaculos teatrais circenses desde sua natureza tradicao exijam beneficio rendimento artistico ser superior duas computado como efetivo tempo empregado estiver disposicao empregador contar apresentacao local periodo destinado ensaios gravacoes fotografias caracterizacao todo aquele exija presenca artista assim preparacao ambiente termos cenografia iluminacao montagem equipamento para integrante elenco teatral durante ensaio",
+    "22": "art hipotese exercicio concomitante funcoes dentro uma mesma atividade sera assegurado profissional adicional minimo quarenta por cento pela funcao acumulada tomando base melhor remunerada paragrafo unico vedada acumulacao mais duas decorrencia mesmo contrato trabalho",
+    "23": "art hipotese trabalho executado fora local constante contrato correrao conta empregador alem salario despesas transporte alimentacao hospedagem ate respectivo retorno",
+    "24": "art livre criacao interpretativa artista tecnico espetaculos diversoes respeitado texto obra",
+    "25": "art para contratacao estrangeiro domiciliado exterior exigir previo recolhimento importancia equivalente dez por cento valor total ajuste caixa economica federal nome entidade sindical categoria profissional",
+    "26": "art fornecimento guarda roupa demais recursos indispensaveis cumprimento das tarefas contratuais sera responsabilidade empregador",
+    "27": "art nenhum artista tecnico espetaculos diversoes sera obrigado interpretar participar trabalho possivel por risco sua integridade fisica moral",
+    "28": "art contratacao figurante nao qualificado profissionalmente para atuacao esporadica determinada pela necessidade caracteristicas artisticas obra podera ser feita forma indicacao prevista artigo",
+    "29": "art filhos dos profissionais que trata esta lei cuja atividade seja itinerante terao assegurada transferencia matricula consequente vaga nas escolas publicas locais graus autorizada particulares desses niveis mediante apresentacao certificado escola origem",
+    "30": "art textos destinados memorizacao juntamente com roteiro gravacao plano trabalho deverao ser entregues profissional antecedencia minima setenta duas horas relacao inicio dos trabalhos",
+    "31": "art profissionais que trata esta lei tem penhor legal sobre equipamento todo material propriedade empregador utilizado realizacao programa espetaculo producao pelo valor das obrigacoes nao cumpridas",
+    "32": "art assegurado direito atestado que trata item iii artigo artista tecnico espetaculos diversoes ate data publicacao desta lei tenha exercido comprovadamente respectiva profissao",
+    "33": "art infracoes disposto nesta lei serao punidas com multa duas vinte vezes maior valor referencia previsto artigo paragrafo unico 205 abril 1975 calculada razao por empregado situacao irregular caso reincidencia embaraco resistencia fiscalizacao emprego artificio simulacao objetivo fraudar sera aplicada seu maximo",
+    "34": "art empregador punido forma artigo anterior enquanto nao regularizar situacao que deu causa autuacao recolher multa aplicada apos esgotados recursos cabiveis podera receber qualquer beneficio incentivo subvencao concedidos por orgaos publicos obter liberacao para exibicao programa espetaculo producao pelo orgao autoridade competente",
+    "35": "art aplicam aos artistas tecnicos espetaculos diversoes normas legislacao trabalho exceto naquilo que for regulado forma diferente nesta lei",
+    "36": "art poder executivo regulamentara esta lei prazo sessenta dias contar data sua publicacao",
+    "37": "art esta lei entrara vigor dia agosto 1978 revogadas disposicoes contrario especialmente 480 paragrafo unico 507 509 consolidacao das leis trabalho aprovada pelo decreto 452 1943 101 1947 301 1948 brasilia maio 157 independencia republica ernesto geisel armando falcao ney braga arnaldo prieto euclides quandt oliveira este texto nao substitui publicado dou retificado"
+  }
+}

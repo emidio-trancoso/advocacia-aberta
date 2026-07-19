@@ -1,0 +1,45 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L7960",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l7960.json",
+      "colecao": "artigos",
+      "sha256": "9ef0ff2e27a33cdd497869c444fdcd39b145d63ad57dbe13ca080dcd05db18dc",
+      "total_registros": 7,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 7,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art cabera prisao temporaria vide adi 3360 4109 quando imprescindivel para investigacoes inquerito policial indicado nao tiver residencia fixa fornecer elementos necessarios esclarecimento sua identidade iii houver fundadas razoes acordo com qualquer prova admitida legislacao penal autoria participacao indiciado nos seguintes crimes homicidio doloso 121 caput seu sequestro carcere privado 148 seus roubo 157 extorsao 158 mediante 159 estupro 213 combinacao 223 paragrafo unico decreto lei 848 1940 atentado violento pudor 214 rapto 219 epidemia resultado morte 267 envenenamento agua potavel substancia alimenticia medicinal qualificado pela 270 combinado 285 quadrilha bando 288 todos codigo genocidio arts 889 outubro 1956 formas tipicas trafico drogas 368 1976 contra sistema financeiro 492 junho 1986 previstos terrorismo incluido 260 2016",
+    "2": "art prisao temporaria sera decretada pelo juiz face representacao autoridade policial requerimento ministerio publico tera prazo cinco dias prorrogavel por igual periodo caso extrema comprovada necessidade hipotese antes decidir ouvira despacho que decretar devera ser fundamentado prolatado dentro vinte quatro horas contadas partir recebimento podera oficio advogado determinar preso lhe seja apresentado solicitar informacoes esclarecimentos submete exame corpo delito expedir mandado duas vias uma das quais entregue indiciado servira como nota culpa contera necessariamente duracao estabelecido caput deste artigo bem dia libertado incluido pela lei 869 2019 somente executada depois expedicao judicial efetuada informara dos direitos previstos constituicao federal decorrido detencao posto imediatamente liberdade salvo tiver sido sua preventiva contido responsavel custodia independentemente nova ordem comunicada prorrogacao decretacao redacao dada inclui cumprimento computo",
+    "3": "art presos temporarios deverao permanecer obrigatoriamente separados dos demais detentos",
+    "4": "art lei 898 dezembro 1965 fica acrescido alinea com seguinte redacao prolongar execucao prisao temporaria pena medida seguranca deixando expedir tempo oportuno cumprir imediatamente ordem liberdade",
+    "5": "art todas comarcas secoes judiciarias havera plantao permanente vinte quatro horas poder judiciario ministerio publico para apreciacao dos pedidos prisao temporaria",
+    "6": "art esta lei entra vigor data sua publicacao",
+    "7": "art revogam disposicoes contrario brasilia dezembro 1989 168 independencia 101 republica jose sarney saulo ramos este texto nao substitui publicado dou"
+  }
+}

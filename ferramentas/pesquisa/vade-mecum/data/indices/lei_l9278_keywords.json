@@ -1,0 +1,49 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L9278",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l9278.json",
+      "colecao": "artigos",
+      "sha256": "e458f45c0969ad84ccb724e0f55d2b4aadc0983a9c40b624625a9211c5cf4662",
+      "total_registros": 11,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 11,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art reconhecida como entidade familiar convivencia duradoura publica continua homem uma mulher estabelecida com objetivo constituicao familia",
+    "2": "art sao direitos deveres iguais dos conviventes respeito consideracao mutuos assistencia moral material reciproca iii guarda sustento educacao filhos comuns",
+    "3": "art vetado",
+    "4": "art vetado",
+    "5": "art bens moveis imoveis adquiridos por ambos conviventes constancia uniao estavel titulo oneroso sao considerados fruto trabalho colaboracao comum passando pertencer condominio partes iguais salvo estipulacao contraria contrato escrito cessa presuncao caput deste artigo aquisicao patrimonial ocorrer com produto anteriormente inicio administracao patrimonio dos compete",
+    "6": "art vetado",
+    "7": "art dissolvida uniao estavel por rescisao assistencia material prevista nesta lei sera prestada dos conviventes que dela necessitar titulo alimentos paragrafo unico morte sobrevivente tera direito real habitacao enquanto viver nao constituir nova casamento relativamente imovel destinado residencia familia",
+    "8": "art conviventes poderao comum acordo qualquer tempo requerer conversao uniao estavel casamento por requerimento oficial registro civil circunscricao seu domicilio",
+    "9": "art toda materia relativa uniao estavel competencia juizo vara familia assegurado segredo justica",
+    "10": "art esta lei entra vigor data sua publicacao",
+    "11": "art revogam disposicoes contrario brasilia maio 1996 175 independencia 108 republica fernando henrique cardoso milton seligman este texto nao substitui publicado dou"
+  }
+}

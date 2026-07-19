@@ -1,0 +1,60 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L9807",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l9807.json",
+      "colecao": "artigos",
+      "sha256": "dd6c4eb88adf3e46236c9788c1816bf8e64cf639ce4a636ae799dc1a4cd1cf9c",
+      "total_registros": 22,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 22,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art medidas protecao requeridas por vitimas testemunhas crimes que estejam coagidas expostas grave ameaca razao colaborarem com investigacao processo criminal serao prestadas pela uniao pelos estados pelo distrito federal ambito das respectivas competencias forma programas especiais organizados base nas disposicoes desta lei poderao celebrar convenios acordos ajustes termos parceria entre entidades nao governamentais objetivando realizacao dos supervisao fiscalizacao interesse ficarao cargo orgao ministerio justica atribuicoes para execucao politica direitos humanos",
+    "2": "art protecao concedida pelos programas medidas dela decorrentes levarao conta gravidade coacao ameaca integridade fisica psicologica dificuldade preveni las reprimi meios convencionais sua importancia para producao prova podera ser dirigida estendida conjuge companheiro ascendentes descendentes dependentes que tenham convivencia habitual com vitima testemunha conforme especificamente necessario cada caso estao excluidos individuos cuja personalidade conduta seja incompativel restricoes comportamento exigidas pelo programa condenados estejam cumprindo pena indiciados acusados sob prisao cautelar qualquer suas modalidades tal exclusao nao trara prejuizo eventual prestacao preservacao desses por parte dos orgaos seguranca publica ingresso demais ele adotadas terao sempre anuencia pessoa protegida seu representante legal apos ingressar protegido ficara obrigado cumprimento das normas prescritas providencias relacionadas serao executadas mantidas sigilo protegidos agentes envolvidos execucao",
+    "3": "art toda admissao programa exclusao dele sera precedida consulta ministerio publico sobre disposto devera ser subsequentemente comunicada autoridade policial juiz competente",
+    "4": "art cada programa sera dirigido por conselho deliberativo cuja composicao havera representantes ministerio publico poder judiciario orgaos publicos privados relacionados com seguranca publica defesa dos direitos humanos execucao das atividades necessarias ficara cargo representados devendo agentes dela incumbidos ter formacao capacitacao profissional compativeis suas tarefas policiais prestarao colaboracao apoio necessarios",
+    "5": "art solicitacao objetivando ingresso programa podera ser encaminhada orgao executor pelo interessado por representante ministerio publico iii pela autoridade policial que conduz investigacao criminal juiz competente para instrucao processo orgaos publicos entidades com atribuicoes defesa dos direitos humanos sera instruida qualificacao pessoa protegida informacoes sobre sua vida pregressa fato delituoso coacao ameaca motiva fins pedido solicitar aquiescencia documentos comprobatorios identidade estado civil situacao profissional patrimonio grau pendencia obrigacoes civis administrativas fiscais financeiras penais exames pareceres tecnicos personalidade fisico psicologico caso urgencia levando consideracao procedencia gravidade iminencia vitima testemunha colocada provisoriamente sob custodia aguardo decisao conselho deliberativo comunicacao imediata seus membros",
+    "6": "art conselho deliberativo decidira sobre ingresso protegido programa sua exclusao providencias necessarias cumprimento paragrafo unico deliberacoes serao tomadas por maioria absoluta seus membros execucao ficara sujeita disponibilidade orcamentaria",
+    "7": "art programas compreendem dentre outras seguintes medidas aplicaveis isolada cumulativamente beneficio pessoa protegida segundo gravidade circunstancias cada caso seguranca residencia incluindo controle telecomunicacoes escolta nos deslocamentos inclusive para fins trabalho prestacao depoimentos iii transferencia acomodacao provisoria local compativel com protecao preservacao identidade imagem dados pessoais ajuda financeira mensal prover despesas necessarias subsistencia individual familiar estar impossibilitada desenvolver regular inexistencia qualquer fonte renda suspensao temporaria das atividades funcionais sem prejuizo dos respectivos vencimentos vantagens quando servidor publico militar vii apoio assistencia social medica psicologica viii sigilo relacao aos atos praticados virtude concedida orgao executor programa cumprimento obrigacoes civis administrativas que exijam comparecimento pessoal paragrafo unico tera teto fixado pelo conselho deliberativo inicio exercicio financeiro",
+    "8": "art quando entender necessario podera conselho deliberativo solicitar ministerio publico que requeira juiz concessao medidas cautelares direta indiretamente relacionadas com eficacia protecao",
+    "9": "art casos excepcionais considerando caracteristicas gravidade coacao ameaca podera conselho deliberativo encaminhar requerimento pessoa protegida juiz competente para registros publicos objetivando alteracao nome completo estender pessoas mencionadas desta lei inclusive aos filhos menores sera precedida das providencias necessarias resguardo direitos terceiros sempre fundamentado ouvira previamente ministerio publico determinando seguida que procedimento tenha rito sumarissimo corra segredo justica concedida pretendida determinara sentenca observando sigilo indispensavel protecao interessado averbacao registro original nascimento mencao houve conformidade com estabelecido nesta expressa referencia autorizatoria exarou sem aposicao alterado determinacao orgaos competentes fornecimento dos documentos decorrentes iii remessa orgao nacional unico identificacao civil cujo obedecera restricoes resguardado informacoes mantera controle sobre localizacao protegido sido cessada deu causa ficara facultado solicitar retorno situacao anterior peticao encaminhada pelo tera manifestacao previa",
+    "10": "art exclusao pessoa protegida programa protecao vitimas testemunhas podera ocorrer qualquer tempo por solicitacao proprio interessado decisao conselho deliberativo consequencia cessacao dos motivos que ensejaram conduta incompativel protegido",
+    "11": "art protecao oferecida pelo programa tera duracao maxima dois anos paragrafo unico circunstancias excepcionais perdurando motivos que autorizam admissao permanencia podera ser prorrogada",
+    "12": "art fica instituido ambito orgao ministerio justica com atribuicoes para execucao politica direitos humanos programa federal assistencia vitimas testemunhas ameacadas ser regulamentado por decreto poder executivo regulamento",
+    "13": "art podera juiz oficio requerimento das partes conceder perdao judicial consequente extincao punibilidade acusado que sendo primario tenha colaborado efetiva voluntariamente com investigacao processo criminal desde dessa colaboracao resultado identificacao dos demais autores participes acao criminosa localizacao vitima sua integridade fisica preservada iii recuperacao total parcial produto crime paragrafo unico concessao levara conta personalidade beneficiado natureza circunstancias gravidade repercussao social fato criminoso",
+    "14": "art indiciado acusado que colaborar voluntariamente com investigacao policial processo criminal identificacao dos demais autores participes crime localizacao vitima vida recuperacao total parcial produto caso condenacao tera pena reduzida dois tercos",
+    "15": "art serao aplicadas beneficio colaborador prisao fora dela medidas especiais seguranca protecao sua integridade fisica considerando ameaca coacao eventual efetiva estando sob temporaria preventiva decorrencia flagrante delito sera custodiado dependencia separada dos demais presos durante instrucao criminal podera juiz competente determinar favor qualquer das previstas desta lei caso cumprimento pena regime fechado que proporcionem relacao aos apenados disposicoes gerais",
+    "16": "art lei 015 dezembro 1973 fica acrescido seguinte quando alteracao nome for concedida razao fundada coacao ameaca decorrente colaboracao com apuracao crime juiz competente determinara que haja averbacao registro origem mencao existencia sentenca concessiva sem alterado somente podera ser procedida mediante determinacao posterior levara consideracao cessacao deu causa",
+    "17": "art paragrafo unico lei 015 dezembro 1973 com redacao dada pela 708 novembro 1998 passa ter seguinte substituicao prenome sera ainda admitida razao fundada coacao ameaca decorrente colaboracao apuracao crime por determinacao sentenca juiz competente ouvido ministerio publico",
+    "18": "art lei 015 dezembro 1973 passa ter seguinte redacao ressalvado disposto nos arts paragrafo unico certidao sera lavrada independentemente despacho judicial devendo mencionar livro registro documento arquivado cartorio",
+    "19": "art uniao podera utilizar estabelecimentos especialmente destinados cumprimento pena condenados que tenham previa voluntariamente prestado colaboracao trata esta lei paragrafo unico para fins utilizacao desses celebrar convenios com estados distrito federal",
+    "19-A": "art terao prioridade tramitacao inquerito processo criminal que figure indiciado acusado vitima reu colaboradores testemunha protegidas pelos programas trata esta lei incluido pela 483 2011 paragrafo unico qualquer seja rito processual juiz apos citacao tomara antecipadamente depoimento das pessoas incluidas nos protecao previstos nesta devendo justificar eventual impossibilidade faze caso concreto possivel prejuizo oitiva antecipada traria para instrucao",
+    "20": "art despesas decorrentes aplicacao desta lei pela uniao correrao conta dotacao consignada orcamento",
+    "21": "art esta lei entra vigor data sua publicacao brasilia julho 1999 178o independencia 111o republica fernando henrique cardoso renan calheiros este texto nao substitui publicado"
+  }
+}

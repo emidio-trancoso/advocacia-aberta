@@ -1,0 +1,66 @@
+{
+  "_meta": {
+    "schema_version": 2,
+    "tipo": "indice_derivado",
+    "codigo": "L8929",
+    "gerado_em": "2026-07-19",
+    "gerador": {
+      "caminho": "ferramentas/manutencao/gerar_indices_derivados.py",
+      "versao": "1.0.0",
+      "algoritmo": "tokens-texto-integral-v1",
+      "modelo": null,
+      "prompt": null,
+      "parametros": {
+        "normalizacao": "NFD, remoção de diacríticos, minúsculas",
+        "tamanho_minimo_token": 3,
+        "stopwords": "nenhuma — fidelidade à busca em texto integral do motor",
+        "ordem": "primeira ocorrência no texto do dispositivo",
+        "duplicatas": "removidas por dispositivo",
+        "escopo": "dispositivos fora do índice curado indexes.keywords do diploma"
+      }
+    },
+    "fonte": {
+      "arquivo": "lei_l8929.json",
+      "colecao": "artigos",
+      "sha256": "d5b1e1ce1e8c164118e40dfa0ed3642e3946c5d31aa6cf1f6054f9e1c417673e",
+      "total_registros": 28,
+      "gerado_em": "2026-07-19"
+    },
+    "relacao": {
+      "chave": "numero",
+      "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
+      "dispositivos_indexados": 28,
+      "dispositivos_no_indice_curado": 0
+    }
+  },
+  "tokens": {
+    "1": "art fica instituida cedula produto rural cpr representativa promessa entrega produtos rurais com sem garantia cedularmente constituida",
+    "2": "art tem legitimacao para emitir cpr produtor rural suas associacoes inclusive cooperativas",
+    "3": "art cpr contera seguintes requisitos lancados seu contexto vide decreto 828 2021 denominacao cedula produto rural com liquidacao financeira conforme caso redacao pela lei 986 2020 data entrega vencimento for cronograma iii nome credor clausula ordem qualificacao promessa pura simples entregar sua indicacao especificacoes qualidade quantidade local onde sera desenvolvido condicoes descricao dos bens cedularmente vinculados garantia por das garantias pessoais existentes dada medida provisoria 897 2019 seus proprietarios garantidores fidejussorios vii lugar emissao viii assinatura emitente que podera ser feita forma eletronica condicao incluido criterios adotados para obtencao valor sem carater requisito essencial conter outras clausulas lancadas quais poderao constar documento parte fazendo mencao essa circunstancia emitida sob cartular escritural pode assinado pelo bem modo simplificado quando este identificado numeracao propria pelos numeros registro matricula oficial competente dispensada imoveis respectivas confrontacoes serao descritos identificados numero admite utilizacao formas previstas legislacao especifica quanto documentos eletronicos como senha biometria codigo autenticacao emitido dispositivo pessoal intransferivel inclusive fins validade eficacia executividade hipotese observada partes contratantes estabelecerao nivel admitidos observadas disposicoes 104 2022 houver admitida avancada qualificada averbacao real constituida moveis seguranca 421 aditada ratificada retificada termo aditivo integre datado garantidor formalizacao titulo original desta fisica procedimentos definicao obedecerao disposto regulamento poder executivo regulamentar neste artigo",
+    "3-A": "art cpr podera ser emitida sob forma cartular escritural incluido pela medida provisoria 897 2019 emissao sera efetuada por meio lancamento sistema eletronico escrituracao gerido entidade autorizada pelo banco central brasil exercer atividade assumira enquanto permanecer depositada depositario nos termos disposto lei 810 maio 2013 negocios ocorridos durante periodo que estiver nao serao transcritos verso titulo",
+    "3-B": "art compete banco central brasil incluido pela medida provisoria 897 2019 estabelecer condicoes para exercicio atividade escrituracao que trata autorizar supervisionar prevista inciso autorizacao caput podera criterio ser concedida por segmento especie grupos entidades atendam criterios especificos dispensada individualizada entidade responsavel expedira mediante solicitacao certidao inteiro teor titulo inclusive fins protesto execucao judicial emitida forma eletronica observados requisitos seguranca garantam autenticidade integridade documento",
+    "3-C": "art sistema que trata registrara incluido pela medida provisoria 897 2019 emissao titulo com seus requisitos essenciais endosso iii aditamentos ratificacoes retificacoes inclusao notificacoes clausulas contratuais outras informacoes paragrafo unico hipotese serem constituidos gravames onus tal ocorrencia sera informada",
+    "3-D": "art cpr podera ser negociada nos mercados regulamentados valores mobiliarios desde que registrada depositada entidade autorizada pelo banco central brasil exercer atividade registro deposito centralizado ativos financeiros incluido pela medida provisoria 897 2019 paragrafo unico sera considerada ativo financeiro operacao ficara isenta imposto sobre operacoes credito cambio seguro relativas titulos hipotese ocorrencia negociacao trata caput",
+    "3-E": "art infracoes normas legais regulamentares que regem atividade escrituracao eletronica sujeitam entidade responsavel pelo sistema eletronico seus administradores membros orgaos estatutarios contratuais disposto lei 506 novembro 2017 incluido pela medida provisoria 897 2019",
+    "4": "art cpr titulo liquido certo exigivel pela quantidade qualidade produto nela previsto paragrafo unico cumprimento parcial obrigacao entrega sera anotado sucessivamente verso cedula tornando apenas saldo",
+    "4-A": "art fica permitida liquidacao financeira cpr que trata esta lei desde observadas seguintes condicoes incluido pela 200 2001",
+    "4-B": "art liquidacao pagamento favor legitimo credor por qualquer meio existente ambito sistema pagamentos brasileiro constituira prova total parcial cpr emitida sob forma escritural incluido pela medida provisoria 897 2019 paragrafo unico que trata caput sera informada eletronico escrituracao com referencia expressa amortizada liquidada",
+    "5": "art garantia cedular obrigacao podera consistir hipoteca penhor iii alienacao fiduciaria",
+    "6": "art podem ser objeto hipoteca cedular imoveis rurais urbanos paragrafo unico aplicam preceitos legislacao sobre que nao colidirem com esta lei",
+    "7": "art podem ser objeto penhor cedular nas condicoes desta lei bens suscetiveis rural mercantil bem como salvo tratar titulos credito apenhados continuam posse imediata emitente terceiro prestador garantia que responde por sua guarda conservacao fiel depositario cuidando constituido cedula respondera solidariamente com empenhador pela dos aplicam cpr conforme caso preceitos legislacao sobre inclusive meio cedulas nao colidirem",
+    "8": "art nao identificacao dos bens objeto alienacao fiduciaria retira eficacia garantia que podera incidir sobre outros mesmo genero qualidade quantidade propriedade garante produtos agropecuarios seus subprodutos recair presentes futuros fungiveis infungiveis consumiveis cuja titularidade pertenca fiduciante devedor terceiro garantidor sujeita disposicoes previstas lei 406 janeiro 2002 codigo civil legislacao especial respeito penhor rural agricola mercantil tudo for contrario disposto nesta incluido pela 986 2020 beneficiamento transformacao generos agricolas dados extinguem vinculo real transfere automaticamente para resultantes caso necessidade busca apreensao alienados fiduciariamente aplicar nos arts seguintes decreto 911 outubro 1969",
+    "9": "art cpr podera ser aditada ratificada retificada por aditivos que integram datados assinados pelo emitente credor fazendo cedula mencao essa circunstancia",
+    "10": "art aplicam cpr que forem cabiveis normas direito cambial com seguintes modificacoes endossos devem ser completos endossantes nao respondem pela entrega produto mas tao somente existencia obrigacao iii dispensado protesto para assegurar regresso contra avalistas paragrafo unico caso emitida sob forma escritural transferencia titularidade cedula produzira mesmos efeitos juridicos endosso incluido lei 986 2020",
+    "11": "art alem responder pela eviccao nao pode emitente cpr invocar seu beneficio caso fortuito forca maior",
+    "12": "art cpr para ter eficacia contra terceiros inscreve cartorio registro imoveis domicilio emitente",
+    "13": "art entrega produto antes data prevista cedula depende anuencia credor",
+    "14": "art cpr podera ser considerada vencida hipotese inadimplemento qualquer das obrigacoes emitente",
+    "15": "art para cobranca cpr cabe acao execucao entrega coisa incerta",
+    "16": "art busca apreensao bem alienado fiduciariamente promovida pelo credor nao elide posterior execucao inclusive hipoteca penhor constituido mesma cedula para satisfacao credito remanescente",
+    "17": "art pratica crime estelionato aquele que fizer declaracoes falsas inexatas acerca bens oferecidos garantia cpr inclusive omitir declaracao estarem eles sujeitos outros onus responsabilidade qualquer especie ate mesmo natureza fiscal",
+    "18": "art bens vinculados cpr nao serao penhorados sequestrados por outras dividas emitente terceiro prestador garantia real cumprindo qualquer deles denunciar existencia cedula autoridades incumbidas diligencia quem determinou sob pena responderem pelos prejuizos resultantes sua omissao",
+    "19": "art cpr podera ser negociada nos mercados bolsas balcao revogado pela medida provisoria 897 2019 lei 986 2020 registro sistema liquidacao financeira administrado por entidade autorizada pelo banco central brasil condicao indispensavel para negociacao referida neste artigo nas ocorrencias sera considerada ativo financeiro nao havera incidencia imposto sobre operacoes credito cambio seguro relativas titulos valores mobiliarios registrada ativos autorizado tera seguintes caracteristicas incluido 076 2004 cartular antes seu apos sua baixa escritural eletronica enquanto permanecer negocios ocorridos durante periodo que estiver serao transcritos verso dos iii registradora responsavel manutencao cadeia estiverem registrados hipotese contar com garantia instituicao seguradora emitida favor garantidor devendo emitente entrega este meio endosso mandato poderes negocia custodia registra endossa credor informado",
+    "19-A": "art vetado redacao dada pela lei 421 2022",
+    "20": "art esta lei entra vigor data sua publicacao brasilia agosto 1994 173 independencia 106 republica itamar franco rubens ricupero este texto nao substitui publicado"
+  }
+}

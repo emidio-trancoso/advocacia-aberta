@@ -341,6 +341,55 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
         self.assertEqual(set(objeto["artigos"]), {"1", "2", "2-A", "3"})
         self.assertIn("VETADO", objeto["artigos"]["2-A"]["texto"])
 
+    def test_nome_real_de_titulos_e_capitulos_e_extraido(self) -> None:
+        # BASE-018: a página costuma separar o rótulo ("TÍTULO I") do nome
+        # real ("Dos Princípios Fundamentais") em parágrafos distintos, às
+        # vezes com uma remissão "(Vide ...)" entre eles; outras vezes escreve
+        # tudo na mesma linha. Sem nome identificável, mantém a linha do
+        # marcador, como antes.
+        html = """
+        <html><body>
+        <p>TÍTULO I</p>
+        <p>(Vide Lei nº 1.234, de 2020)</p>
+        <p>DOS PRINCÍPIOS FUNDAMENTAIS</p>
+        <p>CAPÍTULO II - DA COBRANÇA</p>
+        <p>SEÇÃO I</p>
+        <p>Das Disposições Gerais</p>
+        <p>Art. 1º Primeiro artigo.</p>
+        <p>TÍTULO II</p>
+        <p>Art. 2º Segundo artigo, em título sem nome na página.</p>
+        </body></html>
+        """
+        config = {
+            "fontes": [
+                {
+                    "codigo": "XX",
+                    "url": "https://www.planalto.gov.br/teste",
+                    "arquivo_bruto": "xx.html",
+                    "destino": "lei_xx.json",
+                }
+            ]
+        }
+        with tempfile.TemporaryDirectory() as temp:
+            raiz = Path(temp)
+            bruto = raiz / "bruto"
+            publicados = raiz / "publicados"
+            bruto.mkdir()
+            publicados.mkdir()
+            (bruto / "xx.html").write_text(html, encoding="utf-8")
+            (publicados / "lei_xx.json").write_text(
+                json.dumps({"_meta": {}, "artigos": {}}), encoding="utf-8"
+            )
+            [saida] = pipeline.transformar_legislacao(
+                config, bruto, publicados, raiz / "candidatos"
+            )
+            objeto = json.loads(saida.read_text())
+        hierarquia = objeto["artigos"]["1"]["hierarchy"]
+        self.assertEqual(hierarquia["title_name"], "DOS PRINCÍPIOS FUNDAMENTAIS")
+        self.assertEqual(hierarquia["chapter_name"], "DA COBRANÇA")
+        self.assertEqual(hierarquia["section_name"], "Das Disposições Gerais")
+        self.assertEqual(objeto["artigos"]["2"]["hierarchy"]["title_name"], "TÍTULO II")
+
     def test_hierarquia_tolera_ortografia_antiga_sem_acento(self) -> None:
         # Padrão do Decreto 2.044/1908: a página usa "TITULO I", "CAPITULO
         # XII" e "SECÇÃO I" na ortografia da época. Sem tolerância, essas

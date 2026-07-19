@@ -569,6 +569,38 @@ def rotulo_inicial_em_link(no: Elemento) -> bool:
     return False
 
 
+ESTRUTURA_RE = re.compile(r"^(T[ÍI]TULO|CAP[ÍI]TULO|SEC?ÇÃO|PARTE|LIVRO)\b", re.I)
+
+
+def nome_da_divisao(rotulo: str, paragrafos: list[Elemento], indice: int) -> str:
+    """Nome real da divisão estrutural (BASE-018).
+
+    Quando a página escreve o nome na própria linha do marcador
+    ("CAPÍTULO II - DA COBRANÇA"), devolve o que sobra depois do rótulo.
+    Quando separa rótulo e nome em parágrafos distintos ("TÍTULO I" seguido de
+    "Dos Princípios Fundamentais"), procura o nome nos parágrafos seguintes,
+    pulando linhas vazias e remissões "(Vide ...)". Sem nome identificável,
+    devolve a própria linha do marcador, como antes.
+    """
+    resto = re.sub(
+        r"^(?:T[ÍI]TULO|CAP[ÍI]TULO|SEC?ÇÃO)\s+(?:[IVXLCDM]+|ÚNIC[OA])\b[\s\-–—.:]*",
+        "",
+        rotulo,
+        count=1,
+        flags=re.I,
+    ).strip()
+    if resto:
+        return resto
+    for seguinte in paragrafos[indice + 1 : indice + 4]:
+        texto = texto_normalizado(texto_elemento(seguinte))
+        if not texto or texto.startswith("("):
+            continue
+        if ARTIGO.match(texto) or ESTRUTURA_RE.match(texto) or len(texto) > 120:
+            break
+        return texto
+    return rotulo
+
+
 def transformar_legislacao(
     config: dict[str, Any], bruto: Path, publicados: Path, candidatos: Path
 ) -> list[Path]:
@@ -648,17 +680,17 @@ def transformar_legislacao(
             match_secao = re.match(r"^SEC?ÇÃO\s+([IVXLCDM]+|ÚNICA)\b", simples, re.I)
             if match_titulo:
                 titulo = match_titulo.group(1)
-                titulo_nome = simples
+                titulo_nome = nome_da_divisao(simples, paragrafos, indice)
                 capitulo = capitulo_nome = secao = secao_nome = None
                 continue
             if match_capitulo:
                 capitulo = match_capitulo.group(1)
-                capitulo_nome = simples
+                capitulo_nome = nome_da_divisao(simples, paragrafos, indice)
                 secao = secao_nome = None
                 continue
             if match_secao:
                 secao = match_secao.group(1)
-                secao_nome = simples
+                secao_nome = nome_da_divisao(simples, paragrafos, indice)
                 continue
 
             artigo_match = ARTIGO.match(simples)

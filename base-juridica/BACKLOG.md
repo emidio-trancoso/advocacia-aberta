@@ -42,11 +42,30 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 | `BASE-015` | Integrar auditoria estrutural ao fluxo de contribuição | GitHub Actions executa o auditor e apresenta seus achados em toda mudança da base | **concluído em 2026-07-17** |
 | `BASE-016` | Endurecer coleta e promoção do pipeline | Allowlist cobre URL inicial e redirecionada; tipo de conteúdo, volume, re-promoção e estados não ativos têm gates e testes | **concluído em 2026-07-17** |
 | `BASE-017` | Não existe detecção de mudança nem agendamento; a atualização depende de alguém lembrar | Comando barato responde "a fonte mudou?" por família, sem preparar candidatos; execução agendada publica o resultado; a promoção continua humana | **concluído em 2026-07-18** |
-| `BASE-018` | O adaptador de legislação captura `title_name` genérico ("TÍTULO I") onde o snapshot legado tinha o nome real ("DOS PRINCÍPIOS FUNDAMENTAIS") | O adaptador extrai os nomes reais de títulos e capítulos das páginas do Planalto, com teste; o motor não consome o campo hoje, então o item é de qualidade do dado | aberto |
+| `BASE-018` | O adaptador de legislação captura `title_name` genérico ("TÍTULO I") onde o snapshot legado tinha o nome real ("DOS PRINCÍPIOS FUNDAMENTAIS") | O adaptador extrai os nomes reais de títulos e capítulos das páginas do Planalto, com teste; o motor não consome o campo hoje, então o item é de qualidade do dado | **concluído em 2026-07-19** |
 | `BASE-019` | O índice invertido de legislação (`indexes.keywords`) e os `keywords` por artigo são enriquecimentos legados sem processo reproduzível; a transformação os preserva do arquivo publicado, e artigos novos ficam fora do índice (invisíveis à busca textual quando o índice existe). Os diplomas incorporados pela expansão de julho de 2026 (piloto de 8 leis e fatias do manifesto `expansao/normas.json`) não têm índice curado e usam a busca em texto integral | Gerador determinístico versionado cobre todos os artigos publicados, como o `BASE-010` fez para súmulas; teste garante cobertura 1:1 | **concluído em 2026-07-19** |
 | `BASE-020` | A busca de temas repetitivos usa somente os índices legados `keywords` e `terms`, sem fallback textual: os 57 temas 1406 a 1462, incorporados pela atualização de 2026-07-19, só são encontrados pela busca por número | Gerador determinístico cobre todos os temas publicados (como o `BASE-019` fez para a legislação) ou a busca ganha fallback textual; teste garante que nenhum tema publicado fica invisível | aberto |
 
 ## Itens concluídos
+
+### `BASE-018` — nomes reais das divisões no adaptador de legislação
+
+- `nome_da_divisao` extrai o nome real de títulos, capítulos e seções: usa o
+  que sobra na própria linha do marcador ("CAPÍTULO II - DA COBRANÇA") ou, na
+  diagramação mais comum do Planalto, o parágrafo seguinte ("TÍTULO I" seguido
+  de "Dos Princípios Fundamentais"), pulando linhas vazias e remissões
+  "(Vide ...)"; sem nome identificável, mantém a linha do marcador, como
+  antes;
+- demonstração offline sobre páginas reais já capturadas: CCOM ("TÍTULO I" →
+  "DAS EMBARCAÇÕES"), Decreto 2.044/1908 ("CAPÍTULO IV" → "DO AVAL") e Lei
+  15.040/2024 ("CAPÍTULO V" → "DA PRESCRIÇÃO");
+- teste cobre nome na mesma linha, nome em parágrafo separado com remissão no
+  meio, seção com nome em minúsculas e o fallback sem nome;
+- o motor não consome o campo; os nomes reais entram nos dados publicados
+  naturalmente nas próximas recapturas de cada diploma, com o diff da
+  promoção mostrando a mudança de hierarquia;
+- a verificação completa está em
+  [`verificacoes/BASE-018.md`](verificacoes/BASE-018.md).
 
 ### `BASE-013` — snapshots e diferenças versionados
 
@@ -276,12 +295,8 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 
 ## Ordem sugerida de execução
 
-1. `BASE-011`, ampliando validações de esquema e integridade.
-2. `BASE-013`, versionando snapshots e diferenças.
-3. `BASE-020`, cobrindo os temas repetitivos invisíveis à busca textual (1406 a
+1. `BASE-020`, cobrindo os temas repetitivos invisíveis à busca textual (1406 a
    1462), no padrão que o `BASE-019` estabeleceu para a legislação.
-4. `BASE-018`, recuperando os nomes reais de títulos e capítulos no adaptador de
-   legislação.
 
 ## Regra de encerramento
 

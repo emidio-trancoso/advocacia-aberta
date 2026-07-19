@@ -1,0 +1,1487 @@
+{
+  "_meta": {
+    "codigo": "L4320",
+    "nome": "Normas Gerais de Direito Financeiro",
+    "lei": "Lei 4.320/1964",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm",
+    "total_artigos": 92,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Esta lei estatui normas gerais de direito financeiro para elaboração e contrôle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal, de acôrdo com o disposto no art. 5º, inciso XV, letra b, da Constituição Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%201%C2%BA%20Esta%20lei%20estatui%20normas%20gerais%20de%20direito%20financeiro%20para%20elabora%C3%A7%C3%A3o%20e%20contr%C3%B4le%20dos%20or%C3%A7amentos%20e%20balan%C3%A7os%20da%20Uni%C3%A3o%2C%20dos%20Estados%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2° A Lei do Orçamento conterá a discriminação da receita e despesa de forma a evidenciar a política econômica financeira e o programa de trabalho do Govêrno, obedecidos os princípios de unidade universalidade e anualidade.\n\n§ 1° Integrarão a Lei de Orçamento:\n\nI - Sumário geral da receita por fontes e da despesa por funções do Govêrno;\n\nII - Quadro demonstrativo da Receita e Despesa segundo as Categorias Econômicas, na forma do Anexo nº 1;\n\nIII - Quadro discriminativo da receita por fontes e respectiva legislação;\n\nIV - Quadro das dotações por órgãos do Govêrno e da Administração.\n\n§ 2º Acompanharão a Lei de Orçamento:\n\nI - Quadros demonstrativos da receita e planos de aplicação dos fundos especiais;\n\nII - Quadros demonstrativos da despesa, na forma dos Anexos nºs 6 a 9;\n\nIII - Quadro demonstrativo do programa anual de trabalho do Govêrno, em têrmos de realização de obras e de prestação de serviços.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%202%C2%B0%20A%20Lei%20do%20Or%C3%A7amento%20conter%C3%A1%20a%20discrimina%C3%A7%C3%A3o%20da%20receita%20e%20despesa%20de%20forma%20a%20evidenciar%20a%20pol%C3%ADtica%20econ%C3%B4mica%20financeira%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º A Lei de Orçamento compreenderá tôdas as receitas, inclusive as de operações de crédito autorizadas em lei.\n\nParágrafo único. Não se consideram para os fins deste artigo as operações de crédito por antecipação da receita, as emissões de papel-moeda e outras entradas compensatórias, no ativo e passivo financeiros . (Veto rejeitado no DOU, de 5.5.1964)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%203%C2%BA%20A%20Lei%20de%20Or%C3%A7amento%20compreender%C3%A1%20t%C3%B4das%20as%20receitas%2C%20inclusive%20as%20de%20opera%C3%A7%C3%B5es%20de%20cr%C3%A9dito%20autorizadas%20em%20lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º A Lei de Orçamento compreenderá tôdas as despesas próprias dos órgãos do Govêrno e da administração centralizada, ou que, por intermédio dêles se devam realizar, observado o disposto no artigo 2°.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%204%C2%BA%20A%20Lei%20de%20Or%C3%A7amento%20compreender%C3%A1%20t%C3%B4das%20as%20despesas%20pr%C3%B3prias%20dos%20%C3%B3rg%C3%A3os%20do%20Gov%C3%AArno%20e%20da%20administra%C3%A7%C3%A3o%20centralizada%2C%20ou%20que%2C%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º A Lei de Orçamento não consignará dotações globais destinadas a atender indiferentemente a despesas de pessoal, material, serviços de terceiros, transferências ou quaisquer outras, ressalvado o disposto no artigo 20 e seu parágrafo único.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%205%C2%BA%20A%20Lei%20de%20Or%C3%A7amento%20n%C3%A3o%20consignar%C3%A1%20dota%C3%A7%C3%B5es%20globais%20destinadas%20a%20atender%20indiferentemente%20a%20despesas%20de%20pessoal%2C%20material%2C%20servi%C3%A7os%20de%20terceiros%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Tôdas as receitas e despesas constarão da Lei de Orçamento pelos seus totais, vedadas quaisquer deduções.\n\n§ 1º As cotas de receitas que uma entidade pública deva transferir a outra incluir-se-ão, como despesa, no orçamento da entidade obrigada à transferência e, como receita, no orçamento da que as deva receber.\n\n§ 2º Para cumprimento do disposto no parágrafo anterior, o cálculo das cotas terá por base os dados apurados no balanço do exercício anterior àquele em que se elaborar a proposta orçamentária do Govêrno obrigado à transferência. (Veto rejeitado no DOU, de 5.5.1964)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%206%C2%BA%20T%C3%B4das%20as%20receitas%20e%20despesas%20constar%C3%A3o%20da%20Lei%20de%20Or%C3%A7amento%20pelos%20seus%20totais%2C%20vedadas%20quaisquer%20dedu%C3%A7%C3%B5es.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7° A Lei de Orçamento poderá conter autorização ao Executivo para:\n\nI - Abrir créditos suplementares até determinada importância obedecidas as disposições do artigo 43; (Veto rejeitado no DOU, de 5.5.1964)\n\nII - Realizar em qualquer mês do exercício financeiro, operações de crédito por antecipação da receita, para atender a insuficiências de caixa.\n\n§ 1º Em casos de déficit, a Lei de Orçamento indicará as fontes de recursos que o Poder Executivo fica autorizado a utilizar para atender a sua cobertura.\n\n§ 2° O produto estimado de operações de crédito e de alienação de bens imóveis sòmente se incluirá na receita quando umas e outras forem especìficamente autorizadas pelo Poder Legislativo em forma que jurìdicamente possibilite ao Poder Executivo realizá-las no exercício.\n\n§ 3º A autorização legislativa a que se refere o parágrafo anterior, no tocante a operações de crédito, poderá constar da própria Lei de Orçamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%207%C2%B0%20A%20Lei%20de%20Or%C3%A7amento%20poder%C3%A1%20conter%20autoriza%C3%A7%C3%A3o%20ao%20Executivo%20para%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º A discriminação da receita geral e da despesa de cada órgão do Govêrno ou unidade administrativa, a que se refere o artigo 2º, § 1º, incisos III e IV obedecerá à forma do Anexo nº 2.\n\n§ 1° Os itens da discriminação da receita e da despesa, mencionados nos artigos 11, § 4°, e 13, serão identificados por números de código decimal, na forma dos Anexos nºs 3 e 4.\n\n§ 2º Completarão os números do código decimal referido no parágrafo anterior os algarismos caracterizadores da classificação funcional da despesa, conforme estabelece o Anexo nº 5.\n\n§ 3° O código geral estabelecido nesta lei não prejudicará a adoção de códigos locais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%208%C2%BA%20A%20discrimina%C3%A7%C3%A3o%20da%20receita%20geral%20e%20da%20despesa%20de%20cada%20%C3%B3rg%C3%A3o%20do%20Gov%C3%AArno%20ou%20unidade%20administrativa%2C%20a%20que%20se%20refere",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Tributo é a receita derivada instituída pelas entidades de direito público, compreendendo os impostos, as taxas e contribuições nos têrmos da Constituição e das leis vigentes em matéria financeira, destinando-se o seu produto ao custeio de atividades gerais ou específicas exercidas por essas entidades (Veto rejeitado no DOU, de 5.5.1964)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%209%C2%BA%20Tributo%20%C3%A9%20a%20receita%20derivada%20institu%C3%ADda%20pelas%20entidades%20de%20direito%20p%C3%BAblico%2C%20compreendendo%20os%20impostos%2C%20as%20taxas%20e%20contribui%C3%A7%C3%B5es%20nos%20t%C3%AArmos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2010.%20%28Vetado%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11 - A receita classificar-se-á nas seguintes categorias econômicas: Receitas Correntes e Receitas de Capital. (Redação dada pelo Decreto Lei nº 1.939, de 1982)\n\n§ 1º - São Receitas Correntes as receitas tributária, de contribuições, patrimonial, agropecuária, industrial, de serviços e outras e, ainda, as provenientes de recursos financeiros recebidos de outras pessoas de direito público ou privado, quando destinadas a atender despesas classificáveis em Despesas Correntes. (Redação dada pelo Decreto Lei nº 1.939, de 1982)\n\n§ 2º - São Receitas de Capital as provenientes da realização de recursos financeiros oriundos de constituição de dívidas; da conversão, em espécie, de bens e direitos; os recursos recebidos de outras pessoas de direito público ou privado, destinados a atender despesas classificáveis em Despesas de Capital e, ainda, o superavit do Orçamento Corrente. (Redação dada pelo Decreto Lei nº 1.939, de 1982)\n\n§ 3º - O superavit do Orçamento Corrente resultante do balanceamento dos totais das receitas e despesas correntes, apurado na demonstração a que se refere o Anexo nº 1, não constituirá item de receita orçamentária. (Redação dada pelo Decreto Lei nº 1.939, de 1982)\n\n§ 4º - A classificação da receita obedecerá ao seguinte esquema: (Redação dada pelo Decreto Lei nº 1.939, de 1982)\n\nRECEITAS CORRENTES\n\nReceita Tributária\n\nImpostos.\n\nTaxas.\n\nContribuições de Melhoria.\n\nRECEITA DE CONTRIBUIÇÕES\n\nRECEITA PATRIMONIAL\n\nRECEITA AGROPECUÁRIA\n\nRECEITA INDUSTRIAL\n\nRECEITA DE SERVIÇOS\n\nTRANSFERÊNCIAS CORRENTES\n\nOUTRAS RECEITAS CORRENTES\n\nRECEITAS DE CAPITAL\n\nOPERAÇÕES DE CRÉDITO\n\nALIENAÇÃO DE BENS\n\nAMORTIZAÇÃO DE EMPRÉSTIMOS\n\nTRANSFERÊNCIAS DE CAPITAL\n\nOUTRAS RECEITAS DE CAPITAL",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2011%20-%20A%20receita%20classificar-se-%C3%A1%20nas%20seguintes%20categorias%20econ%C3%B4micas%3A%20Receitas%20Correntes%20e%20Receitas%20de%20Capital.%20%28Reda%C3%A7%C3%A3o%20dada%20pelo%20Decreto%20Lei%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. A despesa será classificada nas seguintes categorias econômicas: (Veto rejeitado no DOU, de 5.5.1964)\n\nDESPESAS CORRENTES\n\nDespesas de Custeio\n\nTransferências Correntes\n\nDESPESAS DE CAPITAL\n\nInvestimentos\n\nInversões Financeiras\n\nTransferências de Capital\n\n§ 1º Classificam-se como Despesas de Custeio as dotações para manutenção de serviços anteriormente criados, inclusive as destinadas a atender a obras de conservação e adaptação de bens imóveis.\n\n§ 2º Classificam-se como Transferências Correntes as dotações para despesas as quais não corresponda contraprestação direta em bens ou serviços, inclusive para contribuições e subvenções destinadas a atender à manutenção de outras entidades de direito público ou privado.\n\n§ 3º Consideram-se subvenções, para os efeitos desta lei, as transferências destinadas a cobrir despesas de custeio das entidades beneficiadas, distinguindo-se como:\n\nI - subvenções sociais, as que se destinem a instituições públicas ou privadas de caráter assistencial ou cultural, sem finalidade lucrativa;\n\nII - subvenções econômicas, as que se destinem a emprêsas públicas ou privadas de caráter industrial, comercial, agrícola ou pastoril.\n\n§ 4º Classificam-se como investimentos as dotações para o planejamento e a execução de obras, inclusive as destinadas à aquisição de imóveis considerados necessários à realização destas últimas, bem como para os programas especiais de trabalho, aquisição de instalações, equipamentos e material permanente e constituição ou aumento do capital de emprêsas que não sejam de caráter comercial ou financeiro.\n\n§ 5º Classificam-se como Inversões Financeiras as dotações destinadas a:\n\nI - aquisição de imóveis, ou de bens de capital já em utilização;\n\nII - aquisição de títulos representativos do capital de emprêsas ou entidades de qualquer espécie, já constituídas, quando a operação não importe aumento do capital;\n\nIII - constituição ou aumento do capital de entidades ou emprêsas que visem a objetivos comerciais ou financeiros, inclusive operações bancárias ou de seguros.\n\n§ 6º São Transferências de Capital as dotações para investimentos ou inversões financeiras que outras pessoas de direito público ou privado devam realizar, independentemente de contraprestação direta em bens ou serviços, constituindo essas transferências auxílios ou contribuições, segundo derivem diretamente da Lei de Orçamento ou de lei especial anterior, bem como as dotações para amortização da dívida pública.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2012.%20A%20despesa%20ser%C3%A1%20classificada%20nas%20seguintes%20categorias%20econ%C3%B4micas%3A%20%28Veto%20rejeitado%20no%20DOU%2C%20de%205.5.1964%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Observadas as categorias econômicas do art. 12, a discriminação ou especificação da despesa por elementos, em cada unidade administrativa ou órgão de govêrno, obedecerá ao seguinte esquema:\n\nDESPESAS CORRENTES\n\nDespesas de Custeio\n\nPessoa Civil\n\nPessoal Militar\n\nMaterial de Consumo\n\nServiços de Terceiros\n\nEncargos Diversos\n\nTransferências Correntes\n\nSubvenções Sociais\n\nSubvenções Econômicas\n\nInativos\n\nPensionistas\n\nSalário Família e Abono Familiar\n\nJuros da Dívida Pública\n\nContribuições de Previdência Social\n\nDiversas Transferências Correntes.\n\nDESPESAS DE CAPITAL\n\nInvestimentos\n\nObras Públicas\n\nServiços em Regime de Programação Especial\n\nEquipamentos e Instalações\n\nMaterial Permanente\n\nParticipação em Constituição ou Aumento de Capital de Emprêsas ou Entidades Industriais ou Agrícolas\n\nInversões Financeiras\n\nAquisição de Imóveis\n\nParticipação em Constituição ou Aumento de Capital de Emprêsas ou Entidades Comerciais ou Financeiras\n\nAquisição de Títulos Representativos de Capital de Emprêsas em Funcionamento\n\nConstituição de Fundos Rotativos\n\nConcessão de Empréstimos\n\nDiversas Inversões Financeiras\n\nTransferências de Capital\n\nAmortização da Dívida Pública\n\nAuxílios para Obras Públicas\n\nAuxílios para Equipamentos e Instalações\n\nAuxílios para Inversões Financeiras\n\nOutras Contribuições.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2013.%20Observadas%20as%20categorias%20econ%C3%B4micas%20do%20art.%2012%2C%20a%20discrimina%C3%A7%C3%A3o%20ou%20especifica%C3%A7%C3%A3o%20da%20despesa%20por%20elementos%2C%20em%20cada%20unidade%20administrativa%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Constitui unidade orçamentária o agrupamento de serviços subordinados ao mesmo órgão ou repartição a que serão consignadas dotações próprias. (Veto rejeitado no DOU, de 5.5.1964)\n\nParágrafo único. Em casos excepcionais, serão consignadas dotações a unidades administrativas subordinadas ao mesmo órgão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2014.%20Constitui%20unidade%20or%C3%A7ament%C3%A1ria%20o%20agrupamento%20de%20servi%C3%A7os%20subordinados%20ao%20mesmo%20%C3%B3rg%C3%A3o%20ou%20reparti%C3%A7%C3%A3o%20a%20que%20ser%C3%A3o%20consignadas%20dota%C3%A7%C3%B5es%20pr%C3%B3prias.%20%28Veto",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Na Lei de Orçamento a discriminação da despesa far-se-á no mínimo por elementos. (Veto rejeitado no DOU, de 5.5.1964)\n\n§ 1º Entende-se por elementos o desdobramento da despesa com pessoal, material, serviços, obras e outros meios de que se serve a administração pública para consecução dos seus fins. (Veto rejeitado no DOU, de 5.5.1964)\n\n§ 2º Para efeito de classificação da despesa, considera-se material permanente o de duração superior a dois anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2015.%20Na%20Lei%20de%20Or%C3%A7amento%20a%20discrimina%C3%A7%C3%A3o%20da%20despesa%20far-se-%C3%A1%20no%20m%C3%ADnimo%20por%20elementos.%20%28Veto%20rejeitado%20no%20DOU%2C%20de%205.5.1964%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Fundamentalmente e nos limites das possibilidades financeiras, a concessão de subvenções sociais visará a prestação de serviços essenciais de assistência social, médica e educacional, sempre que a suplementação de recursos de origem privada aplicados a esses objetivos, revelar-se mais econômica.\n\nParágrafo único. O valor das subvenções, sempre que possível, será calculado com base em unidades de serviços efetivamente prestados ou postos à disposição dos interessados obedecidos os padrões mínimos de eficiência préviamente fixados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2016.%20Fundamentalmente%20e%20nos%20limites%20das%20possibilidades%20financeiras%2C%20a%20concess%C3%A3o%20de%20subven%C3%A7%C3%B5es%20sociais%20visar%C3%A1%20a%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7os%20essenciais%20de%20assist%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Sòmente à instituição cujas condições de funcionamento forem julgadas satisfatórias pelos órgãos oficiais de fiscalização serão concedidas subvenções.\n\nII) Das Subvenções Econômicas",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2017.%20S%C3%B2mente%20%C3%A0%20institui%C3%A7%C3%A3o%20cujas%20condi%C3%A7%C3%B5es%20de%20funcionamento%20forem%20julgadas%20satisfat%C3%B3rias%20pelos%20%C3%B3rg%C3%A3os%20oficiais%20de%20fiscaliza%C3%A7%C3%A3o%20ser%C3%A3o%20concedidas%20subven%C3%A7%C3%B5es.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. A cobertura dos deficits de manutenção das emprêsas públicas, de natureza autárquica ou não, far-se-á mediante subvenções econômicas expressamente incluídas nas despesas correntes do orçamento da União, do Estado, do Município ou do Distrito Federal.\n\nParágrafo único. Consideram-se, igualmente, como subvenções econômicas:\n\na) as dotações destinadas a cobrir a diferença entre os preços de mercado e os preços de revenda, pelo Govêrno, de gêneros alimentícios ou outros materiais;\n\nb) as dotações destinadas ao pagamento de bonificações a produtores de determinados gêneros ou materiais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2018.%20A%20cobertura%20dos%20deficits%20de%20manuten%C3%A7%C3%A3o%20das%20empr%C3%AAsas%20p%C3%BAblicas%2C%20de%20natureza%20aut%C3%A1rquica%20ou%20n%C3%A3o%2C%20far-se-%C3%A1%20mediante%20subven%C3%A7%C3%B5es%20econ%C3%B4micas%20expressamente%20inclu%C3%ADdas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. A Lei de Orçamento não consignará ajuda financeira, a qualquer título, a emprêsa de fins lucrativos, salvo quando se tratar de subvenções cuja concessão tenha sido expressamente autorizada em lei especial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2019.%20A%20Lei%20de%20Or%C3%A7amento%20n%C3%A3o%20consignar%C3%A1%20ajuda%20financeira%2C%20a%20qualquer%20t%C3%ADtulo%2C%20a%20empr%C3%AAsa%20de%20fins%20lucrativos%2C%20salvo%20quando%20se%20tratar",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Os investimentos serão discriminados na Lei de Orçamento segundo os projetos de obras e de outras aplicações.\n\nParágrafo único. Os programas especiais de trabalho que, por sua natureza, não possam cumprir-se subordinadamente às normas gerais de execução da despesa poderão ser custeadas por dotações globais, classificadas entre as Despesas de Capital.\n\nSubseção Segunda\n\nDas Transferências de Capital",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2020.%20Os%20investimentos%20ser%C3%A3o%20discriminados%20na%20Lei%20de%20Or%C3%A7amento%20segundo%20os%20projetos%20de%20obras%20e%20de%20outras%20aplica%C3%A7%C3%B5es.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. A Lei de Orçamento não consignará auxílio para investimentos que se devam incorporar ao patrimônio das emprêsas privadas de fins lucrativos.\n\nParágrafo único. O disposto neste artigo aplica-se às transferências de capital à conta de fundos especiais ou dotações sob regime excepcional de aplicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2021.%20A%20Lei%20de%20Or%C3%A7amento%20n%C3%A3o%20consignar%C3%A1%20aux%C3%ADlio%20para%20investimentos%20que%20se%20devam%20incorporar%20ao%20patrim%C3%B4nio%20das%20empr%C3%AAsas%20privadas%20de%20fins",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. A proposta orçamentária que o Poder Executivo encaminhará ao Poder Legislativo nos prazos estabelecidos nas Constituições e nas Leis Orgânicas dos Municípios, compor-se-á de:\n\nI - Mensagem, que conterá: exposição circunstanciada da situação econômico-financeira, documentada com demonstração da dívida fundada e flutuante, saldos de créditos especiais, restos a pagar e outros compromissos financeiros exigíveis; exposição e justificação da política econômico-financeira do Govêrno; justificação da receita e despesa, particularmente no tocante ao orçamento de capital;\n\nII - Projeto de Lei de Orçamento;\n\nIII - Tabelas explicativas, das quais, além das estimativas de receita e despesa, constarão, em colunas distintas e para fins de comparação:\n\na) A receita arrecadada nos três últimos exercícios anteriores àquele em que se elaborou a proposta;\n\nb) A receita prevista para o exercício em que se elabora a proposta;\n\nc) A receita prevista para o exercício a que se refere a proposta;\n\nd) A despesa realizada no exercício imediatamente anterior;\n\ne) A despesa fixada para o exercício em que se elabora a proposta; e\n\nf) A despesa prevista para o exercício a que se refere a proposta.\n\nIV - Especificação dos programas especiais de trabalho custeados por dotações globais, em têrmos de metas visadas, decompostas em estimativa do custo das obras a realizar e dos serviços a prestar, acompanhadas de justificação econômica, financeira, social e administrativa.\n\nParágrafo único. Constará da proposta orçamentária, para cada unidade administrativa, descrição sucinta de suas principais finalidades, com indicação da respectiva legislação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2022.%20A%20proposta%20or%C3%A7ament%C3%A1ria%20que%20o%20Poder%20Executivo%20encaminhar%C3%A1%20ao%20Poder%20Legislativo%20nos%20prazos%20estabelecidos%20nas%20Constitui%C3%A7%C3%B5es%20e%20nas%20Leis%20Org%C3%A2nicas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. As receitas e despesas de capital serão objeto de um Quadro de Recursos e de Aplicação de Capital, aprovado por decreto do Poder Executivo, abrangendo, no mínimo um triênio.\n\nParágrafo único. O Quadro de Recursos e de Aplicação de Capital será anualmente reajustado acrescentando-se-lhe as previsões de mais um ano, de modo a assegurar a projeção contínua dos períodos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2023.%20As%20receitas%20e%20despesas%20de%20capital%20ser%C3%A3o%20objeto%20de%20um%20Quadro%20de%20Recursos%20e%20de%20Aplica%C3%A7%C3%A3o%20de%20Capital%2C%20aprovado%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. O Quadro de Recursos e de Aplicação de Capital abrangerá:\n\nI - as despesas e, como couber, também as receitas previstas em planos especiais aprovados em lei e destinados a atender a regiões ou a setôres da administração ou da economia;\n\nII - as despesas à conta de fundos especiais e, como couber, as receitas que os constituam;\n\nIII - em anexos, as despesas de capital das entidades referidas no Título X desta lei, com indicação das respectivas receitas, para as quais forem previstas transferências de capital.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2024.%20O%20Quadro%20de%20Recursos%20e%20de%20Aplica%C3%A7%C3%A3o%20de%20Capital%20abranger%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Os programas constantes do Quadro de Recursos e de Aplicação de Capital sempre que possível serão correlacionados a metas objetivas em têrmos de realização de obras e de prestação de serviços.\n\nParágrafo único. Consideram-se metas os resultados que se pretendem obter com a realização de cada programa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2025.%20Os%20programas%20constantes%20do%20Quadro%20de%20Recursos%20e%20de%20Aplica%C3%A7%C3%A3o%20de%20Capital%20sempre%20que%20poss%C3%ADvel%20ser%C3%A3o%20correlacionados%20a%20metas%20objetivas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. A proposta orçamentária conterá o programa anual atualizado dos investimentos, inversões financeiras e transferências previstos no Quadro de Recursos e de Aplicação de Capital.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2026.%20A%20proposta%20or%C3%A7ament%C3%A1ria%20conter%C3%A1%20o%20programa%20anual%20atualizado%20dos%20investimentos%2C%20invers%C3%B5es%20financeiras%20e%20transfer%C3%AAncias%20previstos%20no%20Quadro%20de%20Recursos%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. As propostas parciais de orçamento guardarão estrita conformidade com a política econômico-financeira, o programa anual de trabalho do Govêrno e, quando fixado, o limite global máximo para o orçamento de cada unidade administrativa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2027.%20As%20propostas%20parciais%20de%20or%C3%A7amento%20guardar%C3%A3o%20estrita%20conformidade%20com%20a%20pol%C3%ADtica%20econ%C3%B4mico-financeira%2C%20o%20programa%20anual%20de%20trabalho%20do%20Gov%C3%AArno%20e%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28 As propostas parciais das unidades administrativas, organizadas em formulário próprio, serão acompanhadas de:\n\nI - tabelas explicativas da despesa, sob a forma estabelecida no artigo 22, inciso III, letras d, e e f;\n\nII - justificação pormenorizada de cada dotação solicitada, com a indicação dos atos de aprovação de projetos e orçamentos de obras públicas, para cujo início ou prosseguimento ela se destina.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2028%20As%20propostas%20parciais%20das%20unidades%20administrativas%2C%20organizadas%20em%20formul%C3%A1rio%20pr%C3%B3prio%2C%20ser%C3%A3o%20acompanhadas%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Caberá aos órgãos de contabilidade ou de arrecadação organizar demonstrações mensais da receita arrecadada, segundo as rubricas, para servirem de base a estimativa da receita, na proposta orçamentária.\n\nParágrafo único. Quando houver órgão central de orçamento, essas demonstrações ser-lhe-ão remetidas mensalmente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2029.%20Caber%C3%A1%20aos%20%C3%B3rg%C3%A3os%20de%20contabilidade%20ou%20de%20arrecada%C3%A7%C3%A3o%20organizar%20demonstra%C3%A7%C3%B5es%20mensais%20da%20receita%20arrecadada%2C%20segundo%20as%20rubricas%2C%20para%20servirem%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. A estimativa da receita terá por base as demonstrações a que se refere o artigo anterior à arrecadação dos três últimos exercícios, pelo menos, bem como as circunstâncias de ordem conjuntural e outras, que possam afetar a produtividade de cada fonte de receita.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2030.%20A%20estimativa%20da%20receita%20ter%C3%A1%20por%20base%20as%20demonstra%C3%A7%C3%B5es%20a%20que%20se%20refere%20o%20artigo%20anterior%20%C3%A0%20arrecada%C3%A7%C3%A3o%20dos%20tr%C3%AAs",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. As propostas orçamentárias parciais serão revistas e coordenadas na proposta geral, considerando-se a receita estimada e as novas circunstâncias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2031.%20As%20propostas%20or%C3%A7ament%C3%A1rias%20parciais%20ser%C3%A3o%20revistas%20e%20coordenadas%20na%20proposta%20geral%2C%20considerando-se%20a%20receita%20estimada%20e%20as%20novas%20circunst%C3%A2ncias.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. Se não receber a proposta orçamentária no prazo fixado nas Constituições ou nas Leis Orgânicas dos Municípios, o Poder Legislativo considerará como proposta a Lei de Orçamento vigente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2032.%20Se%20n%C3%A3o%20receber%20a%20proposta%20or%C3%A7ament%C3%A1ria%20no%20prazo%20fixado%20nas%20Constitui%C3%A7%C3%B5es%20ou%20nas%20Leis%20Org%C3%A2nicas%20dos%20Munic%C3%ADpios%2C%20o%20Poder%20Legislativo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Não se admitirão emendas ao projeto de Lei de Orçamento que visem a:\n\na) alterar a dotação solicitada para despesa de custeio, salvo quando provada, nesse ponto a inexatidão da proposta;\n\nb) conceder dotação para o início de obra cujo projeto não esteja aprovado pelos órgãos competentes;\n\nc) conceder dotação para instalação ou funcionamento de serviço que não esteja anteriormente criado;\n\nd) conceder dotação superior aos quantitativos prèviamente fixados em resolução do Poder Legislativo para concessão de auxílios e subvenções.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2033.%20N%C3%A3o%20se%20admitir%C3%A3o%20emendas%20ao%20projeto%20de%20Lei%20de%20Or%C3%A7amento%20que%20visem%20a%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. O exercício financeiro coincidirá com o ano civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2034.%20O%20exerc%C3%ADcio%20financeiro%20coincidir%C3%A1%20com%20o%20ano%20civil.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Pertencem ao exercício financeiro:\n\nI - as receitas nêle arrecadadas;\n\nII - as despesas nêle legalmente empenhadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2035.%20Pertencem%20ao%20exerc%C3%ADcio%20financeiro%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Consideram-se Restos a Pagar as despesas empenhadas mas não pagas até o dia 31 de dezembro distinguindo-se as processadas das não processadas.\n\nParágrafo único. Os empenhos que correm à conta de créditos com vigência plurienal, que não tenham sido liquidados, só serão computados como Restos a Pagar no último ano de vigência do crédito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2036.%20Consideram-se%20Restos%20a%20Pagar%20as%20despesas%20empenhadas%20mas%20n%C3%A3o%20pagas%20at%C3%A9%20o%20dia%2031%20de%20dezembro%20distinguindo-se%20as%20processadas%20das",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. As despesas de exercícios encerrados, para as quais o orçamento respectivo consignava crédito próprio, com saldo suficiente para atendê-las, que não se tenham processado na época própria, bem como os Restos a Pagar com prescrição interrompida e os compromissos reconhecidos após o encerramento do exercício correspondente poderão ser pagos à conta de dotação específica consignada no orçamento, discriminada por elementos, obedecida, sempre que possível, a ordem cronológica. (Regulamento)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2037.%20As%20despesas%20de%20exerc%C3%ADcios%20encerrados%2C%20para%20as%20quais%20o%20or%C3%A7amento%20respectivo%20consignava%20cr%C3%A9dito%20pr%C3%B3prio%2C%20com%20saldo%20suficiente%20para%20atend%C3%AA-las%2C%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Reverte à dotação a importância de despesa anulada no exercício; quando a anulação ocorrer após o encerramento dêste considerar-se-á receita do ano em que se efetivar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2038.%20Reverte%20%C3%A0%20dota%C3%A7%C3%A3o%20a%20import%C3%A2ncia%20de%20despesa%20anulada%20no%20exerc%C3%ADcio%3B%20quando%20a%20anula%C3%A7%C3%A3o%20ocorrer%20ap%C3%B3s%20o%20encerramento%20d%C3%AAste%20considerar-se-%C3%A1%20receita",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. Os créditos da Fazenda Pública, de natureza tributária ou não tributária, serão escriturados como receita do exercício em que forem arrecadados, nas respectivas rubricas orçamentárias. (Redação dada pelo Decreto Lei nº 1.735, de 1979)\n\n§ 1º - Os créditos de que trata este artigo, exigíveis pelo transcurso do prazo para pagamento, serão inscritos, na forma da legislação própria, como Dívida Ativa, em registro próprio, após apurada a sua liquidez e certeza, e a respectiva receita será escriturada a esse título. (Incluído pelo Decreto Lei nº 1.735, de 1979)\n\n§ 2º - Dívida Ativa Tributária é o crédito da Fazenda Pública dessa natureza, proveniente de obrigação legal relativa a tributos e respectivos adicionais e multas, e Dívida Ativa não Tributária são os demais créditos da Fazenda Pública, tais como os provenientes de empréstimos compulsórios, contribuições estabelecidas em lei, multas de qualquer origem ou natureza, exceto as tributárias, foros, laudêmios, aluguéis ou taxas de ocupação, custas processuais, preços de serviços prestados por estabelecimentos públicos, indenizações, reposições, restituições, alcances dos responsáveis definitivamente julgados, bem assim os créditos decorrentes de obrigações em moeda estrangeira, de subrogação de hipoteca, fiança, aval ou outra garantia, de contratos em geral ou de outras obrigações legais. (Incluído pelo Decreto Lei nº 1.735, de 1979)\n\n§ 3º - O valor do crédito da Fazenda Nacional em moeda estrangeira será convertido ao correspondente valor na moeda nacional à taxa cambial oficial, para compra, na data da notificação ou intimação do devedor, pela autoridade administrativa, ou, à sua falta, na data da inscrição da Dívida Ativa, incidindo, a partir da conversão, a atualização monetária e os juros de mora, de acordo com preceitos legais pertinentes aos débitos tributários. (Incluído pelo Decreto Lei nº 1.735, de 1979)\n\n§ 4º - A receita da Dívida Ativa abrange os créditos mencionados nos parágrafos anteriores, bem como os valores correspondentes à respectiva atualização monetária, à multa e juros de mora e ao encargo de que tratam o art. 1º do Decreto-lei nº 1.025, de 21 de outubro de 1969, e o art. 3º do Decreto-lei nº 1.645, de 11 de dezembro de 1978. (Incluído pelo Decreto Lei nº 1.735, de 1979)\n\n§ 5º - A Dívida Ativa da União será apurada e inscrita na Procuradoria da Fazenda Nacional. (Incluído pelo Decreto Lei nº 1.735, de 1979)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2039.%20Os%20cr%C3%A9ditos%20da%20Fazenda%20P%C3%BAblica%2C%20de%20natureza%20tribut%C3%A1ria%20ou%20n%C3%A3o%20tribut%C3%A1ria%2C%20ser%C3%A3o%20escriturados%20como%20receita%20do%20exerc%C3%ADcio%20em%20que%20forem",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "39-A"
+    },
+    "39-A": {
+      "numero": "39-A",
+      "texto": "Art. 39-A. A União, o Estado, o Distrito Federal ou o Município poderá ceder onerosamente, nos termos desta Lei e de lei específica que o autorize, direitos originados de créditos tributários e não tributários, inclusive quando inscritos em dívida ativa, a pessoas jurídicas de direito privado ou a fundos de investimento regulamentados pela Comissão de Valores Mobiliários (CVM). (Incluído pela Lei Complementar nº 208, de 2024)\n\n§ 1º Para fins do disposto no caput, a cessão dos direitos creditórios deverá: (Incluído pela Lei Complementar nº 208, de 2024)\n\nI - preservar a natureza do crédito de que se tenha originado o direito cedido, mantendo as garantias e os privilégios desse crédito; (Incluído pela Lei Complementar nº 208, de 2024)\n\nII - manter inalterados os critérios de atualização ou correção de valores e os montantes representados pelo principal, os juros e as multas, assim como as condições de pagamento e as datas de vencimento, os prazos e os demais termos avençados originalmente entre a Fazenda Pública ou o órgão da administração pública e o devedor ou contribuinte; (Incluído pela Lei Complementar nº 208, de 2024)\n\nIII - assegurar à Fazenda Pública ou ao órgão da administração pública a prerrogativa de cobrança judicial e extrajudicial dos créditos de que se tenham originado os direitos cedidos; (Incluído pela Lei Complementar nº 208, de 2024)\n\nIV - realizar-se mediante operação definitiva, isentando o cedente de responsabilidade, compromisso ou dívida de que decorra obrigação de pagamento perante o cessionário, de modo que a obrigação de pagamento dos direitos creditórios cedidos permaneça, a todo tempo, com o devedor ou contribuinte; (Incluído pela Lei Complementar nº 208, de 2024)\n\nV - abranger apenas o direito autônomo ao recebimento do crédito, assim como recair somente sobre o produto de créditos já constituídos e reconhecidos pelo devedor ou contribuinte, inclusive mediante a formalização de parcelamento; (Incluído pela Lei Complementar nº 208, de 2024)\n\nVI - ser autorizada, na forma de lei específica do ente, pelo chefe do Poder Executivo ou por autoridade administrativa a quem se faça a delegação dessa competência; (Incluído pela Lei Complementar nº 208, de 2024)\n\nVII - realizar-se até 90 (noventa) dias antes da data de encerramento do mandato do chefe do Poder Executivo, ressalvado o caso em que o integral pagamento pela cessão dos direitos creditórios ocorra após essa data. (Incluído pela Lei Complementar nº 208, de 2024)\n\n§ 2º A cessão de direitos creditórios preservará a base de cálculo das vinculações constitucionais no exercício financeiro em que o contribuinte efetuar o pagamento. (Incluído pela Lei Complementar nº 208, de 2024)\n\n§ 3º A cessão de direitos creditórios não poderá abranger percentuais do crédito que, por força de regras constitucionais, pertençam a outros entes da Federação. (Incluído pela Lei Complementar nº 208, de 2024)\n\n§ 4º As cessões de direitos creditórios realizadas nos termos deste artigo não se enquadram nas definições de que tratam os incisos III e IV do art. 29 e o art. 37 da Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), sendo consideradas operação de venda definitiva de patrimônio público. (Incluído pela Lei Complementar nº 208, de 2024)\n\n§ 5º As cessões de direitos creditórios tributários são consideradas atividades da administração tributária, não se aplicando a vedação constante do inciso IV do art. 167 da Constituição Federal aos créditos originados de impostos, respeitados os §§ 2º e 3º deste artigo. (Incluído pela Lei Complementar nº 208, de 2024)\n\n§ 6º A receita de capital decorrente da venda de ativos de que trata este artigo observará o disposto no art. 44 da Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), devendo-se destinar pelo menos 50% (cinquenta por cento) desse montante a despesas associadas a regime de previdência social, e o restante, a despesas com investimentos. (Incluído pela Lei Complementar nº 208, de 2024)\n\n§ 7º A cessão de direitos creditórios de que trata este artigo poderá ser realizada por intermédio de sociedade de propósito específico, criada para esse fim pelo ente cedente, dispensada, nessa hipótese, a licitação. (Incluído pela Lei Complementar nº 208, de 2024)\n\n§ 8º É vedado a instituição financeira controlada pelo ente federado cedente: (Incluído pela Lei Complementar nº 208, de 2024)\n\nI - participar de operação de aquisição primária dos direitos creditórios desse ente; (Incluído pela Lei Complementar nº 208, de 2024)\n\nII - adquirir ou negociar direitos creditórios desse ente em mercado secundário; (Incluído pela Lei Complementar nº 208, de 2024)\n\nIII - realizar operação lastreada ou garantida pelos direitos creditórios desse ente. (Incluído pela Lei Complementar nº 208, de 2024)\n\n§ 9º O disposto no § 8º deste artigo não impede a instituição financeira pública de participar da estruturação financeira da operação, atuando como prestadora de serviços. (Incluído pela Lei Complementar nº 208, de 2024)\n\n§ 10. A cessão de direitos creditórios originados de parcelamentos administrativos não inscritos em dívida ativa é limitada ao estoque de créditos existentes até a data de publicação da respectiva lei federal, estadual, distrital ou municipal que conceder a autorização legislativa para a operação. (Incluído pela Lei Complementar nº 208, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2039-A.%20A%20Uni%C3%A3o%2C%20o%20Estado%2C%20o%20Distrito%20Federal%20ou%20o%20Munic%C3%ADpio%20poder%C3%A1%20ceder%20onerosamente%2C%20nos%20termos%20desta%20Lei%20e%20de%20lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. São créditos adicionais as autorizações de despesas não computadas ou insuficientemente dotadas na Lei de Orçamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2040.%20S%C3%A3o%20cr%C3%A9ditos%20adicionais%20as%20autoriza%C3%A7%C3%B5es%20de%20despesas%20n%C3%A3o%20computadas%20ou%20insuficientemente%20dotadas%20na%20Lei%20de%20Or%C3%A7amento.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39-A",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. Os créditos adicionais classificam-se em:\n\nI - suplementares, os destinados a refôrço de dotação orçamentária;\n\nII - especiais, os destinados a despesas para as quais não haja dotação orçamentária específica;\n\nIII - extraordinários, os destinados a despesas urgentes e imprevistas, em caso de guerra, comoção intestina ou calamidade pública.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2041.%20Os%20cr%C3%A9ditos%20adicionais%20classificam-se%20em%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. Os créditos suplementares e especiais serão autorizados por lei e abertos por decreto executivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2042.%20Os%20cr%C3%A9ditos%20suplementares%20e%20especiais%20ser%C3%A3o%20autorizados%20por%20lei%20e%20abertos%20por%20decreto%20executivo.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. A abertura dos créditos suplementares e especiais depende da existência de recursos disponíveis para ocorrer à despesa e será precedida de exposição justificativa. (Veto rejeitado no DOU, de 5.5.1964)\n\n§ 1º Consideram-se recursos para o fim dêste artigo, desde que não comprometidos: (Veto rejeitado no DOU, de 5.5.1964)\n\nI - o superavit financeiro apurado em balanço patrimonial do exercício anterior; (Veto rejeitado no DOU, de 5.5.1964)\n\nII - os provenientes de excesso de arrecadação; (Veto rejeitado no DOU, de 5.5.1964)\n\nIII - os resultantes de anulação parcial ou total de dotações orçamentárias ou de créditos adicionais, autorizados em Lei; (Veto rejeitado no DOU, de 5.5.1964)\n\nIV - o produto de operações de crédito autorizadas, em forma que jurìdicamente possibilite ao Poder Executivo realizá-las. (Veto rejeitado no DOU, de 5.5.1964)\n\n§ 2º Entende-se por superavit financeiro a diferença positiva entre o ativo financeiro e o passivo financeiro, conjugando-se, ainda, os saldos dos créditos adicionais transferidos e as operações de crédito a êles vinculadas. (Veto rejeitado no DOU, de 5.5.1964)\n\n§ 3º Entende-se por excesso de arrecadação, para os fins dêste artigo, o saldo positivo das diferenças acumuladas mês a mês, entre a arrecadação prevista e a realizada, considerando-se, ainda, a tendência do exercício. (Veto rejeitado no DOU, de 5.5.1964)\n\n§ 4° Para o fim de apurar os recursos utilizáveis, provenientes de excesso de arrecadação, deduzir-se-á a importância dos créditos extraordinários abertos no exercício. (Veto rejeitado no DOU, de 5.5.1964)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2043.%20A%20abertura%20dos%20cr%C3%A9ditos%20suplementares%20e%20especiais%20depende%20da%20exist%C3%AAncia%20de%20recursos%20dispon%C3%ADveis%20para%20ocorrer%20%C3%A0%20despesa%20e%20ser%C3%A1%20precedida",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. Os créditos extraordinários serão abertos por decreto do Poder Executivo, que dêles dará imediato conhecimento ao Poder Legislativo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2044.%20Os%20cr%C3%A9ditos%20extraordin%C3%A1rios%20ser%C3%A3o%20abertos%20por%20decreto%20do%20Poder%20Executivo%2C%20que%20d%C3%AAles%20dar%C3%A1%20imediato%20conhecimento%20ao%20Poder%20Legislativo.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. Os créditos adicionais terão vigência adstrita ao exercício financeiro em que forem abertos, salvo expressa disposição legal em contrário, quanto aos especiais e extraordinários.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2045.%20Os%20cr%C3%A9ditos%20adicionais%20ter%C3%A3o%20vig%C3%AAncia%20adstrita%20ao%20exerc%C3%ADcio%20financeiro%20em%20que%20forem%20abertos%2C%20salvo%20expressa%20disposi%C3%A7%C3%A3o%20legal%20em%20contr%C3%A1rio%2C%20quanto",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. O ato que abrir crédito adicional indicará a importância, a espécie do mesmo e a classificação da despesa, até onde fôr possível.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2046.%20O%20ato%20que%20abrir%20cr%C3%A9dito%20adicional%20indicar%C3%A1%20a%20import%C3%A2ncia%2C%20a%20esp%C3%A9cie%20do%20mesmo%20e%20a%20classifica%C3%A7%C3%A3o%20da%20despesa%2C%20at%C3%A9%20onde",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Imediatamente após a promulgação da Lei de Orçamento e com base nos limites nela fixados, o Poder Executivo aprovará um quadro de cotas trimestrais da despesa que cada unidade orçamentária fica autorizada a utilizar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2047.%20Imediatamente%20ap%C3%B3s%20a%20promulga%C3%A7%C3%A3o%20da%20Lei%20de%20Or%C3%A7amento%20e%20com%20base%20nos%20limites%20nela%20fixados%2C%20o%20Poder%20Executivo%20aprovar%C3%A1%20um",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. A fixação das cotas a que se refere o artigo anterior atenderá aos seguintes objetivos:\n\na) assegurar às unidades orçamentárias, em tempo útil, a soma de recursos necessários e suficientes a melhor execução do seu programa anual de trabalho;\n\nb) manter, durante o exercício, na medida do possível, o equilíbrio entre a receita arrecadada e a despesa realizada, de modo a reduzir ao mínimo eventuais insuficiências de tesouraria.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2048.%20A%20fixa%C3%A7%C3%A3o%20das%20cotas%20a%20que%20se%20refere%20o%20artigo%20anterior%20atender%C3%A1%20aos%20seguintes%20objetivos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. A programação da despesa orçamentária, para efeito do disposto no artigo anterior, levará em conta os créditos adicionais e as operações extra-orçamentárias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2049.%20A%20programa%C3%A7%C3%A3o%20da%20despesa%20or%C3%A7ament%C3%A1ria%2C%20para%20efeito%20do%20disposto%20no%20artigo%20anterior%2C%20levar%C3%A1%20em%20conta%20os%20cr%C3%A9ditos%20adicionais%20e%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. As cotas trimestrais poderão ser alteradas durante o exercício, observados o limite da dotação e o comportamento da execução orçamentária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2050.%20As%20cotas%20trimestrais%20poder%C3%A3o%20ser%20alteradas%20durante%20o%20exerc%C3%ADcio%2C%20observados%20o%20limite%20da%20dota%C3%A7%C3%A3o%20e%20o%20comportamento%20da%20execu%C3%A7%C3%A3o%20or%C3%A7ament%C3%A1ria.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. Nenhum tributo será exigido ou aumentado sem que a lei o estabeleça, nenhum será cobrado em cada exercício sem prévia autorização orçamentária, ressalvados a tarifa aduaneira e o impôsto lançado por motivo de guerra.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2051.%20Nenhum%20tributo%20ser%C3%A1%20exigido%20ou%20aumentado%20sem%20que%20a%20lei%20o%20estabele%C3%A7a%2C%20nenhum%20ser%C3%A1%20cobrado%20em%20cada%20exerc%C3%ADcio%20sem%20pr%C3%A9via",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. São objeto de lançamento os impostos diretos e quaisquer outras rendas com vencimento determinado em lei, regulamento ou contrato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2052.%20S%C3%A3o%20objeto%20de%20lan%C3%A7amento%20os%20impostos%20diretos%20e%20quaisquer%20outras%20rendas%20com%20vencimento%20determinado%20em%20lei%2C%20regulamento%20ou%20contrato.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. O lançamento da receita é ato da repartição competente, que verifica a procedência do crédito fiscal e a pessoa que lhe é devedora e inscreve o débito desta.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2053.%20O%20lan%C3%A7amento%20da%20receita%20%C3%A9%20ato%20da%20reparti%C3%A7%C3%A3o%20competente%2C%20que%20verifica%20a%20proced%C3%AAncia%20do%20cr%C3%A9dito%20fiscal%20e%20a%20pessoa%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. Não será admitida a compensação da obrigação de recolher rendas ou receitas com direito creditório contra a Fazenda Pública.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2054.%20N%C3%A3o%20ser%C3%A1%20admitida%20a%20compensa%C3%A7%C3%A3o%20da%20obriga%C3%A7%C3%A3o%20de%20recolher%20rendas%20ou%20receitas%20com%20direito%20credit%C3%B3rio%20contra%20a%20Fazenda%20P%C3%BAblica.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. Os agentes da arrecadação devem fornecer recibos das importâncias que arrecadarem.\n\n§ 1º Os recibos devem conter o nome da pessoa que paga a soma arrecadada, proveniência e classificação, bem como a data e assinatura do agente arrecadador. (Veto rejeitado no DOU, de 5.5.1964)\n\n§ 2º Os recibos serão fornecidos em uma única via.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2055.%20Os%20agentes%20da%20arrecada%C3%A7%C3%A3o%20devem%20fornecer%20recibos%20das%20import%C3%A2ncias%20que%20arrecadarem.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. O recolhimento de tôdas as receitas far-se-á em estrita observância ao princípio de unidade de tesouraria, vedada qualquer fragmentação para criação de caixas especiais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2056.%20O%20recolhimento%20de%20t%C3%B4das%20as%20receitas%20far-se-%C3%A1%20em%20estrita%20observ%C3%A2ncia%20ao%20princ%C3%ADpio%20de%20unidade%20de%20tesouraria%2C%20vedada%20qualquer%20fragmenta%C3%A7%C3%A3o%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. Ressalvado o disposto no parágrafo único do artigo 3. desta lei serão classificadas como receita orçamentária, sob as rubricas próprias, tôdas as receitas arrecadadas, inclusive as provenientes de operações de crédito, ainda que não previstas no Orçamento. (Veto rejeitado no DOU, de 5.5.1964)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2057.%20Ressalvado%20o%20disposto%20no%20par%C3%A1grafo%20%C3%BAnico%20do%20artigo%203.%20desta%20lei%20ser%C3%A3o%20classificadas%20como%20receita%20or%C3%A7ament%C3%A1ria%2C%20sob%20as%20rubricas%20pr%C3%B3prias%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. O empenho de despesa é o ato emanado de autoridade competente que cria para o Estado obrigação de pagamento pendente ou não de implemento de condição. (Veto rejeitado no DOU, de 5.5.1964)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2058.%20O%20empenho%20de%20despesa%20%C3%A9%20o%20ato%20emanado%20de%20autoridade%20competente%20que%20cria%20para%20o%20Estado%20obriga%C3%A7%C3%A3o%20de%20pagamento%20pendente",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59 - O empenho da despesa não poderá exceder o limite dos créditos concedidos. (Redação dada pela Lei nº 6.397, de 1976)\n\n§ 1º Ressalvado o disposto no Art. 67 da Constituição Federal, é vedado aos Municípios empenhar, no último mês do mandato do Prefeito, mais do que o duodécimo da despesa prevista no orçamento vigente. (Incluído pela Lei nº 6.397, de 1976)\n\n§ 2º Fica, também, vedado aos Municípios, no mesmo período, assumir, por qualquer forma, compromissos financeiros para execução depois do término do mandato do Prefeito. (Incluído pela Lei nº 6.397, de 1976)\n\n§ 3º As disposições dos parágrafos anteriores não se aplicam nos casos comprovados de calamidade pública. (Incluído pela Lei nº 6.397, de 1976)\n\n§ 4º Reputam-se nulos e de nenhum efeito os empenhos e atos praticados em desacordo com o disposto nos parágrafos 1º e 2º deste artigo, sem prejuízo da responsabilidade do Prefeito nos termos do Art. 1º, inciso V, do Decreto-lei n.º 201, de 27 de fevereiro de 1967. (Incluído pela Lei nº 6.397, de 1976)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2059%20-%20O%20empenho%20da%20despesa%20n%C3%A3o%20poder%C3%A1%20exceder%20o%20limite%20dos%20cr%C3%A9ditos%20concedidos.%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%206.397%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. É vedada a realização de despesa sem prévio empenho.\n\n§ 1º Em casos especiais previstos na legislação específica será dispensada a emissão da nota de empenho.\n\n§ 2º Será feito por estimativa o empenho da despesa cujo montante não se possa determinar.\n\n§ 3º É permitido o empenho global de despesas contratuais e outras, sujeitas a parcelamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2060.%20%C3%89%20vedada%20a%20realiza%C3%A7%C3%A3o%20de%20despesa%20sem%20pr%C3%A9vio%20empenho.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. Para cada empenho será extraído um documento denominado \"nota de empenho\" que indicará o nome do credor, a especificação e a importância da despesa bem como a dedução desta do saldo da dotação própria.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2061.%20Para%20cada%20empenho%20ser%C3%A1%20extra%C3%ADdo%20um%20documento%20denominado%20%22nota%20de%20empenho%22%20que%20indicar%C3%A1%20o%20nome%20do%20credor%2C%20a%20especifica%C3%A7%C3%A3o%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "60",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. O pagamento da despesa só será efetuado quando ordenado após sua regular liquidação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2062.%20O%20pagamento%20da%20despesa%20s%C3%B3%20ser%C3%A1%20efetuado%20quando%20ordenado%20ap%C3%B3s%20sua%20regular%20liquida%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "61",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. A liquidação da despesa consiste na verificação do direito adquirido pelo credor tendo por base os títulos e documentos comprobatórios do respectivo crédito.\n\n§ 1° Essa verificação tem por fim apurar:\n\nI - a origem e o objeto do que se deve pagar;\n\nII - a importância exata a pagar;\n\nIII - a quem se deve pagar a importância, para extinguir a obrigação.\n\n§ 2º A liquidação da despesa por fornecimentos feitos ou serviços prestados terá por base:\n\nI - o contrato, ajuste ou acôrdo respectivo;\n\nII - a nota de empenho;\n\nIII - os comprovantes da entrega do material ou da prestação efetiva do serviço.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2063.%20A%20liquida%C3%A7%C3%A3o%20da%20despesa%20consiste%20na%20verifica%C3%A7%C3%A3o%20do%20direito%20adquirido%20pelo%20credor%20tendo%20por%20base%20os%20t%C3%ADtulos%20e%20documentos%20comprobat%C3%B3rios",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "62",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. A ordem de pagamento é o despacho exarado por autoridade competente, determinando que a despesa seja paga.\n\nParágrafo único. A ordem de pagamento só poderá ser exarada em documentos processados pelos serviços de contabilidade (Veto rejeitado no DOU, de 5.5.1964)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2064.%20A%20ordem%20de%20pagamento%20%C3%A9%20o%20despacho%20exarado%20por%20autoridade%20competente%2C%20determinando%20que%20a%20despesa%20seja%20paga.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "63",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art. 65. O pagamento da despesa será efetuado por tesouraria ou pagadoria regularmente instituídas por estabelecimentos bancários credenciados e, em casos excepcionais, por meio de adiantamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2065.%20O%20pagamento%20da%20despesa%20ser%C3%A1%20efetuado%20por%20tesouraria%20ou%20pagadoria%20regularmente%20institu%C3%ADdas%20por%20estabelecimentos%20banc%C3%A1rios%20credenciados%20e%2C%20em%20casos%20excepcionais%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "64",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art. 66. As dotações atribuídas às diversas unidades orçamentárias poderão quando expressamente determinado na Lei de Orçamento ser movimentadas por órgãos centrais de administração geral.\n\nParágrafo único. É permitida a redistribuição de parcelas das dotações de pessoal, de uma para outra unidade orçamentária, quando considerada indispensável à movimentação de pessoal dentro das tabelas ou quadros comuns às unidades interessadas, a que se realize em obediência à legislação específica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2066.%20As%20dota%C3%A7%C3%B5es%20atribu%C3%ADdas%20%C3%A0s%20diversas%20unidades%20or%C3%A7ament%C3%A1rias%20poder%C3%A3o%20quando%20expressamente%20determinado%20na%20Lei%20de%20Or%C3%A7amento%20ser%20movimentadas%20por%20%C3%B3rg%C3%A3os%20centrais",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "65",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art. 67. Os pagamentos devidos pela Fazenda Pública, em virtude de sentença judiciária, far-se-ão na ordem de apresentação dos precatórios e à conta dos créditos respectivos, sendo proibida a designação de casos ou de pessoas nas dotações orçamentárias e nos créditos adicionais abertos para êsse fim.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2067.%20Os%20pagamentos%20devidos%20pela%20Fazenda%20P%C3%BAblica%2C%20em%20virtude%20de%20senten%C3%A7a%20judici%C3%A1ria%2C%20far-se-%C3%A3o%20na%20ordem%20de%20apresenta%C3%A7%C3%A3o%20dos%20precat%C3%B3rios%20e%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "66",
+      "next": "68"
+    },
+    "68": {
+      "numero": "68",
+      "texto": "Art. 68. O regime de adiantamento é aplicável aos casos de despesas expressamente definidos em lei e consiste na entrega de numerário a servidor, sempre precedida de empenho na dotação própria para o fim de realizar despesas, que não possam subordinar-se ao processo normal de aplicação.\n\nArtigo 69. Não se fará adiantamento a servidor em alcance nem a responsável por dois adiantamento. (Veto rejeitado no DOU, de 5.5.1964)\n\nArtigo 70. A aquisição de material, o fornecimento e a adjudicação de obras e serviços serão regulados em lei, respeitado o princípio da concorrência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2068.%20O%20regime%20de%20adiantamento%20%C3%A9%20aplic%C3%A1vel%20aos%20casos%20de%20despesas%20expressamente%20definidos%20em%20lei%20e%20consiste%20na%20entrega%20de%20numer%C3%A1rio",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "67",
+      "next": "83"
+    },
+    "83": {
+      "numero": "83",
+      "texto": "Art. 83. A contabilidade evidenciará perante a Fazenda Pública a situação de todos quantos, de qualquer modo, arrecadem receitas, efetuem despesas, administrem ou guardem bens a ela pertencentes ou confiados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2083.%20A%20contabilidade%20evidenciar%C3%A1%20perante%20a%20Fazenda%20P%C3%BAblica%20a%20situa%C3%A7%C3%A3o%20de%20todos%20quantos%2C%20de%20qualquer%20modo%2C%20arrecadem%20receitas%2C%20efetuem%20despesas%2C%20administrem",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "68",
+      "next": "84"
+    },
+    "84": {
+      "numero": "84",
+      "texto": "Art. 84. Ressalvada a competência do Tribunal de Contas ou órgão equivalente, a tomada de contas dos agentes responsáveis por bens ou dinheiros públicos será realizada ou superintendida pelos serviços de contabilidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2084.%20Ressalvada%20a%20compet%C3%AAncia%20do%20Tribunal%20de%20Contas%20ou%20%C3%B3rg%C3%A3o%20equivalente%2C%20a%20tomada%20de%20contas%20dos%20agentes%20respons%C3%A1veis%20por%20bens%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "83",
+      "next": "85"
+    },
+    "85": {
+      "numero": "85",
+      "texto": "Art. 85. Os serviços de contabilidade serão organizados de forma a permitirem o acompanhamento da execução orçamentária, o conhecimento da composição patrimonial, a determinação dos custos dos serviços industriais, o levantamento dos balanços gerais, a análise e a interpretação dos resultados econômicos e financeiros.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2085.%20Os%20servi%C3%A7os%20de%20contabilidade%20ser%C3%A3o%20organizados%20de%20forma%20a%20permitirem%20o%20acompanhamento%20da%20execu%C3%A7%C3%A3o%20or%C3%A7ament%C3%A1ria%2C%20o%20conhecimento%20da%20composi%C3%A7%C3%A3o%20patrimonial%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "84",
+      "next": "86"
+    },
+    "86": {
+      "numero": "86",
+      "texto": "Art. 86. A escrituração sintética das operações financeiras e patrimoniais efetuar-se-á pelo método das partidas dobradas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2086.%20A%20escritura%C3%A7%C3%A3o%20sint%C3%A9tica%20das%20opera%C3%A7%C3%B5es%20financeiras%20e%20patrimoniais%20efetuar-se-%C3%A1%20pelo%20m%C3%A9todo%20das%20partidas%20dobradas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "85",
+      "next": "87"
+    },
+    "87": {
+      "numero": "87",
+      "texto": "Art. 87. Haverá contrôle contábil dos direitos e obrigações oriundos de ajustes ou contratos em que a administração pública fôr parte.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2087.%20Haver%C3%A1%20contr%C3%B4le%20cont%C3%A1bil%20dos%20direitos%20e%20obriga%C3%A7%C3%B5es%20oriundos%20de%20ajustes%20ou%20contratos%20em%20que%20a%20administra%C3%A7%C3%A3o%20p%C3%BAblica%20f%C3%B4r%20parte.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "86",
+      "next": "88"
+    },
+    "88": {
+      "numero": "88",
+      "texto": "Art. 88. Os débitos e créditos serão escriturados com individuação do devedor ou do credor e especificação da natureza, importância e data do vencimento, quando fixada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2088.%20Os%20d%C3%A9bitos%20e%20cr%C3%A9ditos%20ser%C3%A3o%20escriturados%20com%20individua%C3%A7%C3%A3o%20do%20devedor%20ou%20do%20credor%20e%20especifica%C3%A7%C3%A3o%20da%20natureza%2C%20import%C3%A2ncia%20e%20data",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "87",
+      "next": "89"
+    },
+    "89": {
+      "numero": "89",
+      "texto": "Art. 89. A contabilidade evidenciará os fatos ligados à administração orçamentária, financeira patrimonial e industrial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2089.%20A%20contabilidade%20evidenciar%C3%A1%20os%20fatos%20ligados%20%C3%A0%20administra%C3%A7%C3%A3o%20or%C3%A7ament%C3%A1ria%2C%20financeira%20patrimonial%20e%20industrial.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "88",
+      "next": "90"
+    },
+    "90": {
+      "numero": "90",
+      "texto": "Art. 90 A contabilidade deverá evidenciar, em seus registros, o montante dos créditos orçamentários vigentes, a despesa empenhada e a despesa realizada, à conta dos mesmos créditos, e as dotações disponíveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2090%20A%20contabilidade%20dever%C3%A1%20evidenciar%2C%20em%20seus%20registros%2C%20o%20montante%20dos%20cr%C3%A9ditos%20or%C3%A7ament%C3%A1rios%20vigentes%2C%20a%20despesa%20empenhada%20e%20a%20despesa%20realizada%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "89",
+      "next": "91"
+    },
+    "91": {
+      "numero": "91",
+      "texto": "Art. 91. O registro contábil da receita e da despesa far-se-á de acôrdo com as especificações constantes da Lei de Orçamento e dos créditos adicionais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2091.%20O%20registro%20cont%C3%A1bil%20da%20receita%20e%20da%20despesa%20far-se-%C3%A1%20de%20ac%C3%B4rdo%20com%20as%20especifica%C3%A7%C3%B5es%20constantes%20da%20Lei%20de%20Or%C3%A7amento%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "90",
+      "next": "92"
+    },
+    "92": {
+      "numero": "92",
+      "texto": "Art. 92. A dívida flutuante compreende:\n\nI - os restos a pagar, excluídos os serviços da dívida;\n\nII - os serviços da dívida a pagar;\n\nIII - os depósitos;\n\nIV - os débitos de tesouraria.\n\nParágrafo único. O registro dos restos a pagar far-se-á por exercício e por credor distinguindo-se as despesas processadas das não processadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2092.%20A%20d%C3%ADvida%20flutuante%20compreende%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "91",
+      "next": "93"
+    },
+    "93": {
+      "numero": "93",
+      "texto": "Art. 93. Tôdas as operações de que resultem débitos e créditos de natureza financeira, não compreendidas na execução orçamentária, serão também objeto de registro, individuação e contrôle contábil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2093.%20T%C3%B4das%20as%20opera%C3%A7%C3%B5es%20de%20que%20resultem%20d%C3%A9bitos%20e%20cr%C3%A9ditos%20de%20natureza%20financeira%2C%20n%C3%A3o%20compreendidas%20na%20execu%C3%A7%C3%A3o%20or%C3%A7ament%C3%A1ria%2C%20ser%C3%A3o%20tamb%C3%A9m%20objeto",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "92",
+      "next": "94"
+    },
+    "94": {
+      "numero": "94",
+      "texto": "Art. 94. Haverá registros analíticos de todos os bens de caráter permanente, com indicação dos elementos necessários para a perfeita caracterização de cada um dêles e dos agentes responsáveis pela sua guarda e administração.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2094.%20Haver%C3%A1%20registros%20anal%C3%ADticos%20de%20todos%20os%20bens%20de%20car%C3%A1ter%20permanente%2C%20com%20indica%C3%A7%C3%A3o%20dos%20elementos%20necess%C3%A1rios%20para%20a%20perfeita%20caracteriza%C3%A7%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "93",
+      "next": "95"
+    },
+    "95": {
+      "numero": "95",
+      "texto": "Art. 95 A contabilidade manterá registros sintéticos dos bens móveis e imóveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2095%20A%20contabilidade%20manter%C3%A1%20registros%20sint%C3%A9ticos%20dos%20bens%20m%C3%B3veis%20e%20im%C3%B3veis.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "94",
+      "next": "96"
+    },
+    "96": {
+      "numero": "96",
+      "texto": "Art. 96. O levantamento geral dos bens móveis e imóveis terá por base o inventário analítico de cada unidade administrativa e os elementos da escrituração sintética na contabilidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2096.%20O%20levantamento%20geral%20dos%20bens%20m%C3%B3veis%20e%20im%C3%B3veis%20ter%C3%A1%20por%20base%20o%20invent%C3%A1rio%20anal%C3%ADtico%20de%20cada%20unidade%20administrativa%20e%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "95",
+      "next": "97"
+    },
+    "97": {
+      "numero": "97",
+      "texto": "Art. 97. Para fins orçamentários e determinação dos devedores, far-se-á o registro contábil das receitas patrimoniais, fiscalizando-se sua efetivação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2097.%20Para%20fins%20or%C3%A7ament%C3%A1rios%20e%20determina%C3%A7%C3%A3o%20dos%20devedores%2C%20far-se-%C3%A1%20o%20registro%20cont%C3%A1bil%20das%20receitas%20patrimoniais%2C%20fiscalizando-se%20sua%20efetiva%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "96",
+      "next": "98"
+    },
+    "98": {
+      "numero": "98",
+      "texto": "Art. 98. A dívida fundada compreende os compromissos de exigibilidade superior a doze meses, contraídos para atender a desequilíbrio orçamentário ou a financeiro de obras e serviços públicos. (Veto rejeitado no DOU, de 5.5.1964)\n\nParágrafo único. A dívida fundada será escriturada com individuação e especificações que permitam verificar, a qualquer momento, a posição dos empréstimos, bem como os respectivos serviços de amortização e juros.\n\nArtigo 99. Os serviços públicos industriais, ainda que não organizados como emprêsa pública ou autárquica, manterão contabilidade especial para determinação dos custos, ingressos e resultados, sem prejuízo da escrituração patrimonial e financeira comum.\n\nArtigo 100 As alterações da situação líquida patrimonial, que abrangem os resultados da execução orçamentária, bem como as variações independentes dessa execução e as superveniências e insubsistências ativas e passivas, constituirão elementos da conta patrimonial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%2098.%20A%20d%C3%ADvida%20fundada%20compreende%20os%20compromissos%20de%20exigibilidade%20superior%20a%20doze%20meses%2C%20contra%C3%ADdos%20para%20atender%20a%20desequil%C3%ADbrio%20or%C3%A7ament%C3%A1rio%20ou%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "97",
+      "next": "109"
+    },
+    "109": {
+      "numero": "109",
+      "texto": "Art. 109. Os orçamentos e balanços das entidades compreendidas no artigo 107 serão publicados como complemento dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal a que estejam vinculados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%20109.%20Os%20or%C3%A7amentos%20e%20balan%C3%A7os%20das%20entidades%20compreendidas%20no%20artigo%20107%20ser%C3%A3o%20publicados%20como%20complemento%20dos%20or%C3%A7amentos%20e%20balan%C3%A7os%20da%20Uni%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "X",
+        "title_name": "TÍTULO X",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "98",
+      "next": "110"
+    },
+    "110": {
+      "numero": "110",
+      "texto": "Art. 110. Os orçamentos e balanços das entidades já referidas obedecerão aos padrões e normas instituídas por esta lei, ajustados às respectivas peculiaridades.\n\nParágrafo único. Dentro do prazo que a legislação fixar, os balanços serão remetidos ao órgão central de contabilidade da União, dos Estados, dos Municípios e do Distrito Federal, para fins de incorporação dos resultados, salvo disposição legal em contrário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%20110.%20Os%20or%C3%A7amentos%20e%20balan%C3%A7os%20das%20entidades%20j%C3%A1%20referidas%20obedecer%C3%A3o%20aos%20padr%C3%B5es%20e%20normas%20institu%C3%ADdas%20por%20esta%20lei%2C%20ajustados%20%C3%A0s%20respectivas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "X",
+        "title_name": "TÍTULO X",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "109",
+      "next": "111"
+    },
+    "111": {
+      "numero": "111",
+      "texto": "Art. 111. O Conselho Técnico de Economia e Finanças do Ministério da Fazenda, além de outras apurações, para fins estatísticos, de interêsse nacional, organizará e publicará o balanço consolidado das contas da União, Estados, Municípios e Distrito Federal, suas autarquias e outras entidades, bem como um quadro estruturalmente idêntico, baseado em dados orçamentários.\n\n§ 1º Os quadros referidos neste artigo terão a estrutura do Anexo número 1.\n\n§ 2 O quadro baseado nos orçamentos será publicado até o último dia do primeiro semestre do próprio exercício e o baseado nos balanços até o último dia do segundo semestre do exercício imediato àquele a que se referirem.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%20111.%20O%20Conselho%20T%C3%A9cnico%20de%20Economia%20e%20Finan%C3%A7as%20do%20Minist%C3%A9rio%20da%20Fazenda%2C%20al%C3%A9m%20de%20outras%20apura%C3%A7%C3%B5es%2C%20para%20fins%20estat%C3%ADsticos%2C%20de%20inter%C3%AAsse",
+      "keywords": [],
+      "hierarchy": {
+        "title": "XI",
+        "title_name": "TÍTULO XI",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "110",
+      "next": "112"
+    },
+    "112": {
+      "numero": "112",
+      "texto": "Art. 112. Para cumprimento do disposto no artigo precedente, a União, os Estados, os Municípios e o Distrito Federal remeterão ao mencionado órgão, até 30 de abril, os orçamentos do exercício, e até 30 de junho, os balanços do exercício anterior.\n\nParágrafo único. O pagamento, pela União, de auxílio ou contribuição a Estados, Municípios ou Distrito Federal, cuja concessão não decorra de imperativo constitucional, dependerá de prova do atendimento ao que se determina neste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%20112.%20Para%20cumprimento%20do%20disposto%20no%20artigo%20precedente%2C%20a%20Uni%C3%A3o%2C%20os%20Estados%2C%20os%20Munic%C3%ADpios%20e%20o%20Distrito%20Federal%20remeter%C3%A3o%20ao%20mencionado",
+      "keywords": [],
+      "hierarchy": {
+        "title": "XI",
+        "title_name": "TÍTULO XI",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "111",
+      "next": "113"
+    },
+    "113": {
+      "numero": "113",
+      "texto": "Art. 113. Para fiel e uniforme aplicação das presentes normas, o Conselho Técnico de Economia e Finanças do Ministério da Fazenda atenderá a consultas, coligirá elementos, promoverá o intercâmbio de dados informativos, expedirá recomendações técnicas, quando solicitadas, e atualizará sempre que julgar conveniente, os anexos que integram a presente lei.\n\nParágrafo único. Para os fins previstos neste artigo, poderão ser promovidas, quando necessário, conferências ou reuniões técnicas, com a participação de representantes das entidades abrangidas por estas normas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%20113.%20Para%20fiel%20e%20uniforme%20aplica%C3%A7%C3%A3o%20das%20presentes%20normas%2C%20o%20Conselho%20T%C3%A9cnico%20de%20Economia%20e%20Finan%C3%A7as%20do%20Minist%C3%A9rio%20da%20Fazenda%20atender%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": "XI",
+        "title_name": "TÍTULO XI",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "112",
+      "next": "114"
+    },
+    "114": {
+      "numero": "114",
+      "texto": "Art. 114. Os efeitos desta lei são contados a partir de 1º de janeiro de 1964 para o fim da elaboração dos orçamentos e a partir de 1º de janeiro de 1965, quanto às demais atividades estatuídas. (Redação dada pela Lei nº 4.489, de 1964)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%20114.%20Os%20efeitos%20desta%20lei%20s%C3%A3o%20contados%20a%20partir%20de%201%C2%BA%20de%20janeiro%20de%201964%20para%20o%20fim%20da%20elabora%C3%A7%C3%A3o%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "XI",
+        "title_name": "TÍTULO XI",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "113",
+      "next": "115"
+    },
+    "115": {
+      "numero": "115",
+      "texto": "Art. 115. Revogam-se as disposições em contrário.\n\nBrasília, 17 de março de 1964; 143º da Independência e 76º da República.\n\nJOÃO GOULART\n\nAbelardo Jurema\n\nSylvio Borges de Souza Motta\n\nJair Ribeiro\n\nJoão Augusto de Araújo Castro\n\nWaldyr Ramos Borges\n\nExpedito Machado\n\nOswaldo Costa Lima Filho\n\nJúlio Furquim Sambaquy\n\nAmaury Silva\n\nAnysio Botelho\n\nWilson Fadul\n\nAntonio Oliveira Brito\n\nEgydio Michaelsen\n\nEste texto não substitui o publicado no DOU de 23.3.1964, retificada no DOU de 9.4.1964 e retificada no DOU de 3.6.1964\n\nDownload para anexos\n\nPartes vetadas pelo Presidente da República e mantidas pelo Congresso Nacional, do Projeto que se transformou na Lei nº.4.320,de 17 de março de 1964 (que estatui normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal ).\n\nO Presidente da República Faço saber que o Congresso Nacional decreta e eu promulgo na forma do Parágrafo 3º do Artigo 70 da Constituição Federal os seguintes dispositivos da Lei nº 4.320, de 17 de março de 1964.\n\n\"Art. 3º ............................................................................................................................................\n\nParágrafo único Não se consideram para os fins deste artigo as operações de crédito por antecipação da receita, as emissões de papel-moeda e outras entradas compensatórias no ativo e passivo financeiros\".\n\n............................................................................................................................................\n\n\"Art. 6º ............................................................................................................................................\n\n............................................................................................................................................\n\n2º - Para cumprimento do disposto no parágrafo anterior, o cálculo das cotas terá por base os dados apurados no balanço do exercício anterior aquele em que se elaborar a proposta orçamentária do Governo obrigado à transferência\".\n\n............................................................................................................................................\n\n\"Art. 7º ............................................................................................................................................\n\nI ............................................................................................................................................\n\n..........................................obedecidas as disposições do artigo 43\". ..................................\n\n\"Art. 9º Tributo é a receita derivada instituída pelas entidades de direito público, compreendendo os impostos, as taxas e contribuições nos termos da Constituição e das leis vigentes em matérias financeira destinando-se o seu produto ao custeio de atividades gerais ou específicas exercidas por essa entidades.\"\n\n............................................................................................................................................\n\n\"Art. 14 ............................................................................................................................................\n\n............................................................................................................................................\n\nsubordinados ao mesmo órgão ou repartição.....................................................................\".\n\n............................................................................................................................................\n\n\"Art. 15 ............................................................................................................................................\n\n.........................................................no\n\nmínimo.............................................................................................................................................\"\n\n\"Art. 15 ............................................................................................................................................\n\n1º Entende-se por elementos o desdobramento da despesa com pessoal, material, serviços, obras e outros meios de que se refere a administração pública para consecução dos seus fins\".\n\n............................................................................................................................................\n\n\"Art. 43. A abertura dos créditos suplementares e especiais depende da existência de recursos disponíveis para ocorrer à despesa e será precedida de exposição justificativa.\n\n§1º Consideram-se recursos para o fim deste artigo, deste que não comprometidos;\n\nI – o superavit financeiro apurado em balanço patrimonial do exercício anterior;\n\nII – os provenientes de excesso de arrecadação;\n\nIII – os resultantes de anulação parcial ou total de dotações orçamentárias ou de créditos adicionais, autorizados em lei;\n\nIV – o produto de operações de crédito autorizadas, em forma que juridicamente possibilite o Poder Executivo realizá-las.\n\n§2º Entende-se por superavit financeiro a diferença positiva entre o ativo financeiro e o passivo financeiro conjugando-se ainda, os saldos dos créditos adicionais transferidos e as operações de crédito a eles vinculadas.\n\n§3º Entende-se por excesso de arrecadação, para os fins deste artigo, o saldo positivo das diferenças acumuladas mês a mês, entre a arrecadação prevista e a realizada, considerando-se ainda, a tendência do exercício.\n\n§4º Para o fim de apurar os recursos utilizáveis, provenientes de excesso de arrecadação deduzir-se-á a importância dos créditos extraordinários abertos no exercício\".\n\n............................................................................................................................................\n\n\"Art. 55 ............................................................................................................................................\n\n1º - Os recibos devem conter o nome da pessoa que paga a soma arrecadada, proveniência, e classificação, bem como a data e assinatura do agente arrecadador\".\n\n............................................................................................................................................\n\n\"Art. 57 Ressalvado o disposto no parágrafo único do artigo 3º desta lei.............................\n\n............................................................................................................................................\n\n\"Art. 58 ............................................................................................................................................\n\n............................................................................................................................................ou não\n\n............................................................................................................................................\".\n\n\"Art. 64 ............................................................................................................................................\n\nParágrafo único. A ordem de pagamento só poderá ser exarada em documentos processados pelos serviços de contabilidade\".\n\n.............................................................\n\n\"Art. 69............................................................................................................................................\n\n............................................................................................................................................nem o responsável por dois adiantamentos\".\n\n............................................................................................................................................\n\n\"Art. 92. A dívida fundada será escriturada com individuação e especificações que permitem verificar, a qualquer momento, a posição dos empréstimos, bem como os respectivos serviços de amortização e juros\".\n\n............................................................................................................................................\n\nBrasília, 4 de maio de 1964; 1432 da Independência e 76º da República.\n\nH. Castello Branco.\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm#:~:text=Art.%20115.%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "XI",
+        "title_name": "TÍTULO XI",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "114",
+      "next": null
+    }
+  }
+}

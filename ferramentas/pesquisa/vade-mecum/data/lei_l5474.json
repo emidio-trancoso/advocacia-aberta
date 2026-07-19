@@ -1,0 +1,463 @@
+{
+  "_meta": {
+    "codigo": "L5474",
+    "nome": "Duplicatas",
+    "lei": "Lei 5.474/1968",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm",
+    "total_artigos": 28,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art . 1º Em todo o contrato de compra e venda mercantil entre partes domiciliadas no território brasileiro, com prazo não inferior a 30 (trinta) dias, contado da data da entrega ou despacho das mercadorias, o vendedor extrairá a respectiva fatura para apresentação ao comprador.\n\n§ 1º A fatura discriminará as mercadorias vendidas ou, quando convier ao vendedor, indicará sòmente os números e valores das notas parciais expedidas por ocasião das vendas, despachos ou entregas das mercadorias.\n\n§ 2º (Revogado pelo Decreto-Lei nº 436, de 27.1.1969)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art%20.%201%C2%BA%20Em%20todo%20o%20contrato%20de%20compra%20e%20venda%20mercantil%20entre%20partes%20domiciliadas%20no%20territ%C3%B3rio%20brasileiro%2C%20com%20prazo%20n%C3%A3o%20inferior",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art . 2º No ato da emissão da fatura, dela poderá ser extraída uma duplicata para circulação como efeito comercial, não sendo admitida qualquer outra espécie de título de crédito para documentar o saque do vendedor pela importância faturada ao comprador.\n\n§ 1º A duplicata conterá:\n\nI - a denominação \"duplicata\", a data de sua emissão e o número de ordem;\n\nII - o número da fatura;\n\nIII - a data certa do vencimento ou a declaração de ser a duplicata à vista;\n\nIV - o nome e domicílio do ven dedor e do comprador;\n\nV - a importância a pagar, em algarismos e por extenso;\n\nVI - a praça de pagamento;\n\nVII - a cláusula à ordem;\n\nVIII - a declaração do reconhecimento de sua exatidão e da obrigação de pagá-la, a ser assinada pelo comprador, como aceite, cambial;\n\nIX - a assinatura do emitente.\n\n§ 2º Uma só duplicata não pode corresponder a mais de uma fatura.\n\n§ 3º Nos casos de venda para pagamento em parcelas, poderá ser emitida duplicata única, em que se discriminarão tôdas as prestações e seus vencimentos, ou série de duplicatas, uma para cada prestação distinguindo-se a numeração a que se refere o item I do § 1º dêste artigo, pelo acréscimo de letra do alfabeto, em seqüência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art%20.%202%C2%BA%20No%20ato%20da%20emiss%C3%A3o%20da%20fatura%2C%20dela%20poder%C3%A1%20ser%20extra%C3%ADda%20uma%20duplicata%20para%20circula%C3%A7%C3%A3o%20como%20efeito%20comercial%2C%20n%C3%A3o%20sendo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art . 3º A duplicata indicará sempre o valor total da fatura, ainda que o comprador tenha direito a qualquer rebate, mencionando o vendedor o valor líquido que o comprador deverá reconhecer como obrigação de pagar.\n\n§ 1º Não se incluirão no valor total da duplicata os abatimentos de preços das mercadorias feitas pelo vendedor até o ato do faturamento, desde que constem da fatura.\n\n§ 2º A venda mercantil para pagamento contra a entrega da mercadoria ou do conhecimento de transporte, sejam ou não da mesma praça vendedor e comprador, ou para pagamento em prazo inferior a 30 (trinta) dias, contado da entrega ou despacho das mercadorias, poderá representar-se, também, por duplicata, em que se declarará que o pagamento será feito nessas condições.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art%20.%203%C2%BA%20A%20duplicata%20indicar%C3%A1%20sempre%20o%20valor%20total%20da%20fatura%2C%20ainda%20que%20o%20comprador%20tenha%20direito%20a%20qualquer%20rebate%2C%20mencionando",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art . 4º Nas vendas realizadas por consignatários ou comissários e faturas em nome e por conta do consignante ou comitente, caberá àqueles cumprir os dispositivos desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art%20.%204%C2%BA%20Nas%20vendas%20realizadas%20por%20consignat%C3%A1rios%20ou%20comiss%C3%A1rios%20e%20faturas%20em%20nome%20e%20por%20conta%20do%20consignante%20ou%20comitente%2C%20caber%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art . 5º Quando a mercadoria fôr vendida por conta do consignatário, êste é obrigado, na ocasião de expedir a fatura e a duplicata, a comunicar a venda ao consignante.\n\n§ 1º Por sua vez, o consignante expedirá fatura e duplicata correspondente à mesma venda, a fim de ser esta assinada pelo consignatário, mencionando-se o prazo estipulado para a liquidação do saldo da conta.\n\n§ 2º Fica o consignatário dispensado de emitir duplicata quando na comunicação a que se refere o § 1º declarar, que o produto líquido apurado está à disposição do consignante.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art%20.%205%C2%BA%20Quando%20a%20mercadoria%20f%C3%B4r%20vendida%20por%20conta%20do%20consignat%C3%A1rio%2C%20%C3%AAste%20%C3%A9%20obrigado%2C%20na%20ocasi%C3%A3o%20de%20expedir%20a%20fatura%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art . 6º A remessa de duplicata poderá ser feita diretamente pelo vendedor ou por seus representantes, por intermédio de instituições financeiras, procuradores ou, correspondentes que se incumbam de apresentá-la ao comprador na praça ou no lugar de seu estabelecimento, podendo os intermediários devolvê-la, depois de assinada, ou conservá-la em seu poder até o momento do resgate, segundo as instruções de quem lhes cometeu o encargo.\n\n§ 1º O prazo para remessa da duplicata será de 30 (trinta) dias, contado da data de sua emissão.\n\n§ 2º Se a remessa fôr feita por intermédio de representantes instituições financeiras, procuradores ou correspondentes êstes deverão apresentar o título, ao comprador dentro de 10 (dez) dias, contados da data de seu recebimento na praça de pagamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art%20.%206%C2%BA%20A%20remessa%20de%20duplicata%20poder%C3%A1%20ser%20feita%20diretamente%20pelo%20vendedor%20ou%20por%20seus%20representantes%2C%20por%20interm%C3%A9dio%20de%20institui%C3%A7%C3%B5es%20financeiras%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art . 7º A duplicata, quando não fôr à vista, deverá ser devolvida pelo comprador ao apresentante dentro do prazo de 10 (dez) dias, contado da data de sua apresentação, devidamente assinada ou acompanhada de declaração, por escrito, contendo as razões da falta do aceite.\n\n§ 1º Havendo expressa concordância da instituição financeira cobradora, o sacado poderá reter a duplicata em seu poder até a data do vencimento, desde que comunique, por escrito, à apresentante o aceite e a retenção.\n\n§ 2º - A comunicação de que trata o parágrafo anterior substituirá, quando necessário, no ato do protesto ou na execução judicial, a duplicata a que se refere. (Redação dada pela Lei nº 6.458, de 1º.11.1977)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art%20.%207%C2%BA%20A%20duplicata%2C%20quando%20n%C3%A3o%20f%C3%B4r%20%C3%A0%20vista%2C%20dever%C3%A1%20ser%20devolvida%20pelo%20comprador%20ao%20apresentante%20dentro%20do%20prazo%20de%2010",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art . 8º O comprador só poderá deixar de aceitar a duplicata por motivo de:\n\nI - avaria ou não recebimento das mercadorias, quando não expedidas ou não entregues por sua conta e risco;\n\nII - vícios, defeitos e diferenças na qualidade ou na quantidade das mercadorias, devidamente comprovados;\n\nIII - divergência nos prazos ou nos preços ajustados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art%20.%208%C2%BA%20O%20comprador%20s%C3%B3%20poder%C3%A1%20deixar%20de%20aceitar%20a%20duplicata%20por%20motivo%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art . 9º É lícito ao comprador resgatar a duplicata antes de aceitá-la ou antes da data do vencimento.\n\n§ 1º A prova do pagamento é o recibo, passado pelo legítimo portador ou por seu representante com podêres especiais, no verso do próprio título ou em documento, em separado, com referência expressa à duplicata.\n\n§ 2º Constituirá, igualmente, prova de pagamento, total ou parcial, da duplicata, a liquidação de cheque, a favor do estabelecimento endossatário, no qual conste, no verso, que seu valor se destina a amortização ou liquidação da duplicata nêle caracterizada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art%20.%209%C2%BA%20%C3%89%20l%C3%ADcito%20ao%20comprador%20resgatar%20a%20duplicata%20antes%20de%20aceit%C3%A1-la%20ou%20antes%20da%20data%20do%20vencimento.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art . 10. No pagamento da duplicata poderão ser deduzidos quaisquer créditos a favor do devedor resultantes de devolução de mercadorias, diferenças de preço, enganos, verificados, pagamentos por conta e outros motivos assemelhados, desde que devidamente autorizados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art%20.%2010.%20No%20pagamento%20da%20duplicata%20poder%C3%A3o%20ser%20deduzidos%20quaisquer%20cr%C3%A9ditos%20a%20favor%20do%20devedor%20resultantes%20de%20devolu%C3%A7%C3%A3o%20de%20mercadorias%2C%20diferen%C3%A7as",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art . 11. A duplicata admite reforma ou prorrogação do prazo de vencimento, mediante declaração em separado ou nela escrita, assinada pelo vendedor ou endossatário, ou por representante com podêres especiais.\n\nParágrafo único. A reforma ou prorrogação de que trata êste artigo, para manter a coobrigação dos demais intervenientes por endôsso ou aval, requer a anuência expressa dêstes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art%20.%2011.%20A%20duplicata%20admite%20reforma%20ou%20prorroga%C3%A7%C3%A3o%20do%20prazo%20de%20vencimento%2C%20mediante%20declara%C3%A7%C3%A3o%20em%20separado%20ou%20nela%20escrita%2C%20assinada%20pelo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art . 12. O pagamento da duplicata poderá ser assegurado por aval, sendo o avalista equiparado àquele cujo nome indicar; na falta da indicação, àquele abaixo de cuja firma lançar a sua; fora dêsses casos, ao comprador.\n\nParágrafo único. O aval dado posteriormente ao vencimento do título produzirá os mesmos efeitos que o prestado anteriormente àquela ocorrência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art%20.%2012.%20O%20pagamento%20da%20duplicata%20poder%C3%A1%20ser%20assegurado%20por%20aval%2C%20sendo%20o%20avalista%20equiparado%20%C3%A0quele%20cujo%20nome%20indicar%3B%20na%20falta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. A duplicata é protestável por falta de aceite de devolução ou pagamento. (Redação dada pelo Decreto-Lei nº 436, de 27.1.1969)\n\n§ 1º Por falta de aceite, de devolução ou de pagamento, o protesto será tirado, conforme o caso, mediante apresentação da duplicata, da triplicata, ou, ainda, por simples indicações do portador, na falta de devolução do título. (Redação dada pelo Decreto-Lei nº 436, de 27.1.1969)\n\n§ 2º O fato de não ter sido exercida a faculdade de protestar o título, por falta de aceite ou de devolução, não elide a possibilidade de protesto por falta de pagamento. (Redação dada pelo Decreto-Lei nº 436, de 27.1.1969)\n\n§ 3º O protesto será tirado na praça de pagamento constante do título. (Redação dada pelo Decreto-Lei nº 436, de 27.1.1969)\n\n§ 4º O portador que não tirar o protesto da duplicata, em forma regular e dentro do prazo da 30 (trinta) dias, contado da data de seu vencimento, perderá o direito de regresso contra os endossantes e respectivos avalistas. (Redação dada pelo Decreto-Lei nº 436, de 27.1.1969)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art.%2013.%20A%20duplicata%20%C3%A9%20protest%C3%A1vel%20por%20falta%20de%20aceite%20de%20devolu%C3%A7%C3%A3o%20ou%20pagamento.%20%28Reda%C3%A7%C3%A3o%20dada%20pelo%20Decreto-Lei%20n%C2%BA%20436%2C%20de%2027.1.1969%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Nos casos de protesto, por falta de aceite, de devolução ou de pagamento, ou feitos por indicações do portador do instrumento de protesto deverá conter os requisitos enumerados no artigo 29 do Decreto nº 2.044, de 31 de dezembro de 1908, exceto a transcrição mencionada no inciso II, que será substituída pela reprodução das indicações feitas pelo portador do título.(Redação dada pelo Decreto-Lei nº 436, de 27.1.1969)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art.%2014.%20Nos%20casos%20de%20protesto%2C%20por%20falta%20de%20aceite%2C%20de%20devolu%C3%A7%C3%A3o%20ou%20de%20pagamento%2C%20ou%20feitos%20por%20indica%C3%A7%C3%B5es%20do%20portador%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art 15 - A cobrança judicial de duplicata ou triplicata será efetuada de conformidade com o processo aplicável aos títulos executivos extrajudiciais, de que cogita o Livro II do Código de Processo Civil ,quando se tratar: (Redação dada pela Lei nº 6.458, de 1º.11.1977)\n\nl - de duplicata ou triplicata aceita, protestada ou não; (Redação dada pela Lei nº 6.458, de 1º.11.1977)\n\nII - de duplicata ou triplicata não aceita, contanto que, cumulativamente: (Redação dada pela Lei nº 6.458, de 1º.11.1977)\n\na) haja sido protestada; (Redação dada pela Lei nº 6.458, de 1º.11.1977)\n\nb) esteja acompanhada de documento hábil comprobatório da entrega e do recebimento da mercadoria, permitida a sua comprovação por meio eletrônico; (Redação dada pela Lei nº 14.301, de 2022)\n\nc) o sacado não tenha, comprovadamente, recusado o aceite, no prazo, nas condições e pelos motivos previstos nos arts. 7º e 8º desta Lei. (Redação dada pela Lei nº 6.458, de 1º.11.1977)\n\n§ 1º - Contra o sacador, os endossantes e respectivos avalistas caberá o processo de execução referido neste artigo, quaisquer que sejam a forma e as condições do protesto. (Redação dada pela Lei nº 6.458, de 1º.11.1977)\n\n§ 2º - Processar-se-á também da mesma maneira a execução de duplicata ou triplicata não aceita e não devolvida, desde que haja sido protestada mediante indicações do credor ou do apresentante do título, nos termos do art. 14, preenchidas as condições do inciso II deste artigo. (Redação dada pela Lei nº 6.458, de 1º.11.1977)\n\n§ 3º A comprovação por meio eletrônico de que trata a alínea b do inciso II do caput deste artigo poderá ser disciplinada em ato do Poder Executivo federal. (Incluído pela Lei nº 14.301, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art%2015%20-%20A%20cobran%C3%A7a%20judicial%20de%20duplicata%20ou%20triplicata%20ser%C3%A1%20efetuada%20de%20conformidade%20com%20o%20processo%20aplic%C3%A1vel%20aos%20t%C3%ADtulos%20executivos%20extrajudiciais%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPíTULO V (Redação dada pela Lei nº 6.458, de 1º.11.1977)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art 16 - Aplica-se o procedimento ordinário previsto no Código de Processo Civil à ação do credor contra o devedor, por duplicata ou triplicata que não preencha os requisitos do art. 15, incisos l e II, e §§ 1º e 2º, bem como à ação para ilidir as razões invocadas pelo devedor para o não aceite do título, nos casos previstos no art. 8º. (Redação dada pela Lei nº 6.458, de 1º.11.1977)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art%2016%20-%20Aplica-se%20o%20procedimento%20ordin%C3%A1rio%20previsto%20no%20C%C3%B3digo%20de%20Processo%20Civil%20%C3%A0%20a%C3%A7%C3%A3o%20do%20credor%20contra%20o%20devedor%2C%20por%20duplicata",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPíTULO V (Redação dada pela Lei nº 6.458, de 1º.11.1977)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art 17 - O foro competente para a cobrança judicial da duplicata ou da triplicata é o da praça de pagamento constante do título, ou outra de domicílio do comprador e, no caso de ação regressiva, a dos sacadores, dos endossantes e respectivos avalistas. (Redação dada pela Lei nº 6.458, de 1º.11.1977)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art%2017%20-%20O%20foro%20competente%20para%20a%20cobran%C3%A7a%20judicial%20da%20duplicata%20ou%20da%20triplicata%20%C3%A9%20o%20da%20pra%C3%A7a%20de%20pagamento%20constante",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPíTULO V (Redação dada pela Lei nº 6.458, de 1º.11.1977)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art 18 - A pretensão à execução da duplicata prescreve: (Redação dada pela Lei nº 6.458, de 1º.11.1977)\n\nl - contra o sacado e respectivos avalistas, em 3(três) anos, contados da data do vencimento do título; (Redação dada pela Lei nº 6.458, de 1º.11.1977)\n\nll - contra endossante e seus avalistas, em 1 (um) ano, contado da data do protesto; (Redação dada pela Lei nº 6.458, de 1º.11.1977)\n\nIll - de qualquer dos coobrigados contra os demais, em 1 (um) ano, contado da data em que haja sido efetuado o pagamento do título. (Redação dada pela Lei nº 6.458, de 1º.11.1977)\n\n§ 1º - A cobrança judicial poderá ser proposta contra um ou contra todos os coobrigados, sem observância da ordem em que figurem no título. (Redação dada pela Lei nº 6.458, de 1º.11.1977)\n\n§ 2º - Os coobrigados da duplicata respondem solidariamente pelo aceite e pelo pagamento. (Redação dada pela Lei nº 6.458, de 1º.11.1977)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art%2018%20-%20A%20pretens%C3%A3o%20%C3%A0%20execu%C3%A7%C3%A3o%20da%20duplicata%20prescreve%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%206.458%2C%20de%201%C2%BA.11.1977%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPíTULO V (Redação dada pela Lei nº 6.458, de 1º.11.1977)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art . 19. A adoção do regime de vendas de que trata o art. 2º desta Lei obriga o vendedor a ter e a escriturar o Livro de Registro de Duplicatas.\n\n§ 1º No Registro de Duplicatas serão escrituradas, cronològicamente, tôdas as duplicatas emitidas, com o número de ordem, data e valor das faturas originárias e data de sua expedição; nome e domicílio do comprador; anotações das reformas; prorrogações e outras circunstâncias necessárias.\n\n§ 2º Os Registros de Duplicatas, que não poderão conter emendas, borrões, rasuras ou entrelinhas, deverão ser conservados nos próprios estabelecimentos.\n\n§ 3º O Registro de Duplicatas poderá ser substituído por qualquer sistema mecanizado, desde que os requesitos dêste artigo sejam observados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art%20.%2019.%20A%20ado%C3%A7%C3%A3o%20do%20regime%20de%20vendas%20de%20que%20trata%20o%20art.%202%C2%BA%20desta%20Lei%20obriga%20o%20vendedor%20a%20ter",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Poderão emitir, na forma prevista nesta Lei, fatura e duplicata: (Redação dada pela Lei nº 14.206, de 2021)\n\nI - as empresas, individuais ou coletivas, fundações ou sociedades civis que se dediquem à prestação de serviços; e (Incluído pela Lei nº 14.206, de 2021)\n\nII - o Transportador Autônomo de Cargas (TAC), de que trata o inciso I do caput do art. 2º da Lei nº 11.442, de 5 de janeiro de 2007. (Incluído pela Lei nº 14.206, de 2021)\n\n§ 1º A fatura deverá discriminar a natureza dos serviços prestados.\n\n§ 2º A soma a pagar em dinheiro corresponderá ao preço dos serviços prestados.\n\n§ 3º Aplicam-se à fatura e à duplicata ou triplicata de prestação de serviços, com as adaptações cabíveis, as disposições referentes à fatura e à duplicata ou triplicata de venda mercantil, constituindo documento hábil, para transcrição do instrumento de protesto, qualquer documento que comprove a efetiva prestação, dos serviços e o vínculo contratual que a autorizou. (Incluído pelo Decreto-Lei nº 436, de 27.1.1969)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art.%2020.%20Poder%C3%A3o%20emitir%2C%20na%20forma%20prevista%20nesta%20Lei%2C%20fatura%20e%20duplicata%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%2014.206%2C%20de%202021%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPíTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art . 21. O sacado poderá deixar de aceitar a duplicata de prestação de serviços por motivo de:\n\nI - não correspondência com os serviços efetivamente contratados;\n\nII - vícios ou defeitos na qualidade dos serviços prestados, devidamente comprovados;\n\nIII - divergência nos prazos ou nos preços ajustados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art%20.%2021.%20O%20sacado%20poder%C3%A1%20deixar%20de%20aceitar%20a%20duplicata%20de%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7os%20por%20motivo%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPíTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art . 22. Equiparam-se às entidades constantes do art. 20, para os efeitos da presente Lei, ressalvado o disposto no Capítulo VI, os profissionais liberais e os que prestam serviço de natureza eventual desde que o valor do serviço ultrapasse a NCr$100,00 (cem cruzeiros novos).\n\n§ 1º Nos casos dêste artigo, o credor enviará ao devedor fatura ou conta que mencione a natureza e valor dos serviços prestados, data e local do pagamento e o vínculo contratual que deu origem aos serviços executados.\n\n§ 2º Registrada a fatura ou conta no Cartório de Títulos e Documentos, será ela remetida ao devedor, com as cautelas constantes do artigo 6º.\n\n§ 3º O não pagamento da fatura ou conta no prazo nela fixado autorizará o credor a levá-la a protesto, valendo, na ausência do original, certidão do cartório competente.\n\n§ 4º - O instrumento do protesto, elaborado com as cautelas do art. 14, discriminando a fatura ou conta original ou a certidão do Cartório de Títulos e Documentos, autorizará o ajuizamento do competente processo de execução na forma prescrita nesta Lei. (Redação dada pela Lei nº 6.458, de 1º.11.1977)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art%20.%2022.%20Equiparam-se%20%C3%A0s%20entidades%20constantes%20do%20art.%2020%2C%20para%20os%20efeitos%20da%20presente%20Lei%2C%20ressalvado%20o%20disposto%20no%20Cap%C3%ADtulo%20VI%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPíTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art . 23. A perda ou extravio da duplicata obrigará o vendedor a extrair triplicata, que terá os mesmos efeitos e requisitos e obedecerá às mesmas formalidades daquela.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art%20.%2023.%20A%20perda%20ou%20extravio%20da%20duplicata%20obrigar%C3%A1%20o%20vendedor%20a%20extrair%20triplicata%2C%20que%20ter%C3%A1%20os%20mesmos%20efeitos%20e%20requisitos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art . 24. Da duplicata poderão constar outras indicações, desde que não alterem sua feição característica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art%20.%2024.%20Da%20duplicata%20poder%C3%A3o%20constar%20outras%20indica%C3%A7%C3%B5es%2C%20desde%20que%20n%C3%A3o%20alterem%20sua%20fei%C3%A7%C3%A3o%20caracter%C3%ADstica.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art . 25. Aplicam-se à duplicata e à triplicata, no que couber, os dispositivos da legislação sôbre emissão, circulação e pagamento das Letras de Câmbio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art%20.%2025.%20Aplicam-se%20%C3%A0%20duplicata%20e%20%C3%A0%20triplicata%2C%20no%20que%20couber%2C%20os%20dispositivos%20da%20legisla%C3%A7%C3%A3o%20s%C3%B4bre%20emiss%C3%A3o%2C%20circula%C3%A7%C3%A3o%20e%20pagamento%20das",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art . 26. O art. 172 do Código Penal (Decreto-lei número 2.848, de 7 de dezembro de 1940) passa a vigorar com a seguinte redação:\n\n\"Art. 172. Expedir ou aceitar duplicata que não corresponda, juntamente com a fatura respectiva, a uma venda efetiva de bens ou a uma real prestação de serviço.\n\nPena - Detenção de um a cinco anos, e multa equivalente a 20% sôbre o valor da duplicata.\n\nParágrafo único. Nas mesmas penas incorrerá aquêle que falsificar ou adulterar a escrituração do Livro de Registro de Duplicatas\".",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art%20.%2026.%20O%20art.%20172%20do%20C%C3%B3digo%20Penal%20%28Decreto-lei%20n%C3%BAmero%202.848%2C%20de%207%20de%20dezembro%20de%201940%29%20passa%20a%20vigorar%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art . 27. O Conselho Monetário Nacional, por proposta do Ministério da Indústria e do Comércio, baixará, dentro de 120 (cento e vinte) dias da data da publicação desta lei, normas para padronização formal dos títulos e documentos nela referidos fixando prazo para sua adoção obrigatória.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art%20.%2027.%20O%20Conselho%20Monet%C3%A1rio%20Nacional%2C%20por%20proposta%20do%20Minist%C3%A9rio%20da%20Ind%C3%BAstria%20e%20do%20Com%C3%A9rcio%2C%20baixar%C3%A1%2C%20dentro%20de%20120%20%28cento%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art . 28. Esta Lei entrará em vigor 30 (trinta) dias após a data de sua publicação, revogando-se a Lei número 187, de 15 de janeiro de 1936, a Lei número 4.068, de 9 de junho de 1962, os Decretos-Leis números 265, de 28 de fevereiro de 1967, 320, de 29 de março de 1967, 331, de 21 de setembro de 1967, e 345, de 28 de dezembro de 1967, na parte referente às duplicatas e tôdas as demais disposições em contrário.\n\nBrasília, 18 de julho de 1968; 147º da Independência e 80º da República.\n\nA. COSTA E SILVA Luís Antônio da Gama e Silva Antônio Delfim Netto Edmundo de Macedo Soares\n\nEste texto não substitui o publicado no DOU de 19.7.1968\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5474compilado.htm#:~:text=Art%20.%2028.%20Esta%20Lei%20entrar%C3%A1%20em%20vigor%2030%20%28trinta%29%20dias%20ap%C3%B3s%20a%20data%20de%20sua%20publica%C3%A7%C3%A3o%2C%20revogando-se%20a%20Lei%20n%C3%BAmero%20187%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": null
+    }
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "_meta": {
+    "codigo": "L9609",
+    "nome": "Propriedade Intelecutal sobre Software (programa de computador)",
+    "lei": "Lei 9.609/1998",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9609.htm",
+    "total_artigos": 16,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Programa de computador é a expressão de um conjunto organizado de instruções em linguagem natural ou codificada, contida em suporte físico de qualquer natureza, de emprego necessário em máquinas automáticas de tratamento da informação, dispositivos, instrumentos ou equipamentos periféricos, baseados em técnica digital ou análoga, para fazê-los funcionar de modo e para fins determinados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9609.htm#:~:text=Art.%201%C2%BA%20Programa%20de%20computador%20%C3%A9%20a%20express%C3%A3o%20de%20um%20conjunto%20organizado%20de%20instru%C3%A7%C3%B5es%20em%20linguagem%20natural%20ou%20codificada%2C%20contida%20em%20suporte",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º O regime de proteção à propriedade intelectual de programa de computador é o conferido às obras literárias pela legislação de direitos autorais e conexos vigentes no País, observado o disposto nesta Lei.\n\n§ 1º Não se aplicam ao programa de computador as disposições relativas aos direitos morais, ressalvado, a qualquer tempo, o direito do autor de reivindicar a paternidade do programa de computador e o direito do autor de opor-se a alterações não-autorizadas, quando estas impliquem deformação, mutilação ou outra modificação do programa de computador, que prejudiquem a sua honra ou a sua reputação.\n\n§ 2º Fica assegurada a tutela dos direitos relativos a programa de computador pelo prazo de cinqüenta anos, contados a partir de 1º de janeiro do ano subseqüente ao da sua publicação ou, na ausência desta, da sua criação.\n\n§ 3º A proteção aos direitos de que trata esta Lei independe de registro.\n\n§ 4º Os direitos atribuídos por esta Lei ficam assegurados aos estrangeiros domiciliados no exterior, desde que o país de origem do programa conceda, aos brasileiros e estrangeiros domiciliados no Brasil, direitos equivalentes.\n\n§ 5º Inclui-se dentre os direitos assegurados por esta Lei e pela legislação de direitos autorais e conexos vigentes no País aquele direito exclusivo de autorizar ou proibir o aluguel comercial, não sendo esse direito exaurível pela venda, licença ou outra forma de transferência da cópia do programa.\n\n§ 6º O disposto no parágrafo anterior não se aplica aos casos em que o programa em si não seja objeto essencial do aluguel.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9609.htm#:~:text=Art.%202%C2%BA%20O%20regime%20de%20prote%C3%A7%C3%A3o%20%C3%A0%20propriedade%20intelectual%20de%20programa%20de%20computador%20%C3%A9%20o%20conferido%20%C3%A0s%20obras%20liter%C3%A1rias%20pela%20legisla%C3%A7%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Os programas de computador poderão, a critério do titular, ser registrados em órgão ou entidade a ser designado por ato do Poder Executivo, por iniciativa do Ministério responsável pela política de ciência e tecnologia. (Regulamento)\n\n§ 1º O pedido de registro estabelecido neste artigo deverá conter, pelo menos, as seguintes informações:\n\nI - os dados referentes ao autor do programa de computador e ao titular, se distinto do autor, sejam pessoas físicas ou jurídicas;\n\nII - a identificação e descrição funcional do programa de computador; e\n\nIII - os trechos do programa e outros dados que se considerar suficientes para identificá-lo e caracterizar sua originalidade, ressalvando-se os direitos de terceiros e a responsabilidade do Governo.\n\n§ 2º As informações referidas no inciso III do parágrafo anterior são de caráter sigiloso, não podendo ser reveladas, salvo por ordem judicial ou a requerimento do próprio titular.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9609.htm#:~:text=Art.%203%C2%BA%20Os%20programas%20de%20computador%20poder%C3%A3o%2C%20a%20crit%C3%A9rio%20do%20titular%2C%20ser%20registrados%20em%20%C3%B3rg%C3%A3o%20ou%20entidade%20a%20ser%20designado%20por%20ato",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Salvo estipulação em contrário, pertencerão exclusivamente ao empregador, contratante de serviços ou órgão público, os direitos relativos ao programa de computador, desenvolvido e elaborado durante a vigência de contrato ou de vínculo estatutário, expressamente destinado à pesquisa e desenvolvimento, ou em que a atividade do empregado, contratado de serviço ou servidor seja prevista, ou ainda, que decorra da própria natureza dos encargos concernentes a esses vínculos.\n\n§ 1º Ressalvado ajuste em contrário, a compensação do trabalho ou serviço prestado limitar-se-á à remuneração ou ao salário convencionado.\n\n§ 2º Pertencerão, com exclusividade, ao empregado, contratado de serviço ou servidor os direitos concernentes a programa de computador gerado sem relação com o contrato de trabalho, prestação de serviços ou vínculo estatutário, e sem a utilização de recursos, informações tecnológicas, segredos industriais e de negócios, materiais, instalações ou equipamentos do empregador, da empresa ou entidade com a qual o empregador mantenha contrato de prestação de serviços ou assemelhados, do contratante de serviços ou órgão público.\n\n§ 3º O tratamento previsto neste artigo será aplicado nos casos em que o programa de computador for desenvolvido por bolsistas, estagiários e assemelhados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9609.htm#:~:text=Art.%204%C2%BA%20Salvo%20estipula%C3%A7%C3%A3o%20em%20contr%C3%A1rio%2C%20pertencer%C3%A3o%20exclusivamente%20ao%20empregador%2C%20contratante%20de%20servi%C3%A7os%20ou%20%C3%B3rg%C3%A3o%20p%C3%BAblico%2C%20os%20direitos%20relativos%20ao%20programa%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Os direitos sobre as derivações autorizadas pelo titular dos direitos de programa de computador, inclusive sua exploração econômica, pertencerão à pessoa autorizada que as fizer, salvo estipulação contratual em contrário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9609.htm#:~:text=Art.%205%C2%BA%20Os%20direitos%20sobre%20as%20deriva%C3%A7%C3%B5es%20autorizadas%20pelo%20titular%20dos%20direitos%20de%20programa%20de%20computador%2C%20inclusive%20sua%20explora%C3%A7%C3%A3o%20econ%C3%B4mica%2C%20pertencer%C3%A3o%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Não constituem ofensa aos direitos do titular de programa de computador:\n\nI - a reprodução, em um só exemplar, de cópia legitimamente adquirida, desde que se destine à cópia de salvaguarda ou armazenamento eletrônico, hipótese em que o exemplar original servirá de salvaguarda;\n\nII - a citação parcial do programa, para fins didáticos, desde que identificados o programa e o titular dos direitos respectivos;\n\nIII - a ocorrência de semelhança de programa a outro, preexistente, quando se der por força das características funcionais de sua aplicação, da observância de preceitos normativos e técnicos, ou de limitação de forma alternativa para a sua expressão;\n\nIV - a integração de um programa, mantendo-se suas características essenciais, a um sistema aplicativo ou operacional, tecnicamente indispensável às necessidades do usuário, desde que para o uso exclusivo de quem a promoveu.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9609.htm#:~:text=Art.%206%C2%BA%20N%C3%A3o%20constituem%20ofensa%20aos%20direitos%20do%20titular%20de%20programa%20de%20computador%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º O contrato de licença de uso de programa de computador, o documento fiscal correspondente, os suportes físicos do programa ou as respectivas embalagens deverão consignar, de forma facilmente legível pelo usuário, o prazo de validade técnica da versão comercializada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9609.htm#:~:text=Art.%207%C2%BA%20O%20contrato%20de%20licen%C3%A7a%20de%20uso%20de%20programa%20de%20computador%2C%20o%20documento%20fiscal%20correspondente%2C%20os%20suportes%20f%C3%ADsicos%20do%20programa%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Aquele que comercializar programa de computador, quer seja titular dos direitos do programa, quer seja titular dos direitos de comercialização, fica obrigado, no território nacional, durante o prazo de validade técnica da respectiva versão, a assegurar aos respectivos usuários a prestação de serviços técnicos complementares relativos ao adequado funcionamento do programa, consideradas as suas especificações.\n\nParágrafo único. A obrigação persistirá no caso de retirada de circulação comercial do programa de computador durante o prazo de validade, salvo justa indenização de eventuais prejuízos causados a terceiros.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9609.htm#:~:text=Art.%208%C2%BA%20Aquele%20que%20comercializar%20programa%20de%20computador%2C%20quer%20seja%20titular%20dos%20direitos%20do%20programa%2C%20quer%20seja%20titular%20dos%20direitos%20de%20comercializa%C3%A7%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º O uso de programa de computador no País será objeto de contrato de licença.\n\nParágrafo único. Na hipótese de eventual inexistência do contrato referido no caput deste artigo, o documento fiscal relativo à aquisição ou licenciamento de cópia servirá para comprovação da regularidade do seu uso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9609.htm#:~:text=Art.%209%C2%BA%20O%20uso%20de%20programa%20de%20computador%20no%20Pa%C3%ADs%20ser%C3%A1%20objeto%20de%20contrato%20de%20licen%C3%A7a.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Os atos e contratos de licença de direitos de comercialização referentes a programas de computador de origem externa deverão fixar, quanto aos tributos e encargos exigíveis, a responsabilidade pelos respectivos pagamentos e estabelecerão a remuneração do titular dos direitos de programa de computador residente ou domiciliado no exterior.\n\n§ 1º Serão nulas as cláusulas que:\n\nI - limitem a produção, a distribuição ou a comercialização, em violação às disposições normativas em vigor;\n\nII - eximam qualquer dos contratantes das responsabilidades por eventuais ações de terceiros, decorrentes de vícios, defeitos ou violação de direitos de autor.\n\n§ 2º O remetente do correspondente valor em moeda estrangeira, em pagamento da remuneração de que se trata, conservará em seu poder, pelo prazo de cinco anos, todos os documentos necessários à comprovação da licitude das remessas e da sua conformidade ao caput deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9609.htm#:~:text=Art.%2010.%20Os%20atos%20e%20contratos%20de%20licen%C3%A7a%20de%20direitos%20de%20comercializa%C3%A7%C3%A3o%20referentes%20a%20programas%20de%20computador%20de%20origem%20externa%20dever%C3%A3o%20fixar%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Nos casos de transferência de tecnologia de programa de computador, o Instituto Nacional da Propriedade Industrial fará o registro dos respectivos contratos, para que produzam efeitos em relação a terceiros.\n\nParágrafo único. Para o registro de que trata este artigo, é obrigatória a entrega, por parte do fornecedor ao receptor de tecnologia, da documentação completa, em especial do código-fonte comentado, memorial descritivo, especificações funcionais internas, diagramas, fluxogramas e outros dados técnicos necessários à absorção da tecnologia.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9609.htm#:~:text=Art.%2011.%20Nos%20casos%20de%20transfer%C3%AAncia%20de%20tecnologia%20de%20programa%20de%20computador%2C%20o%20Instituto%20Nacional%20da%20Propriedade%20Industrial%20far%C3%A1%20o%20registro%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Violar direitos de autor de programa de computador:\n\nPena - Detenção de seis meses a dois anos ou multa.\n\n§ 1º Se a violação consistir na reprodução, por qualquer meio, de programa de computador, no todo ou em parte, para fins de comércio, sem autorização expressa do autor ou de quem o represente:\n\nPena - Reclusão de um a quatro anos e multa.\n\n§ 2º Na mesma pena do parágrafo anterior incorre quem vende, expõe à venda, introduz no País, adquire, oculta ou tem em depósito, para fins de comércio, original ou cópia de programa de computador, produzido com violação de direito autoral.\n\n§ 3º Nos crimes previstos neste artigo, somente se procede mediante queixa, salvo:\n\nI - quando praticados em prejuízo de entidade de direito público, autarquia, empresa pública, sociedade de economia mista ou fundação instituída pelo poder público;\n\nII - quando, em decorrência de ato delituoso, resultar sonegação fiscal, perda de arrecadação tributária ou prática de quaisquer dos crimes contra a ordem tributária ou contra as relações de consumo.\n\n§ 4º No caso do inciso II do parágrafo anterior, a exigibilidade do tributo, ou contribuição social e qualquer acessório, processar-se-á independentemente de representação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9609.htm#:~:text=Art.%2012.%20Violar%20direitos%20de%20autor%20de%20programa%20de%20computador%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. A ação penal e as diligências preliminares de busca e apreensão, nos casos de violação de direito de autor de programa de computador, serão precedidas de vistoria, podendo o juiz ordenar a apreensão das cópias produzidas ou comercializadas com violação de direito de autor, suas versões e derivações, em poder do infrator ou de quem as esteja expondo, mantendo em depósito, reproduzindo ou comercializando.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9609.htm#:~:text=Art.%2013.%20A%20a%C3%A7%C3%A3o%20penal%20e%20as%20dilig%C3%AAncias%20preliminares%20de%20busca%20e%20apreens%C3%A3o%2C%20nos%20casos%20de%20viola%C3%A7%C3%A3o%20de%20direito%20de%20autor%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Independentemente da ação penal, o prejudicado poderá intentar ação para proibir ao infrator a prática do ato incriminado, com cominação de pena pecuniária para o caso de transgressão do preceito.\n\n§ 1º A ação de abstenção de prática de ato poderá ser cumulada com a de perdas e danos pelos prejuízos decorrentes da infração.\n\n§ 2º Independentemente de ação cautelar preparatória, o juiz poderá conceder medida liminar proibindo ao infrator a prática do ato incriminado, nos termos deste artigo.\n\n§ 3º Nos procedimentos cíveis, as medidas cautelares de busca e apreensão observarão o disposto no artigo anterior.\n\n§ 4º Na hipótese de serem apresentadas, em juízo, para a defesa dos interesses de qualquer das partes, informações que se caracterizem como confidenciais, deverá o juiz determinar que o processo prossiga em segredo de justiça, vedado o uso de tais informações também à outra parte para outras finalidades.\n\n§ 5º Será responsabilizado por perdas e danos aquele que requerer e promover as medidas previstas neste e nos arts. 12 e 13, agindo de má-fé ou por espírito de emulação, capricho ou erro grosseiro, nos termos dos arts. 16, 17 e 18 do Código de Processo Civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9609.htm#:~:text=Art.%2014.%20Independentemente%20da%20a%C3%A7%C3%A3o%20penal%2C%20o%20prejudicado%20poder%C3%A1%20intentar%20a%C3%A7%C3%A3o%20para%20proibir%20ao%20infrator%20a%20pr%C3%A1tica%20do%20ato%20incriminado%2C%20com%20comina%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Esta Lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9609.htm#:~:text=Art.%2015.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Fica revogada a Lei nº 7.646, de 18 de dezembro de 1987.\n\nBrasília, 19 de fevereiro de 1998; 177º da Independência e 110º da República.\n\nFERNANDO HENRIQUE CARDOSO José Israel Vargas\n\nEste texto não substitui o publicado no DOU de 20.2.1998 e retificado no DOU de 25.2.1998\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9609.htm#:~:text=Art.%2016.%20Fica%20revogada%20a%20Lei%20n%C2%BA%207.646%2C%20de%2018%20de%20dezembro%20de%201987.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": null
+    }
+  }
+}

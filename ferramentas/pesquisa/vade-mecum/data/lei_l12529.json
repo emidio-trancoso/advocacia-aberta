@@ -1,0 +1,2095 @@
+{
+  "_meta": {
+    "codigo": "L12529",
+    "nome": "Defesa da Concorrência (CADE)",
+    "lei": "Lei 12.529/2011",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm",
+    "total_artigos": 130,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o Esta Lei estrutura o Sistema Brasileiro de Defesa da Concorrência - SBDC e dispõe sobre a prevenção e a repressão às infrações contra a ordem econômica, orientada pelos ditames constitucionais de liberdade de iniciativa, livre concorrência, função social da propriedade, defesa dos consumidores e repressão ao abuso do poder econômico.\n\nParágrafo único. A coletividade é a titular dos bens jurídicos protegidos por esta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%201o%20Esta%20Lei%20estrutura%20o%20Sistema%20Brasileiro%20de%20Defesa%20da%20Concorr%C3%AAncia%20-%20SBDC%20e%20disp%C3%B5e%20sobre%20a%20preven%C3%A7%C3%A3o%20e%20a%20repress%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o Aplica-se esta Lei, sem prejuízo de convenções e tratados de que seja signatário o Brasil, às práticas cometidas no todo ou em parte no território nacional ou que nele produzam ou possam produzir efeitos.\n\n§ 1o Reputa-se domiciliada no território nacional a empresa estrangeira que opere ou tenha no Brasil filial, agência, sucursal, escritório, estabelecimento, agente ou representante.\n\n§ 2o A empresa estrangeira será notificada e intimada de todos os atos processuais previstos nesta Lei, independentemente de procuração ou de disposição contratual ou estatutária, na pessoa do agente ou representante ou pessoa responsável por sua filial, agência, sucursal, estabelecimento ou escritório instalado no Brasil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%202o%20Aplica-se%20esta%20Lei%2C%20sem%20preju%C3%ADzo%20de%20conven%C3%A7%C3%B5es%20e%20tratados%20de%20que%20seja%20signat%C3%A1rio%20o%20Brasil%2C%20%C3%A0s%20pr%C3%A1ticas%20cometidas%20no%20todo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o O SBDC é formado pelo Conselho Administrativo de Defesa Econômica - CADE e pela Secretaria de Acompanhamento Econômico do Ministério da Fazenda, com as atribuições previstas nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%203o%20O%20SBDC%20%C3%A9%20formado%20pelo%20Conselho%20Administrativo%20de%20Defesa%20Econ%C3%B4mica%20-%20CADE%20e%20pela%20Secretaria%20de%20Acompanhamento%20Econ%C3%B4mico%20do%20Minist%C3%A9rio",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o O Cade é entidade judicante com jurisdição em todo o território nacional, que se constitui em autarquia federal, vinculada ao Ministério da Justiça, com sede e foro no Distrito Federal, e competências previstas nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%204o%20O%20Cade%20%C3%A9%20entidade%20judicante%20com%20jurisdi%C3%A7%C3%A3o%20em%20todo%20o%20territ%C3%B3rio%20nacional%2C%20que%20se%20constitui%20em%20autarquia%20federal%2C%20vinculada%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o O Cade é constituído pelos seguintes órgãos:\n\nI - Tribunal Administrativo de Defesa Econômica;\n\nII - Superintendência-Geral; e\n\nIII - Departamento de Estudos Econômicos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%205o%20O%20Cade%20%C3%A9%20constitu%C3%ADdo%20pelos%20seguintes%20%C3%B3rg%C3%A3os%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o O Tribunal Administrativo, órgão judicante, tem como membros um Presidente e seis Conselheiros escolhidos dentre cidadãos com mais de 30 (trinta) anos de idade, de notório saber jurídico ou econômico e reputação ilibada, nomeados pelo Presidente da República, depois de aprovados pelo Senado Federal.\n\n§ 1o O mandato do Presidente e dos Conselheiros é de 4 (quatro) anos, não coincidentes, vedada a recondução.\n\n§ 2o Os cargos de Presidente e de Conselheiro são de dedicação exclusiva, não se admitindo qualquer acumulação, salvo as constitucionalmente permitidas.\n\n§ 3o No caso de renúncia, morte, impedimento, falta ou perda de mandato do Presidente do Tribunal, assumirá o Conselheiro mais antigo no cargo ou o mais idoso, nessa ordem, até nova nomeação, sem prejuízo de suas atribuições.\n\n§ 4o No caso de renúncia, morte ou perda de mandato de Conselheiro, proceder-se-á a nova nomeação, para completar o mandato do substituído.\n\n§ 5o Se, nas hipóteses previstas no § 4o deste artigo, ou no caso de encerramento de mandato dos Conselheiros, a composição do Tribunal ficar reduzida a número inferior ao estabelecido no § 1o do art. 9o desta Lei, considerar-se-ão automaticamente suspensos os prazos previstos nesta Lei, e suspensa a tramitação de processos, continuando-se a contagem imediatamente após a recomposição do quorum.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%206o%20O%20Tribunal%20Administrativo%2C%20%C3%B3rg%C3%A3o%20judicante%2C%20tem%20como%20membros%20um%20Presidente%20e%20seis%20Conselheiros%20escolhidos%20dentre%20cidad%C3%A3os%20com%20mais%20de%2030",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o A perda de mandato do Presidente ou dos Conselheiros do Cade só poderá ocorrer em virtude de decisão do Senado Federal, por provocação do Presidente da República, ou em razão de condenação penal irrecorrível por crime doloso, ou de processo disciplinar de conformidade com o que prevê a Lei no 8.112, de 11 de dezembro de 1990 e a Lei no 8.429, de 2 de junho de 1992, e por infringência de quaisquer das vedações previstas no art. 8o desta Lei.\n\nParágrafo único. Também perderá o mandato, automaticamente, o membro do Tribunal que faltar a 3 (três) reuniões ordinárias consecutivas, ou 20 (vinte) intercaladas, ressalvados os afastamentos temporários autorizados pelo Plenário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%207o%20A%20perda%20de%20mandato%20do%20Presidente%20ou%20dos%20Conselheiros%20do%20Cade%20s%C3%B3%20poder%C3%A1%20ocorrer%20em%20virtude%20de%20decis%C3%A3o%20do%20Senado",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o Ao Presidente e aos Conselheiros é vedado:\n\nI - receber, a qualquer título, e sob qualquer pretexto, honorários, percentagens ou custas;\n\nII - exercer profissão liberal;\n\nIII - participar, na forma de controlador, diretor, administrador, gerente, preposto ou mandatário, de sociedade civil, comercial ou empresas de qualquer espécie;\n\nIV - emitir parecer sobre matéria de sua especialização, ainda que em tese, ou funcionar como consultor de qualquer tipo de empresa;\n\nV - manifestar, por qualquer meio de comunicação, opinião sobre processo pendente de julgamento, ou juízo depreciativo sobre despachos, votos ou sentenças de órgãos judiciais, ressalvada a crítica nos autos, em obras técnicas ou no exercício do magistério; e\n\nVI - exercer atividade político-partidária.\n\n§ 1o É vedado ao Presidente e aos Conselheiros, por um período de 120 (cento e vinte) dias, contado da data em que deixar o cargo, representar qualquer pessoa, física ou jurídica, ou interesse perante o SBDC, ressalvada a defesa de direito próprio.\n\n§ 2o Durante o período mencionado no § 1o deste artigo, o Presidente e os Conselheiros receberão a mesma remuneração do cargo que ocupavam.\n\n§ 3o Incorre na prática de advocacia administrativa, sujeitando-se à pena prevista no art. 321 do Decreto-Lei no 2.848, de 7 de dezembro de 1940 - Código Penal, o ex-presidente ou ex-conselheiro que violar o impedimento previsto no § 1o deste artigo.\n\n§ 4o É vedado, a qualquer tempo, ao Presidente e aos Conselheiros utilizar informações privilegiadas obtidas em decorrência do cargo exercido.\n\nSubseção I\n\nDa Competência do Plenário do Tribunal",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%208o%20Ao%20Presidente%20e%20aos%20Conselheiros%20%C3%A9%20vedado%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o Compete ao Plenário do Tribunal, dentre outras atribuições previstas nesta Lei:\n\nI - zelar pela observância desta Lei e seu regulamento e do regimento interno;\n\nII - decidir sobre a existência de infração à ordem econômica e aplicar as penalidades previstas em lei;\n\nIII - decidir os processos administrativos para imposição de sanções administrativas por infrações à ordem econômica instaurados pela Superintendência-Geral;\n\nIV - ordenar providências que conduzam à cessação de infração à ordem econômica, dentro do prazo que determinar;\n\nV - aprovar os termos do compromisso de cessação de prática e do acordo em controle de concentrações, bem como determinar à Superintendência-Geral que fiscalize seu cumprimento;\n\nVI - apreciar, em grau de recurso, as medidas preventivas adotadas pelo Conselheiro-Relator ou pela Superintendência-Geral;\n\nVII - intimar os interessados de suas decisões;\n\nVIII - requisitar dos órgãos e entidades da administração pública federal e requerer às autoridades dos Estados, Municípios, do Distrito Federal e dos Territórios as medidas necessárias ao cumprimento desta Lei;\n\nIX - contratar a realização de exames, vistorias e estudos, aprovando, em cada caso, os respectivos honorários profissionais e demais despesas de processo, que deverão ser pagas pela empresa, se vier a ser punida nos termos desta Lei;\n\nX - apreciar processos administrativos de atos de concentração econômica, na forma desta Lei, fixando, quando entender conveniente e oportuno, acordos em controle de atos de concentração;\n\nXI - determinar à Superintendência-Geral que adote as medidas administrativas necessárias à execução e fiel cumprimento de suas decisões;\n\nXII - requisitar serviços e pessoal de quaisquer órgãos e entidades do Poder Público Federal;\n\nXIII - requerer à Procuradoria Federal junto ao Cade a adoção de providências administrativas e judiciais;\n\nXIV - instruir o público sobre as formas de infração da ordem econômica;\n\nXV - elaborar e aprovar regimento interno do Cade, dispondo sobre seu funcionamento, forma das deliberações, normas de procedimento e organização de seus serviços internos; Vide Decreto nº 9.011, de 2017\n\nXVI - propor a estrutura do quadro de pessoal do Cade, observado o disposto no inciso II do caput do art. 37 da Constituição Federal;\n\nXVII - elaborar proposta orçamentária nos termos desta Lei;\n\nXVIII - requisitar informações de quaisquer pessoas, órgãos, autoridades e entidades públicas ou privadas, respeitando e mantendo o sigilo legal quando for o caso, bem como determinar as diligências que se fizerem necessárias ao exercício das suas funções; e\n\nXIX - decidir pelo cumprimento das decisões, compromissos e acordos.\n\n§ 1o As decisões do Tribunal serão tomadas por maioria, com a presença mínima de 4 (quatro) membros, sendo o quorum de deliberação mínimo de 3 (três) membros.\n\n§ 2o As decisões do Tribunal não comportam revisão no âmbito do Poder Executivo, promovendo-se, de imediato, sua execução e comunicando-se, em seguida, ao Ministério Público, para as demais medidas legais cabíveis no âmbito de suas atribuições.\n\n§ 3o As autoridades federais, os diretores de autarquia, fundação, empresa pública e sociedade de economia mista federais e agências reguladoras são obrigados a prestar, sob pena de responsabilidade, toda a assistência e colaboração que lhes for solicitada pelo Cade, inclusive elaborando pareceres técnicos sobre as matérias de sua competência.\n\n§ 4o O Tribunal poderá responder consultas sobre condutas em andamento, mediante pagamento de taxa e acompanhadas dos respectivos documentos.\n\n§ 5o O Cade definirá, em resolução, normas complementares sobre o procedimento de consultas previsto no § 4o deste artigo.\n\nSubseção II\n\nDa Competência do Presidente do Tribunal",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%209o%20Compete%20ao%20Plen%C3%A1rio%20do%20Tribunal%2C%20dentre%20outras%20atribui%C3%A7%C3%B5es%20previstas%20nesta%20Lei%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Compete ao Presidente do Tribunal:\n\nI - representar legalmente o Cade no Brasil ou no exterior, em juízo ou fora dele;\n\nII - presidir, com direito a voto, inclusive o de qualidade, as reuniões do Plenário;\n\nIII - distribuir, por sorteio, os processos aos Conselheiros;\n\nIV - convocar as sessões e determinar a organização da respectiva pauta;\n\nV - solicitar, a seu critério, que a Superintendência-Geral auxilie o Tribunal na tomada de providências extrajudiciais para o cumprimento das decisões do Tribunal;\n\nVI - fiscalizar a Superintendência-Geral na tomada de providências para execução das decisões e julgados do Tribunal;\n\nVII - assinar os compromissos e acordos aprovados pelo Plenário;\n\nVIII - submeter à aprovação do Plenário a proposta orçamentária e a lotação ideal do pessoal que prestará serviço ao Cade;\n\nIX - orientar, coordenar e supervisionar as atividades administrativas do Cade;\n\nX - ordenar as despesas atinentes ao Cade, ressalvadas as despesas da unidade gestora da Superintendência-Geral;\n\nXI - firmar contratos e convênios com órgãos ou entidades nacionais e submeter, previamente, ao Ministro de Estado da Justiça os que devam ser celebrados com organismos estrangeiros ou internacionais; e\n\nXII - determinar à Procuradoria Federal junto ao Cade as providências judiciais determinadas pelo Tribunal.\n\nSubseção III\n\nDa Competência dos Conselheiros do Tribunal",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2010.%20Compete%20ao%20Presidente%20do%20Tribunal%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Compete aos Conselheiros do Tribunal:\n\nI - emitir voto nos processos e questões submetidas ao Tribunal;\n\nII - proferir despachos e lavrar as decisões nos processos em que forem relatores;\n\nIII - requisitar informações e documentos de quaisquer pessoas, órgãos, autoridades e entidades públicas ou privadas, a serem mantidos sob sigilo legal, quando for o caso, bem como determinar as diligências que se fizerem necessárias;\n\nIV - adotar medidas preventivas, fixando o valor da multa diária pelo seu descumprimento;\n\nV - solicitar, a seu critério, que a Superintendência-Geral realize as diligências e a produção das provas que entenderem pertinentes nos autos do processo administrativo, na forma desta Lei;\n\nVI - requerer à Procuradoria Federal junto ao Cade emissão de parecer jurídico nos processos em que forem relatores, quando entenderem necessário e em despacho fundamentado, na forma prevista no inciso VII do art. 15 desta Lei;\n\nVII - determinar ao Economista-Chefe, quando necessário, a elaboração de pareceres nos processos em que forem relatores, sem prejuízo da tramitação normal do processo e sem que tal determinação implique a suspensão do prazo de análise ou prejuízo à tramitação normal do processo;\n\nVIII - desincumbir-se das demais tarefas que lhes forem cometidas pelo regimento;\n\nIX - propor termo de compromisso de cessação e acordos para aprovação do Tribunal;\n\nX - prestar ao Poder Judiciário, sempre que solicitado, todas as informações sobre andamento dos processos, podendo, inclusive, fornecer cópias dos autos para instruir ações judiciais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2011.%20Compete%20aos%20Conselheiros%20do%20Tribunal%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. O Cade terá em sua estrutura uma Superintendência-Geral, com 1 (um) Superintendente-Geral e 2 (dois) Superintendentes-Adjuntos, cujas atribuições específicas serão definidas em Resolução.\n\n§ 1o O Superintendente-Geral será escolhido dentre cidadãos com mais de 30 (trinta) anos de idade, notório saber jurídico ou econômico e reputação ilibada, nomeado pelo Presidente da República, depois de aprovado pelo Senado Federal.\n\n§ 2o O Superintendente-Geral terá mandato de 2 (dois) anos, permitida a recondução para um único período subsequente.\n\n§ 3o Aplicam-se ao Superintendente-Geral as mesmas normas de impedimentos, perda de mandato, substituição e as vedações do art. 8o desta Lei, incluindo o disposto no § 2o do art. 8o desta Lei, aplicáveis ao Presidente e aos Conselheiros do Tribunal.\n\n§ 4o Os cargos de Superintendente-Geral e de Superintendentes-Adjuntos são de dedicação exclusiva, não se admitindo qualquer acumulação, salvo as constitucionalmente permitidas.\n\n§ 5o Durante o período de vacância que anteceder à nomeação de novo Superintendente-Geral, assumirá interinamente o cargo um dos superintendentes adjuntos, indicado pelo Presidente do Tribunal, o qual permanecerá no cargo até a posse do novo Superintendente-Geral, escolhido na forma do § 1o deste artigo.\n\n§ 6o Se, no caso da vacância prevista no § 5o deste artigo, não houver nenhum Superintendente Adjunto nomeado na Superintendência do Cade, o Presidente do Tribunal indicará servidor em exercício no Cade, com conhecimento jurídico ou econômico na área de defesa da concorrência e reputação ilibada, para assumir interinamente o cargo, permanecendo neste até a posse do novo Superintendente-Geral, escolhido na forma do § 1o deste artigo.\n\n§ 7o Os Superintendentes-Adjuntos serão indicados pelo Superintendente-Geral.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2012.%20O%20Cade%20ter%C3%A1%20em%20sua%20estrutura%20uma%20Superintend%C3%AAncia-Geral%2C%20com%201%20%28um%29%20Superintendente-Geral%20e%202%20%28dois%29%20Superintendentes-Adjuntos%2C%20cujas%20atribui%C3%A7%C3%B5es%20espec%C3%ADficas%20ser%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Compete à Superintendência-Geral:\n\nI - zelar pelo cumprimento desta Lei, monitorando e acompanhando as práticas de mercado;\n\nII - acompanhar, permanentemente, as atividades e práticas comerciais de pessoas físicas ou jurídicas que detiverem posição dominante em mercado relevante de bens ou serviços, para prevenir infrações da ordem econômica, podendo, para tanto, requisitar as informações e documentos necessários, mantendo o sigilo legal, quando for o caso;\n\nIII - promover, em face de indícios de infração da ordem econômica, procedimento preparatório de inquérito administrativo e inquérito administrativo para apuração de infrações à ordem econômica;\n\nIV - decidir pela insubsistência dos indícios, arquivando os autos do inquérito administrativo ou de seu procedimento preparatório;\n\nV - instaurar e instruir processo administrativo para imposição de sanções administrativas por infrações à ordem econômica, procedimento para apuração de ato de concentração, processo administrativo para análise de ato de concentração econômica e processo administrativo para imposição de sanções processuais incidentais instaurados para prevenção, apuração ou repressão de infrações à ordem econômica;\n\nVI - no interesse da instrução dos tipos processuais referidos nesta Lei:\n\na) requisitar informações e documentos de quaisquer pessoas, físicas ou jurídicas, órgãos, autoridades e entidades, públicas ou privadas, mantendo o sigilo legal, quando for o caso, bem como determinar as diligências que se fizerem necessárias ao exercício de suas funções;\n\nb) requisitar esclarecimentos orais de quaisquer pessoas, físicas ou jurídicas, órgãos, autoridades e entidades, públicas ou privadas, na forma desta Lei;\n\nc) realizar inspeção na sede social, estabelecimento, escritório, filial ou sucursal de empresa investigada, de estoques, objetos, papéis de qualquer natureza, assim como livros comerciais, computadores e arquivos eletrônicos, podendo-se extrair ou requisitar cópias de quaisquer documentos ou dados eletrônicos;\n\nd) requerer ao Poder Judiciário, por meio da Procuradoria Federal junto ao Cade, mandado de busca e apreensão de objetos, papéis de qualquer natureza, assim como de livros comerciais, computadores e arquivos magnéticos de empresa ou pessoa física, no interesse de inquérito administrativo ou de processo administrativo para imposição de sanções administrativas por infrações à ordem econômica, aplicando-se, no que couber, o disposto no art. 839 e seguintes da Lei no 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, sendo inexigível a propositura de ação principal;\n\ne) requisitar vista e cópia de documentos e objetos constantes de inquéritos e processos administrativos instaurados por órgãos ou entidades da administração pública federal;\n\nf) requerer vista e cópia de inquéritos policiais, ações judiciais de quaisquer natureza, bem como de inquéritos e processos administrativos instaurados por outros entes da federação, devendo o Conselho observar as mesmas restrições de sigilo eventualmente estabelecidas nos procedimentos de origem;\n\nVII - recorrer de ofício ao Tribunal quando decidir pelo arquivamento de processo administrativo para imposição de sanções administrativas por infrações à ordem econômica;\n\nVIII - remeter ao Tribunal, para julgamento, os processos administrativos que instaurar, quando entender configurada infração da ordem econômica;\n\nIX - propor termo de compromisso de cessação de prática por infração à ordem econômica, submetendo-o à aprovação do Tribunal, e fiscalizar o seu cumprimento;\n\nX - sugerir ao Tribunal condições para a celebração de acordo em controle de concentrações e fiscalizar o seu cumprimento;\n\nXI - adotar medidas preventivas que conduzam à cessação de prática que constitua infração da ordem econômica, fixando prazo para seu cumprimento e o valor da multa diária a ser aplicada, no caso de descumprimento;\n\nXII - receber, instruir e aprovar ou impugnar perante o Tribunal os processos administrativos para análise de ato de concentração econômica;\n\nXIII - orientar os órgãos e entidades da administração pública quanto à adoção de medidas necessárias ao cumprimento desta Lei;\n\nXIV - desenvolver estudos e pesquisas objetivando orientar a política de prevenção de infrações da ordem econômica;\n\nXV - instruir o público sobre as diversas formas de infração da ordem econômica e os modos de sua prevenção e repressão;\n\nXVI - exercer outras atribuições previstas em lei;\n\nXVII - prestar ao Poder Judiciário, sempre que solicitado, todas as informações sobre andamento das investigações, podendo, inclusive, fornecer cópias dos autos para instruir ações judiciais; e\n\nXVIII - adotar as medidas administrativas necessárias à execução e ao cumprimento das decisões do Plenário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2013.%20Compete%20%C3%A0%20Superintend%C3%AAncia-Geral%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. São atribuições do Superintendente-Geral:\n\nI - participar, quando entender necessário, sem direito a voto, das reuniões do Tribunal e proferir sustentação oral, na forma do regimento interno;\n\nII - cumprir e fazer cumprir as decisões do Tribunal na forma determinada pelo seu Presidente;\n\nIII - requerer à Procuradoria Federal junto ao Cade as providências judiciais relativas ao exercício das competências da Superintendência-Geral;\n\nIV - determinar ao Economista-Chefe a elaboração de estudos e pareceres;\n\nV - ordenar despesas referentes à unidade gestora da Superintendência-Geral; e\n\nVI - exercer outras atribuições previstas em lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2014.%20S%C3%A3o%20atribui%C3%A7%C3%B5es%20do%20Superintendente-Geral%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Funcionará junto ao Cade Procuradoria Federal Especializada, competindo-lhe:\n\nI - prestar consultoria e assessoramento jurídico ao Cade;\n\nII - representar o Cade judicial e extrajudicialmente;\n\nIII - promover a execução judicial das decisões e julgados do Cade;\n\nIV - proceder à apuração da liquidez dos créditos do Cade, inscrevendo-os em dívida ativa para fins de cobrança administrativa ou judicial;\n\nV - tomar as medidas judiciais solicitadas pelo Tribunal ou pela Superintendência-Geral, necessárias à cessação de infrações da ordem econômica ou à obtenção de documentos para a instrução de processos administrativos de qualquer natureza;\n\nVI - promover acordos judiciais nos processos relativos a infrações contra a ordem econômica, mediante autorização do Tribunal;\n\nVII - emitir, sempre que solicitado expressamente por Conselheiro ou pelo Superintendente-Geral, parecer nos processos de competência do Cade, sem que tal determinação implique a suspensão do prazo de análise ou prejuízo à tramitação normal do processo;\n\nVIII - zelar pelo cumprimento desta Lei; e\n\nIX - desincumbir-se das demais tarefas que lhe sejam atribuídas pelo regimento interno.\n\nParágrafo único. Compete à Procuradoria Federal junto ao Cade, ao dar execução judicial às decisões da Superintendência-Geral e do Tribunal, manter o Presidente do Tribunal, os Conselheiros e o Superintendente-Geral informados sobre o andamento das ações e medidas judiciais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2015.%20Funcionar%C3%A1%20junto%20ao%20Cade%20Procuradoria%20Federal%20Especializada%2C%20competindo-lhe%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. O Procurador-Chefe será nomeado pelo Presidente da República, depois de aprovado pelo Senado Federal, dentre cidadãos brasileiros com mais de 30 (trinta) anos de idade, de notório conhecimento jurídico e reputação ilibada.\n\n§ 1o O Procurador-Chefe terá mandato de 2 (dois) anos, permitida sua recondução para um único período.\n\n§ 2o O Procurador-Chefe poderá participar, sem direito a voto, das reuniões do Tribunal, prestando assistência e esclarecimentos, quando requisitado pelos Conselheiros, na forma do Regimento Interno do Tribunal.\n\n§ 3o Aplicam-se ao Procurador-Chefe as mesmas normas de impedimento aplicáveis aos Conselheiros do Tribunal, exceto quanto ao comparecimento às sessões.\n\n§ 4o Nos casos de faltas, afastamento temporário ou impedimento do Procurador-Chefe, o Plenário indicará e o Presidente do Tribunal designará o substituto eventual dentre os integrantes da Procuradoria Federal Especializada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2016.%20O%20Procurador-Chefe%20ser%C3%A1%20nomeado%20pelo%20Presidente%20da%20Rep%C3%BAblica%2C%20depois%20de%20aprovado%20pelo%20Senado%20Federal%2C%20dentre%20cidad%C3%A3os%20brasileiros%20com%20mais%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. O Cade terá um Departamento de Estudos Econômicos, dirigido por um Economista-Chefe, a quem incumbirá elaborar estudos e pareceres econômicos, de ofício ou por solicitação do Plenário, do Presidente, do Conselheiro-Relator ou do Superintendente-Geral, zelando pelo rigor e atualização técnica e científica das decisões do órgão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2017.%20O%20Cade%20ter%C3%A1%20um%20Departamento%20de%20Estudos%20Econ%C3%B4micos%2C%20dirigido%20por%20um%20Economista-Chefe%2C%20a%20quem%20incumbir%C3%A1%20elaborar%20estudos%20e%20pareceres%20econ%C3%B4micos%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. O Economista-Chefe será nomeado, conjuntamente, pelo Superintendente-Geral e pelo Presidente do Tribunal, dentre brasileiros de ilibada reputação e notório conhecimento econômico.\n\n§ 1o O Economista-Chefe poderá participar das reuniões do Tribunal, sem direito a voto.\n\n§ 2o Aplicam-se ao Economista-Chefe as mesmas normas de impedimento aplicáveis aos Conselheiros do Tribunal, exceto quanto ao comparecimento às sessões.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2018.%20O%20Economista-Chefe%20ser%C3%A1%20nomeado%2C%20conjuntamente%2C%20pelo%20Superintendente-Geral%20e%20pelo%20Presidente%20do%20Tribunal%2C%20dentre%20brasileiros%20de%20ilibada%20reputa%C3%A7%C3%A3o%20e%20not%C3%B3rio%20conhecimento",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Compete à Secretaria de Acompanhamento Econômico promover a concorrência em órgãos de governo e perante a sociedade cabendo-lhe, especialmente, o seguinte:\n\nI - opinar, nos aspectos referentes à promoção da concorrência, sobre propostas de alterações de atos normativos de interesse geral dos agentes econômicos, de consumidores ou usuários dos serviços prestados submetidos a consulta pública pelas agências reguladoras e, quando entender pertinente, sobre os pedidos de revisão de tarifas e as minutas;\n\nII - opinar, quando considerar pertinente, sobre minutas de atos normativos elaborados por qualquer entidade pública ou privada submetidos à consulta pública, nos aspectos referentes à promoção da concorrência;\n\nIII - opinar, quando considerar pertinente, sobre proposições legislativas em tramitação no Congresso Nacional, nos aspectos referentes à promoção da concorrência;\n\nIV - elaborar estudos avaliando a situação concorrencial de setores específicos da atividade econômica nacional, de ofício ou quando solicitada pelo Cade, pela Câmara de Comércio Exterior ou pelo Departamento de Proteção e Defesa do Consumidor do Ministério da Justiça ou órgão que vier a sucedê-lo;\n\nV - elaborar estudos setoriais que sirvam de insumo para a participação do Ministério da Fazenda na formulação de políticas públicas setoriais nos fóruns em que este Ministério tem assento;\n\nVI - propor a revisão de leis, regulamentos e outros atos normativos da administração pública federal, estadual, municipal e do Distrito Federal que afetem ou possam afetar a concorrência nos diversos setores econômicos do País;\n\nVII - manifestar-se, de ofício ou quando solicitada, a respeito do impacto concorrencial de medidas em discussão no âmbito de fóruns negociadores relativos às atividades de alteração tarifária, ao acesso a mercados e à defesa comercial, ressalvadas as competências dos órgãos envolvidos;\n\nVIII - encaminhar ao órgão competente representação para que este, a seu critério, adote as medidas legais cabíveis, sempre que for identificado ato normativo que tenha caráter anticompetitivo.\n\n§ 1o Para o cumprimento de suas atribuições, a Secretaria de Acompanhamento Econômico poderá:\n\nI - requisitar informações e documentos de quaisquer pessoas, órgãos, autoridades e entidades, públicas ou privadas, mantendo o sigilo legal quando for o caso;\n\nII - celebrar acordos e convênios com órgãos ou entidades públicas ou privadas, federais, estaduais, municipais, do Distrito Federal e dos Territórios para avaliar e/ou sugerir medidas relacionadas à promoção da concorrência.\n\n§ 2o A Secretaria de Acompanhamento Econômico divulgará anualmente relatório de suas ações voltadas para a promoção da concorrência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2019.%20Compete%20%C3%A0%20Secretaria%20de%20Acompanhamento%20Econ%C3%B4mico%20promover%20a%20concorr%C3%AAncia%20em%20%C3%B3rg%C3%A3os%20de%20governo%20e%20perante%20a%20sociedade%20cabendo-lhe%2C%20especialmente%2C%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. O Procurador-Geral da República, ouvido o Conselho Superior, designará membro do Ministério Público Federal para, nesta qualidade, emitir parecer, nos processos administrativos para imposição de sanções administrativas por infrações à ordem econômica, de ofício ou a requerimento do Conselheiro-Relator.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2020.%20O%20Procurador-Geral%20da%20Rep%C3%BAblica%2C%20ouvido%20o%20Conselho%20Superior%2C%20designar%C3%A1%20membro%20do%20Minist%C3%A9rio%20P%C3%BAblico%20Federal%20para%2C%20nesta%20qualidade%2C%20emitir%20parecer%2C%20nos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Compete ao Presidente do Tribunal orientar, coordenar e supervisionar as atividades administrativas do Cade, respeitadas as atribuições dos dirigentes dos demais órgãos previstos no art. 5o desta Lei.\n\n§ 1o A Superintendência-Geral constituirá unidade gestora, para fins administrativos e financeiros, competindo ao seu Superintendente-Geral ordenar as despesas pertinentes às respectivas ações orçamentárias.\n\n§ 2o Para fins administrativos e financeiros, o Departamento de Estudos Econômicos estará ligado ao Tribunal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2021.%20Compete%20ao%20Presidente%20do%20Tribunal%20orientar%2C%20coordenar%20e%20supervisionar%20as%20atividades%20administrativas%20do%20Cade%2C%20respeitadas%20as%20atribui%C3%A7%C3%B5es%20dos%20dirigentes%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Anualmente, o Presidente do Tribunal, ouvido o Superintendente-Geral, encaminhará ao Poder Executivo a proposta de orçamento do Cade e a lotação ideal do pessoal que prestará serviço àquela autarquia.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2022.%20Anualmente%2C%20o%20Presidente%20do%20Tribunal%2C%20ouvido%20o%20Superintendente-Geral%2C%20encaminhar%C3%A1%20ao%20Poder%20Executivo%20a%20proposta%20de%20or%C3%A7amento%20do%20Cade%20e%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Ficam instituídas as taxas processuais sobre os processos de competência do Cade, no valor de R$ 45.000,00 (quarenta e cinco mil reais), que têm como fato gerador a apresentação dos atos previstos no art. 88 desta Lei e no valor de R$ 15.000,00 (quinze mil reais) para processos que têm como fato gerador a apresentação de consultas de que trata o § 4o do art. 9o desta Lei. (Vide Medida Provisória nº 687, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2023.%20Ficam%20institu%C3%ADdas%20as%20taxas%20processuais%20sobre%20os%20processos%20de%20compet%C3%AAncia%20do%20Cade%2C%20no%20valor%20de%20R%24%2045.000%2C00%20%28quarenta%20e%20cinco",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. São contribuintes da taxa processual que tem como fato gerador a apresentação dos atos previstos no art. 88 desta Lei qualquer das requerentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2024.%20S%C3%A3o%20contribuintes%20da%20taxa%20processual%20que%20tem%20como%20fato%20gerador%20a%20apresenta%C3%A7%C3%A3o%20dos%20atos%20previstos%20no%20art.%2088%20desta%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. O recolhimento da taxa processual que tem como fato gerador a apresentação dos atos previstos no art. 88 desta Lei deverá ser comprovado no momento da protocolização do ato.\n\n§ 1o A taxa processual não recolhida no momento fixado no caput deste artigo será cobrada com os seguintes acréscimos:\n\nI - juros de mora, contados do mês seguinte ao do vencimento, à razão de 1% (um por cento), calculados na forma da legislação aplicável aos tributos federais;\n\nII - multa de mora de 20% (vinte por cento).\n\n§ 2o Os juros de mora não incidem sobre o valor da multa de mora.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2025.%20O%20recolhimento%20da%20taxa%20processual%20que%20tem%20como%20fato%20gerador%20a%20apresenta%C3%A7%C3%A3o%20dos%20atos%20previstos%20no%20art.%2088%20desta%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2026.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. As taxas de que tratam os arts. 23 e 26 desta Lei serão recolhidas ao Tesouro Nacional na forma regulamentada pelo Poder Executivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2027.%20As%20taxas%20de%20que%20tratam%20os%20arts.%2023%20e%2026%20desta%20Lei%20ser%C3%A3o%20recolhidas%20ao%20Tesouro%20Nacional%20na%20forma%20regulamentada",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Constituem receitas próprias do Cade:\n\nI - o produto resultante da arrecadação das taxas previstas nos arts. 23 e 26 desta Lei;\n\nII - a retribuição por serviços de qualquer natureza prestados a terceiros;\n\nIII - as dotações consignadas no Orçamento Geral da União, créditos especiais, créditos adicionais, transferências e repasses que lhe forem conferidos;\n\nIV - os recursos provenientes de convênios, acordos ou contratos celebrados com entidades ou organismos nacionais e internacionais;\n\nV - as doações, legados, subvenções e outros recursos que lhe forem destinados;\n\nVI - os valores apurados na venda ou aluguel de bens móveis e imóveis de sua propriedade;\n\nVII - o produto da venda de publicações, material técnico, dados e informações;\n\nVIII - os valores apurados em aplicações no mercado financeiro das receitas previstas neste artigo, na forma definida pelo Poder Executivo; e\n\nIX - quaisquer outras receitas, afetas às suas atividades, não especificadas nos incisos I a VIII do caput deste artigo.\n\n§ 1o (VETADO).\n\n§ 2o (VETADO).\n\n§ 3o O produto da arrecadação das multas aplicadas pelo Cade, inscritas ou não em dívida ativa, será destinado ao Fundo de Defesa de Direitos Difusos de que trata o art. 13 da Lei no 7.347, de 24 de julho de 1985, e a Lei no 9.008, de 21 de março de 1995.\n\n§ 4o As multas arrecadadas na forma desta Lei serão recolhidas ao Tesouro Nacional na forma regulamentada pelo Poder Executivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2028.%20Constituem%20receitas%20pr%C3%B3prias%20do%20Cade%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. O Cade submeterá anualmente ao Ministério da Justiça a sua proposta de orçamento, que será encaminhada ao Ministério do Planejamento, Orçamento e Gestão para inclusão na lei orçamentária anual, a que se refere o § 5o do art. 165 da Constituição Federal.\n\n§ 1o O Cade fará acompanhar as propostas orçamentárias de quadro demonstrativo do planejamento plurianual das receitas e despesas, visando ao seu equilíbrio orçamentário e financeiro nos 5 (cinco) exercícios subsequentes.\n\n§ 2o A lei orçamentária anual consignará as dotações para as despesas de custeio e capital do Cade, relativas ao exercício a que ela se referir.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2029.%20O%20Cade%20submeter%C3%A1%20anualmente%20ao%20Minist%C3%A9rio%20da%20Justi%C3%A7a%20a%20sua%20proposta%20de%20or%C3%A7amento%2C%20que%20ser%C3%A1%20encaminhada%20ao%20Minist%C3%A9rio%20do%20Planejamento%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Somam-se ao atual patrimônio do Cade os bens e direitos pertencentes ao Ministério da Justiça atualmente afetados às atividades do Departamento de Proteção e Defesa Econômica da Secretaria de Direito Econômico.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2030.%20Somam-se%20ao%20atual%20patrim%C3%B4nio%20do%20Cade%20os%20bens%20e%20direitos%20pertencentes%20ao%20Minist%C3%A9rio%20da%20Justi%C3%A7a%20atualmente%20afetados%20%C3%A0s%20atividades%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Esta Lei aplica-se às pessoas físicas ou jurídicas de direito público ou privado, bem como a quaisquer associações de entidades ou pessoas, constituídas de fato ou de direito, ainda que temporariamente, com ou sem personalidade jurídica, mesmo que exerçam atividade sob regime de monopólio legal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2031.%20Esta%20Lei%20aplica-se%20%C3%A0s%20pessoas%20f%C3%ADsicas%20ou%20jur%C3%ADdicas%20de%20direito%20p%C3%BAblico%20ou%20privado%2C%20bem%20como%20a%20quaisquer%20associa%C3%A7%C3%B5es%20de%20entidades",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. As diversas formas de infração da ordem econômica implicam a responsabilidade da empresa e a responsabilidade individual de seus dirigentes ou administradores, solidariamente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2032.%20As%20diversas%20formas%20de%20infra%C3%A7%C3%A3o%20da%20ordem%20econ%C3%B4mica%20implicam%20a%20responsabilidade%20da%20empresa%20e%20a%20responsabilidade%20individual%20de%20seus%20dirigentes",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Serão solidariamente responsáveis as empresas ou entidades integrantes de grupo econômico, de fato ou de direito, quando pelo menos uma delas praticar infração à ordem econômica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2033.%20Ser%C3%A3o%20solidariamente%20respons%C3%A1veis%20as%20empresas%20ou%20entidades%20integrantes%20de%20grupo%20econ%C3%B4mico%2C%20de%20fato%20ou%20de%20direito%2C%20quando%20pelo%20menos%20uma",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. A personalidade jurídica do responsável por infração da ordem econômica poderá ser desconsiderada quando houver da parte deste abuso de direito, excesso de poder, infração da lei, fato ou ato ilícito ou violação dos estatutos ou contrato social.\n\nParágrafo único. A desconsideração também será efetivada quando houver falência, estado de insolvência, encerramento ou inatividade da pessoa jurídica provocados por má administração.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2034.%20A%20personalidade%20jur%C3%ADdica%20do%20respons%C3%A1vel%20por%20infra%C3%A7%C3%A3o%20da%20ordem%20econ%C3%B4mica%20poder%C3%A1%20ser%20desconsiderada%20quando%20houver%20da%20parte%20deste%20abuso%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. A repressão das infrações da ordem econômica não exclui a punição de outros ilícitos previstos em lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2035.%20A%20repress%C3%A3o%20das%20infra%C3%A7%C3%B5es%20da%20ordem%20econ%C3%B4mica%20n%C3%A3o%20exclui%20a%20puni%C3%A7%C3%A3o%20de%20outros%20il%C3%ADcitos%20previstos%20em%20lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Constituem infração da ordem econômica, independentemente de culpa, os atos sob qualquer forma manifestados, que tenham por objeto ou possam produzir os seguintes efeitos, ainda que não sejam alcançados:\n\nI - limitar, falsear ou de qualquer forma prejudicar a livre concorrência ou a livre iniciativa;\n\nII - dominar mercado relevante de bens ou serviços;\n\nIII - aumentar arbitrariamente os lucros; e\n\nIV - exercer de forma abusiva posição dominante.\n\n§ 1o A conquista de mercado resultante de processo natural fundado na maior eficiência de agente econômico em relação a seus competidores não caracteriza o ilícito previsto no inciso II do caput deste artigo.\n\n§ 2o Presume-se posição dominante sempre que uma empresa ou grupo de empresas for capaz de alterar unilateral ou coordenadamente as condições de mercado ou quando controlar 20% (vinte por cento) ou mais do mercado relevante, podendo este percentual ser alterado pelo Cade para setores específicos da economia.\n\n§ 3o As seguintes condutas, além de outras, na medida em que configurem hipótese prevista no caput deste artigo e seus incisos, caracterizam infração da ordem econômica:\n\nI - acordar, combinar, manipular ou ajustar com concorrente, sob qualquer forma:\n\na) os preços de bens ou serviços ofertados individualmente;\n\nb) a produção ou a comercialização de uma quantidade restrita ou limitada de bens ou a prestação de um número, volume ou frequência restrita ou limitada de serviços;\n\nc) a divisão de partes ou segmentos de um mercado atual ou potencial de bens ou serviços, mediante, dentre outros, a distribuição de clientes, fornecedores, regiões ou períodos;\n\nd) preços, condições, vantagens ou abstenção em licitação pública;\n\nII - promover, obter ou influenciar a adoção de conduta comercial uniforme ou concertada entre concorrentes;\n\nIII - limitar ou impedir o acesso de novas empresas ao mercado;\n\nIV - criar dificuldades à constituição, ao funcionamento ou ao desenvolvimento de empresa concorrente ou de fornecedor, adquirente ou financiador de bens ou serviços;\n\nV - impedir o acesso de concorrente às fontes de insumo, matérias-primas, equipamentos ou tecnologia, bem como aos canais de distribuição;\n\nVI - exigir ou conceder exclusividade para divulgação de publicidade nos meios de comunicação de massa;\n\nVII - utilizar meios enganosos para provocar a oscilação de preços de terceiros;\n\nVIII - regular mercados de bens ou serviços, estabelecendo acordos para limitar ou controlar a pesquisa e o desenvolvimento tecnológico, a produção de bens ou prestação de serviços, ou para dificultar investimentos destinados à produção de bens ou serviços ou à sua distribuição;\n\nIX - impor, no comércio de bens ou serviços, a distribuidores, varejistas e representantes preços de revenda, descontos, condições de pagamento, quantidades mínimas ou máximas, margem de lucro ou quaisquer outras condições de comercialização relativos a negócios destes com terceiros;\n\nX - discriminar adquirentes ou fornecedores de bens ou serviços por meio da fixação diferenciada de preços, ou de condições operacionais de venda ou prestação de serviços;\n\nXI - recusar a venda de bens ou a prestação de serviços, dentro das condições de pagamento normais aos usos e costumes comerciais;\n\nXII - dificultar ou romper a continuidade ou desenvolvimento de relações comerciais de prazo indeterminado em razão de recusa da outra parte em submeter-se a cláusulas e condições comerciais injustificáveis ou anticoncorrenciais;\n\nXIII - destruir, inutilizar ou açambarcar matérias-primas, produtos intermediários ou acabados, assim como destruir, inutilizar ou dificultar a operação de equipamentos destinados a produzi-los, distribuí-los ou transportá-los;\n\nXIV - açambarcar ou impedir a exploração de direitos de propriedade industrial ou intelectual ou de tecnologia;\n\nXV - vender mercadoria ou prestar serviços injustificadamente abaixo do preço de custo;\n\nXVI - reter bens de produção ou de consumo, exceto para garantir a cobertura dos custos de produção;\n\nXVII - cessar parcial ou totalmente as atividades da empresa sem justa causa comprovada;\n\nXVIII - subordinar a venda de um bem à aquisição de outro ou à utilização de um serviço, ou subordinar a prestação de um serviço à utilização de outro ou à aquisição de um bem; e\n\nXIX - exercer ou explorar abusivamente direitos de propriedade industrial, intelectual, tecnologia ou marca.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2036.%20Constituem%20infra%C3%A7%C3%A3o%20da%20ordem%20econ%C3%B4mica%2C%20independentemente%20de%20culpa%2C%20os%20atos%20sob%20qualquer%20forma%20manifestados%2C%20que%20tenham%20por%20objeto%20ou%20possam",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. A prática de infração da ordem econômica sujeita os responsáveis às seguintes penas:\n\nI - no caso de empresa, multa de 0,1% (um décimo por cento) a 20% (vinte por cento) do valor do faturamento bruto da empresa, grupo ou conglomerado obtido, no último exercício anterior à instauração do processo administrativo, no ramo de atividade empresarial em que ocorreu a infração, a qual nunca será inferior à vantagem auferida, quando for possível sua estimação;\n\nII - no caso das demais pessoas físicas ou jurídicas de direito público ou privado, bem como quaisquer associações de entidades ou pessoas constituídas de fato ou de direito, ainda que temporariamente, com ou sem personalidade jurídica, que não exerçam atividade empresarial, não sendo possível utilizar-se o critério do valor do faturamento bruto, a multa será entre R$ 50.000,00 (cinquenta mil reais) e R$ 2.000.000.000,00 (dois bilhões de reais);\n\nIII - no caso de administrador, direta ou indiretamente responsável pela infração cometida, quando comprovada a sua culpa ou dolo, multa de 1% (um por cento) a 20% (vinte por cento) daquela aplicada à empresa, no caso previsto no inciso I do caput deste artigo, ou às pessoas jurídicas ou entidades, nos casos previstos no inciso II do caput deste artigo.\n\n§ 1o Em caso de reincidência, as multas cominadas serão aplicadas em dobro.\n\n§ 2o No cálculo do valor da multa de que trata o inciso I do caput deste artigo, o Cade poderá considerar o faturamento total da empresa ou grupo de empresas, quando não dispuser do valor do faturamento no ramo de atividade empresarial em que ocorreu a infração, definido pelo Cade, ou quando este for apresentado de forma incompleta e/ou não demonstrado de forma inequívoca e idônea.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2037.%20A%20pr%C3%A1tica%20de%20infra%C3%A7%C3%A3o%20da%20ordem%20econ%C3%B4mica%20sujeita%20os%20respons%C3%A1veis%20%C3%A0s%20seguintes%20penas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Sem prejuízo das penas cominadas no art. 37 desta Lei, quando assim exigir a gravidade dos fatos ou o interesse público geral, poderão ser impostas as seguintes penas, isolada ou cumulativamente:\n\nI - a publicação, em meia página e a expensas do infrator, em jornal indicado na decisão, de extrato da decisão condenatória, por 2 (dois) dias seguidos, de 1 (uma) a 3 (três) semanas consecutivas;\n\nII - a proibição de contratar com instituições financeiras oficiais e participar de licitação tendo por objeto aquisições, alienações, realização de obras e serviços, concessão de serviços públicos, na administração pública federal, estadual, municipal e do Distrito Federal, bem como em entidades da administração indireta, por prazo não inferior a 5 (cinco) anos;\n\nIII - a inscrição do infrator no Cadastro Nacional de Defesa do Consumidor;\n\nIV - a recomendação aos órgãos públicos competentes para que:\n\na) seja concedida licença compulsória de direito de propriedade intelectual de titularidade do infrator, quando a infração estiver relacionada ao uso desse direito;\n\nb) não seja concedido ao infrator parcelamento de tributos federais por ele devidos ou para que sejam cancelados, no todo ou em parte, incentivos fiscais ou subsídios públicos;\n\nV - a cisão de sociedade, transferência de controle societário, venda de ativos ou cessação parcial de atividade;\n\nVI - a proibição de exercer o comércio em nome próprio ou como representante de pessoa jurídica, pelo prazo de até 5 (cinco) anos; e\n\nVII - qualquer outro ato ou providência necessários para a eliminação dos efeitos nocivos à ordem econômica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2038.%20Sem%20preju%C3%ADzo%20das%20penas%20cominadas%20no%20art.%2037%20desta%20Lei%2C%20quando%20assim%20exigir%20a%20gravidade%20dos%20fatos%20ou%20o%20interesse",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. Pela continuidade de atos ou situações que configurem infração da ordem econômica, após decisão do Tribunal determinando sua cessação, bem como pelo não cumprimento de obrigações de fazer ou não fazer impostas, ou pelo descumprimento de medida preventiva ou termo de compromisso de cessação previstos nesta Lei, o responsável fica sujeito a multa diária fixada em valor de R$ 5.000,00 (cinco mil reais), podendo ser aumentada em até 50 (cinquenta) vezes, se assim recomendar a situação econômica do infrator e a gravidade da infração.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2039.%20Pela%20continuidade%20de%20atos%20ou%20situa%C3%A7%C3%B5es%20que%20configurem%20infra%C3%A7%C3%A3o%20da%20ordem%20econ%C3%B4mica%2C%20ap%C3%B3s%20decis%C3%A3o%20do%20Tribunal%20determinando%20sua%20cessa%C3%A7%C3%A3o%2C%20bem",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. A recusa, omissão ou retardamento injustificado de informação ou documentos solicitados pelo Cade ou pela Secretaria de Acompanhamento Econômico constitui infração punível com multa diária de R$ 5.000,00 (cinco mil reais), podendo ser aumentada em até 20 (vinte) vezes, se necessário para garantir sua eficácia, em razão da situação econômica do infrator.\n\n§ 1o O montante fixado para a multa diária de que trata o caput deste artigo constará do documento que contiver a requisição da autoridade competente.\n\n§ 2o Compete à autoridade requisitante a aplicação da multa prevista no caput deste artigo.\n\n§ 3o Tratando-se de empresa estrangeira, responde solidariamente pelo pagamento da multa de que trata o caput sua filial, sucursal, escritório ou estabelecimento situado no País.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2040.%20A%20recusa%2C%20omiss%C3%A3o%20ou%20retardamento%20injustificado%20de%20informa%C3%A7%C3%A3o%20ou%20documentos%20solicitados%20pelo%20Cade%20ou%20pela%20Secretaria%20de%20Acompanhamento%20Econ%C3%B4mico%20constitui",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. A falta injustificada do representado ou de terceiros, quando intimados para prestar esclarecimentos, no curso de inquérito ou processo administrativo, sujeitará o faltante à multa de R$ 500,00 (quinhentos reais) a R$ 15.000,00 (quinze mil reais) para cada falta, aplicada conforme sua situação econômica.\n\nParágrafo único. A multa a que se refere o caput deste artigo será aplicada mediante auto de infração pela autoridade competente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2041.%20A%20falta%20injustificada%20do%20representado%20ou%20de%20terceiros%2C%20quando%20intimados%20para%20prestar%20esclarecimentos%2C%20no%20curso%20de%20inqu%C3%A9rito%20ou%20processo%20administrativo%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. Impedir, obstruir ou de qualquer outra forma dificultar a realização de inspeção autorizada pelo Plenário do Tribunal, pelo Conselheiro-Relator ou pela Superintendência-Geral no curso de procedimento preparatório, inquérito administrativo, processo administrativo ou qualquer outro procedimento sujeitará o inspecionado ao pagamento de multa de R$ 20.000,00 (vinte mil reais) a R$ 400.000,00 (quatrocentos mil reais), conforme a situação econômica do infrator, mediante a lavratura de auto de infração pelo órgão competente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2042.%20Impedir%2C%20obstruir%20ou%20de%20qualquer%20outra%20forma%20dificultar%20a%20realiza%C3%A7%C3%A3o%20de%20inspe%C3%A7%C3%A3o%20autorizada%20pelo%20Plen%C3%A1rio%20do%20Tribunal%2C%20pelo%20Conselheiro-Relator%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. A enganosidade ou a falsidade de informações, de documentos ou de declarações prestadas por qualquer pessoa ao Cade ou à Secretaria de Acompanhamento Econômico será punível com multa pecuniária no valor de R$ 5.000,00 (cinco mil reais) a R$ 5.000.000,00 (cinco milhões de reais), de acordo com a gravidade dos fatos e a situação econômica do infrator, sem prejuízo das demais cominações legais cabíveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2043.%20A%20enganosidade%20ou%20a%20falsidade%20de%20informa%C3%A7%C3%B5es%2C%20de%20documentos%20ou%20de%20declara%C3%A7%C3%B5es%20prestadas%20por%20qualquer%20pessoa%20ao%20Cade%20ou%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. Aquele que prestar serviços ao Cade ou a Seae, a qualquer título, e que der causa, mesmo que por mera culpa, à disseminação indevida de informação acerca de empresa, coberta por sigilo, será punível com multa pecuniária de R$ 1.000,00 (mil reais) a R$ 20.000,00 (vinte mil reais), sem prejuízo de abertura de outros procedimentos cabíveis.\n\n§ 1o Se o autor da disseminação indevida estiver servindo o Cade em virtude de mandato, ou na qualidade de Procurador Federal ou Economista-Chefe, a multa será em dobro.\n\n§ 2o O Regulamento definirá o procedimento para que uma informação seja tida como sigilosa, no âmbito do Cade e da Seae.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2044.%20Aquele%20que%20prestar%20servi%C3%A7os%20ao%20Cade%20ou%20a%20Seae%2C%20a%20qualquer%20t%C3%ADtulo%2C%20e%20que%20der%20causa%2C%20mesmo%20que%20por%20mera",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. Na aplicação das penas estabelecidas nesta Lei, levar-se-á em consideração:\n\nI - a gravidade da infração;\n\nII - a boa-fé do infrator;\n\nIII - a vantagem auferida ou pretendida pelo infrator;\n\nIV - a consumação ou não da infração;\n\nV - o grau de lesão, ou perigo de lesão, à livre concorrência, à economia nacional, aos consumidores, ou a terceiros;\n\nVI - os efeitos econômicos negativos produzidos no mercado;\n\nVII - a situação econômica do infrator; e\n\nVIII - a reincidência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2045.%20Na%20aplica%C3%A7%C3%A3o%20das%20penas%20estabelecidas%20nesta%20Lei%2C%20levar-se-%C3%A1%20em%20considera%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. Prescrevem em 5 (cinco) anos as ações punitivas da administração pública federal, direta e indireta, objetivando apurar infrações da ordem econômica, contados da data da prática do ilícito ou, no caso de infração permanente ou continuada, do dia em que tiver cessada a prática do ilícito.\n\n§ 1o Interrompe a prescrição qualquer ato administrativo ou judicial que tenha por objeto a apuração da infração contra a ordem econômica mencionada no caput deste artigo, bem como a notificação ou a intimação da investigada.\n\n§ 2o Suspende-se a prescrição durante a vigência do compromisso de cessação ou do acordo em controle de concentrações.\n\n§ 3o Incide a prescrição no procedimento administrativo paralisado por mais de 3 (três) anos, pendente de julgamento ou despacho, cujos autos serão arquivados de ofício ou mediante requerimento da parte interessada, sem prejuízo da apuração da responsabilidade funcional decorrente da paralisação, se for o caso.\n\n§ 4o Quando o fato objeto da ação punitiva da administração também constituir crime, a prescrição reger-se-á pelo prazo previsto na lei penal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2046.%20Prescrevem%20em%205%20%28cinco%29%20anos%20as%20a%C3%A7%C3%B5es%20punitivas%20da%20administra%C3%A7%C3%A3o%20p%C3%BAblica%20federal%2C%20direta%20e%20indireta%2C%20objetivando%20apurar%20infra%C3%A7%C3%B5es%20da%20ordem",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "46-A"
+    },
+    "46-A": {
+      "numero": "46-A",
+      "texto": "Art. 46-A. Quando a ação de indenização por perdas e danos originar-se do direito previsto no art. 47 desta Lei, não correrá a prescrição durante o curso do inquérito ou do processo administrativo no âmbito do Cade. (Incluído pela Lei nº 14.470,de 2022)\n\n§ 1º Prescreve em 5 (cinco) anos a pretensão à reparação pelos danos causados pelas infrações à ordem econômica previstas no art. 36 desta Lei, iniciando-se sua contagem a partir da ciência inequívoca do ilícito. (Incluído pela Lei nº 14.470,de 2022)\n\n§ 2º Considera-se ocorrida a ciência inequívoca do ilícito por ocasião da publicação do julgamento final do processo administrativo pelo Cade. (Incluído pela Lei nº 14.470,de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2046-A.%20Quando%20a%20a%C3%A7%C3%A3o%20de%20indeniza%C3%A7%C3%A3o%20por%20perdas%20e%20danos%20originar-se%20do%20direito%20previsto%20no%20art.%2047%20desta%20Lei%2C%20n%C3%A3o%20correr%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Os prejudicados, por si ou pelos legitimados referidos no art. 82 da Lei no 8.078, de 11 de setembro de 1990, poderão ingressar em juízo para, em defesa de seus interesses individuais ou individuais homogêneos, obter a cessação de práticas que constituam infração da ordem econômica, bem como o recebimento de indenização por perdas e danos sofridos, independentemente do inquérito ou processo administrativo, que não será suspenso em virtude do ajuizamento de ação.\n\n§ 1º Os prejudicados terão direito a ressarcimento em dobro pelos prejuízos sofridos em razão de infrações à ordem econômica previstas nos incisos I e II do § 3º do art. 36 desta Lei, sem prejuízo das sanções aplicadas nas esferas administrativa e penal. (Incluído pela Lei nº 14.470,de 2022)\n\n§ 2º Não se aplica o disposto no § 1º deste artigo aos coautores de infração à ordem econômica que tenham celebrado acordo de leniência ou termo de compromisso de cessação de prática cujo cumprimento tenha sido declarado pelo Cade, os quais responderão somente pelos prejuízos causados aos prejudicados. (Incluído pela Lei nº 14.470,de 2022)\n\n§ 3º Os signatários do acordo de leniência e do termo de compromisso de cessação de prática são responsáveis apenas pelo dano que causaram aos prejudicados, não incidindo sobre eles responsabilidade solidária pelos danos causados pelos demais autores da infração à ordem econômica. (Incluído pela Lei nº 14.470,de 2022)\n\n§ 4º Não se presume o repasse de sobrepreço nos casos das infrações à ordem econômica previstas nos incisos I e II do § 3º do art. 36 desta Lei, cabendo a prova ao réu que o alegar. (Incluído pela Lei nº 14.470,de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2047.%20Os%20prejudicados%2C%20por%20si%20ou%20pelos%20legitimados%20referidos%20no%20art.%2082%20da%20Lei%20no%208.078%2C%20de%2011%20de%20setembro%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46-A",
+      "next": "47-A"
+    },
+    "47-A": {
+      "numero": "47-A",
+      "texto": "Art. 47-A. A decisão do Plenário do Tribunal referida no art. 93 desta Lei é apta a fundamentar a concessão de tutela da evidência, permitindo ao juiz decidir liminarmente nas ações previstas no art. 47 desta Lei. (Incluído pela Lei nº 14.470,de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2047-A.%20A%20decis%C3%A3o%20do%20Plen%C3%A1rio%20do%20Tribunal%20referida%20no%20art.%2093%20desta%20Lei%20%C3%A9%20apta%20a%20fundamentar%20a%20concess%C3%A3o%20de%20tutela",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. Esta Lei regula os seguintes procedimentos administrativos instaurados para prevenção, apuração e repressão de infrações à ordem econômica:\n\nI - procedimento preparatório de inquérito administrativo para apuração de infrações à ordem econômica;\n\nII - inquérito administrativo para apuração de infrações à ordem econômica;\n\nIII - processo administrativo para imposição de sanções administrativas por infrações à ordem econômica;\n\nIV - processo administrativo para análise de ato de concentração econômica;\n\nV - procedimento administrativo para apuração de ato de concentração econômica; e\n\nVI - processo administrativo para imposição de sanções processuais incidentais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2048.%20Esta%20Lei%20regula%20os%20seguintes%20procedimentos%20administrativos%20instaurados%20para%20preven%C3%A7%C3%A3o%2C%20apura%C3%A7%C3%A3o%20e%20repress%C3%A3o%20de%20infra%C3%A7%C3%B5es%20%C3%A0%20ordem%20econ%C3%B4mica%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47-A",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. O Tribunal e a Superintendência-Geral assegurarão nos procedimentos previstos nos incisos II, III, IV e VI do caput do art. 48 desta Lei o tratamento sigiloso de documentos, informações e atos processuais necessários à elucidação dos fatos ou exigidos pelo interesse da sociedade.\n\nParágrafo único. As partes poderão requerer tratamento sigiloso de documentos ou informações, no tempo e modo definidos no regimento interno.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2049.%20O%20Tribunal%20e%20a%20Superintend%C3%AAncia-Geral%20assegurar%C3%A3o%20nos%20procedimentos%20previstos%20nos%20incisos%20II%2C%20III%2C%20IV%20e%20VI%20do%20caput%20do%20art.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. A Superintendência-Geral ou o Conselheiro-Relator poderá admitir a intervenção no processo administrativo de:\n\nI - terceiros titulares de direitos ou interesses que possam ser afetados pela decisão a ser adotada; ou\n\nII - legitimados à propositura de ação civil pública pelos incisos III e IV do art. 82 da Lei nº 8.078, de 11 de setembro de 1990.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2050.%20A%20Superintend%C3%AAncia-Geral%20ou%20o%20Conselheiro-Relator%20poder%C3%A1%20admitir%20a%20interven%C3%A7%C3%A3o%20no%20processo%20administrativo%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. Na tramitação dos processos no Cade, serão observadas as seguintes disposições, além daquelas previstas no regimento interno:\n\nI - os atos de concentração terão prioridade sobre o julgamento de outras matérias;\n\nII - a sessão de julgamento do Tribunal é pública, salvo nos casos em que for determinado tratamento sigiloso ao processo, ocasião em que as sessões serão reservadas;\n\nIII - nas sessões de julgamento do Tribunal, poderão o Superintendente-Geral, o Economista-Chefe, o Procurador-Chefe e as partes do processo requerer a palavra, que lhes será concedida, nessa ordem, nas condições e no prazo definido pelo regimento interno, a fim de sustentarem oralmente suas razões perante o Tribunal;\n\nIV - a pauta das sessões de julgamento será definida pelo Presidente, que determinará sua publicação, com pelo menos 120 (cento e vinte) horas de antecedência; e\n\nV - os atos e termos a serem praticados nos autos dos procedimentos enumerados no art. 48 desta Lei poderão ser encaminhados de forma eletrônica ou apresentados em meio magnético ou equivalente, nos termos das normas do Cade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2051.%20Na%20tramita%C3%A7%C3%A3o%20dos%20processos%20no%20Cade%2C%20ser%C3%A3o%20observadas%20as%20seguintes%20disposi%C3%A7%C3%B5es%2C%20al%C3%A9m%20daquelas%20previstas%20no%20regimento%20interno%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. O cumprimento das decisões do Tribunal e de compromissos e acordos firmados nos termos desta Lei poderá, a critério do Tribunal, ser fiscalizado pela Superintendência-Geral, com o respectivo encaminhamento dos autos, após a decisão final do Tribunal.\n\n§ 1o Na fase de fiscalização da execução das decisões do Tribunal, bem como do cumprimento de compromissos e acordos firmados nos termos desta Lei, poderá a Superintendência-Geral valer-se de todos os poderes instrutórios que lhe são assegurados nesta Lei.\n\n§ 2o Cumprida integralmente a decisão do Tribunal ou os acordos em controle de concentrações e compromissos de cessação, a Superintendência-Geral, de ofício ou por provocação do interessado, manifestar-se-á sobre seu cumprimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2052.%20O%20cumprimento%20das%20decis%C3%B5es%20do%20Tribunal%20e%20de%20compromissos%20e%20acordos%20firmados%20nos%20termos%20desta%20Lei%20poder%C3%A1%2C%20a%20crit%C3%A9rio%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. O pedido de aprovação dos atos de concentração econômica a que se refere o art. 88 desta Lei deverá ser endereçado ao Cade e instruído com as informações e documentos indispensáveis à instauração do processo administrativo, definidos em resolução do Cade, além do comprovante de recolhimento da taxa respectiva.\n\n§ 1o Ao verificar que a petição não preenche os requisitos exigidos no caput deste artigo ou apresenta defeitos e irregularidades capazes de dificultar o julgamento de mérito, a Superintendência-Geral determinará, uma única vez, que os requerentes a emendem, sob pena de arquivamento.\n\n§ 2o Após o protocolo da apresentação do ato de concentração, ou de sua emenda, a Superintendência-Geral fará publicar edital, indicando o nome dos requerentes, a natureza da operação e os setores econômicos envolvidos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2053.%20O%20pedido%20de%20aprova%C3%A7%C3%A3o%20dos%20atos%20de%20concentra%C3%A7%C3%A3o%20econ%C3%B4mica%20a%20que%20se%20refere%20o%20art.%2088%20desta%20Lei%20dever%C3%A1%20ser",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. Após cumpridas as providências indicadas no art. 53, a Superintendência-Geral:\n\nI - conhecerá diretamente do pedido, proferindo decisão terminativa, quando o processo dispensar novas diligências ou nos casos de menor potencial ofensivo à concorrência, assim definidos em resolução do Cade; ou\n\nII - determinará a realização da instrução complementar, especificando as diligências a serem produzidas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2054.%20Ap%C3%B3s%20cumpridas%20as%20provid%C3%AAncias%20indicadas%20no%20art.%2053%2C%20a%20Superintend%C3%AAncia-Geral%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. Concluída a instrução complementar determinada na forma do inciso II do caput do art. 54 desta Lei, a Superintendência-Geral deverá manifestar-se sobre seu satisfatório cumprimento, recebendo-a como adequada ao exame de mérito ou determinando que seja refeita, por estar incompleta.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2055.%20Conclu%C3%ADda%20a%20instru%C3%A7%C3%A3o%20complementar%20determinada%20na%20forma%20do%20inciso%20II%20do%20caput%20do%20art.%2054%20desta%20Lei%2C%20a%20Superintend%C3%AAncia-Geral%20dever%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. A Superintendência-Geral poderá, por meio de decisão fundamentada, declarar a operação como complexa e determinar a realização de nova instrução complementar, especificando as diligências a serem produzidas.\n\nParágrafo único. Declarada a operação como complexa, poderá a Superintendência-Geral requerer ao Tribunal a prorrogação do prazo de que trata o § 2o do art. 88 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2056.%20A%20Superintend%C3%AAncia-Geral%20poder%C3%A1%2C%20por%20meio%20de%20decis%C3%A3o%20fundamentada%2C%20declarar%20a%20opera%C3%A7%C3%A3o%20como%20complexa%20e%20determinar%20a%20realiza%C3%A7%C3%A3o%20de%20nova%20instru%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. Concluídas as instruções complementares de que tratam o inciso II do art. 54 e o art. 56 desta Lei, a Superintendência-Geral:\n\nI - proferirá decisão aprovando o ato sem restrições;\n\nII - oferecerá impugnação perante o Tribunal, caso entenda que o ato deva ser rejeitado, aprovado com restrições ou que não existam elementos conclusivos quanto aos seus efeitos no mercado.\n\nParágrafo único. Na impugnação do ato perante o Tribunal, deverão ser demonstrados, de forma circunstanciada, o potencial lesivo do ato à concorrência e as razões pelas quais não deve ser aprovado integralmente ou rejeitado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2057.%20Conclu%C3%ADdas%20as%20instru%C3%A7%C3%B5es%20complementares%20de%20que%20tratam%20o%20inciso%20II%20do%20art.%2054%20e%20o%20art.%2056%20desta%20Lei%2C%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. O requerente poderá oferecer, no prazo de 30 (trinta) dias da data de impugnação da Superintendência-Geral, em petição escrita, dirigida ao Presidente do Tribunal, manifestação expondo as razões de fato e de direito com que se opõe à impugnação do ato de concentração da Superintendência-Geral e juntando todas as provas, estudos e pareceres que corroboram seu pedido.\n\nParágrafo único. Em até 48 (quarenta e oito) horas da decisão de que trata a impugnação pela Superintendência-Geral, disposta no inciso II do caput do art. 57 desta Lei e na hipótese do inciso I do art. 65 desta Lei, o processo será distribuído, por sorteio, a um Conselheiro-Relator.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2058.%20O%20requerente%20poder%C3%A1%20oferecer%2C%20no%20prazo%20de%2030%20%28trinta%29%20dias%20da%20data%20de%20impugna%C3%A7%C3%A3o%20da%20Superintend%C3%AAncia-Geral%2C%20em%20peti%C3%A7%C3%A3o%20escrita%2C%20dirigida",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. Após a manifestação do requerente, o Conselheiro-Relator:\n\nI - proferirá decisão determinando a inclusão do processo em pauta para julgamento, caso entenda que se encontre suficientemente instruído;\n\nII - determinará a realização de instrução complementar, se necessário, podendo, a seu critério, solicitar que a Superintendência-Geral a realize, declarando os pontos controversos e especificando as diligências a serem produzidas.\n\n§ 1o O Conselheiro-Relator poderá autorizar, conforme o caso, precária e liminarmente, a realização do ato de concentração econômica, impondo as condições que visem à preservação da reversibilidade da operação, quando assim recomendarem as condições do caso concreto.\n\n§ 2o O Conselheiro-Relator poderá acompanhar a realização das diligências referidas no inciso II do caput deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2059.%20Ap%C3%B3s%20a%20manifesta%C3%A7%C3%A3o%20do%20requerente%2C%20o%20Conselheiro-Relator%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. Após a conclusão da instrução, o Conselheiro-Relator determinará a inclusão do processo em pauta para julgamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2060.%20Ap%C3%B3s%20a%20conclus%C3%A3o%20da%20instru%C3%A7%C3%A3o%2C%20o%20Conselheiro-Relator%20determinar%C3%A1%20a%20inclus%C3%A3o%20do%20processo%20em%20pauta%20para%20julgamento.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. No julgamento do pedido de aprovação do ato de concentração econômica, o Tribunal poderá aprová-lo integralmente, rejeitá-lo ou aprová-lo parcialmente, caso em que determinará as restrições que deverão ser observadas como condição para a validade e eficácia do ato.\n\n§ 1o O Tribunal determinará as restrições cabíveis no sentido de mitigar os eventuais efeitos nocivos do ato de concentração sobre os mercados relevantes afetados.\n\n§ 2o As restrições mencionadas no § 1o deste artigo incluem:\n\nI - a venda de ativos ou de um conjunto de ativos que constitua uma atividade empresarial;\n\nII - a cisão de sociedade;\n\nIII - a alienação de controle societário;\n\nIV - a separação contábil ou jurídica de atividades;\n\nV - o licenciamento compulsório de direitos de propriedade intelectual; e\n\nVI - qualquer outro ato ou providência necessários para a eliminação dos efeitos nocivos à ordem econômica.\n\n§ 3o Julgado o processo no mérito, o ato não poderá ser novamente apresentado nem revisto no âmbito do Poder Executivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2061.%20No%20julgamento%20do%20pedido%20de%20aprova%C3%A7%C3%A3o%20do%20ato%20de%20concentra%C3%A7%C3%A3o%20econ%C3%B4mica%2C%20o%20Tribunal%20poder%C3%A1%20aprov%C3%A1-lo%20integralmente%2C%20rejeit%C3%A1-lo%20ou%20aprov%C3%A1-lo%20parcialmente%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "60",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. Em caso de recusa, omissão, enganosidade, falsidade ou retardamento injustificado, por parte dos requerentes, de informações ou documentos cuja apresentação for determinada pelo Cade, sem prejuízo das demais sanções cabíveis, poderá o pedido de aprovação do ato de concentração ser rejeitado por falta de provas, caso em que o requerente somente poderá realizar o ato mediante apresentação de novo pedido, nos termos do art. 53 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2062.%20Em%20caso%20de%20recusa%2C%20omiss%C3%A3o%2C%20enganosidade%2C%20falsidade%20ou%20retardamento%20injustificado%2C%20por%20parte%20dos%20requerentes%2C%20de%20informa%C3%A7%C3%B5es%20ou%20documentos%20cuja%20apresenta%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "61",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. Os prazos previstos neste Capítulo não se suspendem ou interrompem por qualquer motivo, ressalvado o disposto no § 5o do art. 6o desta Lei, quando for o caso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2063.%20Os%20prazos%20previstos%20neste%20Cap%C3%ADtulo%20n%C3%A3o%20se%20suspendem%20ou%20interrompem%20por%20qualquer%20motivo%2C%20ressalvado%20o%20disposto%20no%20%C2%A7%205o%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "62",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2064.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "63",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art. 65. No prazo de 15 (quinze) dias contado a partir da publicação da decisão da Superintendência-Geral que aprovar o ato de concentração, na forma do inciso I do caput do art. 54 e do inciso I do caput do art. 57 desta Lei:\n\nI - caberá recurso da decisão ao Tribunal, que poderá ser interposto por terceiros interessados ou, em se tratando de mercado regulado, pela respectiva agência reguladora;\n\nII - o Tribunal poderá, mediante provocação de um de seus Conselheiros e em decisão fundamentada, avocar o processo para julgamento ficando prevento o Conselheiro que encaminhou a provocação.\n\n§ 1o Em até 5 (cinco) dias úteis a partir do recebimento do recurso, o Conselheiro-Relator:\n\nI - conhecerá do recurso e determinará a sua inclusão em pauta para julgamento;\n\nII - conhecerá do recurso e determinará a realização de instrução complementar, podendo, a seu critério, solicitar que a Superintendência-Geral a realize, declarando os pontos controversos e especificando as diligências a serem produzidas; ou\n\nIII - não conhecerá do recurso, determinando o seu arquivamento.\n\n§ 2o As requerentes poderão manifestar-se acerca do recurso interposto, em até 5 (cinco) dias úteis do conhecimento do recurso no Tribunal ou da data do recebimento do relatório com a conclusão da instrução complementar elaborada pela Superintendência-Geral, o que ocorrer por último.\n\n§ 3o O litigante de má-fé arcará com multa, em favor do Fundo de Defesa de Direitos Difusos, a ser arbitrada pelo Tribunal entre R$ 5.000,00 (cinco mil reais) e R$ 5.000.000,00 (cinco milhões de reais), levando-se em consideração sua condição econômica, sua atuação no processo e o retardamento injustificado causado à aprovação do ato.\n\n§ 4o A interposição do recurso a que se refere o caput deste artigo ou a decisão de avocar suspende a execução do ato de concentração econômica até decisão final do Tribunal.\n\n§ 5o O Conselheiro-Relator poderá acompanhar a realização das diligências referidas no inciso II do § 1o deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2065.%20No%20prazo%20de%2015%20%28quinze%29%20dias%20contado%20a%20partir%20da%20publica%C3%A7%C3%A3o%20da%20decis%C3%A3o%20da%20Superintend%C3%AAncia-Geral%20que%20aprovar%20o%20ato%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "64",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art. 66. O inquérito administrativo, procedimento investigatório de natureza inquisitorial, será instaurado pela Superintendência-Geral para apuração de infrações à ordem econômica.\n\n§ 1o O inquérito administrativo será instaurado de ofício ou em face de representação fundamentada de qualquer interessado, ou em decorrência de peças de informação, quando os indícios de infração à ordem econômica não forem suficientes para a instauração de processo administrativo.\n\n§ 2o A Superintendência-Geral poderá instaurar procedimento preparatório de inquérito administrativo para apuração de infrações à ordem econômica para apurar se a conduta sob análise trata de matéria de competência do Sistema Brasileiro de Defesa da Concorrência, nos termos desta Lei.\n\n§ 3o As diligências tomadas no âmbito do procedimento preparatório de inquérito administrativo para apuração de infrações à ordem econômica deverão ser realizadas no prazo máximo de 30 (trinta) dias.\n\n§ 4o Do despacho que ordenar o arquivamento de procedimento preparatório, indeferir o requerimento de abertura de inquérito administrativo, ou seu arquivamento, caberá recurso de qualquer interessado ao Superintendente-Geral, na forma determinada em regulamento, que decidirá em última instância.\n\n§ 5o (VETADO).\n\n§ 6o A representação de Comissão do Congresso Nacional, ou de qualquer de suas Casas, bem como da Secretaria de Acompanhamento Econômico, das agências reguladoras e da Procuradoria Federal junto ao Cade, independe de procedimento preparatório, instaurando-se desde logo o inquérito administrativo ou processo administrativo.\n\n§ 7o O representante e o indiciado poderão requerer qualquer diligência, que será realizada ou não, a juízo da Superintendência-Geral.\n\n§ 8o A Superintendência-Geral poderá solicitar o concurso da autoridade policial ou do Ministério Público nas investigações.\n\n§ 9o O inquérito administrativo deverá ser encerrado no prazo de 180 (cento e oitenta) dias, contado da data de sua instauração, prorrogáveis por até 60 (sessenta) dias, por meio de despacho fundamentado e quando o fato for de difícil elucidação e o justificarem as circunstâncias do caso concreto.\n\n§ 10. Ao procedimento preparatório, assim como ao inquérito administrativo, poderá ser dado tratamento sigiloso, no interesse das investigações, a critério da Superintendência-Geral.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2066.%20O%20inqu%C3%A9rito%20administrativo%2C%20procedimento%20investigat%C3%B3rio%20de%20natureza%20inquisitorial%2C%20ser%C3%A1%20instaurado%20pela%20Superintend%C3%AAncia-Geral%20para%20apura%C3%A7%C3%A3o%20de%20infra%C3%A7%C3%B5es%20%C3%A0%20ordem%20econ%C3%B4mica.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "65",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art. 67. Até 10 (dez) dias úteis a partir da data de encerramento do inquérito administrativo, a Superintendência-Geral decidirá pela instauração do processo administrativo ou pelo seu arquivamento.\n\n§ 1o O Tribunal poderá, mediante provocação de um Conselheiro e em decisão fundamentada, avocar o inquérito administrativo ou procedimento preparatório de inquérito administrativo arquivado pela Superintendência-Geral, ficando prevento o Conselheiro que encaminhou a provocação.\n\n§ 2o Avocado o inquérito administrativo, o Conselheiro-Relator terá o prazo de 30 (trinta) dias úteis para:\n\nI - confirmar a decisão de arquivamento da Superintendência-Geral, podendo, se entender necessário, fundamentar sua decisão;\n\nII - transformar o inquérito administrativo em processo administrativo, determinando a realização de instrução complementar, podendo, a seu critério, solicitar que a Superintendência-Geral a realize, declarando os pontos controversos e especificando as diligências a serem produzidas.\n\n§ 3o Ao inquérito administrativo poderá ser dado tratamento sigiloso, no interesse das investigações, a critério do Plenário do Tribunal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2067.%20At%C3%A9%2010%20%28dez%29%20dias%20%C3%BAteis%20a%20partir%20da%20data%20de%20encerramento%20do%20inqu%C3%A9rito%20administrativo%2C%20a%20Superintend%C3%AAncia-Geral%20decidir%C3%A1%20pela%20instaura%C3%A7%C3%A3o%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "66",
+      "next": "68"
+    },
+    "68": {
+      "numero": "68",
+      "texto": "Art. 68. O descumprimento dos prazos fixados neste Capítulo pela Superintendência-Geral, assim como por seus servidores, sem justificativa devidamente comprovada nos autos, poderá resultar na apuração da respectiva responsabilidade administrativa, civil e criminal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2068.%20O%20descumprimento%20dos%20prazos%20fixados%20neste%20Cap%C3%ADtulo%20pela%20Superintend%C3%AAncia-Geral%2C%20assim%20como%20por%20seus%20servidores%2C%20sem%20justificativa%20devidamente%20comprovada%20nos%20autos%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "67",
+      "next": "69"
+    },
+    "69": {
+      "numero": "69",
+      "texto": "Art. 69. O processo administrativo, procedimento em contraditório, visa a garantir ao acusado a ampla defesa a respeito das conclusões do inquérito administrativo, cuja nota técnica final, aprovada nos termos das normas do Cade, constituirá peça inaugural.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2069.%20O%20processo%20administrativo%2C%20procedimento%20em%20contradit%C3%B3rio%2C%20visa%20a%20garantir%20ao%20acusado%20a%20ampla%20defesa%20a%20respeito%20das%20conclus%C3%B5es%20do%20inqu%C3%A9rito",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "68",
+      "next": "70"
+    },
+    "70": {
+      "numero": "70",
+      "texto": "Art. 70. Na decisão que instaurar o processo administrativo, será determinada a notificação do representado para, no prazo de 30 (trinta) dias, apresentar defesa e especificar as provas que pretende sejam produzidas, declinando a qualificação completa de até 3 (três) testemunhas.\n\n§ 1o A notificação inicial conterá o inteiro teor da decisão de instauração do processo administrativo e da representação, se for o caso.\n\n§ 2o A notificação inicial do representado será feita pelo correio, com aviso de recebimento em nome próprio, ou outro meio que assegure a certeza da ciência do interessado ou, não tendo êxito a notificação postal, por edital publicado no Diário Oficial da União e em jornal de grande circulação no Estado em que resida ou tenha sede, contando-se os prazos da juntada do aviso de recebimento, ou da publicação, conforme o caso.\n\n§ 3o A intimação dos demais atos processuais será feita mediante publicação no Diário Oficial da União, da qual deverá constar o nome do representado e de seu procurador, se houver.\n\n§ 4o O representado poderá acompanhar o processo administrativo por seu titular e seus diretores ou gerentes, ou por seu procurador, assegurando-se-lhes amplo acesso aos autos no Tribunal.\n\n§ 5o O prazo de 30 (trinta) dias mencionado no caput deste artigo poderá ser dilatado por até 10 (dez) dias, improrrogáveis, mediante requisição do representado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2070.%20Na%20decis%C3%A3o%20que%20instaurar%20o%20processo%20administrativo%2C%20ser%C3%A1%20determinada%20a%20notifica%C3%A7%C3%A3o%20do%20representado%20para%2C%20no%20prazo%20de%2030%20%28trinta%29%20dias%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "69",
+      "next": "71"
+    },
+    "71": {
+      "numero": "71",
+      "texto": "Art. 71. Considerar-se-á revel o representado que, notificado, não apresentar defesa no prazo legal, incorrendo em confissão quanto à matéria de fato, contra ele correndo os demais prazos, independentemente de notificação.\n\nParágrafo único. Qualquer que seja a fase do processo, nele poderá intervir o revel, sem direito à repetição de qualquer ato já praticado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2071.%20Considerar-se-%C3%A1%20revel%20o%20representado%20que%2C%20notificado%2C%20n%C3%A3o%20apresentar%20defesa%20no%20prazo%20legal%2C%20incorrendo%20em%20confiss%C3%A3o%20quanto%20%C3%A0%20mat%C3%A9ria%20de%20fato%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "70",
+      "next": "72"
+    },
+    "72": {
+      "numero": "72",
+      "texto": "Art. 72. Em até 30 (trinta) dias úteis após o decurso do prazo previsto no art. 70 desta Lei, a Superintendência-Geral, em despacho fundamentado, determinará a produção de provas que julgar pertinentes, sendo-lhe facultado exercer os poderes de instrução previstos nesta Lei, mantendo-se o sigilo legal, quando for o caso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2072.%20Em%20at%C3%A9%2030%20%28trinta%29%20dias%20%C3%BAteis%20ap%C3%B3s%20o%20decurso%20do%20prazo%20previsto%20no%20art.%2070%20desta%20Lei%2C%20a%20Superintend%C3%AAncia-Geral%2C%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "71",
+      "next": "73"
+    },
+    "73": {
+      "numero": "73",
+      "texto": "Art. 73. Em até 5 (cinco) dias úteis da data de conclusão da instrução processual determinada na forma do art. 72 desta Lei, a Superintendência-Geral notificará o representado para apresentar novas alegações, no prazo de 5 (cinco) dias úteis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2073.%20Em%20at%C3%A9%205%20%28cinco%29%20dias%20%C3%BAteis%20da%20data%20de%20conclus%C3%A3o%20da%20instru%C3%A7%C3%A3o%20processual%20determinada%20na%20forma%20do%20art.%2072%20desta",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "72",
+      "next": "74"
+    },
+    "74": {
+      "numero": "74",
+      "texto": "Art. 74. Em até 15 (quinze) dias úteis contados do decurso do prazo previsto no art. 73 desta Lei, a Superintendência-Geral remeterá os autos do processo ao Presidente do Tribunal, opinando, em relatório circunstanciado, pelo seu arquivamento ou pela configuração da infração.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2074.%20Em%20at%C3%A9%2015%20%28quinze%29%20dias%20%C3%BAteis%20contados%20do%20decurso%20do%20prazo%20previsto%20no%20art.%2073%20desta%20Lei%2C%20a%20Superintend%C3%AAncia-Geral%20remeter%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "73",
+      "next": "75"
+    },
+    "75": {
+      "numero": "75",
+      "texto": "Art. 75. Recebido o processo, o Presidente do Tribunal o distribuirá, por sorteio, ao Conselheiro-Relator, que poderá, caso entenda necessário, solicitar à Procuradoria Federal junto ao Cade que se manifeste no prazo de 20 (vinte) dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2075.%20Recebido%20o%20processo%2C%20o%20Presidente%20do%20Tribunal%20o%20distribuir%C3%A1%2C%20por%20sorteio%2C%20ao%20Conselheiro-Relator%2C%20que%20poder%C3%A1%2C%20caso%20entenda%20necess%C3%A1rio%2C%20solicitar%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "74",
+      "next": "76"
+    },
+    "76": {
+      "numero": "76",
+      "texto": "Art. 76. O Conselheiro-Relator poderá determinar diligências, em despacho fundamentado, podendo, a seu critério, solicitar que a Superintendência-Geral as realize, no prazo assinado.\n\nParágrafo único. Após a conclusão das diligências determinadas na forma deste artigo, o Conselheiro-Relator notificará o representado para, no prazo de 15 (quinze) dias úteis, apresentar alegações finais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2076.%20O%20Conselheiro-Relator%20poder%C3%A1%20determinar%20dilig%C3%AAncias%2C%20em%20despacho%20fundamentado%2C%20podendo%2C%20a%20seu%20crit%C3%A9rio%2C%20solicitar%20que%20a%20Superintend%C3%AAncia-Geral%20as%20realize%2C%20no%20prazo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "75",
+      "next": "77"
+    },
+    "77": {
+      "numero": "77",
+      "texto": "Art. 77. No prazo de 15 (quinze) dias úteis contado da data de recebimento das alegações finais, o Conselheiro-Relator solicitará a inclusão do processo em pauta para julgamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2077.%20No%20prazo%20de%2015%20%28quinze%29%20dias%20%C3%BAteis%20contado%20da%20data%20de%20recebimento%20das%20alega%C3%A7%C3%B5es%20finais%2C%20o%20Conselheiro-Relator%20solicitar%C3%A1%20a%20inclus%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "76",
+      "next": "78"
+    },
+    "78": {
+      "numero": "78",
+      "texto": "Art. 78. A convite do Presidente, por indicação do Conselheiro-Relator, qualquer pessoa poderá apresentar esclarecimentos ao Tribunal, a propósito de assuntos que estejam em pauta.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2078.%20A%20convite%20do%20Presidente%2C%20por%20indica%C3%A7%C3%A3o%20do%20Conselheiro-Relator%2C%20qualquer%20pessoa%20poder%C3%A1%20apresentar%20esclarecimentos%20ao%20Tribunal%2C%20a%20prop%C3%B3sito%20de%20assuntos%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "77",
+      "next": "79"
+    },
+    "79": {
+      "numero": "79",
+      "texto": "Art. 79. A decisão do Tribunal, que em qualquer hipótese será fundamentada, quando for pela existência de infração da ordem econômica, conterá:\n\nI - especificação dos fatos que constituam a infração apurada e a indicação das providências a serem tomadas pelos responsáveis para fazê-la cessar;\n\nII - prazo dentro do qual devam ser iniciadas e concluídas as providências referidas no inciso I do caput deste artigo;\n\nIII - multa estipulada;\n\nIV - multa diária em caso de continuidade da infração; e\n\nV - multa em caso de descumprimento das providências estipuladas.\n\nParágrafo único. A decisão do Tribunal será publicada dentro de 5 (cinco) dias úteis no Diário Oficial da União.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2079.%20A%20decis%C3%A3o%20do%20Tribunal%2C%20que%20em%20qualquer%20hip%C3%B3tese%20ser%C3%A1%20fundamentada%2C%20quando%20for%20pela%20exist%C3%AAncia%20de%20infra%C3%A7%C3%A3o%20da%20ordem%20econ%C3%B4mica%2C%20conter%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "78",
+      "next": "80"
+    },
+    "80": {
+      "numero": "80",
+      "texto": "Art. 80. Aplicam-se às decisões do Tribunal o disposto na Lei no 8.437, de 30 de junho de 1992.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2080.%20Aplicam-se%20%C3%A0s%20decis%C3%B5es%20do%20Tribunal%20o%20disposto%20na%20Lei%20no%208.437%2C%20de%2030%20de%20junho%20de%201992.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "79",
+      "next": "81"
+    },
+    "81": {
+      "numero": "81",
+      "texto": "Art. 81. Descumprida a decisão, no todo ou em parte, será o fato comunicado ao Presidente do Tribunal, que determinará à Procuradoria Federal junto ao Cade que providencie sua execução judicial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2081.%20Descumprida%20a%20decis%C3%A3o%2C%20no%20todo%20ou%20em%20parte%2C%20ser%C3%A1%20o%20fato%20comunicado%20ao%20Presidente%20do%20Tribunal%2C%20que%20determinar%C3%A1%20%C3%A0%20Procuradoria",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "80",
+      "next": "82"
+    },
+    "82": {
+      "numero": "82",
+      "texto": "Art. 82. O descumprimento dos prazos fixados neste Capítulo pelos membros do Cade, assim como por seus servidores, sem justificativa devidamente comprovada nos autos, poderá resultar na apuração da respectiva responsabilidade administrativa, civil e criminal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2082.%20O%20descumprimento%20dos%20prazos%20fixados%20neste%20Cap%C3%ADtulo%20pelos%20membros%20do%20Cade%2C%20assim%20como%20por%20seus%20servidores%2C%20sem%20justificativa%20devidamente%20comprovada",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "81",
+      "next": "83"
+    },
+    "83": {
+      "numero": "83",
+      "texto": "Art. 83. O Cade disporá de forma complementar sobre o inquérito e o processo administrativo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2083.%20O%20Cade%20dispor%C3%A1%20de%20forma%20complementar%20sobre%20o%20inqu%C3%A9rito%20e%20o%20processo%20administrativo.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "82",
+      "next": "84"
+    },
+    "84": {
+      "numero": "84",
+      "texto": "Art. 84. Em qualquer fase do inquérito administrativo para apuração de infrações ou do processo administrativo para imposição de sanções por infrações à ordem econômica, poderá o Conselheiro-Relator ou o Superintendente-Geral, por iniciativa própria ou mediante provocação do Procurador-Chefe do Cade, adotar medida preventiva, quando houver indício ou fundado receio de que o representado, direta ou indiretamente, cause ou possa causar ao mercado lesão irreparável ou de difícil reparação, ou torne ineficaz o resultado final do processo.\n\n§ 1o Na medida preventiva, determinar-se-á a imediata cessação da prática e será ordenada, quando materialmente possível, a reversão à situação anterior, fixando multa diária nos termos do art. 39 desta Lei.\n\n§ 2o Da decisão que adotar medida preventiva caberá recurso voluntário ao Plenário do Tribunal, em 5 (cinco) dias, sem efeito suspensivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2084.%20Em%20qualquer%20fase%20do%20inqu%C3%A9rito%20administrativo%20para%20apura%C3%A7%C3%A3o%20de%20infra%C3%A7%C3%B5es%20ou%20do%20processo%20administrativo%20para%20imposi%C3%A7%C3%A3o%20de%20san%C3%A7%C3%B5es%20por%20infra%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "83",
+      "next": "85"
+    },
+    "85": {
+      "numero": "85",
+      "texto": "Art. 85. Nos procedimentos administrativos mencionados nos incisos I, II e III do art. 48 desta Lei, o Cade poderá tomar do representado compromisso de cessação da prática sob investigação ou dos seus efeitos lesivos, sempre que, em juízo de conveniência e oportunidade, devidamente fundamentado, entender que atende aos interesses protegidos por lei.\n\n§ 1o Do termo de compromisso deverão constar os seguintes elementos:\n\nI - a especificação das obrigações do representado no sentido de não praticar a conduta investigada ou seus efeitos lesivos, bem como obrigações que julgar cabíveis;\n\nII - a fixação do valor da multa para o caso de descumprimento, total ou parcial, das obrigações compromissadas;\n\nIII - a fixação do valor da contribuição pecuniária ao Fundo de Defesa de Direitos Difusos quando cabível.\n\n§ 2o Tratando-se da investigação da prática de infração relacionada ou decorrente das condutas previstas nos incisos I e II do § 3o do art. 36 desta Lei, entre as obrigações a que se refere o inciso I do § 1o deste artigo figurará, necessariamente, a obrigação de recolher ao Fundo de Defesa de Direitos Difusos um valor pecuniário que não poderá ser inferior ao mínimo previsto no art. 37 desta Lei.\n\n§ 3o (VETADO).\n\n§ 4o A proposta de termo de compromisso de cessação de prática somente poderá ser apresentada uma única vez.\n\n§ 5o A proposta de termo de compromisso de cessação de prática poderá ter caráter confidencial.\n\n§ 6o A apresentação de proposta de termo de compromisso de cessação de prática não suspende o andamento do processo administrativo.\n\n§ 7o O termo de compromisso de cessação de prática terá caráter público, devendo o acordo ser publicado no sítio do Cade em 5 (cinco) dias após a sua celebração.\n\n§ 8o O termo de compromisso de cessação de prática constitui título executivo extrajudicial.\n\n§ 9o O processo administrativo ficará suspenso enquanto estiver sendo cumprido o compromisso e será arquivado ao término do prazo fixado, se atendidas todas as condições estabelecidas no termo.\n\n§ 10. A suspensão do processo administrativo a que se refere o § 9o deste artigo dar-se-á somente em relação ao representado que firmou o compromisso, seguindo o processo seu curso regular para os demais representados.\n\n§ 11. Declarado o descumprimento do compromisso, o Cade aplicará as sanções nele previstas e determinará o prosseguimento do processo administrativo e as demais medidas administrativas e judiciais cabíveis para sua execução.\n\n§ 12. As condições do termo de compromisso poderão ser alteradas pelo Cade se se comprovar sua excessiva onerosidade para o representado, desde que a alteração não acarrete prejuízo para terceiros ou para a coletividade.\n\n§ 13. A proposta de celebração do compromisso de cessação de prática será indeferida quando a autoridade não chegar a um acordo com os representados quanto aos seus termos.\n\n§ 14. O Cade definirá, em resolução, normas complementares sobre o termo de compromisso de cessação.\n\n§ 15. Aplica-se o disposto no art. 50 desta Lei ao Compromisso de Cessação da Prática.\n\n§ 16. (VETADO). (Incluído pela Lei nº 14.470,de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2085.%20Nos%20procedimentos%20administrativos%20mencionados%20nos%20incisos%20I%2C%20II%20e%20III%20do%20art.%2048%20desta%20Lei%2C%20o%20Cade%20poder%C3%A1%20tomar%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "84",
+      "next": "86"
+    },
+    "86": {
+      "numero": "86",
+      "texto": "Art. 86. O Cade, por intermédio da Superintendência-Geral, poderá celebrar acordo de leniência, com a extinção da ação punitiva da administração pública ou a redução de 1 (um) a 2/3 (dois terços) da penalidade aplicável, nos termos deste artigo, com pessoas físicas e jurídicas que forem autoras de infração à ordem econômica, desde que colaborem efetivamente com as investigações e o processo administrativo e que dessa colaboração resulte:\n\nI - a identificação dos demais envolvidos na infração; e\n\nII - a obtenção de informações e documentos que comprovem a infração noticiada ou sob investigação.\n\n§ 1o O acordo de que trata o caput deste artigo somente poderá ser celebrado se preenchidos, cumulativamente, os seguintes requisitos:\n\nI - a empresa seja a primeira a se qualificar com respeito à infração noticiada ou sob investigação;\n\nII - a empresa cesse completamente seu envolvimento na infração noticiada ou sob investigação a partir da data de propositura do acordo;\n\nIII - a Superintendência-Geral não disponha de provas suficientes para assegurar a condenação da empresa ou pessoa física por ocasião da propositura do acordo; e\n\nIV - a empresa confesse sua participação no ilícito e coopere plena e permanentemente com as investigações e o processo administrativo, comparecendo, sob suas expensas, sempre que solicitada, a todos os atos processuais, até seu encerramento.\n\n§ 2o Com relação às pessoas físicas, elas poderão celebrar acordos de leniência desde que cumpridos os requisitos II, III e IV do § 1o deste artigo.\n\n§ 3o O acordo de leniência firmado com o Cade, por intermédio da Superintendência-Geral, estipulará as condições necessárias para assegurar a efetividade da colaboração e o resultado útil do processo.\n\n§ 4o Compete ao Tribunal, por ocasião do julgamento do processo administrativo, verificado o cumprimento do acordo:\n\nI - decretar a extinção da ação punitiva da administração pública em favor do infrator, nas hipóteses em que a proposta de acordo tiver sido apresentada à Superintendência-Geral sem que essa tivesse conhecimento prévio da infração noticiada; ou\n\nII - nas demais hipóteses, reduzir de 1 (um) a 2/3 (dois terços) as penas aplicáveis, observado o disposto no art. 45 desta Lei, devendo ainda considerar na gradação da pena a efetividade da colaboração prestada e a boa-fé do infrator no cumprimento do acordo de leniência.\n\n§ 5o Na hipótese do inciso II do § 4o deste artigo, a pena sobre a qual incidirá o fator redutor não será superior à menor das penas aplicadas aos demais coautores da infração, relativamente aos percentuais fixados para a aplicação das multas de que trata o inciso I do art. 37 desta Lei.\n\n§ 6o Serão estendidos às empresas do mesmo grupo, de fato ou de direito, e aos seus dirigentes, administradores e empregados envolvidos na infração os efeitos do acordo de leniência, desde que o firmem em conjunto, respeitadas as condições impostas.\n\n§ 7o A empresa ou pessoa física que não obtiver, no curso de inquérito ou processo administrativo, habilitação para a celebração do acordo de que trata este artigo, poderá celebrar com a Superintendência-Geral, até a remessa do processo para julgamento, acordo de leniência relacionado a uma outra infração, da qual o Cade não tenha qualquer conhecimento prévio.\n\n§ 8o Na hipótese do § 7o deste artigo, o infrator se beneficiará da redução de 1/3 (um terço) da pena que lhe for aplicável naquele processo, sem prejuízo da obtenção dos benefícios de que trata o inciso I do § 4o deste artigo em relação à nova infração denunciada.\n\n§ 9o Considera-se sigilosa a proposta de acordo de que trata este artigo, salvo no interesse das investigações e do processo administrativo.\n\n§ 10. Não importará em confissão quanto à matéria de fato, nem reconhecimento de ilicitude da conduta analisada, a proposta de acordo de leniência rejeitada, da qual não se fará qualquer divulgação.\n\n§ 11. A aplicação do disposto neste artigo observará as normas a serem editadas pelo Tribunal.\n\n§ 12. Em caso de descumprimento do acordo de leniência, o beneficiário ficará impedido de celebrar novo acordo de leniência pelo prazo de 3 (três) anos, contado da data de seu julgamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2086.%20O%20Cade%2C%20por%20interm%C3%A9dio%20da%20Superintend%C3%AAncia-Geral%2C%20poder%C3%A1%20celebrar%20acordo%20de%20leni%C3%AAncia%2C%20com%20a%20extin%C3%A7%C3%A3o%20da%20a%C3%A7%C3%A3o%20punitiva%20da%20administra%C3%A7%C3%A3o%20p%C3%BAblica",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "85",
+      "next": "87"
+    },
+    "87": {
+      "numero": "87",
+      "texto": "Art. 87. Nos crimes contra a ordem econômica, tipificados na Lei no 8.137, de 27 de dezembro de 1990, e nos demais crimes diretamente relacionados à prática de cartel, tais como os tipificados na Lei no 8.666, de 21 de junho de 1993, e os tipificados no art. 288 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, a celebração de acordo de leniência, nos termos desta Lei, determina a suspensão do curso do prazo prescricional e impede o oferecimento da denúncia com relação ao agente beneficiário da leniência.\n\nParágrafo único. Cumprido o acordo de leniência pelo agente, extingue-se automaticamente a punibilidade dos crimes a que se refere o caput deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2087.%20Nos%20crimes%20contra%20a%20ordem%20econ%C3%B4mica%2C%20tipificados%20na%20Lei%20no%208.137%2C%20de%2027%20de%20dezembro%20de%201990%2C%20e%20nos%20demais",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI",
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "86",
+      "next": "88"
+    },
+    "88": {
+      "numero": "88",
+      "texto": "Art. 88. Serão submetidos ao Cade pelas partes envolvidas na operação os atos de concentração econômica em que, cumulativamente:\n\nI - pelo menos um dos grupos envolvidos na operação tenha registrado, no último balanço, faturamento bruto anual ou volume de negócios total no País, no ano anterior à operação, equivalente ou superior a R$ 400.000.000,00 (quatrocentos milhões de reais); e\n\nII - pelo menos um outro grupo envolvido na operação tenha registrado, no último balanço, faturamento bruto anual ou volume de negócios total no País, no ano anterior à operação, equivalente ou superior a R$ 30.000.000,00 (trinta milhões de reais).\n\n§ 1o Os valores mencionados nos incisos I e II do caput deste artigo poderão ser adequados, simultânea ou independentemente, por indicação do Plenário do Cade, por portaria interministerial dos Ministros de Estado da Fazenda e da Justiça.\n\n§ 2o O controle dos atos de concentração de que trata o caput deste artigo será prévio e realizado em, no máximo, 240 (duzentos e quarenta) dias, a contar do protocolo de petição ou de sua emenda.\n\n§ 3o Os atos que se subsumirem ao disposto no caput deste artigo não podem ser consumados antes de apreciados, nos termos deste artigo e do procedimento previsto no Capítulo II do Título VI desta Lei, sob pena de nulidade, sendo ainda imposta multa pecuniária, de valor não inferior a R$ 60.000,00 (sessenta mil reais) nem superior a R$ 60.000.000,00 (sessenta milhões de reais), a ser aplicada nos termos da regulamentação, sem prejuízo da abertura de processo administrativo, nos termos do art. 69 desta Lei.\n\n§ 4o Até a decisão final sobre a operação, deverão ser preservadas as condições de concorrência entre as empresas envolvidas, sob pena de aplicação das sanções previstas no § 3o deste artigo.\n\n§ 5o Serão proibidos os atos de concentração que impliquem eliminação da concorrência em parte substancial de mercado relevante, que possam criar ou reforçar uma posição dominante ou que possam resultar na dominação de mercado relevante de bens ou serviços, ressalvado o disposto no § 6o deste artigo.\n\n§ 6o Os atos a que se refere o § 5o deste artigo poderão ser autorizados, desde que sejam observados os limites estritamente necessários para atingir os seguintes objetivos:\n\nI - cumulada ou alternativamente:\n\na) aumentar a produtividade ou a competitividade;\n\nb) melhorar a qualidade de bens ou serviços; ou\n\nc) propiciar a eficiência e o desenvolvimento tecnológico ou econômico; e\n\nII - sejam repassados aos consumidores parte relevante dos benefícios decorrentes.\n\n§ 7o É facultado ao Cade, no prazo de 1 (um) ano a contar da respectiva data de consumação, requerer a submissão dos atos de concentração que não se enquadrem no disposto neste artigo.\n\n§ 8o As mudanças de controle acionário de companhias abertas e os registros de fusão, sem prejuízo da obrigação das partes envolvidas, devem ser comunicados ao Cade pela Comissão de Valores Mobiliários - CVM e pelo Departamento Nacional do Registro do Comércio do Ministério do Desenvolvimento, Indústria e Comércio Exterior, respectivamente, no prazo de 5 (cinco) dias úteis para, se for o caso, ser examinados.\n\n§ 9o O prazo mencionado no § 2o deste artigo somente poderá ser dilatado:\n\nI - por até 60 (sessenta) dias, improrrogáveis, mediante requisição das partes envolvidas na operação; ou\n\nII - por até 90 (noventa) dias, mediante decisão fundamentada do Tribunal, em que sejam especificados as razões para a extensão, o prazo da prorrogação, que será não renovável, e as providências cuja realização seja necessária para o julgamento do processo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2088.%20Ser%C3%A3o%20submetidos%20ao%20Cade%20pelas%20partes%20envolvidas%20na%20opera%C3%A7%C3%A3o%20os%20atos%20de%20concentra%C3%A7%C3%A3o%20econ%C3%B4mica%20em%20que%2C%20cumulativamente%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "87",
+      "next": "89"
+    },
+    "89": {
+      "numero": "89",
+      "texto": "Art. 89. Para fins de análise do ato de concentração apresentado, serão obedecidos os procedimentos estabelecidos no Capítulo II do Título VI desta Lei.\n\nParágrafo único. O Cade regulamentará, por meio de Resolução, a análise prévia de atos de concentração realizados com o propósito específico de participação em leilões, licitações e operações de aquisição de ações por meio de oferta pública.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2089.%20Para%20fins%20de%20an%C3%A1lise%20do%20ato%20de%20concentra%C3%A7%C3%A3o%20apresentado%2C%20ser%C3%A3o%20obedecidos%20os%20procedimentos%20estabelecidos%20no%20Cap%C3%ADtulo%20II%20do%20T%C3%ADtulo%20VI",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "88",
+      "next": "90"
+    },
+    "90": {
+      "numero": "90",
+      "texto": "Art. 90. Para os efeitos do art. 88 desta Lei, realiza-se um ato de concentração quando:\n\nI - 2 (duas) ou mais empresas anteriormente independentes se fundem;\n\nII - 1 (uma) ou mais empresas adquirem, direta ou indiretamente, por compra ou permuta de ações, quotas, títulos ou valores mobiliários conversíveis em ações, ou ativos, tangíveis ou intangíveis, por via contratual ou por qualquer outro meio ou forma, o controle ou partes de uma ou outras empresas;\n\nIII - 1 (uma) ou mais empresas incorporam outra ou outras empresas; ou\n\nIV - 2 (duas) ou mais empresas celebram contrato associativo, consórcio ou joint venture.\n\nParágrafo único. Não serão considerados atos de concentração, para os efeitos do disposto no art. 88 desta Lei, os descritos no inciso IV do caput, quando destinados às licitações promovidas pela administração pública direta e indireta e aos contratos delas decorrentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2090.%20Para%20os%20efeitos%20do%20art.%2088%20desta%20Lei%2C%20realiza-se%20um%20ato%20de%20concentra%C3%A7%C3%A3o%20quando%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "89",
+      "next": "91"
+    },
+    "91": {
+      "numero": "91",
+      "texto": "Art. 91. A aprovação de que trata o art. 88 desta Lei poderá ser revista pelo Tribunal, de ofício ou mediante provocação da Superintendência-Geral, se a decisão for baseada em informações falsas ou enganosas prestadas pelo interessado, se ocorrer o descumprimento de quaisquer das obrigações assumidas ou não forem alcançados os benefícios visados.\n\nParágrafo único. Na hipótese referida no caput deste artigo, a falsidade ou enganosidade será punida com multa pecuniária, de valor não inferior a R$ 60.000,00 (sessenta mil reais) nem superior a R$ 6.000.000,00 (seis milhões de reais), a ser aplicada na forma das normas do Cade, sem prejuízo da abertura de processo administrativo, nos termos do art. 67 desta Lei, e da adoção das demais medidas cabíveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2091.%20A%20aprova%C3%A7%C3%A3o%20de%20que%20trata%20o%20art.%2088%20desta%20Lei%20poder%C3%A1%20ser%20revista%20pelo%20Tribunal%2C%20de%20of%C3%ADcio%20ou%20mediante%20provoca%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "90",
+      "next": "92"
+    },
+    "92": {
+      "numero": "92",
+      "texto": "Art. 92. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2092.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "TÍTULO VII",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "91",
+      "next": "93"
+    },
+    "93": {
+      "numero": "93",
+      "texto": "Art. 93. A decisão do Plenário do Tribunal, cominando multa ou impondo obrigação de fazer ou não fazer, constitui título executivo extrajudicial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2093.%20A%20decis%C3%A3o%20do%20Plen%C3%A1rio%20do%20Tribunal%2C%20cominando%20multa%20ou%20impondo%20obriga%C3%A7%C3%A3o%20de%20fazer%20ou%20n%C3%A3o%20fazer%2C%20constitui%20t%C3%ADtulo%20executivo%20extrajudicial.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "92",
+      "next": "94"
+    },
+    "94": {
+      "numero": "94",
+      "texto": "Art. 94. A execução que tenha por objeto exclusivamente a cobrança de multa pecuniária será feita de acordo com o disposto na Lei no 6.830, de 22 de setembro de 1980.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2094.%20A%20execu%C3%A7%C3%A3o%20que%20tenha%20por%20objeto%20exclusivamente%20a%20cobran%C3%A7a%20de%20multa%20pecuni%C3%A1ria%20ser%C3%A1%20feita%20de%20acordo%20com%20o%20disposto%20na",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "93",
+      "next": "95"
+    },
+    "95": {
+      "numero": "95",
+      "texto": "Art. 95. Na execução que tenha por objeto, além da cobrança de multa, o cumprimento de obrigação de fazer ou não fazer, o Juiz concederá a tutela específica da obrigação, ou determinará providências que assegurem o resultado prático equivalente ao do adimplemento.\n\n§ 1o A conversão da obrigação de fazer ou não fazer em perdas e danos somente será admissível se impossível a tutela específica ou a obtenção do resultado prático correspondente.\n\n§ 2o A indenização por perdas e danos far-se-á sem prejuízo das multas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2095.%20Na%20execu%C3%A7%C3%A3o%20que%20tenha%20por%20objeto%2C%20al%C3%A9m%20da%20cobran%C3%A7a%20de%20multa%2C%20o%20cumprimento%20de%20obriga%C3%A7%C3%A3o%20de%20fazer%20ou%20n%C3%A3o%20fazer%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "94",
+      "next": "96"
+    },
+    "96": {
+      "numero": "96",
+      "texto": "Art. 96. A execução será feita por todos os meios, inclusive mediante intervenção na empresa, quando necessária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2096.%20A%20execu%C3%A7%C3%A3o%20ser%C3%A1%20feita%20por%20todos%20os%20meios%2C%20inclusive%20mediante%20interven%C3%A7%C3%A3o%20na%20empresa%2C%20quando%20necess%C3%A1ria.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "95",
+      "next": "97"
+    },
+    "97": {
+      "numero": "97",
+      "texto": "Art. 97. A execução das decisões do Cade será promovida na Justiça Federal do Distrito Federal ou da sede ou domicílio do executado, à escolha do Cade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2097.%20A%20execu%C3%A7%C3%A3o%20das%20decis%C3%B5es%20do%20Cade%20ser%C3%A1%20promovida%20na%20Justi%C3%A7a%20Federal%20do%20Distrito%20Federal%20ou%20da%20sede%20ou%20domic%C3%ADlio%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "96",
+      "next": "98"
+    },
+    "98": {
+      "numero": "98",
+      "texto": "Art. 98. O oferecimento de embargos ou o ajuizamento de qualquer outra ação que vise à desconstituição do título executivo não suspenderá a execução, se não for garantido o juízo no valor das multas aplicadas, para que se garanta o cumprimento da decisão final proferida nos autos, inclusive no que tange a multas diárias.\n\n§ 1o Para garantir o cumprimento das obrigações de fazer, deverá o juiz fixar caução idônea.\n\n§ 2o Revogada a liminar, o depósito do valor da multa converter-se-á em renda do Fundo de Defesa de Direitos Difusos.\n\n§ 3o O depósito em dinheiro não suspenderá a incidência de juros de mora e atualização monetária, podendo o Cade, na hipótese do § 2o deste artigo, promover a execução para cobrança da diferença entre o valor revertido ao Fundo de Defesa de Direitos Difusos e o valor da multa atualizado, com os acréscimos legais, como se sua exigibilidade do crédito jamais tivesse sido suspensa.\n\n§ 4o Na ação que tenha por objeto decisão do Cade, o autor deverá deduzir todas as questões de fato e de direito, sob pena de preclusão consumativa, reputando-se deduzidas todas as alegações que poderia deduzir em favor do acolhimento do pedido, não podendo o mesmo pedido ser deduzido sob diferentes causas de pedir em ações distintas, salvo em relação a fatos supervenientes. (Revogado pela Lei n º 13.105, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2098.%20O%20oferecimento%20de%20embargos%20ou%20o%20ajuizamento%20de%20qualquer%20outra%20a%C3%A7%C3%A3o%20que%20vise%20%C3%A0%20desconstitui%C3%A7%C3%A3o%20do%20t%C3%ADtulo%20executivo%20n%C3%A3o%20suspender%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "97",
+      "next": "99"
+    },
+    "99": {
+      "numero": "99",
+      "texto": "Art. 99. Em razão da gravidade da infração da ordem econômica, e havendo fundado receio de dano irreparável ou de difícil reparação, ainda que tenha havido o depósito das multas e prestação de caução, poderá o Juiz determinar a adoção imediata, no todo ou em parte, das providências contidas no título executivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%2099.%20Em%20raz%C3%A3o%20da%20gravidade%20da%20infra%C3%A7%C3%A3o%20da%20ordem%20econ%C3%B4mica%2C%20e%20havendo%20fundado%20receio%20de%20dano%20irrepar%C3%A1vel%20ou%20de%20dif%C3%ADcil%20repara%C3%A7%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "98",
+      "next": "100"
+    },
+    "100": {
+      "numero": "100",
+      "texto": "Art. 100. No cálculo do valor da multa diária pela continuidade da infração, tomar-se-á como termo inicial a data final fixada pelo Cade para a adoção voluntária das providências contidas em sua decisão, e como termo final o dia do seu efetivo cumprimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20100.%20No%20c%C3%A1lculo%20do%20valor%20da%20multa%20di%C3%A1ria%20pela%20continuidade%20da%20infra%C3%A7%C3%A3o%2C%20tomar-se-%C3%A1%20como%20termo%20inicial%20a%20data%20final%20fixada%20pelo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "99",
+      "next": "101"
+    },
+    "101": {
+      "numero": "101",
+      "texto": "Art. 101. O processo de execução em juízo das decisões do Cade terá preferência sobre as demais espécies de ação, exceto habeas corpus e mandado de segurança.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20101.%20O%20processo%20de%20execu%C3%A7%C3%A3o%20em%20ju%C3%ADzo%20das%20decis%C3%B5es%20do%20Cade%20ter%C3%A1%20prefer%C3%AAncia%20sobre%20as%20demais%20esp%C3%A9cies%20de%20a%C3%A7%C3%A3o%2C%20exceto%20habeas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "100",
+      "next": "102"
+    },
+    "102": {
+      "numero": "102",
+      "texto": "Art. 102. O Juiz decretará a intervenção na empresa quando necessária para permitir a execução específica, nomeando o interventor.\n\nParágrafo único. A decisão que determinar a intervenção deverá ser fundamentada e indicará, clara e precisamente, as providências a serem tomadas pelo interventor nomeado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20102.%20O%20Juiz%20decretar%C3%A1%20a%20interven%C3%A7%C3%A3o%20na%20empresa%20quando%20necess%C3%A1ria%20para%20permitir%20a%20execu%C3%A7%C3%A3o%20espec%C3%ADfica%2C%20nomeando%20o%20interventor.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "101",
+      "next": "103"
+    },
+    "103": {
+      "numero": "103",
+      "texto": "Art. 103. Se, dentro de 48 (quarenta e oito) horas, o executado impugnar o interventor por motivo de inaptidão ou inidoneidade, feita a prova da alegação em 3 (três) dias, o juiz decidirá em igual prazo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20103.%20Se%2C%20dentro%20de%2048%20%28quarenta%20e%20oito%29%20horas%2C%20o%20executado%20impugnar%20o%20interventor%20por%20motivo%20de%20inaptid%C3%A3o%20ou%20inidoneidade%2C%20feita",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "102",
+      "next": "104"
+    },
+    "104": {
+      "numero": "104",
+      "texto": "Art. 104. Sendo a impugnação julgada procedente, o juiz nomeará novo interventor no prazo de 5 (cinco) dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20104.%20Sendo%20a%20impugna%C3%A7%C3%A3o%20julgada%20procedente%2C%20o%20juiz%20nomear%C3%A1%20novo%20interventor%20no%20prazo%20de%205%20%28cinco%29%20dias.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "103",
+      "next": "105"
+    },
+    "105": {
+      "numero": "105",
+      "texto": "Art. 105. A intervenção poderá ser revogada antes do prazo estabelecido, desde que comprovado o cumprimento integral da obrigação que a determinou.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20105.%20A%20interven%C3%A7%C3%A3o%20poder%C3%A1%20ser%20revogada%20antes%20do%20prazo%20estabelecido%2C%20desde%20que%20comprovado%20o%20cumprimento%20integral%20da%20obriga%C3%A7%C3%A3o%20que%20a%20determinou.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "104",
+      "next": "106"
+    },
+    "106": {
+      "numero": "106",
+      "texto": "Art. 106. A intervenção judicial deverá restringir-se aos atos necessários ao cumprimento da decisão judicial que a determinar e terá duração máxima de 180 (cento e oitenta) dias, ficando o interventor responsável por suas ações e omissões, especialmente em caso de abuso de poder e desvio de finalidade.\n\n§ 1o Aplica-se ao interventor, no que couber, o disposto nos arts. 153 a 159 da Lei no 6.404, de 15 de dezembro de 1976.\n\n§ 2o A remuneração do interventor será arbitrada pelo Juiz, que poderá substituí-lo a qualquer tempo, sendo obrigatória a substituição quando incorrer em insolvência civil, quando for sujeito passivo ou ativo de qualquer forma de corrupção ou prevaricação, ou infringir quaisquer de seus deveres.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20106.%20A%20interven%C3%A7%C3%A3o%20judicial%20dever%C3%A1%20restringir-se%20aos%20atos%20necess%C3%A1rios%20ao%20cumprimento%20da%20decis%C3%A3o%20judicial%20que%20a%20determinar%20e%20ter%C3%A1%20dura%C3%A7%C3%A3o%20m%C3%A1xima",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "105",
+      "next": "107"
+    },
+    "107": {
+      "numero": "107",
+      "texto": "Art. 107. O juiz poderá afastar de suas funções os responsáveis pela administração da empresa que, comprovadamente, obstarem o cumprimento de atos de competência do interventor, devendo eventual substituição dar-se na forma estabelecida no contrato social da empresa.\n\n§ 1o Se, apesar das providências previstas no caput deste artigo, um ou mais responsáveis pela administração da empresa persistirem em obstar a ação do interventor, o juiz procederá na forma do disposto no § 2o deste artigo.\n\n§ 2o Se a maioria dos responsáveis pela administração da empresa recusar colaboração ao interventor, o juiz determinará que este assuma a administração total da empresa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20107.%20O%20juiz%20poder%C3%A1%20afastar%20de%20suas%20fun%C3%A7%C3%B5es%20os%20respons%C3%A1veis%20pela%20administra%C3%A7%C3%A3o%20da%20empresa%20que%2C%20comprovadamente%2C%20obstarem%20o%20cumprimento%20de%20atos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "106",
+      "next": "108"
+    },
+    "108": {
+      "numero": "108",
+      "texto": "Art. 108. Compete ao interventor:\n\nI - praticar ou ordenar que sejam praticados os atos necessários à execução;\n\nII - denunciar ao Juiz quaisquer irregularidades praticadas pelos responsáveis pela empresa e das quais venha a ter conhecimento; e\n\nIII - apresentar ao Juiz relatório mensal de suas atividades.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20108.%20Compete%20ao%20interventor%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "107",
+      "next": "109"
+    },
+    "109": {
+      "numero": "109",
+      "texto": "Art. 109. As despesas resultantes da intervenção correrão por conta do executado contra quem ela tiver sido decretada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20109.%20As%20despesas%20resultantes%20da%20interven%C3%A7%C3%A3o%20correr%C3%A3o%20por%20conta%20do%20executado%20contra%20quem%20ela%20tiver%20sido%20decretada.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "108",
+      "next": "110"
+    },
+    "110": {
+      "numero": "110",
+      "texto": "Art. 110. Decorrido o prazo da intervenção, o interventor apresentará ao juiz relatório circunstanciado de sua gestão, propondo a extinção e o arquivamento do processo ou pedindo a prorrogação do prazo na hipótese de não ter sido possível cumprir integralmente a decisão exequenda.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20110.%20Decorrido%20o%20prazo%20da%20interven%C3%A7%C3%A3o%2C%20o%20interventor%20apresentar%C3%A1%20ao%20juiz%20relat%C3%B3rio%20circunstanciado%20de%20sua%20gest%C3%A3o%2C%20propondo%20a%20extin%C3%A7%C3%A3o%20e%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "109",
+      "next": "111"
+    },
+    "111": {
+      "numero": "111",
+      "texto": "Art. 111. Todo aquele que se opuser ou obstaculizar a intervenção ou, cessada esta, praticar quaisquer atos que direta ou indiretamente anulem seus efeitos, no todo ou em parte, ou desobedecer a ordens legais do interventor será, conforme o caso, responsabilizado criminalmente por resistência, desobediência ou coação no curso do processo, na forma dos arts. 329, 330 e 344 do Decreto-Lei no 2.848, de 7 de dezembro de 1940 - Código Penal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20111.%20Todo%20aquele%20que%20se%20opuser%20ou%20obstaculizar%20a%20interven%C3%A7%C3%A3o%20ou%2C%20cessada%20esta%2C%20praticar%20quaisquer%20atos%20que%20direta%20ou%20indiretamente%20anulem",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VIII",
+        "title_name": "TÍTULO VIII",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "110",
+      "next": "112"
+    },
+    "112": {
+      "numero": "112",
+      "texto": "Art. 112. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20112.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "111",
+      "next": "113"
+    },
+    "113": {
+      "numero": "113",
+      "texto": "Art. 113. Visando a implementar a transição para o sistema de mandatos não coincidentes, as nomeações dos Conselheiros observarão os seguintes critérios de duração dos mandatos, nessa ordem:\n\nI - 2 (dois) anos para os primeiros 2 (dois) mandatos vagos; e\n\nII - 3 (três) anos para o terceiro e o quarto mandatos vagos.\n\n§ 1o Os mandatos dos membros do Cade e do Procurador-Chefe em vigor na data de promulgação desta Lei serão mantidos e exercidos até o seu término original, devendo as nomeações subsequentes à extinção desses mandatos observar o disposto neste artigo.\n\n§ 2o Na hipótese do § 1o deste artigo, o Conselheiro que estiver exercendo o seu primeiro mandato no Cade, após o término de seu mandato original, poderá ser novamente nomeado no mesmo cargo, observado o disposto nos incisos I e II do caput deste artigo.\n\n§ 3o O Conselheiro que estiver exercendo o seu segundo mandato no Cade, após o término de seu mandato original, não poderá ser novamente nomeado para o período subsequente.\n\n§ 4o Não haverá recondução para o Procurador-Chefe que estiver exercendo mandato no Cade, após o término de seu mandato original, podendo ele ser indicado para permanecer no cargo na forma do art. 16 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20113.%20Visando%20a%20implementar%20a%20transi%C3%A7%C3%A3o%20para%20o%20sistema%20de%20mandatos%20n%C3%A3o%20coincidentes%2C%20as%20nomea%C3%A7%C3%B5es%20dos%20Conselheiros%20observar%C3%A3o%20os%20seguintes%20crit%C3%A9rios",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "112",
+      "next": "114"
+    },
+    "114": {
+      "numero": "114",
+      "texto": "Art. 114. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20114.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "113",
+      "next": "115"
+    },
+    "115": {
+      "numero": "115",
+      "texto": "Art. 115. Aplicam-se subsidiariamente aos processos administrativo e judicial previstos nesta Lei as disposições das Leis nos 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, 7.347, de 24 de julho de 1985, 8.078, de 11 de setembro de 1990, e 9.784, de 29 de janeiro de 1999.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20115.%20Aplicam-se%20subsidiariamente%20aos%20processos%20administrativo%20e%20judicial%20previstos%20nesta%20Lei%20as%20disposi%C3%A7%C3%B5es%20das%20Leis%20nos%205.869%2C%20de%2011%20de%20janeiro",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "114",
+      "next": "116"
+    },
+    "116": {
+      "numero": "116",
+      "texto": "Art. 116. O art. 4o da Lei no 8.137, de 27 de dezembro de 1990, passa a vigorar com a seguinte redação:\n\n\"Art. 4o ...............................................................................................................................................\n\nI - abusar do poder econômico, dominando o mercado ou eliminando, total ou parcialmente, a concorrência mediante qualquer forma de ajuste ou acordo de empresas;\n\na) (revogada);\n\nb) (revogada);\n\nc) (revogada);\n\nd) (revogada);\n\ne) (revogada);\n\nf) (revogada);\n\nII - formar acordo, convênio, ajuste ou aliança entre ofertantes, visando:\n\na) à fixação artificial de preços ou quantidades vendidas ou produzidas;\n\nb) ao controle regionalizado do mercado por empresa ou grupo de empresas;\n\nc) ao controle, em detrimento da concorrência, de rede de distribuição ou de fornecedores.\n\nPena - reclusão, de 2 (dois) a 5 (cinco) anos e multa.\n\nIII - (revogado);\n\nIV - (revogado);\n\nV - (revogado);\n\nVI - (revogado);\n\nVII - (revogado).\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20116.%20O%20art.%204o%20da%20Lei%20no%208.137%2C%20de%2027%20de%20dezembro%20de%201990%2C%20passa%20a%20vigorar%20com%20a%20seguinte%20reda%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "115",
+      "next": "117"
+    },
+    "117": {
+      "numero": "117",
+      "texto": "Art. 117. O caput e o inciso V do art. 1o da Lei no 7.347, de 24 de julho de 1985, passam a vigorar com a seguinte redação:\n\n\"Art. 1º Regem-se pelas disposições desta Lei, sem prejuízo da ação popular, as ações de responsabilidade por danos morais e patrimoniais causados:\n\n.............................................................................................\n\nV - por infração da ordem econômica;\n\n...................................................................................\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20117.%20O%20caput%20e%20o%20inciso%20V%20do%20art.%201o%20da%20Lei%20no%207.347%2C%20de%2024%20de%20julho%20de%201985%2C%20passam",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "116",
+      "next": "118"
+    },
+    "118": {
+      "numero": "118",
+      "texto": "Art. 118. Nos processos judiciais em que se discuta a aplicação desta Lei, o Cade deverá ser intimado para, querendo, intervir no feito na qualidade de assistente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20118.%20Nos%20processos%20judiciais%20em%20que%20se%20discuta%20a%20aplica%C3%A7%C3%A3o%20desta%20Lei%2C%20o%20Cade%20dever%C3%A1%20ser%20intimado%20para%2C%20querendo%2C%20intervir%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "117",
+      "next": "119"
+    },
+    "119": {
+      "numero": "119",
+      "texto": "Art. 119. O disposto nesta Lei não se aplica aos casos de dumping e subsídios de que tratam os Acordos Relativos à Implementação do Artigo VI do Acordo Geral sobre Tarifas Aduaneiras e Comércio, promulgados pelos Decretos nos 93.941 e 93.962, de 16 e 22 de janeiro de 1987, respectivamente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20119.%20O%20disposto%20nesta%20Lei%20n%C3%A3o%20se%20aplica%20aos%20casos%20de%20dumping%20e%20subs%C3%ADdios%20de%20que%20tratam%20os%20Acordos%20Relativos%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "118",
+      "next": "120"
+    },
+    "120": {
+      "numero": "120",
+      "texto": "Art. 120. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20120.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "119",
+      "next": "121"
+    },
+    "121": {
+      "numero": "121",
+      "texto": "Art. 121. Ficam criados, para exercício na Secretaria de Acompanhamento Econômico e, prioritariamente, no Cade, observadas as diretrizes e quantitativos estabelecidos pelo Órgão Supervisor da Carreira, 200 (duzentos) cargos de Especialistas em Políticas Públicas e Gestão Governamental, integrantes da Carreira de Especialista em Políticas Públicas e Gestão Governamental, para o exercício das atribuições referidas no art. 1o da Lei no 7.834, de 6 de outubro de 1989, a serem providos gradualmente, observados os limites e a autorização específica da lei de diretrizes orçamentárias, nos termos do inciso II do § 1o do art. 169 da Constituição Federal.\n\nParágrafo único. Ficam transferidos para o Cade os cargos pertencentes ao Ministério da Justiça atualmente alocados no Departamento de Proteção e Defesa Econômica da Secretaria de Direito Econômico, bem como o DAS-6 do Secretário de Direito Econômico. (Vide Decreto nº 7.738, de 2012)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20121.%20Ficam%20criados%2C%20para%20exerc%C3%ADcio%20na%20Secretaria%20de%20Acompanhamento%20Econ%C3%B4mico%20e%2C%20prioritariamente%2C%20no%20Cade%2C%20observadas%20as%20diretrizes%20e%20quantitativos%20estabelecidos%20pelo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "120",
+      "next": "122"
+    },
+    "122": {
+      "numero": "122",
+      "texto": "Art. 122. Os órgãos do SBDC poderão requisitar servidores da administração pública federal direta, autárquica ou fundacional para neles ter exercício, independentemente do exercício de cargo em comissão ou função de confiança.\n\nParágrafo único. Ao servidor requisitado na forma deste artigo são assegurados todos os direitos e vantagens a que façam jus no órgão ou entidade de origem, considerando-se o período de requisição para todos os efeitos da vida funcional, como efetivo exercício no cargo que ocupe no órgão ou entidade de origem.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20122.%20Os%20%C3%B3rg%C3%A3os%20do%20SBDC%20poder%C3%A3o%20requisitar%20servidores%20da%20administra%C3%A7%C3%A3o%20p%C3%BAblica%20federal%20direta%2C%20aut%C3%A1rquica%20ou%20fundacional%20para%20neles%20ter%20exerc%C3%ADcio%2C%20independentemente",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "121",
+      "next": "123"
+    },
+    "123": {
+      "numero": "123",
+      "texto": "Art. 123. Ato do Ministro de Estado do Planejamento, Orçamento e Gestão fixará o quantitativo ideal de cargos efetivos, ocupados, a serem mantidos, mediante lotação, requisição ou exercício, no âmbito do Cade e da Secretaria de Acompanhamento Econômico, bem como fixará cronograma para que sejam atingidos os seus quantitativos, observadas as dotações consignadas nos Orçamentos da União.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20123.%20Ato%20do%20Ministro%20de%20Estado%20do%20Planejamento%2C%20Or%C3%A7amento%20e%20Gest%C3%A3o%20fixar%C3%A1%20o%20quantitativo%20ideal%20de%20cargos%20efetivos%2C%20ocupados%2C%20a%20serem",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "122",
+      "next": "124"
+    },
+    "124": {
+      "numero": "124",
+      "texto": "Art. 124. Ficam criados, no âmbito do Poder Executivo Federal, para alocação ao Cade, os seguintes cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS: 2 (dois) cargos de natureza especial NES de Presidente do Cade e Superintendente-Geral do Cade, 7 (sete) DAS-6, 16 (dezesseis) DAS-4, 8 (oito) DAS-3, 11 (onze) DAS-2 e 21 (vinte e um) DAS-1.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20124.%20Ficam%20criados%2C%20no%20%C3%A2mbito%20do%20Poder%20Executivo%20Federal%2C%20para%20aloca%C3%A7%C3%A3o%20ao%20Cade%2C%20os%20seguintes%20cargos%20em%20comiss%C3%A3o%20do%20Grupo-Dire%C3%A7%C3%A3o%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "123",
+      "next": "125"
+    },
+    "125": {
+      "numero": "125",
+      "texto": "Art. 125. O Poder Executivo disporá sobre a estrutura regimental do Cade, sobre as competências e atribuições, denominação das unidades e especificações dos cargos, promovendo a alocação, nas unidades internas da autarquia, dos cargos em comissão e das funções gratificadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20125.%20O%20Poder%20Executivo%20dispor%C3%A1%20sobre%20a%20estrutura%20regimental%20do%20Cade%2C%20sobre%20as%20compet%C3%AAncias%20e%20atribui%C3%A7%C3%B5es%2C%20denomina%C3%A7%C3%A3o%20das%20unidades%20e%20especifica%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "124",
+      "next": "126"
+    },
+    "126": {
+      "numero": "126",
+      "texto": "Art. 126. Ficam extintos, no âmbito do Poder Executivo Federal, os seguintes cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS e Funções Gratificadas - FG: 3 (três) DAS-5, 2 (duas) FG-1 e 16 (dezesseis) FG-3. (Vide Decreto nº 7.738, de 2012)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20126.%20Ficam%20extintos%2C%20no%20%C3%A2mbito%20do%20Poder%20Executivo%20Federal%2C%20os%20seguintes%20cargos%20em%20comiss%C3%A3o%20do%20Grupo-Dire%C3%A7%C3%A3o%20e%20Assessoramento%20Superiores%20-%20DAS",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "125",
+      "next": "127"
+    },
+    "127": {
+      "numero": "127",
+      "texto": "Art. 127. Ficam revogados a Lei no 9.781, de 19 de janeiro de 1999, os arts. 5o e 6º da Lei nº 8.137, de 27 de dezembro de 1990, e os arts. 1o a 85 e 88 a 93 da Lei no 8.884, de 11 de junho de 1994.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20127.%20Ficam%20revogados%20a%20Lei%20no%209.781%2C%20de%2019%20de%20janeiro%20de%201999%2C%20os%20arts.%205o%20e%206%C2%BA%20da%20Lei%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "126",
+      "next": "128"
+    },
+    "128": {
+      "numero": "128",
+      "texto": "Art. 128. Esta Lei entra em vigor após decorridos 180 (cento e oitenta) dias de sua publicação oficial.\n\nBrasília, 30 de novembro de 2011; 190o da Independência e 123o da República.\n\nDilma Rousseff José Eduardo Cardozo Guido Mantega Eva Maria Cella Dal Chiavon Luís Inácio Lucena Adams\n\nEste texto não substitui o publicado no DOU de 1º.11.2011 e retificado em 2.12.2011.\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm#:~:text=Art.%20128.%20Esta%20Lei%20entra%20em%20vigor%20ap%C3%B3s%20decorridos%20180%20%28cento%20e%20oitenta%29%20dias%20de%20sua%20publica%C3%A7%C3%A3o%20oficial.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IX",
+        "title_name": "TÍTULO IX",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "127",
+      "next": null
+    }
+  }
+}

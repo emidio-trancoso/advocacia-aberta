@@ -1,0 +1,639 @@
+{
+  "_meta": {
+    "codigo": "L14430",
+    "nome": "Marco das Securitizadoras e Securitização",
+    "lei": "Lei 14.430/2022",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm",
+    "total_artigos": 39,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Esta Lei dispõe sobre:\n\nI - a emissão de Letra de Risco de Seguro (LRS) por Sociedade Seguradora de Propósito Específico (SSPE);\n\nII - as regras gerais aplicáveis à securitização de direitos creditórios e à emissão de Certificados de Recebíveis; e\n\nIII - a flexibilização do requisito de instituição financeira para a prestação do serviço de escrituração e de custódia de valores mobiliários.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%201%C2%BA%20Esta%20Lei%20disp%C3%B5e%20sobre%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º A Sociedade Seguradora de Propósito Específico (SSPE) é a sociedade seguradora que tem como finalidade exclusiva realizar uma ou mais operações, independentes patrimonialmente, de aceitação de riscos de seguros, previdência complementar, saúde suplementar, resseguro ou retrocessão de uma ou mais contrapartes e seu financiamento por meio de emissão de Letra de Risco de Seguro (LRS), instrumento de dívida vinculada a riscos de seguros e resseguros.\n\n§ 1º A SSPE captará para cada operação, por meio de emissão de LRS, recursos necessários como garantias a riscos de seguros, previdência complementar, saúde suplementar, resseguro ou retrocessão, denominados, para fins do disposto nesta Lei, riscos de seguros e resseguros.\n\n§ 2º As garantias de que trata o § 1º deste artigo, em conjunto com o prêmio recebido, deverão corresponder, no mínimo, ao valor nominal total da perda máxima possível decorrente dos riscos de seguros e resseguros aceitos, acrescido de despesas que possam ser incorridas pela SSPE, e serão utilizadas exclusivamente para a cobertura dos riscos e o cumprimento das obrigações representadas na LRS emitida.\n\n§ 3º Para fins do disposto nesta Lei, considera-se contraparte a sociedade seguradora, o ressegurador, a entidade de previdência complementar, a operadora de saúde suplementar, ou a pessoa jurídica, de natureza pública ou privada, sediada ou não no País, que cede riscos de seguros e resseguros à SSPE, conforme critérios estabelecidos em regulamentação específica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%202%C2%BA%20A%20Sociedade%20Seguradora%20de%20Prop%C3%B3sito%20Espec%C3%ADfico%20%28SSPE%29%20%C3%A9%20a%20sociedade%20seguradora%20que%20tem%20como%20finalidade%20exclusiva%20realizar%20uma%20ou%20mais",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º A SSPE somente poderá ceder riscos em resseguro ou em retrocessão nas hipóteses e nas condições estabelecidas pelo Conselho Nacional de Seguros Privados (CNSP).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%203%C2%BA%20A%20SSPE%20somente%20poder%C3%A1%20ceder%20riscos%20em%20resseguro%20ou%20em%20retrocess%C3%A3o%20nas%20hip%C3%B3teses%20e%20nas%20condi%C3%A7%C3%B5es%20estabelecidas%20pelo%20Conselho%20Nacional",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Os contratos de cessão de riscos de seguros e resseguros à SSPE poderão utilizar, entre outros, critérios matemáticos objetivos baseados em índices ou parâmetros para a definição de valores garantidos e o acionamento de cobertura contratual.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%204%C2%BA%20Os%20contratos%20de%20cess%C3%A3o%20de%20riscos%20de%20seguros%20e%20resseguros%20%C3%A0%20SSPE%20poder%C3%A3o%20utilizar%2C%20entre%20outros%2C%20crit%C3%A9rios%20matem%C3%A1ticos%20objetivos%20baseados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º A SSPE não responderá diretamente perante o segurado, o participante, o beneficiário ou o assistido pelo montante assumido quando a contraparte for sociedade seguradora, ressegurador, entidade de previdência complementar ou operadora de saúde suplementar, hipótese em que a contraparte ficará integralmente responsável pela indenização.\n\nParágrafo único. Na hipótese de insolvência, de decretação de liquidação ou de falência da contraparte de que trata o caput deste artigo, será permitido o pagamento direto ao segurado, ao participante, ao beneficiário ou ao assistido da parcela de indenização ou benefício correspondente à cessão do risco à SSPE, desde que o pagamento da parcela não tenha sido realizado pela contraparte ao segurado nem à própria contraparte.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%205%C2%BA%20A%20SSPE%20n%C3%A3o%20responder%C3%A1%20diretamente%20perante%20o%20segurado%2C%20o%20participante%2C%20o%20benefici%C3%A1rio%20ou%20o%20assistido%20pelo%20montante%20assumido%20quando%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Os investidores titulares da LRS não poderão requerer a falência ou a liquidação da SSPE.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%206%C2%BA%20Os%20investidores%20titulares%20da%20LRS%20n%C3%A3o%20poder%C3%A3o%20requerer%20a%20fal%C3%AAncia%20ou%20a%20liquida%C3%A7%C3%A3o%20da%20SSPE.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Compete ao CNSP, além das demais competências previstas na legislação:\n\nI - estabelecer as diretrizes e as normas referentes aos contratos e à aceitação, pela SSPE, dos riscos de seguros e resseguros, do seu financiamento por meio de emissão de LRS e das condições da emissão;\n\nII - regulamentar limites e restrições, quando aplicáveis, nas operações de que trata esta Lei;\n\nIII - regulamentar os critérios previstos no § 3º do art. 2º desta Lei;\n\nIV - estabelecer a forma e as condições para o registro e o depósito da LRS;\n\nV - determinar as demonstrações financeiras a serem elaboradas pela SSPE, a sua periodicidade e a necessidade de auditoria efetuada por auditores independentes; e\n\nVI - regulamentar os demais aspectos necessários à operacionalização do disposto nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%207%C2%BA%20Compete%20ao%20CNSP%2C%20al%C3%A9m%20das%20demais%20compet%C3%AAncias%20previstas%20na%20legisla%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º A distribuição e a oferta pública da LRS observarão o disposto em regulamentação editada pela Comissão de Valores Mobiliários (CVM).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%208%C2%BA%20A%20distribui%C3%A7%C3%A3o%20e%20a%20oferta%20p%C3%BAblica%20da%20LRS%20observar%C3%A3o%20o%20disposto%20em%20regulamenta%C3%A7%C3%A3o%20editada%20pela%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios%20%28CVM%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Ato conjunto do CNSP e do Conselho Monetário Nacional (CMN) disciplinará a atuação, os requisitos, as atribuições e as responsabilidades do agente fiduciário nas operações de que trata esta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%209%C2%BA%20Ato%20conjunto%20do%20CNSP%20e%20do%20Conselho%20Monet%C3%A1rio%20Nacional%20%28CMN%29%20disciplinar%C3%A1%20a%20atua%C3%A7%C3%A3o%2C%20os%20requisitos%2C%20as%20atribui%C3%A7%C3%B5es%20e%20as%20responsabilidades",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A SSPE será regulada também, no que couber, pela legislação aplicável às sociedades seguradoras.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2010.%20A%20SSPE%20ser%C3%A1%20regulada%20tamb%C3%A9m%2C%20no%20que%20couber%2C%20pela%20legisla%C3%A7%C3%A3o%20aplic%C3%A1vel%20%C3%A0s%20sociedades%20seguradoras.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Para as SSPEs, as faixas de enquadramento e os respectivos valores constantes de tabela que determina o valor devido de taxa de fiscalização serão iguais aos aplicados às sociedades seguradoras que operam, exclusivamente, com seguros de danos, nos termos da legislação específica.\n\nParágrafo único. Para enquadramento nas faixas indicadas na legislação específica com valores de taxas de fiscalização constantes da legislação específica, serão considerados, somente, os valores totais de prêmios da SSPE.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2011.%20Para%20as%20SSPEs%2C%20as%20faixas%20de%20enquadramento%20e%20os%20respectivos%20valores%20constantes%20de%20tabela%20que%20determina%20o%20valor%20devido%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. A Letra de Risco de Seguro (LRS) é um título de crédito nominativo, transferível e de livre negociação, representativo de promessa de pagamento em dinheiro, vinculado a riscos de seguros e resseguros.\n\n§ 1º A LRS é de emissão exclusiva da SSPE de que trata esta Lei.\n\n§ 2º A LRS deve possuir relação paritária com os riscos aceitos pela SSPE, que devem ser, integralmente e no mesmo montante, cobertos pela LRS emitida.\n\n§ 3º Os contratos de transferência de risco da contraparte para a SSPE, bem como a LRS, devem garantir que a transferência de risco seja efetiva em todas as circunstâncias e que a extensão dessa transferência esteja claramente definida e seja incontroversa.\n\n§ 4º O CNSP poderá definir requisitos para que os contratos de transferência de risco da contraparte para a SSPE prevejam uma data-limite para que os riscos sejam considerados cobertos.\n\n§ 5º Os direitos dos investidores titulares das LRS estão, em todos os momentos, subordinados às obrigações decorrentes do contrato de cessão de riscos à SSPE.\n\n§ 6º A obrigação representada pela LRS extingue-se pela inexistência de riscos a decorrer, de sinistros a pagar e de recursos a serem devolvidos aos seus titulares.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2012.%20A%20Letra%20de%20Risco%20de%20Seguro%20%28LRS%29%20%C3%A9%20um%20t%C3%ADtulo%20de%20cr%C3%A9dito%20nominativo%2C%20transfer%C3%ADvel%20e%20de%20livre%20negocia%C3%A7%C3%A3o%2C%20representativo%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. A LRS deve conter, no mínimo, as seguintes informações:\n\nI - nome e número de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ) da SSPE emitente;\n\nII - nome e número de inscrição no CNPJ da contraparte que cede os riscos de seguros e resseguros à SSPE emitente;\n\nIII - número de ordem, local, data de emissão e data do início da cobertura dos riscos de seguros e resseguros;\n\nIV - data de vencimento e data de expiração da cobertura dos riscos de seguros e resseguros;\n\nV - denominação “Letra de Risco de Seguro”;\n\nVI - tipo de cobertura e ramo;\n\nVII - descrição dos riscos cedidos pela contraparte, inclusive quanto aos locais em que eles se encontram;\n\nVIII - valor nominal emitido e valor da perda máxima;\n\nIX - moeda do valor nominal emitido;\n\nX - nome do titular;\n\nXI - taxa de juros e datas de sua exigibilidade, admitida a capitalização;\n\nXII - remuneração da operação a ser paga à SSPE;\n\nXIII - descrição dos ativos que lastreiam a LRS;\n\nXIV - identificação do contrato ou da escritura de emissão da LRS; e\n\nXV - identificação do agente fiduciário, se houver.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2013.%20A%20LRS%20deve%20conter%2C%20no%20m%C3%ADnimo%2C%20as%20seguintes%20informa%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. A LRS será emitida exclusivamente sob a forma escritural, por meio de lançamento em sistema eletrônico da SSPE emissora.\n\n§ 1º A SSPE emissora emitirá, mediante solicitação, certidão de inteiro teor do título.\n\n§ 2º A certidão de que trata o § 1º deste artigo poderá ser emitida na forma eletrônica, observados os requisitos de segurança que garantam a autenticidade e a integridade do documento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2014.%20A%20LRS%20ser%C3%A1%20emitida%20exclusivamente%20sob%20a%20forma%20escritural%2C%20por%20meio%20de%20lan%C3%A7amento%20em%20sistema%20eletr%C3%B4nico%20da%20SSPE%20emissora.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. A LRS é título executivo extrajudicial e pode:\n\nI - ser executada com base em certidão de inteiro teor emitida pela SSPE emissora; e\n\nII - gerar valor de resgate inferior ao valor de sua emissão, em função da eventual ocorrência de eventos cobertos decorrentes dos riscos de seguros e resseguros aceitos ou por seus critérios de remuneração.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2015.%20A%20LRS%20%C3%A9%20t%C3%ADtulo%20executivo%20extrajudicial%20e%20pode%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Cada operação de aceitação de riscos de seguros e resseguros e consequente financiamento por meio da emissão de LRS terá independência patrimonial em relação:\n\nI - às demais operações de que trata o caput deste artigo efetuadas pela mesma SSPE; e\n\nII - à própria SSPE.\n\n§ 1º A independência patrimonial de que trata o caput deste artigo abrange a identidade própria e individualizada nos aspectos regulamentares, cadastrais, atuariais, contábeis, de investimentos e obrigações e será operacionalizada por meio da inscrição de cada operação no CNPJ.\n\n§ 2º O disposto neste artigo não confere personalidade jurídica às operações feitas pela SSPE.\n\n§ 3º A eventual insolvência da SSPE não afetará em nenhuma hipótese os patrimônios independentes constituídos para cada operação, que continuarão afetados e vinculados às LRS.\n\n§ 4º Os patrimônios independentes constituídos para cada operação não serão alcançados pelos efeitos da decretação de intervenção, de liquidação extrajudicial ou de falência da SSPE emissora e não integrarão a massa concursal.\n\n§ 5º Os dispositivos desta Lei que estabelecem a afetação ou a separação, a qualquer título, de patrimônio da SSPE à emissão específica de LRS produzem efeitos em relação a quaisquer outros débitos da SSPE, inclusive de natureza fiscal, previdenciária ou trabalhista, em especial quanto às garantias e aos privilégios que lhes são atribuídos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2016.%20Cada%20opera%C3%A7%C3%A3o%20de%20aceita%C3%A7%C3%A3o%20de%20riscos%20de%20seguros%20e%20resseguros%20e%20consequente%20financiamento%20por%20meio%20da%20emiss%C3%A3o%20de%20LRS%20ter%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. O patrimônio de cada operação de que trata o caput do art. 16 desta Lei incluirá a parcela do prêmio repassado pela contraparte não destinado à remuneração da SSPE e:\n\nI - não poderá ser utilizado para o pagamento de obrigações relativas a outras operações da SSPE;\n\nII - será destinado exclusivamente à liquidação das LRS a que estiver afetado e ao pagamento de sinistros, de custos de administração e de obrigações fiscais;\n\nIII - não responderá perante os credores da SSPE por qualquer obrigação;\n\nIV - não será passível de constituição de garantias por quaisquer dos credores da SSPE, por mais privilegiados que sejam; e\n\nV - somente responderá pelas obrigações inerentes às LRS a ele afetadas.\n\n§ 1º A totalidade do patrimônio da SSPE responderá pelos prejuízos que esta causar por descumprimento de disposição legal ou regulamentar, por negligência ou por administração temerária ou, ainda, por desvio da finalidade do patrimônio separado.\n\n§ 2º A realização dos direitos dos investidores titulares das LRS deverá limitar-se às garantias integrantes do patrimônio separado de cada operação.\n\n§ 3º A realização dos direitos da contraparte de cada operação não ficará limitada às garantias integrantes do patrimônio separado da referida operação, hipótese em que o patrimônio da própria SSPE responderá de forma subsidiária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2017.%20O%20patrim%C3%B4nio%20de%20cada%20opera%C3%A7%C3%A3o%20de%20que%20trata%20o%20caput%20do%20art.%2016%20desta%20Lei%20incluir%C3%A1%20a%20parcela%20do%20pr%C3%AAmio",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. As companhias securitizadoras são instituições não financeiras constituídas sob a forma de sociedade por ações que têm por finalidade realizar operações de securitização.\n\nParágrafo único. É considerada operação de securitização a aquisição de direitos creditórios para lastrear a emissão de Certificados de Recebíveis ou outros títulos e valores mobiliários perante investidores, cujo pagamento é primariamente condicionado ao recebimento de recursos dos direitos creditórios e dos demais bens, direitos e garantias que o lastreiam.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2018.%20As%20companhias%20securitizadoras%20s%C3%A3o%20institui%C3%A7%C3%B5es%20n%C3%A3o%20financeiras%20constitu%C3%ADdas%20sob%20a%20forma%20de%20sociedade%20por%20a%C3%A7%C3%B5es%20que%20t%C3%AAm%20por%20finalidade%20realizar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Compete à CVM editar as normas sobre a emissão pública de Certificados de Recebíveis e outros valores mobiliários representativos de operações de securitização de tais direitos, incluídos:\n\nI - o registro, a estrutura, o funcionamento e as atividades das companhias securitizadoras de direitos creditórios emissoras de valores mobiliários ofertados publicamente;\n\nII - as características e o regime de prestação de informações associados aos Certificados de Recebíveis e aos demais valores mobiliários ofertados publicamente; e\n\nIII - as hipóteses de destituição e de substituição das companhias securitizadoras.\n\nParágrafo único. A CVM poderá dispensar as companhias securitizadoras registradas de aplicar disposições da Lei nº 6.404, de 15 de dezembro de 1976, desde que a dispensa não represente prejuízo ao interesse público, à proteção do público investidor e à informação adequada ao mercado de valores mobiliários.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2019.%20Compete%20%C3%A0%20CVM%20editar%20as%20normas%20sobre%20a%20emiss%C3%A3o%20p%C3%BAblica%20de%20Certificados%20de%20Receb%C3%ADveis%20e%20outros%20valores%20mobili%C3%A1rios%20representativos%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Os Certificados de Recebíveis são títulos de crédito nominativos, emitidos de forma escritural, de emissão exclusiva de companhia securitizadora, de livre negociação, constituem promessa de pagamento em dinheiro, preservada a possibilidade de dação em pagamento, e são títulos executivos extrajudiciais.\n\n§ 1º Quando ofertados publicamente ou admitidos à negociação em mercado regulamentado de valores mobiliários, os Certificados de Recebíveis são considerados valores mobiliários.\n\n§ 2º Os direitos creditórios que lastrearão os Certificados de Recebíveis serão previamente identificados, atenderão aos critérios de elegibilidade previstos no termo de securitização e deverão ser adquiridos até a data de integralização dos Certificados de Recebíveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2020.%20Os%20Certificados%20de%20Receb%C3%ADveis%20s%C3%A3o%20t%C3%ADtulos%20de%20cr%C3%A9dito%20nominativos%2C%20emitidos%20de%20forma%20escritural%2C%20de%20emiss%C3%A3o%20exclusiva%20de%20companhia%20securitizadora%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Aos Certificados de Recebíveis aplica-se, no que couber, o disposto na legislação cambial.\n\n§ 1º O Certificado de Recebíveis pode ser garantido por aval, hipótese em que é vedado o seu cancelamento ou a sua concessão parcial.\n\n§ 2º O protesto cambial é dispensado para assegurar o direito de regresso contra avalistas.\n\n§ 3º O endossante não responde pelo cumprimento da prestação constante do Certificado de Recebíveis.\n\n§ 4º A companhia securitizadora responde pela origem e pela autenticidade dos direitos creditórios vinculados ao Certificado de Recebíveis por ela emitido.\n\n§ 5º O valor do Certificado de Recebíveis não pode exceder ao valor total dos direitos creditórios e de outros ativos a ele vinculados.\n\n§ 6º A transferência do Certificado de Recebíveis implica a transferência de todos os direitos que lhe são inerentes.\n\n§ 7º Somente o Certificado de Recebíveis pode ser dado em garantia enquanto estiver em circulação, hipótese em que os direitos creditórios a ele vinculados não podem ser dados em garantia separadamente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2021.%20Aos%20Certificados%20de%20Receb%C3%ADveis%20aplica-se%2C%20no%20que%20couber%2C%20o%20disposto%20na%20legisla%C3%A7%C3%A3o%20cambial.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Os Certificados de Recebíveis integrantes de cada emissão da companhia securitizadora serão formalizados por meio de termo de securitização, do qual constarão as seguintes informações:\n\nI - nome da companhia securitizadora emitente;\n\nII - número de ordem, local e data de emissão;\n\nIII - denominação “Certificado de Recebíveis” acrescida da natureza dos direitos creditórios;\n\nIV - valor nominal;\n\nV - data de vencimento ordinário do valor nominal e de resgate dos Certificados de Recebíveis e, se for o caso, discriminação dos valores e das datas de pagamento das amortizações;\n\nVI - remuneração por taxa de juros fixa, flutuante ou variável, que poderá contar com prêmio, fixo ou variável, e admitir a capitalização no período estabelecido no termo de securitização;\n\nVII - critérios para atualização monetária, se houver;\n\nVIII - cláusula de correção por variação cambial, se houver, desde que estabelecida em conformidade com o disposto nos §§ 8º e 9º deste artigo;\n\nIX - local e método de pagamento;\n\nX - indicação do número de emissão e da eventual divisão dos Certificados de Recebíveis integrantes da mesma emissão em diferentes classes ou séries, inclusive a possibilidade de aditamentos posteriores para inclusão de novas classes e séries e requisitos de complementação de lastro, quando for o caso;\n\nXI - indicação da existência ou não de subordinação entre as classes integrantes da mesma emissão, entendida como a preferência de uma classe sobre outra para fins de amortização e resgate dos Certificados de Recebíveis;\n\nXII - descrição dos direitos creditórios que compõem o lastro da emissão dos Certificados de Recebíveis;\n\nXIII - indicação, se for o caso, da possibilidade de substituição ou de aquisição futura dos direitos creditórios vinculados aos Certificados de Recebíveis com a utilização dos recursos provenientes do pagamento dos direitos creditórios originais vinculados à emissão, com detalhamento do procedimento para a sua formalização, dos critérios de elegibilidade e do prazo para a aquisição dos novos direitos creditórios, sob pena de amortização antecipada obrigatória dos Certificados de Recebíveis, observado o disposto no inciso II do § 2º deste artigo;\n\nXIV - se houver, garantias fidejussórias ou reais de amortização dos Certificados de Recebíveis integrantes da emissão ou de classes e séries específicas, se for o caso;\n\nXV - indicação da possibilidade de dação em pagamento dos direitos creditórios aos titulares dos Certificados de Recebíveis, hipótese em que deverão ser estabelecidos os procedimentos a serem adotados;\n\nXVI - regras e procedimentos aplicáveis às assembleias gerais de titulares de Certificados de Recebíveis; e\n\nXVII - hipóteses em que a companhia securitizadora poderá ser destituída ou substituída.\n\n§ 1º Os Certificados de Recebíveis de mesma emissão serão lastreados pela mesma carteira de direitos creditórios.\n\n§ 2º Na hipótese prevista no § 1º do art. 20 desta Lei:\n\nI - a CVM poderá estabelecer informações adicionais a serem incluídas no termo de securitização a que se refere o caput deste artigo;\n\nII - a substituição e a aquisição de novos direitos creditórios com a utilização dos recursos provenientes do pagamento dos direitos creditórios originais vinculados à emissão de que trata o inciso XIII do caput deste artigo poderão ocorrer nos termos e nas condições estabelecidos na regulamentação editada pela CVM; e\n\nIII - a companhia securitizadora deverá observar a regulamentação editada pela CVM nas hipóteses previstas nos incisos XVI e XVII do caput deste artigo.\n\n§ 3º O montante dos direitos creditórios vinculados ao pagamento dos Certificados de Recebíveis deverá ser, no mínimo, suficiente para permitir a sua amortização integral.\n\n§ 4º O Certificado de Recebíveis, quando ofertado privadamente, poderá ter, conforme dispuser o termo de securitização, garantia flutuante, que lhe assegurará privilégio geral sobre o ativo do patrimônio comum da companhia securitizadora.\n\n§ 5º Na hipótese prevista no § 4º deste artigo, a garantia flutuante não impedirá a negociação dos bens que compõem o Certificado de Recebíveis.\n\n§ 6º A companhia securitizadora poderá celebrar com investidores promessa de subscrição e integralização de Certificados de Recebíveis, de forma a receber recursos para a aquisição de direitos creditórios que servirão de lastro para a sua emissão, conforme chamadas de capital feitas de acordo com o cronograma esperado para a aquisição dos direitos creditórios.\n\n§ 7º Os instrumentos de emissão de outros títulos de dívida representativos de operação de securitização emitidos por companhias securitizadoras deverão observar os dispositivos desta Lei aplicáveis ao termo de securitização.\n\n§ 8º O Certificado de Recebíveis poderá ser emitido com cláusula de correção pela variação cambial, desde que seja:\n\nI - integralmente vinculado a direitos creditórios com cláusula de correção na mesma moeda; e\n\nII - emitido em favor de investidor residente ou domiciliado no exterior, observado o disposto no § 9º deste artigo.\n\n§ 9º O CMN poderá estabelecer outras condições para a emissão de Certificado de Recebíveis com cláusula de correção pela variação cambial, inclusive sobre a emissão em favor de investidor residente no País.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2022.%20Os%20Certificados%20de%20Receb%C3%ADveis%20integrantes%20de%20cada%20emiss%C3%A3o%20da%20companhia%20securitizadora%20ser%C3%A3o%20formalizados%20por%20meio%20de%20termo%20de%20securitiza%C3%A7%C3%A3o%2C%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. O Certificado de Recebíveis deverá ser levado a registro ou a depósito em entidade autorizada pelo Banco Central do Brasil ou pela CVM a exercer a atividade de registro ou depósito centralizado de ativos financeiros e de valores mobiliários, nos termos da Lei nº 12.810, de 15 de maio de 2013.\n\nParágrafo único. O Certificado de Recebíveis será obrigatoriamente submetido a depósito quando for:\n\nI - ofertado publicamente; ou\n\nII - negociado em mercados organizados de valores mobiliários.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2023.%20O%20Certificado%20de%20Receb%C3%ADveis%20dever%C3%A1%20ser%20levado%20a%20registro%20ou%20a%20dep%C3%B3sito%20em%20entidade%20autorizada%20pelo%20Banco%20Central%20do%20Brasil",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Os Certificados de Recebíveis, nas distribuições realizadas no exterior, poderão ser registrados em entidade de registro e de liquidação financeira situada no país de distribuição, desde que a entidade seja:\n\nI - autorizada em seu país de origem; e\n\nII - supervisionada por autoridade estrangeira com a qual a CVM tenha firmado acordo de cooperação mútua que permita intercâmbio de informações sobre operações realizadas nos mercados por ela supervisionados, ou que seja signatária de memorando multilateral de entendimentos da Organização Internacional das Comissões de Valores.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2024.%20Os%20Certificados%20de%20Receb%C3%ADveis%2C%20nas%20distribui%C3%A7%C3%B5es%20realizadas%20no%20exterior%2C%20poder%C3%A3o%20ser%20registrados%20em%20entidade%20de%20registro%20e%20de%20liquida%C3%A7%C3%A3o%20financeira",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. A companhia securitizadora poderá instituir regime fiduciário sobre os direitos creditórios e sobre os bens e direitos que sejam objeto de garantia pactuada em favor do pagamento dos Certificados de Recebíveis ou de outros títulos e valores mobiliários representativos de operações de securitização e, se houver, do cumprimento de obrigações assumidas pelo cedente dos direitos creditórios.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2025.%20A%20companhia%20securitizadora%20poder%C3%A1%20instituir%20regime%20fiduci%C3%A1rio%20sobre%20os%20direitos%20credit%C3%B3rios%20e%20sobre%20os%20bens%20e%20direitos%20que%20sejam%20objeto",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. O regime fiduciário será instituído mediante declaração unilateral da companhia securitizadora ao firmar termo de securitização, que, além de observar o disposto no art. 22 desta Lei, deverá submeter-se às seguintes condições:\n\nI - constituição do regime fiduciário sobre os direitos creditórios e os demais bens e direitos que lastreiam a emissão;\n\nII - constituição de patrimônio separado, composto pela totalidade dos direitos creditórios e dos demais bens e direitos referidos no inciso I deste caput;\n\nIII - nomeação de agente fiduciário, quando se tratar de emissões públicas, que seja instituição financeira ou entidade autorizada para esse fim pelo Banco Central do Brasil, para atuar em nome e no interesse dos titulares dos Certificados de Recebíveis, acompanhada da indicação de seus deveres, de suas responsabilidades e de sua remuneração, das hipóteses, das condições e da forma de sua destituição ou substituição e das demais condições de sua atuação, observada a regulamentação aplicável; e\n\nIV - forma de liquidação do patrimônio separado, inclusive mediante dação em pagamento dos direitos creditórios e dos bens e direitos referidos no inciso I deste caput.\n\n§ 1º O termo de securitização em que seja instituído o regime fiduciário deverá ser registrado em entidade autorizada pelo Banco Central do Brasil ou pela CVM a exercer a atividade de registro ou depósito centralizado de ativos financeiros e de valores mobiliários, nos termos da Lei nº 12.810, de 15 de maio de 2013.\n\n§ 2º No que se refere à condição prevista no inciso II do caput deste artigo, os direitos creditórios, os bens e os direitos objeto do regime fiduciário permanecerão sob a titularidade da companhia securitizadora, embora estejam afetados exclusiva e integralmente ao pagamento da emissão de Certificados de Recebíveis de que sejam lastro.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2026.%20O%20regime%20fiduci%C3%A1rio%20ser%C3%A1%20institu%C3%ADdo%20mediante%20declara%C3%A7%C3%A3o%20unilateral%20da%20companhia%20securitizadora%20ao%20firmar%20termo%20de%20securitiza%C3%A7%C3%A3o%2C%20que%2C%20al%C3%A9m%20de%20observar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Os direitos creditórios, os bens e os direitos objeto do regime fiduciário:\n\nI - constituirão patrimônio separado, titularizado pela companhia securitizadora, que não se confunde com o seu patrimônio comum ou com outros patrimônios separados de titularidade da companhia securitizadora decorrentes da constituição de regime fiduciário no âmbito de outras emissões de Certificados de Recebíveis;\n\nII - serão mantidos apartados do patrimônio comum e de outros patrimônios separados da companhia securitizadora até que se complete a amortização integral da emissão a que estejam afetados, admitida para esse fim a dação em pagamento, ou até que sejam preenchidas condições de liberação parcial dispostas no termo de securitização, quando aplicáveis;\n\nIII - serão destinados exclusivamente à liquidação dos Certificados de Recebíveis a que estiverem afetados e ao pagamento dos custos de administração e de obrigações fiscais correlatas, observados os procedimentos estabelecidos no termo de securitização;\n\nIV - não responderão perante os credores da companhia securitizadora por qualquer obrigação;\n\nV - não serão passíveis de constituição de garantias por quaisquer dos credores da companhia securitizadora, por mais privilegiados que sejam; e\n\nVI - responderão somente pelas obrigações inerentes aos Certificados de Recebíveis a que estiverem vinculados.\n\n§ 1º É vedada a concessão de direitos a titulares de uma emissão sobre direitos creditórios, bens e direitos integrantes de patrimônio separado relativo a outra emissão de Certificados de Recebíveis.\n\n§ 2º A companhia securitizadora, sempre que se verificar insuficiência do patrimônio separado, poderá, após restar assegurado o disposto no § 1º deste artigo, promover a sua recomposição, mediante aditivo ao termo de securitização ou instrumento equivalente, no qual serão incluídos outros direitos creditórios, com observância dos requisitos previstos nesta Seção e, quando ofertada publicamente, na forma estabelecida em regulamentação editada pela CVM.\n\n§ 3º A realização dos direitos dos titulares dos Certificados de Recebíveis deverá limitar-se aos direitos creditórios, aos recursos provenientes da liquidação desses direitos e às garantias acessórias e integrantes do patrimônio separado.\n\n§ 4º Os dispositivos desta Lei que estabelecem a afetação ou a separação, a qualquer título, de patrimônio da companhia securitizadora a emissão específica de Certificados de Recebíveis produzem efeitos em relação a quaisquer outros débitos da companhia securitizadora, inclusive de natureza fiscal, previdenciária ou trabalhista, em especial quanto às garantias e aos privilégios que lhes são atribuídos.\n\n§ 5º A companhia securitizadora, na condição de titular de cada patrimônio separado, sem prejuízo de eventuais limitações que venham a ser dispostas expressamente no termo de securitização ou na regulamentação editada pela CVM, poderá adotar, em nome próprio e a expensas do patrimônio separado, todas as medidas cabíveis para a sua realização.\n\n§ 6º Na hipótese prevista no § 5º deste artigo, a companhia securitizadora poderá contratar e demitir prestadores de serviços e adotar medidas judiciais ou extrajudiciais relacionadas à arrecadação e à cobrança dos direitos creditórios, à excussão de garantias e à boa gestão do patrimônio separado, observados a finalidade legal do patrimônio separado e as disposições e os procedimentos previstos no termo de securitização.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2027.%20Os%20direitos%20credit%C3%B3rios%2C%20os%20bens%20e%20os%20direitos%20objeto%20do%20regime%20fiduci%C3%A1rio%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Instituído o regime fiduciário, caberá à companhia securitizadora administrar cada patrimônio separado, manter registros contábeis independentes em relação a cada um deles e elaborar e publicar as demonstrações financeiras.\n\nParágrafo único. O patrimônio próprio da companhia securitizadora responderá pelos prejuízos que esta causar por descumprimento de disposição legal ou regulamentar, por negligência ou por administração temerária ou, ainda, por desvio da finalidade do patrimônio separado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2028.%20Institu%C3%ADdo%20o%20regime%20fiduci%C3%A1rio%2C%20caber%C3%A1%20%C3%A0%20companhia%20securitizadora%20administrar%20cada%20patrim%C3%B4nio%20separado%2C%20manter%20registros%20cont%C3%A1beis%20independentes%20em%20rela%C3%A7%C3%A3o%20a%20cada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Ao agente fiduciário serão conferidos poderes gerais de representação da comunhão dos titulares dos Certificados de Recebíveis beneficiários do regime fiduciário, inclusive os de receber e dar quitação.\n\n§ 1º Incumbe ao agente fiduciário:\n\nI - zelar pela proteção dos direitos e interesses dos beneficiários e acompanhar a atuação da companhia securitizadora na administração do patrimônio separado;\n\nII - adotar as medidas judiciais ou extrajudiciais necessárias à defesa dos interesses dos beneficiários e à realização dos créditos afetados ao patrimônio separado, caso a companhia securitizadora não o faça;\n\nIII - exercer a administração do patrimônio separado, na hipótese de insolvência da companhia securitizadora;\n\nIV - promover, na forma prevista no termo de securitização, a liquidação do patrimônio separado; e\n\nV - executar os demais encargos que lhe forem atribuídos no termo de securitização.\n\n§ 2º O agente fiduciário responderá pelos prejuízos que causar por descumprimento de disposição legal ou regulamentar, por negligência ou por administração temerária.\n\n§ 3º Aplicam-se ao agente fiduciário os mesmos requisitos e incompatibilidades estabelecidos pelo disposto no art. 66 da Lei nº 6.404, de 15 de dezembro de 1976.\n\n§ 4º Nas emissões públicas, o agente fiduciário observará a regulamentação editada pela CVM.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2029.%20Ao%20agente%20fiduci%C3%A1rio%20ser%C3%A3o%20conferidos%20poderes%20gerais%20de%20representa%C3%A7%C3%A3o%20da%20comunh%C3%A3o%20dos%20titulares%20dos%20Certificados%20de%20Receb%C3%ADveis%20benefici%C3%A1rios%20do%20regime",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. A insuficiência dos ativos integrantes do patrimônio separado para a satisfação integral dos Certificados de Recebíveis correlatos não dará causa à declaração de sua falência.\n\n§ 1º Na hipótese prevista no caput deste artigo, caberá à companhia securitizadora, ou ao agente fiduciário, caso a securitizadora não o faça, convocar assembleia geral dos beneficiários para deliberar sobre as normas de administração ou liquidação do patrimônio separado.\n\n§ 2º Na hipótese prevista no caput deste artigo, a assembleia geral estará legitimada a adotar qualquer medida pertinente à administração ou à liquidação do patrimônio separado, inclusive a transferência dos bens e direitos dele integrantes para o agente fiduciário, para outra companhia securitizadora ou para terceiro que seja escolhido pelos titulares dos Certificados de Recebíveis em assembleia geral, a forma de liquidação do patrimônio e a nomeação do liquidante.\n\n§ 3º A assembleia geral deverá ser convocada por meio de edital publicado no sítio eletrônico da emissora com antecedência de, no mínimo, 15 (quinze) dias e será instalada:\n\nI - em primeira convocação, com a presença de beneficiários que representem, no mínimo, 2/3 (dois terços) do valor global dos títulos; ou\n\nII - em segunda convocação, independentemente da quantidade de beneficiários.\n\n§ 4º Na assembleia geral, serão consideradas válidas as deliberações tomadas pela maioria dos presentes, em primeira ou em segunda convocação.\n\n§ 5º A companhia securitizadora poderá promover, a qualquer tempo e sempre sob a ciência do agente fiduciário, o resgate da emissão mediante a dação em pagamento dos bens e direitos integrantes do patrimônio separado aos titulares dos Certificados de Recebíveis nas seguintes hipóteses:\n\nI - caso a assembleia geral não seja instalada, por qualquer motivo, em segunda convocação; ou\n\nII - caso a assembleia geral seja instalada e os titulares dos Certificados de Recebíveis não decidam a respeito das medidas a serem adotadas.\n\n§ 6º Nas hipóteses previstas no § 5º deste artigo, os titulares dos Certificados de Recebíveis tornar-se-ão condôminos dos bens e direitos, nos termos da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2030.%20A%20insufici%C3%AAncia%20dos%20ativos%20integrantes%20do%20patrim%C3%B4nio%20separado%20para%20a%20satisfa%C3%A7%C3%A3o%20integral%20dos%20Certificados%20de%20Receb%C3%ADveis%20correlatos%20n%C3%A3o%20dar%C3%A1%20causa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Na hipótese de insolvência da companhia securitizadora, o agente fiduciário assumirá imediatamente a administração do patrimônio separado, em nome e por conta dos titulares dos Certificados de Recebíveis, e convocará assembleia geral para deliberar sobre a forma de administração, observado o disposto no § 3º do art. 22 desta Lei.\n\n§ 1º O agente fiduciário poderá promover o resgate dos Certificados de Recebíveis mediante a dação em pagamento dos bens e direitos integrantes do patrimônio separado aos seus titulares nas seguintes hipóteses:\n\nI - caso a assembleia geral não seja instalada, por qualquer motivo, em segunda convocação; ou\n\nII - caso a assembleia geral seja instalada e os titulares dos Certificados de Recebíveis não decidam a respeito das medidas a serem adotadas.\n\n§ 2º Nas hipóteses previstas no § 1º deste artigo, os titulares dos Certificados de Recebíveis tornar-se-ão condôminos dos bens e direitos, nos termos da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil).\n\n§ 3º A insolvência da companhia securitizadora ou de seu grupo econômico não afetará os patrimônios separados que tiver constituído.\n\n§ 4º Nas emissões privadas que não contem com agente fiduciário, os investidores ficarão diretamente autorizados a se reunir em assembleia para deliberar sobre a administração do patrimônio separado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2031.%20Na%20hip%C3%B3tese%20de%20insolv%C3%AAncia%20da%20companhia%20securitizadora%2C%20o%20agente%20fiduci%C3%A1rio%20assumir%C3%A1%20imediatamente%20a%20administra%C3%A7%C3%A3o%20do%20patrim%C3%B4nio%20separado%2C%20em%20nome%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. O regime fiduciário de que trata esta Seção será extinto pelo implemento das condições a que esteja submetido, em conformidade com o termo de securitização, ou nas hipóteses de resgate dos Certificados de Recebíveis mediante a dação em pagamento dos bens e direitos integrantes do patrimônio separado aos titulares dos Certificados de Recebíveis, em conformidade com o disposto nesta Lei.\n\n§ 1º O agente fiduciário, uma vez resgatados integralmente os Certificados de Recebíveis e extinto o regime fiduciário, deverá fornecer à companhia securitizadora, no prazo de 3 (três) dias úteis, contado da data do resgate, termo de quitação, que servirá para baixa do registro do regime fiduciário perante a entidade de que trata o caput do art. 18 desta Lei.\n\n§ 2º A baixa de que trata o § 1º deste artigo importará a reintegração ao patrimônio comum da companhia securitizadora dos ativos que sobejarem.\n\n§ 3º Os emolumentos devidos aos cartórios de registros de imóveis para cancelamento do regime fiduciário e das garantias reais existentes serão cobrados como ato único.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2032.%20O%20regime%20fiduci%C3%A1rio%20de%20que%20trata%20esta%20Se%C3%A7%C3%A3o%20ser%C3%A1%20extinto%20pelo%20implemento%20das%20condi%C3%A7%C3%B5es%20a%20que%20esteja%20submetido%2C%20em%20conformidade",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. O art. 293 da Lei nº 6.404, de 15 de dezembro de 1976, passa a vigorar com a seguinte redação:\n\n“Art. 293. A Comissão de Valores Mobiliários poderá autorizar as bolsas de valores e outras entidades, que sejam ou não instituições financeiras, a prestar os serviços previstos nos seguintes dispositivos desta Lei:\n\nI - art. 27;\n\nII - § 2º do art. 34;\n\nIII - § 1º do art. 39;\n\nIV - arts. 40, 41, 42, 43 e 44;\n\nV - art. 72; e\n\nVI - arts. 102 e 103.\n\n...............................................................................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2033.%20O%20art.%20293%20da%20Lei%20n%C2%BA%206.404%2C%20de%2015%20de%20dezembro%20de%201976%2C%20passa%20a%20vigorar%20com%20a%20seguinte%20reda%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. O caput do art. 24 da Lei nº 6.385, de 7 de dezembro de 1976, passa a vigorar com a seguinte redação:\n\n“Art. 24. A prestação de serviços de custódia de valores mobiliários está sujeita à autorização prévia da Comissão de Valores Mobiliários.\n\n.................................................................................................................” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2034.%20O%20caput%20do%20art.%2024%20da%20Lei%20n%C2%BA%206.385%2C%20de%207%20de%20dezembro%20de%201976%2C%20passa%20a%20vigorar%20com%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. A Lei nº 9.718, de 27 de novembro de 1998, passa a vigorar com as seguintes alterações:\n\n“Art. 3º .............................................................................................................\n\n..........................................................................................................................\n\n§ 8º Na determinação da base de cálculo da Contribuição para o PIS/Pasep e a Cofins, poderão ser deduzidas as despesas de captação de recursos incorridas pelas pessoas jurídicas que tenham por objeto a securitização de créditos.\n\nI - (revogado);\n\nII - (revogado);\n\nIII - (revogado).\n\n...............................................................................................................” (NR)\n\n“Art. 14. ..........................................................................................................\n\n.........................................................................................................................\n\nVII - que explorem as atividades de securitização de crédito.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2035.%20A%20Lei%20n%C2%BA%209.718%2C%20de%2027%20de%20novembro%20de%201998%2C%20passa%20a%20vigorar%20com%20as%20seguintes%20altera%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. O Decreto-Lei nº 73, de 21 de novembro de 1966, passa a vigorar com as seguintes alterações:\n\n“Art. 123. O exercício da profissão de corretor de seguros depende de prévia habilitação e registro pelas entidades autorreguladoras de corretagem de seguros ou pela Susep, na forma definida pelo CNSP.\n\n§ 1º (Revogado).\n\n§ 2º (Revogado).\n\n§ 3º (Revogado).” (NR)\n\n“Art. 124. (VETADO).” (NR)\n\n‘Art. 124. As comissões de corretagem somente poderão ser pagas a corretor de seguros devidamente habilitado e deverão ser informadas aos segurados quando solicitadas.’ (NR) (Promulgação partes vetadas)\n\n“Art. 127. Caberá responsabilidade profissional perante a Susep ou perante as entidades autorreguladoras do mercado de corretagem, na forma definida pelo CNSP, ao corretor que deixar de cumprir as leis, os regulamentos e as resoluções em vigor, ou que der causa dolosa ou culposa a prejuízos às sociedades seguradoras ou aos segurados.” (NR)\n\n“Art. 128. O corretor de seguros estará sujeito às seguintes penalidades:\n\na) (revogada);\n\nb) (revogada);\n\nc) (revogada);\n\nI - advertência;\n\nII - multa prevista no inciso IV do caput do art. 108 desta Lei;\n\nIII - suspensão temporária do exercício da profissão;\n\nIV - cancelamento do registro.\n\nParágrafo único. As penalidades serão aplicadas pela Susep ou pelas entidades autorreguladoras do mercado de corretagem, em processo regular, na forma definida pelo CNSP.” (NR)\n\n“Art. 128-A. (VETADO).”\n\n‘Art. 128-A. Os corretores de seguros que não se associarem ou se filiarem a uma entidade autorreguladora do mercado de corretagem de forma facultativa deverão ser supervisionados pela Susep.’ ” (Promulgação partes vetadas)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2036.%20O%20Decreto-Lei%20n%C2%BA%2073%2C%20de%2021%20de%20novembro%20de%201966%2C%20passa%20a%20vigorar%20com%20as%20seguintes%20altera%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. A Lei nº 4.594, de 29 de dezembro de 1964, passa a vigorar com as seguintes alterações:\n\n“Art. 1º ............................................................................................................\n\nParágrafo único. São atribuições do corretor de seguros:\n\nI - a identificação do risco e do interesse que se pretende garantir;\n\nII - a recomendação de providências que permitam a obtenção da garantia do seguro;\n\nIII - a identificação e a recomendação da modalidade de seguro que melhor atenda às necessidades do segurado e do beneficiário;\n\nIV - a identificação e a recomendação da seguradora;\n\nV - a assistência ao segurado durante a execução e a vigência do contrato, bem como a ele e ao beneficiário por ocasião da regulação e da liquidação do sinistro;\n\nVI - a assistência ao segurado na renovação e na preservação da garantia de seu interesse.” (NR)\n\n“Art. 2º O exercício da profissão de corretor de seguros depende de prévia habilitação técnica e registro em entidade autorreguladora do mercado de corretagem ou na Superintendência de Seguros Privados (Susep), nos termos definidos pelo Conselho Nacional de Seguros Privados (CNSP).\n\n................................................................................................................” (NR)\n\n“Art. 3º O interessado na obtenção do registro de que trata o art. 2º desta Lei deverá comprovar documentalmente:\n\n........................................................................................................................\n\nc) não ter sido condenado, nos 5 (cinco) anos anteriores ao pedido de registro, por crimes a que se referem as Leis nºs 11.101, de 9 de fevereiro de 2005, e 7.492, de 16 de junho de 1986, e as Seções II, III e IV do Capítulo VI do Título I, os Capítulos I a VII do Título II, o Capítulo V do Título VI, os Capítulos I a IV do Título X e o Capítulo I do Título XI, todos da Parte Especial do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal);\n\nd) (revogada);\n\ne) ter a habilitação técnico-profissional para a atividade e a modalidade de seguro em que irá atuar, nos termos definidos pelo CNSP.\n\n....................................................................................................................\n\n§ 2º Satisfeitos pelo requerente os requisitos deste artigo, terá ele direito à obtenção do respectivo registro previsto no caput deste artigo.\n\n§ 3º A associação à entidade autorreguladora do mercado de corretagem não pode ser condição para a obtenção do registro, conforme o inciso XX do caput do art. 5º da Constituição Federal.” (NR)\n\n“Art. 4º O cumprimento da exigência da alínea “e” do caput do art. 3º desta Lei consistirá na aprovação em exames ou na realização de cursos em instituições de ensino de reconhecida capacidade, na forma da regulamentação do CNSP.\n\na) (revogada);\n\nb) (revogada);\n\nc) (revogada).” (NR)\n\n“Art. 7º O registro de corretor de seguros, inclusive prepostos, será expedido pela Susep ou por entidade autorreguladora do mercado de corretagem.” (NR)\n\n“Art. 11. Os sindicatos de corretores de seguros e a federação à qual estão filiados poderão divulgar nos respectivos sítios eletrônicos, para fins de acesso ao público em geral, a relação devidamente atualizada dos corretores e prepostos registrados nas entidades autorreguladoras do mercado de corretagem e na Susep, resguardadas as informações de caráter sigiloso.” (NR)\n\n“Art. 12. O corretor de seguros poderá ter prepostos de sua livre escolha, bem como designar, dentre eles, quem o substitua nos impedimentos ou nas faltas, registrados na forma do art. 7º desta Lei.\n\nParágrafo único. (Revogado).” (NR)\n\n“Art. 13. Somente ao corretor devidamente habilitado nos termos desta Lei e que houver assinado a proposta deverão ser pagas as corretagens pactuadas para cada modalidade de seguro, inclusive em caso de ajustamento de prêmios.\n\n....................................................................................................................\n\n§ 2º (VETADO).\n\n§ 3º Ao corretor de seguros não poderá ser atribuído nenhum custo administrativo da seguradora decorrente de propostas, mesmo as não efetivadas.” (NR)\n\n“Art. 14. O corretor de seguros deverá ter o registro das propostas que encaminhar às sociedades seguradoras, podendo ser na forma digitalizada, com todos os assentamentos necessários à elucidação completa dos negócios em que intervier.” (NR)\n\n“Art. 15. O corretor de seguros deverá recolher incontinenti ao caixa da sociedade seguradora o prêmio que porventura tiver recebido do segurado para pagamento de seguro realizado por seu intermédio.” (NR)\n\n“Art. 18. As sociedades de seguros somente poderão receber proposta de contrato de seguros:\n\n................................................................................................................” (NR)\n\n“Art. 21. Os corretores de seguros, independentemente de responsabilidade penal e civil em que possam incorrer no exercício de suas funções, são passíveis das sanções administrativas de advertência, multa, suspensão e cancelamento de registro, na forma estabelecida pelo CNSP.” (NR)\n\n“Art. 26. O processo para cominação das penalidades previstas nesta Lei reger-se-á, no que for aplicável, pela legislação vigente e pelas normas disciplinadoras complementares editadas pelo CNSP.” (NR)\n\n“Art. 31. Os corretores já registrados perante a Susep, por ocasião da entrada em vigor desta Lei, bem como os prepostos, poderão continuar a exercer a atividade.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2037.%20A%20Lei%20n%C2%BA%204.594%2C%20de%2029%20de%20dezembro%20de%201964%2C%20passa%20a%20vigorar%20com%20as%20seguintes%20altera%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Ficam revogados:\n\nI - os seguintes dispositivos da Lei nº 4.594, de 29 de dezembro de 1964:\n\na) alínea “d” do caput do art. 3º;\n\nb) alíneas “a”, “b” e “c” do caput do art. 4º;\n\nc) art. 5º;\n\nd) art. 6º;\n\ne) arts. 8º, 9º e 10;\n\nf) parágrafo único do art. 12;\n\ng) (VETADO);\n\ng) § 2º do art. 13;\n\nh) art. 16;\n\ni) art. 19; (Vigência)\n\nj) arts. 22, 23, 24 e 25;\n\nk) arts. 27, 28, 29 e 30; e\n\nl) art. 32;\n\nII - os seguintes dispositivos do Decreto-Lei nº 73, de 21 de novembro de 1966:\n\na) §§ 1º, 2º e 3º do art. 123; e\n\nb) alíneas “a”, “b” e “c” do caput do art. 128;\n\nIII - os seguintes dispositivos da Lei nº 9.514, de 20 de novembro de 1997:\n\na) parágrafo único do art. 6º; e\n\nb) arts. 7º ao 16;\n\nIV - os incisos I, II e III do § 8º do art. 3º da Lei nº 9.718, de 27 de novembro de 1998;\n\nV - os seguintes dispositivos da Lei nº 10.931, de 2 de agosto de 2004:\n\na) art. 23; e\n\nb) art. 57, na parte em que altera os arts. 8º e 16 da Lei nº 9.514, de 20 de novembro de 1997;\n\nVI - os seguintes dispositivos da Lei nº 11.076, de 30 de dezembro de 2004:\n\na) parágrafo único do art. 36; e\n\nb) arts. 37 ao 40;\n\nVII - o art. 31 da Lei nº 12.810, de 15 de maio de 2013;\n\nVIII - o art. 1º da Lei nº 13.331, de 1º de setembro de 2016, na parte em que altera o art. 37 da Lei nº 11.076, de 30 de dezembro de 2004; e\n\nIX - o art. 43 da Lei nº 13.986, de 7 de abril de 2020, na parte em que altera os arts. 36 e 37 da Lei nº 11.076, de 30 de dezembro de 2004.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2038.%20Ficam%20revogados%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. Esta Lei entra em vigor na data de sua publicação, ressalvada a alínea “i” do inciso I do caput do art. 38 desta Lei, que entrará em vigor em 1º de janeiro de 2023, devendo todas e quaisquer obrigações decorrentes do referido artigo serem cumpridas na sua totalidade e integralidade até 31 de dezembro de 2022.\n\nBrasília, 3 de agosto de 2022; 201º da Independência e 134º da República.\n\nJAIR MESSIAS BOLSONARO Paulo Guedes\n\nEste texto não substitui o publicado no DOU de 4.8.2022\n\nLEI Nº 14.430, DE 3 DE AGOSTO DE 2022\n\nDispõe sobre a emissão de Letra de Risco de Seguro (LRS) por Sociedade Seguradora de Propósito Específico (SSPE), sobre as regras gerais aplicáveis à securitização de direitos creditórios e à emissão de Certificados de Recebíveis e sobre a flexibilização do requisito de instituição financeira para a prestação do serviço de escrituração e de custódia de valores mobiliários; altera as Leis nºs 6.404, de 15 de dezembro de 1976, 6.385, de 7 de dezembro de 1976, 9.718, de 27 de novembro de 1998, 4.594, de 29 de dezembro de 1964, e o Decreto-Lei nº 73, de 21 de novembro de 1966; e revoga dispositivos das Leis nºs 9.514, de 20 de novembro de 1997, 10.931, de 2 de agosto de 2004, 11.076, de 30 de dezembro de 2004, 12.810, de 15 de maio de 2013, 13.331, de 1º de setembro de 2016, e 13.986, de 7 de abril de 2020.\n\nO PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu promulgo, nos termos do parágrafo 5o do art. 66 da Constituição Federal, as seguintes partes vetadas da Lei no 14.430, de 3 de agosto de 2022:\n\n“Art.36. O Decreto-Lei nº 73, de 21 de novembro de 1966, passa a vigorar com as seguintes alterações:\n\n‘Art. 124. As comissões de corretagem somente poderão ser pagas a corretor de seguros devidamente habilitado e deverão ser informadas aos segurados quando solicitadas.’ (NR)\n\n‘Art. 128-A. Os corretores de seguros que não se associarem ou se filiarem a uma entidade autorreguladora do mercado de corretagem de forma facultativa deverão ser supervisionados pela Susep.’ ”\n\n“Art.38. Ficam revogados:\n\nI - ...................................................................................................................................\n\n.............................................................................................................................................\n\ng) § 2º do art. 13;\n\n............................................................................................................................................”\n\nBrasília, 21 de dezembro de 2022; 201o da Independência e 134o da República.\n\nEste texto não substitui o publicado no DOU de 22.12.2022\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm#:~:text=Art.%2039.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o%2C%20ressalvada%20a%20al%C3%ADnea%20%E2%80%9Ci%E2%80%9D%20do%20inciso%20I%20do%20caput%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": null
+    }
+  }
+}

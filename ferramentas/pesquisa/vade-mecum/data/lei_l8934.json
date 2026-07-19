@@ -1,0 +1,1151 @@
+{
+  "_meta": {
+    "codigo": "L8934",
+    "nome": "Registro Público de Empresas Mercantis",
+    "lei": "Lei 8.934/1994",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm",
+    "total_artigos": 71,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º O Registro Público de Empresas Mercantis e Atividades Afins, observado o disposto nesta Lei, será exercido em todo o território nacional, de forma sistêmica, por órgãos federais, estaduais e distrital, com as seguintes finalidades: (Redação dada pela Lei nº 13.833,de 2019)\n\nI - dar garantia, publicidade, autenticidade, segurança e eficácia aos atos jurídicos das empresas mercantis, submetidos a registro na forma desta lei;\n\nII - cadastrar as empresas nacionais e estrangeiras em funcionamento no País e manter atualizadas as informações pertinentes;\n\nIII - proceder à matrícula dos agentes auxiliares do comércio, bem como ao seu cancelamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%201%C2%BA%20O%20Registro%20P%C3%BAblico%20de%20Empresas%20Mercantis%20e%20Atividades%20Afins%2C%20observado%20o%20disposto%20nesta%20Lei%2C%20ser%C3%A1%20exercido%20em%20todo%20o%20territ%C3%B3rio",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Os atos das firmas mercantis individuais e das sociedades mercantis serão arquivados no Registro Público de Empresas Mercantis e Atividades Afins, independentemente de seu objeto, salvo as exceções previstas em lei.\n\nParágrafo único. (Revogado pela Lei nº 13.874, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%202%C2%BA%20Os%20atos%20das%20firmas%20mercantis%20individuais%20e%20das%20sociedades%20mercantis%20ser%C3%A3o%20arquivados%20no%20Registro%20P%C3%BAblico%20de%20Empresas%20Mercantis%20e%20Atividades",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Os serviços do Registro Público de Empresas Mercantis e Atividades Afins serão exercidos, em todo o território nacional, de maneira uniforme, harmônica e interdependente, pelo Sistema Nacional de Registro de Empresas Mercantis (Sinrem), composto pelos seguintes órgãos:\n\nI - o Departamento Nacional de Registro Empresarial e Integração, órgão central do Sinrem, com as seguintes funções: (Redação dada pela Lei nº 13.833,de 2019)\n\na) supervisora, orientadora, coordenadora e normativa, na área técnica; e (Redação dada pela Lei nº 13.833,de 2019)\n\nb) supletiva, na área administrativa; e (Redação dada pela Lei nº 13.833,de 2019)\n\nII - as Juntas Comerciais, como órgãos locais, com funções executora e administradora dos serviços de registro.\n\nSubseção I (Redação dada pela Lei nº 13.833,de 2019)\n\nDo Departamento Nacional de Registro Empresarial e Integração",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%203%C2%BA%20Os%20servi%C3%A7os%20do%20Registro%20P%C3%BAblico%20de%20Empresas%20Mercantis%20e%20Atividades%20Afins%20ser%C3%A3o%20exercidos%2C%20em%20todo%20o%20territ%C3%B3rio%20nacional%2C%20de%20maneira",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º O Departamento Nacional de Registro Empresarial e Integração (Drei) da Secretaria de Governo Digital da Secretaria Especial de Desburocratização, Gestão e Governo Digital do Ministério da Economia tem por finalidade: (Redação dada pela Lei nº 13.874, de 2019)\n\nI - supervisionar e coordenar, no plano técnico, os órgãos incumbidos da execução dos serviços de Registro Público de Empresas Mercantis e Atividades Afins;\n\nII - estabelecer e consolidar, com exclusividade, as normas e diretrizes gerais do Registro Público de Empresas Mercantis e Atividades Afins;\n\nIII - solucionar dúvidas ocorrentes na interpretação das leis, regulamentos e demais normas relacionadas com o registro de empresas mercantis, baixando instruções para esse fim;\n\nIV - prestar orientação às Juntas Comerciais, com vistas à solução de consultas e à observância das normas legais e regulamentares do Registro Público de Empresas Mercantis e Atividades Afins;\n\nV - exercer ampla fiscalização jurídica sobre os órgãos incumbidos do Registro Público de Empresas Mercantis e Atividades Afins, representando para os devidos fins às autoridades administrativas contra abusos e infrações das respectivas normas, e requerendo tudo o que se afigurar necessário ao cumprimento dessas normas;\n\nVI - estabelecer normas procedimentais de arquivamento de atos de firmas mercantis individuais e sociedades mercantis de qualquer natureza;\n\nVII promover ou providenciar, supletivamente, as medidas tendentes a suprir ou corrigir as ausências, falhas ou deficiências dos serviços de Registro Público de Empresas Mercantis e Atividades Afins;\n\nVIII - prestar colaboração técnica e financeira às juntas comerciais para a melhoria dos serviços pertinentes ao Registro Público de Empresas Mercantis e Atividades Afins;\n\nIX - organizar e manter atualizado o cadastro nacional das empresas mercantis em funcionamento no País, com a cooperação das juntas comerciais;\n\nX - instruir, examinar e encaminhar os pedidos de autorização para nacionalização ou instalação de filial, de agência, de sucursal ou de estabelecimento no País por sociedade estrangeira, ressalvada a competência de outros órgãos federais; (Redação dada pela Lei nº 14.195, de 2021)\n\nXI - promover e elaborar estudos e publicações e realizar reuniões sobre temas pertinentes ao Registro Público de Empresas Mercantis e Atividades Afins. (Redação dada pela Lei nº 13.833,de 2019)\n\nXII - apoiar a articulação e a supervisão dos órgãos e das entidades envolvidos na integração para o registro e a legalização de empresas; (Incluído pela Lei nº 14.195, de 2021)\n\nXIII - quanto à integração para o registro e a legalização de empresas: (Incluído pela Lei nº 14.195, de 2021)\n\na) propor planos de ação e diretrizes e implementar as medidas deles decorrentes, em articulação com outros órgãos e entidades públicas, inclusive estaduais, distritais e municipais; (Incluída pela Lei nº 14.195, de 2021)\n\nb) (VETADO); (Incluída pela Lei nº 14.195, de 2021)\n\nc) (VETADO); e (Incluída pela Lei nº 14.195, de 2021)\n\nd) propor e implementar projetos, ações, convênios e programas de cooperação, em articulação com órgãos e com entidades públicas e privadas, nacionais e estrangeiras, no âmbito de sua área de competência; (Incluída pela Lei nº 14.195, de 2021)\n\nXIV - quanto ao Registro Público de Empresas Mercantis e Atividades Afins, propor os planos de ação, as diretrizes e as normas e implementar as medidas necessárias; (Incluído pela Lei nº 14.195, de 2021)\n\nXV - coordenar as ações dos órgãos incumbidos da execução dos serviços do Registro Público de Empresas Mercantis e Atividades Afins; (Incluído pela Lei nº 14.195, de 2021)\n\nXVI - especificar, desenvolver, implementar, manter e operar os sistemas de informação relativos à integração para o registro e para a legalização de empresas, em articulação com outros órgãos e observadas as competências destes; e (Incluído pela Lei nº 14.195, de 2021)\n\nXVII - propor, implementar e monitorar medidas relacionadas com a desburocratização do registro público de empresas e destinadas à melhoria do ambiente de negócios no País. (Incluído pela Lei nº 14.195, de 2021)\n\nParágrafo único. O cadastro nacional a que se refere o inciso IX do caput deste artigo será mantido com as informações originárias do cadastro estadual de empresas, vedados a exigência de preenchimento de formulário pelo empresário ou o fornecimento de novos dados ou informações, bem como a cobrança de preço pela inclusão das informações no cadastro nacional. (Incluído pela Lei nº 13.874, de 2019)\n\nSUBSEÇÃO II\n\nDas Juntas Comerciais",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%204%C2%BA%20O%20Departamento%20Nacional%20de%20Registro%20Empresarial%20e%20Integra%C3%A7%C3%A3o%20%28Drei%29%20da%20Secretaria%20de%20Governo%20Digital%20da%20Secretaria%20Especial%20de%20Desburocratiza%C3%A7%C3%A3o%2C%20Gest%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Haverá uma junta comercial em cada unidade federativa, com sede na capital e jurisdição na área da circunscrição territorial respectiva.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%205%C2%BA%20Haver%C3%A1%20uma%20junta%20comercial%20em%20cada%20unidade%20federativa%2C%20com%20sede%20na%20capital%20e%20jurisdi%C3%A7%C3%A3o%20na%20%C3%A1rea%20da%20circunscri%C3%A7%C3%A3o%20territorial%20respectiva.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º As juntas comerciais subordinam-se, administrativamente, ao governo do respectivo ente federativo e, tecnicamente, ao Departamento Nacional de Registro Empresarial e Integração, nos termos desta Lei. (Redação dada pela Lei nº 13.833,de 2019)\n\nParágrafo único. (Revogado). (Redação dada pela Lei nº 13.833,de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%206%C2%BA%20As%20juntas%20comerciais%20subordinam-se%2C%20administrativamente%2C%20ao%20governo%20do%20respectivo%20ente%20federativo%20e%2C%20tecnicamente%2C%20ao%20Departamento%20Nacional%20de%20Registro%20Empresarial%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º As juntas comerciais poderão desconcentrar os seus serviços, mediante convênios com órgãos públicos e entidades privadas sem fins lucrativos, preservada a competência das atuais delegacias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%207%C2%BA%20As%20juntas%20comerciais%20poder%C3%A3o%20desconcentrar%20os%20seus%20servi%C3%A7os%2C%20mediante%20conv%C3%AAnios%20com%20%C3%B3rg%C3%A3os%20p%C3%BAblicos%20e%20entidades%20privadas%20sem%20fins%20lucrativos%2C%20preservada",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Às Juntas Comerciais incumbe:\n\nI - executar os serviços previstos no art. 32 desta lei;\n\nII - elaborar a tabela de preços de seus serviços, observadas as normas legais pertinentes;\n\nIII - processar a habilitação e a nomeação dos tradutores públicos e intérpretes comerciais;\n\nIV - elaborar os respectivos Regimentos Internos e suas alterações, bem como as resoluções de caráter administrativo necessárias ao fiel cumprimento das normas legais, regulamentares e regimentais;\n\nV - expedir carteiras de exercício profissional de pessoas legalmente inscritas no Registro Público de Empresas Mercantis e Atividades Afins;\n\nVI - o assentamento dos usos e práticas mercantis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%208%C2%BA%20%C3%80s%20Juntas%20Comerciais%20incumbe%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º A estrutura básica das juntas comerciais será integrada pelos seguintes órgãos:\n\nI - a Presidência, como órgão diretivo e representativo;\n\nII - o Plenário, como órgão deliberativo superior;\n\nIII - as Turmas, como órgãos deliberativos inferiores;\n\nIV - a Secretaria-Geral, como órgão administrativo;\n\nV - a Procuradoria, como órgão de fiscalização e de consulta jurídica.\n\n§ 1º As juntas comerciais poderão ter uma assessoria técnica, com a competência de preparar e relatar os documentos a serem submetidos à sua deliberação, cujos membros deverão ser bacharéis em Direito, Economistas, Contadores ou Administradores.\n\n§ 2º As juntas comerciais, por seu plenário, poderão resolver pela criação de delegacias, órgãos locais do registro do comércio, nos termos da legislação estadual respectiva.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%209%C2%BA%20A%20estrutura%20b%C3%A1sica%20das%20juntas%20comerciais%20ser%C3%A1%20integrada%20pelos%20seguintes%20%C3%B3rg%C3%A3os%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. O Plenário, composto de Vogais e respectivos suplentes, será constituído pelo mínimo de onze e no máximo de vinte e três Vogais. (Redação dada pela Lei nº 10.194, de 14.2.2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2010.%20O%20Plen%C3%A1rio%2C%20composto%20de%20Vogais%20e%20respectivos%20suplentes%2C%20ser%C3%A1%20constitu%C3%ADdo%20pelo%20m%C3%ADnimo%20de%20onze%20e%20no%20m%C3%A1ximo%20de%20vinte%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Os vogais e os respectivos suplentes serão nomeados, salvo disposição em contrário, pelos governos dos Estados e do Distrito Federal, dentre brasileiros que atendam às seguintes condições: (Redação dada pela Lei nº 13.833,de 2019)\n\nI - estejam em pleno gozo dos direitos civis e políticos;\n\nII - não estejam condenados por crime cuja pena vede o acesso a cargo, emprego e funções públicas, ou por crime de prevaricação, falência fraudulenta, peita ou suborno, concussão, peculato, contra a propriedade, a fé pública e a economia popular;\n\nIII - sejam, ou tenham sido, por mais de cinco anos, titulares de firma mercantil individual, sócios ou administradores de sociedade mercantil, valendo como prova, para esse fim, certidão expedida pela junta comercial;\n\nIV - estejam quites com o serviço militar e o serviço eleitoral.\n\nParágrafo único. Qualquer pessoa poderá representar fundadamente à autoridade competente contra a nomeação de vogal ou suplente, contrária aos preceitos desta lei, no prazo de quinze dias, contados da data da posse.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2011.%20Os%20vogais%20e%20os%20respectivos%20suplentes%20ser%C3%A3o%20nomeados%2C%20salvo%20disposi%C3%A7%C3%A3o%20em%20contr%C3%A1rio%2C%20pelos%20governos%20dos%20Estados%20e%20do%20Distrito%20Federal%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Os vogais e respectivos suplentes serão escolhidos da seguinte forma:\n\nI - a metade do número de vogais e suplentes será designada mediante indicação de nomes, em listas tríplices, pelas entidades patronais de grau superior e pelas Associações Comerciais, com sede na jurisdição da junta;\n\nII - um Vogal e respectivo suplente, representando a União, por nomeação do Ministro de Estado do Desenvolvimento, Indústria e Comércio Exterior; (Redação dada pela Lei nº 10.194, de 14.2.2001)\n\nIII – quatro vogais e respectivos suplentes representando a classe dos advogados, a dos economistas, a dos contadores e a dos administradores, todos mediante indicação, em lista tríplice, do Conselho Seccional ou Regional do Órgão Corporativo dessas categorias profissionais; (Redação dada pela Lei nº 9.829, de 1999)\n\nIV - os demais vogais e suplentes serão designados, nos Estados e no Distrito Federal, por livre escolha dos respectivos governadores. (Redação dada pela Lei nº 13.833,de 2019)\n\n§ 1º Os vogais e respectivos suplentes de que tratam os incisos II e III deste artigo ficam dispensados da prova do requisito previsto no inciso III do art. 11, mas exigir-se-á a prova de mais de 5 (cinco) anos de efetivo exercício da profissão em relação aos vogais e suplentes de que trata o inciso III.\n\n§ 2º As listas referidas neste artigo devem ser remetidas até 60 (sessenta) dias antes do término do mandato, caso contrário será considerada, com relação a cada entidade que se omitir na remessa, a última lista que não inclua pessoa que exerça ou tenha exercido mandato de vogal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2012.%20Os%20vogais%20e%20respectivos%20suplentes%20ser%C3%A3o%20escolhidos%20da%20seguinte%20forma%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Os vogais serão remunerados por presença, nos termos da legislação da unidade federativa a que pertencer a junta comercial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2013.%20Os%20vogais%20ser%C3%A3o%20remunerados%20por%20presen%C3%A7a%2C%20nos%20termos%20da%20legisla%C3%A7%C3%A3o%20da%20unidade%20federativa%20a%20que%20pertencer%20a%20junta%20comercial.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. O vogal será substituído por seu suplente durante os impedimentos e, no caso de vaga, até o final do mandato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2014.%20O%20vogal%20ser%C3%A1%20substitu%C3%ADdo%20por%20seu%20suplente%20durante%20os%20impedimentos%20e%2C%20no%20caso%20de%20vaga%2C%20at%C3%A9%20o%20final%20do%20mandato.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. São incompatíveis para a participação no colégio de vogais da mesma junta comercial os parentes consangüíneos e afins até o segundo grau e os sócios da mesma empresa.\n\nParágrafo único. Em caso de incompatibilidade, serão seguidos, para a escolha dos membros, sucessivamente, os critérios da precedência na nomeação, da precedência na posse, ou do membro mais idoso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2015.%20S%C3%A3o%20incompat%C3%ADveis%20para%20a%20participa%C3%A7%C3%A3o%20no%20col%C3%A9gio%20de%20vogais%20da%20mesma%20junta%20comercial%20os%20parentes%20consang%C3%BC%C3%ADneos%20e%20afins%20at%C3%A9%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. O mandato de vogal e respectivo suplente será de 4 (quatro) anos, permitida apenas uma recondução, exceto nos casos dos mandatos de presidente e vice-presidente do colégio de vogais. (Redação dada pela Lei nº 15.260, de 2025)\n\nParágrafo único. No caso de presidente e vice-presidente do colégio de vogais, os mandatos serão vinculados à duração de suas nomeações nos respectivos cargos em comissão de presidente e vice-presidente das juntas comerciais, nos termos do art. 22 desta Lei, sem limitação para recondução. (Incluído pela Lei nº 15.260, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2016.%20O%20mandato%20de%20vogal%20e%20respectivo%20suplente%20ser%C3%A1%20de%204%20%28quatro%29%20anos%2C%20permitida%20apenas%20uma%20recondu%C3%A7%C3%A3o%2C%20exceto%20nos%20casos%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. O vogal ou seu suplente perderá o mandato nos seguintes casos:\n\nI - mais de 3 (três) faltas consecutivas às sessões, ou 12 (doze) alternadas no mesmo ano, sem justo motivo;\n\nII - por conduta incompatível com a dignidade do cargo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2017.%20O%20vogal%20ou%20seu%20suplente%20perder%C3%A1%20o%20mandato%20nos%20seguintes%20casos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Na sessão inaugural do plenário das juntas comerciais, que iniciará cada período de mandato, serão distribuídos os vogais por turmas de três membros cada uma, com exclusão do presidente e do vice-presidente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2018.%20Na%20sess%C3%A3o%20inaugural%20do%20plen%C3%A1rio%20das%20juntas%20comerciais%2C%20que%20iniciar%C3%A1%20cada%20per%C3%ADodo%20de%20mandato%2C%20ser%C3%A3o%20distribu%C3%ADdos%20os%20vogais%20por%20turmas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Ao plenário compete o julgamento dos processos em grau de recurso, nos termos previstos no regulamento desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2019.%20Ao%20plen%C3%A1rio%20compete%20o%20julgamento%20dos%20processos%20em%20grau%20de%20recurso%2C%20nos%20termos%20previstos%20no%20regulamento%20desta%20lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. As sessões ordinárias do plenário e das turmas efetuar-se-ão com a periodicidade e do modo determinado no regimento da junta comercial; e as extraordinárias, sempre justificadas, por convocação do presidente ou de dois terços dos seus membros.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2020.%20As%20sess%C3%B5es%20ordin%C3%A1rias%20do%20plen%C3%A1rio%20e%20das%20turmas%20efetuar-se-%C3%A3o%20com%20a%20periodicidade%20e%20do%20modo%20determinado%20no%20regimento%20da%20junta",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Compete às turmas julgar, originariamente, os pedidos relativos à execução dos atos de registro.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2021.%20Compete%20%C3%A0s%20turmas%20julgar%2C%20originariamente%2C%20os%20pedidos%20relativos%20%C3%A0%20execu%C3%A7%C3%A3o%20dos%20atos%20de%20registro.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Compete aos respectivos governadores a nomeação para os cargos em comissão de presidente e vice-presidente das juntas comerciais dos Estados e do Distrito Federal. (Redação dada pela Lei nº 15.260, de 2025)\n\nParágrafo único. Os nomeados pelos governadores dos Estados ou do Distrito Federal para os cargos em comissão de presidente e vice-presidente das juntas comerciais ocuparão, enquanto perdurarem suas nomeações para os referidos cargos em comissão, as funções de presidente e vice-presidente do colégio de vogais, respectivamente. (Incluído pela Lei nº 15.260, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2022.%20Compete%20aos%20respectivos%20governadores%20a%20nomea%C3%A7%C3%A3o%20para%20os%20cargos%20em%20comiss%C3%A3o%20de%20presidente%20e%20vice-presidente%20das%20juntas%20comerciais%20dos%20Estados",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Compete ao presidente:\n\nI - a direção e representação geral da junta;\n\nII - dar posse aos vogais, convocar e dirigir as sessões do Plenário, superintender todos os serviços e velar pelo fiel cumprimento das normas legais e regulamentares.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2023.%20Compete%20ao%20presidente%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Ao vice-presidente incumbe substituir o presidente em suas faltas ou impedimentos e efetuar a correição permanente dos serviços, na forma do regulamento desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2024.%20Ao%20vice-presidente%20incumbe%20substituir%20o%20presidente%20em%20suas%20faltas%20ou%20impedimentos%20e%20efetuar%20a%20correi%C3%A7%C3%A3o%20permanente%20dos%20servi%C3%A7os%2C%20na%20forma",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Compete aos respectivos governadores a nomeação para o cargo em comissão de secretário-geral das juntas comerciais dos Estados e do Distrito Federal, e a escolha deverá recair sobre brasileiros de notória idoneidade moral e com conhecimentos em direito empresarial. (Redação dada pela Lei nº 13.833,de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2025.%20Compete%20aos%20respectivos%20governadores%20a%20nomea%C3%A7%C3%A3o%20para%20o%20cargo%20em%20comiss%C3%A3o%20de%20secret%C3%A1rio-geral%20das%20juntas%20comerciais%20dos%20Estados%20e%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. À secretaria-geral compete a execução dos serviços de registro e de administração da junta.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2026.%20%C3%80%20secretaria-geral%20compete%20a%20execu%C3%A7%C3%A3o%20dos%20servi%C3%A7os%20de%20registro%20e%20de%20administra%C3%A7%C3%A3o%20da%20junta.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. As procuradorias serão compostas de 1 (um) ou mais procuradores e chefiadas pelo procurador que for designado pelo governador do Estado ou do Distrito Federal. (Redação dada pela Lei nº 13.833,de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2027.%20As%20procuradorias%20ser%C3%A3o%20compostas%20de%201%20%28um%29%20ou%20mais%20procuradores%20e%20chefiadas%20pelo%20procurador%20que%20for%20designado%20pelo%20governador%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. A procuradoria tem por atribuição fiscalizar e promover o fiel cumprimento das normas legais e executivas, oficiando, internamente, por sua iniciativa ou mediante solicitação da presidência, do plenário e das turmas; e, externamente, em atos ou feitos de natureza jurídica, inclusive os judiciais, que envolvam matéria do interesse da junta.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2028.%20A%20procuradoria%20tem%20por%20atribui%C3%A7%C3%A3o%20fiscalizar%20e%20promover%20o%20fiel%20cumprimento%20das%20normas%20legais%20e%20executivas%2C%20oficiando%2C%20internamente%2C%20por%20sua",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Qualquer pessoa, sem necessidade de provar interesse, poderá consultar os assentamentos existentes nas juntas comerciais e obter certidões, mediante pagamento do preço devido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2029.%20Qualquer%20pessoa%2C%20sem%20necessidade%20de%20provar%20interesse%2C%20poder%C3%A1%20consultar%20os%20assentamentos%20existentes%20nas%20juntas%20comerciais%20e%20obter%20certid%C3%B5es%2C%20mediante%20pagamento",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. A forma, prazo e procedimento de expedição de certidões serão definidos no regulamento desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2030.%20A%20forma%2C%20prazo%20e%20procedimento%20de%20expedi%C3%A7%C3%A3o%20de%20certid%C3%B5es%20ser%C3%A3o%20definidos%20no%20regulamento%20desta%20lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Os atos decisórios serão publicados em sítio da rede mundial de computadores da junta comercial do respectivo ente federativo. (Redação dada pela Lei nº 13.874, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2031.%20Os%20atos%20decis%C3%B3rios%20ser%C3%A3o%20publicados%20em%20s%C3%ADtio%20da%20rede%20mundial%20de%20computadores%20da%20junta%20comercial%20do%20respectivo%20ente%20federativo.%20%28Reda%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. O registro compreende:\n\nI - a matrícula e seu cancelamento: dos leiloeiros, tradutores públicos e intérpretes comerciais, trapicheiros e administradores de armazéns-gerais;\n\nII - O arquivamento:\n\na) dos documentos relativos à constituição, alteração, dissolução e extinção de firmas mercantis individuais, sociedades mercantis e cooperativas;\n\nb) dos atos relativos a consórcio e grupo de sociedade de que trata a Lei nº 6.404, de 15 de dezembro de 1976;\n\nc) dos atos concernentes a empresas mercantis estrangeiras autorizadas a funcionar no Brasil;\n\nd) das declarações de microempresa;\n\ne) de atos ou documentos que, por determinação legal, sejam atribuídos ao Registro Público de Empresas Mercantis e Atividades Afins ou daqueles que possam interessar ao empresário e às empresas mercantis;\n\nIII - a autenticação dos instrumentos de escrituração das empresas mercantis registradas e dos agentes auxiliares do comércio, na forma de lei própria.\n\n§ 1º Os atos, os documentos e as declarações que contenham informações meramente cadastrais serão levados automaticamente a registro se puderem ser obtidos de outras bases de dados disponíveis em órgãos públicos. (Incluído pela Lei nº 13.874, de 2019)\n\n§ 2º Ato do Departamento Nacional de Registro Empresarial e Integração definirá os atos, os documentos e as declarações que contenham informações meramente cadastrais. (Incluído pela Lei nº 13.874, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2032.%20O%20registro%20compreende%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. A proteção ao nome empresarial decorre automaticamente do arquivamento dos atos constitutivos de firma individual e de sociedades, ou de suas alterações.\n\n§ 1º (Vetado).\n\n§ 2º (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2033.%20A%20prote%C3%A7%C3%A3o%20ao%20nome%20empresarial%20decorre%20automaticamente%20do%20arquivamento%20dos%20atos%20constitutivos%20de%20firma%20individual%20e%20de%20sociedades%2C%20ou%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. O nome empresarial obedecerá aos princípios da veracidade e da novidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2034.%20O%20nome%20empresarial%20obedecer%C3%A1%20aos%20princ%C3%ADpios%20da%20veracidade%20e%20da%20novidade.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Não podem ser arquivados:\n\nI - os documentos que não obedecerem às prescrições legais ou regulamentares ou que contiverem matéria contrária aos bons costumes ou à ordem pública, bem como os que colidirem com o respectivo estatuto ou contrato não modificado anteriormente;\n\nII - os documentos de constituição ou alteração de empresas mercantis de qualquer espécie ou modalidade em que figure como titular ou administrador pessoa que esteja condenada pela prática de crime cuja pena vede o acesso à atividade mercantil;\n\nIII - os atos constitutivos de empresas mercantis que, além das cláusulas exigidas em lei, não designarem o respectivo capital e a declaração de seu objeto, cuja indicação no nome empresarial é facultativa; (Redação dada pela Lei nº 14.195, de 2021)\n\nIV - (revogado); (Redação dada pela Lei nº 14.195, de 2021)\n\nV - os atos de empresas mercantis com nome idêntico a outro já existente; (Redação dada pela Lei nº 14.195, de 2021)\n\nVI - a alteração contratual, por deliberação majoritária do capital social, quando houver cláusula restritiva;\n\nVII - os contratos sociais ou suas alterações em que haja incorporação de imóveis à sociedade, por instrumento particular, quando do instrumento não constar:\n\na) a descrição e identificação do imóvel, sua área, dados relativos à sua titulação, bem como o número da matrícula no registro imobiliário;\n\nb) a outorga uxória ou marital, quando necessária;\n\nVIII - (revogado). (Redação dada pela Lei nº 13.874, de 2019)\n\n§ 1º O registro dos atos constitutivos e de suas alterações e extinções ocorrerá independentemente de autorização governamental prévia, e os órgãos públicos deverão ser informados pela Rede Nacional para a Simplificação do Registro e da Legalização de Empresas e Negócios (Redesim) a respeito dos registros sobre os quais manifestarem interesse. (Incluído pela Lei nº 14.195, de 2021)\n\n§ 2º Eventuais casos de confronto entre nomes empresariais por semelhança poderão ser questionados pelos interessados, a qualquer tempo, por meio de recurso ao Drei. (Incluído pela Lei nº 14.195, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2035.%20N%C3%A3o%20podem%20ser%20arquivados%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "34",
+      "next": "35-A"
+    },
+    "35-A": {
+      "numero": "35-A",
+      "texto": "Art. 35-A. O empresário ou a pessoa jurídica poderá optar por utilizar o número de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ) como nome empresarial, seguido da partícula identificadora do tipo societário ou jurídico, quando exigida por lei. (Incluído pela Lei nº 14.195, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2035-A.%20O%20empres%C3%A1rio%20ou%20a%20pessoa%20jur%C3%ADdica%20poder%C3%A1%20optar%20por%20utilizar%20o%20n%C3%BAmero%20de%20inscri%C3%A7%C3%A3o%20no%20Cadastro%20Nacional%20da%20Pessoa%20Jur%C3%ADdica",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "35",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Os documentos referidos no inciso II do art. 32 deverão ser apresentados a arquivamento na junta, dentro de 30 (trinta) dias contados de sua assinatura, a cuja data retroagirão os efeitos do arquivamento; fora desse prazo, o arquivamento só terá eficácia a partir do despacho que o conceder.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2036.%20Os%20documentos%20referidos%20no%20inciso%20II%20do%20art.%2032%20dever%C3%A3o%20ser%20apresentados%20a%20arquivamento%20na%20junta%2C%20dentro%20de%2030%20%28trinta%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "35-A",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Instruirão obrigatoriamente os pedidos de arquivamento:\n\nI - o instrumento original de constituição, modificação ou extinção de empresas mercantis, assinado pelo titular, pelos administradores, sócios ou seus procuradores;\n\nII - declaração do titular ou administrador, firmada sob as penas da lei, de não estar impedido de exercer o comércio ou a administração de sociedade mercantil, em virtude de condenação criminal; (Redação dada pela Lei nº 10.194, de 14.2.2001) (Vide Lei nº 9.841, de 1999)\n\nIII - a ficha cadastral padronizada, que deverá seguir o modelo aprovado pelo Drei, a qual incluirá, no mínimo, as informações sobre os seus titulares e administradores, bem como sobre a forma de representação da empresa mercantil; (Redação dada pela Lei nº 14.195, de 2021)\n\nIV - os comprovantes de pagamento dos preços dos serviços correspondentes;\n\nV - a prova de identidade dos titulares e dos administradores da empresa mercantil.\n\nParágrafo único. Além dos referidos neste artigo, nenhum outro documento será exigido das firmas individuais e sociedades referidas nas alíneas a, b e d do inciso II do art. 32.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2037.%20Instruir%C3%A3o%20obrigatoriamente%20os%20pedidos%20de%20arquivamento%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Para cada empresa mercantil, a junta comercial organizará um prontuário com os respectivos documentos.\n\nSUBSEÇÃO II\n\nDas Autenticações",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2038.%20Para%20cada%20empresa%20mercantil%2C%20a%20junta%20comercial%20organizar%C3%A1%20um%20prontu%C3%A1rio%20com%20os%20respectivos%20documentos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. As juntas comerciais autenticarão:\n\nI - os instrumentos de escrituração das empresas mercantis e dos agentes auxiliares do comércio;\n\nII - as cópias dos documentos assentados.\n\nParágrafo único. Os instrumentos autenticados, não retirados no prazo de 30 (trinta) dias, contados da sua apresentação, poderão ser eliminados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2039.%20As%20juntas%20comerciais%20autenticar%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "38",
+      "next": "39-A"
+    },
+    "39-A": {
+      "numero": "39-A",
+      "texto": "Art. 39-A. A autenticação dos documentos de empresas de qualquer porte realizada por meio de sistemas públicos eletrônicos dispensa qualquer outra. (Incluído pela Lei Complementar nº 147, de 2014)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2039-A.%20A%20autentica%C3%A7%C3%A3o%20dos%20documentos%20de%20empresas%20de%20qualquer%20porte%20realizada%20por%20meio%20de%20sistemas%20p%C3%BAblicos%20eletr%C3%B4nicos%20dispensa%20qualquer%20outra.%20%28Inclu%C3%ADdo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "39",
+      "next": "39-B"
+    },
+    "39-B": {
+      "numero": "39-B",
+      "texto": "Art. 39-B. A comprovação da autenticação de documentos e da autoria de que trata esta Lei poderá ser realizada por meio eletrônico, na forma do regulamento. (Incluído pela Lei Complementar nº 147, de 2014)\n\nSUBSEÇÃO III\n\nDo Exame das Formalidades",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2039-B.%20A%20comprova%C3%A7%C3%A3o%20da%20autentica%C3%A7%C3%A3o%20de%20documentos%20e%20da%20autoria%20de%20que%20trata%20esta%20Lei%20poder%C3%A1%20ser%20realizada%20por%20meio%20eletr%C3%B4nico%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "39-A",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. Todo ato, documento ou instrumento apresentado a arquivamento será objeto de exame do cumprimento das formalidades legais pela junta comercial.\n\n§ 1º Verificada a existência de vício insanável, o requerimento será indeferido; quando for sanável, o processo será colocado em exigência.\n\n§ 2º As exigências formuladas pela junta comercial deverão ser cumpridas em até 30 (trinta) dias, contados da data da ciência pelo interessado ou da publicação do despacho.\n\n§ 3º O processo em exigência será entregue completo ao interessado; não devolvido no prazo previsto no parágrafo anterior, será considerado como novo pedido de arquivamento, sujeito ao pagamento dos preços dos serviços correspondentes.\n\nSUBSEÇÃO IV\n\nDo Processo Decisório",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2040.%20Todo%20ato%2C%20documento%20ou%20instrumento%20apresentado%20a%20arquivamento%20ser%C3%A1%20objeto%20de%20exame%20do%20cumprimento%20das%20formalidades%20legais%20pela%20junta%20comercial.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "39-B",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. Estão sujeitos ao regime de decisão colegiada pelas juntas comerciais, na forma desta lei:\n\nI - o arquivamento:\n\na) dos atos de constituição de sociedades anônimas; (Redação dada pela Lei nº 13.874, de 2019)\n\nb) dos atos referentes à transformação, incorporação, fusão e cisão de empresas mercantis;\n\nc) dos atos de constituição e alterações de consórcio e de grupo de sociedades, conforme previsto na Lei nº 6.404, de 15 de dezembro de 1976;\n\nII - o julgamento do recurso previsto nesta lei.\n\nParágrafo único. Os pedidos de arquivamento de que trata o inciso I do caput deste artigo serão decididos no prazo de 5 (cinco) dias úteis, contado da data de seu recebimento, sob pena de os atos serem considerados arquivados, mediante provocação dos interessados, sem prejuízo do exame das formalidades legais pela procuradoria. (Incluído pela Lei nº 13.874, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2041.%20Est%C3%A3o%20sujeitos%20ao%20regime%20de%20decis%C3%A3o%20colegiada%20pelas%20juntas%20comerciais%2C%20na%20forma%20desta%20lei%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. Os atos próprios do Registro Público de Empresas Mercantis e Atividades Afins, não previstos no artigo anterior, serão objeto de decisão singular proferida pelo presidente da junta comercial, por vogal ou servidor que possua comprovados conhecimentos de Direito Comercial e de Registro de Empresas Mercantis.\n\n§ 1º. Os vogais e servidores habilitados a proferir decisões singulares serão designados pelo presidente da junta comercial. (Redação dada pela Lei nº 13.874, de 2019)\n\n§ 2º Os pedidos de arquivamento não previstos no inciso I do caput do art. 41 desta Lei serão decididos no prazo de 2 (dois) dias úteis, contado da data de seu recebimento, sob pena de os atos serem considerados arquivados, mediante provocação dos interessados, sem prejuízo do exame das formalidades legais pela procuradoria. (Incluído pela Lei nº 13.874, de 2019)\n\n§ 3º O arquivamento dos atos constitutivos e de alterações não previstos no inciso I do caput do art. 41 desta Lei terá o registro deferido automaticamente caso cumpridos os requisitos de: (Incluído pela Lei nº 13.874, de 2019)\n\nI - aprovação da consulta prévia da viabilidade do nome empresarial e da viabilidade de localização, quando o ato exigir; e (Incluído pela Lei nº 13.874, de 2019)\n\nII - utilização pelo requerente do instrumento padrão estabelecido pelo Departamento Nacional de Registro Empresarial e Integração (Drei) da Secretaria de Governo Digital da Secretaria Especial de Desburocratização, Gestão e Governo Digital do Ministério da Economia. (Incluído pela Lei nº 13.874, de 2019)\n\n§ 4º O arquivamento dos atos de extinção não previstos no inciso I do caput do art. 41 desta Lei terá o registro deferido automaticamente no caso de utilização pelo requerente do instrumento padrão estabelecido pelo Drei. (Incluído pela Lei nº 13.874, de 2019)\n\n§ 5º Nas hipóteses de que tratam os §§ 3º e 4º do caput deste artigo, a análise do cumprimento das formalidades legais será feita posteriormente, no prazo de 2 (dois) dias úteis, contado da data do deferimento automático do registro. (Incluído pela Lei nº 13.874, de 2019)\n\n§ 6º Após a análise de que trata o § 5º deste artigo, a identificação da existência de vício acarretará: (Incluído pela Lei nº 13.874, de 2019)\n\nI - o cancelamento do arquivamento, se o vício for insanável; ou (Incluído pela Lei nº 13.874, de 2019)\n\nII - a observação do procedimento estabelecido pelo Drei, se o vício for sanável. (Incluído pela Lei nº 13.874, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2042.%20Os%20atos%20pr%C3%B3prios%20do%20Registro%20P%C3%BAblico%20de%20Empresas%20Mercantis%20e%20Atividades%20Afins%2C%20n%C3%A3o%20previstos%20no%20artigo%20anterior%2C%20ser%C3%A3o%20objeto%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. (Revogado pela Lei nº 13.874, de 2019)\n\nSUBSEÇÃO V\n\nDo Processo Revisional",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2043.%20%28Revogado%20pela%20Lei%20n%C2%BA%2013.874%2C%20de%202019%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. O processo revisional pertinente ao Registro Público de Empresas Mercantis e Atividades Afins dar-se-á mediante:\n\nI - Pedido de Reconsideração;\n\nII - Recurso ao Plenário;\n\nIII - Recurso ao Departamento Nacional de Registro Empresarial e Integração. (Redação dada pela Lei nº 13.874, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2044.%20O%20processo%20revisional%20pertinente%20ao%20Registro%20P%C3%BAblico%20de%20Empresas%20Mercantis%20e%20Atividades%20Afins%20dar-se-%C3%A1%20mediante%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. O Pedido de Reconsideração terá por objeto obter a revisão de despachos singulares ou de Turmas que formulem exigências para o deferimento do arquivamento e será apresentado no prazo para cumprimento da exigência para apreciação pela autoridade recorrida em 3 (três) dias úteis ou 5 (cinco) dias úteis, respectivamente. (Redação dada pela Lei nº 11.598, de 2007)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2045.%20O%20Pedido%20de%20Reconsidera%C3%A7%C3%A3o%20ter%C3%A1%20por%20objeto%20obter%20a%20revis%C3%A3o%20de%20despachos%20singulares%20ou%20de%20Turmas%20que%20formulem%20exig%C3%AAncias%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. Das decisões definitivas, singulares ou de turmas, cabe recurso ao plenário, que deverá ser decidido no prazo máximo de 30 (trinta) dias, a contar da data do recebimento da peça recursal, ouvida a procuradoria, no prazo de 10 (dez) dias, quando a mesma não for a recorrente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2046.%20Das%20decis%C3%B5es%20definitivas%2C%20singulares%20ou%20de%20turmas%2C%20cabe%20recurso%20ao%20plen%C3%A1rio%2C%20que%20dever%C3%A1%20ser%20decidido%20no%20prazo%20m%C3%A1ximo%20de%2030",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Das decisões do plenário cabe recurso ao Departamento Nacional de Registro Empresarial e Integração como última instância administrativa. (Redação dada pela Lei nº 13.874, de 2019)\n\nParágrafo único. (Revogado). (Redação dada pela Lei nº 13.874, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2047.%20Das%20decis%C3%B5es%20do%20plen%C3%A1rio%20cabe%20recurso%20ao%20Departamento%20Nacional%20de%20Registro%20Empresarial%20e%20Integra%C3%A7%C3%A3o%20como%20%C3%BAltima%20inst%C3%A2ncia%20administrativa.%20%28Reda%C3%A7%C3%A3o%20dada",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. Os recursos serão indeferidos liminarmente pelo presidente da junta quando assinados por procurador sem mandato ou, ainda, quando interpostos fora do prazo ou antes da decisão definitiva, devendo ser, em qualquer caso, anexados ao processo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2048.%20Os%20recursos%20ser%C3%A3o%20indeferidos%20liminarmente%20pelo%20presidente%20da%20junta%20quando%20assinados%20por%20procurador%20sem%20mandato%20ou%2C%20ainda%2C%20quando%20interpostos%20fora",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. Os recursos de que trata esta lei não têm efeito suspensivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2049.%20Os%20recursos%20de%20que%20trata%20esta%20lei%20n%C3%A3o%20t%C3%AAm%20efeito%20suspensivo.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. Todos os recursos previstos nesta lei deverão ser interpostos no prazo de 10 (dez) dias úteis, cuja fluência começa na data da intimação da parte ou da publicação do ato no órgão oficial de publicidade da junta comercial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2050.%20Todos%20os%20recursos%20previstos%20nesta%20lei%20dever%C3%A3o%20ser%20interpostos%20no%20prazo%20de%2010%20%28dez%29%20dias%20%C3%BAteis%2C%20cuja%20flu%C3%AAncia%20come%C3%A7a%20na",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. A procuradoria e as partes interessadas, quando for o caso, serão intimadas para, no mesmo prazo de 10 (dez) dias, oferecerem contra-razões.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2051.%20A%20procuradoria%20e%20as%20partes%20interessadas%2C%20quando%20for%20o%20caso%2C%20ser%C3%A3o%20intimadas%20para%2C%20no%20mesmo%20prazo%20de%2010%20%28dez%29%20dias%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2052.%20%28Vetado%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. As alterações contratuais ou estatutárias poderão ser efetivadas por escritura pública ou particular, independentemente da forma adotada no ato constitutivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2053.%20As%20altera%C3%A7%C3%B5es%20contratuais%20ou%20estatut%C3%A1rias%20poder%C3%A3o%20ser%20efetivadas%20por%20escritura%20p%C3%BAblica%20ou%20particular%2C%20independentemente%20da%20forma%20adotada%20no%20ato%20constitutivo.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. A prova da publicidade de atos societários, quando exigida em lei, será feita mediante anotação nos registros da junta comercial à vista da apresentação da folha do Diário Oficial, em sua versão eletrônica, dispensada a juntada da mencionada folha. (Redação dada pela Lei nº 13.874, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2054.%20A%20prova%20da%20publicidade%20de%20atos%20societ%C3%A1rios%2C%20quando%20exigida%20em%20lei%2C%20ser%C3%A1%20feita%20mediante%20anota%C3%A7%C3%A3o%20nos%20registros%20da%20junta%20comercial",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. Compete ao Departamento Nacional de Registro Empresarial e Integração propor a elaboração da tabela de preços dos serviços pertinentes ao Registro Público de Empresas Mercantis, na parte relativa aos atos de natureza federal, bem como especificar os atos a serem observados pelas juntas comerciais na elaboração de suas tabelas locais. (Redação dada pela Lei nº 13.874, de 2019)\n\n§ 1º As isenções de preços de serviços restringem-se aos casos previstos em lei. (Incluído pela Lei nº 13.874, de 2019)\n\n§ 2º É vedada a cobrança de preço pelo serviço de arquivamento dos documentos relativos à extinção do registro do empresário individual, da empresa individual de responsabilidade limitada (Eireli) e da sociedade limitada. (Incluído pela Lei nº 13.874, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2055.%20Compete%20ao%20Departamento%20Nacional%20de%20Registro%20Empresarial%20e%20Integra%C3%A7%C3%A3o%20propor%20a%20elabora%C3%A7%C3%A3o%20da%20tabela%20de%20pre%C3%A7os%20dos%20servi%C3%A7os%20pertinentes%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. Os documentos arquivados pelas juntas comerciais não serão retirados, em qualquer hipótese, de suas dependências, ressalvado o disposto no art. 57 desta Lei. (Redação dada pela Lei nº 14.195, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2056.%20Os%20documentos%20arquivados%20pelas%20juntas%20comerciais%20n%C3%A3o%20ser%C3%A3o%20retirados%2C%20em%20qualquer%20hip%C3%B3tese%2C%20de%20suas%20depend%C3%AAncias%2C%20ressalvado%20o%20disposto%20no%20art.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. Quaisquer atos e documentos, após microfilmados ou preservada a sua imagem por meios tecnológicos mais avançados, poderão ser eliminados pelas juntas comerciais, conforme disposto em regulamento. (Redação dada pela Lei nº 14.195, de 2021)\n\nParágrafo único. Antes da eliminação prevista no caput deste artigo, será concedido o prazo de 30 (trinta) dias para os acionistas, os diretores e os procuradores das empresas ou outros interessados retirarem, facultativamente, a documentação original, sem qualquer custo. (Incluído pela Lei nº 14.195, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2057.%20Quaisquer%20atos%20e%20documentos%2C%20ap%C3%B3s%20microfilmados%20ou%20preservada%20a%20sua%20imagem%20por%20meios%20tecnol%C3%B3gicos%20mais%20avan%C3%A7ados%2C%20poder%C3%A3o%20ser%20eliminados%20pelas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. (Revogado pela Lei nº 14.195, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2058.%20%28Revogado%20pela%20Lei%20n%C2%BA%2014.195%2C%20de%202021%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. Expirado o prazo da sociedade celebrada por tempo determinado, esta perderá a proteção do seu nome empresarial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2059.%20Expirado%20o%20prazo%20da%20sociedade%20celebrada%20por%20tempo%20determinado%2C%20esta%20perder%C3%A1%20a%20prote%C3%A7%C3%A3o%20do%20seu%20nome%20empresarial.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. (Revogado pela Lei nº 14.195, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2060.%20%28Revogado%20pela%20Lei%20n%C2%BA%2014.195%2C%20de%202021%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. O fornecimento de informações cadastrais aos órgãos executores do Registro Público de Empresas Mercantis e Atividades Afins desobriga as firmas individuais e sociedades de prestarem idênticas informações a outros órgãos ou entidades das Administrações Federal, Estadual ou Municipal.\n\nParágrafo único. O Departamento Nacional de Registro Empresarial e Integração manterá à disposição dos órgãos ou das entidades de que trata este artigo os seus serviços de cadastramento de empresas mercantis. (Redação dada pela Lei nº 13.833,de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2061.%20O%20fornecimento%20de%20informa%C3%A7%C3%B5es%20cadastrais%20aos%20%C3%B3rg%C3%A3os%20executores%20do%20Registro%20P%C3%BAblico%20de%20Empresas%20Mercantis%20e%20Atividades%20Afins%20desobriga%20as%20firmas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "60",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. (Revogado pela Lei nº 13.833,de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2062.%20%28Revogado%20pela%20Lei%20n%C2%BA%2013.833%2Cde%202019%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "61",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. Os atos levados a arquivamento nas juntas comerciais são dispensados de reconhecimento de firma. (Redação dada pela Lei nº 14.195, de 2021)\n\n§ 1º A cópia de documento, autenticada na forma prevista em lei, dispensará nova conferência com o documento original. (Incluído pela Lei nº 13.874, de 2019)\n\n§ 2º A autenticação do documento poderá ser realizada por meio de comparação entre o documento original e a sua cópia pelo servidor a quem o documento seja apresentado. (Incluído pela Lei nº 13.874, de 2019)\n\n§ 3º Fica dispensada a autenticação a que se refere o § 1º do caput deste artigo quando o advogado ou o contador da parte interessada declarar, sob sua responsabilidade pessoal, a autenticidade da cópia do documento. (Incluído pela Lei nº 13.874, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2063.%20Os%20atos%20levados%20a%20arquivamento%20nas%20juntas%20comerciais%20s%C3%A3o%20dispensados%20de%20reconhecimento%20de%20firma.%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%2014.195%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "62",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. A certidão dos atos de constituição e de alteração de empresários individuais e de sociedades mercantis, fornecida pelas juntas comerciais em que foram arquivados, será o documento hábil para a transferência, por transcrição no registro público competente, dos bens com que o subscritor tiver contribuído para a formação ou para o aumento do capital. (Redação dada pela Lei nº 14.195, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2064.%20A%20certid%C3%A3o%20dos%20atos%20de%20constitui%C3%A7%C3%A3o%20e%20de%20altera%C3%A7%C3%A3o%20de%20empres%C3%A1rios%20individuais%20e%20de%20sociedades%20mercantis%2C%20fornecida%20pelas%20juntas%20comerciais",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "63",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art. 65. As juntas comerciais adaptarão os respectivos regimentos ou regulamentos às disposições desta lei no prazo de 180 (cento e oitenta) dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2065.%20As%20juntas%20comerciais%20adaptar%C3%A3o%20os%20respectivos%20regimentos%20ou%20regulamentos%20%C3%A0s%20disposi%C3%A7%C3%B5es%20desta%20lei%20no%20prazo%20de%20180%20%28cento%20e%20oitenta%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "64",
+      "next": "65-A"
+    },
+    "65-A": {
+      "numero": "65-A",
+      "texto": "Art. 65-A. Os atos de constituição, alteração, transformação, incorporação, fusão, cisão, dissolução e extinção de registro de empresários e de pessoas jurídicas poderão ser realizados também por meio de sistema eletrônico criado e mantido pela administração pública federal. (Incluído pela Lei nº 13.874, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2065-A.%20Os%20atos%20de%20constitui%C3%A7%C3%A3o%2C%20altera%C3%A7%C3%A3o%2C%20transforma%C3%A7%C3%A3o%2C%20incorpora%C3%A7%C3%A3o%2C%20fus%C3%A3o%2C%20cis%C3%A3o%2C%20dissolu%C3%A7%C3%A3o%20e%20extin%C3%A7%C3%A3o%20de%20registro%20de%20empres%C3%A1rios%20e%20de%20pessoas%20jur%C3%ADdicas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "65",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art. 66. (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2066.%20%28Vetado%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "65-A",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art. 67. Esta lei será regulamentada pelo Poder Executivo no prazo de 90 (noventa) dias e entrará em vigor na data da sua publicação, revogadas as Leis nºs 4.726, de 13 de julho de 1965, 6.939, de 09 de setembro de 1981, 6.054, de 12 de junho de 1974, o § 4º do art. 71 da Lei nº 4.215, de 27 de abril de 1963, acrescentado pela Lei nº 6.884, de 09 de dezembro de 1980, e a Lei nº 8.209, de 18 de julho de 1991.\n\nBrasília, 18 de novembro de 1994; 173º da Independência e 106º da República.\n\nITAMAR FRANCO Ciro Ferreira Gomes Elcio Álvares\n\nEste texto não substitui o publicado no DOU. 21.11.1994.\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8934compilado.htm#:~:text=Art.%2067.%20Esta%20lei%20ser%C3%A1%20regulamentada%20pelo%20Poder%20Executivo%20no%20prazo%20de%2090%20%28noventa%29%20dias%20e%20entrar%C3%A1%20em%20vigor%20na%20data%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "66",
+      "next": null
+    }
+  }
+}

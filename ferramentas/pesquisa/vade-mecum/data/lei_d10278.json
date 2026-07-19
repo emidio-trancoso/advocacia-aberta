@@ -1,0 +1,223 @@
+{
+  "_meta": {
+    "codigo": "D10278",
+    "nome": "Digitalização de Documentos – Requisitos de Integridade",
+    "lei": "Decreto 10.278/2020",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/d10278.htm",
+    "total_artigos": 13,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Este Decreto regulamenta o disposto no inciso X do caput do art. 3º da Lei nº 13.874, de 20 de setembro de 2019, e no art. 2º-A da Lei nº 12.682, de 9 de julho de 2012, para estabelecer a técnica e os requisitos para a digitalização de documentos públicos ou privados, a fim de que os documentos digitalizados produzam os mesmos efeitos legais dos documentos originais.\n\nÂmbito de aplicação",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/d10278.htm#:~:text=Art.%201%C2%BA%20Este%20Decreto%20regulamenta%20o%20disposto%20no%20inciso%20X%20do%20caput%20do%20art.%203%C2%BA%20da%20Lei%20n%C2%BA%2013.874%2C%20de%2020%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Aplica-se o disposto neste Decreto aos documentos físicos digitalizados que sejam produzidos:\n\nI - por pessoas jurídicas de direito público interno, ainda que envolva relações com particulares; e\n\nII - por pessoas jurídicas de direito privado ou por pessoas naturais para comprovação perante:\n\na) pessoas jurídicas de direito público interno; ou\n\nb) outras pessoas jurídicas de direito privado ou outras pessoas naturais.\n\nParágrafo único. O disposto neste Decreto não se aplica a:\n\nI - documentos nato-digitais, que são documentos produzidos originalmente em formato digital;\n\nII - documentos referentes às operações e transações realizadas no sistema financeiro nacional;\n\nIII - documentos em microfilme;\n\nIV - documentos audiovisuais;\n\nV - documentos de identificação; e\n\nVI - documentos de porte obrigatório.\n\nDefinições",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/d10278.htm#:~:text=Art.%202%C2%BA%20Aplica-se%20o%20disposto%20neste%20Decreto%20aos%20documentos%20f%C3%ADsicos%20digitalizados%20que%20sejam%20produzidos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Para fins do disposto neste Decreto, considera-se:\n\nI - documento digitalizado - representante digital do processo de digitalização do documento físico e seus metadados;\n\nII - metadados - dados estruturados que permitem classificar, descrever e gerenciar documentos;\n\nIII - documento público - documentos produzidos ou recebidos por pessoas jurídicas de direito público interno ou por entidades privadas encarregadas da gestão de serviços públicos; e\n\nIV - integridade - estado dos documentos que não foram corrompidos ou alterados de forma não autorizada.\n\nRegras gerais de digitalização",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/d10278.htm#:~:text=Art.%203%C2%BA%20Para%20fins%20do%20disposto%20neste%20Decreto%2C%20considera-se%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Os procedimentos e as tecnologias utilizados na digitalização de documentos físicos devem assegurar:\n\nI - a integridade e a confiabilidade do documento digitalizado;\n\nII - a rastreabilidade e a auditabilidade dos procedimentos empregados;\n\nIII - o emprego dos padrões técnicos de digitalização para garantir a qualidade da imagem, da legibilidade e do uso do documento digitalizado;\n\nIV - a confidencialidade, quando aplicável; e\n\nV - a interoperabilidade entre sistemas informatizados.\n\nRequisitos na digitalização que envolva entidades públicas",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/d10278.htm#:~:text=Art.%204%C2%BA%20Os%20procedimentos%20e%20as%20tecnologias%20utilizados%20na%20digitaliza%C3%A7%C3%A3o%20de%20documentos%20f%C3%ADsicos%20devem%20assegurar%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º O documento digitalizado destinado a se equiparar a documento físico para todos os efeitos legais e para a comprovação de qualquer ato perante pessoa jurídica de direito público interno deverá:\n\nI - ser assinado digitalmente com certificação digital no padrão da Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, de modo a garantir a autoria da digitalização e a integridade do documento e de seus metadados;\n\nII - seguir os padrões técnicos mínimos previstos no Anexo I; e\n\nIII - conter, no mínimo, os metadados especificados no Anexo II.\n\nRequisito na digitalização entre particulares",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/d10278.htm#:~:text=Art.%205%C2%BA%20O%20documento%20digitalizado%20destinado%20a%20se%20equiparar%20a%20documento%20f%C3%ADsico%20para%20todos%20os%20efeitos%20legais%20e%20para%20a%20comprova%C3%A7%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Na hipótese de documento que envolva relações entre particulares, qualquer meio de comprovação da autoria, da integridade e, se necessário, da confidencialidade de documentos digitalizados será válido, desde que escolhido de comum acordo pelas partes ou aceito pela pessoa a quem for oposto o documento.\n\nParágrafo único. Na hipótese não ter havido acordo prévio entre as partes, aplica-se o disposto no art. 5º.\n\nDesnecessidade da digitalização",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/d10278.htm#:~:text=Art.%206%C2%BA%20Na%20hip%C3%B3tese%20de%20documento%20que%20envolva%20rela%C3%A7%C3%B5es%20entre%20particulares%2C%20qualquer%20meio%20de%20comprova%C3%A7%C3%A3o%20da%20autoria%2C%20da%20integridade%20e%2C%20se%20necess%C3%A1rio%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º A digitalização de documentos por pessoas jurídicas de direito público interno será precedida da avaliação dos conjuntos documentais, conforme estabelecido em tabelas de temporalidade e destinação de documentos, de modo a identificar previamente os que devem ser encaminhados para descarte.\n\nResponsabilidade pela digitalização",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/d10278.htm#:~:text=Art.%207%C2%BA%20A%20digitaliza%C3%A7%C3%A3o%20de%20documentos%20por%20pessoas%20jur%C3%ADdicas%20de%20direito%20p%C3%BAblico%20interno%20ser%C3%A1%20precedida%20da%20avalia%C3%A7%C3%A3o%20dos%20conjuntos%20documentais%2C%20conforme%20estabelecido",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º O processo de digitalização poderá ser realizado pelo possuidor do documento físico ou por terceiros.\n\n§ 1º Cabe ao possuidor do documento físico a responsabilidade perante terceiros pela conformidade do processo de digitalização ao disposto neste Decreto.\n\n§ 2º Na hipótese de contratação de terceiros pela administração pública federal, o instrumento contratual preverá:\n\nI - a responsabilidade integral do contratado perante a administração pública federal e a responsabilidade solidária e ilimitada em relação ao terceiro prejudicado por culpa ou dolo; e\n\nII - os requisitos de segurança da informação e de proteção de dados, nos termos da legislação vigente.\n\nDescarte dos documentos físicos",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/d10278.htm#:~:text=Art.%208%C2%BA%20O%20processo%20de%20digitaliza%C3%A7%C3%A3o%20poder%C3%A1%20ser%20realizado%20pelo%20possuidor%20do%20documento%20f%C3%ADsico%20ou%20por%20terceiros.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Após o processo de digitalização realizado conforme este Decreto, o documento físico poderá ser descartado, ressalvado aquele que apresente conteúdo de valor histórico.\n\nManutenção dos documentos digitalizados",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/d10278.htm#:~:text=Art.%209%C2%BA%20Ap%C3%B3s%20o%20processo%20de%20digitaliza%C3%A7%C3%A3o%20realizado%20conforme%20este%20Decreto%2C%20o%20documento%20f%C3%ADsico%20poder%C3%A1%20ser%20descartado%2C%20ressalvado%20aquele%20que%20apresente%20conte%C3%BAdo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. O armazenamento de documentos digitalizados assegurará:\n\nI - a proteção do documento digitalizado contra alteração, destruição e, quando cabível, contra o acesso e a reprodução não autorizados; e\n\nII - a indexação de metadados que possibilitem:\n\na) a localização e o gerenciamento do documento digitalizado; e\n\nb) a conferência do processo de digitalização adotado.\n\nPreservação dos documentos digitalizados",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/d10278.htm#:~:text=Art.%2010.%20O%20armazenamento%20de%20documentos%20digitalizados%20assegurar%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Os documentos digitalizados sem valor histórico serão preservados, no mínimo, até o transcurso dos prazos de prescrição ou decadência dos direitos a que se referem.\n\nPresevação de documento digitalizados e entes públicos",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/d10278.htm#:~:text=Art.%2011.%20Os%20documentos%20digitalizados%20sem%20valor%20hist%C3%B3rico%20ser%C3%A3o%20preservados%2C%20no%20m%C3%ADnimo%2C%20at%C3%A9%20o%20transcurso%20dos%20prazos%20de%20prescri%C3%A7%C3%A3o%20ou%20decad%C3%AAncia%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. As pessoas jurídicas de direito público interno observarão o disposto na Lei nº 8.159, de 8 de janeiro de 1991, e nas tabelas de temporalidade e destinação de documentos aprovadas pelas instituições arquivísticas públicas, no âmbito de suas competências, observadas as diretrizes do Conselho Nacional de Arquivos - Conarq quanto à temporalidade de guarda, à destinação e à preservação de documentos.\n\nVigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/d10278.htm#:~:text=Art.%2012.%20As%20pessoas%20jur%C3%ADdicas%20de%20direito%20p%C3%BAblico%20interno%20observar%C3%A3o%20o%20disposto%20na%20Lei%20n%C2%BA%208.159%2C%20de%208%20de%20janeiro%20de%201991%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Este Decreto entra em vigor na data de sua publicação.\n\nBrasília, 18 de março de 2020; 199º da Independência e 132º da República.\n\nJAIR MESSIAS BOLSONARO Sérgio Moro Paulo Guedes\n\nEste texto não substitui o publicado no DOU de 19.3.2020.\n\nANEXO I\n\nPADRÕES TÉCNICOS MÍNIMOS PARA DIGITALIZAÇÃO DE DOCUMENTOS\n\nDOCUMENTO\n\nRESOLUÇÃO MÍNIMA\n\nCOR\n\nTIPO ORIGINAL\n\nFORMATO DE ARQUIVO*\n\nTextos impressos, sem ilustração, em preto e branco\n\n300 dpi\n\nMonocromático\n\n(preto e branco)\n\nTexto\n\nPDF/A\n\nTextos impressos, com ilustração, em preto e branco\n\n300 dpi\n\nEscala de cinza\n\nTexto/imagem\n\nPDF/A\n\nTextos impressos, com ilustração e cores\n\n300 dpi\n\nRGB (colorido)\n\nTexto/imagem\n\nPDF/A\n\nTextos manuscritos, com ou sem ilustração, em preto e branco\n\n300 dpi\n\nEscala de cinza\n\nTexto/imagem\n\nPDF/A\n\nTextos manuscritos, com ou sem ilustração, em cores\n\n300 dpi\n\nRGB (colorido)\n\nTexto/imagem\n\nPDF/A\n\nFotografias e cartazes\n\n300 dpi\n\nRGB (colorido)\n\nImagem\n\nPNG\n\nPlantas e mapas\n\n600 dpi\n\nMonocromático\n\n(preto e branco)\n\nTexto/imagem\n\nPNG\n\n*Na hipótese de o arquivo ser comprimido, deve ser realizada compressão sem perda, de forma que a informação obtida após a descompressão seja idêntica à informação antes de ser comprimida.\n\nANEXO II\n\nMETADADOS MÍNIMOS EXIGIDOS\n\na) Para todos os documentos:\n\nMetadados\n\nDefinição\n\nAssunto\n\nPalavras-chave que representam o conteúdo do documento.\n\nPode ser de preenchimento livre ou com o uso de vocabulário controlado ou tesauro.\n\nAutor (nome)\n\nPessoa natural ou jurídica que emitiu o documento.\n\nData e local da digitalização\n\nRegistro cronológico (data e hora) e tópico (local) da digitalização do documento.\n\nIdentificador do documento digital\n\nIdentificador único atribuído ao documento no ato de sua captura para o sistema informatizado (sistema de negócios).\n\nResponsável pela digitalização\n\nPessoa jurídica ou física responsável pela digitalização\n\nTítulo\n\nElemento de descrição que nomeia o documento. Pode ser formal ou atribuído:\n\n• formal: designação registrada no documento;\n\n• atribuído: designação providenciada para identificação de um documento formalmente desprovido de título.\n\nTipo documental\n\nIndica o tipo de documento, ou seja, a configuração da espécie documental de acordo com a atividade que a gerou.\n\nHash (chekcsum) da imagem\n\nAlgoritmo que mapeia uma sequência de bits (de um arquivo em formato digital), com a finalidade de realizar a sua verificação de integridade.\n\nb) Para documentos digitalizados por pessoas jurídicas de direito público interno:\n\nMetadados\n\nDefinição\n\nClasse\n\nIdentificação da classe, subclasse, grupo ou subgrupo do documento com base em um plano de classificação de documentos.\n\nData de produção (do documento original)\n\nRegistro cronológico (data e hora) e tópico (local) da produção do documento.\n\nDestinação prevista (eliminação ou guarda permanente)\n\nIndicação da próxima ação de destinação (transferência, eliminação ou recolhimento) prevista para o documento, em cumprimento à tabela de temporalidade e destinação de documentos das atividades-meio e das atividades-fim.\n\nGênero\n\nIndica o gênero documental, ou seja, a configuração da informação no documento de acordo com o sistema de signos utilizado na comunicação do documento.\n\nPrazo de guarda\n\nIndicação do prazo estabelecido em tabela de temporalidade para o cumprimento da destinação.\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/d10278.htm#:~:text=Art.%2013.%20Este%20Decreto%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": null
+    }
+  }
+}

@@ -1,0 +1,719 @@
+{
+  "_meta": {
+    "codigo": "L6385",
+    "nome": "Mercado de Valores Mobiliários (CVM)",
+    "lei": "Lei 6.385/1976",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm",
+    "total_artigos": 44,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o Serão disciplinadas e fiscalizadas de acordo com esta Lei as seguintes atividades: (Redação dada pela Lei nº 10.303, de 31.10.2001)\n\nI - a emissão e distribuição de valores mobiliários no mercado; (Redação dada pela Lei nº 10.303, de 31.10.2001)\n\nII - a negociação e intermediação no mercado de valores mobiliários; (Redação dada pela Lei nº 10.303, de 31.10.2001)\n\nIII - a negociação e intermediação no mercado de derivativos; (Redação dada pela Lei nº 10.303, de 31.10.2001)\n\nIV - a organização, o funcionamento e as operações das Bolsas de Valores; (Redação dada pela Lei nº 10.303, de 31.10.2001)\n\nV - a organização, o funcionamento e as operações das Bolsas de Mercadorias e Futuros; (Redação dada pela Lei nº 10.303, de 31.10.2001)\n\nVI - a administração de carteiras e a custódia de valores mobiliários; (Redação dada pela Lei nº 10.303, de 31.10.2001)\n\nVII - a auditoria das companhias abertas; (Inciso incluído pela Lei nº 10.303, de 31.10.2001)\n\nVIII - os serviços de consultor e analista de valores mobiliários. (Inciso incluído pela Lei nº 10.303, de 31.10.2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art.%201o%20Ser%C3%A3o%20disciplinadas%20e%20fiscalizadas%20de%20acordo%20com%20esta%20Lei%20as%20seguintes%20atividades%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%2010.303%2C%20de%2031.10.2001%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o São valores mobiliários sujeitos ao regime desta Lei: (Redação dada pela Lei nº 10.303, de 31.10.2001)\n\nI - as ações, debêntures e bônus de subscrição; (Redação dada pela Lei nº 10.303, de 31.10.2001)\n\nII - os cupons, direitos, recibos de subscrição e certificados de desdobramento relativos aos valores mobiliários referidos no inciso II; (Redação dada pela Lei nº 10.303, de 31.10.2001)\n\nIII - os certificados de depósito de valores mobiliários; (Redação dada pela Lei nº 10.303, de 31.10.2001)\n\nIV - as cédulas de debêntures; (Inciso incluído pela Lei nº 10.303, de 31.10.2001)\n\nV - as cotas de fundos de investimento em valores mobiliários ou de clubes de investimento em quaisquer ativos; (Inciso incluído pela Lei nº 10.303, de 31.10.2001)\n\nVI - as notas comerciais; (Inciso incluído pela Lei nº 10.303, de 31.10.2001)\n\nVII - os contratos futuros, de opções e outros derivativos, cujos ativos subjacentes sejam valores mobiliários; (Inciso incluído pela Lei nº 10.303, de 31.10.2001)\n\nVIII - outros contratos derivativos, independentemente dos ativos subjacentes; e (Inciso incluído pela Lei nº 10.303, de 31.10.2001)\n\nIX - quando ofertados publicamente, quaisquer outros títulos ou contratos de investimento coletivo, que gerem direito de participação, de parceria ou de remuneração, inclusive resultante de prestação de serviços, cujos rendimentos advêm do esforço do empreendedor ou de terceiros. (Inciso incluído pela Lei nº 10.303, de 31.10.2001)\n\nX - os ativos integrantes do Sistema Brasileiro de Comércio de Emissões de Gases de Efeito Estufa (SBCE) e os créditos de carbono, quando negociados no mercado financeiro e de capitais. (Incluído pela Lei nº 15.042, de 2024)\n\n§ 1o Excluem-se do regime desta Lei: (Redação dada pela Lei nº 10.303, de 31.10.2001) (Vide art. 1º da Lei nº 10.198, de 14.2.2001)\n\nI - os títulos da dívida pública federal, estadual ou municipal; (Redação dada pela Lei nº 10.303, de 31.10.2001)\n\nII - os títulos cambiais de responsabilidade de instituição financeira, exceto as debêntures. (Redação dada pela Lei nº 10.303, de 31.10.2001)\n\n§ 2o Os emissores dos valores mobiliários referidos neste artigo, bem como seus administradores e controladores, sujeitam-se à disciplina prevista nesta Lei, para as companhias abertas. (Parágrafo incluído pela Lei nº 10.303, de 31.10.2001)\n\n§ 3o Compete à Comissão de Valores Mobiliários expedir normas para a execução do disposto neste artigo, podendo: (Parágrafo incluído pela Lei nº 10.303, de 31.10.2001)\n\nI - exigir que os emissores se constituam sob a forma de sociedade anônima; (Inciso incluído pela Lei nº 10.303, de 31.10.2001)\n\nII - exigir que as demonstrações financeiras dos emissores, ou que as informações sobre o empreendimento ou projeto, sejam auditadas por auditor independente nela registrado; (Inciso incluído pela Lei nº 10.303, de 31.10.2001)\n\nIII - dispensar, na distribuição pública dos valores mobiliários referidos neste artigo, a participação de sociedade integrante do sistema previsto no art. 15 desta Lei; (Inciso incluído pela Lei nº 10.303, de 31.10.2001)\n\nIV - estabelecer padrões de cláusulas e condições que devam ser adotadas nos títulos ou contratos de investimento, destinados à negociação em bolsa ou balcão, organizado ou não, e recusar a admissão ao mercado da emissão que não satisfaça a esses padrões. (Inciso incluído pela Lei nº 10.303, de 31.10.2001)\n\n§ 4o É condição de validade dos contratos derivativos, de que tratam os incisos VII e VIII do caput, celebrados a partir da entrada em vigor da Medida Provisória no 539, de 26 de julho de 2011, o registro em câmaras ou prestadores de serviço de compensação, de liquidação e de registro autorizados pelo Banco Central do Brasil ou pela Comissão de Valores Mobiliários. (Incluído pela Lei nº 12.543, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art.%202o%20S%C3%A3o%20valores%20mobili%C3%A1rios%20sujeitos%20ao%20regime%20desta%20Lei%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%2010.303%2C%20de%2031.10.2001%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art . 3º Compete ao Conselho Monetário Nacional:\n\nI - definir a política a ser observada na organização e no funcionamento do mercado de valores mobiliários;\n\nII - regular a utilização do crédito nesse mercado;\n\nIII - fixar, a orientação geral a ser observada pela Comissão de Valores Mobiliários no exercício de suas atribuições;\n\nIV - definir as atividades da Comissão de Valores Mobiliários que devem ser exercidas em coordenação com o Banco Central do Brasil.\n\nV - aprovar o quadro e o regulamento de pessoal da Comissão de Valores Mobiliários, bem como fixar a retribuição do presidente, diretores, ocupantes de funções de confiança e demais servidores. (Inciso Incluído Pela Lei nº 6.422, de 8.6.1977)\n\nVI - estabelecer, para fins da política monetária e cambial, condições específicas para negociação de contratos derivativos, independentemente da natureza do investidor, podendo, inclusive: (Incluído pela Lei nº 12.543, de 2011)\n\na) determinar depósitos sobre os valores nocionais dos contratos; e (Incluído pela Lei nº 12.543, de 2011)\n\nb) fixar limites, prazos e outras condições sobre as negociações dos contratos derivativos. (Incluído pela Lei nº 12.543, de 2011)\n\n§ 1o Ressalvado o disposto nesta Lei, a fiscalização do mercado financeiro e de capitais continuará a ser exercida, nos termos da legislação em vigor, pelo Banco Central do Brasil. (Incluído pela Lei nº 12.543, de 2011)\n\n§ 2o As condições específicas de que trata o inciso VI do caput deste artigo não poderão ser exigidas para as operações em aberto na data de publicação do ato que as estabelecer. (Incluído pela Lei nº 12.543, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art%20.%203%C2%BA%20Compete%20ao%20Conselho%20Monet%C3%A1rio%20Nacional%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art . 4º O Conselho Monetário Nacional e a Comissão de Valores Mobiliários exercerão as atribuições previstas na lei para o fim de:\n\nI - estimular a formação de poupanças e a sua aplicação em valores mobiliários;\n\nII - promover a expansão e o funcionamento eficiente e regular do mercado de ações, e estimular as aplicações permanentes em ações do capital social de companhias abertas sob controle de capitais privados nacionais;\n\nIII - assegurar o funcionamento eficiente e regular dos mercados da bolsa e de balcão;\n\nIV - proteger os titulares de valores mobiliários e os investidores do mercado contra:\n\na) emissões irregulares de valores mobiliários;\n\nb) atos ilegais de administradores e acionistas controladores das companhias abertas, ou de administradores de carteira de valores mobiliários.\n\nc) o uso de informação relevante não divulgada no mercado de valores mobiliários. (Alínea incluída pela Lei nº 10.303, de 31.10.2001)\n\nV - evitar ou coibir modalidades de fraude ou manipulação destinadas a criar condições artificiais de demanda, oferta ou preço dos valores mobiliários negociados no mercado;\n\nVI - assegurar o acesso do público a informações sobre os valores mobiliários negociados e as companhias que os tenham emitido;\n\nVII - assegurar a observância de práticas comerciais equitativas no mercado de valores mobiliários;\n\nVIII - assegurar a observância no mercado, das condições de utilização de crédito fixadas pelo Conselho Monetário Nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art%20.%204%C2%BA%20O%20Conselho%20Monet%C3%A1rio%20Nacional%20e%20a%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios%20exercer%C3%A3o%20as%20atribui%C3%A7%C3%B5es%20previstas%20na%20lei%20para%20o%20fim",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o É instituída a Comissão de Valores Mobiliários, entidade autárquica em regime especial, vinculada ao Ministério da Fazenda, com personalidade jurídica e patrimônio próprios, dotada de autoridade administrativa independente, ausência de subordinação hierárquica, mandato fixo e estabilidade de seus dirigentes, e autonomia financeira e orçamentária. (Redação dada pela Lei nº 10.411, de 26.2.2002)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art.%205o%20%C3%89%20institu%C3%ADda%20a%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios%2C%20entidade%20aut%C3%A1rquica%20em%20regime%20especial%2C%20vinculada%20ao%20Minist%C3%A9rio%20da%20Fazenda%2C%20com%20personalidade%20jur%C3%ADdica",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o A Comissão de Valores Mobiliários será administrada por um Presidente e quatro Diretores, nomeados pelo Presidente da República, depois de aprovados pelo Senado Federal, dentre pessoas de ilibada reputação e reconhecida competência em matéria de mercado de capitais. (Redação dada pela Lei nº 10.411, de 26.2.2002) (Regulamento)\n\n§ 1o O mandato dos dirigentes da Comissão será de cinco anos, vedada a recondução, devendo ser renovado a cada ano um quinto dos membros do Colegiado.(Redação dada pela Lei nº 10.411, de 26.2.2002)\n\n§ 2o Os dirigentes da Comissão somente perderão o mandato em virtude de renúncia, de condenação judicial transitada em julgado ou de processo administrativo disciplinar.(Redação dada pela Lei nº 10.411, de 26.2.2002)\n\n§ 3o Sem prejuízo do que prevêem a lei penal e a lei de improbidade administrativa, será causa da perda do mandato a inobservância, pelo Presidente ou Diretor, dos deveres e das proibições inerentes ao cargo.(Redação dada pela Lei nº 10.411, de 26.2.2002)\n\n§ 4o Cabe ao Ministro de Estado da Fazenda instaurar o processo administrativo disciplinar, que será conduzido por comissão especial, competindo ao Presidente da República determinar o afastamento preventivo, quando for o caso, e proferir o julgamento.(Redação dada pela Lei nº 10.411, de 26.2.2002)\n\n§ 5o No caso de renúncia, morte ou perda de mandato do Presidente da Comissão de Valores Mobiliários, assumirá o Diretor mais antigo ou o mais idoso, nessa ordem, até nova nomeação, sem prejuízo de suas atribuições.(Redação dada pela Lei nº 10.411, de 26.2.2002)\n\n§ 6o No caso de renúncia, morte ou perda de mandato de Diretor, proceder-se-á à nova nomeação pela forma disposta nesta Lei, para completar o mandato do substituído.(Redação dada pela Lei nº 10.411, de 26.2.2002)\n\n§ 7o A Comissão funcionará como órgão de deliberação colegiada de acordo com o seu regimento interno, e no qual serão fixadas as atribuições do Presidente, dos Diretores e do Colegiado. (Incluído pelo Decreto autônomo nº 3.995, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art.%206o%20A%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios%20ser%C3%A1%20administrada%20por%20um%20Presidente%20e%20quatro%20Diretores%2C%20nomeados%20pelo%20Presidente%20da%20Rep%C3%BAblica%2C%20depois%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art . 7º A Comissão custeará as despesas necessárias ao seu funcionamento com os recursos provenientes de:\n\nI - dotações das reservas monetárias a que se refere o Art. 12 da Lei nº 5.143, de 20 de outubro de 1966, alterado pelo Decreto-lei nº 1.342, de 28 de agosto de 1974 que lhe forem atribuídas pelo Conselho Monetário Nacional;\n\nII - dotações que lhe forem consignadas no orçamento federal;\n\nIII - receitas provenientes da prestação de serviços pela Comissão, observada a tabela aprovada pelo Conselho Monetário Nacional;\n\nIV - renda de bens patrimoniais e receitas eventuais.\n\nV - receitas de taxas decorrentes do exercício de seu poder de polícia, nos termos da lei. (Inciso incluído pela Lei nº 10.303, de 31.10.2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art%20.%207%C2%BA%20A%20Comiss%C3%A3o%20custear%C3%A1%20as%20despesas%20necess%C3%A1rias%20ao%20seu%20funcionamento%20com%20os%20recursos%20provenientes%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art . 8º Compete à Comissão de Valores Mobiliários:\n\nI - regulamentar, com observância da política definida pelo Conselho Monetário Nacional, as matérias expressamente previstas nesta Lei e na lei de sociedades por ações;\n\nII - administrar os registros instituídos por esta Lei;\n\nIII - fiscalizar permanentemente as atividades e os serviços do mercado de valores mobiliários, de que trata o Art. 1º, bem como a veiculação de informações relativas ao mercado, às pessoas que dele participem, e aos valores nele negociados;\n\nIV - propor ao Conselho Monetário Nacional a eventual fixação de limites máximos de preço, comissões, emolumentos e quaisquer outras vantagens cobradas pelos intermediários do mercado;\n\nV - fiscalizar e inspecionar as companhias abertas dada prioridade às que não apresentem lucro em balanço ou às que deixem de pagar o dividendo mínimo obrigatório.\n\n§ 1o O disposto neste artigo não exclui a competência das Bolsas de Valores, das Bolsas de Mercadorias e Futuros, e das entidades de compensação e liquidação com relação aos seus membros e aos valores mobiliários nelas negociados. (Redação pelo Decreto nº 3.995, de 31.10.2001)\n\n§ 2o Serão de acesso público todos os documentos e autos de processos administrativos, ressalvados aqueles cujo sigilo seja imprescindível para a defesa da intimidade ou do interesse social, ou cujo sigilo esteja assegurado por expressa disposição legal. (Redação pelo Decreto nº 3.995, de 31.10.2001)\n\n§ 3º Em conformidade com o que dispuser seu regimento, a Comissão de Valores Mobiliários poderá:\n\nI - publicar projeto de ato normativo para receber sugestões de interessados;\n\nII - convocar, a seu juízo, qualquer pessoa que possa contribuir com informações ou opiniões para o aperfeiçoamento das normas a serem promulgadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art%20.%208%C2%BA%20Compete%20%C3%A0%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art 9º A Comissão de Valores Mobiliários, observado o disposto no § 2o do art. 15, poderá: (Redação dada pelo Decreto nº 3.995, de 31.10.2001)\n\nI - examinar e extrair cópias de registros contábeis, livros ou documentos, inclusive programas eletrônicos e arquivos magnéticos, ópticos ou de qualquer outra natureza, bem como papéis de trabalho de auditores independentes, devendo tais documentos ser mantidos em perfeita ordem e estado de conservação pelo prazo mínimo de cinco anos: (Redação dada pelo Decreto nº 3.995, de 31.10.2001)\n\na) as pessoas naturais e jurídicas que integram o sistema de distribuição de valores mobiliários (Art. 15);\n\nb) das companhias abertas e demais emissoras de valores mobiliários e, quando houver suspeita fundada de atos ilegais, das respectivas sociedades controladoras, controladas, coligadas e sociedades sob controle comum; (Redação dada pela Lei nº 10.303, de 31.10.2001)\n\nc) dos fundos e sociedades de investimento;\n\nd) das carteiras e depósitos de valores mobiliários (Arts. 23 e 24);\n\ne) dos auditores independentes;\n\nf) dos consultores e analistas de valores mobiliários;\n\ng) de outras pessoas quaisquer, naturais ou jurídicas, quando da ocorrência de qualquer irregularidade a ser apurada nos termos do inciso V deste artigo, para efeito de verificação de ocorrência de atos ilegais ou práticas não eqüitativas; (Redação dada pelo Decreto nº 3.995, de 31.10.2001)\n\nII - intimar as pessoas referidas no inciso I a prestar informações, ou esclarecimentos, sob cominação de multa, sem prejuízo da aplicação das penalidades previstas no art. 11; (Redação dada pela Lei nº 10.303, de 31.10.2001)\n\nIII - requisitar informações de qualquer órgão público, autarquia ou empresa pública;\n\nIV - determinar às companhias abertas que republiquem, com correções ou aditamentos, demonstrações financeiras, relatórios ou informações divulgadas;\n\nV - apurar, mediante processo administrativo, atos ilegais e práticas não eqüitativas de administradores, membros do conselho fiscal e acionistas de companhias abertas, dos intermediários e dos demais participantes do mercado; (Redação dada pela Lei nº 10.303, de 31.10.2001)\n\nVI - aplicar aos autores das infrações indicadas no inciso anterior as penalidades previstas no Art. 11, sem prejuízo da responsabilidade civil ou penal.\n\n§ 1o Com o fim de prevenir ou corrigir situações anormais do mercado, a Comissão poderá: (Redação pelo Decreto nº 3.995, de 31.10.2001)\n\nI - suspender a negociação de determinado valor mobiliário ou decretar o recesso de bolsa de valores;\n\nIl - suspender ou cancelar os registros de que trata esta Lei;\n\nIII - divulgar informações ou recomendações com o fim de esclarecer ou orientar os participantes do mercado;\n\nIV - proibir aos participantes do mercado, sob cominação de multa, a prática de atos que especificar, prejudiciais ao seu funcionamento regular.\n\n§ 2o O processo, nos casos do inciso V deste artigo, poderá ser precedido de etapa investigativa, em que será assegurado o sigilo necessário à elucidação dos fatos ou exigido pelo interesse público, e observará o procedimento fixado pela Comissão. (Redação pelo Decreto nº 3.995, de 31.10.2001)\n\n§ 3o Quando o interesse público exigir, a Comissão poderá divulgar a instauração do procedimento investigativo a que se refere o § 2o. (Parágrafo incluído pelo Decreto nº 3.995, de 31.10.2001)\n\n§ 4o Na apuração de infrações da legislação do mercado de valores mobiliários, a Comissão priorizará as infrações de natureza grave, cuja apenação proporcione maior efeito educativo e preventivo para os participantes do mercado, e poderá deixar de instaurar o processo administrativo sancionador, consideradas a pouca relevância da conduta, a baixa expressividade da lesão ao bem jurídico tutelado e a utilização de outros instrumentos e medidas de supervisão que julgar mais efetivos. (Redação dada pela Lei nº 13.506, de 2017)\n\n§ 5o As sessões de julgamento do Colegiado, no processo administrativo de que trata o inciso V deste artigo, serão públicas, podendo ser restringido o acesso de terceiros em função do interesse público envolvido. (Incluído pelo Decreto nº 3.995, de 31.10.2001)\n\n§ 6o A Comissão será competente para apurar e punir condutas fraudulentas no mercado de valores mobiliários sempre que: (Incluído pelo Decreto nº 3.995, de 31.10.2001)\n\nI - seus efeitos ocasionem danos a pessoas residentes no território nacional, independentemente do local em que tenham ocorrido; e (Incluído pelo Decreto nº 3.995, de 31.10.2001)\n\nII - os atos ou omissões relevantes tenham sido praticados em território nacional. (Inciso incluído pelo Decreto nº 3.995, de 31.10.2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art%209%C2%BA%20A%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios%2C%20observado%20o%20disposto%20no%20%C2%A7%202o%20do%20art.%2015%2C%20poder%C3%A1%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pelo%20Decreto%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A Comissão de Valores Mobiliários poderá celebrar convênios com órgãos similares de outros países, ou com entidades internacionais, para assistência e cooperação na condução de investigações para apurar transgressões às normas atinentes ao mercado de valores mobiliários ocorridas no País e no exterior. (Redação dada pela Lei nº 10.303, de 31.10.2001)\n\n§ 1o A Comissão de Valores Mobiliários poderá se recusar a prestar a assistência referida no caput deste artigo quando houver interesse público a ser resguardado. (Parágrafo incluído pela Lei nº 10.303, de 31.10.2001)\n\n§ 2o O disposto neste artigo aplica-se, inclusive, às informações que, por disposição legal, estejam submetidas a sigilo. (Parágrafo incluído pela Lei nº 10.303, de 31.10.2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art.%2010.%20A%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios%20poder%C3%A1%20celebrar%20conv%C3%AAnios%20com%20%C3%B3rg%C3%A3os%20similares%20de%20outros%20pa%C3%ADses%2C%20ou%20com%20entidades%20internacionais%2C%20para%20assist%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "10-A"
+    },
+    "10-A": {
+      "numero": "10-A",
+      "texto": "Art. 10-A. A Comissão de Valores Mobiliários, o Banco Central do Brasil e demais órgãos e agências reguladoras poderão celebrar convênio com entidade que tenha por objeto o estudo e a divulgação de princípios, normas e padrões de contabilidade e de auditoria, podendo, no exercício de suas atribuições regulamentares, adotar, no todo ou em parte, os pronunciamentos e demais orientações técnicas emitidas. (Incluído pela Lei nº 11.638, de 2007)\n\nParágrafo único. A entidade referida no caput deste artigo deverá ser majoritariamente composta por contadores, dela fazendo parte, paritariamente, representantes de entidades representativas de sociedades submetidas ao regime de elaboração de demonstrações financeiras previstas nesta Lei, de sociedades que auditam e analisam as demonstrações financeiras, do órgão federal de fiscalização do exercício da profissão contábil e de universidade ou instituto de pesquisa com reconhecida atuação na área contábil e de mercado de capitais. (Incluído pela Lei nº 11.638, de 2007)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art.%2010-A.%20A%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios%2C%20o%20Banco%20Central%20do%20Brasil%20e%20demais%20%C3%B3rg%C3%A3os%20e%20ag%C3%AAncias%20reguladoras%20poder%C3%A3o%20celebrar%20conv%C3%AAnio%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. A Comissão de Valores Mobiliários poderá impor aos infratores das normas desta Lei, da Lei no 6.404, de 15 de dezembro de 1976 (Lei de Sociedades por Ações), de suas resoluções e de outras normas legais cujo cumprimento lhe caiba fiscalizar as seguintes penalidades, isoladas ou cumulativamente: (Redação dada pela Lei nº 13.506, de 2017)\n\nI - advertência;\n\nII - multa;\n\nIII - (revogado); (Redação dada pela Lei nº 13.506, de 2017)\n\nIV - inabilitação temporária, até o máximo de 20 (vinte) anos, para o exercício de cargo de administrador ou de conselheiro fiscal de companhia aberta, de entidade do sistema de distribuição ou de outras entidades que dependam de autorização ou registro na Comissão de Valores Mobiliários; (Redação dada pela Lei nº 13.506, de 2017)\n\nV - suspensão da autorização ou registro para o exercício das atividades de que trata esta Lei;\n\nVI - inabilitação temporária, até o máximo de 20 (vinte) anos, para o exercício das atividades de que trata esta Lei; (Redação dada pela Lei nº 13.506, de 2017)\n\nVII - proibição temporária, até o máximo de vinte anos, de praticar determinadas atividades ou operações, para os integrantes do sistema de distribuição ou de outras entidades que dependam de autorização ou registro na Comissão de Valores Mobiliários; (Incluído pela Lei nº 9.457, de 5.5.1997)\n\nVIII - proibição temporária, até o máximo de dez anos, de atuar, direta ou indiretamente, em uma ou mais modalidades de operação no mercado de valores mobiliários. (Incluído pela Lei nº 9.457, de 5.5.1997)\n\n§ 1o A multa deverá observar, para fins de dosimetria, os princípios da proporcionalidade e da razoabilidade, a capacidade econômica do infrator e os motivos que justifiquem sua imposição, e não deverá exceder o maior destes valores: (Redação dada pela Lei nº 13.506, de 2017)\n\nI - R$ 50.000.000,00 (cinquenta milhões de reais); (Redação dada pela Lei nº 13.506, de 2017)\n\nII - o dobro do valor da emissão ou da operação irregular; (Redação dada pela Lei nº 13.506, de 2017)\n\nIII - 3 (três) vezes o montante da vantagem econômica obtida ou da perda evitada em decorrência do ilícito; ou (Redação dada pela Lei nº 13.506, de 2017)\n\nIV - o dobro do prejuízo causado aos investidores em decorrência do ilícito. (Redação dada pela Lei nº 13.506, de 2017)\n\n§ 2o Nas hipóteses de reincidência, poderá ser aplicada multa de até o triplo dos valores fixados no § 1o deste artigo. (Redação dada pela Lei nº 13.506, de 2017)\n\n§ 3o As penalidades previstas nos incisos IV, V, VI, VII e VIII do caput deste artigo somente serão aplicadas nos casos de infração grave, assim definidas em normas da Comissão de Valores Mobiliários, ou nos casos de reincidência. (Redação dada pela Lei nº 13.506, de 2017)\n\n§ 4º As penalidades somente serão impostas com observância do procedimento previsto no § 2º do art. 9º desta Lei, cabendo recurso para o Conselho de Recursos do Sistema Financeiro Nacional. (Redação dada pela Lei nº 9.457, de 5.5.1997) (Vide Decreto nº 9.889, de 2019)\n\n§ 5o A Comissão de Valores Mobiliários, após análise de conveniência e oportunidade, com vistas a atender ao interesse público, poderá deixar de instaurar ou suspender, em qualquer fase que preceda a tomada da decisão de primeira instância, o procedimento administrativo destinado à apuração de infração prevista nas normas legais e regulamentares cujo cumprimento lhe caiba fiscalizar, se o investigado assinar termo de compromisso no qual se obrigue a: (Redação dada pela Lei nº 13.506, de 2017)\n\nI - cessar a prática de atividades ou atos considerados ilícitos pela Comissão de Valores Mobiliários; e\n\nII - corrigir as irregularidades apontadas, inclusive indenizando os prejuízos.\n\n§ 6º O compromisso a que se refere o parágrafo anterior não importará confissão quanto à matéria de fato, nem reconhecimento de ilicitude da conduta analisada. (Incluído pela Lei nº 9.457, de 5.5.1997)\n\n§ 7o O termo de compromisso deverá ser publicado no sítio eletrônico da Comissão de Valores Mobiliários, com discriminação do prazo para cumprimento das obrigações eventualmente assumidas, e constituirá título executivo extrajudicial. (Redação dada pela Lei nº 13.506, de 2017)\n\n§ 8º Não cumpridas as obrigações no prazo, a Comissão de Valores Mobiliários dará continuidade ao procedimento administrativo anteriormente suspenso, para a aplicação das penalidades cabíveis. (Incluído pela Lei nº 9.457, de 5.5.1997)\n\n§ 9º Serão considerados, na aplicação de penalidades previstas na lei, o arrependimento eficaz e o arrependimento posterior ou a circunstância de qualquer pessoa, espontaneamente, confessar ilícito ou prestar informações relativas à sua materialidade. (Incluído pela Lei nº 9.457, de 5.5.1997)\n\n§ 10. A Comissão de Valores Mobiliários regulamentará a aplicação do disposto nos §§ 5o a 9o deste artigo aos procedimentos conduzidos pelas Bolsas de Valores, Bolsas de Mercadorias e Futuros, entidades do mercado de balcão organizado e entidades de compensação e liquidação de operações com valores mobiliários. (Redação pelo Decreto nº 3.995, de 31.10.2001)\n\n§ 11. A multa aplicada pela inexecução de ordem da Comissão de Valores Mobiliários, nos termos do inciso II do caput e do inciso IV do § 1o do art. 9o desta Lei, independentemente do processo administrativo previsto no inciso V do caput do art. 9o desta Lei, não excederá, por dia de atraso no seu cumprimento, o maior destes valores: (Redação dada pela Lei nº 13.506, de 2017)\n\nI - 1/1.000 (um milésimo) do valor do faturamento total individual ou consolidado do grupo econômico, obtido no exercício anterior à aplicação da multa; ou (Incluído pela Lei nº 13.506, de 2017)\n\nII - R$ 100.000,00 (cem mil reais). (Incluído pela Lei nº 13.506, de 2017)\n\n§ 12. Da decisão que aplicar a multa prevista no § 11 deste artigo caberá recurso na Comissão de Valores Mobiliários, em última instância e sem efeito suspensivo, no prazo de 10 (dez) dias, conforme estabelecido em regimento interno. (Redação dada pela Lei nº 14.317, de 2022) Produção de efeitos\n\n§ 13. Adicionalmente às penalidades previstas no caput deste artigo, a Comissão de Valores Mobiliários poderá proibir os acusados de contratar, por até de 5 (cinco) anos, com instituições financeiras oficiais e de participar de licitação que tenha por objeto aquisições, alienações, realizações de obras e serviços e concessões de serviços públicos, no âmbito da administração pública federal, estadual, distrital e municipal e das entidades da administração pública indireta. (Incluído pela Lei nº 13.506, de 2017)\n\n§ 14. Os créditos oriundos de condenação do apenado ao pagamento de indenização em ação civil pública movida em benefício de investidores e demais credores do apenado e os créditos do Fundo Garantidor de Crédito (FGC) ou de outros mecanismos de ressarcimento aprovados pelo Banco Central do Brasil ou pela Comissão de Valores Mobiliários, se houver, preferirão aos créditos oriundos da aplicação da penalidade de multa. (Incluído pela Lei nº 13.506, de 2017)\n\n§ 15. Em caso de falência, liquidação extrajudicial ou qualquer outra forma de concurso de credores do apenado, os créditos da Comissão de Valores Mobiliários oriundos da aplicação da penalidade de multa de que trata o inciso II do caput deste artigo serão subordinados. (Incluído pela Lei nº 13.506, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art.%2011.%20A%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios%20poder%C3%A1%20impor%20aos%20infratores%20das%20normas%20desta%20Lei%2C%20da%20Lei%20no%206.404%2C%20de%2015%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10-A",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art . 12. Quando o inquérito, instaurado de acordo com o § 2º do art. 9º, concluir pela ocorrência de crime de ação pública, a Comissão de Valores Mobiliários oficiará ao Ministério Público, para a propositura da ação penal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art%20.%2012.%20Quando%20o%20inqu%C3%A9rito%2C%20instaurado%20de%20acordo%20com%20o%20%C2%A7%202%C2%BA%20do%20art.%209%C2%BA%2C%20concluir%20pela%20ocorr%C3%AAncia%20de%20crime%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art . 13. A Comissão de Valores Mobiliários manterá serviço para exercer atividade consultiva ou de orientação junto aos agentes do mercado de valores mobiliários ou a qualquer investidor.\n\nParágrafo único. Fica a critério na Comissão de Valores Mobiliários divulgar ou não as respostas às consultas ou aos critérios de orientação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art%20.%2013.%20A%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios%20manter%C3%A1%20servi%C3%A7o%20para%20exercer%20atividade%20consultiva%20ou%20de%20orienta%C3%A7%C3%A3o%20junto%20aos%20agentes%20do%20mercado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. A Comissão de Valores Mobiliários poderá prever, em seu orçamento, dotações de verbas às Bolsas de Valores e às Bolsas de Mercadorias e Futuros. (Redação dada pela Lei nº 10.303, de 31.10.2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art.%2014.%20A%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios%20poder%C3%A1%20prever%2C%20em%20seu%20or%C3%A7amento%2C%20dota%C3%A7%C3%B5es%20de%20verbas%20%C3%A0s%20Bolsas%20de%20Valores%20e%20%C3%A0s%20Bolsas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art . 15. O sistema de distribuição de valores mobiliários compreende:\n\nI - as instituições financeiras e demais sociedades que tenham por objeto distribuir emissão de valores mobiliários:\n\na) como agentes da companhia emissora;\n\nb) por conta própria, subscrevendo ou comprando a emissão para a colocar no mercado;\n\nII - as sociedades que tenham por objeto a compra de valores mobiliários em circulação no mercado, para os revender por conta própria;\n\nIII - as sociedades e os assessores de investimentos que exerçam atividades de mediação na negociação de valores mobiliários em bolsas de valores ou no mercado de balcão; (Redação dada pela Lei nº 14.317, de 2022) Produção de efeitos\n\nIV - as bolsas de valores.\n\nV - entidades de mercado de balcão organizado. (Incluído pela Lei nº 9.457, de 5.5.1997)\n\nVI - as corretoras de mercadorias, os operadores especiais e as Bolsas de Mercadorias e Futuros; e (Redação dada pela Lei nº 10.303, de 31.10.2001)\n\nVII - as entidades de compensação e liquidação de operações com valores mobiliários. (Inciso incluído pela Lei nº 10.303, de 31.10.2001)\n\n§ 1o Compete à Comissão de Valores Mobiliários definir: (Redação pelo Decreto nº 3.995, de 31.10.2001)\n\nI - os tipos de instituição financeira que poderão exercer atividades no mercado de valores mobiliários, bem como as espécies de operação que poderão realizar e de serviços que poderão prestar nesse mercado;\n\nII - a especialização de operações ou serviços a ser observada pelas sociedades do mercado, e as condições em que poderão cumular espécies de operação ou serviços.\n\n§ 2º - Em relação às instituições financeiras e demais sociedades autorizadas a explorar simultaneamente operações ou serviços no mercado de valores mobiliários e nos mercados sujeitos à fiscalização do Banco Central do Brasil, as atribuições da Comissão de Valores Mobiliários serão limitadas às atividades submetidas ao regime da presente Lei, e serão exercidas sem prejuízo das atribuições daquele.\n\n§ 3º - Compete ao Conselho Monetário Nacional regulamentar o disposto no parágrafo anterior, assegurando a coordenação de serviços entre o Banco Central do Brasil e a comissão de Valores Mobiliários.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art%20.%2015.%20O%20sistema%20de%20distribui%C3%A7%C3%A3o%20de%20valores%20mobili%C3%A1rios%20compreende%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPíTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art . 16. Depende de prévia autorização da Comissão de Valores Mobiliários o exercício das seguintes atividades:\n\nI - distribuição de emissão no mercado (Art. 15, I);\n\nII - compra de valores mobiliários para revendê-los por conta própria (Art. 15, II);\n\nIII - mediação ou corretagem de operações com valores mobiliários; e (Redação dada pela Lei nº 10.411, de 26.2.2002)\n\nIV - compensação e liquidação de operações com valores mobiliários.(Redação dada pela Lei nº 10.411, de 26.2.2002)\n\nParágrafo único. Somente os assessores de investimentos e as sociedades com registro na Comissão poderão exercer a atividade de mediação ou de corretagem de valores mobiliários fora da bolsa. (Redação dada pela Lei nº 14.317, de 2022) Produção de efeitos",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art%20.%2016.%20Depende%20de%20pr%C3%A9via%20autoriza%C3%A7%C3%A3o%20da%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios%20o%20exerc%C3%ADcio%20das%20seguintes%20atividades%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPíTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. As Bolsas de Valores, as Bolsas de Mercadorias e Futuros, as entidades do mercado de balcão organizado e as entidades de compensação e liquidação de operações com valores mobiliários terão autonomia administrativa, financeira e patrimonial, operando sob a supervisão da Comissão de Valores Mobiliários. (Redação dada pela Lei nº 10.303, de 31.10.2001)\n\n§ 1o Às Bolsas de Valores, às Bolsas de Mercadorias e Futuros, às entidades do mercado de balcão organizado e às entidades de compensação e liquidação de operações com valores mobiliários incumbe, como órgãos auxiliares da Comissão de Valores Mobiliários, fiscalizar os respectivos membros e as operações com valores mobiliários nelas realizadas. (Redação dada pela Lei nº 10.303, de 31.10.2001)\n\n§ 2o (VETADO) (Incluído pela Lei nº 10.303, de 31.10.2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art.%2017.%20As%20Bolsas%20de%20Valores%2C%20as%20Bolsas%20de%20Mercadorias%20e%20Futuros%2C%20as%20entidades%20do%20mercado%20de%20balc%C3%A3o%20organizado%20e%20as%20entidades",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPíTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "17-A"
+    },
+    "17-A": {
+      "numero": "17-A",
+      "texto": "Art. 17-A. (VETADO) (Incluído pela Lei nº 10.303, de 31.10.2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art.%2017-A.%20%28VETADO%29%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2010.303%2C%20de%2031.10.2001%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPíTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Compete à Comissão de Valores Mobiliários:(Redação dada pela Lei nº 10.411, de 26.2.2002)\n\nI - editar normas gerais sobre:(Redação dada pela Lei nº 10.411, de 26.2.2002)\n\na) condições para obter autorização ou registro necessário ao exercício das atividades indicadas no art. 16, e respectivos procedimentos administrativos;(Redação dada pela Lei nº 10.411, de 26.2.2002)\n\nb) requisitos de idoneidade, habilitação técnica e capacidade financeira a que deverão satisfazer os administradores de sociedades e demais pessoas que atuem no mercado de valores mobiliários;(Redação dada pela Lei nº 10.411, de 26.2.2002)\n\nc) condições de constituição e extinção das Bolsas de Valores, entidades do mercado de balcão organizado e das entidades de compensação e liquidação de operações com valores mobiliários, forma jurídica, órgãos de administração e seu preenchimento;(Redação dada pela Lei nº 10.411, de 26.2.2002)\n\nd) exercício do poder disciplinar pelas Bolsas e pelas entidades do mercado de balcão organizado, no que se refere às negociações com valores mobiliários, e pelas entidades de compensação e liquidação de operações com valores mobiliários, sobre os seus membros, imposição de penas e casos de exclusão;(Redação dada pela Lei nº 10.411, de 26.2.2002)\n\ne) número de sociedades corretoras, membros da bolsa; requisitos ou condições de admissão quanto à idoneidade, capacidade financeira e habilitação técnica dos seus administradores; e representação no recinto da bolsa;\n\nf) administração das Bolsas, das entidades do mercado de balcão organizado e das entidades de compensação e liquidação de operações com valores mobiliários; emolumentos, comissões e quaisquer outros custos cobrados pelas Bolsas e pelas entidades de compensação e liquidação de operações com valores mobiliários ou seus membros, quando for o caso; (Redação dada pela Lei nº 10.411, de 26.2.2002)\n\ng) condições de realização das operações a termo;\n\nh) condições de constituição e extinção das Bolsas de Mercadorias e Futuros, forma jurídica, órgãos de administração e seu preenchimento.(Redação dada pela Lei nº 10.411, de 26.2.2002)\n\nII - definir:\n\na) as espécies de operação autorizadas na bolsa e no mercado de balcão; métodos e práticas que devem ser observados no mercado; e responsabilidade dos intermediários nas operações;\n\nb) a configuração de condições artificiais de demanda, oferta ou preço de valores mobiliários, ou de manipulação de preço; operações fraudulentas e práticas não equitativas na distribuição ou intermediação de valores;\n\nc) normas aplicáveis ao registro de operações a ser mantido pelas entidades do sistema de distribuição (Art. 15)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art.%2018.%20Compete%20%C3%A0%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios%3A%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%2010.411%2C%20de%2026.2.2002%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPíTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17-A",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art . 19. Nenhuma emissão pública de valores mobiliários será distribuída no mercado sem prévio registro na Comissão.\n\n§ 1º - São atos de distribuição, sujeitos à norma deste artigo, a venda, promessa de venda, oferta à venda ou subscrição, assim como a aceitação de pedido de venda ou subscrição de valores mobiliários, quando os pratiquem a companhia emissora, seus fundadores ou as pessoas a ela equiparadas.\n\n§ 2º - Equiparam-se à companhia emissora para os fins deste artigo:\n\nI - o seu acionista controlador e as pessoas por ela controladas;\n\nII - o coobrigado nos títulos;\n\nIII - as instituições financeiras e demais sociedades a que se refere o Art. 15, inciso I;\n\nIV - quem quer que tenha subscrito valores da emissão, ou os tenha adquirido à companhia emissora, com o fim de os colocar no mercado.\n\n§ 3º - Caracterizam a emissão pública:\n\nI - a utilização de listas ou boletins de venda ou subscrição, folhetos, prospectos ou anúncios destinados ao público;\n\nII - a procura de subscritores ou adquirentes para os títulos por meio de empregados, agentes ou corretores;\n\nIII - a negociação feita em loja, escritório ou estabelecimento aberto ao público, ou com a utilização dos serviços públicos de comunicação.\n\n§ 4º - A emissão pública só poderá ser colocada no mercado através do sistema previsto no Art. 15, podendo a Comissão exigir a participação de instituição financeira.\n\n§ 5º - Compete à Comissão expedir normas para a execução do disposto neste artigo, podendo:\n\nI - definir outras situações que configurem emissão pública, para fins de registro, assim como os casos em que este poderá ser dispensado, tendo em vista o interesse do público investidor;\n\nII - fixar o procedimento do registro e especificar as informações que devam instruir o seu pedido, inclusive sobre:\n\na) a companhia emissora, os empreendimentos ou atividades que explora ou pretende explorar, sua situação econômica e financeira, administração e principais acionistas;\n\nb) as características da emissão e a aplicação a ser dada aos recursos dela provenientes;\n\nc) o vendedor dos valores mobiliários, se for o caso;\n\nd) os participantes na distribuição, sua remuneração e seu relacionamento com a companhia emissora ou com o vendedor.\n\n§ 6º - A Comissão poderá subordinar o registro a capital mínimo da companhia emissora e a valor mínimo da emissão, bem como a que sejam divulgadas as informações que julgar necessárias para proteger os interesses do público investidor.\n\n§ 7º - O pedido de registro será acompanhado dos prospectos e outros documentos quaisquer a serem publicados ou distribuídos, para oferta, anúncio ou promoção do lançamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art%20.%2019.%20Nenhuma%20emiss%C3%A3o%20p%C3%BAblica%20de%20valores%20mobili%C3%A1rios%20ser%C3%A1%20distribu%C3%ADda%20no%20mercado%20sem%20pr%C3%A9vio%20registro%20na%20Comiss%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPíTULO IV",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art . 20. A Comissão mandará suspender a emissão ou a distribuição que se esteja processando em desacordo com o artigo anterior, particularmente quando:\n\nI - a emissão tenha sido julgada fraudulenta ou ilegal, ainda que após efetuado o registro;\n\nII - a oferta, o lançamento, a promoção ou o anúncio dos valores se esteja fazendo em condições diversas das constantes do registro, ou com informações falsas dolosas ou substancialmente imprecisas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art%20.%2020.%20A%20Comiss%C3%A3o%20mandar%C3%A1%20suspender%20a%20emiss%C3%A3o%20ou%20a%20distribui%C3%A7%C3%A3o%20que%20se%20esteja%20processando%20em%20desacordo%20com%20o%20artigo%20anterior%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPíTULO IV",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art . 21. A Comissão de Valores Mobiliários manterá, além do registro de que trata o Art. 19:\n\nI - o registro para negociação na bolsa;\n\nII - o registro para negociação no mercado de balcão, organizado ou não. (Redação dada pela Lei nº 9.457, de 5.5.1997)\n\n§ 1º - Somente os valores mobiliários emitidos por companhia registrada nos termos deste artigo podem ser negociados na bolsa e no mercado de balcão.\n\n§ 2º O registro do art. 19 importa registro para o mercado de balcão, mas não para a bolsa ou entidade de mercado de balcão organizado. (Redação dada pela Lei nº 9.457, de 5.5.1997)\n\n§ 3º São atividades do mercado de balcão não organizado as realizadas com a participação das empresas ou profissionais indicados no art. 15, incisos I, II e III, ou nos seus estabelecimentos, excluídas as operações efetuadas em bolsas ou em sistemas administrados por entidades de balcão organizado. (Redação dada pela Lei nº 9.457, de 5.5.1997)\n\n§ 4º Cada Bolsa de Valores ou entidade de mercado de balcão organizado poderá estabelecer requisitos próprios para que os valores sejam admitidos à negociação no seu recinto ou sistema, mediante prévia aprovação da Comissão de Valores Mobiliários. (Redação dada pela Lei nº 9.457, de 5.5.1997)\n\n§ 5º O mercado de balcão organizado será administrado por entidades cujo funcionamento dependerá de autorização da Comissão de Valores Mobiliários, que expedirá normas gerais sobre: (Redação dada pela Lei nº 9.457, de 5.5.1997)\n\nI - condições de constituição e extinção, forma jurídica, órgãos de administração e seu preenchimento; (Incluído pela Lei nº 9.457, de 5.5.1997)\n\nII - exercício do poder disciplinar pelas entidades, sobre os seus participantes ou membros, imposição de penas e casos de exclusão; (Incluído pela Lei nº 9.457, de 5.5.1997)\n\nIII - requisitos ou condições de admissão quanto à idoneidade, capacidade financeira e habilitação técnica dos administradores e representantes das sociedades participantes ou membros; (Incluído pela Lei nº 9.457, de 5.5.1997)\n\nIV - administração das entidades, emolumentos, comissões e quaisquer outros custos cobrados pelas entidades ou seus participantes ou membros, quando for o caso. (Incluído pela Lei nº 9.457, de 5.5.1997)\n\n§ 6º - Compete à Comissão expedir normas para a execução do disposto neste artigo, especificando:\n\nI - casos em que os registros podem ser dispensados, recusados, suspensos ou cancelados;\n\nII - informações e documentos que devam ser apresentados pela companhia para a obtenção do registro, e seu procedimento.\n\nIII - casos em que os valores mobiliários poderão ser negociados simultaneamente nos mercados de bolsa e de balcão, organizado ou não.\" (Incluído pela Lei nº 9.457, de 5.5.1997)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art%20.%2021.%20A%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios%20manter%C3%A1%2C%20al%C3%A9m%20do%20registro%20de%20que%20trata%20o%20Art.%2019%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPíTULO IV",
+        "section": "II",
+        "section_name": "SEÇãO II"
+      },
+      "prev": "20",
+      "next": "21-A"
+    },
+    "21-A": {
+      "numero": "21-A",
+      "texto": "Art. 21-A. A Comissão de Valores Mobiliários poderá expedir normas aplicáveis à natureza das informações mínimas e à periodicidade de sua apresentação por qualquer pessoa que tenha acesso a informação relevante. (Artigo incluído pelo Decreto nº 3.995, de 31.10.2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art.%2021-A.%20A%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios%20poder%C3%A1%20expedir%20normas%20aplic%C3%A1veis%20%C3%A0%20natureza%20das%20informa%C3%A7%C3%B5es%20m%C3%ADnimas%20e%20%C3%A0%20periodicidade%20de%20sua%20apresenta%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPíTULO IV",
+        "section": "II",
+        "section_name": "SEÇãO II"
+      },
+      "prev": "21",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art . 22. Considera-se aberta a companhia cujos valores mobiliários estejam admitidos à negociação na bolsa ou no mercado de balcão.\n\n§ 1o Compete à Comissão de Valores Mobiliários expedir normas aplicáveis às companhias abertas sobre: (Redação dada pelo Decreto nº 3.995, de 31.10.2001)\n\nI - a natureza das informações que devam divulgar e a periodicidade da divulgação; (Redação dada pelo Decreto nº 3.995, de 31.10.2001)\n\nII - relatório da administração e demonstrações financeiras; (Redação dada pelo Decreto nº 3.995, de 31.10.2001)\n\nIII - a compra de ações emitidas pela própria companhia e a alienação das ações em tesouraria; (Redação dada pelo Decreto nº 3.995, de 31.10.2001)\n\nIV - padrões de contabilidade, relatórios e pareceres de auditores independentes; (Redação dada pelo Decreto nº 3.995, de 31.10.2001)\n\nV - informações que devam ser prestadas por administradores, membros do conselho fiscal, acionistas controladores e minoritários, relativas à compra, permuta ou venda de valores mobiliários emitidas pela companhia e por sociedades controladas ou controladoras; (Redação dada pelo Decreto nº 3.995, de 31.10.2001)\n\nVI - a divulgação de deliberações da assembléia-geral e dos órgãos de administração da companhia, ou de fatos relevantes ocorridos nos seus negócios, que possam influir, de modo ponderável, na decisão dos investidores do mercado, de vender ou comprar valores mobiliários emitidos pela companhia; (Redação dada pelo Decreto nº 3.995, de 31.10.2001)\n\nVII - a realização, pelas companhias abertas com ações admitidas à negociação em bolsa ou no mercado de balcão organizado, de reuniões anuais com seus acionistas e agentes do mercado de valores mobiliários, no local de maior negociação dos títulos da companhia no ano anterior, para a divulgação de informações quanto à respectiva situação econômico-financeira, projeções de resultados e resposta aos esclarecimentos que lhes forem solicitados; (Redação dada pelo Decreto nº 3.995, de 31.10.2001)\n\nVIII - as demais matérias previstas em lei. (Redação dada pelo Decreto nº 3.995, de 31.10.2001)\n\n§ 2o As normas editadas pela Comissão de Valores Mobiliários em relação ao disposto nos incisos II e IV do § 1o aplicam-se às instituições financeiras e demais entidades autorizadas a funcionar pelo Banco Central do Brasil, no que não forem conflitantes com as normas por ele baixadas. (Redação dada pelo Decreto nº 3.995, de 31.10.2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art%20.%2022.%20Considera-se%20aberta%20a%20companhia%20cujos%20valores%20mobili%C3%A1rios%20estejam%20admitidos%20%C3%A0%20negocia%C3%A7%C3%A3o%20na%20bolsa%20ou%20no%20mercado%20de%20balc%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPíTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21-A",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art . 23. O exercício profissional da administração de carteiras de valores mobiliários de outras pessoas está sujeito à autorização prévia da Comissão.\n\n§ 1º - O disposto neste artigo se aplica à gestão profissional e recursos ou valores mobiliários entregues ao administrador, com autorização para que este compre ou venda valores mobiliários por conta do comitente.\n\n§ 2º - Compete à Comissão estabelecer as normas a serem observadas pelos administradores na gestão de carteiras e sua remuneração, observado o disposto no Art. 8º inciso IV.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art%20.%2023.%20O%20exerc%C3%ADcio%20profissional%20da%20administra%C3%A7%C3%A3o%20de%20carteiras%20de%20valores%20mobili%C3%A1rios%20de%20outras%20pessoas%20est%C3%A1%20sujeito%20%C3%A0%20autoriza%C3%A7%C3%A3o%20pr%C3%A9via%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPíTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. A prestação de serviços de custódia de valores mobiliários está sujeita à autorização prévia da Comissão de Valores Mobiliários. (Redação dada pela Lei nº 14.430, de 2022)\n\nParágrafo único. Considera-se custódia de valores mobiliários o depósito para guarda, recebimento de dividendos e bonificações, resgate, amortização ou reembolso, e exercício de direitos de subscrição, sem que o depositário, tenha poderes, salvo autorização expressa do depositante em cada caso, para alienar os valores mobiliários depositados ou reaplicar as importâncias recebidas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art.%2024.%20A%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7os%20de%20cust%C3%B3dia%20de%20valores%20mobili%C3%A1rios%20est%C3%A1%20sujeita%20%C3%A0%20autoriza%C3%A7%C3%A3o%20pr%C3%A9via%20da%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios.%20%28Reda%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPíTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art . 25. Salvo mandato expresso com prazo não superior a um ano, o administrador de carteira e o depositário de valores mobiliários não podem exercer o direito de voto que couber às ações sob sua administração ou custódia.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art%20.%2025.%20Salvo%20mandato%20expresso%20com%20prazo%20n%C3%A3o%20superior%20a%20um%20ano%2C%20o%20administrador%20de%20carteira%20e%20o%20deposit%C3%A1rio%20de%20valores",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPíTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art . 26. Somente as empresas de auditoria contábil ou auditores contábeis independentes, registrados na Comissão de Valores Mobiliários poderão auditar, para os efeitos desta Lei, as demonstrações financeiras de companhias abertas e das instituições, sociedades ou empresas que integram o sistema de distribuição e intermediação de valores mobiliários.\n\n§ 1º - A Comissão estabelecerá as condições para o registro e o seu procedimento, e definirá os casos em que poderá ser recusado, suspenso ou cancelado.\n\n§ 2º - As empresas de auditoria contábil ou auditores contábeis independentes responderão, civilmente, pelos prejuízos que causarem a terceiros em virtude de culpa ou dolo no exercício das funções previstas neste artigo.\n\n§ 3º Sem prejuízo do disposto no parágrafo precedente, as empresas de auditoria contábil ou os auditores contábeis independentes responderão administrativamente, perante o Banco Central do Brasil, pelos atos praticados ou omissões em que houverem incorrido no desempenho das atividades de auditoria de instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil. (Incluído pela Lei nº 9.447, 14.3.1997)\n\n§ 4º (Revogado pela Lei nº 13.506, de 2017)\n\n§ 5o (VETADO) (Incluído pela Lei nº 10.303, de 31.10.2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art%20.%2026.%20Somente%20as%20empresas%20de%20auditoria%20cont%C3%A1bil%20ou%20auditores%20cont%C3%A1beis%20independentes%2C%20registrados%20na%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios%20poder%C3%A3o%20auditar%2C%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPíTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art . 27. A Comissão poderá fixar normas sobre o exercício das atividades de consultor e analista de valores mobiliários.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art%20.%2027.%20A%20Comiss%C3%A3o%20poder%C3%A1%20fixar%20normas%20sobre%20o%20exerc%C3%ADcio%20das%20atividades%20de%20consultor%20e%20analista%20de%20valores%20mobili%C3%A1rios.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPíTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "27-A"
+    },
+    "27-A": {
+      "numero": "27-A",
+      "texto": "Art. 27-A. (VETADO) (Artigo incluído pela Lei nº 10.303, de 31.10.2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art.%2027-A.%20%28VETADO%29%20%28Artigo%20inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2010.303%2C%20de%2031.10.2001%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "27-B"
+    },
+    "27-B": {
+      "numero": "27-B",
+      "texto": "Art. 27-B. (VETADO) (Artigo incluído pela Lei nº 10.303, de 31.10.2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art.%2027-B.%20%28VETADO%29%20%28Artigo%20inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2010.303%2C%20de%2031.10.2001%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27-A",
+      "next": "27-C"
+    },
+    "27-C": {
+      "numero": "27-C",
+      "texto": "Art. 27-C. Realizar operações simuladas ou executar outras manobras fraudulentas destinadas a elevar, manter ou baixar a cotação, o preço ou o volume negociado de um valor mobiliário, com o fim de obter vantagem indevida ou lucro, para si ou para outrem, ou causar dano a terceiros: (Redação dada pela Lei nº 13.506, de 2017)\n\nPena – reclusão, de 1 (um) a 8 (oito) anos, e multa de até 3 (três) vezes o montante da vantagem ilícita obtida em decorrência do crime. (Incluído pela Lei nº 10.303, de 31.10.2001)\n\nUso Indevido de Informação Privilegiada (Incluído pela Lei nº 10.303, de 31.10.2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art.%2027-C.%20Realizar%20opera%C3%A7%C3%B5es%20simuladas%20ou%20executar%20outras%20manobras%20fraudulentas%20destinadas%20a%20elevar%2C%20manter%20ou%20baixar%20a%20cota%C3%A7%C3%A3o%2C%20o%20pre%C3%A7o%20ou%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII-B",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27-B",
+      "next": "27-D"
+    },
+    "27-D": {
+      "numero": "27-D",
+      "texto": "Art. 27-D. Utilizar informação relevante de que tenha conhecimento, ainda não divulgada ao mercado, que seja capaz de propiciar, para si ou para outrem, vantagem indevida, mediante negociação, em nome próprio ou de terceiros, de valores mobiliários: (Redação dada pela Lei nº 13.506, de 2017)\n\nPena – reclusão, de 1 (um) a 5 (cinco) anos, e multa de até 3 (três) vezes o montante da vantagem ilícita obtida em decorrência do crime. (Incluído pela Lei nº 10.303, de 31.10.2001)\n\n§ 1o Incorre na mesma pena quem repassa informação sigilosa relativa a fato relevante a que tenha tido acesso em razão de cargo ou posição que ocupe em emissor de valores mobiliários ou em razão de relação comercial, profissional ou de confiança com o emissor. (Incluído pela Lei nº 13.506, de 2017)\n\n§ 2o A pena é aumentada em 1/3 (um terço) se o agente comete o crime previsto no caput deste artigo valendo-se de informação relevante de que tenha conhecimento e da qual deva manter sigilo. (Incluído pela Lei nº 13.506, de 2017)\n\nExercício Irregular de Cargo, Profissão, Atividade ou Função (Incluído pela Lei nº 10.303, de 31.10.2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art.%2027-D.%20Utilizar%20informa%C3%A7%C3%A3o%20relevante%20de%20que%20tenha%20conhecimento%2C%20ainda%20n%C3%A3o%20divulgada%20ao%20mercado%2C%20que%20seja%20capaz%20de%20propiciar%2C%20para%20si%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII-B",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27-C",
+      "next": "27-E"
+    },
+    "27-E": {
+      "numero": "27-E",
+      "texto": "Art. 27-E. Exercer, ainda que a título gratuito, no mercado de valores mobiliários, a atividade de administrador de carteira, de assessor de investimento, de auditor independente, de analista de valores mobiliários, de agente fiduciário ou qualquer outro cargo, profissão, atividade ou função, sem estar, para esse fim, autorizado ou registrado na autoridade administrativa competente, quando exigido por lei ou regulamento: (Redação dada pela Lei nº 14.317, de 2022) Produção de efeitos\n\nPena – detenção de 6 (seis) meses a 2 (dois) anos, e multa. (Incluído pela Lei nº 10.303, de 31.10.2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art.%2027-E.%20Exercer%2C%20ainda%20que%20a%20t%C3%ADtulo%20gratuito%2C%20no%20mercado%20de%20valores%20mobili%C3%A1rios%2C%20a%20atividade%20de%20administrador%20de%20carteira%2C%20de%20assessor%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII-B",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27-D",
+      "next": "27-F"
+    },
+    "27-F": {
+      "numero": "27-F",
+      "texto": "Art. 27-F. As multas cominadas para os crimes previstos nos arts. 27-C e 27-D deverão ser aplicadas em razão do dano provocado ou da vantagem ilícita auferida pelo agente. (Artigo incluído pela Lei nº 10.303, de 31.10.2001)\n\nParágrafo único. Nos casos de reincidência, a multa pode ser de até o triplo dos valores fixados neste artigo. (Parágrafo incluído pela Lei nº 10.303, de 31.10.2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art.%2027-F.%20As%20multas%20cominadas%20para%20os%20crimes%20previstos%20nos%20arts.%2027-C%20e%2027-D%20dever%C3%A3o%20ser%20aplicadas%20em%20raz%C3%A3o%20do%20dano%20provocado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII-B",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27-E",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. O Banco Central do Brasil, a Comissão de Valores Mobiliários, a Secretaria de Previdência Complementar, a Secretaria da Receita Federal e Superintendência de Seguros Privados manterão um sistema de intercâmbio de informações, relativas à fiscalização que exerçam, nas áreas de suas respectivas competências, no mercado de valores mobiliários. (Redação dada pela Lei nº 10.303, de 31.10.2001)\n\nParágrafo único. O dever de guardar sigilo de informações obtidas através do exercício do poder de fiscalização pelas entidades referidas no caput não poderá ser invocado como impedimento para o intercâmbio de que trata este artigo. (Parágrafo incluído pela Lei nº 10.303, de 31.10.2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art.%2028.%20O%20Banco%20Central%20do%20Brasil%2C%20a%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios%2C%20a%20Secretaria%20de%20Previd%C3%AAncia%20Complementar%2C%20a%20Secretaria%20da%20Receita%20Federal",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27-F",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art . 29. (Revogado pela Lei nº 10.303, de 31.10.2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art%20.%2029.%20%28Revogado%20pela%20Lei%20n%C2%BA%2010.303%2C%20de%2031.10.2001%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art . 30. (Revogado pela Lei nº 10.303, de 31.10.2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art%20.%2030.%20%28Revogado%20pela%20Lei%20n%C2%BA%2010.303%2C%20de%2031.10.2001%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31 - Nos processos judiciários que tenham por objetivo matéria incluída na competência da Comissão de Valores Mobiliários, será esta sempre intimada para, querendo, oferecer parecer ou prestar esclarecimentos, no prazo de quinze dias a contar da intimação. (Incluído pela Lei nº 6.616, de 16.12.1978)\n\n§ 1º - A intimação far-se-á, logo após a contestação, por mandado ou por carta com aviso de recebimento, conforme a Comissão tenha, ou não, sede ou representação na comarca em que tenha sido proposta a ação. (Incluído pela Lei nº 6.616, de 16.12.1978)\n\n§ 2º - Se a Comissão oferecer parecer ou prestar esclarecimentos, será intimada de todos os atos processuais subseqüentes, pelo jornal oficial que publica expedientes forense ou por carta com aviso de recebimento, nos termos do parágrafo anterior. (Incluído pela Lei nº 6.616, de 16.12.1978)\n\n§ 3º - A comissão é atribuída legitimidade para interpor recursos, quando as partes não o fizeram. (Incluído pela Lei nº 6.616, de 16.12.1978)\n\n§ 4º - O prazo para os efeitos do parágrafo anterior começará a correr, independentemente de nova intimação, no dia imediato aquele em que findar o das partes. (Incluído pela Lei nº 6.616, de 16.12.1978)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art.%2031%20-%20Nos%20processos%20judici%C3%A1rios%20que%20tenham%20por%20objetivo%20mat%C3%A9ria%20inclu%C3%ADda%20na%20compet%C3%AAncia%20da%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios%2C%20ser%C3%A1%20esta%20sempre",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32 - As multas impostas pela Comissão de Valores Mobiliários, após a decisão final que as impôs na esfera administrativa, terão eficácia de título executivo e serão cobradas judicialmente, de acordo com o rito estabelecido pelo código de Processo Civil para o processo de execução\". (Incluído pela Lei nº 6.616, de 16.12.1978)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art.%2032%20-%20As%20multas%20impostas%20pela%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios%2C%20ap%C3%B3s%20a%20decis%C3%A3o%20final%20que%20as%20imp%C3%B4s%20na%20esfera%20administrativa%2C%20ter%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. (Revogado pela Lei nº 9.873, de 23.11.1999)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art.%2033.%20%28Revogado%20pela%20Lei%20n%C2%BA%209.873%2C%20de%2023.11.1999%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art . 34. Esta Lei entrará em vigor na data de sua publicação. (Renumerado do art. 33, pela Lei nº 9.457, 5.5.1997)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art%20.%2034.%20Esta%20Lei%20entrar%C3%A1%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.%20%28Renumerado%20do%20art.%2033%2C%20pela%20Lei%20n%C2%BA%209.457%2C%205.5.1997%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art . 35. Revogam-se as disposições em contrário. (Renumerado do art. 34, pela Lei nº 9.457, 5.5.1997)\n\nBrasília, 7 de dezembro de 1976; 155º da Independência e 88º da República.\n\nERNESTO GEISEL João Paulo dos Reis Velloso Mário Henrique Simonsen\n\nEste texto não substitui o Publicado no DOU de 9.12.1976\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm#:~:text=Art%20.%2035.%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.%20%28Renumerado%20do%20art.%2034%2C%20pela%20Lei%20n%C2%BA%209.457%2C%205.5.1997%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": null
+    }
+  }
+}

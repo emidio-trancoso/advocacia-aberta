@@ -1,0 +1,1407 @@
+{
+  "_meta": {
+    "codigo": "L4728",
+    "nome": "Mercado de Capitais",
+    "lei": "Lei 4.728/1965",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm",
+    "total_artigos": 87,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1° Os mercados financeiro e de capitais serão disciplinados pelo Conselho Monetário Nacional e fiscalizados pelo Banco Central da República do Brasil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%201%C2%B0%20Os%20mercados%20financeiro%20e%20de%20capitais%20ser%C3%A3o%20disciplinados%20pelo%20Conselho%20Monet%C3%A1rio%20Nacional%20e%20fiscalizados%20pelo%20Banco%20Central%20da%20Rep%C3%BAblica%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º O Conselho Monetário Nacional e o Banco Central exercerão as suas atribuições legais relativas aos mercados financeiro e de capitais com a finalidade de:\n\nI - facilitar o acesso do público a informações sôbre os títulos ou valôres mobiliários distribuídos no mercado e sôbre as sociedade que os emitirem;\n\nII - proteger os investidores contra emissões ilegais ou fraudulentas de títulos ou valôres mobiliários;\n\nIII - evitar modalidades de fraude e manipulação destinadas a criar condições artificiais da demanda, oferta ou preço de títulos ou valôres mobiliários distribuídos no mercado;\n\nIV - assegurar a observância de práticas comerciais equitativas por todos aquêles que exerçam, profissionalmente, funções de intermediação na distribuição ou negociação de títulos ou valôres mobiliários;\n\nV - disciplinar a utilização do crédito no mercado de títulos ou valôres mobiliários;\n\nVI - (Revogado pela Lei nº 14.286, de 2021) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%202%C2%BA%20O%20Conselho%20Monet%C3%A1rio%20Nacional%20e%20o%20Banco%20Central%20exercer%C3%A3o%20as%20suas%20atribui%C3%A7%C3%B5es%20legais%20relativas%20aos%20mercados%20financeiro%20e%20de%20capitais",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Compete ao Banco Central:\n\nI - autorizar a constituição e fiscalizar o funcionamento das Bôlsas de Valôres;\n\nII - autorizar o funcionamento e fiscalizar as operações das sociedades corretoras membros das Bôlsas de Valôres (arts. 8º e 9°) e das sociedades de investimento;\n\nIII - autorizar o funcionamento e fiscalizar as operações das instituições financeiras, sociedades ou firmas individuais que tenham por objeto a subscrição para revenda e a distribuição de títulos ou valôres mobiliários;\n\nIV - manter registro e fiscalizar as operações das sociedades e firmas individuais que exerçam as atividades de intermediação na distribuição de títulos ou valôres mobiliários, ou que efetuem, com qualquer propósito, a captação de poupança popular no mercado de capitais;\n\nV - registrar títulos e valôres mobiliários para efeito de sua negociação nas Bôlsas de Valôres;\n\nVI - registrar as emissões de títulos ou valôres mobiliários a serem distribuídos no mercado de capitais;\n\nVII - fiscalizar a observância, pelas sociedades emissôras de títulos ou valôres mobiliários negociados na bôlsa, das disposições legais e regulamentares relativas a:\n\na) publicidade da situação econômica e financeira da sociedade, sua administração e aplicação dos seus resultados;\n\nb) proteção dos interêsses dos portadores de títulos e valôres mobiliários distribuídos nos mercados financeiro e de capitais.\n\nVIII - fiscalizar a observância das normas legais e regulamentares relativas à emissão ao lançamento, à subscrição e à distribuição de títulos ou valôres mobiliários colocados no mercado de capitais;\n\nIX - manter e divulgar as estatísticas relativas ao mercado de capitais, em coordenação com o sistema estatístico nacional;\n\nX - fiscalizar a utilização de informações não divulgadas ao público em benefício próprio ou de terceiros, por acionistas ou pessoas que, por fôrça de cargos que exerçam, a elas tenham acesso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%203%C2%BA%20Compete%20ao%20Banco%20Central%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4° No exercício de suas atribuições, o Banco Central poderá examinar os livros e documentos das instituições financeiras, sociedades, emprêsas e pessoas referidas no artigo anterior, as quais serão obrigadas a prestar as informações e os esclarecimentos solicitados pelo Banco Central.\n\n§ 1° Nenhuma sanção será imposta pelo Banco Central, sem antes ter assinado prazo, não inferior a 30 (trinta) dias, ao interessado, para se manifestar, ressalvado o disposto no § 3º do art. 16 desta Lei.\n\n§ 2° Quando, no exercício das suas atribuições, o Banco Central tomar conhecimento de crime definido em lei como de ação pública, oficiará ao Ministério Público para a instalação de inquérito policial.\n\n§ 3º Os pedidos de registro submetidos ao Banco Central, nos têrmos dos arts. 19 e 20 desta Lei, consideram-se deferidos dentro de 30 (trinta) dias da sua apresentação, se nesse prazo não forem indeferidos.\n\n§ 4° A fluência do prazo referido no parágrafo anterior poderá ser interrompida uma única vez, se o Banco Central pedir informações ou documentos suplementares, em cumprimento das normas legais ou regulamentares em vigor.\n\n§ 5º Ressalvado o disposto no § 3º, o Conselho Monetário Nacional fixará os prazos em que o Banco Central deverá processar os pedidos de autorização, registro ou aprovação previstos nesta Lei.\n\n§ 6º (Revogado pela Lei nº 13.506, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%204%C2%B0%20No%20exerc%C3%ADcio%20de%20suas%20atribui%C3%A7%C3%B5es%2C%20o%20Banco%20Central%20poder%C3%A1%20examinar%20os%20livros%20e%20documentos%20das%20institui%C3%A7%C3%B5es%20financeiras%2C%20sociedades%2C%20empr%C3%AAsas%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º O sistema de distribuição de títulos ou valôres mobiliários no mercado de capitais será constituído:\n\nI - das Bôlsas de Valôres e das sociedades corretoras que sejam seus membros;\n\nII - das instituições financeiras autorizadas a operar no mercado de capitais;\n\nIII - das sociedades ou emprêsas que tenham por objeto a subscrição de títulos para revenda, ou sua distribuição no mercado, e que sejam autorizadas a funcionar nos têrmos do art. 11;\n\nIV - das sociedades ou emprêsas que tenham por objeto atividade de intermediação na distribuição de títulos ou valôres mobiliários, e que estejam registradas nos têrmos do art. 12.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%205%C2%BA%20O%20sistema%20de%20distribui%C3%A7%C3%A3o%20de%20t%C3%ADtulos%20ou%20val%C3%B4res%20mobili%C3%A1rios%20no%20mercado%20de%20capitais%20ser%C3%A1%20constitu%C3%ADdo%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6 As Bôlsas de Valôres terão autonomia administrativa, financeira e patrimonial, e operarão sob a supervisão do Banco Central, de acôrdo com a regulamentação expedida pelo Conselho Monetário Nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%206%20As%20B%C3%B4lsas%20de%20Val%C3%B4res%20ter%C3%A3o%20autonomia%20administrativa%2C%20financeira%20e%20patrimonial%2C%20e%20operar%C3%A3o%20sob%20a%20supervis%C3%A3o%20do%20Banco%20Central%2C%20de%20ac%C3%B4rdo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Compete ao Conselho Monetário Nacional fixar as normas gerais a serem observadas na constituição, organização e funcionamento das Bôlsas de Valôres, e relativas a:\n\nI - condições de constituição e extinção; forma jurídica; órgãos de administração e seu preenchimento; exercício de poder disciplinar sôbre os membros da Bôlsa, imposição de penas e condições de exclusão;\n\nII - número de sociedades corretoras membros da Bôlsa, requisitos ou condições de admissão quanto à idoneidade, capacidade financeira, habilitação técnica dos seus administradores e forma de representação nas Bôlsas;\n\nIII - espécies de operações admitidas nas Bôlsas; normas, métodos e práticas a serem observados nessas operações; responsabilidade das sociedades corretoras nas operações;\n\nIV - administração financeira das Bôlsas; emolumentos, comissões e quaisquer outros custos cobrados pelas Bôlsas ou seus membros;\n\nV - normas destinadas a evitar ou reprimir manipulações de preços e operações fraudulentas; condições a serem observadas nas operações autorizadas de sustentação de preços;\n\nVI - registro das operações a ser mantido pelas Bôlsas e seus membros; dados estatísticos a serem apurados pelas Bôlsas e fornecidos ao Banco Central;\n\nVII - fiscalização do cumprimento de obrigações legais pelas sociedades cujos títulos sejam negociados na Bôlsa;\n\nVIII - percentagem mínima do prêço dos títulos negociados a têrmo, que deverá ser obrigatòriamente liquidada à vista;\n\nIX - crédito para aquisição de títulos e valôres mobiliários no mercado de capitais.\n\n§ 1º Exceto na matéria prevista no inciso VIII, as normas a que se refere êste artigo sòmente poderão ser aprovadas pelo Conselho Monetário Nacional depois de publicadas para receber sugestões durante 30 (trinta) dias.\n\n§ 2º As sugestões referidas no parágrafo anterior serão feitas por escrito, por intermédio do Banco Central.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%207%C2%BA%20Compete%20ao%20Conselho%20Monet%C3%A1rio%20Nacional%20fixar%20as%20normas%20gerais%20a%20serem%20observadas%20na%20constitui%C3%A7%C3%A3o%2C%20organiza%C3%A7%C3%A3o%20e%20funcionamento%20das%20B%C3%B4lsas%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º A intermediação dos negócios nas Bôlsas de Valôres será exercida por sociedades corretoras membros da Bôlsa, cujo capital mínimo será fixado pelo Conselho Monetário Nacional.\n\n§ 1º (Revogado pela Decreto Lei nº 2.313, de 1986)\n\n§ 2° As sociedades referidas neste artigo sòmente poderão funcionar depois de autorizadas pelo Banco Central, e a investidura dos seus dirigentes estará sujeita às condições legais vigentes para os administradores de instituições financeiras.\n\n§ 3° Nas condições fixadas pelo Conselho Monetário Nacional, a sociedade corretora poderá ser membro de mais de uma Bôlsa de Valôres.\n\n§ 4º Os administradores das sociedades corretoras não poderão exercer qualquer cargo administrativo, consultivo, fiscal ou deliberativo em outras emprêsas cujos títulos ou valôres mobiliários sejam negociados em Bôlsa.\n\n§ 5º As sociedades referidas neste artigo, ainda que não revistam a forma anônima, são obrigadas a observar as normas de que trata o art. 20, § 1°, alíneas a e b .\n\n§ 6º O Conselho Monetário Nacional assegurará aos atuais Corretores de Fundos Públicos a faculdade de se registrarem no Banco Central, para intermediar a negociação nas Bôlsas de Valôres, sob a forma da firma individual, observados os mesmos requisitos estabelecidos para as sociedades corretoras previstas neste artigo, e sob a condição de extinção da firma, por morte do respectivo titular, ou pela participação dêste em sociedade corretora.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%208%C2%BA%20A%20intermedia%C3%A7%C3%A3o%20dos%20neg%C3%B3cios%20nas%20B%C3%B4lsas%20de%20Val%C3%B4res%20ser%C3%A1%20exercida%20por%20sociedades%20corretoras%20membros%20da%20B%C3%B4lsa%2C%20cujo%20capital%20m%C3%ADnimo%20ser%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º (Revogado pela Lei nº 14.286, de 2021) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%209%C2%BA%20%28Revogado%20pela%20Lei%20n%C2%BA%2014.286%2C%20de%202021%29%20%28Vig%C3%AAncia%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "8",
+      "next": "9-A"
+    },
+    "9-A": {
+      "numero": "9-A",
+      "texto": "Art. 9º-A. Compete ao Banco Central do Brasil, observadas as diretrizes do Conselho Monetário Nacional, sem prejuízo do disposto na Lei nº 6.385, de 7 de dezembro de 1976: (Incluído pela Lei nº 14.286, de 2021) (Vigência)\n\nI - disciplinar as condições de constituição e de funcionamento das sociedades corretoras de títulos e valores mobiliários, das sociedades corretoras de câmbio e das sociedades distribuidoras de títulos e valores mobiliários; (Incluído pela Lei nº 14.286, de 2021) (Vigência)\n\nII - autorizar a constituição e o funcionamento e supervisionar as atividades das sociedades corretoras de títulos e valores mobiliários, das sociedades corretoras de câmbio e das sociedades distribuidoras de títulos e valores mobiliários. (Incluído pela Lei nº 14.286, de 2021) (Vigência)\n\nParágrafo único. Para os fins deste artigo, aplica-se o disposto na Lei nº 4.595, de 31 de dezembro de 1964, na Lei nº 6.024, de 13 de março de 1974, no Decreto-Lei nº 2.321, de 25 de fevereiro de 1987, na Lei nº 9.447, de 14 de março de 1997, na Lei nº 13.506, de 13 de novembro de 2017, e nas demais disposições da legislação referentes às instituições financeiras: (Incluído pela Lei nº 14.286, de 2021) (Vigência)\n\nI - às sociedades corretoras de títulos e valores mobiliários, às sociedades corretoras de câmbio e às sociedades distribuidoras de títulos e valores mobiliários; (Incluído pela Lei nº 14.286, de 2021) (Vigência)\n\nII - aos administradores e aos membros da diretoria, do conselho de administração, do conselho fiscal, do comitê de auditoria e de outros órgãos previstos no estatuto social ou no contrato social das sociedades referidas no inciso I deste parágrafo; (Incluído pela Lei nº 14.286, de 2021) (Vigência)\n\nIII - às pessoas físicas e jurídicas e aos administradores e responsáveis técnicos de pessoas jurídicas que prestem serviço de auditoria independente às sociedades referidas no inciso I deste parágrafo. (Incluído pela Lei nº 14.286, de 2021) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%209%C2%BA-A.%20Compete%20ao%20Banco%20Central%20do%20Brasil%2C%20observadas%20as%20diretrizes%20do%20Conselho%20Monet%C3%A1rio%20Nacional%2C%20sem%20preju%C3%ADzo%20do%20disposto%20na%20Lei%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "9",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Compete ao Conselho Monetário Nacional fixar as normas gerais a serem observadas no exercício das atividades de subscrição para revenda, distribuição, ou intermediação na colocação, no mercado, de títulos ou valôres mobiliários, e relativos a:\n\nI - capital mínimo das sociedades que tenham por objeto a subscrição para revenda e a distribuição de títulos no mercado;\n\nII - condições de registro das sociedades ou firmas individuais que tenham por objeto atividades de intermediação na distribuição de títulos no mercado;\n\nIII - condições de idoneidade, capacidade financeira e habilitação técnica a que deverão satisfazer os administradores ou responsáveis pelas sociedades ou firmas individuais referidas nos incisos anteriores;\n\nIV - procedimento administrativo de autorização para funcionar das sociedades referidas no inciso I e do registro das sociedades e firmas individuais referidas no inciso II;\n\nV - espécies de operações das sociedades referidas nos incisos anteriores; normas, métodos e práticas a serem observados nessas operações;\n\nVI - comissões, ágios, descontos ou quaisquer outros custos cobrados pelas sociedades de emprêsas referidas nos incisos anteriores;\n\nVII - normas destinadas a evitar manipulações de preço e operações fraudulentas;\n\nVIII - registro das operações a serem mantidas pelas sociedades e emprêsas referidas nos incisos anteriores, e dados estatísticos a serem apurados e fornecidos ao Banco Central;\n\nIX - condições de pagamento a prazo dos títulos negociados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2010.%20Compete%20ao%20Conselho%20Monet%C3%A1rio%20Nacional%20fixar%20as%20normas%20gerais%20a%20serem%20observadas%20no%20exerc%C3%ADcio%20das%20atividades%20de%20subscri%C3%A7%C3%A3o%20para%20revenda%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "9-A",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Depende de prévia autorização do Banco Central, o funcionamento de sociedades ou firmas individuais que tenham por objeto a subscrição para revenda e a distribuição no mercado de títulos ou valôres mobiliários.\n\nParágrafo único. Depende igualmente de aprovação pelo Banco Central:\n\na) a modificação de contratos ou estatutos sociais das sociedades referidas neste artigo;\n\nb) a investidura de administradores, responsáveis ou prepostos das sociedades e emprêsas referidas neste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2011.%20Depende%20de%20pr%C3%A9via%20autoriza%C3%A7%C3%A3o%20do%20Banco%20Central%2C%20o%20funcionamento%20de%20sociedades%20ou%20firmas%20individuais%20que%20tenham%20por%20objeto%20a%20subscri%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Depende de prévio registro no Banco Central o funcionamento de sociedades que tenham por objeto qualquer atividade de intermediação na distribuição, ou colocação no mercado, de títulos ou valôres mobiliários.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2012.%20Depende%20de%20pr%C3%A9vio%20registro%20no%20Banco%20Central%20o%20funcionamento%20de%20sociedades%20que%20tenham%20por%20objeto%20qualquer%20atividade%20de%20intermedia%C3%A7%C3%A3o%20na",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. A autorização para funcionar e o registro referidos nos artigos 11 e 12 observarão o disposto no § 1° do art. 10 da Lei n. 4.595, de 31 de dezembro de 1964, e sòmente poderão ser cassados nos casos previstos em normas gerais aprovadas pelo Conselho Monetário Nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2013.%20A%20autoriza%C3%A7%C3%A3o%20para%20funcionar%20e%20o%20registro%20referidos%20nos%20artigos%2011%20e%2012%20observar%C3%A3o%20o%20disposto%20no%20%C2%A7%201%C2%B0%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Compete ao Conselho Monetário Nacional fixar as normas gerais a serem observadas nas operações das instituições financeiras autorizadas a operar em aceite ou coobrigação em títulos cambiais a serem distribuídos no mercado, e relativas a:\n\nI - capital mínimo;\n\nII - limites de riscos, prazo mínimo e máximo dos títulos, espécie das garantias recebidas; relação entre o valor das garantias e o valor dos títulos objeto do aceite ou coobrigação;\n\nIII - disciplina ou proibição de redesconto de papéis;\n\nIV - fiscalização das operações pelo Banco Central;\n\nV - organização e funcionamento de consórcios (art. 15).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2014.%20Compete%20ao%20Conselho%20Monet%C3%A1rio%20Nacional%20fixar%20as%20normas%20gerais%20a%20serem%20observadas%20nas%20opera%C3%A7%C3%B5es%20das%20institui%C3%A7%C3%B5es%20financeiras%20autorizadas%20a%20operar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. As instituições financeiras autorizadas a operar no mercado financeiro e de capitais poderão organizar consórcio para o fim especial de colocar títulos ou valôres mobiliários no mercado.\n\n§ 1° Quando o consórcio tiver por objetivo aceite ou coobrigação em títulos cambiais, a responsabilidade poderá ser distribuída entre os membros do consórcio.\n\n§ 2º O consórcio será regulado por contrato que só entrará em vigor depois de registrado no Banco Central e do qual constarão, obrigatòriamente, as condições e os limites de coobrigação de cada instituição participante, a designação da instituição líder do consórcio e a outorga, a esta, de poderes de representação das demais participantes.\n\n§ 3º A responsabilidade de cada uma das instituições participantes do consórcio formado nos têrmos dêste artigo será limitada ao montante do risco que assumir no instrumento de contrato de que trata o parágrafo anterior.\n\n§ 4° Os contratos previstos no presente artigo são isentos do impôsto do sêlo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2015.%20As%20institui%C3%A7%C3%B5es%20financeiras%20autorizadas%20a%20operar%20no%20mercado%20financeiro%20e%20de%20capitais%20poder%C3%A3o%20organizar%20cons%C3%B3rcio%20para%20o%20fim%20especial%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. As emissões de títulos ou valôres mobiliários sòmente poderão ser feitas nos mercados financeiro e de capitais através do sistema de distribuição previsto no art. 5°.\n\n§ 1º Para os efeitos dêste artigo considera-se emissão a oferta ou negociação de títulos ou valôres mobiliários:\n\na) pela sociedade emissora ou coobrigada;\n\nb) por sociedades ou emprêsas que exerçam habitualmente as atividades de subscrição, distribuição ou intermediação na colocação no mercado de títulos ou valôres mobiliários;\n\nc) pela pessoa natural ou jurídica que mantém o contrôle da sociedade emissôra dos títulos ou valôres mobiliários oferecidos ou negociados.\n\n§ 2º Entende-se por colocação ou distribuição de títulos ou valôres mobiliários nos mercados financeiro e de capitais a negociação, oferta ou aceitação de oferta para negociação:\n\na) mediante qualquer modalidade de oferta pública;\n\nb) mediante a utilização de serviços públicos de comunicação;\n\nc) em lojas, escritórios ou quaisquer outros estabelecimentos acessíveis ao público;\n\nd) através de corretores ou intermediários que procurem tomadores para os títulos.\n\n§ 3º As sociedades que infringirem o disposto neste artigo ficarão sujeitas à cessação imediata de suas atividades de colocação de títulos ou valôres mobiliários no mercado, mediante intimação do Banco Central, que requisitará, se necessário, a intervenção da autoridade policial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2016.%20As%20emiss%C3%B5es%20de%20t%C3%ADtulos%20ou%20val%C3%B4res%20mobili%C3%A1rios%20s%C3%B2mente%20poder%C3%A3o%20ser%20feitas%20nos%20mercados%20financeiro%20e%20de%20capitais%20atrav%C3%A9s%20do%20sistema",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Os títulos cambiais deverão ter a coobrigação de instituição financeira para sua colocação no mercado, salvo os casos regulamentados pelo Conselho Monetário Nacional em caráter geral e de modo a assegurar garantia adequada aos que adquirirem.\n\n§ 1° As emprêsas que, a partir da publicação desta Lei, colocarem papéis no mercado de capitais em desobediência ao disposto neste Capítulo, não terão acesso aos bancos oficiais e os títulos de sua emissão ou aceite não terão curso na Carteira de Redescontos, ressalvado o disposto no parágrafo seguinte.\n\n§ 2º As emprêsas que, na data da publicação desta Lei, tiverem em circulação títulos cambiais com sua responsabilidade em condições proibidas por esta Lei, poderão ser autorizadas pelo Banco Central a continuar a colocação com a redução gradativa do total dos papéis em circulação, desde que dentro de 60 (sessenta) dias o requeiram, com a indicação do valor total dos títulos em circulação e apresentação da proposta de sua liquidação no prazo de até 12 (doze) meses, prorrogável, pelo Banco Central, no caso de comprovada necessidade, no máximo, por mais 6 (seis) meses.\n\n§ 3º As emprêsas que utilizarem a faculdade indicada no parágrafo anterior poderão realizar assembléia geral ou alterar seus contratos sociais, no prazo de 60 (sessenta) dias da vigência desta Lei, de modo a assegurar opção aos tomadores para converter seus créditos em ações ou cotas de capital da emprêsa devedora, opção válida até a data do vencimento dos respectivos títulos.\n\n§ 4º A infração ao disposto neste artigo sujeitará os emitentes, coobrigados e tomadores de títulos de crédito à multa de até 50% (cinqüenta por cento) do valor do título.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2017.%20Os%20t%C3%ADtulos%20cambiais%20dever%C3%A3o%20ter%20a%20coobriga%C3%A7%C3%A3o%20de%20institui%C3%A7%C3%A3o%20financeira%20para%20sua%20coloca%C3%A7%C3%A3o%20no%20mercado%2C%20salvo%20os%20casos%20regulamentados%20pelo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. São isentas do impôsto do sêlo quaisquer conversões, livremente pactuadas, em ações ou cotas do capital das emprêsas obrigadas em títulos de dívida em circulação na data da presente lei, sem a coobrigação de instituições financeiras, concretizadas no prazo de 180 (cento e oitenta) dias da vigência desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2018.%20S%C3%A3o%20isentas%20do%20imp%C3%B4sto%20do%20s%C3%AAlo%20quaisquer%20convers%C3%B5es%2C%20livremente%20pactuadas%2C%20em%20a%C3%A7%C3%B5es%20ou%20cotas%20do%20capital%20das%20empr%C3%AAsas%20obrigadas%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Sòmente poderão ser negociados nas Bôlsas de Valôres os títulos ou valôres mobiliários de emissão:\n\nI - de pessoas jurídicas de direito público;\n\nII - de pessoas jurídicas de direito privado registradas no Banco Central.\n\n§ 1° O disposto neste artigo não se aplica aos títulos cambiais colocados no mercado de acôrdo com o art. 17.\n\n§ 2º Para as sociedades que já tenham requerido a cotação de suas ações nas Bôlsas de Valôres, o disposto neste artigo entrará em vigor a partir de 1° de janeiro de 1966, quando ficará revogado o Decreto-lei n. 9.783, de 6 de setembro de 1946.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2019.%20S%C3%B2mente%20poder%C3%A3o%20ser%20negociados%20nas%20B%C3%B4lsas%20de%20Val%C3%B4res%20os%20t%C3%ADtulos%20ou%20val%C3%B4res%20mobili%C3%A1rios%20de%20emiss%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Compete ao Conselho Monetário Nacional expedir normas gerais sôbre o registro referido no inciso II do artigo anterior, e relativas a:\n\nI - informações e documentos a serem apresentados para obtenção do registro inicial;\n\nII - informações e documentos a serem apresentados periòdicamente para a manutenção do registro;\n\nIII - casos em que o Banco Central poderá recusar, suspender ou cancelar o registro.\n\n§ 1° Caberá ainda ao Conselho Monetário Nacional expedir normas a serem observadas pelas pessoas jurídicas referidas neste artigo, e relativas a:\n\na) natureza, detalhe e periodicidade da publicação de informações sôbre a situação econômica e financeira da pessoa jurídica, suas operações, administração e acionistas que controlam a maioria do seu capital votante;\n\nb) organização do balanço e das demonstrações de resultado, padrões de organização contábil, relatórios e pareceres de auditores independentes registrados no Banco Central;\n\nc) manutenção de mandatários para a prática dos atos relativos ao registro de ações e obrigações nominativas, ou nominativas endossáveis.\n\n§ 2º As normas referidas neste artigo não poderão ser aprovadas antes de decorridos 30 (trinta) dias de sua publicação para receber sugestões.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2020.%20Compete%20ao%20Conselho%20Monet%C3%A1rio%20Nacional%20expedir%20normas%20gerais%20s%C3%B4bre%20o%20registro%20referido%20no%20inciso%20II%20do%20artigo%20anterior%2C%20e%20relativas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Nenhuma emissão de títulos ou valôres mobiliários poderá ser lançada, oferecida públicamente, ou ter iniciada a sua distribuição no mercado, sem estar registrada no Banco Central.\n\n§ 1º Caberá ao Conselho Monetário Nacional estabelecer normas gerais relativas às informações que deverão ser prestadas no pedido de registro previsto neste artigo em matéria de:\n\na) pessoa jurídica, emitente ou coobrigada, sua situação econômica e financeira, administração e acionistas que controlam a maioria de seu capital votante;\n\nb) características e condições dos títulos ou valôres mobiliários a serem distribuídos;\n\nc) pessoas que participarão da distribuição.\n\n§ 2º O pedido de registro será acompanhado dos prospectos e quaisquer outros documentos a serem publicados, ou distribuídos, para oferta, anúncio ou promoção de lançamento da emissão.\n\n§ 3º O Banco Central poderá suspender ou proibir a distribuição de títulos ou valôres:\n\na) cuja oferta, lançamento, promoção ou anúncio esteja sendo feito em condições diversas das constantes do registro da emissão, ou com a divulgação de informações falsas ou manifestamente tendenciosas ou imprecisas;\n\nb) cuja emissão tenha sido julgada ilegal ou fraudulenta, ainda que em data posterior ao respectivo registro.\n\n§ 4° O disposto neste artigo não se aplica aos títulos cambiais colocados no mercado com a coobrigação de instituições financeiras.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2021.%20Nenhuma%20emiss%C3%A3o%20de%20t%C3%ADtulos%20ou%20val%C3%B4res%20mobili%C3%A1rios%20poder%C3%A1%20ser%20lan%C3%A7ada%2C%20oferecida%20p%C3%BAblicamente%2C%20ou%20ter%20iniciada%20a%20sua%20distribui%C3%A7%C3%A3o%20no%20mercado%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. (Revogado pela Lei nº 14.286, de 2021) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2022.%20%28Revogado%20pela%20Lei%20n%C2%BA%2014.286%2C%20de%202021%29%20%28Vig%C3%AAncia%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "IV",
+        "section_name": "SEÇÃO IV"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. (Revogado pela Lei nº 14.286, de 2021) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2023.%20%28Revogado%20pela%20Lei%20n%C2%BA%2014.286%2C%20de%202021%29%20%28Vig%C3%AAncia%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "IV",
+        "section_name": "SEÇÃO IV"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. (Revogado pela Lei nº 14.286, de 2021) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2024.%20%28Revogado%20pela%20Lei%20n%C2%BA%2014.286%2C%20de%202021%29%20%28Vig%C3%AAncia%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "IV",
+        "section_name": "SEÇÃO IV"
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. (Revogado pela Lei nº 14.286, de 2021) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2025.%20%28Revogado%20pela%20Lei%20n%C2%BA%2014.286%2C%20de%202021%29%20%28Vig%C3%AAncia%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "IV",
+        "section_name": "SEÇÃO IV"
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. As sociedades por ações poderão emitir debêntures, ou obrigações ao portador ou nominativas endossáveis, com cláusula de correção monetária, desde que observadas as seguintes condições:\n\nI - prazo de vencimento igual ou superior a um ano;\n\nII - correção efetuada em períodos não inferiores a três meses, em bases idênticas às aplicáveis às Obrigações Reajustáveis do Tesouro Nacional; (Redação dada pelo Decreto-Lei nº 614, de 1969)\n\nIII - subscrição por instituições financeiras especialmente autorizadas pelo Banco Central, ou colocação no mercado de capitais com a intermediação dessas instituições.\n\n§ 1° A emissão de debêntures nos têrmos dêste artigo terá por limite máximo a importância do patrimônio líquido da companhia, apurado nos têrmos fixados pelo Conselho Monetário Nacional.\n\n§ 2º O Conselho Monetário Nacional expedirá, para cada tipo de atividade, normas relativas a:\n\na) limite da emissão de debêntures observado o máximo estabelecido no parágrafo anterior;\n\nb) análise técnica e econômico-financeira da emprêsa emissora e do projeto a ser financiado com os recursos da emissão, que deverá ser procedida pela instituição financeira que subscrever ou colocar a emissão;\n\nc) coeficientes ou índices mínimos de rentabilidade, solvabilidade ou liquidez a que deverá satisfazer a emprêsa emissora;\n\nd) sustentação das debêntures no mercado pelas instituições financeiras que participem da colocação.\n\n§ 3° As diferenças nominais resultantes da correção do principal das debêntures emitidas nos têrmos dêste artigo não constituem rendimento tributável para efeitos do impôsto de renda, nem obrigarão a complementação do impôsto do sêlo pago na emissão das debêntures.\n\n§ 4º Será assegurado às instituições financeiras intermediárias no lançamento das debêntures a que se refere êste artigo, enquanto obrigadas à sustentação prevista na alínea d do § 2º, o direito de indicar um representante como membro do Conselho Fiscal da emprêsa emissora, até o final resgate de tôdas as obrigações emitidas.\n\n§ 5º A instituição financeira intermediária na colocação representa os portadores de debêntures ausentes das assembléias de debenturistas.\n\n§ 6º As condições de correção monetária estabelecidas no inciso II dêste artigo poderão ser aplicadas às operações previstas nos arts. 5°, 15 e 52, § 2º, da Lei n. 4.380, de 21 de agôsto de 1964.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2026.%20As%20sociedades%20por%20a%C3%A7%C3%B5es%20poder%C3%A3o%20emitir%20deb%C3%AAntures%2C%20ou%20obriga%C3%A7%C3%B5es%20ao%20portador%20ou%20nominativas%20endoss%C3%A1veis%2C%20com%20cl%C3%A1usula%20de%20corre%C3%A7%C3%A3o%20monet%C3%A1ria%2C%20desde",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "V",
+        "section_name": "SEÇÃO V"
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. As sociedades de fins econômicos poderão sacar, emitir ou aceitar letras de câmbio ou notas promissórias cujo principal fique sujeito à correção monetária, desde que observadas as seguintes condições:\n\nI - prazo de vencimento igual ou superior a um ano, e dentro do limite máximo fixado pelo Conselho Monetário Nacional;\n\nII - correção segundo os coeficientes aprovados pelo Conselho Nacional de Economia para a correção atribuída às obrigações do Tesouro;\n\nIII - sejam destinadas à colocação no mercado de capitais com o aceite ou coobrigação de instituições financeiras autorizadas pelo Banco Central.\n\n§ 1° O disposto no art. 26, § 3°, aplica-se à correção monetária dos títulos referidos neste artigo.\n\n§ 2º As letras de câmbio e as promissórias a que se refere êste artigo deverão conter, no seu contexto, a cláusula de correção monetária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2027.%20As%20sociedades%20de%20fins%20econ%C3%B4micos%20poder%C3%A3o%20sacar%2C%20emitir%20ou%20aceitar%20letras%20de%20c%C3%A2mbio%20ou%20notas%20promiss%C3%B3rias%20cujo%20principal%20fique%20sujeito",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "V",
+        "section_name": "SEÇÃO V"
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. As instituições financeiras que satisfizerem as condições gerais fixadas pelo Banco Central, para êsse tipo de operações, poderão assegurar a correção monetária a depósitos a prazo fixo não inferior a um ano e não movimentáveis durante todo seu prazo.\n\n§ 1° Observadas as normas aprovadas pelo Conselho Monetário Nacional, as instituições financeiras a que se refere êste artigo poderão contratar empréstimos com as mesmas condições de correção, desde que:\n\na) tenham prazo mínimo de um ano;\n\nb) o total dos empréstimos corrigidos não exceda o montante dos depósitos corrigidos referidos neste artigo;\n\nc) o total da remuneração da instituição financeira, nessas transações, não exceda os limites fixados pelo Conselho Monetário Nacional.\n\n§ 2º Os depósitos e empréstimos referidos neste artigo não poderão ser corrigidos além dos coeficientes fixados pelo Conselho Nacional de Economia para a correção das Obrigações do Tesouro.\n\n§ 3º As diferenças nominais resultantes da correção, nos têrmos dêste artigo, do principal de depósitos, não constituem rendimento tributável para os efeitos do impôsto de renda.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2028.%20As%20institui%C3%A7%C3%B5es%20financeiras%20que%20satisfizerem%20as%20condi%C3%A7%C3%B5es%20gerais%20fixadas%20pelo%20Banco%20Central%2C%20para%20%C3%AAsse%20tipo%20de%20opera%C3%A7%C3%B5es%2C%20poder%C3%A3o%20assegurar%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "V",
+        "section_name": "SEÇÃO V"
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Compete ao Banco Central autorizar a constituição de bancos de investimento de natureza privada cujas operações e condições de funcionamento serão reguladas pelo Conselho Monetário Nacional, prevendo:\n\nI - o capital mínimo;\n\nII - a proibição de receber depósitos à vista ou movimentáveis por cheque;\n\nIII - a permissão para receber depósitos a prazo não inferior a um ano, não movimentáveis e com cláusula de correção monetária do seu valor;\n\nIV - a permissão para conceder empréstimos a prazo não inferior a um ano, com cláusula de correção monetária; V - a permissão para administração dos fundos em condomínio de que trata o art. 50;\n\nVI - os juros e taxas máximas admitidos nas operações indicadas nos incisos III e VI;\n\nVII - as condições operacionais, de modo geral, inclusive garantias exigíveis, montantes e prazos máximos.\n\n§ 1° O Conselho Monetário Nacional fixará ainda as normas a serem observadas pelos bancos de investimento e relativas a:\n\na) espécies de operações ativas e passivas, inclusive as condições para concessão de aval em moeda nacional ou estrangeira;\n\nb) análise econômico-financeira e técnica do mutuário e do projeto a ser financiado; coeficientes ou índices mínimos de rentabilidade, solvabilidade e liquidez a que deverá satisfazer o mutuário;\n\nc) condições de diversificação de riscos.\n\n§ 2º Os bancos de investimentos adotarão em suas operações ativas e passivas sujeitas à correção monetária as mesmas regras ditadas no art. 28.\n\n§ 3° Os bancos de que trata êste artigo ficarão sujeitos à disciplina ditada pela Lei n. 4.595, de 31 de dezembro de 1964, para as instituições financeiras privadas.\n\n§ 4º Atendidas as exigências que forem estabelecidas em caráter geral pelo Conselho Monetário Nacional, o Banco Central autorizará a transformação, em bancos de investimentos, de instituições financeiras que pratiquem operações relacionadas com a concessão de crédito a médio e longo prazos, por conta própria ou de terceiros, a subscrição para revenda e a distribuição no mercado de títulos ou valôres mobiliários.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2029.%20Compete%20ao%20Banco%20Central%20autorizar%20a%20constitui%C3%A7%C3%A3o%20de%20bancos%20de%20investimento%20de%20natureza%20privada%20cujas%20opera%C3%A7%C3%B5es%20e%20condi%C3%A7%C3%B5es%20de%20funcionamento",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "V",
+        "section_name": "SEÇÃO V"
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. (Revogado pela Lei n.13.986, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2030.%20%28Revogado%20pela%20Lei%20n.13.986%2C%20de%202020%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "V",
+        "section_name": "SEÇÃO V"
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Os bancos referidos no art. 29, quando prèviamente autorizados pelo Banco Central e nas condições estabelecidas pelo Conselho Monetário Nacional, poderão emitir \"certificados de depósitos em garantia\", relativos a ações preferenciais, obrigações, debêntures ou títulos cambiais emitidos por sociedades interessadas em negociá-las em mercados externos, ou no País.\n\n§ 1° Os títulos depositados nestas condições permanecerão custodiados no estabelecimento emitente do certificado até a devolução dêste.\n\n§ 2° O certificado poderá ser desdobrado por conveniências do seu proprietário.\n\n§ 3º (Revogado pela Lei nº 14.286, de 2021) (Vigência)\n\n§ 4º A emissão de \"certificados de depósitos em garantia\" e respectivas inscrições, ou averbações, não estão sujeitas ao impôsto do sêlo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2031.%20Os%20bancos%20referidos%20no%20art.%2029%2C%20quando%20pr%C3%A8viamente%20autorizados%20pelo%20Banco%20Central%20e%20nas%20condi%C3%A7%C3%B5es%20estabelecidas%20pelo%20Conselho%20Monet%C3%A1rio%20Nacional%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "V",
+        "section_name": "SEÇÃO V"
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. As ações de sociedades anônimas, além das formas nominativas e ao portador, poderão ser endossáveis.\n\n§ 1° As sociedades por ações, além do \"Livro de Registro de Ações Nominativas\" deverão ter o \"Livro de Registro de Ações Endossáveis\".\n\n§ 2º No livro de registro de ações endossáveis será inscrita a propriedade das ações endossáveis e averbadas as transferências de propriedade e os direitos sôbre elas constituídos.\n\n§ 3º Os registros referidos nêste artigo poderão ser mantidos em livros ou em diários copiativos, nos quais serão copiados cronològicamente os atos sujeitos a registro.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2032.%20As%20a%C3%A7%C3%B5es%20de%20sociedades%20an%C3%B4nimas%2C%20al%C3%A9m%20das%20formas%20nominativas%20e%20ao%20portador%2C%20poder%C3%A3o%20ser%20endoss%C3%A1veis.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. O certificado de ação endossável conterá, além dos demais requisitos da Lei:\n\nI - a declaração de sua transferibilidade mediante endôsso;\n\nII - o nome e a qualificação do proprietário da ação inscrito no \"Livro de Registro das Ações Endossáveis\";\n\nIII - se a ação não estiver integralizada, o débito do acionista e a época e lugar de seu pagamento, de acôrdo com o estatuto ou as condições da subscrição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2033.%20O%20certificado%20de%20a%C3%A7%C3%A3o%20endoss%C3%A1vel%20conter%C3%A1%2C%20al%C3%A9m%20dos%20demais%20requisitos%20da%20Lei%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. A transferência das ações endossáveis opera-se:\n\nI - pela averbação do nome do adquirente no livro de registro e no próprio certificado efetuado pela sociedade emitente ou pela emissão de novo certificado em nome do adquirente;\n\nII - no caso de ação integralizada, mediante endôsso no próprio certificado, datado e assinado pelo proprietário da ação, ou por mandatário especial, com a indicação do nome e a qualificação do endossatário;\n\nIII - no caso de ação não integralizada, mediante endôsso nas condições do inciso anterior e assinatura do endossatário no próprio certificado.\n\n§ 1° Aquêle que pedir averbação da ação endossável em favor de terceiro, ou a emissão de novo certificado em nome de terceiro, deverá provar perante a sociedade emitente sua identidade e o poder de dispor da ação.\n\n§ 2º O adquirente que pedir a averbação da transferência ou a emissão de novo certificado em seu nome deve apresentar à sociedade emitente o instrumento de aquisição, que será por esta arquivado.\n\n§ 3º Se a ação não estiver integralizada, a sociedade sòmente procederá à averbação da transferência para terceiro, ou à emissão de novo certificado em nome de terceiro, se o adquirente assinar o certificado averbado ou cancelado.\n\n§ 4º A transferência mediante endôsso não terá eficácia perante a sociedade emitente, enquanto não fôr feita a averbação no livro de registro e no próprio certificado, mas o endossatário que demonstrar ser possuidor do título, com base em série contínua de endossos, tem direito a obter a averbação da transferência ou a emissão de novo certificado em seu nome, ou no nome que indicar.\n\n§ 5° O adquirente da ação não integralizada responde pela sua integralização.\n\n§ 6º Aquêles que transferirem ação endossável antes de sua integralização responderão subsidiàriamente pelo pagamento devido à sociedade, se esta não conseguir receber o seu crédito em ação executiva contra o proprietário da ação, ou mediante a venda da ação.\n\n§ 7º As sociedades por ações deverão completar, dentro de quinze dias do pedido do acionista ou interessado, os atos de registro, averbação, conversão ou transferência de ações.\n\n§ 8° A falta de cumprimento, do disposto no parágrafo anterior, autorizará o acionista a exigir indenização correspondente a um por cento sôbre o valor nominal das ações objeto do pedido de registro, averbação ou transferência.\n\n§ 9º Se o estatuto social admite mais de uma forma de ação não poderá limitar a conversibilidade de uma forma em outra, ressalvada a cobrança do custo de substituição dos certificados.\n\n§ 10. As sociedades cujas ações seja admitidas à cotação das Bolsas de Valores deverão colocar à disposição dos acionistas, no prazo máximo de 60 dias, a contar da data da publicação da Ata da Assembléia-Geral, os dividendos e as bonificações em dinheiro distribuídos, assim como as ações correspondentes ao aumento de capital mediante incorporação de reservas e correção monetária. (Redação dada pela Lei nº 5.589, de 1970)\n\n§ 11. As sociedades por ações são obrigadas a comunicar, às Bôlsas nas quais os seus títulos são negociados, a suspensão transitória de transferência de ações no livro competente, com 15 (quinze) dias de antecedência, aceitando o registro das transferências que lhes forem apresentadas com data anterior.\n\n§ 12. É facultado as sociedades por ações o direito de suspender os serviços de conversão, transferência e desdobramento de ações, para atender a determinações de assembléia-geral, não podendo fazê-lo, porém, por mais de 90 (noventa) dias intercalados durante o ano, nem por mais de 15 (quinze) dias consecutivos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2034.%20A%20transfer%C3%AAncia%20das%20a%C3%A7%C3%B5es%20endoss%C3%A1veis%20opera-se%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Os direitos constituídos sôbre ações endossáveis sòmente produzem efeitos perante a sociedade emitente e terceiros, depois de anotada a sua constituição no livro de registro.\n\nParágrafo único. As ações endossáveis poderão, entretanto, ser dadas em penhor ou caução mediante endôsso com a expressa indicação dessa finalidade e, a requerimento de credor pignoratício ou do proprietário da ação, a sociedade emitente averbará o penhor no \"Livro de Registro\".",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2035.%20Os%20direitos%20constitu%C3%ADdos%20s%C3%B4bre%20a%C3%A7%C3%B5es%20endoss%C3%A1veis%20s%C3%B2mente%20produzem%20efeitos%20perante%20a%20sociedade%20emitente%20e%20terceiros%2C%20depois%20de%20anotada%20a%20sua",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. A sociedade emitente fiscalizará, por ocasião da averbação ou emissão do novo certificado, a regularidade das transferências e dos direitos constituídos sôbre a ação.\n\n§ 1° As dúvidas suscitadas entre a sociedade emitente e o titular da ação ou qualquer interessado, a respeito das emissões ou averbações previstas nos artigos anteriores, serão dirimidas pelo juiz competente para solucionar as dúvidas levantadas pelos oficiais dos registros públicos, excetuadas as questões atinentes à substância do direito.\n\n§ 2° A autenticidade do endôsso não poderá ser posta em dúvida pela sociedade emitente da ação, quando atestada por sociedade corretora membro de Bôlsa de Valôres, reconhecida por cartório de ofício de notas, ou abonada por estabelecimento bancário.\n\n§ 3º Nas transferências feitas por procurador ou representante legal do cedente, a sociedade emitente fiscalizará a regularidade da representação e arquivará o respectivo instrumento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2036.%20A%20sociedade%20emitente%20fiscalizar%C3%A1%2C%20por%20ocasi%C3%A3o%20da%20averba%C3%A7%C3%A3o%20ou%20emiss%C3%A3o%20do%20novo%20certificado%2C%20a%20regularidade%20das%20transfer%C3%AAncias%20e%20dos%20direitos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. No caso de perda ou extravio do certificado das ações endossáveis, cabe ao respectivo titular, ou a seus sucessores, a ação de recuperação prevista nos arts. 336 e 341 do Código do Processo Civil, para obter a expedição de nôvo certificado em substituição ao extraviado.\n\nParágrafo único. Até que os certificados sejam recuperados ou substituídos, as transferências serão averbadas sob condição e a sociedade emitente poderá exigir do titular ou cessionário, para o pagamento dos dividendos, garantia de sua eventual restituição, mediante fiança idônea.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2037.%20No%20caso%20de%20perda%20ou%20extravio%20do%20certificado%20das%20a%C3%A7%C3%B5es%20endoss%C3%A1veis%2C%20cabe%20ao%20respectivo%20titular%2C%20ou%20a%20seus%20sucessores%2C%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. A sociedade anônima sòmente poderá pagar dividendos, bonificações em dinheiro, amortizações, reembôlso ou resgate às ações endossáveis, contra recibo da pessoa registrada como proprietária da ação, no livro do registro das ações endossáveis, ou mediante cheque nominativo a favor dessa pessoa.\n\n§ 1° Se a ação tiver sido transferida desde a época do último pagamento do dividendo, bonificação ou amortização, a transferência deverá ser obrigatòriamente averbada no livro de registro e no certificado da ação antes do novo pagamento.\n\n§ 2º O recibo do dividendo, bonificação, amortização, reembôlso ou resgate poderá ser assinado por sociedade corretora de Bôlsa de Valôres, ou instituição financeira que tenha o título em custódia, depósito ou penhor, e que certifique continuar o mesmo de propriedade da pessoa em cujo nome se acha inscrito ou averbado no livro de registro das ações endossáveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2038.%20A%20sociedade%20an%C3%B4nima%20s%C3%B2mente%20poder%C3%A1%20pagar%20dividendos%2C%20bonifica%C3%A7%C3%B5es%20em%20dinheiro%2C%20amortiza%C3%A7%C3%B5es%2C%20reemb%C3%B4lso%20ou%20resgate%20%C3%A0s%20a%C3%A7%C3%B5es%20endoss%C3%A1veis%2C%20contra%20recibo%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. O certificado, ação ou respectiva cautela, deverá conter a assinatura de um diretor ou de um procurador especialmente designado pela Diretoria para êsse fim.\n\n§ 1° A sociedade anônima poderá constituir instituição financeira, ou sociedade corretora membro de Bôlsa de Valôres, como mandatária para a prática dos atos relativos ao registro e averbação de transferência das ações endossáveis e a constituição de direitos sôbre as mesmas.\n\n§ 2º (Revogado pela Lei nº 5.589, de 1970)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2039.%20O%20certificado%2C%20a%C3%A7%C3%A3o%20ou%20respectiva%20cautela%2C%20dever%C3%A1%20conter%20a%20assinatura%20de%20um%20diretor%20ou%20de%20um%20procurador%20especialmente%20designado%20pela",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. As debêntures ou obrigações emitidas por sociedades anônimas poderão ser ao portador ou endossáveis.\n\nParágrafo único. As sociedades que emitirem obrigações nominativas endossáveis manterão um \"Livro de Registro de Obrigações Endossáveis\", ao qual se aplicarão, no que couber, os dispositivos relativos aos livros das ações endossáveis de sociedades anônimas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2040.%20As%20deb%C3%AAntures%20ou%20obriga%C3%A7%C3%B5es%20emitidas%20por%20sociedades%20an%C3%B4nimas%20poder%C3%A3o%20ser%20ao%20portador%20ou%20endoss%C3%A1veis.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. Aplicam-se às obrigações endossáveis o disposto no § 3º do art. 32 e nos arts. 33 a 37 e 39.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2041.%20Aplicam-se%20%C3%A0s%20obriga%C3%A7%C3%B5es%20endoss%C3%A1veis%20o%20disposto%20no%20%C2%A7%203%C2%BA%20do%20art.%2032%20e%20nos%20arts.%2033%20a%2037%20e%2039.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. As sociedades anônimas sòmente poderão pagar juros amortização ou resgate de obrigações endossáveis, contra recibo da pessoa registrada como proprietária do respectivo título no livro de registro de obrigações endossáveis, ou mediante cheque nominativo a favor dessa pessoa.\n\n§ 1º Se a obrigação tiver sido transferida desde a época do último pagamento de juros ou amortizações, a transferência deverá ser obrigatòriamente averbada no livro de registro e no certificado, antes do novo pagamento.\n\n§ 2º Aplica-se às obrigações endossáveis o disposto no art. 38, § 2º.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2042.%20As%20sociedades%20an%C3%B4nimas%20s%C3%B2mente%20poder%C3%A3o%20pagar%20juros%20amortiza%C3%A7%C3%A3o%20ou%20resgate%20de%20obriga%C3%A7%C3%B5es%20endoss%C3%A1veis%2C%20contra%20recibo%20da%20pessoa%20registrada%20como%20propriet%C3%A1ria",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. O impôsto do sêlo não incide nos negócios de transferência, promessa de transferência, opção, ou constituição de direitos sôbre ações, obrigações endossáveis, quotas de fundos em condomínios, e respectivos contratos, inscrições ou averbações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2043.%20O%20imp%C3%B4sto%20do%20s%C3%AAlo%20n%C3%A3o%20incide%20nos%20neg%C3%B3cios%20de%20transfer%C3%AAncia%2C%20promessa%20de%20transfer%C3%AAncia%2C%20op%C3%A7%C3%A3o%2C%20ou%20constitui%C3%A7%C3%A3o%20de%20direitos%20s%C3%B4bre%20a%C3%A7%C3%B5es%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. As sociedades anônimas poderão emitir debêntures ou obrigações, assegurando aos respectivos titulares o direito de convertê-las em ações do capital da sociedade emissora.\n\n§ 1° Constarão obrigatòriamente da ata da assembléia-geral, que terá fôrça de escritura autorizando a emissão de debêntures ou obrigações ao portador, as condições para conversão em ações relativas a:\n\na) prazo ou épocas para exercício do direito à conversão;\n\nb) bases da conversão, com relação ao número de ações a serem emitidas por debêntures ou obrigações endossáveis ou entre o valor do principal das debêntures e das ações em que forem convertidas.\n\n§ 2º As condições de conversão deverão constar também dos certificados ou cautelas das debêntures.\n\n§ 3º As condições da emissão de debêntures ou obrigações conversíveis em ações deverão ser aprovadas pela assembléia de acionistas, observado o quorum previsto nos arts. 94 e 104 do Decreto-lei n. 2.627, de 26 de setembro de 1940.\n\n§ 4º A conversão de debêntures ou obrigações em ações, nas condições da emissão aprovada pela assembléia geral independerá de nova assembléia de acionistas e será efetivada pela Diretoria da sociedade, à vista da quitação da obrigação o pedido escrito do seu titular, no caso de obrigações endossáveis ou mediante tradição do certificado da debênture, no caso de obrigação ao portador.\n\n§ 5º Dentro de 30 (trinta) dias de cada aumento de capital efetuado nos têrmos do parágrafo anterior a Diretoria da sociedade o registrará mediante requerimento ao registro do Comércio.\n\n§ 6º Os acionistas da sociedade por ações do capital subscrito terão preferência para aquisição das debêntures e obrigações conversíveis em ações, nos têrmos do art. 111, do Decreto-lei n. 2.627, de 26 de setembro de 1940.\n\n§ 7º Nas sociedades anônimas de capital autorizado, a preferência dos acionistas à aquisição das debêntures e das obrigações conversíveis em ação obedecerá às mesmas normas de preferência para subscrição das emissões de capital autorizado.\n\n§ 8º O direito à subscrição de capital poderá ser negociado ou transferido separadamente da debênture conversível em ação, desde que seja objeto de cupão destacável ou sua transferência seja averbada pela sociedade emissora, no próprio título e no livro de registro, se fôr o caso.\n\n§ 9º o impôsto do sêlo não incide na conversão de debêntures ou obrigações em ações e, assim, no aumento do capital pela incorporação dos respectivos valôres.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2044.%20As%20sociedades%20an%C3%B4nimas%20poder%C3%A3o%20emitir%20deb%C3%AAntures%20ou%20obriga%C3%A7%C3%B5es%2C%20assegurando%20aos%20respectivos%20titulares%20o%20direito%20de%20convert%C3%AA-las%20em%20a%C3%A7%C3%B5es%20do%20capital",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "VII",
+        "section_name": "SEÇÃO VII"
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. As sociedades anônimas cujas ações sejam nominativas, ou endossáveis, poderão ser constituídas com capital subscrito inferior ao autorizado pelo estatuto social.\n\n§ 1° As sociedades referidas neste artigo poderão, outrossim, aumentar o seu capital autorizado, independentemente de subscrição, ou com a subscrição imediata, de apenas parte do aumento.\n\n§ 2º Em tôdas as publicações e documentos em que declarar o seu capital, a sociedade com capital autorizado deverá indicar o montante do seu capital subscrito e integralizado.\n\n§ 3º A emissão de ações dentro dos limites do capital autorizado não importa modificação do estatuto social.\n\n§ 4º Dentro de 30 (trinta) dias de cada emissão de ações do capital autorizado, a Diretoria da sociedade registrará o aumento do capital subscrito, mediante requerimento ao Registro do Comércio.\n\n§ 5º Na subscrição de ações de sociedade de capital autorizado, o mínimo de integralização inicial será fixado pelo Conselho Monetário Nacional, e as importâncias correspondentes poderão ser recebidas pela sociedade, independentemente de depósito bancário.\n\n§ 6º As sociedades referidas nêste artigo não poderão emitir ações (vetado) de gôzo ou fruição, ou partes beneficiárias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2045.%20As%20sociedades%20an%C3%B4nimas%20cujas%20a%C3%A7%C3%B5es%20sejam%20nominativas%2C%20ou%20endoss%C3%A1veis%2C%20poder%C3%A3o%20ser%20constitu%C3%ADdas%20com%20capital%20subscrito%20inferior%20ao%20autorizado%20pelo%20estatuto",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "VIII",
+        "section_name": "SEÇÃO VIII"
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. O estatuto da sociedade com capital autorizado regulará obrigatòriamente:\n\nI - a emissão e colocação das ações com prévia aprovação da assembléia geral ou por deliberação da diretoria;\n\nII - as condições de subscrição e integralização a serem observadas pela assembléia geral ou pela Diretoria, na emissão e colocação das ações de capital autorizado;\n\nIII - a emissão e colocação das ações, com ou sem preferência para os acionistas da sociedade, e as condições do exercício do direito de preferência, quando houver.\n\n§ 1° As ações do capital autorizado não podem ser colocadas por valor inferior ao nominal.\n\n§ 2º Salvo disposição expressa no estatuto social, a emissão de ações para integralização em bens ou créditos, dependerá de prévia aprovação pela assembléia geral.\n\n§ 3º Nem o estatuto social nem a assembléia-geral poderão negar a preferência dos acionistas à subscrição das ações emitidas que se destinem à colocação:\n\na) por valor inferior ao de sua cotação em Bôlsa, se as ações da sociedade forem negociáveis nas Bôlsas de Valôres; ou\n\nb) por valor inferior ao do patrimônio líquido, se as ações da sociedade não tiverem cotação nas Bôlsas de Valôres.\n\n§ 4º Quando a emissão de ações se processar por deliberação da Diretoria, será obrigatória a prévia audiência do Conselho Fiscal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2046.%20O%20estatuto%20da%20sociedade%20com%20capital%20autorizado%20regular%C3%A1%20obrigat%C3%B2riamente%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "VIII",
+        "section_name": "SEÇÃO VIII"
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. As sociedades anônimas de capital autorizado sòmente poderão adquirir as próprias ações mediante a aplicação de lucros acumulados ou capital excedente, e sem redução do capital subscrito, ou por doação.\n\n§ 1° O capital em circulação da sociedade corresponde ao subscrito menos as ações adquiridas e em tesouraria.\n\n§ 2º As ações em tesouraria na sociedade não terão direito de voto enquanto não forem novamente colocadas no mercado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2047.%20As%20sociedades%20an%C3%B4nimas%20de%20capital%20autorizado%20s%C3%B2mente%20poder%C3%A3o%20adquirir%20as%20pr%C3%B3prias%20a%C3%A7%C3%B5es%20mediante%20a%20aplica%C3%A7%C3%A3o%20de%20lucros%20acumulados%20ou%20capital",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "VIII",
+        "section_name": "SEÇÃO VIII"
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. Nas condições previstas no estatuto, ou aprovadas pela assembléia geral, a sociedade poderá assegurar opções para a subscrição futura de ações do capital autorizado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2048.%20Nas%20condi%C3%A7%C3%B5es%20previstas%20no%20estatuto%2C%20ou%20aprovadas%20pela%20assembl%C3%A9ia%20geral%2C%20a%20sociedade%20poder%C3%A1%20assegurar%20op%C3%A7%C3%B5es%20para%20a%20subscri%C3%A7%C3%A3o%20futura%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "VIII",
+        "section_name": "SEÇÃO VIII"
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. (Revogado pela Lei nº 14.754, de 2023) Produção de efeito",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2049.%20%28Revogado%20pela%20Lei%20n%C2%BA%2014.754%2C%20de%202023%29%20Produ%C3%A7%C3%A3o%20de%20efeito",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "IX",
+        "section_name": "SEÇÃO IX"
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. (Revogado pela Lei nº 14.754, de 2023) Produção de efeito",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2050.%20%28Revogado%20pela%20Lei%20n%C2%BA%2014.754%2C%20de%202023%29%20Produ%C3%A7%C3%A3o%20de%20efeito",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "IX",
+        "section_name": "SEÇÃO IX"
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. Os bancos e casas bancárias que devolvem aos seus depositantes os cheques por êstes sacados, depois de liquidados, poderão fazer prova da movimentação das respectivas contas de depósito mediante cópia fotográfica ou microfotográfica dos cheques devolvidos, desde que mantenham êsse serviço de acôrdo com as normas de segurança aprovadas pelo Banco Central.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2051.%20Os%20bancos%20e%20casas%20banc%C3%A1rias%20que%20devolvem%20aos%20seus%20depositantes%20os%20cheques%20por%20%C3%AAstes%20sacados%2C%20depois%20de%20liquidados%2C%20poder%C3%A3o%20fazer",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "X",
+        "section_name": "SEÇÃO X"
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. O endôsso no cheque nominativo, pago pelo banco contra o qual foi sacado, prova o recebimento da respectiva importância pela pessoa a favor da qual foi emitido, e pelos endossantes subseqüentes.\n\nParágrafo único. Se o cheque indica a nota, fatura, conta, cambial, impôsto lançado ou declarado a cujo pagamento se destina, ou outra causa da sua emissão, o endôsso do cheque pela pessoa a favor da qual foi emitido e a sua liquidação pelo banco sacado provam o pagamento da obrigação indicada no cheque.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2052.%20O%20end%C3%B4sso%20no%20cheque%20nominativo%2C%20pago%20pelo%20banco%20contra%20o%20qual%20foi%20sacado%2C%20prova%20o%20recebimento%20da%20respectiva%20import%C3%A2ncia%20pela",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "X",
+        "section_name": "SEÇÃO X"
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. Está sujeito ao desconto do impôsto de renda na fonte, à razão de 15% (quinze por cento) o deságio concedido na venda, ou colocação no mercado por pessoa jurídica a pessoa física, de debêntures ou obrigações ao portador, letras de câmbio ou outros quaisquer títulos de crédito.\n\n§ 1° Considera-se deságio a diferença para menos entre o valor nominal do título e o preço de sua venda ou colocação no mercado.\n\n§ 2º Na circulação dos títulos referidos no presente artigo, o impôsto não incidirá na fonte nos deságios concedidos entre pessoas jurídicas, mas a primeira pessoa jurídica que vender ou revender o título a pessoa física deverá:\n\na) reter o impôsto previsto neste artigo, calculado sôbre o deságio referido ao valor nominal do título;\n\nb) exigir a identificação do adquirente e o recibo correspondente ao deságio;\n\nc) declarar no próprio título a retenção do impôsto nos têrmos da alínea a, e o montante do deságio sôbre o qual incidiu;\n\nd) fornecer ao beneficiário do deságio declaração da retenção do impôsto, da qual deverão constar a identificação do título e as datas de sua negociação e do seu vencimento.\n\n§ 3º Os títulos dos quais constar a anotação de retenção do impôsto previsto no § 2º, alínea c, dêste artigo, poderão circular entre pessoas jurídicas e físicas sem nova incidência do impôsto, salvo se uma pessoa jurídica revendê-lo a pessoa física com deságio superior ao que serviu de base à incidência do impôsto pago, caso em que o impôsto incidirá sôbre a diferença entre o novo deságio e o já tributado, observado o disposto no § 2º.\n\n§ 4º O deságio percebido por pessoas físicas na aquisição das obrigações ou títulos cambiais referidos neste artigo será obrigatòriamente incluído pelo beneficiário na sua declaração anual de rendimentos, classificado como juros compensando-se o impôsto retido na fonte com o devido, de acôrdo com a declaração anual de rendimentos.\n\n§ 5º Se o prazo entre a aquisição e o vencimento do título tiver sido superior a 12 (doze) meses, a pessoa física beneficiária do primeiro deságio poderá deduzir do respectivo rendimento bruto, na sua declaração anual do impôsto de renda, a importância correspondente à correção monetária do capital aplicado na obrigação ou letra de câmbio, observadas as seguintes normas:\n\na) a correção será procedida entre as datas de aquisição e liquidação do título, segundo os coeficientes de correção monetária fixados pelo Conselho Nacional de Economia, para a correção das Obrigações do Tesouro;\n\nb) a data e o valor de aquisição serão comprovados através da declaração de retenção do impôsto (§ 2º, alínea d) anexada à declaração.\n\n§ 6º Os lucros obtidos por pessoas jurídicas na aquisição e revenda, ou liquidação de obrigações e títulos cambiais, integrarão o respectivo lucro real sem compensação de impôsto na fonte referido neste artigo, se tiver sido pago, e com a dedução da correção monetária nos casos e nos têrmos previstos no § 5°.\n\n§ 7º Para efeito da declaração anual de renda, o rendimento dos títulos, a que se refere o § 5°, considera-se percebido no ano da sua liquidação.\n\n§ 8º O disposto no presente artigo entrará em vigor a 1° de janeiro de 1967, quando ficarão revogadas as disposições vigentes relativas à tributação de deságio, inclusive a opção pela não identificação do respectivo beneficiário; salvo em relação ao disposto nos §§ 5° e 7º, que será aplicável desde a publicação desta Lei, nos rasos em que o beneficiário do deságio optar pela sua identificação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2053.%20Est%C3%A1%20sujeito%20ao%20desconto%20do%20imp%C3%B4sto%20de%20renda%20na%20fonte%2C%20%C3%A0%20raz%C3%A3o%20de%2015%25%20%28quinze%20por%20cento%29%20o%20des%C3%A1gio%20concedido",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XI",
+        "section_name": "SEÇÃO XI"
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. Os juros de debêntures ou obrigações ao portador e a remuneração das partes beneficiárias estão sujeitos à incidência do impôsto de renda na fonte:\n\nI - à razão de 15% (quinze por cento), no caso de identificação do beneficiário nos têrmos do art. 3º, da Lei n. 4.154, de 28 de novembro de 1962;\n\nII - à razão de 60% (sessenta por cento), se o beneficiário optar pela não identificação.\n\nParágrafo único. No caso do inciso I dêste artigo o impôsto retido na fonte será compensado com o impôsto devido com base na declaração anual de renda, na qual serão obrigatòriamente incluídos os juros percebidos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2054.%20Os%20juros%20de%20deb%C3%AAntures%20ou%20obriga%C3%A7%C3%B5es%20ao%20portador%20e%20a%20remunera%C3%A7%C3%A3o%20das%20partes%20benefici%C3%A1rias%20est%C3%A3o%20sujeitos%20%C3%A0%20incid%C3%AAncia%20do%20imp%C3%B4sto",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XI",
+        "section_name": "SEÇÃO XI"
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. A incidência do impôsto de renda na fonte, a que se refere o art. 18 da Lei n. 4.357, de 18 de julho de 1964, sôbre rendimentos de ações ao portador, quando o beneficiário não se identifica, fica reduzida para 25% (vinte e cinco por cento), quando se tratar de sociedade anônima de capital aberto definida nos têrmos do art. 59 desta Lei, e 40% (quarenta por cento) para as demais sociedades.\n\n§ 1° O impôsto de renda não incidirá na fonte sôbre os rendimentos distribuídos por sociedades anônimas de capital aberto aos seus acionistas titulares de ações nominativas, endossáveis ou ao portador, se optarem pela identificação, bem como sôbre os juros dos títulos da dívida pública federal, estadual ou municipal, subscritos voluntàriamente.\n\n§ 2º (Revogado pelo Del 1.338, de 23.7.1974)\n\n§ 3º (Revogado pelo Del 1.338, de 23.7.1974)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2055.%20A%20incid%C3%AAncia%20do%20imp%C3%B4sto%20de%20renda%20na%20fonte%2C%20a%20que%20se%20refere%20o%20art.%2018%20da%20Lei%20n.%204.357%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XI",
+        "section_name": "SEÇÃO XI"
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. .(Revogado pelo Del 1.338, de 23.7.1974)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2056.%20.%28Revogado%20pelo%20Del%201.338%2C%20de%2023.7.1974%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XI",
+        "section_name": "SEÇÃO XI"
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. (Revogado pelo Del 1.338, de 23.7.1974)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2057.%20%28Revogado%20pelo%20Del%201.338%2C%20de%2023.7.1974%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XI",
+        "section_name": "SEÇÃO XI"
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. Na emissão de ações, as importâncias recebidas dos subscritores a título de ágio não serão consideradas como rendimento tributável da pessoa jurídica, constituindo obrigatòriamente reserva específica, enquanto não forem incorporadas ao capital da sociedade. (Redação dada pela Lei nº 4.862, de 14.7.1965)\n\n§ 1º Não sofrerão nova tributação na declaração de pessoa física, ou na fonte, os aumentos de capital das pessoas jurídicas mediante a utilização das importâncias recebidas a título de ágio, quando realizados, nos têrmos dêste artigo, por sociedades das quais sejam as referidas pessoas físicas acionistas, bem como as novas ações distribuídas em virtude daqueles aumentos de capital. (Parágrafo incluído pela Lei nº 4.862, de 14.7.1965)\n\n§ 2º As quantias relativas aos aumentos de capital das pessoas jurídicas, mediante a utilização de acréscimos do valor do ativo decorrentes de aumentos de capital realizados nos têrmos dêste artigo por sociedades das quais sejam acionistas, não sofrerão nova tributação. (Parágrafo incluído pela Lei nº 4.862, de 14.7.1965)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2058.%20Na%20emiss%C3%A3o%20de%20a%C3%A7%C3%B5es%2C%20as%20import%C3%A2ncias%20recebidas%20dos%20subscritores%20a%20t%C3%ADtulo%20de%20%C3%A1gio%20n%C3%A3o%20ser%C3%A3o%20consideradas%20como%20rendimento%20tribut%C3%A1vel%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XI",
+        "section_name": "SEÇÃO XI"
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. Caberá ao Conselho Monetário Nacional fixar periòdicamente as condições em que, para efeitos legais, a sociedade anônima é considerada de capital aberto.\n\n§ 1º A deliberação do Conselho Monetário Nacional aumentando as exigências para a conceituação das sociedades de capital aberto sòmente entrará em vigor no exercício financeiro que se inicie, no mínimo, seis meses depois da data em que fôr publicada a deliberação.\n\n§ 2º Para efeito do cálculo da percentagem mínima do capital com direito a voto, representado por ações efetivamente cotadas nas Bôlsas de Valôres, o Conselho Monetário Nacional levará em conta a participação acionária da União, dos Estados, dos Municípios, das autarquias, bem como das instituições de educação e de assistência social, das fundações e das ordens religiosas de qualquer culto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2059.%20Caber%C3%A1%20ao%20Conselho%20Monet%C3%A1rio%20Nacional%20fixar%20peri%C3%B2dicamente%20as%20condi%C3%A7%C3%B5es%20em%20que%2C%20para%20efeitos%20legais%2C%20a%20sociedade%20an%C3%B4nima%20%C3%A9%20considerada%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XI",
+        "section_name": "SEÇÃO XI"
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. O Poder Executivo poderá promover a alienação de ações de propriedade da União representativas do capital social de sociedades anônimas de economia mistas, mantendo-se 51% (cinqüenta e um por cento) no mínimo, das ações com direito a voto, das emprêsas nas quais deva assegurar o contrôle estatal. (Redação dada pela Lei nº 5.710, de 07.10.1971)\n\nParágrafo único. As transferências de ações de propriedade da União, representativas de capital social da Petróleo Brasileiro S.A. - PETROBRÁS - e de suas subsidiárias em território nacional, reger-se-ão pelo disposto no artigo 11 de Lei nº 2.004, de 3 de outubro de 1953. (Redação dada pela Lei nº 5.710, de 07.10.1971)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2060.%20O%20Poder%20Executivo%20poder%C3%A1%20promover%20a%20aliena%C3%A7%C3%A3o%20de%20a%C3%A7%C3%B5es%20de%20propriedade%20da%20Uni%C3%A3o%20representativas%20do%20capital%20social%20de%20sociedades%20an%C3%B4nimas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XII",
+        "section_name": "SEÇÃO XII"
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art 61 - O Conselho Monetário Nacional fixará a participação da União nas diferentes sociedades referidas no artigo anterior, ouvido o Conselho de Segurança Nacional, nos casos de sua competência e no das emprêsas cujo contrôle estatal é determinado em Lei especial. (Redação dada pela Lei nº 5.710, de 07.10.1971\n\n§ 1º As ações de que tratam êste artigo e o anterior, serão negociadas através do sistema de distribuição instituído no artigo 5º desta Lei, com a participação do Banco Central do Brasil, na forma do Inciso IV do artigo 11 da Lei nº 4.595, de 31 de dezembro de 1964. (Redação dada pela Lei nº 5.710, de 07.10.1971\n\n§ 2º O Poder Executivo, através do Ministério da Fazenda, poderá manter no Banco Central do Brasil, em conta especial de depósitos, os recursos originários da alienação de ações de propriedade da União, representativas do capital social de sociedades referidas no artigo 60. (Redação dada pela Lei nº 5.710, de 07.10.1971",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art%2061%20-%20O%20Conselho%20Monet%C3%A1rio%20Nacional%20fixar%C3%A1%20a%20participa%C3%A7%C3%A3o%20da%20Uni%C3%A3o%20nas%20diferentes%20sociedades%20referidas%20no%20artigo%20anterior%2C%20ouvido%20o%20Conselho",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XII",
+        "section_name": "SEÇÃO XII"
+      },
+      "prev": "60",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. As sociedades que tenham por objeto a compra e venda de imóveis construídos ou em construção, a construção e venda de unidades habitacionais, a incorporação de edificações ou conjunto de edificações em condomínio e a venda de terrenos loteados e construídos ou com a construção contratada, quando revestirem a forma anônima, poderão ter o seu capital dividido em ações nominativas ou nominativas endossáveis. (Vide Lei 6.404, de 1976)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2062.%20As%20sociedades%20que%20tenham%20por%20objeto%20a%20compra%20e%20venda%20de%20im%C3%B3veis%20constru%C3%ADdos%20ou%20em%20constru%C3%A7%C3%A3o%2C%20a%20constru%C3%A7%C3%A3o%20e%20venda",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XIII",
+        "section_name": "SEÇÃO XIII"
+      },
+      "prev": "61",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. Na alienação, promessa de alienação ou transferência de direito à aquisição de imóveis, quando o adquirente fôr sociedade que tenha por objeto alguma das atividades referidas no artigo anterior, a pessoa física que alienar ou prometer alienar o imóvel, ceder ou prometer ceder o direito à sua aquisição, ficará sujeita ao impôsto sôbre lucro imobiliário, à taxa de 5% (cinco por cento).\n\n§ 1º Nos casos previstos neste artigo, o contribuinte poderá optar pela subscrição de Obrigações do Tesouro, nos têrmos do art. 3º, § 8º, da Lei n. 4.357, de 16 de julho de 1964.\n\n§ 2º Nos casos previstos neste artigo, se a sociedade adquirente vier, a qualquer tempo, a alienar o terreno ou transferir o direito à sua aquisição sem construí-lo ou sem a simultânea contratação de sua construção, responderá pela diferença do impôsto da pessoa física, entre as taxas normais e a prevista neste artigo, diferença que será atualizada nos têrmos do art. 7°, da Lei n. 4.357, de 16 de julho de 1964.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2063.%20Na%20aliena%C3%A7%C3%A3o%2C%20promessa%20de%20aliena%C3%A7%C3%A3o%20ou%20transfer%C3%AAncia%20de%20direito%20%C3%A0%20aquisi%C3%A7%C3%A3o%20de%20im%C3%B3veis%2C%20quando%20o%20adquirente%20f%C3%B4r%20sociedade%20que%20tenha",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XIII",
+        "section_name": "SEÇÃO XIII"
+      },
+      "prev": "62",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. As sociedades que tenham por objeto alguma das atividades referidas no art. 62 poderão corrigir, nos têrmos do art. 3º da Lei n. 4.357, de 16 de julho de 1964, o custo do terreno e da construção objeto de suas transações.\n\n§ 1º Para efeito de determinar o lucro auferido pelas sociedades mencionadas neste artigo, o custo do terreno e da construção poderá ser atualizado, em cada operação, com base nos coeficientes a que se refere o art. 7º, § 1°, da Lei n. 4.357, de 16 de julho de 1964, e as diferenças nominais resultantes dessa atualização terão o mesmo tratamento fiscal previsto na lei para o resultado das correções a que se refere o art. 3º da referida lei (vetado).\n\n§ 2º Nas operações a prazo, das sociedades referidas neste artigo, a apuração do lucro obedecerá ao disposto no parágrafo anterior, até o final do pagamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2064.%20As%20sociedades%20que%20tenham%20por%20objeto%20alguma%20das%20atividades%20referidas%20no%20art.%2062%20poder%C3%A3o%20corrigir%2C%20nos%20t%C3%AArmos%20do%20art.%203%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XIII",
+        "section_name": "SEÇÃO XIII"
+      },
+      "prev": "63",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art. 65. Por proposta do Banco Nacional de Habitação, o Conselho Monetário Nacional poderá autorizar a emissão de Letras Imobiliárias, com prazo superior a um ano.\n\nParágrafo único. O Banco Nacional de Habitação deverá regulamentar, adaptando-as ao disposto nesta Lei, as condições e características das Letras Imobiliárias previstas no art. 44 da Lei n. 4.380, de 21 de agôsto de 1964.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2065.%20Por%20proposta%20do%20Banco%20Nacional%20de%20Habita%C3%A7%C3%A3o%2C%20o%20Conselho%20Monet%C3%A1rio%20Nacional%20poder%C3%A1%20autorizar%20a%20emiss%C3%A3o%20de%20Letras%20Imobili%C3%A1rias%2C%20com%20prazo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XIII",
+        "section_name": "SEÇÃO XIII"
+      },
+      "prev": "64",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art. 66. (Revogado pela Lei 10.931, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2066.%20%28Revogado%20pela%20Lei%2010.931%2C%20de%202004%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XIV",
+        "section_name": "SEÇÃO XIV"
+      },
+      "prev": "65",
+      "next": "66-A"
+    },
+    "66-A": {
+      "numero": "66-A",
+      "texto": "Art. 66-A. (Revogado pela Lei 10.931, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2066-A.%20%28Revogado%20pela%20Lei%2010.931%2C%20de%202004%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XIV",
+        "section_name": "SEÇÃO XIV"
+      },
+      "prev": "66",
+      "next": "66-B"
+    },
+    "66-B": {
+      "numero": "66-B",
+      "texto": "Art. 66-B. O contrato de alienação fiduciária celebrado no âmbito do mercado financeiro e de capitais, bem como em garantia de créditos fiscais e previdenciários, deverá conter, além dos requisitos definidos na Lei no 10.406, de 10 de janeiro de 2002 - Código Civil, a taxa de juros, a cláusula penal, o índice de atualização monetária, se houver, e as demais comissões e encargos. (Incluído pela Lei 10.931, de 2004)\n\n§ 1o Se a coisa objeto de propriedade fiduciária não se identifica por números, marcas e sinais no contrato de alienação fiduciária, cabe ao proprietário fiduciário o ônus da prova, contra terceiros, da identificação dos bens do seu domínio que se encontram em poder do devedor. (Incluído pela Lei 10.931, de 2004)\n\n§ 2o O devedor que alienar, ou der em garantia a terceiros, coisa que já alienara fiduciariamente em garantia, ficará sujeito à pena prevista no art. 171, § 2o, I, do Código Penal.(Incluído pela Lei 10.931, de 2004)\n\n§ 3o É admitida a alienação fiduciária de coisa fungível e a cessão fiduciária de direitos sobre coisas móveis, bem como de títulos de crédito, hipóteses em que, salvo disposição em contrário, a posse direta e indireta do bem objeto da propriedade fiduciária ou do título representativo do direito ou do crédito é atribuída ao credor, que, em caso de inadimplemento ou mora da obrigação garantida, poderá vender a terceiros o bem objeto da propriedade fiduciária independente de leilão, hasta pública ou qualquer outra medida judicial ou extrajudicial, devendo aplicar o preço da venda no pagamento do seu crédito e das despesas decorrentes da realização da garantia, entregando ao devedor o saldo, se houver, acompanhado do demonstrativo da operação realizada. (Incluído pela Lei 10.931, de 2004)\n\n§ 4o No tocante à cessão fiduciária de direitos sobre coisas móveis ou sobre títulos de crédito aplica-se, também, o disposto nos arts. 18 a 20 da Lei no 9.514, de 20 de novembro de 1997.(Incluído pela Lei 10.931, de 2004)\n\n§ 5o Aplicam-se à alienação fiduciária e à cessão fiduciária de que trata esta Lei os arts. 1.421, 1.425, 1.426, 1.435 e 1.436 da Lei nº 10.406, de 10 de janeiro de 2002.(Incluído pela Lei 10.931, de 2004)\n\n§ 6o Não se aplica à alienação fiduciária e à cessão fiduciária de que trata esta Lei o disposto no art. 644 da Lei nº 10.406, de 10 de janeiro de 2002.(Incluído pela Lei 10.931, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2066-B.%20O%20contrato%20de%20aliena%C3%A7%C3%A3o%20fiduci%C3%A1ria%20celebrado%20no%20%C3%A2mbito%20do%20mercado%20financeiro%20e%20de%20capitais%2C%20bem%20como%20em%20garantia%20de%20cr%C3%A9ditos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XIV",
+        "section_name": "Seção XIV Alienação Fiduciária em Garantia no Âmbito do Mercado Financeiro e de Capitais (Incluído pela Lei 10.931, de 2004)"
+      },
+      "prev": "66-A",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art. 67. O Conselho Monetário Nacional poderá autorizar emissões de Obrigações do Tesouro a que se refere a Lei n. 4.357, de 16 de julho de 1964, com prazos inferiores a três anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2067.%20O%20Conselho%20Monet%C3%A1rio%20Nacional%20poder%C3%A1%20autorizar%20emiss%C3%B5es%20de%20Obriga%C3%A7%C3%B5es%20do%20Tesouro%20a%20que%20se%20refere%20a%20Lei%20n.%204.357%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XV",
+        "section_name": "SEÇÃO XV"
+      },
+      "prev": "66-B",
+      "next": "68"
+    },
+    "68": {
+      "numero": "68",
+      "texto": "Art. 68. O resultado líquido das correções monetárias do ativo imobilizado e do capital de giro próprio, efetuadas nos têrmos da legislação em vigor, poderão, à opção da pessoa jurídica, ser incorporados ao capital social ou a reservas.\n\n§ 1° No caso de correção monetária, do ativo imobilizado, o impôsto devido, sem prejuízo do disposto no art. 76 da Lei n. 4.506 , de 30 de novembro de 1964, incidirá sôbre o aumento líquido do ativo resultante da correção, independentemente da sua incorporação ao capital.\n\n§ 2° (Revogado pelo Del 1.338, de 23.7.1974)\n\n§ 3º O Conselho Monetário Nacional poderá excluir da obrigatoriedade do § 2º as emprêsas que requererem e justificarem a exclusão.\n\n§ 4º As sociedades que no corrente exercício, e em virtude de correção monetária, tenham aprovado aumento de capital ainda não registrado pelo Registro de Comércio, poderão usar da opção prevista neste artigo, desde que paguem impôsto nos têrmos do § 1°.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2068.%20O%20resultado%20l%C3%ADquido%20das%20corre%C3%A7%C3%B5es%20monet%C3%A1rias%20do%20ativo%20imobilizado%20e%20do%20capital%20de%20giro%20pr%C3%B3prio%2C%20efetuadas%20nos%20t%C3%AArmos%20da%20legisla%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XV",
+        "section_name": "SEÇÃO XV"
+      },
+      "prev": "67",
+      "next": "69"
+    },
+    "69": {
+      "numero": "69",
+      "texto": "Art. 69. Os fundos contábeis de natureza financeira, em estabelecimentos oficiais de crédito, para aplicação de doações, dotações ou financiamentos, obtidos de entidades nacionais ou estrangeiras, não incluídos no orçamento, dependem de decreto do Presidente da República.\n\n§ 1° Os fundos contábeis consistirão de contas gráficas abertas e serão exclusivamente para os objetivos designados pelo decreto do Poder Executivo, admitidas apenas as deduções necessárias ao custeio das operações.\n\n§ 2º O decreto executivo de constituição de fundo deverá indicar:\n\nI - origem dos recursos que o constituirão;\n\nII - objetivo das aplicações explicitando a natureza das operações, o setor de aplicação e demais condições;\n\nIII - mecanismo geral das operações;\n\nIV - a gestão do fundo, podendo atribuí-la ao próprio estabelecimento de crédito no qual será aberta a conta, ou a um administrador ou órgão colegiado;\n\nV - a representação ativa e passiva, do órgão gestor do fundo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2069.%20Os%20fundos%20cont%C3%A1beis%20de%20natureza%20financeira%2C%20em%20estabelecimentos%20oficiais%20de%20cr%C3%A9dito%2C%20para%20aplica%C3%A7%C3%A3o%20de%20doa%C3%A7%C3%B5es%2C%20dota%C3%A7%C3%B5es%20ou%20financiamentos%2C%20obtidos%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XV",
+        "section_name": "SEÇÃO XV"
+      },
+      "prev": "68",
+      "next": "70"
+    },
+    "70": {
+      "numero": "70",
+      "texto": "Art. 70. O impôsto de consumo, relativo a produto industrializado saído do estabelecimento produtor diretamente para depósito em armazém geral, poderá ser recolhido, mediante guia especial, na quinzena imediatamente subseqüente à sua saída do armazém geral.\n\n§ 1° Para o transporte do produto até o armazém geral a que se destinar, o estabelecimento produtor remetente emitirá guia de trânsito, na forma do art. 54 da Lei n. 4.502, de 30 de novembro de 1964.\n\n§ 2º A emprêsa de armazém geral fica obrigada a manter escrituração que permita à repartição fiscal competente o contrôle da movimentação de produtos feita na forma supra, da qual constarão os tipos, quantidades, lotes, valôres, destinos e notas fiscais respectivas.\n\n§ 3º No verso do recibo de depósito, do warrant e da guia de trânsito emitidos para êstes fins, constará expressa referência ao presente artigo de lei e seus parágrafos.\n\n§ 4º Não terá aplicação êste artigo de lei nos casos do art. 26, incisos I e II, da Lei n. 4.502, de 30 de novembro de 1964.\n\n§ 5º O Departamento de Rendas Internas do Ministério da Fazenda expedirá as instruções e promoverá os formulários necessários ao cumprimento do presente dispositivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2070.%20O%20imp%C3%B4sto%20de%20consumo%2C%20relativo%20a%20produto%20industrializado%20sa%C3%ADdo%20do%20estabelecimento%20produtor%20diretamente%20para%20dep%C3%B3sito%20em%20armaz%C3%A9m%20geral%2C%20poder%C3%A1%20ser",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XV",
+        "section_name": "SEÇÃO XV"
+      },
+      "prev": "69",
+      "next": "71"
+    },
+    "71": {
+      "numero": "71",
+      "texto": "Art. 71. Não se aplicam aos títulos da Dívida Pública Federal, Estadual ou Municipal, as disposições do art. 1.509 e seu parágrafo único, do Código Civil ficando, conseqüentemente, a Fazenda Pública da União, dos Estados e dos Municípios, excluídas da formalidade de intimação prevista neste ou em quaisquer outros dispositivos legais reguladores do processo de recuperação de títulos ao portador, extraviados.\n\n§ 1° Os juros e as amortizações ou resgates dos títulos a que se refere êste artigo serão pagos, nas épocas próprias, pelas repartições competentes, à vista dos cupões respectivos, verificada a autenticidade dêstes e independentemente de outras formalidades.\n\n§ 2º Fica dispensada, para a caução de títulos ao portador, a certidão a que se refere a primeira parte da alínea a do § 1° do art. 860 do Regulamento Geral de Contabilidade Pública, ou outros documentos semelhantes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2071.%20N%C3%A3o%20se%20aplicam%20aos%20t%C3%ADtulos%20da%20D%C3%ADvida%20P%C3%BAblica%20Federal%2C%20Estadual%20ou%20Municipal%2C%20as%20disposi%C3%A7%C3%B5es%20do%20art.%201.509%20e%20seu%20par%C3%A1grafo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XV",
+        "section_name": "SEÇÃO XV"
+      },
+      "prev": "70",
+      "next": "72"
+    },
+    "72": {
+      "numero": "72",
+      "texto": "Art. 72. Ninguém poderá gravar ou produzir clichês, compor tipogràficamente, imprimir, fazer, reproduzir ou fabricar de qualquer forma, papéis representativos de ações ou cautelas, que os representem, ou títulos negociáveis de sociedades, sem autorização escrita e assinada pelos respectivos representantes legais, na quantidade autorizada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2072.%20Ningu%C3%A9m%20poder%C3%A1%20gravar%20ou%20produzir%20clich%C3%AAs%2C%20compor%20tipogr%C3%A0ficamente%2C%20imprimir%2C%20fazer%2C%20reproduzir%20ou%20fabricar%20de%20qualquer%20forma%2C%20pap%C3%A9is%20representativos%20de%20a%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XV",
+        "section_name": "SEÇÃO XV"
+      },
+      "prev": "71",
+      "next": "73"
+    },
+    "73": {
+      "numero": "73",
+      "texto": "Art. 73. Ninguém poderá fazer, imprimir ou fabricar ações de sociedades anônimas, ou cautelas que as representem, sem autorização escrita e assinada pela respectiva representação legal da sociedade, com firmas reconhecidas.\n\n§ 1º Ninguém poderá fazer, imprimir ou fabricar prospectos ou qualquer material de propaganda para venda de ações de sociedade anônima, sem autorização dada pela respectiva representação legal da sociedade.\n\n§ 2º A violação de qualquer dos dispositivos constituirá crime de ação pública, punido com pena de 1 a 3 anos de detenção, recaindo a responsabilidade, quando se tratar de pessoa jurídica, em todos os seus diretores.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2073.%20Ningu%C3%A9m%20poder%C3%A1%20fazer%2C%20imprimir%20ou%20fabricar%20a%C3%A7%C3%B5es%20de%20sociedades%20an%C3%B4nimas%2C%20ou%20cautelas%20que%20as%20representem%2C%20sem%20autoriza%C3%A7%C3%A3o%20escrita%20e%20assinada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XV",
+        "section_name": "SEÇÃO XV"
+      },
+      "prev": "72",
+      "next": "74"
+    },
+    "74": {
+      "numero": "74",
+      "texto": "Art. 74. Quem colocar no mercado ações de sociedade anônima ou cautelas que a representem, falsas ou falsificadas, responderá por delito de ação publica, e será punido com pena de (um) a 4 (quatro) anos de reclusão. (Redação dada pela Lei nº 5.589, de 1970)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2074.%20Quem%20colocar%20no%20mercado%20a%C3%A7%C3%B5es%20de%20sociedade%20an%C3%B4nima%20ou%20cautelas%20que%20a%20representem%2C%20falsas%20ou%20falsificadas%2C%20responder%C3%A1%20por%20delito%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XV",
+        "section_name": "SEÇÃO XV"
+      },
+      "prev": "73",
+      "next": "75"
+    },
+    "75": {
+      "numero": "75",
+      "texto": "Art. 75. O contrato de câmbio, desde que protestado por oficial competente para o protesto de títulos, constitui instrumento bastante para requerer a ação executiva.\n\n§ 1° Por esta via, o credor haverá a diferença entre a taxa de câmbio do contrato e a da data em que se efetuar o pagamento, conforme cotação fornecida pelo Banco Central, acrescida dos juros de mora.\n\n§ 2º Pelo mesmo rito, serão processadas as ações para cobrança dos adiantamentos feitos pelas instituições financeiras aos exportadores, por conta do valor do contrato de câmbio, desde que as importâncias correspondentes estejam averbadas no contrato, com anuência do vendedor.\n\n§ 3º No caso de falência ou concordata, o credor poderá pedir a restituição das importâncias adiantadas, a que se refere o parágrafo anterior.\n\n§ 4o As importâncias adiantadas na forma do § 2o deste artigo serão destinadas na hipótese de falência, liquidação extrajudicial ou intervenção em instituição financeira, ao pagamento das linhas de crédito comercial que lhes deram origem, nos termos e condições estabelecidos pelo Banco Central do Brasil. (Parágrafo incluído pela Lei nº 9.450, de 14.03.1997)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2075.%20O%20contrato%20de%20c%C3%A2mbio%2C%20desde%20que%20protestado%20por%20oficial%20competente%20para%20o%20protesto%20de%20t%C3%ADtulos%2C%20constitui%20instrumento%20bastante%20para%20requerer",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XV",
+        "section_name": "SEÇÃO XV"
+      },
+      "prev": "74",
+      "next": "76"
+    },
+    "76": {
+      "numero": "76",
+      "texto": "Art. 76. O Conselho Monetário Nacional, quando entender aconselhável, em face de situação conjuntural da economia, poderá autorizar as companhias de seguro a aplicarem, em percentagens por êle fixadas, parte de suas reservas técnicas em letras de câmbio, ações de sociedades anônimas de capital aberto, e em quotas de fundos em condomínio de títulos ou valôres mobiliários.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2076.%20O%20Conselho%20Monet%C3%A1rio%20Nacional%2C%20quando%20entender%20aconselh%C3%A1vel%2C%20em%20face%20de%20situa%C3%A7%C3%A3o%20conjuntural%20da%20economia%2C%20poder%C3%A1%20autorizar%20as%20companhias%20de%20seguro",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XV",
+        "section_name": "SEÇÃO XV"
+      },
+      "prev": "75",
+      "next": "77"
+    },
+    "77": {
+      "numero": "77",
+      "texto": "Art. 77. Os contribuintes em débito para com a Fazenda Nacional, em decorrência do não pagamento do impôsto do sêlo federal, incidente sôbre contratos ou quaisquer outros atos jurídicos em que tenham sido parte ou interveniente a União, os Estados, os Municípios, o Distrito Federal, os Territórios, e suas autarquias, levados a efeito anteriormente à Lei n. 4.388, de 28 de agôsto de 1964, poderão, dentro do prazo de 30 (trinta) dias, a contar da publicação desta Lei, recolher aos cofres federais o impôsto devido, isentos de qualquer penalidade ou correção monetária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2077.%20Os%20contribuintes%20em%20d%C3%A9bito%20para%20com%20a%20Fazenda%20Nacional%2C%20em%20decorr%C3%AAncia%20do%20n%C3%A3o%20pagamento%20do%20imp%C3%B4sto%20do%20s%C3%AAlo%20federal%2C%20incidente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XV",
+        "section_name": "SEÇÃO XV"
+      },
+      "prev": "76",
+      "next": "78"
+    },
+    "78": {
+      "numero": "78",
+      "texto": "Art. 78. A alínea i do art. 20 do Decreto-lei n. 2.627, de 26 de setembro de 1940, passa a vigorar com a seguinte redação:\n\n\"i) as assinaturas de 2 (dois) diretores, se a emprêsa possuir mais de 1 (um), ou as de dois procuradores com poderes especiais, cujos mandatos devem ser prèviamente registrados na Bôlsa de Valôres em que a sociedade seja inscrita, juntamente com os respectivos fac similes de assinaturas\".",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2078.%20A%20al%C3%ADnea%20i%20do%20art.%2020%20do%20Decreto-lei%20n.%202.627%2C%20de%2026%20de%20setembro%20de%201940%2C%20passa%20a%20vigorar%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XV",
+        "section_name": "SEÇÃO XV"
+      },
+      "prev": "77",
+      "next": "79"
+    },
+    "79": {
+      "numero": "79",
+      "texto": "Art. 79. O art. 21 do Decreto-lei n. 2.627, de 26 de setembro de 1940, é acrescido do seguinte parágrafo: \"Parágrafo único. Nenhuma ação ou título que a represente poderá ostentar valor nominal inferior a Cr$1.000 (um mil cruzeiros)\".",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2079.%20O%20art.%2021%20do%20Decreto-lei%20n.%202.627%2C%20de%2026%20de%20setembro%20de%201940%2C%20%C3%A9%20acrescido%20do%20seguinte%20par%C3%A1grafo%3A%20%22Par%C3%A1grafo%20%C3%BAnico.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XV",
+        "section_name": "SEÇÃO XV"
+      },
+      "prev": "78",
+      "next": "80"
+    },
+    "80": {
+      "numero": "80",
+      "texto": "Art. 80. É fixado o prazo máximo de 12 (doze) meses, a contar da data da publicação desta Lei, para que as companhias ou sociedades anônimas cujas ações ou títulos que as representem tenham o valor nominal inferior a Cr$1.000 (um mil cruzeiros) providenciem o reajustamento delas para êste valor, através da necessária modificação estatutária, sob pena de não terem os seus títulos admitidos à cotação nas Bôlsas de Valôres.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2080.%20%C3%89%20fixado%20o%20prazo%20m%C3%A1ximo%20de%2012%20%28doze%29%20meses%2C%20a%20contar%20da%20data%20da%20publica%C3%A7%C3%A3o%20desta%20Lei%2C%20para%20que%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XV",
+        "section_name": "SEÇÃO XV"
+      },
+      "prev": "79",
+      "next": "81"
+    },
+    "81": {
+      "numero": "81",
+      "texto": "Art. 81. Os Membros dos Conselhos Administrativos das Caixas Econômicas Federais nos Estados serão nomeados pelo Presidente da República, escolhidos entre brasileiros de ilibada reputação e notória capacidade em assuntos administrativos ou econômico-financeiros, com o mandato de 5 (cinco) anos, podendo ser reconduzidos.\n\nParágrafo único. As nomeações de que trata o artigo anterior, bem como as designações dos Presidentes dos respectivos Conselhos, também pelo Presidente da República, independerão da aprovação do Senado Federal, prevista no § 2° do art. 22 da Lei n. 4.595, de 31 de dezembro de 1964.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2081.%20Os%20Membros%20dos%20Conselhos%20Administrativos%20das%20Caixas%20Econ%C3%B4micas%20Federais%20nos%20Estados%20ser%C3%A3o%20nomeados%20pelo%20Presidente%20da%20Rep%C3%BAblica%2C%20escolhidos%20entre%20brasileiros",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XV",
+        "section_name": "SEÇÃO XV"
+      },
+      "prev": "80",
+      "next": "82"
+    },
+    "82": {
+      "numero": "82",
+      "texto": "Art. 82. Até que sejam expedidos os Títulos da Dívida Agrária, criados pelo art. 105 da Lei n. 4.504 , de 30 de novembro de 1964, poderá o Poder Executivo, para os fins previstos naquela Lei, se utilizar das Obrigações do Tesouro Nacional - Tipo Reajustável, criadas pela Lei n. 4.357, de 16 de julho de 1964.\n\nParágrafo único. As condições e vantagens asseguradas aos Títulos da Dívida Agrária serão atribuídas às Obrigações do Tesouro Nacional - Tipo Reajustável, emitidas na forma dêste artigo, e constarão obrigatòriamente dos respectivos certificados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2082.%20At%C3%A9%20que%20sejam%20expedidos%20os%20T%C3%ADtulos%20da%20D%C3%ADvida%20Agr%C3%A1ria%2C%20criados%20pelo%20art.%20105%20da%20Lei%20n.%204.504%20%2C%20de%2030",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XV",
+        "section_name": "SEÇÃO XV"
+      },
+      "prev": "81",
+      "next": "83"
+    },
+    "83": {
+      "numero": "83",
+      "texto": "Art. 83. A presente Lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2083.%20A%20presente%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XV",
+        "section_name": "SEÇÃO XV"
+      },
+      "prev": "82",
+      "next": "84"
+    },
+    "84": {
+      "numero": "84",
+      "texto": "Art. 84. Revogam-se as disposições em contrário.\n\nBrasília, 14 de julho de 1965; 144º da Independência e 77º da República.\n\nH. CASTELLO BRANCO Presidente da República\n\nEste texto não substitui o publicada no D.O.U. de 16.7.65 e retificado em 16.8.1965.\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4728compilado.htm#:~:text=Art.%2084.%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": "XV",
+        "section_name": "SEÇÃO XV"
+      },
+      "prev": "83",
+      "next": null
+    }
+  }
+}

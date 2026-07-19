@@ -1,0 +1,799 @@
+{
+  "_meta": {
+    "codigo": "L4886",
+    "nome": "Representação Comercial",
+    "lei": "Lei 4.886/1965",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm",
+    "total_artigos": 49,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art . 1º Exerce a representação comercial autônoma a pessoa jurídica ou a pessoa física, sem relação de emprêgo, que desempenha, em caráter não eventual por conta de uma ou mais pessoas, a mediação para a realização de negócios mercantis, agenciando propostas ou pedidos, para, transmití-los aos representados, praticando ou não atos relacionados com a execução dos negócios.\n\nParágrafo único. Quando a representação comercial incluir podêres atinentes ao mandato mercantil, serão aplicáveis, quanto ao exercício dêste, os preceitos próprios da legislação comercial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%201%C2%BA%20Exerce%20a%20representa%C3%A7%C3%A3o%20comercial%20aut%C3%B4noma%20a%20pessoa%20jur%C3%ADdica%20ou%20a%20pessoa%20f%C3%ADsica%2C%20sem%20rela%C3%A7%C3%A3o%20de%20empr%C3%AAgo%2C%20que%20desempenha%2C%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art . 2º É obrigatório o registro dos que exerçam a representação comercial autônoma nos Conselhos Regionais criados pelo art. 6º desta Lei.\n\nParágrafo único. As pessoas que, na data da publicação da presente Lei, estiverem no exercício da atividade, deverão registrar-se nos Conselhos Regionais, no prazo de 90 dias a contar da data em que êstes forem instalados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%202%C2%BA%20%C3%89%20obrigat%C3%B3rio%20o%20registro%20dos%20que%20exer%C3%A7am%20a%20representa%C3%A7%C3%A3o%20comercial%20aut%C3%B4noma%20nos%20Conselhos%20Regionais%20criados%20pelo%20art.%206%C2%BA%20desta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art . 3º O candidato a registro, como representante comercial, deverá apresentar:\n\na) prova de identidade;\n\nb) prova de quitação com o serviço militar, quando a êle obrigado;\n\nc) prova de estar em dia com as exigências da legislação eleitoral;\n\nd) fôlha-corrida de antecedentes, expedida pelos cartórios criminais das comarcas em que o registrado houver sido domiciliado nos últimos dez (10) anos;\n\ne) quitação com o impôsto sindical.\n\n§ 1º O estrangeiro é desobrigado da apresentação dos documentos constantes das alíneas b e c dêste artigo.\n\n§ 2 Nos casos de transferência ou de exercício simultâneo da profissão, em mais de uma região, serão feitas as devidas anotações na carteira profissional do interessado, pelos respectivos Conselhos Regionais.\n\n§ 3º As pessoas jurídicas deverão fazer prova de sua existência legal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%203%C2%BA%20O%20candidato%20a%20registro%2C%20como%20representante%20comercial%2C%20dever%C3%A1%20apresentar%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art . 4º Não pode ser representante comercial:\n\na) o que não pode ser comerciante;\n\nb) o falido não reabilitado;\n\nc) o que tenha sido condenado por infração penal de natureza infamante, tais como falsidade, estelionato, apropriação indébita, contrabando, roubo, furto, lenocínio ou crimes também punidos com a perda de cargo público;\n\nd) o que estiver com seu registro comercial cancelado como penalidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%204%C2%BA%20N%C3%A3o%20pode%20ser%20representante%20comercial%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art . 5º Sòmente será devida remuneração, como mediador de negócios comerciais, a representante comercial devidamente registrado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%205%C2%BA%20S%C3%B2mente%20ser%C3%A1%20devida%20remunera%C3%A7%C3%A3o%2C%20como%20mediador%20de%20neg%C3%B3cios%20comerciais%2C%20a%20representante%20comercial%20devidamente%20registrado.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art . 6º São criados o Conselho Federal e os Conselhos Regionais dos Representantes Comerciais, aos quais incumbirá a fiscalização do exercício da profissão, na forma desta Lei.\n\nParágrafo único. É vedado, aos Conselhos Federal e Regionais dos Representantes Comerciais, desenvolverem quaisquer atividades não compreendidas em suas finalidades previstas nesta Lei, inclusive as de caráter político e partidárias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%206%C2%BA%20S%C3%A3o%20criados%20o%20Conselho%20Federal%20e%20os%20Conselhos%20Regionais%20dos%20Representantes%20Comerciais%2C%20aos%20quais%20incumbir%C3%A1%20a%20fiscaliza%C3%A7%C3%A3o%20do%20exerc%C3%ADcio",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art . 7º O Conselho Federal instalar-se-á dentro de noventa (90) dias, a contar da vigência da presente Lei, no Estado da Guanabara, onde funcionará provisòriamente, transferindo-se para a Capital da República, quando estiver em condições de fazê-lo, a juízo da maioria dos Conselhos Regionais.\n\n§ 1º O Conselho Federal será presidido por um dos seus membros, na forma que dispuser o regimento interno do Conselho, cabendo lhe, além do próprio voto, o de qualidade, no caso de empate.\n\n§ 2º A renda do Conselho Federal será constituída de vinte por cento (20%) da renda bruta dos Conselhos Regionais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%207%C2%BA%20O%20Conselho%20Federal%20instalar-se-%C3%A1%20dentro%20de%20noventa%20%2890%29%20dias%2C%20a%20contar%20da%20vig%C3%AAncia%20da%20presente%20Lei%2C%20no%20Estado%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art . 8º O Conselho Federal será composto de representantes comerciais de cada Estado, eleitos pelos Conselhos Regionais, dentre seus membros, cabendo a cada Conselho Regional a escolha de dois (2) delegados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%208%C2%BA%20O%20Conselho%20Federal%20ser%C3%A1%20composto%20de%20representantes%20comerciais%20de%20cada%20Estado%2C%20eleitos%20pelos%20Conselhos%20Regionais%2C%20dentre%20seus%20membros%2C%20cabendo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art . 9º Compete ao Conselho Federal determinar o número dos Conselhos Regionais, o qual não poderá ser superior a um por Estado, Território Federal e Distrito Federal, e estabelecer-lhes as bases territoriais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%209%C2%BA%20Compete%20ao%20Conselho%20Federal%20determinar%20o%20n%C3%BAmero%20dos%20Conselhos%20Regionais%2C%20o%20qual%20n%C3%A3o%20poder%C3%A1%20ser%20superior%20a%20um%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art . 10. Compete privativamente, ao Conselho Federal:\n\nParágrafo único. Das decisões do Conselho Federal caberá recurso, sem efeito suspensivo, no prazo de trinta dias, para o Ministro da Indústria e do Comércio. (Suprimido)\n\nI - elaborar o seu regimento interno; (Renumerado pela Lei nº 12.246, de 2010).\n\nII - dirimir as dúvidas suscitadas pelos Conselhos Regionais; (Renumerado pela Lei nº 12.246, de 2010).\n\nIII - aprovar os regimentos internos dos Conselhos Regionais; (Renumerado pela Lei nº 12.246, de 2010).\n\nIV - julgar quaisquer recursos relativos às decisões dos Conselhos Regionais; (Renumerado pela Lei nº 12.246, de 2010).\n\nV - baixar instruções para a fiel observância da presente Lei; (Renumerado pela Lei nº 12.246, de 2010).\n\nVI - elaborar o Código de Ética Profissional; (Renumerado pela Lei nº 12.246, de 2010).\n\nVII - resolver os casos omissos. (Renumerado pela Lei nº 12.246, de 2010).\n\nVIII – fixar, mediante resolução, os valores das anuidades e emolumentos devidos pelos representantes comerciais, pessoas físicas e jurídicas, aos Conselhos Regionais dos Representantes Comerciais nos quais estejam registrados, observadas as peculiaridades regionais e demais situações inerentes à capacidade contributiva da categoria profissional nos respectivos Estados e necessidades de cada entidade, e respeitados os seguintes limites máximos: (Incluído pela Lei nº 12.246, de 2010).\n\na) anuidade para pessoas físicas – até R$ 300,00 (trezentos reais); (Incluído pela Lei nº 12.246, de 2010).\n\nb) (VETADO); (Incluído pela Lei nº 12.246, de 2010).\n\nc) anuidade para pessoas jurídicas, de acordo com as seguintes classes de capital social: (Incluído pela Lei nº 12.246, de 2010).\n\n1. de R$ 1,00 (um real) a R$ 10.000,00 (dez mil reais) – até R$ 350,00 (trezentos e cinquenta reais); (Incluído pela Lei nº 12.246, de 2010).\n\n2. de R$ 10.000,01 (dez mil reais e um centavo) a R$ 50.000,00 (cinquenta mil reais) – até R$ 420,00 (quatrocentos e vinte reais); (Incluído pela Lei nº 12.246, de 2010).\n\n3. de R$ 50.000,01 (cinquenta mil reais e um centavo) a R$ 100.000,00 (cem mil reais) – até R$ 504,00 (quinhentos e quatro reais); (Incluído pela Lei nº 12.246, de 2010).\n\n4. de R$ 100.000,01 (cem mil reais e um centavo) a R$ 300.000,00 (trezentos mil reais) – até R$ 604,00 (seiscentos e quatro reais); (Incluído pela Lei nº 12.246, de 2010).\n\n5. de R$ 300.000,01 (trezentos mil reais e um centavo) a R$ 500.000,00 (quinhentos mil reais) – até R$ 920,00 (novecentos e vinte reais); (Incluído pela Lei nº 12.246, de 2010).\n\n6. acima de R$ 500.000,00 (quinhentos mil reais) – até R$ 1.370,00 (mil, trezentos e setenta reais); (Incluído pela Lei nº 12.246, de 2010).\n\nd) (VETADO); (Incluído pela Lei nº 12.246, de 2010).\n\ne) (VETADO). (Incluído pela Lei nº 12.246, de 2010).\n\n§ 1o (Suprimido) (Incluído pela Lei nº 12.246, de 2010).\n\n§ 2o Os valores correspondentes aos limites máximos estabelecidos neste artigo serão corrigidos anualmente pelo índice oficial de preços ao consumidor. (Incluído pela Lei nº 12.246, de 2010).\n\n§ 3o O pagamento da anuidade será efetuado pelo representante comercial, pessoa física ou jurídica, até o dia 31 de março de cada ano, com desconto de 10% (dez por cento), ou em até 3 (três) parcelas, sem descontos, vencendo-se a primeira em 30 de abril, a segunda em 31 de agosto e a terceira em 31 de dezembro de cada ano. (Incluído pela Lei nº 12.246, de 2010).\n\n§ 4o Ao pagamento antecipado será concedido desconto de 20% (vinte por cento) até 31 de janeiro e 15% (quinze por cento) até 28 de fevereiro de cada ano. (Incluído pela Lei nº 12.246, de 2010).\n\n§ 5o As anuidades que forem pagas após o vencimento serão acrescidas de 2% (dois por cento) de multa, 1% (um por cento) de juros de mora por mês de atraso e atualização monetária pelo índice oficial de preços ao consumidor. (Incluído pela Lei nº 12.246, de 2010).\n\n§ 6o A filial ou representação de pessoa jurídica instalada em jurisdição de outro Conselho Regional que não o da sua sede pagará anuidade em valor que não exceda a 50% (cinquenta por cento) do que for pago pela matriz. (Incluído pela Lei nº 12.246, de 2010).\n\n§ 7o (VETADO) (Incluído pela Lei nº 12.246, de 2010).\n\n§ 8o (VETADO) (Incluído pela Lei nº 12.246, de 2010).\n\n§ 9o O representante comercial pessoa física, como responsável técnico de pessoa jurídica devidamente registrada no Conselho Regional dos Representantes Comerciais, pagará anuidade em valor correspondente a 50% (cinquenta por cento) da anuidade devida pelos demais profissionais autônomos registrados no mesmo Conselho. (Incluído pela Lei nº 12.246, de 2010).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2010.%20Compete%20privativamente%2C%20ao%20Conselho%20Federal%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art . 11. Dentro de sessenta (60) dias, contados da vigência da presente Lei, serão instalados os Conselhos Regionais correspondentes aos Estados onde existirem órgãos sindicais de representação da classe dos representantes comerciais, atualmente reconhecidos pelo Ministério do Trabalho e Previdência Social.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2011.%20Dentro%20de%20sessenta%20%2860%29%20dias%2C%20contados%20da%20vig%C3%AAncia%20da%20presente%20Lei%2C%20ser%C3%A3o%20instalados%20os%20Conselhos%20Regionais%20correspondentes%20aos%20Estados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art . 12. Os Conselhos Regionais terão a seguinte composição:\n\na) dois têrços (2/3) de seus membros serão constituídos pelo Presidente do mais antigo sindicato da classe do respectivo Estado e por diretores de sindicatos da classe, do mesmo Estado, eleitos êstes em assembléia-geral;\n\nb) um têrço (1/3) formado de representantes comerciais no exercício efetivo da profissão, eleitos em assembléia-geral realizada no sindicato da classe.\n\n§ 1º A secretaria do sindicato incumbido da realização das eleições organizará cédula única, por ordem alfabética dos candidatos, destinada à votação.\n\n§ 2º Se os órgãos sindicais de representação da classe não tomarem as providências previstas quanto à instalação dos Conselhos Regionais, o Conselho Federal determinará, imediatamente, a sua constituição, mediante eleições em assembléia-geral, com a participação dos representantes comerciais no exercício efetivo da profissão no respectivo Estado.\n\n§ 3º Havendo, num mesmo Estado, mais de um sindicato de representantes comerciais, as eleições a que se refere êste artigo se processarão na sede do sindicato da classe situado na Capital e, na sua falta, na sede do mais antigo.\n\n§ 4º O Conselho Regional será presidido por um dos seus membros, na forma que dispuser o seu regimento interno, cabendo-lhe, além do próprio voto, o de qualidade, no caso de empate.\n\n§ 5º Os Conselhos Regionais terão no máximo trinta (30) membros e, no mínimo, o número que fôr fixado pelo Conselho Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2012.%20Os%20Conselhos%20Regionais%20ter%C3%A3o%20a%20seguinte%20composi%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art . 13. Os mandatos dos membros do Conselho Federal e dos Conselhos Regionais serão de três (3) anos.\n\n§ 1º Todos os mandatos serão exercidos gratuitamente.\n\n§ 2º A aceitação do cargo de Presidente, Secretário ou Tesoureiro importará na obrigação de residir na localidade em que estiver sediado o respectivo Conselho.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2013.%20Os%20mandatos%20dos%20membros%20do%20Conselho%20Federal%20e%20dos%20Conselhos%20Regionais%20ser%C3%A3o%20de%20tr%C3%AAs%20%283%29%20anos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art . 14. O Conselho Federal e os Conselhos Regionais serão administrados por uma Diretoria que não poderá exceder a um têrço (1/3) dos seus integrantes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2014.%20O%20Conselho%20Federal%20e%20os%20Conselhos%20Regionais%20ser%C3%A3o%20administrados%20por%20uma%20Diretoria%20que%20n%C3%A3o%20poder%C3%A1%20exceder%20a%20um%20t%C3%AAr%C3%A7o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art . 15. Os Presidentes dos Conselhos Federal e Regionais completarão o prazo do seu mandato, caso sejam substituídos na presidência do sindicato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2015.%20Os%20Presidentes%20dos%20Conselhos%20Federal%20e%20Regionais%20completar%C3%A3o%20o%20prazo%20do%20seu%20mandato%2C%20caso%20sejam%20substitu%C3%ADdos%20na%20presid%C3%AAncia%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art . 16. Constituem renda dos Conselhos Regionais as contribuições e multas devidas pelos representantes comerciais, pessoas físicas ou jurídicas, nêles registrados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2016.%20Constituem%20renda%20dos%20Conselhos%20Regionais%20as%20contribui%C3%A7%C3%B5es%20e%20multas%20devidas%20pelos%20representantes%20comerciais%2C%20pessoas%20f%C3%ADsicas%20ou%20jur%C3%ADdicas%2C%20n%C3%AAles%20registrados.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art . 17. Compete aos Conselhos Regionais:\n\na) elaborar o seu regimento interno, submetendo-o à apreciação do Conselho Federal;\n\nb) decidir sôbre os pedidos de registro de representantes comerciais, pessoas físicas ou jurídicas, na conformidade desta Lei; c) manter o cadastro profissional;\n\nd) expedir as carteiras profissionais e anotá-las, quando necessário;\n\ne) impor as sanções disciplinares previstas nesta Lei, mediante a feitura de processo adequado, de acôrdo com o disposto no artigo 18;\n\nf) fixar as contribuições e emolumentos que serão devidos pelos representantes comerciais, pessoas físicas ou jurídicas, registrados.\n\nf) arrecadar, cobrar e executar as anuidades e emolumentos devidos pelos representantes comerciais, pessoas físicas e jurídicas, registrados, servindo como título executivo extrajudicial a certidão relativa aos seus créditos. (Redação dada pela Lei nº 12.246, de 2010).\n\nParágrafo único. As contribuições e emolumentos, previstos na alínea \"f\" dêste artigo, não poderão exceder, mensalmente, de cinco (5) e dez por cento (10%) do salário-mínimo vigente na região, quando se tratar, respectivamente, de representante comercial, pessoa física ou pessoa jurídica. (Suprimido)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2017.%20Compete%20aos%20Conselhos%20Regionais%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art . 18. Compete aos Conselhos Regionais aplicar, ao representante comercial faltoso, as seguintes penas disciplinares:\n\na) advertência, sempre sem publicidade;\n\nb) multa até a importância equivalente ao maior salário-minino vigente no País;\n\nc) suspensão do exercício profissional, até um (1) ano;\n\nd) cancelamento do registro, com apreensão da carteira profissional.\n\n§ 1º No caso de reincidência ou de falta manifestamente grave, o representante comercial poderá ser suspenso do exercício de sua atividade ou ter cancelado o seu registro.\n\n§ 2º As penas disciplinares serão aplicadas após processo regular, sem prejuízo, quando couber, da responsabilidade civil ou criminal.\n\n§ 3º O acusado deverá ser citado, inicialmente, dando-se-lhe ciência do inteiro teor da denúncia ou queixa, sendo-lhe assegurado, sempre, o amplo direito de defesa, por si ou por procurador regularmente constituído.\n\n§ 4º O processo disciplinar será presidido por um dos membros do Conselho Regional, ao qual incumbirá coligir as provas necessárias.\n\n§ 5º Encerradas as provas de iniciativa da autoridade processante, ao acusado será dado requerer e produzir as suas próprias provas, após o que lhe será assegurado a direito de apresentar, por escrito, defesa final e o de sustentar, oralmente, suas razões, na sessão do julgamento.\n\n§ 6º Da decisão dos Conselhos Regionais caberá recurso voluntário, com efeito suspensivo, para o Conselho Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2018.%20Compete%20aos%20Conselhos%20Regionais%20aplicar%2C%20ao%20representante%20comercial%20faltoso%2C%20as%20seguintes%20penas%20disciplinares%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art . 19. Constituem faltas no exercício da profissão de representante comercial:\n\na) prejudicar, por dolo ou culpa, os interêsses confiados aos seus cuidados;\n\nb) auxiliar ou facilitar, por qualquer meio, o exercício da profissão aos que estiverem proibidos, impedidos ou não habilitados a exercê-la;\n\nc) promover ou facilitar negócios ilícitos, bem como quaisquer transações que prejudiquem interêsse da Fazenda Pública;\n\nd) violar o sigilo profissional;\n\ne) negar ao representado as competentes prestações de contas, recibos de quantias ou documentos que lhe tiverem sido entregues, para qualquer fim;\n\nf) recusar a apresentação da carteira profissional, quando solicitada por quem de direito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2019.%20Constituem%20faltas%20no%20exerc%C3%ADcio%20da%20profiss%C3%A3o%20de%20representante%20comercial%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art . 20. Observados os princípios desta Lei, o Conselho Federal dos Representantes Comerciais, expedirá instruções relativas à aplicação das penalidades em geral e, em particular, aos casos em que couber imposições da pena de multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2020.%20Observados%20os%20princ%C3%ADpios%20desta%20Lei%2C%20o%20Conselho%20Federal%20dos%20Representantes%20Comerciais%2C%20expedir%C3%A1%20instru%C3%A7%C3%B5es%20relativas%20%C3%A0%20aplica%C3%A7%C3%A3o%20das%20penalidades%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art . 21. As repartições federais, estaduais e municipais, ao receberem tributos relativos à atividade do representante comercial, pessoa física ou jurídica, exigirão prova de seu registro no Conselho Regional da respectiva região.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2021.%20As%20reparti%C3%A7%C3%B5es%20federais%2C%20estaduais%20e%20municipais%2C%20ao%20receberem%20tributos%20relativos%20%C3%A0%20atividade%20do%20representante%20comercial%2C%20pessoa%20f%C3%ADsica%20ou%20jur%C3%ADdica%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art . 22. Da propaganda deverá constar, obrigatòriamente, o número da carteira profissional.\n\nParágrafo único. As pessoas jurídicas farão constar também, da propaganda, além do número da carteira do representante comercial responsável, o seu próprio número de registro no Conselho Regional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2022.%20Da%20propaganda%20dever%C3%A1%20constar%2C%20obrigat%C3%B2riamente%2C%20o%20n%C3%BAmero%20da%20carteira%20profissional.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art . 23. O exercício financeiro dos Conselhos Federal e Regionais coincidirá com o ano civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2023.%20O%20exerc%C3%ADcio%20financeiro%20dos%20Conselhos%20Federal%20e%20Regionais%20coincidir%C3%A1%20com%20o%20ano%20civil.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art . 24. As Diretorias dos Conselhos Regionais prestarão contas da sua gestão ao próprio Conselho, até o último dia do mês de fevereiro de cada ano.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2024.%20As%20Diretorias%20dos%20Conselhos%20Regionais%20prestar%C3%A3o%20contas%20da%20sua%20gest%C3%A3o%20ao%20pr%C3%B3prio%20Conselho%2C%20at%C3%A9%20o%20%C3%BAltimo%20dia%20do%20m%C3%AAs",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art . 25. Os Conselhos Regionais prestarão contas até o último dia do mês de março de cada ano ao Conselho Federal. Parágrafo único. A Diretoria do Conselho Federal prestará contas, no mesmo prazo, ao respectivo plenário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2025.%20Os%20Conselhos%20Regionais%20prestar%C3%A3o%20contas%20at%C3%A9%20o%20%C3%BAltimo%20dia%20do%20m%C3%AAs%20de%20mar%C3%A7o%20de%20cada%20ano%20ao%20Conselho%20Federal.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art . 26. Os sindicatos incumbidos do processamento das eleições, a que se refere o art. 12, deverão tomar, dentro do prazo de trinta (30) dias, a contar da publicação desta lei, as providências necessárias à instalação dos Conselhos Regionais dentro do prazo previsto no art. 11.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2026.%20Os%20sindicatos%20incumbidos%20do%20processamento%20das%20elei%C3%A7%C3%B5es%2C%20a%20que%20se%20refere%20o%20art.%2012%2C%20dever%C3%A3o%20tomar%2C%20dentro%20do%20prazo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art . 27. Do contrato de representação comercial, quando celebrado por escrito, além dos elementos comuns e outros, a juízo dos interessados, constarão, obrigatòriamente:",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2027.%20Do%20contrato%20de%20representa%C3%A7%C3%A3o%20comercial%2C%20quando%20celebrado%20por%20escrito%2C%20al%C3%A9m%20dos%20elementos%20comuns%20e%20outros%2C%20a%20ju%C3%ADzo%20dos%20interessados%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art . 28. O representante comercial fica obrigado a fornecer ao representado, segundo as disposições do contrato ou, sendo êste omisso, quando lhe fôr solicitado, informações detalhadas sôbre o andamento dos negócios a seu cargo, devendo dedicar-se à representação, de modo a expandir os negócios do representado e promover os seus produtos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2028.%20O%20representante%20comercial%20fica%20obrigado%20a%20fornecer%20ao%20representado%2C%20segundo%20as%20disposi%C3%A7%C3%B5es%20do%20contrato%20ou%2C%20sendo%20%C3%AAste%20omisso%2C%20quando",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art . 29. Salvo autorização expressa, não poderá o representante conceder abatimentos, descontos ou dilações, nem agir em desacôrdo com as instruções do representado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2029.%20Salvo%20autoriza%C3%A7%C3%A3o%20expressa%2C%20n%C3%A3o%20poder%C3%A1%20o%20representante%20conceder%20abatimentos%2C%20descontos%20ou%20dila%C3%A7%C3%B5es%2C%20nem%20agir%20em%20desac%C3%B4rdo%20com%20as%20instru%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art . 30. Para que o representante possa exercer a representação em Juízo, em nome do representado, requer-se mandato expresso. Incumbir-lhe-á porém, tomar conhecimento das reclamações atinentes aos negócios, transmitindo-as ao representado e sugerindo as providências acauteladoras do interêsse dêste.\n\nParágrafo único. O representante, quanto aos atos que praticar, responde segundo as normas do contrato e, sendo êste omisso, na conformidade do direito comum.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2030.%20Para%20que%20o%20representante%20possa%20exercer%20a%20representa%C3%A7%C3%A3o%20em%20Ju%C3%ADzo%2C%20em%20nome%20do%20representado%2C%20requer-se%20mandato%20expresso.%20Incumbir-lhe-%C3%A1%20por%C3%A9m%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art . 31. Prevendo o contrato de representação a exclusividade de zona ou zonas, fará jus o representante à comissão pelos negócios aí realizados, ainda que diretamente pelo representado ou por intermédio de terceiros. Parágrafo único. A exclusividade de zona ou representações não se presume, na ausência de ajuste expresso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2031.%20Prevendo%20o%20contrato%20de%20representa%C3%A7%C3%A3o%20a%20exclusividade%20de%20zona%20ou%20zonas%2C%20far%C3%A1%20jus%20o%20representante%20%C3%A0%20comiss%C3%A3o%20pelos%20neg%C3%B3cios",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art . 32. O representante comercial adquire direito às comissões, logo que o comprador efetue o respectivo pagamento ou na medida que o faça, parceladamente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2032.%20O%20representante%20comercial%20adquire%20direito%20%C3%A0s%20comiss%C3%B5es%2C%20logo%20que%20o%20comprador%20efetue%20o%20respectivo%20pagamento%20ou%20na%20medida%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art . 33. Não sendo previstos, no contrato de representação, os prazos para recusa das propostas ou pedidos, que hajam sido entregues pelo representante, acompanhados dos requisitos exigíveis, ficará o representado obrigado a creditar-lhe a respectiva comissão, se não manifestar a recusa, por escrito, nos prazos de 15, 30, 60 ou 120 dias, conforme se trate de comprador domiciliado, respectivamente, na mesma praça, em outra do mesmo Estado, em outro Estado ou no estrangeiro.\n\n§ 1º Nenhuma retribuição será devida ao representante comercial, se a falta de pagamento resultar de insolvência do comprador, bem como se o negócio vier a ser por êle desfeito ou fôr sustada a entrega de mercadorias devido à situação comercial do comprador, capaz de comprometer ou tornar duvidosa a liquidação.\n\n§ 2º Salvo ajuste em contrário, as comissões devidas serão pagas mensalmente, expedindo o representado a conta respectiva, conforme cópias das faturas remetidas aos compradores, no respectivo período.\n\n§ 3° Os valores das comissões para efeito tanto do pré-aviso como da indenização, prevista nesta lei, deverão ser corrigidos monetariamente. (Incluído pela Lei nº 8.420, de 8.5.1992)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2033.%20N%C3%A3o%20sendo%20previstos%2C%20no%20contrato%20de%20representa%C3%A7%C3%A3o%2C%20os%20prazos%20para%20recusa%20das%20propostas%20ou%20pedidos%2C%20que%20hajam%20sido%20entregues",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art . 34. A denúncia, por qualquer das partes, sem causa justificada, do contrato de representação, ajustado por tempo indeterminado e que haja vigorado por mais de seis meses, obriga o denunciante, salvo outra garantia prevista no contrato, à concessão de pré-aviso, com antecedência mínima de trinta dias, ou ao pagamento de importância igual a um têrço (1/3) das comissões auferidas pelo representante, nos três meses anteriores.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2034.%20A%20den%C3%BAncia%2C%20por%20qualquer%20das%20partes%2C%20sem%20causa%20justificada%2C%20do%20contrato%20de%20representa%C3%A7%C3%A3o%2C%20ajustado%20por%20tempo%20indeterminado%20e%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art . 35. Constituem motivos justos para rescisão do contrato de representação comercial, pelo representado:\n\na) a desídia do representante no cumprimento das obrigações decorrentes do contrato;\n\nb) a prática de atos que importem em descrédito comercial do representado;\n\nc) a falta de cumprimento de quaisquer obrigações inerentes ao contrato de representação comercial;\n\nd) a condenação definitiva por crime considerado infamante;\n\ne) fôrça maior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2035.%20Constituem%20motivos%20justos%20para%20rescis%C3%A3o%20do%20contrato%20de%20representa%C3%A7%C3%A3o%20comercial%2C%20pelo%20representado%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art . 36. Constituem motivos justos para rescisão do contrato de representação comercial, pelo representante:\n\na) redução de esfera de atividade do representante em desacôrdo com as cláusulas do contrato;\n\nb) a quebra, direta ou indireta, da exclusividade, se prevista no contrato;\n\nc) a fixação abusiva de preços em relação à zona do representante, com o exclusivo escopo de impossibilitar-lhe ação regular;\n\nd) o não-pagamento de sua retribuição na época devida;\n\ne) fôrça maior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2036.%20Constituem%20motivos%20justos%20para%20rescis%C3%A3o%20do%20contrato%20de%20representa%C3%A7%C3%A3o%20comercial%2C%20pelo%20representante%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art . 37. Sòmente ocorrendo motivo justo para a rescisão do contrato, poderá o representado reter comissões devidas ao representante, com o fim de ressarcir-se de danos por êste causados e, bem assim, nas hipóteses previstas no art. 35, a título de compensação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2037.%20S%C3%B2mente%20ocorrendo%20motivo%20justo%20para%20a%20rescis%C3%A3o%20do%20contrato%2C%20poder%C3%A1%20o%20representado%20reter%20comiss%C3%B5es%20devidas%20ao%20representante%2C%20com%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art . 38. Não serão prejudicados os direitos dos representantes comerciais quando, a título de cooperação, desempenhem, temporàriamente, a pedido do representado, encargos ou atribuições diversos dos previstos no contrato de representação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2038.%20N%C3%A3o%20ser%C3%A3o%20prejudicados%20os%20direitos%20dos%20representantes%20comerciais%20quando%2C%20a%20t%C3%ADtulo%20de%20coopera%C3%A7%C3%A3o%2C%20desempenhem%2C%20tempor%C3%A0riamente%2C%20a%20pedido%20do%20representado%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art . 39. Para julgamento das controvérsias que surgirem entre representante e representado, é competente a Justiça Comum.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2039.%20Para%20julgamento%20das%20controv%C3%A9rsias%20que%20surgirem%20entre%20representante%20e%20representado%2C%20%C3%A9%20competente%20a%20Justi%C3%A7a%20Comum.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art . 40. Dentro de cento e oitenta (180) dias da publicação da presente lei, serão formalizadas, entre representado e representantes, em documento escrito, as condições das representações comerciais vigentes.\n\nParágrafo único. A indenização devida pela rescisão dos contratos de representação comercial vigentes na data desta lei, fora dos casos previstos no art. 35, e quando as partes não tenham usado da faculdade prevista neste artigo, será calculada, sôbre a retribuição percebida, pelo representante, no últimos cinco anos anteriores à vigência desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2040.%20Dentro%20de%20cento%20e%20oitenta%20%28180%29%20dias%20da%20publica%C3%A7%C3%A3o%20da%20presente%20lei%2C%20ser%C3%A3o%20formalizadas%2C%20entre%20representado%20e%20representantes%2C%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art . 41. Compete ao Ministério da Indústria e do Comércio fiscalizar a execução da presente lei. § 1º Em caso de inobservância das prescrições legais, caberá intervenção nos Conselhos Federal e Regionais, por ato do Ministro da Indústria e do Comércio. § 2º A intervenção restringir-se-á a tornar efetivo o cumprimento da lei e cessará quando assegurada a sua execução. (Suprimido)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2041.%20Compete%20ao%20Minist%C3%A9rio%20da%20Ind%C3%BAstria%20e%20do%20Com%C3%A9rcio%20fiscalizar%20a%20execu%C3%A7%C3%A3o%20da%20presente%20lei.%20%C2%A7%201%C2%BA%20Em%20caso%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. Observadas as disposições constantes do artigo anterior, é facultado ao representante contratar com outros representantes comerciais a execução dos serviços relacionados com a representação. (Incluído pela Lei nº 8.420, de 8.5.1992)\n\n§ 1° Na hipótese deste artigo, o pagamento das comissões a representante comercial contratado dependerá da liquidação da conta de comissão devida pelo representando ao representante contratante. (Incluído pela Lei nº 8.420, de 8.5.1992)\n\n§ 2° Ao representante contratado, no caso de rescisão de representação, será devida pelo representante contratante a participação no que houver recebido da representada a título de indenização e aviso prévio, proporcionalmente às retribuições auferidas pelo representante contratado na vigência do contrato. (Incluído pela Lei nº 8.420, de 8.5.1992)\n\n§ 3° Se o contrato referido no caput deste artigo for rescindido sem motivo justo pelo representante contratante, o representante contratado fará jus ao aviso prévio e indenização na forma da lei. (Incluído pela Lei nº 8.420, de 8.5.1992)\n\n§ 4° Os prazos de que trata o art. 33 desta lei são aumentados em dez dias quando se tratar de contrato realizado entre representantes comerciais. (Incluído pela Lei nº 8.420, de 8.5.1992)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art.%2042.%20Observadas%20as%20disposi%C3%A7%C3%B5es%20constantes%20do%20artigo%20anterior%2C%20%C3%A9%20facultado%20ao%20representante%20contratar%20com%20outros%20representantes%20comerciais%20a%20execu%C3%A7%C3%A3o%20dos%20servi%C3%A7os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. É vedada no contrato de representação comercial a inclusão de cláusulas del credere. (Incluído pela Lei nº 8.420, de 8.5.1992)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art.%2043.%20%C3%89%20vedada%20no%20contrato%20de%20representa%C3%A7%C3%A3o%20comercial%20a%20inclus%C3%A3o%20de%20cl%C3%A1usulas%20del%20credere.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%208.420%2C%20de%208.5.1992%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. No caso de falência do representado as importâncias por ele devidas ao representante comercial, relacionadas com a representação, inclusive comissões vencidas e vincendas, indenização e aviso prévio, serão considerados créditos da mesma natureza dos créditos trabalhistas. (Incluído pela Lei nº 8.420, de 8.5.1992)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art.%2044.%20No%20caso%20de%20fal%C3%AAncia%20do%20representado%20as%20import%C3%A2ncias%20por%20ele%20devidas%20ao%20representante%20comercial%2C%20relacionadas%20com%20a%20representa%C3%A7%C3%A3o%2C%20inclusive%20comiss%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. Não constitui motivo justo para rescisão do contrato de representação comercial o impedimento temporário do representante comercial que estiver em gozo do benefício de auxílio-doença concedido pela previdência social. (Incluído pela Lei nº 8.420, de 8.5.1992)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art.%2045.%20N%C3%A3o%20constitui%20motivo%20justo%20para%20rescis%C3%A3o%20do%20contrato%20de%20representa%C3%A7%C3%A3o%20comercial%20o%20impedimento%20tempor%C3%A1rio%20do%20representante%20comercial%20que%20estiver%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. Os valores a que se referem a alínea j do art. 27, o § 5° do art. 32 e o art. 34 desta lei serão corrigidos monetariamente com base na variação dos BTNs ou por outro indexador que venha a substituí-los e legislação ulterior aplicável à matéria. (Incluído pela Lei nº 8.420, de 8.5.1992)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art.%2046.%20Os%20valores%20a%20que%20se%20referem%20a%20al%C3%ADnea%20j%20do%20art.%2027%2C%20o%20%C2%A7%205%C2%B0%20do%20art.%2032%20e%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Compete ao Conselho Federal dos Representantes Comerciais fiscalizar a execução da presente lei. (Incluído pela Lei nº 8.420, de 8.5.1992)\n\nParágrafo único. Em caso de inobservância das prescrições legais, caberá intervenção do Conselho Federal nos Conselhos Regionais, por decisão da Diretoria do primeiro ad referendum da reunião plenária, assegurado, em qualquer caso, o direito de defesa. A intervenção cessará quando do cumprimento da lei. (Incluído pela Lei nº 8.420, de 8.5.1992)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art.%2047.%20Compete%20ao%20Conselho%20Federal%20dos%20Representantes%20Comerciais%20fiscalizar%20a%20execu%C3%A7%C3%A3o%20da%20presente%20lei.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%208.420%2C%20de%208.5.1992%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art . 48. Esta lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2048.%20Esta%20lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art . 49. Revogam-se as disposições em contrário.\n\nBrasília, 9 de dezembro de 1965; 144º da Independência e 77º da República.\n\nH. CASTELLO BRANCO Walter Peracchi BarcelIos Octávio Bulhões\n\nEste texto não substitui o publicado no DOU de 10.12.1965\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2049.%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": null
+    }
+  }
+}

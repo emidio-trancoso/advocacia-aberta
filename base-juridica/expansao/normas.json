@@ -1868,13 +1868,14 @@
    "nome": "Letra de Câmbio e Nota Promissória",
    "lei": "Decreto 2.044/1908",
    "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2044.htm",
-   "grupo": "esparsas_empresarial",
+   "grupo": "pendentes_especiais",
    "origens": [
     "Esparsas/Empresarial: Letra de Câmbio e Nota Promissória"
    ],
    "notas": [
     "planilha classificava como decreto-lei; é o Decreto 2.044/1908",
-    "planilha classificava como decreto-lei; é o Decreto 2.044/1908"
+    "planilha classificava como decreto-lei; é o Decreto 2.044/1908",
+    "pendente: a URL da planilha (e a candidata ccivil_03/decreto/d2044.htm) corresponde ao Decreto 2.044/1996 (acordo de isenção de vistos), não ao Decreto 2.044/1908 (letra de câmbio); a página oficial do decreto de 1908 não foi localizada no ccivil_03 — verificar caminho antes de capturar"
    ]
   },
   {
@@ -1952,7 +1953,12 @@
    "origens": [
     "Esparsas/Empresarial: Alterações Contábeis (S.A. e grandes empresas)"
    ],
-   "notas": []
+   "notas": [
+    "a página cita o art. 181 da Lei 6.404/1976 (VETADO) sem marcador estrutural; o dispositivo pertence à LSA e é descartado aqui por decisão explícita"
+   ],
+   "descartar_artigos": [
+    "181"
+   ]
   },
   {
    "sigla": "LC182",

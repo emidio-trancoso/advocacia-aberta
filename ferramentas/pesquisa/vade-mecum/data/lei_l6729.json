@@ -1,0 +1,543 @@
+{
+  "_meta": {
+    "codigo": "L6729",
+    "nome": "Concessão Comercial de Veículos",
+    "lei": "Lei 6.729/1979",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm",
+    "total_artigos": 33,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art . 1º A distribuição de veículos automotores, de via terrestre, efetivar-se-á através de concessão comercial entre produtores e distribuidores disciplinada por esta Lei e, no que não a contrariem, pelas convenções nela previstas e disposições contratuais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%201%C2%BA%20A%20distribui%C3%A7%C3%A3o%20de%20ve%C3%ADculos%20automotores%2C%20de%20via%20terrestre%2C%20efetivar-se-%C3%A1%20atrav%C3%A9s%20de%20concess%C3%A3o%20comercial%20entre%20produtores%20e%20distribuidores%20disciplinada%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art . 2º Considera-se:\n\nI - Produtor, a empresa industrial que realiza a fabricação ou montagem de veículos automotores;\n\nIl - distribuidor, a empresa comercial pertencente à respectiva categoria econômica, que realiza a comercialização de veículos automotores, implementos e componentes novos, presta assistência técnica a esses produtos e exerce outras funções pertinentes à atividade;\n\nIII - veículo automotor, de via terrestre, o automóvel, caminhão, ônibus, trator, motocicleta e similares;\n\nIV - implemento, a máquina ou petrecho que se acopla a veículo automotor, na interação de suas finalidades;\n\nV - componente, a peça ou conjunto integrante de veículo automotor ou implemento de série;\n\nVI - máquina agrícola, a coineitadeira, a debulhadora, a trilhadeira e demais aparelhos similares destinados à agricultura, automotrizes ou acionados por trator ou outra fonte externa;\n\nVII - implemento agrícola, o arado, a grade, a roçadeira e demais petrechos destinados à agricultura.\n\n§ 1º Para os fins desta Lei:\n\na) intitula-se também o produtor de concedente e o distribuidor de concessionário;\n\nb) entende-se por trator aquele destinado a uso agrícola, capaz também de servir a outros fins, excluídos os tratores de esteira, as motoniveladoras e as máquinas rodoviárias para outras destinações;\n\nc) caracterizar-se-ão as diversas classes de veículos automotores pelas categorias econômicas de produtores e distribuidores, e os produtos, diferenciados em cada marca, pelo produtor e sua rede de distribuição, em conjunto.\n\n§ 2º Excetuam-se da presente Lei os implementos e máquinas agrícolas caracterizados neste artigo, incisos VI e VII, que não sejam fabricados ou fornecidos por produtor definido no inciso I.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%202%C2%BA%20Considera-se%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art . 3º Constitui objeto de concessão:\n\nI - a comercialização de veículos automotores, implementos e componentes fabricados ou fornecidos pelo produtor;\n\nIl - a prestação de assistência técnica a esses produtos, inclusive quanto ao seu atendimento ou revisão;\n\nIII - o uso gratuito de marca do concedente, como identificação.\n\n§ 1º A concessão poderá, em cada caso:\n\na) ser estabelecida para uma ou mais classes de veículos automotores;\n\nb) vedar a comercialização de veículos automotores novos fabricados ou fornecidos por outro produtor.\n\n§ 2º Quanto aos produtos lançados pelo concedente:\n\na) se forem da mesma classe daqueles compreendidos na concessão, ficarão nesta incluídos automaticamente;\n\nb) se forem de classe diversa, o concessionário terá preferência em comercializá-los, se atender às condições prescritas pelo concedente para esse fim.\n\n§ 3º É facultado ao concessionário participar das modalidades auxiliares de venda que o concedente promover ou adotar, tais como consórcios, sorteios, arrendamentos mercantis e planos de financiamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%203%C2%BA%20Constitui%20objeto%20de%20concess%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art . 4º Constitui direito do concessionário também a comercialização de:\n\nI - implementos e componentes novos produzidos ou fornecidos por terceiros, respeitada, quanto aos componentes, a disposição do art. 8º;\n\nII - mercadorias de qualquer natureza que se destinem a veículo automotor, implemento ou à atividade da concessão;\n\nIII - veículos automotores e implementos usados de qualquer marca.\n\nParágrafo único. Poderá o concessionário ainda comercializar outros bens e prestar outros serviços, compatíveis com a concessão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%204%C2%BA%20Constitui%20direito%20do%20concession%C3%A1rio%20tamb%C3%A9m%20a%20comercializa%C3%A7%C3%A3o%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art . 5º São inerentes à concessão:\n\nI - área demarcada para o exercício das atividades do concessionário, que não poderá operar além dos seus limites;\n\nII - distâncias mínimas entre estabelecimentos de concessionários da mesma rede, fixadas segundo critérios de potencial de mercado.\n\n§ 1º A área demarcada poderá conter mais de um concessionário da mesma rede.\n\n§ 2º Na eventualidade de venda de veículo automotor ou implementos novos a comprador domiciliado em outra área demarcada, o concessionário que a tiver efetuado destinará parte da margem de comercialização aos concessionários da área do domicílio do adquirente.\n\n§ 3º Por deliberação do concedente e sua rede de distribuição, o concessionário poderá efetuar a venda de componentes novos fora de sua área demarcada.\n\n§ 4º Poderá o concessionário abrir filiais, agências ou dependências secundárias, circunscritas às distâncias mínimas entre o estabelecimento de concessionários e atendidas as condições objeto de ajuste entre o produtor e sua rede de distribuição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%205%C2%BA%20S%C3%A3o%20inerentes%20%C3%A0%20concess%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art . 6º É assegurada ao concedente a contratação de nova concessão:\n\nI - se o mercado de veículos automotores novos da marca, na área demarcada, apresentar as condições justificativas da contratação que tenham sido ajustadas entre o produtor e sua rede de distribuição;\n\nII - pela necessidade de prover vaga de concessão extinta.\n\n§ 1º Na hipótese de inciso I deste artigo, o concedente dará aos respectivos concessionários da área demarcada direito de preferência quanto à nova concessão, o qual caducará pelo seu não exercício no prazo de cento e oitenta dias, contado da notificação para esse fim.\n\n§ 2º A nova contratação não se poderá estabelecer em condições que de algum modo prejudiquem os concessionários da marca.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%206%C2%BA%20%C3%89%20assegurada%20ao%20concedente%20a%20contrata%C3%A7%C3%A3o%20de%20nova%20concess%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art . 7º Compreende-se na concessão a quota de veículos automotores assim estabelecida:\n\nI - o concedente estimará sua produção destinada ao mercado interno para o período anual subseqüente, por produto diferenciado e consoante a expectativa de mercado da marca;\n\nII - a quota corresponderá a uma parte da produção estimada, compondo-se de produtos diferenciados, e independentes entre si, inclusive quanto às respectivas quantidades;\n\nIll - o concedente e o concessionário ajustarão a quota que a este caberá, consoante a respectiva capacidade empresarial e desempenho de comercialização e conforme a capacidade do mercado de sua área demarcada.\n\n§ 1º O ajuste da quota independe dos estoques mantidos pelo concessionário, nos termos da presente Lei.\n\n§ 2º A quota será revista anualmente, podendo reajustar-se conforme os elementos constantes dos incisos deste artigo e a rotatividade dos estoques do concessionário.\n\n§ 3º Em seu atendimento, a quota de veículos automotores comportará ajustamentos decorrentes de eventual diferença entre a produção efetiva e a produção estimada.\n\n§ 4º É facultado incluir na quota os veículos automotores comercializados através das modalidades auxiliares de venda a que se refere o art. 3º, § 3º.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%207%C2%BA%20Compreende-se%20na%20concess%C3%A3o%20a%20quota%20de%20ve%C3%ADculos%20automotores%20assim%20estabelecida%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art . 8º Integra a concessão o índice de fidelidade de compra de componentes dos veículos automotores pelo objeto, facultado ao concessionário haver de outros fornecedores até um quarto do valor dos componentes que adquirir em cada ano.\n\nParágrafo único. Não estão sujeitas ao índice de fidelidade de compra ao concedente as aquisições que o concessionário fizer:\n\na) de acessórios para veículos automotores;\n\nb) de implementos de qualquer natureza e máquinas agrícolas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%208%C2%BA%20Integra%20a%20concess%C3%A3o%20o%20%C3%ADndice%20de%20fidelidade%20de%20compra%20de%20componentes%20dos%20ve%C3%ADculos%20automotores%20pelo%20objeto%2C%20facultado%20ao%20concession%C3%A1rio",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art 9º Os pedidos do concessionário e os fornecimentos do concedente deverão corresponder à quota de veículos automotores e enquadrar-se no índice de fidelidade de componentes.\n\n§ 1º Os fornecimentos do concedente se circunscreverão a pedidos formulados por escrito e respeitarão os limites mencionados no art. 10, §§ 1º e 2º.\n\n§ 2º O concedente deverá atender ao pedido no prazo fixado e, se não o fizer, poderá o concessionário cancelá-lo.\n\n§ 3º Se o concedente não atender os pedidos de componentes, o concessionário ficará desobrigado do índice de fidelidade a que se refere o art. 8º, na proporção do desatendimento verificado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%209%C2%BA%20Os%20pedidos%20do%20concession%C3%A1rio%20e%20os%20fornecimentos%20do%20concedente%20dever%C3%A3o%20corresponder%20%C3%A0%20quota%20de%20ve%C3%ADculos%20automotores%20e%20enquadrar-se%20no%20%C3%ADndice",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art . 10. O concedente poderá exigir do concessionário a manutenção de estoque proporcional à rotatividade dos produtos novos, objeto da concessão, e adequado à natureza dos clientes do estabelecimento, respeitados os limites prescritos nos §§ 1º e 2º seguintes.\n\n§ 1º É facultado ao concessionário limitar seu estoque:\n\na) de veículos automotores em geral a sessenta e cinco por cento e de caminhões em particular a trinta por cento da atribuição mensal das respectivas quotas anuais por produto diferenciado, ressalvado o disposto na alínea b seguinte;\n\nb) de tratores, a quatro por cento da quota anual de cada produto diferenciado;\n\nc) de implementos, a cinco por cento do valor das respectivas vendas que houver efetuado nos últimos doze meses;\n\nd) de componentes, o valor que não ultrapasse o preço pelo qual adquiriu aqueles que vendeu a varejo nos últimos três meses.\n\n§ 2º Para efeito dos limites previstos no parágrafo anterior, em suas alíneas a e b , a cada seis meses será comparada a quota com a realidade do mercado do concessionário, segundo a comercialização por este efetuada, reduzindo-se os referidos limites na proporção de eventual diferença a menor das vendas em relação às atribuições mensais, consoante os critérios estipulados entre produtor e sua rede de distribuição.\n\n§ 3º O concedente reparará o concessionário do valor do estoque de componentes que alterar ou deixar de fornecer, mediante sua recompra por preço atualizado à rede de distribuição ou substituição pelo sucedâneo ou por outros indicados pelo concessionário, devendo a reparação dar-se em um ano da ocorrência do fato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%2010.%20O%20concedente%20poder%C3%A1%20exigir%20do%20concession%C3%A1rio%20a%20manuten%C3%A7%C3%A3o%20de%20estoque%20proporcional%20%C3%A0%20rotatividade%20dos%20produtos%20novos%2C%20objeto%20da%20concess%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art . 11. O pagamento do preço das mercadorias fornecidas pelo concedente não poderá ser exigido, no todo ou em parte, antes do faturamento, salvo ajuste diverso entre o concedente e sua rede de distribuição.\n\nParágrafo único. Se o pagamento da mercadoria preceder a sua saída, esta se dará até o sexto dia subseqüente àquele ato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%2011.%20O%20pagamento%20do%20pre%C3%A7o%20das%20mercadorias%20fornecidas%20pelo%20concedente%20n%C3%A3o%20poder%C3%A1%20ser%20exigido%2C%20no%20todo%20ou%20em%20parte%2C%20antes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art . 12. O concessionário só poderá realizar a venda de veículos automotores novos diretamente a consumidor, vedada a comercialização para fins de revenda.\n\nParágrafo único. Ficam excluídas da disposição deste artigo:\n\na) operações entre concessionários da mesma rede de distribuição que, em relação à respectiva quota, não ultrapassem quinze por cento quanto a caminhões e dez por cento quanto aos demais veículos automotores;\n\nb) vendas que o concessionário destinar ao mercado externo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%2012.%20O%20concession%C3%A1rio%20s%C3%B3%20poder%C3%A1%20realizar%20a%20venda%20de%20ve%C3%ADculos%20automotores%20novos%20diretamente%20a%20consumidor%2C%20vedada%20a%20comercializa%C3%A7%C3%A3o%20para%20fins",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art . 13. As mercadorias objeto da concessão deverão ser vendidas pelo concessionário ao preço fixado pelo concedente.\n\nParágrafo único. A esses preços poderá ser acrescido o valor do frete, seguro e outros encargos variáveis de remessa da mercadoria ao concessionário e deste para o respectivo adquirente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%2013.%20As%20mercadorias%20objeto%20da%20concess%C3%A3o%20dever%C3%A3o%20ser%20vendidas%20pelo%20concession%C3%A1rio%20ao%20pre%C3%A7o%20fixado%20pelo%20concedente.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art . 14. A margem de comercialização do concessionário nas mercadorias objeto da concessão terá seu percentual incluído no preço ao consumidor. (Revogado pela Lei nº 8.132, de 1990)\n\nParágrafo único. É vedada a redução pelo concedente da margem percentual de comercialização, salvo casos excepcionais objeto de ajuste entre o produtor e sua rede de distribuição. (Revogado pela Lei nº 8.132, de 1990)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%2014.%20A%20margem%20de%20comercializa%C3%A7%C3%A3o%20do%20concession%C3%A1rio%20nas%20mercadorias%20objeto%20da%20concess%C3%A3o%20ter%C3%A1%20seu%20percentual%20inclu%C3%ADdo%20no%20pre%C3%A7o%20ao%20consumidor.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art . 15. O concedente poderá efetuar vendas diretas de veículos automotores.\n\nI - independentemente da atuação ou pedido de concessionário:\n\na) à Administração Pública, direta ou indireta, ou ao Corpo Diplomático;\n\nb) a outros compradores especiais, nos limites que forem previamente ajustados com sua rede de distribuição;\n\nlI - através da rede de distribuição:\n\na) às pessoas indicadas no inciso I, alínea a , incumbindo o encaminhamento do pedido a concessionário que tenha esta atribuição;\n\nb) a frotistas de veículos automotores, expressamente caracterizados, cabendo unicamente aos concessionários objetivar vendas desta natureza;\n\nc) a outros compradores especiais, facultada a qualquer concessionário a apresentação do pedido.\n\n§ 1º Nas vendas diretas, o concessionário fará jus ao valor da contraprestação relativa aos serviços de revisão que prestar, na hipótese do inciso I, ou ao valor da margem de comercialização correspondente à mercadoria vendida, na hipótese do inciso Il deste artigo.\n\n§ 2º A incidência das vendas diretas através de concessionário, sobre a respectiva quota de veículos automotores, será estipulada entre o concedente e sua rede de distribuição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%2015.%20O%20concedente%20poder%C3%A1%20efetuar%20vendas%20diretas%20de%20ve%C3%ADculos%20automotores.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art . 16. A concessão compreende ainda o resguardo de integridade da marca e dos interesses coletivos do concedente e da rede de distribuição, ficando vedadas:\n\nI - prática de atos pelos quais o concedente vincule o concessionário a condições de subordinação econômica, jurídica ou administrativa ou estabeleça interferência na gestão de seus negócios;\n\nII - exigência entre concedente e concessionário de obrigação que não tenha sido constituída por escrito ou de garantias acima do valor e duração das obrigações contraídas;\n\nIII - diferenciação de tratamento entre concedente e concessionário quanto a encargos financeiros e quanto a prazo de obrigações que se possam equiparar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%2016.%20A%20concess%C3%A3o%20compreende%20ainda%20o%20resguardo%20de%20integridade%20da%20marca%20e%20dos%20interesses%20coletivos%20do%20concedente%20e%20da%20rede",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art . 17. As relações objeto desta Lei serão também reguladas por convenção que, mediante solicitação do produtor ou de qualquer uma das entidades adiante indicadas, deverão ser celebradas com força de lei, entre:\n\nI - as categorias econômicas de produtores e distribuidores de veículos automotores, cada uma representada pela respectiva entidade civil ou, na falta desta, por outra entidade competente, qualquer delas sempre de âmbito nacional, designadas convenções das categorias econômicas;\n\nII - cada produtor e a respectiva rede de distribuição, esta através da entidade civil de âmbito nacional que a represente, designadas convenções da marca.\n\n§ 1º Qualquer dos signatários dos atos referidos neste artigo poderá proceder ao seu registro no Cartório competente do Distrito Federal e à sua publicação no Diário Oficial da União, a fim de valerem contra terceiros em todo território nacional.\n\n§ 2º Independentemente de convenções, a entidade representativa da categoria econômica ou da rede de distribuição da respectiva marca poderá diligenciar a solução de dúvidas e controvérsias, no que tange às relações entre concedente e concessionário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%2017.%20As%20rela%C3%A7%C3%B5es%20objeto%20desta%20Lei%20ser%C3%A3o%20tamb%C3%A9m%20reguladas%20por%20conven%C3%A7%C3%A3o%20que%2C%20mediante%20solicita%C3%A7%C3%A3o%20do%20produtor%20ou%20de%20qualquer%20uma",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art . 18. Celebrar-se-ão convenções das categorias econômicas para:\n\nI - explicitar princípios e normas de interesse dos produtores e distribuidores de veículos automotores;\n\nIl - declarar a entidade civil representativa de rede de distribuição;\n\nIII - resolver, por decisão arbitral, as questões que lhe forem submetidas pelo produtor e a entidade representativa da respectiva rede de distribuição;\n\nIV - disciplinar, por juízo declaratório, assuntos pertinentes às convenções da marca, por solicitação de produtor ou entidade representativa da respectiva rede de distribuição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%2018.%20Celebrar-se-%C3%A3o%20conven%C3%A7%C3%B5es%20das%20categorias%20econ%C3%B4micas%20para%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art . 19. Celebrar-se-ão convenções da marca para estabelecer normas e procedimentos relativos a:\n\nI - atendimento de veículos automotores em garantia ou revisão (art. 3º, inciso II);\n\nII - uso gratuito da marca do concedente (art. 3º, inciso IlI);\n\nIII - inclusão na concessão de produtos lançados na sua vigência e modalidades auxiliares de venda (art. 3º § 2º, alínea a ; § 3º);\n\nIV - Comercialização de outros bens e prestação de outros serviços (art. 4º, parágrafo único);\n\nV - fixação de área demarcada e distâncias mínimas, abertura de filiais e outros estabelecimentos (art. 5º, incisos I e II; § 4º);\n\nVI - venda de componentes em área demarcada diversa (art. 5º, § 3º);\n\nVII - novas concessões e condições de mercado para sua contratação ou extinção de concessão existente (art. 6º, incisos I e II);\n\nVIII - quota de veículos automotores, reajustes anuais, ajustamentos cabíveis, abrangência quanto a modalidades auxiliares de venda (art. 7º, §§ 1º, 2º, 3º e 4º) e incidência de vendas diretas (art. 15, § 2º);\n\nIX - pedidos e fornecimentos de mercadoria (art. 9º);\n\nX - estoques do concessionário (art. 10 e §§ 1º e 2º);\n\nXI - alteração de época de pagamento (art. 11);\n\nXII - cobrança de encargos sobre o preço da mercadoria (art. 13, parágrafo único);\n\nXIII - margem de comercialização, inclusive quanto a sua alteração em casos excepecionais (art. 14 e parágrafo único), seu percentual atribuído a concessionário de domicílio do comprador (art. 5º § 2º);\n\nXIV - vendas diretas, com especificação de compradores especiais, limites das vendas pelo concedente sem mediação de concessionário, atribuição de faculdade a concessionários para venda à Administração Pública e ao Corpo Diplomático, caracterização de frotistas de veículos automotores, valor de margem de comercialização e de contraprestação de revisões, demais regras de procedimento (art. 15, § 1º);\n\nXV - regime de penalidades gradativas (art. 22, § 1º);\n\nXVI - especificação de outras reparações (art. 24, inciso IV);\n\nXVII - contratações para prestação de assistência técnica e comercialização de componentes (art. 28);\n\nXVIII - outras matérias previstas nesta Lei e as que as partes julgarem de interesse comum.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%2019.%20Celebrar-se-%C3%A3o%20conven%C3%A7%C3%B5es%20da%20marca%20para%20estabelecer%20normas%20e%20procedimentos%20relativos%20a%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art . 20. A concessão comercial entre produtores e distribuidores de veículos automotores será ajustada em contrato que obedecerá forma escrita padronizada para cada marca e especificará produtos, área demarcada, distância mínima e quota de veículos automotores, bem como as condições relativas a requisitos financeiros, organização administrativa e contábil, capacidade técnica, instalações, equipamentos e mão-de-obra especializada do concessionário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%2020.%20A%20concess%C3%A3o%20comercial%20entre%20produtores%20e%20distribuidores%20de%20ve%C3%ADculos%20automotores%20ser%C3%A1%20ajustada%20em%20contrato%20que%20obedecer%C3%A1%20forma%20escrita%20padronizada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art . 21. A concessão comercial entre produtor e distribuidor de veículos automotores será de prazo indeterminando e somente cessará nos termos desta Lei.\n\nParágrafo único. O contrato poderá ser inicialmente ajustado por prazo determinado, não inferior a cinco anos, e se tornará automaticamente de prazo indeterminado se nenhuma das partes manifestar à outra a intenção de não prorrogá-lo, antes de cento e oitenta dias do seu termo final e mediante notificação por escrito devidamente comprovada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%2021.%20A%20concess%C3%A3o%20comercial%20entre%20produtor%20e%20distribuidor%20de%20ve%C3%ADculos%20automotores%20ser%C3%A1%20de%20prazo%20indeterminando%20e%20somente%20cessar%C3%A1%20nos%20termos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art . 22. Dar-se-á a resolução do contrato:\n\nI - por acordo das partes ou força maior;\n\nIl - pela expiração do prazo determinado, estabelecido no início da concesseão, salvo se prorrogado nos termos do artigo 21, parágrafo único;\n\nIII - por iniciativa da parte inocente, em virtude de infração a dispositivo desta Lei, das convenções ou do próprio contrato, considerada infração também a cessação das atividades do contraente.\n\n§ 1º A resolução prevista neste artigo, inciso III, deverá ser precedida da aplicação de penalidades gradativas.\n\n§ 2º Em qualquer caso de resolução contratual, as partes disporão do prazo necessário à extinção das suas relações e das operações do concessionário, nunca inferior a cento e vinte dias, contados da data da resolução.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%2022.%20Dar-se-%C3%A1%20a%20resolu%C3%A7%C3%A3o%20do%20contrato%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art . 23. O concedente que não prorrogar o contrato ajustado nos termos do art. 21, parágrafo único, ficará obrigado perante o concessionário a:\n\nI - readquirir-lhe o estoque de veículos automotores e componentes novos, estes em sua embalagem original, pelo preço de venda à rede de distribuição, vigente na data de reaquisição:\n\nII - comprar-lhe os equipamentos, máquinas, ferramental e instalações à concessão, pelo preço de mercado correspondente ao estado em que se encontrarem e cuja aquisição o concedente determinara ou dela tivera ciência por escrito sem lhe fazer oposição imediata e documentada, excluídos desta obrigação os imóveis do concessionário.\n\nParágrafo único. Cabendo ao concessionário a iniciativa de não prorrogar o contrato, ficará desobrigado de qualquer indenização ao concedente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%2023.%20O%20concedente%20que%20n%C3%A3o%20prorrogar%20o%20contrato%20ajustado%20nos%20termos%20do%20art.%2021%2C%20par%C3%A1grafo%20%C3%BAnico%2C%20ficar%C3%A1%20obrigado%20perante%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art . 24. Se o concedente der causa à rescisão do contrato de prazo indeterminado, deverá reparar o concessionário:\n\nI - readquirindo-lhe o estoque de veículos automotores, implementos e componentes novos, pelo preço de venda ao consumidor, vigente na data da rescisão contratual;\n\nII - efetuando-lhe a compra prevista no art. 23, inciso II;\n\nIII - pagando-lhe perdas e danos, à razão de quatro por cento do faturamento projetado para um período correspondente à soma de uma parte fixa de dezoito meses e uma variável de três meses por quinqüênio de vigência da concessão, devendo a projeção tomar por base o valor corrigido monetariamente do faturamento de bens e serviços concernentes a concessão, que o concessionário tiver realizado nos dois anos anteriores à rescisão;\n\nIV - satisfazendo-lhe outras reparações que forem eventualmente ajustadas entre o produtor e sua rede de distribuição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%2024.%20Se%20o%20concedente%20der%20causa%20%C3%A0%20rescis%C3%A3o%20do%20contrato%20de%20prazo%20indeterminado%2C%20dever%C3%A1%20reparar%20o%20concession%C3%A1rio%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art . 25. Se a infração do concedente motivar a rescisão do contrato de prazo determinado, previsto no art. 21, parágrafo único, o concessionário fará jus às mesmas reparações estabelecidas no artigo anterior, sendo que:\n\nI - quanto ao inciso III, será a indenização calculada sobre o faturamento projetado até o término do contrato e, se a concessão não tiver alcançado dois anos de vigência, a projeção tomará por base o faturamento até então realizado;\n\nIl - quanto ao inciso IV, serão satisfeitas as obrigações vicendas até o termo final do contrato rescindido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%2025.%20Se%20a%20infra%C3%A7%C3%A3o%20do%20concedente%20motivar%20a%20rescis%C3%A3o%20do%20contrato%20de%20prazo%20determinado%2C%20previsto%20no%20art.%2021%2C%20par%C3%A1grafo%20%C3%BAnico%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art . 26. Se o concessionário der causa à rescisão do contrato, pagará ao concedente a indenização correspondente a cinco por cento do valor total das mercadorias que dele tiver adquirido nos últimos quatro meses de contrato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%2026.%20Se%20o%20concession%C3%A1rio%20der%20causa%20%C3%A0%20rescis%C3%A3o%20do%20contrato%2C%20pagar%C3%A1%20ao%20concedente%20a%20indeniza%C3%A7%C3%A3o%20correspondente%20a%20cinco%20por%20cento",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art . 27. Os valores devidos nas hipóteses dos artigos 23, 24, 25 e 26 deverão ser pagos dentro de sessenta dias da data da extinção da concessão e, no caso de mora, ficarão sujeitos a correção monetária e juros legais, a partir do vencimento do débito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%2027.%20Os%20valores%20devidos%20nas%20hip%C3%B3teses%20dos%20artigos%2023%2C%2024%2C%2025%20e%2026%20dever%C3%A3o%20ser%20pagos%20dentro%20de%20sessenta%20dias",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art . 28. As contratações do concedente que tenham por objeto exclusivamente a prestação de assistência técnica ou a comercialização de componentes dependerão de ajuste com a rede de distribuição de veículos automotores e deverão, em qualquer caso, respeitar os direitos e interesses desta.\n\nParágrafo único. As contratações a que se refere este artigo serão aplicados, no que couber, os dispositivos desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%2028.%20As%20contrata%C3%A7%C3%B5es%20do%20concedente%20que%20tenham%20por%20objeto%20exclusivamente%20a%20presta%C3%A7%C3%A3o%20de%20assist%C3%AAncia%20t%C3%A9cnica%20ou%20a%20comercializa%C3%A7%C3%A3o%20de%20componentes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art . 29. As disposições do art. 66 da Lei nº 4.728, de 14 de julho de 1965, com a redação dada pelo Decreto Lei nº 911, de 1º de outubro de 1969, não se aplicam às operações de compra de mercadorias pelo concessionário, para fins de comercialização.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%2029.%20As%20disposi%C3%A7%C3%B5es%20do%20art.%2066%20da%20Lei%20n%C2%BA%204.728%2C%20de%2014%20de%20julho%20de%201965%2C%20com%20a%20reda%C3%A7%C3%A3o%20dada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art . 30. A presente Lei aplica-se às situações existentes entre concedentes e concessionários, sendo consideradas nulas as cláusulas dos contratos em vigor que a contrariem.\n\n§ 1º As redes de distribuição e os concessionários individualmente continuarão a manter os direitos e garantias que lhes estejam assegurados perante os respectivos produtores por ajustes de qualquer natureza, especialmente no que se refere a áreas demarcadas e quotas de veículos automotores, ressalvada a competência da convenção da marca para modificação de tais ajustes.\n\n§ 2º As entidades civis a que se refere o art. 17, inciso II, existentes à data em que esta Lei entrar em vigor, representarão a respectiva rede de distribuição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%2030.%20A%20presente%20Lei%20aplica-se%20%C3%A0s%20situa%C3%A7%C3%B5es%20existentes%20entre%20concedentes%20e%20concession%C3%A1rios%2C%20sendo%20consideradas%20nulas%20as%20cl%C3%A1usulas%20dos%20contratos%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art . 31. Tornar-se-ão de prazo indeterminado, nos termos do art. 21, as relações contratuais entre produtores e distribuidores de veículos automotores que já tiverem somado três anos de vigência à data em que a presente Lei entrar em vigor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%2031.%20Tornar-se-%C3%A3o%20de%20prazo%20indeterminado%2C%20nos%20termos%20do%20art.%2021%2C%20as%20rela%C3%A7%C3%B5es%20contratuais%20entre%20produtores%20e%20distribuidores%20de%20ve%C3%ADculos%20automotores",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art . 32. Se não estiver completo o lapso de três anos a que se refere o artigo anterior, o distribuidor poderá optar:\n\nI - pela prorrogação do prazo do contrato vigente por mais cinco anos, contados na data em que esta Lei entrar em vigor;\n\nII - pela conservação do prazo contratual vigente.\n\n§ 1º A opção a que se refere este artigo deverá ser feita em noventa dias, contados da data em que esta Lei entrar em vigor, ou até o término do contrato, se menor prazo lhe restar.\n\n§ 2º Se a opção não se realizar, prevalecerá o prazo contratual vigente.\n\n§ 3º Tornar-se-á de prazo indeterminado, nos termos do art. 21, o contrato que for prorrogado até cento e oitenta dias antes do vencimento dos cinco anos, na hipótese do inciso I, ou até a data do seu vencimento, na hipótese do inciso II ou do § 2º, deste artigo.\n\n§ 4º Aplicar-se-á o disposto no art. 23, se o contrato não for prorrogado nos prazos mencionados no parágrafo anterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%2032.%20Se%20n%C3%A3o%20estiver%20completo%20o%20lapso%20de%20tr%C3%AAs%20anos%20a%20que%20se%20refere%20o%20artigo%20anterior%2C%20o%20distribuidor%20poder%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art . 33. Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n\nBrasília, em 28 de novembro de 1979; 158º da Independência e 91º da República.\n\nJOÃO FIGUEIREDO João Camilo Penna\n\nEste texto não substitui o publicado no DOU de 29.11.1990\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6729.htm#:~:text=Art%20.%2033.%20Esta%20Lei%20entrar%C3%A1%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o%2C%20revogadas%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": null
+    }
+  }
+}

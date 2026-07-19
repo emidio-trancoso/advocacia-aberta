@@ -1,0 +1,543 @@
+{
+  "_meta": {
+    "codigo": "L12846",
+    "nome": "Lei Anticorrupção (responsabilização de pessoas jurídicas)",
+    "lei": "Lei 12.846/2013",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm",
+    "total_artigos": 33,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Esta Lei dispõe sobre a responsabilização objetiva administrativa e civil de pessoas jurídicas pela prática de atos contra a administração pública, nacional ou estrangeira.\n\nParágrafo único. Aplica-se o disposto nesta Lei às sociedades empresárias e às sociedades simples, personificadas ou não, independentemente da forma de organização ou modelo societário adotado, bem como a quaisquer fundações, associações de entidades ou pessoas, ou sociedades estrangeiras, que tenham sede, filial ou representação no território brasileiro, constituídas de fato ou de direito, ainda que temporariamente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%201%C2%BA%20Esta%20Lei%20disp%C3%B5e%20sobre%20a%20responsabiliza%C3%A7%C3%A3o%20objetiva%20administrativa%20e%20civil%20de%20pessoas%20jur%C3%ADdicas%20pela%20pr%C3%A1tica%20de%20atos%20contra%20a%20administra%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º As pessoas jurídicas serão responsabilizadas objetivamente, nos âmbitos administrativo e civil, pelos atos lesivos previstos nesta Lei praticados em seu interesse ou benefício, exclusivo ou não.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%202%C2%BA%20As%20pessoas%20jur%C3%ADdicas%20ser%C3%A3o%20responsabilizadas%20objetivamente%2C%20nos%20%C3%A2mbitos%20administrativo%20e%20civil%2C%20pelos%20atos%20lesivos%20previstos%20nesta%20Lei%20praticados%20em%20seu",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º A responsabilização da pessoa jurídica não exclui a responsabilidade individual de seus dirigentes ou administradores ou de qualquer pessoa natural, autora, coautora ou partícipe do ato ilícito.\n\n§ 1º A pessoa jurídica será responsabilizada independentemente da responsabilização individual das pessoas naturais referidas no caput .\n\n§ 2º Os dirigentes ou administradores somente serão responsabilizados por atos ilícitos na medida da sua culpabilidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%203%C2%BA%20A%20responsabiliza%C3%A7%C3%A3o%20da%20pessoa%20jur%C3%ADdica%20n%C3%A3o%20exclui%20a%20responsabilidade%20individual%20de%20seus%20dirigentes%20ou%20administradores%20ou%20de%20qualquer%20pessoa%20natural%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Subsiste a responsabilidade da pessoa jurídica na hipótese de alteração contratual, transformação, incorporação, fusão ou cisão societária.\n\n§ 1º Nas hipóteses de fusão e incorporação, a responsabilidade da sucessora será restrita à obrigação de pagamento de multa e reparação integral do dano causado, até o limite do patrimônio transferido, não lhe sendo aplicáveis as demais sanções previstas nesta Lei decorrentes de atos e fatos ocorridos antes da data da fusão ou incorporação, exceto no caso de simulação ou evidente intuito de fraude, devidamente comprovados.\n\n§ 2º As sociedades controladoras, controladas, coligadas ou, no âmbito do respectivo contrato, as consorciadas serão solidariamente responsáveis pela prática dos atos previstos nesta Lei, restringindo-se tal responsabilidade à obrigação de pagamento de multa e reparação integral do dano causado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%204%C2%BA%20Subsiste%20a%20responsabilidade%20da%20pessoa%20jur%C3%ADdica%20na%20hip%C3%B3tese%20de%20altera%C3%A7%C3%A3o%20contratual%2C%20transforma%C3%A7%C3%A3o%2C%20incorpora%C3%A7%C3%A3o%2C%20fus%C3%A3o%20ou%20cis%C3%A3o%20societ%C3%A1ria.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Constituem atos lesivos à administração pública, nacional ou estrangeira, para os fins desta Lei, todos aqueles praticados pelas pessoas jurídicas mencionadas no parágrafo único do art. 1º , que atentem contra o patrimônio público nacional ou estrangeiro, contra princípios da administração pública ou contra os compromissos internacionais assumidos pelo Brasil, assim definidos:\n\nI - prometer, oferecer ou dar, direta ou indiretamente, vantagem indevida a agente público, ou a terceira pessoa a ele relacionada;\n\nII - comprovadamente, financiar, custear, patrocinar ou de qualquer modo subvencionar a prática dos atos ilícitos previstos nesta Lei;\n\nIII - comprovadamente, utilizar-se de interposta pessoa física ou jurídica para ocultar ou dissimular seus reais interesses ou a identidade dos beneficiários dos atos praticados;\n\nIV - no tocante a licitações e contratos:\n\na) frustrar ou fraudar, mediante ajuste, combinação ou qualquer outro expediente, o caráter competitivo de procedimento licitatório público;\n\nb) impedir, perturbar ou fraudar a realização de qualquer ato de procedimento licitatório público;\n\nc) afastar ou procurar afastar licitante, por meio de fraude ou oferecimento de vantagem de qualquer tipo;\n\nd) fraudar licitação pública ou contrato dela decorrente;\n\ne) criar, de modo fraudulento ou irregular, pessoa jurídica para participar de licitação pública ou celebrar contrato administrativo;\n\nf) obter vantagem ou benefício indevido, de modo fraudulento, de modificações ou prorrogações de contratos celebrados com a administração pública, sem autorização em lei, no ato convocatório da licitação pública ou nos respectivos instrumentos contratuais; ou\n\ng) manipular ou fraudar o equilíbrio econômico-financeiro dos contratos celebrados com a administração pública;\n\nV - dificultar atividade de investigação ou fiscalização de órgãos, entidades ou agentes públicos, ou intervir em sua atuação, inclusive no âmbito das agências reguladoras e dos órgãos de fiscalização do sistema financeiro nacional.\n\n§ 1º Considera-se administração pública estrangeira os órgãos e entidades estatais ou representações diplomáticas de país estrangeiro, de qualquer nível ou esfera de governo, bem como as pessoas jurídicas controladas, direta ou indiretamente, pelo poder público de país estrangeiro.\n\n§ 2º Para os efeitos desta Lei, equiparam-se à administração pública estrangeira as organizações públicas internacionais.\n\n§ 3º Considera-se agente público estrangeiro, para os fins desta Lei, quem, ainda que transitoriamente ou sem remuneração, exerça cargo, emprego ou função pública em órgãos, entidades estatais ou em representações diplomáticas de país estrangeiro, assim como em pessoas jurídicas controladas, direta ou indiretamente, pelo poder público de país estrangeiro ou em organizações públicas internacionais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%205%C2%BA%20Constituem%20atos%20lesivos%20%C3%A0%20administra%C3%A7%C3%A3o%20p%C3%BAblica%2C%20nacional%20ou%20estrangeira%2C%20para%20os%20fins%20desta%20Lei%2C%20todos%20aqueles%20praticados%20pelas%20pessoas%20jur%C3%ADdicas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Na esfera administrativa, serão aplicadas às pessoas jurídicas consideradas responsáveis pelos atos lesivos previstos nesta Lei as seguintes sanções:\n\nI - multa, no valor de 0,1% (um décimo por cento) a 20% (vinte por cento) do faturamento bruto do último exercício anterior ao da instauração do processo administrativo, excluídos os tributos, a qual nunca será inferior à vantagem auferida, quando for possível sua estimação; e\n\nII - publicação extraordinária da decisão condenatória.\n\n§ 1º As sanções serão aplicadas fundamentadamente, isolada ou cumulativamente, de acordo com as peculiaridades do caso concreto e com a gravidade e natureza das infrações.\n\n§ 2º A aplicação das sanções previstas neste artigo será precedida da manifestação jurídica elaborada pela Advocacia Pública ou pelo órgão de assistência jurídica, ou equivalente, do ente público.\n\n§ 3º A aplicação das sanções previstas neste artigo não exclui, em qualquer hipótese, a obrigação da reparação integral do dano causado.\n\n§ 4º Na hipótese do inciso I do caput , caso não seja possível utilizar o critério do valor do faturamento bruto da pessoa jurídica, a multa será de R$ 6.000,00 (seis mil reais) a R$ 60.000.000,00 (sessenta milhões de reais).\n\n§ 5º A publicação extraordinária da decisão condenatória ocorrerá na forma de extrato de sentença, a expensas da pessoa jurídica, em meios de comunicação de grande circulação na área da prática da infração e de atuação da pessoa jurídica ou, na sua falta, em publicação de circulação nacional, bem como por meio de afixação de edital, pelo prazo mínimo de 30 (trinta) dias, no próprio estabelecimento ou no local de exercício da atividade, de modo visível ao público, e no sítio eletrônico na rede mundial de computadores.\n\n§ 6º (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%206%C2%BA%20Na%20esfera%20administrativa%2C%20ser%C3%A3o%20aplicadas%20%C3%A0s%20pessoas%20jur%C3%ADdicas%20consideradas%20respons%C3%A1veis%20pelos%20atos%20lesivos%20previstos%20nesta%20Lei%20as%20seguintes%20san%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Serão levados em consideração na aplicação das sanções:\n\nI - a gravidade da infração;\n\nII - a vantagem auferida ou pretendida pelo infrator;\n\nIII - a consumação ou não da infração;\n\nIV - o grau de lesão ou perigo de lesão;\n\nV - o efeito negativo produzido pela infração;\n\nVI - a situação econômica do infrator;\n\nVII - a cooperação da pessoa jurídica para a apuração das infrações;\n\nVIII - a existência de mecanismos e procedimentos internos de integridade, auditoria e incentivo à denúncia de irregularidades e a aplicação efetiva de códigos de ética e de conduta no âmbito da pessoa jurídica;\n\nIX - o valor dos contratos mantidos pela pessoa jurídica com o órgão ou entidade pública lesados; e\n\nX - (VETADO).\n\nParágrafo único. Os parâmetros de avaliação de mecanismos e procedimentos previstos no inciso VIII do caput serão estabelecidos em regulamento do Poder Executivo federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%207%C2%BA%20Ser%C3%A3o%20levados%20em%20considera%C3%A7%C3%A3o%20na%20aplica%C3%A7%C3%A3o%20das%20san%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º A instauração e o julgamento de processo administrativo para apuração da responsabilidade de pessoa jurídica cabem à autoridade máxima de cada órgão ou entidade dos Poderes Executivo, Legislativo e Judiciário, que agirá de ofício ou mediante provocação, observados o contraditório e a ampla defesa.\n\n§ 1º A competência para a instauração e o julgamento do processo administrativo de apuração de responsabilidade da pessoa jurídica poderá ser delegada, vedada a subdelegação.\n\n§ 2º No âmbito do Poder Executivo federal, a Controladoria-Geral da União - CGU terá competência concorrente para instaurar processos administrativos de responsabilização de pessoas jurídicas ou para avocar os processos instaurados com fundamento nesta Lei, para exame de sua regularidade ou para corrigir-lhes o andamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%208%C2%BA%20A%20instaura%C3%A7%C3%A3o%20e%20o%20julgamento%20de%20processo%20administrativo%20para%20apura%C3%A7%C3%A3o%20da%20responsabilidade%20de%20pessoa%20jur%C3%ADdica%20cabem%20%C3%A0%20autoridade%20m%C3%A1xima%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Competem à Controladoria-Geral da União - CGU a apuração, o processo e o julgamento dos atos ilícitos previstos nesta Lei, praticados contra a administração pública estrangeira, observado o disposto no Artigo 4 da Convenção sobre o Combate da Corrupção de Funcionários Públicos Estrangeiros em Transações Comerciais Internacionais, promulgada pelo Decreto nº 3.678, de 30 de novembro de 2000.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%209%C2%BA%20Competem%20%C3%A0%20Controladoria-Geral%20da%20Uni%C3%A3o%20-%20CGU%20a%20apura%C3%A7%C3%A3o%2C%20o%20processo%20e%20o%20julgamento%20dos%20atos%20il%C3%ADcitos%20previstos%20nesta%20Lei%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. O processo administrativo para apuração da responsabilidade de pessoa jurídica será conduzido por comissão designada pela autoridade instauradora e composta por 2 (dois) ou mais servidores estáveis.\n\n§ 1º O ente público, por meio do seu órgão de representação judicial, ou equivalente, a pedido da comissão a que se refere o caput , poderá requerer as medidas judiciais necessárias para a investigação e o processamento das infrações, inclusive de busca e apreensão.\n\n§ 2º A comissão poderá, cautelarmente, propor à autoridade instauradora que suspenda os efeitos do ato ou processo objeto da investigação.\n\n§ 3º A comissão deverá concluir o processo no prazo de 180 (cento e oitenta) dias contados da data da publicação do ato que a instituir e, ao final, apresentar relatórios sobre os fatos apurados e eventual responsabilidade da pessoa jurídica, sugerindo de forma motivada as sanções a serem aplicadas.\n\n§ 4º O prazo previsto no § 3º poderá ser prorrogado, mediante ato fundamentado da autoridade instauradora.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%2010.%20O%20processo%20administrativo%20para%20apura%C3%A7%C3%A3o%20da%20responsabilidade%20de%20pessoa%20jur%C3%ADdica%20ser%C3%A1%20conduzido%20por%20comiss%C3%A3o%20designada%20pela%20autoridade%20instauradora%20e%20composta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. No processo administrativo para apuração de responsabilidade, será concedido à pessoa jurídica prazo de 30 (trinta) dias para defesa, contados a partir da intimação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%2011.%20No%20processo%20administrativo%20para%20apura%C3%A7%C3%A3o%20de%20responsabilidade%2C%20ser%C3%A1%20concedido%20%C3%A0%20pessoa%20jur%C3%ADdica%20prazo%20de%2030%20%28trinta%29%20dias%20para%20defesa%2C%20contados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. O processo administrativo, com o relatório da comissão, será remetido à autoridade instauradora, na forma do art. 10, para julgamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%2012.%20O%20processo%20administrativo%2C%20com%20o%20relat%C3%B3rio%20da%20comiss%C3%A3o%2C%20ser%C3%A1%20remetido%20%C3%A0%20autoridade%20instauradora%2C%20na%20forma%20do%20art.%2010%2C%20para%20julgamento.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. A instauração de processo administrativo específico de reparação integral do dano não prejudica a aplicação imediata das sanções estabelecidas nesta Lei.\n\nParágrafo único. Concluído o processo e não havendo pagamento, o crédito apurado será inscrito em dívida ativa da fazenda pública.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%2013.%20A%20instaura%C3%A7%C3%A3o%20de%20processo%20administrativo%20espec%C3%ADfico%20de%20repara%C3%A7%C3%A3o%20integral%20do%20dano%20n%C3%A3o%20prejudica%20a%20aplica%C3%A7%C3%A3o%20imediata%20das%20san%C3%A7%C3%B5es%20estabelecidas%20nesta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. A personalidade jurídica poderá ser desconsiderada sempre que utilizada com abuso do direito para facilitar, encobrir ou dissimular a prática dos atos ilícitos previstos nesta Lei ou para provocar confusão patrimonial, sendo estendidos todos os efeitos das sanções aplicadas à pessoa jurídica aos seus administradores e sócios com poderes de administração, observados o contraditório e a ampla defesa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%2014.%20A%20personalidade%20jur%C3%ADdica%20poder%C3%A1%20ser%20desconsiderada%20sempre%20que%20utilizada%20com%20abuso%20do%20direito%20para%20facilitar%2C%20encobrir%20ou%20dissimular%20a%20pr%C3%A1tica",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. A comissão designada para apuração da responsabilidade de pessoa jurídica, após a conclusão do procedimento administrativo, dará conhecimento ao Ministério Público de sua existência, para apuração de eventuais delitos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%2015.%20A%20comiss%C3%A3o%20designada%20para%20apura%C3%A7%C3%A3o%20da%20responsabilidade%20de%20pessoa%20jur%C3%ADdica%2C%20ap%C3%B3s%20a%20conclus%C3%A3o%20do%20procedimento%20administrativo%2C%20dar%C3%A1%20conhecimento%20ao%20Minist%C3%A9rio",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. A autoridade máxima de cada órgão ou entidade pública poderá celebrar acordo de leniência com as pessoas jurídicas responsáveis pela prática dos atos previstos nesta Lei que colaborem efetivamente com as investigações e o processo administrativo, sendo que dessa colaboração resulte:\n\nI - a identificação dos demais envolvidos na infração, quando couber; e\n\nII - a obtenção célere de informações e documentos que comprovem o ilícito sob apuração.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%2016.%20A%20autoridade%20m%C3%A1xima%20de%20cada%20%C3%B3rg%C3%A3o%20ou%20entidade%20p%C3%BAblica%20poder%C3%A1%20celebrar%20acordo%20de%20leni%C3%AAncia%20com%20as%20pessoas%20jur%C3%ADdicas%20respons%C3%A1veis%20pela",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. A administração pública poderá também celebrar acordo de leniência com a pessoa jurídica responsável pela prática de ilícitos previstos na Lei nº 8.666, de 21 de junho de 1993, com vistas à isenção ou atenuação das sanções administrativas estabelecidas em seus arts. 86 a 88.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%2017.%20A%20administra%C3%A7%C3%A3o%20p%C3%BAblica%20poder%C3%A1%20tamb%C3%A9m%20celebrar%20acordo%20de%20leni%C3%AAncia%20com%20a%20pessoa%20jur%C3%ADdica%20respons%C3%A1vel%20pela%20pr%C3%A1tica%20de%20il%C3%ADcitos%20previstos%20na",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "17-A"
+    },
+    "17-A": {
+      "numero": "17-A",
+      "texto": "Art. 17-A. Os processos administrativos referentes a licitações e contratos em curso em outros órgãos ou entidades que versem sobre o mesmo objeto do acordo de leniência deverão, com a celebração deste, ser sobrestados e, posteriormente, arquivados, em caso de cumprimento integral do acordo pela pessoa jurídica. (Incluído pela Medida provisória nº 703, de 2015) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%2017-A.%20Os%20processos%20administrativos%20referentes%20a%20licita%C3%A7%C3%B5es%20e%20contratos%20em%20curso%20em%20outros%20%C3%B3rg%C3%A3os%20ou%20entidades%20que%20versem%20sobre%20o%20mesmo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "17-B"
+    },
+    "17-B": {
+      "numero": "17-B",
+      "texto": "Art. 17-B. Os documentos porventura juntados durante o processo para elaboração do acordo de leniência deverão ser devolvidos à pessoa jurídica quando não ocorrer a celebração do acordo, não permanecendo cópias em poder dos órgãos celebrantes. (Incluído pela Medida provisória nº 703, de 2015) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%2017-B.%20Os%20documentos%20porventura%20juntados%20durante%20o%20processo%20para%20elabora%C3%A7%C3%A3o%20do%20acordo%20de%20leni%C3%AAncia%20dever%C3%A3o%20ser%20devolvidos%20%C3%A0%20pessoa%20jur%C3%ADdica%20quando",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17-A",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Na esfera administrativa, a responsabilidade da pessoa jurídica não afasta a possibilidade de sua responsabilização na esfera judicial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%2018.%20Na%20esfera%20administrativa%2C%20a%20responsabilidade%20da%20pessoa%20jur%C3%ADdica%20n%C3%A3o%20afasta%20a%20possibilidade%20de%20sua%20responsabiliza%C3%A7%C3%A3o%20na%20esfera%20judicial.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17-B",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Em razão da prática de atos previstos no art. 5º desta Lei, a União, os Estados, o Distrito Federal e os Municípios, por meio das respectivas Advocacias Públicas ou órgãos de representação judicial, ou equivalentes, e o Ministério Público, poderão ajuizar ação com vistas à aplicação das seguintes sanções às pessoas jurídicas infratoras:\n\nI - perdimento dos bens, direitos ou valores que representem vantagem ou proveito direta ou indiretamente obtidos da infração, ressalvado o direito do lesado ou de terceiro de boa-fé;\n\nII - suspensão ou interdição parcial de suas atividades;\n\nIII - dissolução compulsória da pessoa jurídica;\n\nIV - proibição de receber incentivos, subsídios, subvenções, doações ou empréstimos de órgãos ou entidades públicas e de instituições financeiras públicas ou controladas pelo poder público, pelo prazo mínimo de 1 (um) e máximo de 5 (cinco) anos.\n\n§ 1º A dissolução compulsória da pessoa jurídica será determinada quando comprovado:\n\nI - ter sido a personalidade jurídica utilizada de forma habitual para facilitar ou promover a prática de atos ilícitos; ou\n\nII - ter sido constituída para ocultar ou dissimular interesses ilícitos ou a identidade dos beneficiários dos atos praticados.\n\n§ 2º (VETADO).\n\n§ 3º As sanções poderão ser aplicadas de forma isolada ou cumulativa.\n\n§ 4º O Ministério Público ou a Advocacia Pública ou órgão de representação judicial, ou equivalente, do ente público poderá requerer a indisponibilidade de bens, direitos ou valores necessários à garantia do pagamento da multa ou da reparação integral do dano causado, conforme previsto no art. 7º , ressalvado o direito do terceiro de boa-fé.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%2019.%20Em%20raz%C3%A3o%20da%20pr%C3%A1tica%20de%20atos%20previstos%20no%20art.%205%C2%BA%20desta%20Lei%2C%20a%20Uni%C3%A3o%2C%20os%20Estados%2C%20o%20Distrito%20Federal%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Nas ações ajuizadas pelo Ministério Público, poderão ser aplicadas as sanções previstas no art. 6º , sem prejuízo daquelas previstas neste Capítulo, desde que constatada a omissão das autoridades competentes para promover a responsabilização administrativa.\n\nParágrafo único. A proposta do acordo de leniência poderá ser feita mesmo após eventual ajuizamento das ações cabíveis. (Incluído pela Medida provisória nº 703, de 2015) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%2020.%20Nas%20a%C3%A7%C3%B5es%20ajuizadas%20pelo%20Minist%C3%A9rio%20P%C3%BAblico%2C%20poder%C3%A3o%20ser%20aplicadas%20as%20san%C3%A7%C3%B5es%20previstas%20no%20art.%206%C2%BA%20%2C%20sem%20preju%C3%ADzo%20daquelas%20previstas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Nas ações de responsabilização judicial, será adotado o rito previsto na Lei nº 7.347, de 24 de julho de 1985.\n\nParágrafo único. A condenação torna certa a obrigação de reparar, integralmente, o dano causado pelo ilícito, cujo valor será apurado em posterior liquidação, se não constar expressamente da sentença.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%2021.%20Nas%20a%C3%A7%C3%B5es%20de%20responsabiliza%C3%A7%C3%A3o%20judicial%2C%20ser%C3%A1%20adotado%20o%20rito%20previsto%20na%20Lei%20n%C2%BA%207.347%2C%20de%2024%20de%20julho%20de%201985.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Fica criado no âmbito do Poder Executivo federal o Cadastro Nacional de Empresas Punidas - CNEP, que reunirá e dará publicidade às sanções aplicadas pelos órgãos ou entidades dos Poderes Executivo, Legislativo e Judiciário de todas as esferas de governo com base nesta Lei.\n\n§ 1º Os órgãos e entidades referidos no caput deverão informar e manter atualizados, no Cnep, os dados relativos às sanções por eles aplicadas.\n\n§ 2º O Cnep conterá, entre outras, as seguintes informações acerca das sanções aplicadas:\n\nI - razão social e número de inscrição da pessoa jurídica ou entidade no Cadastro Nacional da Pessoa Jurídica - CNPJ;\n\nII - tipo de sanção; e\n\nIII - data de aplicação e data final da vigência do efeito limitador ou impeditivo da sanção, quando for o caso.\n\n§ 3º As autoridades competentes, para celebrarem acordos de leniência previstos nesta Lei, também deverão prestar e manter atualizadas no Cnep, após a efetivação do respectivo acordo, as informações acerca do acordo de leniência celebrado, salvo se esse procedimento vier a causar prejuízo às investigações e ao processo administrativo.\n\n§ 4º Caso a pessoa jurídica não cumpra os termos do acordo de leniência, além das informações previstas no § 3º , deverá ser incluída no Cnep referência ao respectivo descumprimento.\n\n§ 5º Os registros das sanções e acordos de leniência serão excluídos depois de decorrido o prazo previamente estabelecido no ato sancionador ou do cumprimento integral do acordo de leniência e da reparação do eventual dano causado, mediante solicitação do órgão ou entidade sancionadora.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%2022.%20Fica%20criado%20no%20%C3%A2mbito%20do%20Poder%20Executivo%20federal%20o%20Cadastro%20Nacional%20de%20Empresas%20Punidas%20-%20CNEP%2C%20que%20reunir%C3%A1%20e%20dar%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Os órgãos ou entidades dos Poderes Executivo, Legislativo e Judiciário de todas as esferas de governo deverão informar e manter atualizados, para fins de publicidade, no Cadastro Nacional de Empresas Inidôneas e Suspensas - CEIS, de caráter público, instituído no âmbito do Poder Executivo federal, os dados relativos às sanções por eles aplicadas, nos termos do disposto nos arts. 87 e 88 da Lei no 8.666, de 21 de junho de 1993.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%2023.%20Os%20%C3%B3rg%C3%A3os%20ou%20entidades%20dos%20Poderes%20Executivo%2C%20Legislativo%20e%20Judici%C3%A1rio%20de%20todas%20as%20esferas%20de%20governo%20dever%C3%A3o%20informar%20e%20manter",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. A multa e o perdimento de bens, direitos ou valores aplicados com fundamento nesta Lei serão destinados preferencialmente aos órgãos ou entidades públicas lesadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%2024.%20A%20multa%20e%20o%20perdimento%20de%20bens%2C%20direitos%20ou%20valores%20aplicados%20com%20fundamento%20nesta%20Lei%20ser%C3%A3o%20destinados%20preferencialmente%20aos%20%C3%B3rg%C3%A3os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Prescrevem em 5 (cinco) anos as infrações previstas nesta Lei, contados da data da ciência da infração ou, no caso de infração permanente ou continuada, do dia em que tiver cessado.\n\nParágrafo único. Na esfera administrativa ou judicial, a prescrição será interrompida com a instauração de processo que tenha por objeto a apuração da infração.\n\n§ 1º Na esfera administrativa ou judicial, a prescrição será interrompida com a instauração de processo que tenha por objeto a apuração da infração. (Incluído pela Medida provisória nº 703, de 2015) (Vigência encerrada)\n\n§ 2º Aplica-se o disposto no caput e no § 1º aos ilícitos previstos em normas de licitações e contratos administrativos. (Incluído pela Medida provisória nº 703, de 2015) (Vigência encerrada)\n\nParágrafo único. Na esfera administrativa ou judicial, a prescrição será interrompida com a instauração de processo que tenha por objeto a apuração da infração.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%2025.%20Prescrevem%20em%205%20%28cinco%29%20anos%20as%20infra%C3%A7%C3%B5es%20previstas%20nesta%20Lei%2C%20contados%20da%20data%20da%20ci%C3%AAncia%20da%20infra%C3%A7%C3%A3o%20ou%2C%20no%20caso",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. A pessoa jurídica será representada no processo administrativo na forma do seu estatuto ou contrato social.\n\n§ 1º As sociedades sem personalidade jurídica serão representadas pela pessoa a quem couber a administração de seus bens.\n\n§ 2º A pessoa jurídica estrangeira será representada pelo gerente, representante ou administrador de sua filial, agência ou sucursal aberta ou instalada no Brasil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%2026.%20A%20pessoa%20jur%C3%ADdica%20ser%C3%A1%20representada%20no%20processo%20administrativo%20na%20forma%20do%20seu%20estatuto%20ou%20contrato%20social.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. A autoridade competente que, tendo conhecimento das infrações previstas nesta Lei, não adotar providências para a apuração dos fatos será responsabilizada penal, civil e administrativamente nos termos da legislação específica aplicável.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%2027.%20A%20autoridade%20competente%20que%2C%20tendo%20conhecimento%20das%20infra%C3%A7%C3%B5es%20previstas%20nesta%20Lei%2C%20n%C3%A3o%20adotar%20provid%C3%AAncias%20para%20a%20apura%C3%A7%C3%A3o%20dos%20fatos%20ser%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Esta Lei aplica-se aos atos lesivos praticados por pessoa jurídica brasileira contra a administração pública estrangeira, ainda que cometidos no exterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%2028.%20Esta%20Lei%20aplica-se%20aos%20atos%20lesivos%20praticados%20por%20pessoa%20jur%C3%ADdica%20brasileira%20contra%20a%20administra%C3%A7%C3%A3o%20p%C3%BAblica%20estrangeira%2C%20ainda%20que%20cometidos%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. O disposto nesta Lei não exclui as competências do Conselho Administrativo de Defesa Econômica, do Ministério da Justiça e do Ministério da Fazenda para processar e julgar fato que constitua infração à ordem econômica.\n\n§ 1º Os acordos de leniência celebrados pelos órgãos de controle interno da União, dos Estados, do Distrito Federal e dos Municípios contarão com a colaboração dos órgãos a que se refere o caput quando os atos e fatos apurados acarretarem simultaneamente a infração ali prevista. (Incluído pela Medida provisória nº 703, de 2015) (Vigência encerrada)\n\n§ 2º Se não houver concurso material entre a infração prevista no caput e os ilícitos contemplados nesta Lei, a competência e o procedimento para celebração de acordos de leniência observarão o previsto na Lei nº 12.529, de 30 de novembro de 2011, e a referida celebração contará com a participação do Ministério Público. (Incluído pela Medida provisória nº 703, de 2015) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%2029.%20O%20disposto%20nesta%20Lei%20n%C3%A3o%20exclui%20as%20compet%C3%AAncias%20do%20Conselho%20Administrativo%20de%20Defesa%20Econ%C3%B4mica%2C%20do%20Minist%C3%A9rio%20da%20Justi%C3%A7a%20e%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. A aplicação das sanções previstas nesta Lei não afeta os processos de responsabilização e aplicação de penalidades decorrentes de:\n\nI - ato de improbidade administrativa nos termos da Lei nº 8.429, de 2 de junho de 1992 ; e\n\nII - atos ilícitos alcançados pela Lei nº 8.666, de 21 de junho de 1993, ou outras normas de licitações e contratos da administração pública, inclusive no tocante ao Regime Diferenciado de Contratações Públicas - RDC instituído pela Lei nº 12.462, de 4 de agosto de 2011.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%2030.%20A%20aplica%C3%A7%C3%A3o%20das%20san%C3%A7%C3%B5es%20previstas%20nesta%20Lei%20n%C3%A3o%20afeta%20os%20processos%20de%20responsabiliza%C3%A7%C3%A3o%20e%20aplica%C3%A7%C3%A3o%20de%20penalidades%20decorrentes%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Esta Lei entra em vigor 180 (cento e oitenta) dias após a data de sua publicação.\n\nBrasília, 1º de agosto de 2013; 192º da Independência e 125º da República.\n\nDILMA ROUSSEFF\n\nJosé Eduardo Cardozo\n\nLuís Inácio Lucena Adams\n\nJorge Hage Sobrinho\n\nEste texto não substitui o publicado no DOU de 2.8.2013\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm#:~:text=Art.%2031.%20Esta%20Lei%20entra%20em%20vigor%20180%20%28cento%20e%20oitenta%29%20dias%20ap%C3%B3s%20a%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": null
+    }
+  }
+}

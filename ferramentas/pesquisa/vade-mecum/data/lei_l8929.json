@@ -1,0 +1,463 @@
+{
+  "_meta": {
+    "codigo": "L8929",
+    "nome": "Cédula de Produto Rural (CPR)",
+    "lei": "Lei 8.929/1994",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm",
+    "total_artigos": 28,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Fica instituída a Cédula de Produto Rural (CPR), representativa de promessa de entrega de produtos rurais, com ou sem garantia cedularmente constituída.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%201%C2%BA%20Fica%20institu%C3%ADda%20a%20C%C3%A9dula%20de%20Produto%20Rural%20%28CPR%29%2C%20representativa%20de%20promessa%20de%20entrega%20de%20produtos%20rurais%2C%20com%20ou%20sem%20garantia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Têm legitimação para emitir CPR o produtor rural e suas associações, inclusive cooperativas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%202%C2%BA%20T%C3%AAm%20legitima%C3%A7%C3%A3o%20para%20emitir%20CPR%20o%20produtor%20rural%20e%20suas%20associa%C3%A7%C3%B5es%2C%20inclusive%20cooperativas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º A CPR conterá os seguintes requisitos, lançados em seu contexto: (Vide Decreto nº 10.828, de 2021)\n\nI - denominação \"Cédula de Produto Rural\";\n\nI - denominação “Cédula de Produto Rural” ou “Cédula de Produto Rural com Liquidação Financeira”, conforme o caso;. (Redação da pela Lei nº 13.986, de 2020\n\nII - data da entrega;\n\nII - data da entrega ou vencimento e, se for o caso, cronograma de liquidação; . (Redação da pela Lei nº 13.986, de 2020\n\nIII - nome do credor e cláusula à ordem;\n\nIII - nome e qualificação do credor e cláusula à ordem; . (Redação da pela Lei nº 13.986, de 2020\n\nIV - promessa pura e simples de entregar o produto, sua indicação e as especificações de qualidade e quantidade;\n\nIV - promessa pura e simples de entrega do produto, sua indicação e as especificações de qualidade, de quantidade e do local onde será desenvolvido o produto rural; . (Redação da pela Lei nº 13.986, de 2020\n\nV - local e condições da entrega;\n\nVI - descrição dos bens cedularmente vinculados em garantia;\n\nVI - descrição dos bens vinculados em garantia por cédula e das garantias pessoais existentes; (Redação dada pela Medida Provisória nº 897, de 2019).\n\nVI - descrição dos bens cedularmente vinculados em garantia, com nome e qualificação dos seus proprietários e nome e qualificação dos garantidores fidejussórios; . (Redação da pela Lei nº 13.986, de 2020\n\nVII - data e lugar da emissão;\n\nVIII - assinatura do emitente.\n\nVIII - nome, qualificação e assinatura do emitente e dos garantidores, que poderá ser feita de forma eletrônica; . (Redação da pela Lei nº 13.986, de 2020\n\nIX - forma e condição de liquidação; e (Incluído pela Lei nº 13.986, de 2020).\n\nX - critérios adotados para obtenção do valor de liquidação da cédula. (Incluído pela Lei nº 13.986, de 2020).\n\n§ 1º Sem caráter de requisito essencial, a CPR poderá conter outras cláusulas lançadas em seu contexto, as quais poderão constar de documento à parte, com a assinatura do emitente, fazendo-se, na cédula, menção a essa circunstância.\n\n§ 1º Sem caráter de requisito essencial, a CPR, emitida sob a forma cartular ou escritural, poderá conter outras cláusulas lançadas em seu contexto. . (Redação da pela Lei nº 13.986, de 2020\n\n§ 2º A descrição dos bens vinculados em garantia pode ser feita em documento à parte, assinado pelo emitente, fazendo-se, na cédula, menção a essa circunstância.\n\n§ 3º A descrição do bem será feita de modo simplificado e, quando for o caso, este será identificado pela sua numeração própria, e pelos números de registro ou matrícula no registro oficial competente, dispensada, no caso de imóveis, a indicação das respectivas confrontações.\n\n§ 3º Os bens vinculados em garantia serão descritos de modo simplificado e, quando for o caso, serão identificados pela sua numeração própria e pelo número de registro ou matrícula no registro oficial competente, dispensada, no caso de imóveis, a indicação das respectivas confrontações. . (Redação da pela Lei nº 13.986, de 2020\n\n§ 4º No caso de emissão escritural, admite-se a utilização das formas previstas na legislação específica quanto à assinatura em documentos eletrônicos, como senha eletrônica, biometria e código de autenticação emitido por dispositivo pessoal e intransferível, inclusive para fins de validade, eficácia e executividade. (Incluído pela Lei nº 13.986, de 2020).\n\n§ 4º Na hipótese de emissão escritural, observada a legislação específica, as partes contratantes estabelecerão a forma e o nível de assinatura eletrônica que serão admitidos para fins de validade, eficácia e executividade, observadas as seguintes disposições: (Redação dada pela Medida Provisória nº 1.104, de 2022)\n\nI - na CPR e no documento à parte com a descrição dos bens vinculados em garantia, se houver, será admitida a utilização de assinatura eletrônica simples, avançada ou qualificada; e (Incluído pela Medida Provisória nº 1.104, de 2022)\n\nII - no registro e na averbação de garantia real constituída por bens móveis e imóveis, será admitida a utilização de assinatura eletrônica avançada ou qualificada. (Incluído pela Medida Provisória nº 1.104, de 2022)\n\n§ 4º As partes contratantes, observada a legislação específica, estabelecerão a forma e o nível de segurança da assinatura eletrônica que serão admitidos para fins de validade, eficácia e executividade, observadas as seguintes disposições: (Redação dada pela Lei nº 14.421, de 2022)\n\nI - na CPR e no documento à parte com a descrição dos bens vinculados em garantia, se houver, será admitida a utilização de assinatura eletrônica simples, avançada ou qualificada; e (Incluído pela Lei nº 14.421, de 2022)\n\nII - no registro e na averbação de garantia real constituída por bens móveis e imóveis, será admitida a utilização de assinatura eletrônica avançada ou qualificada. (Incluído pela Lei nº 14.421, de 2022)\n\n§ 5º A CPR poderá ser aditada, ratificada e retificada por termo aditivo que a integre, datado e assinado pelo emitente, pelo garantidor e pelo credor, com a formalização e o registro na forma do título original, conforme o art. 3º-A desta Lei, fazendo-se, na cédula, menção a essa circunstância. (Incluído pela Lei nº 13.986, de 2020).\n\n§ 6º No caso da CPR com liquidação física, os procedimentos para definição da qualidade do produto obedecerão ao disposto em regulamento do Poder Executivo, quando houver. (Incluído pela Lei nº 13.986, de 2020).\n\n§ 7º O Poder Executivo poderá regulamentar o disposto neste artigo. (Incluído pela Lei nº 13.986, de 2020).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%203%C2%BA%20A%20CPR%20conter%C3%A1%20os%20seguintes%20requisitos%2C%20lan%C3%A7ados%20em%20seu%20contexto%3A%20%28Vide%20Decreto%20n%C2%BA%2010.828%2C%20de%202021%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "3-A"
+    },
+    "3-A": {
+      "numero": "3-A",
+      "texto": "Art. 3º-A A CPR poderá ser emitida sob a forma cartular ou escritural. (Incluído pela Medida Provisória nº 897, de 2019)\n\n§ 1º A emissão na forma escritural será efetuada por meio do lançamento em sistema eletrônico de escrituração gerido por entidade autorizada pelo Banco Central do Brasil a exercer a atividade de escrituração. (Incluído pela Medida Provisória nº 897, de 2019)\n\n§ 2º A CPR emitida sob a forma cartular assumirá a forma escritural enquanto permanecer depositada em depositário central, nos termos do disposto na Lei nº 12.810, de 15 de maio de 2013. (Incluído pela Medida Provisória nº 897, de 2019)\n\n§ 3º Os negócios ocorridos durante o período em que a CPR emitida sob a forma cartular estiver depositada não serão transcritos no verso do título. (Incluído pela Medida Provisória nº 897, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%203%C2%BA-A%20A%20CPR%20poder%C3%A1%20ser%20emitida%20sob%20a%20forma%20cartular%20ou%20escritural.%20%28Inclu%C3%ADdo%20pela%20Medida%20Provis%C3%B3ria%20n%C2%BA%20897%2C%20de%202019%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "3-B"
+    },
+    "3-B": {
+      "numero": "3-B",
+      "texto": "Art. 3º-B Compete ao Banco Central do Brasil: (Incluído pela Medida Provisória nº 897, de 2019)\n\nI - estabelecer as condições para o exercício da atividade de escrituração de que trata o § 1º do art. 3º-A; e (Incluído pela Medida Provisória nº 897, de 2019)\n\nII - autorizar e supervisionar o exercício da atividade prevista no inciso I. (Incluído pela Medida Provisória nº 897, de 2019)\n\n§ 1º A autorização de que trata o inciso II do caput poderá, a critério do Banco Central do Brasil, ser concedida por segmento, por espécie ou por grupos de entidades que atendam a critérios específicos, dispensada a autorização individualizada. (Incluído pela Medida Provisória nº 897, de 2019)\n\n§ 2º A entidade responsável pela escrituração de que trata o inciso I do caput expedirá, mediante solicitação, certidão de inteiro teor do título, inclusive para fins de protesto e de execução judicial. (Incluído pela Medida Provisória nº 897, de 2019)\n\n§ 3º A certidão de que trata o § 2º poderá ser emitida na forma eletrônica, observados os requisitos de segurança que garantam a autenticidade e a integridade do documento. (Incluído pela Medida Provisória nº 897, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%203%C2%BA-B%20Compete%20ao%20Banco%20Central%20do%20Brasil%3A%20%28Inclu%C3%ADdo%20pela%20Medida%20Provis%C3%B3ria%20n%C2%BA%20897%2C%20de%202019%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3-A",
+      "next": "3-C"
+    },
+    "3-C": {
+      "numero": "3-C",
+      "texto": "Art. 3º-C O sistema de que trata o § 1º do art. 3º-A registrará: (Incluído pela Medida Provisória nº 897, de 2019)\n\nI - a emissão do título com seus requisitos essenciais; (Incluído pela Medida Provisória nº 897, de 2019)\n\nII - o endosso; (Incluído pela Medida Provisória nº 897, de 2019)\n\nIII - os aditamentos, as ratificações e as retificações; e (Incluído pela Medida Provisória nº 897, de 2019)\n\nIV - a inclusão de notificações, de cláusulas contratuais e de outras informações.. (Incluído pela Medida Provisória nº 897, de 2019)\n\nParágrafo único. Na hipótese de serem constituídos gravames e ônus, tal ocorrência será informada no sistema de que trata o § 1º do art. 3º-A. (Incluído pela Medida Provisória nº 897, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%203%C2%BA-C%20O%20sistema%20de%20que%20trata%20o%20%C2%A7%201%C2%BA%20do%20art.%203%C2%BA-A%20registrar%C3%A1%3A%20%28Inclu%C3%ADdo%20pela%20Medida%20Provis%C3%B3ria%20n%C2%BA%20897%2C%20de%202019%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3-B",
+      "next": "3-D"
+    },
+    "3-D": {
+      "numero": "3-D",
+      "texto": "Art. 3º-D A CPR poderá ser negociada nos mercados regulamentados de valores mobiliários, desde que registrada ou depositada em entidade autorizada pelo Banco Central do Brasil a exercer a atividade de registro ou depósito centralizado de ativos financeiros. (Incluído pela Medida Provisória nº 897, de 2019)\n\nParágrafo único. A CPR será considerada ativo financeiro e a operação ficará isenta do imposto sobre operações de crédito, câmbio e seguro, ou relativas a títulos ou valores mobiliários, na hipótese de ocorrência da negociação de que trata o caput. (Incluído pela Medida Provisória nº 897, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%203%C2%BA-D%20A%20CPR%20poder%C3%A1%20ser%20negociada%20nos%20mercados%20regulamentados%20de%20valores%20mobili%C3%A1rios%2C%20desde%20que%20registrada%20ou%20depositada%20em%20entidade%20autorizada%20pelo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3-C",
+      "next": "3-E"
+    },
+    "3-E": {
+      "numero": "3-E",
+      "texto": "Art. 3º-E As infrações às normas legais e regulamentares que regem a atividade de escrituração eletrônica sujeitam a entidade responsável pelo sistema eletrônico de escrituração, os seus administradores e os membros de seus órgãos estatutários ou contratuais ao disposto na Lei nº 13.506, de 13 de novembro de 2017. (Incluído pela Medida Provisória nº 897, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%203%C2%BA-E%20As%20infra%C3%A7%C3%B5es%20%C3%A0s%20normas%20legais%20e%20regulamentares%20que%20regem%20a%20atividade%20de%20escritura%C3%A7%C3%A3o%20eletr%C3%B4nica%20sujeitam%20a%20entidade%20respons%C3%A1vel%20pelo%20sistema",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3-D",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º A CPR é título líquido e certo, exigível pela quantidade e qualidade de produto nela previsto.Parágrafo único. O cumprimento parcial da obrigação de entrega será anotado, sucessivamente, no verso da cédula, tornando-se exigível apenas o saldo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%204%C2%BA%20A%20CPR%20%C3%A9%20t%C3%ADtulo%20l%C3%ADquido%20e%20certo%2C%20exig%C3%ADvel%20pela%20quantidade%20e%20qualidade%20de%20produto%20nela%20previsto.Par%C3%A1grafo%20%C3%BAnico.%20O%20cumprimento%20parcial",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3-E",
+      "next": "4-A"
+    },
+    "4-A": {
+      "numero": "4-A",
+      "texto": "Art. 4o-A. Fica permitida a liquidação financeira da CPR de que trata esta Lei, desde que observadas as seguintes condições: (Incluído pela Lei nº 10.200, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%204o-A.%20Fica%20permitida%20a%20liquida%C3%A7%C3%A3o%20financeira%20da%20CPR%20de%20que%20trata%20esta%20Lei%2C%20desde%20que%20observadas%20as%20seguintes%20condi%C3%A7%C3%B5es%3A%20%28Inclu%C3%ADdo%20pela",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "4-B"
+    },
+    "4-B": {
+      "numero": "4-B",
+      "texto": "Art. 4º-B A liquidação do pagamento em favor do legítimo credor, por qualquer meio de pagamento existente no âmbito do Sistema de Pagamentos Brasileiro, constituirá prova de pagamento total ou parcial da CPR emitida sob a forma escritural. (Incluído pela Medida Provisória nº 897, de 2019)\n\nParágrafo único. A prova de pagamento de que trata o caput será informada no sistema eletrônico de escrituração de que trata o § 1º do art. 3º-A, com referência expressa à CPR amortizada ou liquidada. (Incluído pela Medida Provisória nº 897, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%204%C2%BA-B%20A%20liquida%C3%A7%C3%A3o%20do%20pagamento%20em%20favor%20do%20leg%C3%ADtimo%20credor%2C%20por%20qualquer%20meio%20de%20pagamento%20existente%20no%20%C3%A2mbito%20do%20Sistema%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4-A",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º A garantia cedular da obrigação poderá consistir em:\n\nI - hipoteca;\n\nII - penhor;\n\nIII - alienação fiduciária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%205%C2%BA%20A%20garantia%20cedular%20da%20obriga%C3%A7%C3%A3o%20poder%C3%A1%20consistir%20em%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4-B",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Podem ser objeto de hipoteca cedular imóveis rurais e urbanos.\n\nParágrafo único. Aplicam-se à hipoteca cedular os preceitos da legislação sobre hipoteca, no que não colidirem com esta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%206%C2%BA%20Podem%20ser%20objeto%20de%20hipoteca%20cedular%20im%C3%B3veis%20rurais%20e%20urbanos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Podem ser objeto de penhor cedular, nas condições desta lei, os bens suscetíveis de penhor rural e de penhor mercantil, bem como os bens suscetíveis de penhor cedular.\n\n§ 1º Salvo se tratar de títulos de crédito, os bens apenhados continuam na posse imediata do emitente ou do terceiro prestador da garantia, que responde por sua guarda e conservação como fiel depositário.\n\n§ 2º Cuidando-se de penhor constituído por terceiro, o emitente da cédula responderá solidariamente com o empenhador pela guarda e conservação dos bens.\n\n§ 3º Aplicam-se ao penhor constituído por CPR, conforme o caso, os preceitos da legislação sobre penhor, inclusive o mercantil, o rural e o constituído por meio de cédulas, no que não colidirem com os desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%207%C2%BA%20Podem%20ser%20objeto%20de%20penhor%20cedular%2C%20nas%20condi%C3%A7%C3%B5es%20desta%20lei%2C%20os%20bens%20suscet%C3%ADveis%20de%20penhor%20rural%20e%20de%20penhor%20mercantil%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º A não identificação dos bens objeto de alienação fiduciária não retira a eficácia da garantia, que poderá incidir sobre outros do mesmo gênero, qualidade e quantidade, de propriedade do garante.\n\n§ 1º A alienação fiduciária de produtos agropecuários e de seus subprodutos poderá recair sobre bens presentes ou futuros, fungíveis ou infungíveis, consumíveis ou não, cuja titularidade pertença ao fiduciante, devedor ou terceiro garantidor, e sujeita-se às disposições previstas na Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), e na legislação especial a respeito do penhor, do penhor rural e do penhor agrícola e mercantil e às disposições sobre a alienação fiduciária de bens infungíveis, em tudo o que não for contrário ao disposto nesta Lei. (Incluído pela Lei nº 13.986, de 2020)\n\n§ 2º O beneficiamento ou a transformação dos gêneros agrícolas dados em alienação fiduciária não extinguem o vínculo real que se transfere, automaticamente, para os produtos e subprodutos resultantes de beneficiamento ou transformação. (Incluído pela Lei nº 13.986, de 2020)\n\n§ 3º Em caso de necessidade de busca e apreensão dos bens alienados fiduciariamente aplicar-se-á o disposto nos arts. 3º e seguintes do Decreto-Lei nº 911, de 1º de outubro de 1969. (Incluído pela Lei nº 13.986, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%208%C2%BA%20A%20n%C3%A3o%20identifica%C3%A7%C3%A3o%20dos%20bens%20objeto%20de%20aliena%C3%A7%C3%A3o%20fiduci%C3%A1ria%20n%C3%A3o%20retira%20a%20efic%C3%A1cia%20da%20garantia%2C%20que%20poder%C3%A1%20incidir%20sobre%20outros",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º A CPR poderá ser aditada, ratificada e retificada por aditivos, que a integram, datados e assinados pelo emitente e pelo credor, fazendo-se, na cédula, menção a essa circunstância.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%209%C2%BA%20A%20CPR%20poder%C3%A1%20ser%20aditada%2C%20ratificada%20e%20retificada%20por%20aditivos%2C%20que%20a%20integram%2C%20datados%20e%20assinados%20pelo%20emitente%20e%20pelo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Aplicam-se à CPR, no que forem cabíveis, as normas de direito cambial, com as seguintes modificações:\n\nI - os endossos devem ser completos;\n\nII - os endossantes não respondem pela entrega do produto, mas, tão-somente, pela existência da obrigação;\n\nIII - é dispensado o protesto cambial para assegurar o direito de regresso contra avalistas.\n\nParágrafo único. No caso de CPR emitida sob forma escritural, a transferência de titularidade da cédula produzirá os mesmos efeitos jurídicos do endosso. (Incluído pela Lei nº 13.986, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%2010.%20Aplicam-se%20%C3%A0%20CPR%2C%20no%20que%20forem%20cab%C3%ADveis%2C%20as%20normas%20de%20direito%20cambial%2C%20com%20as%20seguintes%20modifica%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Além de responder pela evicção, não pode o emitente da CPR invocar em seu benefício o caso fortuito ou de força maior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%2011.%20Al%C3%A9m%20de%20responder%20pela%20evic%C3%A7%C3%A3o%2C%20n%C3%A3o%20pode%20o%20emitente%20da%20CPR%20invocar%20em%20seu%20benef%C3%ADcio%20o%20caso%20fortuito%20ou%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. A CPR, para ter eficácia contra terceiros, inscreve-se no Cartório de Registro de Imóveis do domicílio do emitente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%2012.%20A%20CPR%2C%20para%20ter%20efic%C3%A1cia%20contra%20terceiros%2C%20inscreve-se%20no%20Cart%C3%B3rio%20de%20Registro%20de%20Im%C3%B3veis%20do%20domic%C3%ADlio%20do%20emitente.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. A entrega do produto antes da data prevista na cédula depende da anuência do credor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%2013.%20A%20entrega%20do%20produto%20antes%20da%20data%20prevista%20na%20c%C3%A9dula%20depende%20da%20anu%C3%AAncia%20do%20credor.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. A CPR poderá ser considerada vencida na hipótese de inadimplemento de qualquer das obrigações do emitente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%2014.%20A%20CPR%20poder%C3%A1%20ser%20considerada%20vencida%20na%20hip%C3%B3tese%20de%20inadimplemento%20de%20qualquer%20das%20obriga%C3%A7%C3%B5es%20do%20emitente.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Para cobrança da CPR, cabe a ação de execução para entrega de coisa incerta.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%2015.%20Para%20cobran%C3%A7a%20da%20CPR%2C%20cabe%20a%20a%C3%A7%C3%A3o%20de%20execu%C3%A7%C3%A3o%20para%20entrega%20de%20coisa%20incerta.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. A busca e apreensão do bem alienado fiduciariamente, promovida pelo credor, não elide posterior execução, inclusive da hipoteca e do penhor constituído na mesma cédula, para satisfação do crédito remanescente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%2016.%20A%20busca%20e%20apreens%C3%A3o%20do%20bem%20alienado%20fiduciariamente%2C%20promovida%20pelo%20credor%2C%20n%C3%A3o%20elide%20posterior%20execu%C3%A7%C3%A3o%2C%20inclusive%20da%20hipoteca%20e%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Pratica crime de estelionato aquele que fizer declarações falsas ou inexatas acerca de bens oferecidos em garantia da CPR, inclusive omitir declaração de já estarem eles sujeitos a outros ônus ou responsabilidade de qualquer espécie, até mesmo de natureza fiscal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%2017.%20Pratica%20crime%20de%20estelionato%20aquele%20que%20fizer%20declara%C3%A7%C3%B5es%20falsas%20ou%20inexatas%20acerca%20de%20bens%20oferecidos%20em%20garantia%20da%20CPR%2C%20inclusive",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Os bens vinculados à CPR não serão penhorados ou seqüestrados por outras dívidas do emitente ou do terceiro prestador da garantia real, cumprindo a qualquer deles denunciar a existência da cédula às autoridades incumbidas da diligência, ou a quem a determinou, sob pena de responderem pelos prejuízos resultantes de sua omissão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%2018.%20Os%20bens%20vinculados%20%C3%A0%20CPR%20n%C3%A3o%20ser%C3%A3o%20penhorados%20ou%20seq%C3%BCestrados%20por%20outras%20d%C3%ADvidas%20do%20emitente%20ou%20do%20terceiro%20prestador%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. A CPR poderá ser negociada nos mercados de bolsas e de balcão. (Revogado pela Medida Provisória nº 897, de 2019). (Revogado pela Lei nº 13.986, de 2020\n\n§ 1º O registro da CPR em sistema de registro e de liquidação financeira, administrado por entidade autorizada pelo Banco Central do Brasil, é condição indispensável para a negociação referida neste artigo. (Revogado pela Medida Provisória nº 897, de 2019). (Revogado pela Lei nº 13.986, de 2020\n\n§ 2º Nas ocorrências da negociação referida neste artigo, a CPR será considerada ativo financeiro e não haverá incidência do imposto sobre operações de crédito, câmbio e seguro, ou relativas a títulos ou valores mobiliários. (Revogado pela Medida Provisória nº 897, de 2019). (Revogado pela Lei nº 13.986, de 2020\n\n§ 3o A CPR registrada em sistema de registro e de liquidação financeira de ativos autorizado pelo Banco Central do Brasil terá as seguintes características: (Incluído pela Lei nº 11.076, de 2004) (Revogado pela Medida Provisória nº 897, de 2019). (Revogado pela Lei nº 13.986, de 2020\n\nI - será cartular antes do seu registro e após a sua baixa e escritural ou eletrônica enquanto permanecer registrada em sistema de registro e de liquidação financeira; (Incluído pela Lei nº 11.076, de 2004) (Revogado pela Medida Provisória nº 897, de 2019). (Revogado pela Lei nº 13.986, de 2020\n\nII - os negócios ocorridos durante o período em que a CPR estiver registrada em sistema de registro e de liquidação financeira não serão transcritos no verso dos títulos; (Incluído pela Lei nº 11.076, de 2004) (Revogado pela Medida Provisória nº 897, de 2019). (Revogado pela Lei nº 13.986, de 2020\n\nIII - a entidade registradora é responsável pela manutenção do registro da cadeia de negócios ocorridos no período em que os títulos estiverem registrados. (Incluído pela Lei nº 11.076, de 2004) (Revogado pela Medida Provisória nº 897, de 2019). (Revogado pela Lei nº 13.986, de 2020\n\n§ 4o Na hipótese de contar com garantia de instituição financeira ou seguradora, a CPR poderá ser emitida em favor do garantidor, devendo o emitente entregá-la a este, por meio de endosso-mandato com poderes para negociá-la, custodiá-la, registrá-la em sistema de registro e liquidação financeira de ativos autorizado pelo Banco Central do Brasil e endossá-la ao credor informado pelo sistema de registro. (Incluído pela Lei nº 11.076, de 2004) (Revogado pela Medida Provisória nº 897, de 2019). (Revogado pela Lei nº 13.986, de 2020",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%2019.%20A%20CPR%20poder%C3%A1%20ser%20negociada%20nos%20mercados%20de%20bolsas%20e%20de%20balc%C3%A3o.%20%28Revogado%20pela%20Medida%20Provis%C3%B3ria%20n%C2%BA%20897%2C%20de%202019%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "19-A"
+    },
+    "19-A": {
+      "numero": "19-A",
+      "texto": "Art. 19-A. (VETADO). (Redação dada pela Lei nº 14.421, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%2019-A.%20%28VETADO%29.%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%2014.421%2C%20de%202022%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Esta lei entra em vigor na data de sua publicação.\n\nBrasília, 22 de agosto de 1994; 173º da Independência e 106º da República.\n\nITAMAR FRANCO Rubens Ricupero\n\nEste texto não substitui o publicado no D.O.U. de 23.8.1994.\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8929.htm#:~:text=Art.%2020.%20Esta%20lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-A",
+      "next": null
+    }
+  }
+}

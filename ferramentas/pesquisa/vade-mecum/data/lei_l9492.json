@@ -1,0 +1,751 @@
+{
+  "_meta": {
+    "codigo": "L9492",
+    "nome": "Protesto de Títulos",
+    "lei": "Lei 9.492/1997",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm",
+    "total_artigos": 46,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Protesto é o ato formal e solene pelo qual se prova a inadimplência e o descumprimento de obrigação originada em títulos e outros documentos de dívida.\n\nParágrafo único. Incluem-se entre os títulos sujeitos a protesto as certidões de dívida ativa da União, dos Estados, do Distrito Federal, dos Municípios e das respectivas autarquias e fundações públicas. (Incluído pela Lei nº 12.767, de 2012)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%201%C2%BA%20Protesto%20%C3%A9%20o%20ato%20formal%20e%20solene%20pelo%20qual%20se%20prova%20a%20inadimpl%C3%AAncia%20e%20o%20descumprimento%20de%20obriga%C3%A7%C3%A3o%20originada%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Os serviços concernentes ao protesto, garantidores da autenticidade, publicidade, segurança e eficácia dos atos jurídicos, ficam sujeitos ao regime estabelecido nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%202%C2%BA%20Os%20servi%C3%A7os%20concernentes%20ao%20protesto%2C%20garantidores%20da%20autenticidade%2C%20publicidade%2C%20seguran%C3%A7a%20e%20efic%C3%A1cia%20dos%20atos%20jur%C3%ADdicos%2C%20ficam%20sujeitos%20ao%20regime%20estabelecido",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Compete privativamente ao Tabelião de Protesto de Títulos, na tutela dos interesses públicos e privados, a protocolização, a intimação, o acolhimento da devolução ou do aceite, o recebimento do pagamento, do título e de outros documentos de dívida, bem como lavrar e registrar o protesto ou acatar a desistência do credor em relação ao mesmo, proceder às averbações, prestar informações e fornecer certidões relativas a todos os atos praticados, na forma desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%203%C2%BA%20Compete%20privativamente%20ao%20Tabeli%C3%A3o%20de%20Protesto%20de%20T%C3%ADtulos%2C%20na%20tutela%20dos%20interesses%20p%C3%BAblicos%20e%20privados%2C%20a%20protocoliza%C3%A7%C3%A3o%2C%20a%20intima%C3%A7%C3%A3o%2C%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º O atendimento ao público será, no mínimo, de seis horas diárias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%204%C2%BA%20O%20atendimento%20ao%20p%C3%BAblico%20ser%C3%A1%2C%20no%20m%C3%ADnimo%2C%20de%20seis%20horas%20di%C3%A1rias.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Todos os documentos apresentados ou distribuídos no horário regulamentar serão protocolizados dentro de vinte e quatro horas, obedecendo à ordem cronológica de entrega.\n\nParágrafo único. Ao apresentante será entregue recibo com as características essenciais do título ou documento de dívida, sendo de sua responsabilidade os dados fornecidos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%205%C2%BA%20Todos%20os%20documentos%20apresentados%20ou%20distribu%C3%ADdos%20no%20hor%C3%A1rio%20regulamentar%20ser%C3%A3o%20protocolizados%20dentro%20de%20vinte%20e%20quatro%20horas%2C%20obedecendo%20%C3%A0%20ordem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Tratando-se de cheque, poderá o protesto ser lavrado no lugar do pagamento ou do domicílio do emitente, devendo do referido cheque constar a prova de apresentação ao Banco sacado, salvo se o protesto tenha por fim instruir medidas pleiteadas contra o estabelecimento de crédito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%206%C2%BA%20Tratando-se%20de%20cheque%2C%20poder%C3%A1%20o%20protesto%20ser%20lavrado%20no%20lugar%20do%20pagamento%20ou%20do%20domic%C3%ADlio%20do%20emitente%2C%20devendo%20do%20referido",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Os títulos e documentos de dívida destinados a protesto somente estarão sujeitos a prévia distribuição obrigatória nas localidades onde houver mais de um Tabelionato de Protesto de Títulos.\n\nParágrafo único. Onde houver mais de um Tabelionato de Protesto de Títulos, a distribuição será feita por um Serviço instalado e mantido pelos próprios Tabelionatos, salvo se já existir Ofício Distribuidor organizado antes da promulgação desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%207%C2%BA%20Os%20t%C3%ADtulos%20e%20documentos%20de%20d%C3%ADvida%20destinados%20a%20protesto%20somente%20estar%C3%A3o%20sujeitos%20a%20pr%C3%A9via%20distribui%C3%A7%C3%A3o%20obrigat%C3%B3ria%20nas%20localidades%20onde%20houver",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Os títulos e documentos de dívida serão recepcionados, distribuídos e entregues na mesma data aos Tabelionatos de Protesto, obedecidos os critérios de quantidade e qualidade.\n\nParágrafo único. Poderão ser recepcionadas as indicações a protestos das Duplicatas Mercantis e de Prestação de Serviços, por meio magnético ou de gravação eletrônica de dados, sendo de inteira responsabilidade do apresentante os dados fornecidos, ficando a cargo dos Tabelionatos a mera instrumentalização das mesmas.\n\n§ 1º Poderão ser recepcionadas as indicações a protestos das Duplicatas Mercantis e de Prestação de Serviços, por meio magnético ou de gravação eletrônica de dados, sendo de inteira responsabilidade do apresentante os dados fornecidos, ficando a cargo dos Tabelionatos a mera instrumentalização das mesmas. (Renumerado do parágrafo único pela Lei nº 13.775, de 2018)\n\n§ 2º Os títulos e documentos de dívida mantidos sob a forma escritural nos sistemas eletrônicos de escrituração ou nos depósitos centralizados de que trata a Lei nº 12.810, de 15 de maio de 2013, poderão ser recepcionados para protesto por extrato, desde que atestado por seu emitente, sob as penas da lei, que as informações conferem com o que consta na origem. (Incluído pela Lei nº 13.775, de 2018)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%208%C2%BA%20Os%20t%C3%ADtulos%20e%20documentos%20de%20d%C3%ADvida%20ser%C3%A3o%20recepcionados%2C%20distribu%C3%ADdos%20e%20entregues%20na%20mesma%20data%20aos%20Tabelionatos%20de%20Protesto%2C%20obedecidos%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Todos os títulos e documentos de dívida protocolizados serão examinados em seus caracteres formais e terão curso se não apresentarem vícios, não cabendo ao Tabelião de Protesto investigar a ocorrência de prescrição ou caducidade.\n\nParágrafo único. Qualquer irregularidade formal observada pelo Tabelião obstará o registro do protesto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%209%C2%BA%20Todos%20os%20t%C3%ADtulos%20e%20documentos%20de%20d%C3%ADvida%20protocolizados%20ser%C3%A3o%20examinados%20em%20seus%20caracteres%20formais%20e%20ter%C3%A3o%20curso%20se%20n%C3%A3o%20apresentarem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Poderão ser protestados títulos e outros documentos de dívida em moeda estrangeira, emitidos fora do Brasil, desde que acompanhados de tradução efetuada por tradutor público juramentado.\n\n§ 1º Constarão obrigatoriamente do registro do protesto a descrição do documento e sua tradução.\n\n§ 2º Em caso de pagamento, este será efetuado em moeda corrente nacional, cumprindo ao apresentante a conversão na data de apresentação do documento para protesto.\n\n§ 3º Tratando-se de títulos ou documentos de dívidas emitidos no Brasil, em moeda estrangeira, cuidará o Tabelião de observar as disposições do Decreto-lei nº 857, de 11 de setembro de 1969, e legislação complementar ou superveniente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2010.%20Poder%C3%A3o%20ser%20protestados%20t%C3%ADtulos%20e%20outros%20documentos%20de%20d%C3%ADvida%20em%20moeda%20estrangeira%2C%20emitidos%20fora%20do%20Brasil%2C%20desde%20que%20acompanhados%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Tratando-se de títulos ou documentos de dívida sujeitos a qualquer tipo de correção, o pagamento será feito pela conversão vigorante no dia da apresentação, no valor indicado pelo apresentante.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2011.%20Tratando-se%20de%20t%C3%ADtulos%20ou%20documentos%20de%20d%C3%ADvida%20sujeitos%20a%20qualquer%20tipo%20de%20corre%C3%A7%C3%A3o%2C%20o%20pagamento%20ser%C3%A1%20feito%20pela%20convers%C3%A3o%20vigorante",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "11-A"
+    },
+    "11-A": {
+      "numero": "11-A",
+      "texto": "Art. 11-A. Fica permitida ao tabelião de protesto e ao responsável interino pelo tabelionato territorialmente competente, por meio da central nacional de serviços eletrônicos compartilhados dos tabeliães de protesto prevista no art. 41-A desta Lei, a recepção do título ou documento de dívida com a recomendação do apresentante ou credor, caso este assim opte e requeira expressamente, de proposta de solução negocial prévia ao protesto, observado o seguinte: (Incluído pela Lei nº 14.711, de 2023)\n\nI - o prazo de resposta do devedor para a proposta de solução negocial será de até 30 (trinta) dias, segundo o que vier a ser fixado pelo apresentante, facultada a estipulação do valor ou percentual de desconto da dívida, bem como das demais condições de pagamento, se for o caso; (Incluído pela Lei nº 14.711, de 2023)\n\nII - o tabelião de protesto ou o responsável interino pelo tabelionato expedirá comunicação com o teor da proposta ao devedor por carta simples, por correio eletrônico, por aplicativo de mensagem instantânea ou por qualquer outro meio idôneo; (Incluído pela Lei nº 14.711, de 2023)\n\nIII - a remessa será convertida em indicação para protesto pelo valor original da dívida na hipótese de negociação frustrada e se não houver a desistência do apresentante ou credor. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 1º A data de apresentação da proposta de solução negocial de que trata o caput deste artigo é considerada para todos os fins e efeitos de direito, inclusive para direito de regresso, interrupção da prescrição, execução, falência e cobrança de emolumentos, desde que frustrada a negociação prévia e esta seja convertida em protesto. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 2º Em caso de concessão de desconto ao devedor, o cálculo dos emolumentos do tabelião, dos acréscimos legais e das verbas destinadas aos entes públicos e entidades a título de custas e contribuições e ao custeio dos atos gratuitos do registro civil das pessoas naturais deverá ser feito com base no valor efetivamente pago. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 3º Quando forem exitosas as medidas de incentivo à solução negocial prévia, será exigido do devedor ou interessado no pagamento, no momento de quitação da dívida, o pagamento dos emolumentos, dos acréscimos legais e das demais despesas, com base na tabela do protesto vigente na data de apresentação do título ou documento de dívida, bem como do preço devido à central nacional de serviços eletrônicos compartilhados pelos serviços prestados. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 4º Para aquelas medidas de incentivo à solução negocial prévia apresentadas entre 31 (trinta e um) e 120 (cento e vinte) dias, contados do vencimento do título ou documento de dívida, será exigido do apresentante ou credor o pagamento antecipado do preço devido à central nacional de serviços eletrônicos compartilhados pelos serviços prestados. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 5º Para aquelas medidas de incentivo à solução negocial prévia apresentadas após 120 (cento e vinte) dias, contados do vencimento do título ou documento de dívida, será exigido do apresentante ou credor o depósito prévio dos emolumentos, dos acréscimos legais e das demais despesas, observado o disposto no § 3º deste artigo. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 6º A proposta de solução negocial prévia não exitosa e a sua conversão em protesto serão consideradas ato único, para fins de cobrança de emolumentos, observado o disposto no § 3º e no inciso III do caput deste artigo. (Incluído pela Lei nº 14.711, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2011-A.%20Fica%20permitida%20ao%20tabeli%C3%A3o%20de%20protesto%20e%20ao%20respons%C3%A1vel%20interino%20pelo%20tabelionato%20territorialmente%20competente%2C%20por%20meio%20da%20central%20nacional%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. O protesto será registrado dentro de três dias úteis contados da protocolização do título ou documento de dívida.\n\n§ 1º Na contagem do prazo a que se refere o caput exclui-se o dia da protocolização e inclui-se o do vencimento.\n\n§ 2º Considera-se não útil o dia em que não houver expediente bancário para o público ou aquele em que este não obedecer ao horário normal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2012.%20O%20protesto%20ser%C3%A1%20registrado%20dentro%20de%20tr%C3%AAs%20dias%20%C3%BAteis%20contados%20da%20protocoliza%C3%A7%C3%A3o%20do%20t%C3%ADtulo%20ou%20documento%20de%20d%C3%ADvida.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11-A",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Quando a intimação for efetivada excepcionalmente no último dia do prazo ou além dele, por motivo de força maior, o protesto será tirado no primeiro dia útil subseqüente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2013.%20Quando%20a%20intima%C3%A7%C3%A3o%20for%20efetivada%20excepcionalmente%20no%20%C3%BAltimo%20dia%20do%20prazo%20ou%20al%C3%A9m%20dele%2C%20por%20motivo%20de%20for%C3%A7a%20maior%2C%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Protocolizado o título ou documento de dívida, o Tabelião de Protesto expedirá a intimação ao devedor, no endereço fornecido pelo apresentante do título ou documento, considerando-se cumprida quando comprovada a sua entrega no mesmo endereço.\n\n§ 1º A remessa da intimação poderá ser feita por portador do próprio tabelião, ou por qualquer outro meio, desde que o recebimento fique assegurado e comprovado através de protocolo, aviso de recepção (AR) ou documento equivalente.\n\n§ 2º A intimação deverá conter nome e endereço do devedor, elementos de identificação do título ou documento de dívida, e prazo limite para cumprimento da obrigação no Tabelionato, bem como número do protocolo e valor a ser pago.\n\n§ 3º O tabelião de protesto poderá utilizar meio eletrônico ou aplicativo multiplataforma de mensagens instantâneas e chamadas de voz para enviar as intimações, caso em que a intimação será considerada cumprida quando comprovado o seu recebimento por meio de confirmação de recebimento da plataforma eletrônica ou outro meio eletrônico equivalente. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 4º Após 3 (três) dias úteis, contados da remessa da intimação na forma do § 3º, sem que haja a comprovação de recebimento, deverá ser providenciada a intimação nos termos dos §§ 1º e 2º deste artigo. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 5º Na hipótese de o aviso de recepção ou documento equivalente não retornar ao tabelionato dentro do prazo de 7 (sete) dias úteis, deverá ser providenciada a intimação por edital, observado o prazo para a lavratura do protesto consignado no art. 13 desta Lei. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 6º Considera-se dia útil para o fim da contagem dos prazos deste artigo aquele em que houver expediente bancário para o público na localidade, conforme definido pelo Conselho Monetário Nacional. (Incluído pela Lei nº 14.711, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2014.%20Protocolizado%20o%20t%C3%ADtulo%20ou%20documento%20de%20d%C3%ADvida%2C%20o%20Tabeli%C3%A3o%20de%20Protesto%20expedir%C3%A1%20a%20intima%C3%A7%C3%A3o%20ao%20devedor%2C%20no%20endere%C3%A7o%20fornecido%20pelo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. A intimação será feita por edital se a pessoa indicada para aceitar ou pagar for desconhecida, sua localização incerta ou ignorada, for residente ou domiciliada fora da competência territorial do Tabelionato, ou, ainda, ninguém se dispuser a receber a intimação no endereço fornecido pelo apresentante.\n\n§ 1º O edital será afixado no Tabelionato de Protesto e publicado pela imprensa local onde houver jornal de circulação diária.\n\n§ 1º O edital será afixado no Tabelionato de Protesto e publicado no sítio eletrônico da central nacional de serviços eletrônicos compartilhados dos tabeliães de protesto prevista no art. 41-A desta Lei, sem prejuízo de outras publicações em jornais eletrônicos. (Redação dada pela Lei nº 14.711, de 2023)\n\n§ 2º Aquele que fornecer endereço incorreto, agindo de má-fé, responderá por perdas e danos, sem prejuízo de outras sanções civis, administrativas ou penais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2015.%20A%20intima%C3%A7%C3%A3o%20ser%C3%A1%20feita%20por%20edital%20se%20a%20pessoa%20indicada%20para%20aceitar%20ou%20pagar%20for%20desconhecida%2C%20sua%20localiza%C3%A7%C3%A3o%20incerta%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Antes da lavratura do protesto, poderá o apresentante retirar o título ou documento de dívida, pagos os emolumentos e demais despesas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2016.%20Antes%20da%20lavratura%20do%20protesto%2C%20poder%C3%A1%20o%20apresentante%20retirar%20o%20t%C3%ADtulo%20ou%20documento%20de%20d%C3%ADvida%2C%20pagos%20os%20emolumentos%20e%20demais",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Permanecerão no Tabelionato, à disposição do Juízo respectivo, os títulos ou documentos de dívida cujo protesto for judicialmente sustado.\n\n§ 1º O título do documento de dívida cujo protesto tiver sido sustado judicialmente só poderá ser pago, protestado ou retirado com autorização judicial.\n\n§ 2º Revogada a ordem de sustação, não há necessidade de se proceder a nova intimação do devedor, sendo a lavratura e o registro do protesto efetivados até o primeiro dia útil subseqüente ao do recebimento da revogação, salvo se a materialização do ato depender de consulta a ser formulada ao apresentante, caso em que o mesmo prazo será contado da data da resposta dada.\n\n§ 3º Tornada definitiva a ordem de sustação, o título ou o documento de dívida será encaminhado ao Juízo respectivo, quando não constar determinação expressa a qual das partes o mesmo deverá ser entregue, ou se decorridos trinta dias sem que a parte autorizada tenha comparecido no Tabelionato para retirá-lo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2017.%20Permanecer%C3%A3o%20no%20Tabelionato%2C%20%C3%A0%20disposi%C3%A7%C3%A3o%20do%20Ju%C3%ADzo%20respectivo%2C%20os%20t%C3%ADtulos%20ou%20documentos%20de%20d%C3%ADvida%20cujo%20protesto%20for%20judicialmente%20sustado.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. As dúvidas do Tabelião de Protesto serão resolvidas pelo Juízo competente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2018.%20As%20d%C3%BAvidas%20do%20Tabeli%C3%A3o%20de%20Protesto%20ser%C3%A3o%20resolvidas%20pelo%20Ju%C3%ADzo%20competente.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. O pagamento do título ou do documento de dívida apresentado para protesto será feito diretamente no Tabelionato competente, no valor igual ao declarado pelo apresentante, acrescido dos emolumentos e demais despesas.\n\n§ 1º Não poderá ser recusado pagamento oferecido dentro do prazo legal, desde que feito no Tabelionato de Protesto competente e no horário de funcionamento dos serviços.\n\n§ 2º No ato do pagamento, o Tabelionato de Protesto dará a respectiva quitação, e o valor devido será colocado à disposição do apresentante no primeiro dia útil subseqüente ao do recebimento.\n\n§ 3º Quando for adotado sistema de recebimento do pagamento por meio de cheque, ainda que de emissão de estabelecimento bancário, a quitação dada pelo Tabelionato fica condicionada à efetiva liquidação.\n\n§ 4º Quando do pagamento no Tabelionato ainda subsistirem parcelas vincendas, será dada quitação da parcela paga em apartado, devolvendo-se o original ao apresentante.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2019.%20O%20pagamento%20do%20t%C3%ADtulo%20ou%20do%20documento%20de%20d%C3%ADvida%20apresentado%20para%20protesto%20ser%C3%A1%20feito%20diretamente%20no%20Tabelionato%20competente%2C%20no%20valor",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Esgotado o prazo previsto no art. 12, sem que tenham ocorrido as hipóteses dos Capítulos VII e VIII, o Tabelião lavrará e registrará o protesto, sendo o respectivo instrumento entregue ao apresentante.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2020.%20Esgotado%20o%20prazo%20previsto%20no%20art.%2012%2C%20sem%20que%20tenham%20ocorrido%20as%20hip%C3%B3teses%20dos%20Cap%C3%ADtulos%20VII%20e%20VIII%2C%20o%20Tabeli%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. O protesto será tirado por falta de pagamento, de aceite ou de devolução.\n\n§ 1º O protesto por falta de aceite somente poderá ser efetuado antes do vencimento da obrigação e após o decurso do prazo legal para o aceite ou a devolução.\n\n§ 2º Após o vencimento, o protesto sempre será efetuado por falta de pagamento, vedada a recusa da lavratura e registro do protesto por motivo não previsto na lei cambial.\n\n§ 3º Quando o sacado retiver a letra de câmbio ou a duplicata enviada para aceite e não proceder à devolução dentro do prazo legal, o protesto poderá ser baseado na segunda via da letra de câmbio ou nas indicações da duplicata, que se limitarão a conter os mesmos requisitos lançados pelo sacador ao tempo da emissão da duplicata, vedada a exigência de qualquer formalidade não prevista na Lei que regula a emissão e circulação das duplicatas.\n\n§ 4º Os devedores, assim compreendidos os emitentes de notas promissórias e cheques, os sacados nas letras de câmbio e duplicatas, bem como os indicados pelo apresentante ou credor como responsáveis pelo cumprimento da obrigação, não poderão deixar de figurar no termo de lavratura e registro de protesto.\n\n§ 5o Não se poderá tirar protesto por falta de pagamento de letra de câmbio contra o sacado não aceitante. (Incluído pela Lei nº 12.767, de 2012)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2021.%20O%20protesto%20ser%C3%A1%20tirado%20por%20falta%20de%20pagamento%2C%20de%20aceite%20ou%20de%20devolu%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. O registro do protesto e seu instrumento deverão conter:\n\nI - data e número de protocolização;\n\nII - nome do apresentante e endereço;\n\nIII - reprodução ou transcrição do documento ou das indicações feitas pelo apresentante e declarações nele inseridas;\n\nIV - certidão das intimações feitas e das respostas eventualmente oferecidas;\n\nV - indicação dos intervenientes voluntários e das firmas por eles honradas;\n\nVI - a aquiescência do portador ao aceite por honra;\n\nVII - nome, número do documento de identificação do devedor e endereço;\n\nVIII - data e assinatura do Tabelião de Protesto, de seus substitutos ou de Escrevente autorizado.\n\nParágrafo único. Quando o Tabelião de Protesto conservar em seus arquivos gravação eletrônica da imagem, cópia reprográfica ou micrográfica do título ou documento de dívida, dispensa-se, no registro e no instrumento, a sua transcrição literal, bem como das demais declarações nele inseridas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2022.%20O%20registro%20do%20protesto%20e%20seu%20instrumento%20dever%C3%A3o%20conter%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Os termos dos protestos lavrados, inclusive para fins especiais, por falta de pagamento, de aceite ou de devolução serão registrados em um único livro e conterão as anotações do tipo e do motivo do protesto, além dos requisitos previstos no artigo anterior.\n\nParágrafo único. Somente poderão ser protestados, para fins falimentares, os títulos ou documentos de dívida de responsabilidade das pessoas sujeitas às conseqüências da legislação falimentar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2023.%20Os%20termos%20dos%20protestos%20lavrados%2C%20inclusive%20para%20fins%20especiais%2C%20por%20falta%20de%20pagamento%2C%20de%20aceite%20ou%20de%20devolu%C3%A7%C3%A3o%20ser%C3%A3o%20registrados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. O deferimento do processamento de concordata não impede o protesto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2024.%20O%20deferimento%20do%20processamento%20de%20concordata%20n%C3%A3o%20impede%20o%20protesto.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. A averbação de retificação de erros materiais pelo serviço poderá ser efetuada de ofício ou a requerimento do interessado, sob responsabilidade do Tabelião de Protesto de Títulos.\n\n§ 1º Para a averbação da retificação será indispensável a apresentação do instrumento eventualmente expedido e de documentos que comprovem o erro.\n\n§ 2º Não são devidos emolumentos pela averbação prevista neste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2025.%20A%20averba%C3%A7%C3%A3o%20de%20retifica%C3%A7%C3%A3o%20de%20erros%20materiais%20pelo%20servi%C3%A7o%20poder%C3%A1%20ser%20efetuada%20de%20of%C3%ADcio%20ou%20a%20requerimento%20do%20interessado%2C%20sob",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. O cancelamento do registro do protesto será solicitado diretamente no Tabelionato de Protesto de Títulos, por qualquer interessado, mediante apresentação do documento protestado, cuja cópia ficará arquivada.\n\n§ 1º Na impossibilidade de apresentação do original do título ou documento de dívida protestado, será exigida a declaração de anuência, com identificação e firma reconhecida, daquele que figurou no registro de protesto como credor, originário ou por endosso translativo.\n\n§ 2º Na hipótese de protesto em que tenha figurado apresentante por endosso-mandato, será suficiente a declaração de anuência passada pelo credor endossante.\n\n§ 3º O cancelamento do registro do protesto, se fundado em outro motivo que não no pagamento do título ou documento de dívida, será efetivado por determinação judicial, pagos os emolumentos devidos ao Tabelião.\n\n§ 4º Quando a extinção da obrigação decorrer de processo judicial, o cancelamento do registro do protesto poderá ser solicitado com a apresentação da certidão expedida pelo Juízo processante, com menção do trânsito em julgado, que substituirá o título ou o documento de dívida protestado.\n\n§ 5º O cancelamento do registro do protesto será feito pelo Tabelião titular, por seus Substitutos ou por Escrevente autorizado.\n\n§ 6º Quando o protesto lavrado for registrado sob forma de microfilme ou gravação eletrônica, o termo do cancelamento será lançado em documento apartado, que será arquivado juntamente com os documentos que instruíram o pedido, e anotado no índice respectivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2026.%20O%20cancelamento%20do%20registro%20do%20protesto%20ser%C3%A1%20solicitado%20diretamente%20no%20Tabelionato%20de%20Protesto%20de%20T%C3%ADtulos%2C%20por%20qualquer%20interessado%2C%20mediante%20apresenta%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "26-A"
+    },
+    "26-A": {
+      "numero": "26-A",
+      "texto": "Art. 26-A. Após a lavratura do protesto, faculta-se ao credor, ao devedor e ao tabelião ou ao responsável interino territorialmente competente pelo ato, por intermédio da central nacional de serviços eletrônicos compartilhados dos tabeliães de protesto prevista no art. 41-A desta Lei, a qualquer tempo, propor medidas de incentivo à renegociação de dívidas protestadas e ainda não canceladas, podendo também ser concedido abatimento de emolumentos e demais acréscimos legais. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 1º Faculta-se ao credor, ainda, autorizar o tabelião ou o responsável interino pelo expediente a receber o valor da dívida já protestada, bem como indicar eventual critério de atualização desse valor, concessão de desconto ou parcelamento do débito, e ao devedor oferecer contrapropostas, por meio da central nacional de serviços eletrônicos compartilhados. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 2º Em caso de liquidação da dívida por meio do uso das medidas de que trata o caput deste artigo, o devedor ou interessado no pagamento deverá arcar com o pagamento dos emolumentos devidos pelo registro do protesto e seu cancelamento, dos acréscimos legais e das demais despesas, com base na tabela do protesto vigente no momento da quitação do débito, bem como do preço devido à central nacional de serviços eletrônicos compartilhados dos tabeliães de protesto pelos serviços prestados. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 3º A prática de todos os atos necessários às medidas de incentivo à renegociação de dívidas protestadas é exclusiva e inerente à delegação dos tabeliães de protesto, diretamente ou por intermédio de sua central nacional de serviços eletrônicos compartilhados, vedada qualquer exigência que não esteja prevista nesta Lei. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 4º Nos casos em que o credor, o devedor ou interessado no pagamento optarem por propor medidas de incentivo à renegociação de dívidas protestadas e ainda não canceladas por intermédio dos tabeliães de protesto e da central nacional de serviços eletrônicos compartilhados prevista no art. 41-A desta Lei, o pagamento de que trata o § 2º deste artigo apenas será devido caso seja exitosa a renegociação, no momento da liquidação da dívida. (Incluído pela Lei nº 14.711, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2026-A.%20Ap%C3%B3s%20a%20lavratura%20do%20protesto%2C%20faculta-se%20ao%20credor%2C%20ao%20devedor%20e%20ao%20tabeli%C3%A3o%20ou%20ao%20respons%C3%A1vel%20interino%20territorialmente%20competente%20pelo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. O Tabelião de Protesto expedirá as certidões solicitadas dentro de cinco dias úteis, no máximo, que abrangerão o período mínimo dos cinco anos anteriores, contados da data do pedido, salvo quando se referir a protesto específico.\n\n§ 1º As certidões expedidas pelos serviços de protesto de títulos, inclusive as relativas à prévia distribuição, deverão obrigatoriamente indicar, além do nome do devedor, seu número no Registro Geral (R.G.), constante da Cédula de Identidade, ou seu número no Cadastro de Pessoas Físicas (C.P.F.), se pessoa física, e o número de inscrição no Cadastro Geral de Contribuintes (C.G.C.), se pessoa jurídica, cabendo ao apresentante do título para protesto fornecer esses dados, sob pena de recusa.\n\n§ 2º Das certidões não constarão os registros cujos cancelamentos tiverem sido averbados, salvo por requerimento escrito do próprio devedor ou por ordem judicial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2027.%20O%20Tabeli%C3%A3o%20de%20Protesto%20expedir%C3%A1%20as%20certid%C3%B5es%20solicitadas%20dentro%20de%20cinco%20dias%20%C3%BAteis%2C%20no%20m%C3%A1ximo%2C%20que%20abranger%C3%A3o%20o%20per%C3%ADodo%20m%C3%ADnimo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26-A",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Sempre que a homonímia puder ser verificada simplesmente pelo confronto do número de documento de identificação, o Tabelião de Protesto dará certidão negativa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2028.%20Sempre%20que%20a%20homon%C3%ADmia%20puder%20ser%20verificada%20simplesmente%20pelo%20confronto%20do%20n%C3%BAmero%20de%20documento%20de%20identifica%C3%A7%C3%A3o%2C%20o%20Tabeli%C3%A3o%20de%20Protesto",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Os Tabeliães de Protesto de Títulos somente poderão fornecer certidão, em forma de relação, para as entidades representativas do comércio, da indústria e das instituições financeiras, das pessoas cujos nomes e documentos forem indicados no pedido, com a nota de se tratar de informação reservada, para uso institucional exclusivo do solicitante, da qual não se poderá dar divulgação.\n\n§ 1º O fornecimento da certidão a que se refere o caput será suspenso caso se desatenda o seu caráter sigiloso ou se forneçam informações de protestos cancelados.\n\n§ 2º Dos cadastros ou bancos de dados, das entidades referidas no caput, somente serão prestadas informações, mesmo sigilosas, restritivas de crédito oriundas de títulos ou documentos de dívidas regularmente protestados, cujos registros não foram cancelados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2029.%20Os%20Tabeli%C3%A3es%20de%20Protesto%20de%20T%C3%ADtulos%20somente%20poder%C3%A3o%20fornecer%20certid%C3%A3o%2C%20em%20forma%20de%20rela%C3%A7%C3%A3o%2C%20para%20as%20entidades%20representativas%20do%20com%C3%A9rcio%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. As certidões, informações e relações serão elaboradas pelo nome dos devedores, conforme previstos no § 4º do art. 21 desta Lei, devidamente identificados, e abrangerão os protestos lavrados e registrados por falta de pagamento, de aceite ou de devolução, vedada a exclusão ou omissão de nomes e de protestos, ainda que provisória ou parcial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2030.%20As%20certid%C3%B5es%2C%20informa%C3%A7%C3%B5es%20e%20rela%C3%A7%C3%B5es%20ser%C3%A3o%20elaboradas%20pelo%20nome%20dos%20devedores%2C%20conforme%20previstos%20no%20%C2%A7%204%C2%BA%20do%20art.%2021%20desta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Do protocolo somente serão fornecidas informações ou certidões mediante solicitação escrita do devedor ou por determinação judicial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2031.%20Do%20protocolo%20somente%20ser%C3%A3o%20fornecidas%20informa%C3%A7%C3%B5es%20ou%20certid%C3%B5es%20mediante%20solicita%C3%A7%C3%A3o%20escrita%20do%20devedor%20ou%20por%20determina%C3%A7%C3%A3o%20judicial.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. O livro de Protocolo poderá ser escriturado mediante processo manual, mecânico, eletrônico ou informatizado, em folhas soltas e com colunas destinadas às seguintes anotações: número de ordem, natureza do título ou documento de dívida, valor, apresentante, devedor e ocorrências.\n\nParágrafo único. A escrituração será diária, constando do termo de encerramento o número de documentos apresentados no dia, sendo a data da protocolização a mesma do termo diário do encerramento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2032.%20O%20livro%20de%20Protocolo%20poder%C3%A1%20ser%20escriturado%20mediante%20processo%20manual%2C%20mec%C3%A2nico%2C%20eletr%C3%B4nico%20ou%20informatizado%2C%20em%20folhas%20soltas%20e%20com%20colunas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Os livros de Registros de Protesto serão abertos e encerrados pelo Tabelião de Protestos ou seus Substitutos, ou ainda por Escrevente autorizado, com suas folhas numeradas e rubricadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2033.%20Os%20livros%20de%20Registros%20de%20Protesto%20ser%C3%A3o%20abertos%20e%20encerrados%20pelo%20Tabeli%C3%A3o%20de%20Protestos%20ou%20seus%20Substitutos%2C%20ou%20ainda%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. Os índices serão de localização dos protestos registrados e conterão os nomes dos devedores, na forma do § 4º do art. 21, vedada a exclusão ou omissão de nomes e de protestos, ainda que em caráter provisório ou parcial, não decorrente do cancelamento definitivo do protesto.\n\n§ 1º Os índices conterão referência ao livro e à folha, ao microfilme ou ao arquivo eletrônico onde estiver registrado o protesto, ou ao número do registro, e aos cancelamentos de protestos efetuados.\n\n§ 2º Os índices poderão ser elaborados pelo sistema de fichas, microfichas ou banco eletrônico de dados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2034.%20Os%20%C3%ADndices%20ser%C3%A3o%20de%20localiza%C3%A7%C3%A3o%20dos%20protestos%20registrados%20e%20conter%C3%A3o%20os%20nomes%20dos%20devedores%2C%20na%20forma%20do%20%C2%A7%204%C2%BA%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. O Tabelião de Protestos arquivará ainda:\n\nI - intimações;\n\nII - editais;\n\nIII - documentos apresentados para a averbação no registro de protestos e ordens de cancelamentos;\n\nIV - mandados e ofícios judiciais;\n\nV - solicitações de retirada de documentos pelo apresentante;\n\nVI - comprovantes de entrega de pagamentos aos credores;\n\nVII - comprovantes de devolução de documentos de dívida irregulares.\n\n§ 1º Os arquivos deverão ser conservados, pelo menos, durante os seguintes prazos:\n\nI - um ano, para as intimações e editais correspondentes a documentos protestados e ordens de cancelamento;\n\nII - seis meses, para as intimações e editais correspondentes a documentos pagos ou retirados além do tríduo legal;\n\nIII - trinta dias, para os comprovantes de entrega de pagamento aos credores, para as solicitações de retirada dos apresentantes e para os comprovantes de devolução, por irregularidade, aos mesmos, dos títulos e documentos de dívidas.\n\n§ 2º Para os livros e documentos microfilmados ou gravados por processo eletrônico de imagens não subsiste a obrigatoriedade de sua conservação.\n\n§ 3º Os mandados judiciais de sustação de protesto deverão ser conservados, juntamente com os respectivos documentos, até solução definitiva por parte do Juízo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2035.%20O%20Tabeli%C3%A3o%20de%20Protestos%20arquivar%C3%A1%20ainda%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. O prazo de arquivamento é de três anos para livros de protocolo e de dez anos para os livros de registros de protesto e respectivos títulos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2036.%20O%20prazo%20de%20arquivamento%20%C3%A9%20de%20tr%C3%AAs%20anos%20para%20livros%20de%20protocolo%20e%20de%20dez%20anos%20para%20os%20livros%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Pelos atos que praticarem em decorrência desta Lei, os Tabeliães de Protesto perceberão, diretamente das partes, a título de remuneração, os emolumentos fixados na forma da lei estadual e de seus decretos regulamentadores, salvo quando o serviço for estatizado.\n\n§ 1º Poderá ser exigido depósito prévio dos emolumentos e demais despesas devidas, caso em que, igual importância deverá ser reembolsada ao apresentante por ocasião da prestação de contas, quando ressarcidas pelo devedor no Tabelionato.\n\n§ 1º Poderá ser exigido depósito prévio dos emolumentos e das demais despesas devidas, caso em que igual importância deverá ser reembolsada ao apresentante por ocasião da prestação de contas, quando ressarcidas pelo devedor no tabelionato, exceto em relação aos títulos ou documentos de dívida apresentados a protesto em conformidade com os §§ 4º e 5º deste artigo ou com lei federal específica. (Redação dada pela Lei nº 14.711, de 2023)\n\n§ 2º Todo e qualquer ato praticado pelo Tabelião de Protesto será cotado, identificando-se as parcelas componentes do seu total.\n\n§ 3º Pelo ato de digitalização e gravação eletrônica dos títulos e outros documentos, serão cobrados os mesmos valores previstos na tabela de emolumentos para o ato de microfilmagem.\n\n§ 4º (VETADO). (Incluído pela Lei nº 14.711, de 2023)\n\n§ 5º (VETADO). (Incluído pela Lei nº 14.711, de 2023)\n\n§ 6º Os valores destinados aos ofícios de distribuição ou outros serviços extrajudiciais, aos entes públicos ou a entidades, a título de emolumentos, custas, taxa de fiscalização, contribuições, custeio de atos gratuitos, tributos, ou em caráter assistencial, serão devidos na forma prevista no caput deste artigo e repassados somente após o efetivo recebimento pelo tabelião de protesto ou o responsável interino pelo expediente. (Incluído pela Lei nº 14.711, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2037.%20Pelos%20atos%20que%20praticarem%20em%20decorr%C3%AAncia%20desta%20Lei%2C%20os%20Tabeli%C3%A3es%20de%20Protesto%20perceber%C3%A3o%2C%20diretamente%20das%20partes%2C%20a%20t%C3%ADtulo%20de%20remunera%C3%A7%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIII",
+        "chapter_name": "CAPÍTULO XIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Os Tabeliães de Protesto de Títulos são civilmente responsáveis por todos os prejuízos que causarem, por culpa ou dolo, pessoalmente, pelos substitutos que designarem ou Escreventes que autorizarem, assegurado o direito de regresso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2038.%20Os%20Tabeli%C3%A3es%20de%20Protesto%20de%20T%C3%ADtulos%20s%C3%A3o%20civilmente%20respons%C3%A1veis%20por%20todos%20os%20preju%C3%ADzos%20que%20causarem%2C%20por%20culpa%20ou%20dolo%2C%20pessoalmente%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. A reprodução de microfilme ou do processamento eletrônico da imagem, do título ou de qualquer documento arquivado no Tabelionato, quando autenticado pelo Tabelião de Protesto, por seu Substituto ou Escrevente autorizado, guarda o mesmo valor do original, independentemente de restauração judicial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2039.%20A%20reprodu%C3%A7%C3%A3o%20de%20microfilme%20ou%20do%20processamento%20eletr%C3%B4nico%20da%20imagem%2C%20do%20t%C3%ADtulo%20ou%20de%20qualquer%20documento%20arquivado%20no%20Tabelionato%2C%20quando",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. Não havendo prazo assinado, a data do registro do protesto é o termo inicial da incidência de juros, taxas e atualizações monetárias sobre o valor da obrigação contida no título ou documento de dívida.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2040.%20N%C3%A3o%20havendo%20prazo%20assinado%2C%20a%20data%20do%20registro%20do%20protesto%20%C3%A9%20o%20termo%20inicial%20da%20incid%C3%AAncia%20de%20juros%2C%20taxas%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. Para os serviços previstos nesta Lei os Tabeliães poderão adotar, independentemente de autorização, sistemas de computação, microfilmagem, gravação eletrônica de imagem e quaisquer outros meios de reprodução.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2041.%20Para%20os%20servi%C3%A7os%20previstos%20nesta%20Lei%20os%20Tabeli%C3%A3es%20poder%C3%A3o%20adotar%2C%20independentemente%20de%20autoriza%C3%A7%C3%A3o%2C%20sistemas%20de%20computa%C3%A7%C3%A3o%2C%20microfilmagem%2C%20grava%C3%A7%C3%A3o%20eletr%C3%B4nica%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "41-A"
+    },
+    "41-A": {
+      "numero": "41-A",
+      "texto": "Art. 41-A. Os tabeliães de protesto manterão, em âmbito nacional, uma central nacional de serviços eletrônicos compartilhados que prestará, ao menos, os seguintes serviços: (Incluído pela Lei nº 13.775, de 2018)\n\nI - escrituração e emissão de duplicata sob a forma escritural, observado o disposto na legislação específica, inclusive quanto ao requisito de autorização prévia para o exercício da atividade de escrituração pelo órgão supervisor e aos demais requisitos previstos na regulamentação por ele editada; (Incluído pela Lei nº 13.775, de 2018)\n\nII - recepção e distribuição de títulos e documentos de dívida para protesto, desde que escriturais; (Incluído pela Lei nº 13.775, de 2018)\n\nIII - consulta gratuita quanto a devedores inadimplentes e aos protestos realizados, aos dados desses protestos e dos tabelionatos aos quais foram distribuídos, ainda que os respectivos títulos e documentos de dívida não sejam escriturais; (Incluído pela Lei nº 13.775, de 2018)\n\nIV - confirmação da autenticidade dos instrumentos de protesto em meio eletrônico; e (Incluído pela Lei nº 13.775, de 2018)\n\nV - anuência eletrônica para o cancelamento de protestos. (Incluído pela Lei nº 13.775, de 2018)\n\n§ 1º A partir da implementação da central de que trata o caput deste artigo, os tabelionatos de protesto disponibilizarão ao poder público, por meio eletrônico e sem ônus, o acesso às informações constantes dos seus bancos de dados. (Incluído pela Lei nº 13.775, de 2018)\n\n§ 2º É obrigatória a adesão imediata de todos os tabeliães de protesto do País ou responsáveis pelo expediente à central nacional de serviços eletrônicos compartilhados de que trata o caput deste artigo, sob pena de responsabilização disciplinar nos termos do inciso I do caput do art. 31 da Lei nº 8.935, de 18 de novembro de 1994. (Incluído pela Lei nº 13.775, de 2018)\n\n§ 3º A central nacional de serviços eletrônicos compartilhados prevista no caput deste artigo poderá, diretamente ou mediante convênio com entidade pública ou privada, realizar serviços de coleta, de processamento, de armazenamento e de integração de dados para a emissão e a escrituração de documentos eletrônicos passíveis de protesto. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 4º Ficam asseguradas a gratuidade dos serviços especificados nos incisos II, III, IV e V do caput e a livre estipulação de preço em relação aos serviços previstos no inciso I do caput deste artigo e demais serviços complementares disponibilizados aos usuários pela entidade credenciada pelos tabeliães de protesto. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 5º O serviço de que trata o art. 11 da Lei nº 14.206, de 27 de setembro de 2021, poderá ser executado pela central nacional de serviços eletrônicos compartilhados prevista no caput deste artigo, em regime de autorização. (Incluído pela Lei nº 14.711, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2041-A.%20Os%20tabeli%C3%A3es%20de%20protesto%20manter%C3%A3o%2C%20em%20%C3%A2mbito%20nacional%2C%20uma%20central%20nacional%20de%20servi%C3%A7os%20eletr%C3%B4nicos%20compartilhados%20que%20prestar%C3%A1%2C%20ao%20menos%2C%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. Esta Lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2042.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41-A",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. Revogam-se as disposições em contrário.\n\nBrasília, 10 de setembro de 1997; 176º da Independência e 109º da República.\n\nFERNANDO HENRIQUE CARDOSO Iris Rezende\n\nEste texto não substitui o publicado no D.O.U. de 11.09.1997\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm#:~:text=Art.%2043.%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XIV",
+        "chapter_name": "CAPÍTULO XIV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": null
+    }
+  }
+}

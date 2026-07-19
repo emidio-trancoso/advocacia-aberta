@@ -131,6 +131,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_cppm.json",
     rotulo: "Código de Processo Penal Militar (Decreto-Lei 1.002/1969)",
   },
+  D10278: {
+    arquivo: "../../data/lei_d10278.json",
+    rotulo: "Digitalização de Documentos – Requisitos de Integridade (Decreto 10.278/2020)",
+  },
   D11034: {
     arquivo: "../../data/lei_d11034.json",
     rotulo: "Serviço de Atendimento ao Consumidor (SAC) (Decreto 11.034/2022)",
@@ -303,6 +307,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l10962.json",
     rotulo: "Exibição de Preços de Produtos e Serviços (Lei 10.962/2004)",
   },
+  L11076: {
+    arquivo: "../../data/lei_l11076.json",
+    rotulo: "Títulos do Agronegócio (LCA/CRA e correlatos) (Lei 11.076/2004)",
+  },
   L11079: {
     arquivo: "../../data/lei_l11079.json",
     rotulo: "Parcerias Público-Privadas (PPPs) (Lei 11.079/2004)",
@@ -326,6 +334,14 @@ const REGISTRO_CODIGOS = {
   L11445: {
     arquivo: "../../data/lei_l11445.json",
     rotulo: "Saneamento Básico (marco setorial) (Lei 11.445/2007)",
+  },
+  L11598: {
+    arquivo: "../../data/lei_l11598.json",
+    rotulo: "REDESIM (registro e legalização) (Lei 11.598/2007)",
+  },
+  L11638: {
+    arquivo: "../../data/lei_l11638.json",
+    rotulo: "Alterações Contábeis (S.A. e grandes empresas) (Lei 11.638/2007)",
   },
   L11770: {
     arquivo: "../../data/lei_l11770.json",
@@ -375,6 +391,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l12506.json",
     rotulo: "Aviso Prévio Proporcional (Lei 12.506/2011)",
   },
+  L12529: {
+    arquivo: "../../data/lei_l12529.json",
+    rotulo: "Defesa da Concorrência (CADE) (Lei 12.529/2011)",
+  },
   L12618: {
     arquivo: "../../data/lei_l12618.json",
     rotulo: "Funpresp / Regime de Previdência Complementar do Servidor (Lei 12.618/2012)",
@@ -387,9 +407,17 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l12815.json",
     rotulo: "Setor Portuário – Relações de Trabalho (Lei 12.815/2013)",
   },
+  L12846: {
+    arquivo: "../../data/lei_l12846.json",
+    rotulo: "Lei Anticorrupção (responsabilização de pessoas jurídicas) (Lei 12.846/2013)",
+  },
   L12850: {
     arquivo: "../../data/lei_l12850.json",
     rotulo: "Organização Criminosa (Lei 12.850/2013)",
+  },
+  L12865: {
+    arquivo: "../../data/lei_l12865.json",
+    rotulo: "Arranjos e Instituições de Pagamento (Lei 12.865/2013)",
   },
   L13019: {
     arquivo: "../../data/lei_l13019.json",
@@ -455,6 +483,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l13726.json",
     rotulo: "Desburocratização — Atos e Documentos Públicos (Lei 13.726/2018)",
   },
+  L13775: {
+    arquivo: "../../data/lei_l13775.json",
+    rotulo: "Duplicata Escritural (Lei 13.775/2018)",
+  },
   L13777: {
     arquivo: "../../data/lei_l13777.json",
     rotulo: "Multipropriedade (Lei 13.777/2018)",
@@ -470,6 +502,14 @@ const REGISTRO_CODIGOS = {
   L13869: {
     arquivo: "../../data/lei_l13869.json",
     rotulo: "Abuso de Autoridade (Lei 13.869/2019)",
+  },
+  L13874: {
+    arquivo: "../../data/lei_l13874.json",
+    rotulo: "Declaração de Direitos de Liberdade Econômica (Lei 13.874/2019)",
+  },
+  L13966: {
+    arquivo: "../../data/lei_l13966.json",
+    rotulo: "Franquia Empresarial (Lei de Franquias) (Lei 13.966/2019)",
   },
   L13988: {
     arquivo: "../../data/lei_l13988.json",
@@ -495,6 +535,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l14192.json",
     rotulo: "Violência Política contra a Mulher (Lei 14.192/2021)",
   },
+  L14195: {
+    arquivo: "../../data/lei_l14195.json",
+    rotulo: "Melhoria do Ambiente de Negócios (extinção EIRELI) (Lei 14.195/2021)",
+  },
   L14208: {
     arquivo: "../../data/lei_l14208.json",
     rotulo: "Federações Partidárias (Lei 14.208/2021)",
@@ -502,6 +546,10 @@ const REGISTRO_CODIGOS = {
   L14211: {
     arquivo: "../../data/lei_l14211.json",
     rotulo: "Sobras e Quociente (distribuição de vagas) (Lei 14.211/2021)",
+  },
+  L14286: {
+    arquivo: "../../data/lei_l14286.json",
+    rotulo: "Marco Legal do Câmbio (Lei 14.286/2021)",
   },
   L14344: {
     arquivo: "../../data/lei_l14344.json",
@@ -511,9 +559,17 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l14382.json",
     rotulo: "Modernização dos Registros Públicos (SERP) (Lei 14.382/2022)",
   },
+  L14430: {
+    arquivo: "../../data/lei_l14430.json",
+    rotulo: "Marco das Securitizadoras e Securitização (Lei 14.430/2022)",
+  },
   L14442: {
     arquivo: "../../data/lei_l14442.json",
     rotulo: "Auxílio‑Alimentação (regras e vedações) (Lei 14.442/2022)",
+  },
+  L14478: {
+    arquivo: "../../data/lei_l14478.json",
+    rotulo: "Marco dos Criptoativos (Lei 14.478/2022)",
   },
   L14611: {
     arquivo: "../../data/lei_l14611.json",
@@ -535,6 +591,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l4090.json",
     rotulo: "Gratificação de Natal (13º salário) (Lei 4.090/1962)",
   },
+  L4320: {
+    arquivo: "../../data/lei_l4320.json",
+    rotulo: "Normas Gerais de Direito Financeiro (Lei 4.320/1964)",
+  },
   L4591: {
     arquivo: "../../data/lei_l4591.json",
     rotulo: "Incorporação Imobiliária (Lei 4.591/1964)",
@@ -547,13 +607,25 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l4717.json",
     rotulo: "Ação Popular (Lei 4.717/1965)",
   },
+  L4728: {
+    arquivo: "../../data/lei_l4728.json",
+    rotulo: "Mercado de Capitais (Lei 4.728/1965)",
+  },
   L4749: {
     arquivo: "../../data/lei_l4749.json",
     rotulo: "Pagamento do 13º salário (prazos e forma) (Lei 4.749/1965)",
   },
+  L4886: {
+    arquivo: "../../data/lei_l4886.json",
+    rotulo: "Representação Comercial (Lei 4.886/1965)",
+  },
   L4950A: {
     arquivo: "../../data/lei_l4950a.json",
     rotulo: "Pisos Profissionais (Eng., Arq., Agr., Vet., Quím.) (Lei 4.950-A/1966)",
+  },
+  L5474: {
+    arquivo: "../../data/lei_l5474.json",
+    rotulo: "Duplicatas (Lei 5.474/1968)",
   },
   L5478: {
     arquivo: "../../data/lei_l5478.json",
@@ -591,6 +663,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l6321.json",
     rotulo: "Programa de Alimentação do Trabalhador (PAT) (Lei 6.321/1976)",
   },
+  L6385: {
+    arquivo: "../../data/lei_l6385.json",
+    rotulo: "Mercado de Valores Mobiliários (CVM) (Lei 6.385/1976)",
+  },
   L6515: {
     arquivo: "../../data/lei_l6515.json",
     rotulo: "Lei do Divórcio (Lei 6.515/1977)",
@@ -602,6 +678,10 @@ const REGISTRO_CODIGOS = {
   L6615: {
     arquivo: "../../data/lei_l6615.json",
     rotulo: "Profissão de Radialista (Lei 6.615/1978)",
+  },
+  L6729: {
+    arquivo: "../../data/lei_l6729.json",
+    rotulo: "Concessão Comercial de Veículos (Lei 6.729/1979)",
   },
   L6766: {
     arquivo: "../../data/lei_l6766.json",
@@ -699,6 +779,14 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l8629.json",
     rotulo: "Reforma Agrária (Lei 8.629/1993)",
   },
+  L8929: {
+    arquivo: "../../data/lei_l8929.json",
+    rotulo: "Cédula de Produto Rural (CPR) (Lei 8.929/1994)",
+  },
+  L8934: {
+    arquivo: "../../data/lei_l8934.json",
+    rotulo: "Registro Público de Empresas Mercantis (Lei 8.934/1994)",
+  },
   L8935: {
     arquivo: "../../data/lei_l8935.json",
     rotulo: "Cartórios (Lei 8.935/1994)",
@@ -731,6 +819,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l9278.json",
     rotulo: "União Estável (regime jurídico) (Lei 9.278/1996)",
   },
+  L9279: {
+    arquivo: "../../data/lei_l9279.json",
+    rotulo: "Propriedade Industrial (Lei 9.279/1996)",
+  },
   L9289: {
     arquivo: "../../data/lei_l9289.json",
     rotulo: "Custas na Justiça Federal (Lei 9.289/1996)",
@@ -755,6 +847,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l9455.json",
     rotulo: "Tortura (Lei 9.455/1997)",
   },
+  L9492: {
+    arquivo: "../../data/lei_l9492.json",
+    rotulo: "Protesto de Títulos (Lei 9.492/1997)",
+  },
   L9494: {
     arquivo: "../../data/lei_l9494.json",
     rotulo: "Efeitos Processuais contra a Fazenda Pública (Lei 9.494/1997)",
@@ -778,6 +874,14 @@ const REGISTRO_CODIGOS = {
   L9605: {
     arquivo: "../../data/lei_l9605.json",
     rotulo: "Crimes Ambientais (Lei 9.605/1998)",
+  },
+  L9609: {
+    arquivo: "../../data/lei_l9609.json",
+    rotulo: "Propriedade Intelecutal sobre Software (programa de computador) (Lei 9.609/1998)",
+  },
+  L9610: {
+    arquivo: "../../data/lei_l9610.json",
+    rotulo: "Direitos Autorais (Lei 9.610/1998)",
   },
   L9613: {
     arquivo: "../../data/lei_l9613.json",
@@ -863,6 +967,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_lc150.json",
     rotulo: "Empregado Doméstico (Lei Complementar 150/2015)",
   },
+  LC182: {
+    arquivo: "../../data/lei_lc182.json",
+    rotulo: "Marco Legal das Startups (Lei Complementar 182/2021)",
+  },
   LC64: {
     arquivo: "../../data/lei_lc64.json",
     rotulo: "Inelegibilidades (Lei Complementar das Inelegibilidades) (Lei Complementar 64/1990)",
@@ -902,6 +1010,10 @@ const REGISTRO_CODIGOS = {
   LOAS: {
     arquivo: "../../data/lei_loas.json",
     rotulo: "Lei Orgânica da Assistência Social (LOAS) (Lei 8.742/1993)",
+  },
+  LREF: {
+    arquivo: "../../data/lei_lref.json",
+    rotulo: "Recuperação e Falência (Lei 11.101/2005)",
   },
   LRF: {
     arquivo: "../../data/lei_lrf.json",

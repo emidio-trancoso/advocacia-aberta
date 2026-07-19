@@ -1,0 +1,399 @@
+{
+  "_meta": {
+    "codigo": "L11598",
+    "nome": "REDESIM (registro e legalização)",
+    "lei": "Lei 11.598/2007",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm",
+    "total_artigos": 24,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o Esta Lei estabelece normas gerais de simplificação e integração do processo de registro e legalização de empresários e pessoas jurídicas no âmbito da União, dos Estados, do Distrito Federal e dos Municípios.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm#:~:text=Art.%201o%20Esta%20Lei%20estabelece%20normas%20gerais%20de%20simplifica%C3%A7%C3%A3o%20e%20integra%C3%A7%C3%A3o%20do%20processo%20de%20registro%20e%20legaliza%C3%A7%C3%A3o%20de%20empres%C3%A1rios%20e%20pessoas%20jur%C3%ADdicas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o Fica criada a Rede Nacional para a Simplificação do Registro e da Legalização de Empresas e Negócios - REDESIM, com a finalidade de propor ações e normas aos seus integrantes, cuja participação na sua composição será obrigatória para os órgãos federais e voluntária, por adesão mediante consórcio, para os órgãos, autoridades e entidades não federais com competências e atribuições vinculadas aos assuntos de interesse da Redesim.\n\nParágrafo único. A Redesim será administrada por um Comitê Gestor presidido pelo Ministro de Estado do Desenvolvimento, Indústria e Comércio Exterior, e sua composição, estrutura e funcionamento serão definidos em regulamento. (Revogado dada pela Medida Provisória nº 1.040, de 2021)\n\n§ 1º A Redesim será administrada por um Comitê Gestor presidido pelo Ministério da Economia, conforme regulamento. (Incluído pela Medida Provisória nº 1.040, de 2021)\n\n§ 1º A Redesim será administrada pelo Comitê para Gestão da Rede Nacional para Simplificação do Registro e da Legalização de Empresas e Negócios (CGSIM), presidido por representante indicado pelo Ministro de Estado da Economia, nos termos de regulamento. (Incluído pela Lei nº 14.195, de 2021)\n\n§ 2º A composição, a estrutura e o funcionamento do Comitê Gestor serão definidos em regulamento, que contemplará representação dos órgãos e das entidades envolvidos no processo de registro e legalização de empresários e pessoas jurídicas e no processo de licenciamento e autorizações de funcionamento. (Incluído pela Medida Provisória nº 1.040, de 2021)\n\n§ 2º A composição, a estrutura e o funcionamento do CGSIM serão definidos em regulamento, que contemplará representação dos órgãos e das entidades envolvidos no processo de registro e de legalização de empresários, incluídos produtores rurais estabelecidos como pessoas físicas, e de pessoas jurídicas e no processo de licenciamento e de autorizações de funcionamento. (Incluído pela Lei nº 14.195, de 2021)\n\n§ 3º A plataforma tecnológica de integração do processo relativa à Redesim poderá abranger produtos artesanais alimentícios, inclusive de origem animal ou vegetal, e as obras de construção civil, de empresários e de pessoas jurídicas. (Incluído pela Lei nº 14.195, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm#:~:text=Art.%202o%20Fica%20criada%20a%20Rede%20Nacional%20para%20a%20Simplifica%C3%A7%C3%A3o%20do%20Registro%20e%20da%20Legaliza%C3%A7%C3%A3o%20de%20Empresas%20e%20Neg%C3%B3cios%20-%20REDESIM%2C%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o Na elaboração de normas de sua competência, os órgãos e entidades que componham a Redesim deverão considerar a integração do processo de registro e de legalização de empresários e de pessoas jurídicas e articular as competências próprias com aquelas dos demais membros, buscando, em conjunto, compatibilizar e integrar procedimentos, de modo a evitar a duplicidade de exigências e garantir a linearidade do processo, da perspectiva do usuário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm#:~:text=Art.%203o%20Na%20elabora%C3%A7%C3%A3o%20de%20normas%20de%20sua%20compet%C3%AAncia%2C%20os%20%C3%B3rg%C3%A3os%20e%20entidades%20que%20componham%20a%20Redesim%20dever%C3%A3o%20considerar%20a%20integra%C3%A7%C3%A3o%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o Os órgãos e entidades que componham a Redesim, no âmbito de suas competências, deverão manter à disposição dos usuários, de forma presencial e pela rede mundial de computadores, informações, orientações e instrumentos que permitam pesquisas prévias às etapas de registro ou inscrição, alteração e baixa de empresários e pessoas jurídicas, de modo a prover ao usuário certeza quanto à documentação exigível e quanto à viabilidade do registro ou inscrição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm#:~:text=Art.%204o%20Os%20%C3%B3rg%C3%A3os%20e%20entidades%20que%20componham%20a%20Redesim%2C%20no%20%C3%A2mbito%20de%20suas%20compet%C3%AAncias%2C%20dever%C3%A3o%20manter%20%C3%A0%20disposi%C3%A7%C3%A3o%20dos%20usu%C3%A1rios%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o Para os fins de registro e legalização de empresários e pessoas jurídicas, os requisitos de segurança sanitária, controle ambiental e prevenção contra incêndios deverão ser simplificados, racionalizados e uniformizados pelos órgãos e entidades que componham a Redesim, no âmbito das respectivas competências.\n\n§ 1o As vistorias necessárias à emissão de licenças e de autorizações de funcionamento poderão ser realizadas após o início de operação do estabelecimento quando a atividade, por sua natureza, comportar grau de risco compatível com esse procedimento.\n\n§ 2o As vistorias de interesse dos órgãos fazendários deverão ser realizadas a partir do início de operação do estabelecimento, exceto quando, em relação à atividade, lei federal dispuser sobre a impossibilidade da mencionada operação sem prévia anuência da administração tributária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm#:~:text=Art.%205o%20Para%20os%20fins%20de%20registro%20e%20legaliza%C3%A7%C3%A3o%20de%20empres%C3%A1rios%20e%20pessoas%20jur%C3%ADdicas%2C%20os%20requisitos%20de%20seguran%C3%A7a%20sanit%C3%A1ria%2C%20controle%20ambiental%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "5-A"
+    },
+    "5-A": {
+      "numero": "5-A",
+      "texto": "Art. 5º-A Ato do Poder Executivo federal disporá sobre a classificação de risco das atividades, válida para todos os integrantes da Redesim, a ser observada na ausência de legislação estadual, distrital ou municipal específica, sem prejuízo do disposto no § 1º do art. 3º da Lei nº 13.874, de 20 de setembro de 2019, e observado o disposto no § 5º do art. 4º. (Incluído pela Medida Provisória nº 1.040, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm#:~:text=Art.%205%C2%BA-A%20Ato%20do%20Poder%20Executivo%20federal%20dispor%C3%A1%20sobre%20a%20classifica%C3%A7%C3%A3o%20de%20risco%20das%20atividades%2C%20v%C3%A1lida%20para%20todos%20os%20integrantes%20da%20Redesim%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o Os Municípios que aderirem à Redesim emitirão Alvará de Funcionamento Provisório, que permitirá o início de operação do estabelecimento imediatamente após o ato de registro, exceto nos casos em que o grau de risco da atividade seja considerado alto.\n\n§ 1o A conversão do Alvará de Funcionamento Provisório em Alvará de Funcionamento será condicionada à apresentação das licenças ou autorizações de funcionamento emitidas pelos órgãos e entidades competentes.\n\n§ 2o Caso os órgãos e entidades competentes não promovam as respectivas vistorias no prazo de vigência do Alvará de Funcionamento Provisório, este se converterá, automaticamente, em definitivo.\n\n§ 3o O Alvará de Funcionamento Provisório será emitido contra a assinatura de Termo de Ciência e Responsabilidade pelo empresário ou responsável legal pela sociedade, no qual este firmará compromisso, sob as penas da lei, de observar os requisitos exigidos para funcionamento e exercício das atividades econômicas constantes do objeto social, para efeito de cumprimento das normas de segurança sanitária, ambiental e de prevenção contra incêndio.\n\n§ 4o Do Termo de Ciência e Responsabilidade constarão informações sobre as exigências que deverão ser cumpridas com anterioridade ao início da atividade do empresário ou da pessoa jurídica, para a obtenção das licenças necessárias à eficácia plena do Alvará de Funcionamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm#:~:text=Art.%206o%20Os%20Munic%C3%ADpios%20que%20aderirem%20%C3%A0%20Redesim%20emitir%C3%A3o%20Alvar%C3%A1%20de%20Funcionamento%20Provis%C3%B3rio%2C%20que%20permitir%C3%A1%20o%20in%C3%ADcio%20de%20opera%C3%A7%C3%A3o%20do%20estabelecimento%20imediatamente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5-A",
+      "next": "6-A"
+    },
+    "6-A": {
+      "numero": "6-A",
+      "texto": "Art. 6º-A Sem prejuízo do disposto no inciso I do caput do art. 3º da Lei nº 13.874, de 20 de setembro de 2019, nos casos em que o grau de risco da atividade seja considerado médio, na forma prevista no art. 5º-A desta Lei, o alvará de funcionamento e as licenças serão emitidos automaticamente, sem análise humana, por intermédio de sistema responsável pela integração dos órgãos e das entidades de registro, nos termos estabelecidos em resolução do CGSIM. (Incluído pela Lei nº 14.195, de 2021) (Vide ADI 6808)\n\n§ 1º O alvará de funcionamento será emitido com a assinatura de termo de ciência e responsabilidade do empresário, sócio ou responsável legal pela sociedade, que firmará compromisso, sob as penas da lei, de observar os requisitos exigidos para o funcionamento e o exercício das atividades econômicas constantes do objeto social, para efeito de cumprimento das normas de segurança sanitária, ambientais e de prevenção contra incêndio. (Incluído pela Lei nº 14.195, de 2021)\n\n§ 2º Do termo de ciência e responsabilidade constarão informações sobre as exigências que deverão ser cumpridas antes do início da atividade empresarial. (Incluído pela Lei nº 14.195, de 2021)\n\n§ 3º O CGSIM comunicará ao responsável pela integração nos Estados e no Distrito Federal sobre o recebimento de classificação própria prevista em legislação estadual, distrital ou municipal específica, caso em que o sistema aplicará a classificação respectiva e não a estabelecida pelo CGSIM na forma prevista no caput do art. 5º-A desta Lei. (Incluído pela Lei nº 14.195, de 2021)\n\n§ 4º A emissão automática de que trata o caput deste artigo não obsta a fiscalização pelos órgãos ou pelas entidades estaduais, distritais ou municipais competentes. (Incluído pela Lei nº 14.195, de 2021)\n\n§ 5º A assinatura de termo de ciência e responsabilidade do empresário, sócio ou responsável legal pela sociedade, referido no § 1º deste artigo, poderá ser realizada eletronicamente mediante o uso de assinaturas eletrônicas nos termos da Lei nº 14.063, de 23 de setembro de 2020. (Incluído pela Lei nº 14.195, de 2021)\n\n§ 6º As disposições deste artigo não afastam as regras de licenças ambientais e outros atos autorizativos previstos na Lei Complementar nº 140, de 8 de dezembro de 2011. (Incluído pela Lei nº 14.195, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm#:~:text=Art.%206%C2%BA-A%20Sem%20preju%C3%ADzo%20do%20disposto%20no%20inciso%20I%20do%20caput%20do%20art.%203%C2%BA%20da%20Lei%20n%C2%BA%2013.874%2C%20de%2020%20de%20setembro",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o Para os atos de registro, inscrição, alteração e baixa de empresários ou pessoas jurídicas, fica vedada a instituição de qualquer tipo de exigência de natureza documental ou formal, restritiva ou condicionante, que exceda o estrito limite dos requisitos pertinentes à essência de tais atos, observado o disposto nos arts. 5o e 9o desta Lei, não podendo também ser exigidos, de forma especial:\n\nI - quaisquer documentos adicionais aos requeridos pelos órgãos executores do Registro Público de Empresas Mercantis e Atividades Afins e do Registro Civil de Pessoas Jurídicas, excetuados os casos de autorização legal prévia;\n\nII - documento de propriedade, contrato de locação ou comprovação de regularidade de obrigações tributárias referentes ao imóvel onde será instalada a sede, filial ou outro estabelecimento;\n\nIII - comprovação de regularidade de prepostos dos empresários ou pessoas jurídicas com seus órgãos de classe, sob qualquer forma, como requisito para deferimento de ato de inscrição, alteração ou baixa de empresários ou pessoas jurídicas, bem como para autenticação de instrumento de escrituração;\n\nIV - certidão de inexistência de condenação criminal, que será substituída por declaração do titular ou administrador, firmada sob as penas da lei, de não estar impedido de exercer atividade mercantil ou a administração de sociedade, em virtude de condenação criminal;\n\nV – (VETADO).\n\n§ 1o Eventuais exigências no curso de processo de registro e legalização de empresário ou de pessoa jurídica serão objeto de comunicação pelo órgão competente ao requerente, com indicação das disposições legais que as fundamentam.\n\n§ 2o Os atos de inscrição fiscal e tributária, suas alterações e baixas efetuados diretamente por órgãos e entidades da administração direta que integrem a Redesim não importarão em ônus, a qualquer título, para os empresários ou pessoas jurídicas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm#:~:text=Art.%207o%20Para%20os%20atos%20de%20registro%2C%20inscri%C3%A7%C3%A3o%2C%20altera%C3%A7%C3%A3o%20e%20baixa%20de%20empres%C3%A1rios%20ou%20pessoas%20jur%C3%ADdicas%2C%20fica%20vedada%20a%20institui%C3%A7%C3%A3o%20de%20qualquer",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6-A",
+      "next": "7-A"
+    },
+    "7-A": {
+      "numero": "7-A",
+      "texto": "Art. 7o-A. O registro dos atos constitutivos, de suas alterações e extinções (baixas), referentes a empresários e pessoas jurídicas em qualquer órgão dos 3 (três) âmbitos de governo, ocorrerá independentemente da regularidade de obrigações tributárias, previdenciárias ou trabalhistas, principais ou acessórias, do empresário, da sociedade, dos sócios, dos administradores ou de empresas de que participem, sem prejuízo das responsabilidades do empresário, dos titulares, dos sócios ou dos administradores por tais obrigações, apuradas antes ou após o ato de extinção. (Incluído pela Lei Complementar nº 147, de 2014)\n\n§ 1o A baixa referida no caput deste artigo não impede que, posteriormente, sejam lançados ou cobrados impostos, contribuições e respectivas penalidades, decorrentes da simples falta de recolhimento ou da prática comprovada e apurada em processo administrativo ou judicial de outras irregularidades praticadas pelos empresários ou por seus titulares, sócios ou administradores. (Incluído pela Lei Complementar nº 147, de 2014)\n\n§ 2o A solicitação de baixa na hipótese prevista no caput deste artigo importa responsabilidade solidária dos titulares, dos sócios e dos administradores do período de ocorrência dos respectivos fatos geradores. (Incluído pela Lei Complementar nº 147, de 2014)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm#:~:text=Art.%207o-A.%20O%20registro%20dos%20atos%20constitutivos%2C%20de%20suas%20altera%C3%A7%C3%B5es%20e%20extin%C3%A7%C3%B5es%20%28baixas%29%2C%20referentes%20a%20empres%C3%A1rios%20e%20pessoas%20jur%C3%ADdicas%20em%20qualquer%20%C3%B3rg%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o Verificada pela fiscalização de qualquer órgão componente da Redesim divergência em dado cadastral do empresário ou da pessoa jurídica originário de instrumento de constituição, alteração ou baixa, deverá constar do auto a que seja reduzido o ato de fiscalização a obrigatoriedade de atualização ou correção daquele, no prazo de 30 (trinta) dias, mediante registro de instrumento próprio no órgão executor do Registro Público de Empresas Mercantis e Atividades Afins ou do Registro Civil de Pessoas Jurídicas, conforme o caso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm#:~:text=Art.%208o%20Verificada%20pela%20fiscaliza%C3%A7%C3%A3o%20de%20qualquer%20%C3%B3rg%C3%A3o%20componente%20da%20Redesim%20diverg%C3%AAncia%20em%20dado%20cadastral%20do%20empres%C3%A1rio%20ou%20da%20pessoa%20jur%C3%ADdica%20origin%C3%A1rio",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7-A",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o Será assegurada ao usuário da Redesim entrada única de dados cadastrais e de documentos, resguardada a independência das bases de dados e observada a necessidade de informações por parte dos órgãos e entidades que a integrem.\n\n§ 1o Os órgãos executores do Registro Público de Empresas Mercantis e Atividades Afins e do Registro Civil das Pessoas Jurídicas colocarão à disposição dos demais integrantes da Redesim, por meio eletrônico:\n\nI - os dados de registro de empresários ou pessoas jurídicas, imediatamente após o arquivamento dos atos;\n\nII - as imagens digitalizadas dos atos arquivados, no prazo de 5 (cinco) dias úteis após o arquivamento.\n\n§ 2o As imagens digitalizadas suprirão a eventual exigência de apresentação do respectivo documento a órgão ou entidade que integre a Redesim.\n\n§ 3o Deverão ser utilizadas, nos cadastros e registros administrativos no âmbito da Redesim, as classificações aprovadas por órgão do Poder Executivo Federal designado em regulamento, devendo os órgãos e entidades integrantes zelar pela uniformidade e consistência das informações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm#:~:text=Art.%209o%20Ser%C3%A1%20assegurada%20ao%20usu%C3%A1rio%20da%20Redesim%20entrada%20%C3%BAnica%20de%20dados%20cadastrais%20e%20de%20documentos%2C%20resguardada%20a%20independ%C3%AAncia%20das%20bases%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Para maior segurança no cumprimento de suas competências institucionais no processo de registro, com vistas na verificação de dados de identificação de empresários, sócios ou administradores, os órgãos executores do Registro Público de Empresas Mercantis e Atividades Afins e do Registro Civil de Pessoas Jurídicas realizarão consultas automatizadas e gratuitas:\n\nI - ao Cadastro Nacional de Documentos Extraviados, Roubados ou Furtados;\n\nII - a sistema nacional de informações sobre pessoas falecidas;\n\nIII - a outros cadastros de órgãos públicos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm#:~:text=Art.%2010.%20Para%20maior%20seguran%C3%A7a%20no%20cumprimento%20de%20suas%20compet%C3%AAncias%20institucionais%20no%20processo%20de%20registro%2C%20com%20vistas%20na%20verifica%C3%A7%C3%A3o%20de%20dados%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. O Poder Executivo Federal criará e manterá, na rede mundial de computadores - internet, sistema pelo qual:\n\nI - será provida orientação e informação sobre etapas e requisitos para processamento de registro, inscrição, alteração e baixa de pessoas jurídicas ou empresários, bem como sobre a elaboração de instrumentos legais pertinentes;\n\nI - promover orientação e informação sobre as etapas e os requisitos para processamento de registro, de inscrição, de alteração e de baixa de pessoas jurídicas ou de empresários; (Redação dada pela Lei nº 14.195, de 2021)\n\nII - sempre que o meio eletrônico permitir que sejam realizados com segurança, serão prestados os serviços prévios ou posteriores à protocolização dos documentos exigidos, inclusive o preenchimento da ficha cadastral única a que se refere o art. 9o desta Lei;\n\nII - prestar os serviços prévios ao registro e à legalização de empresários e de pessoas jurídicas, incluída a disponibilização de aplicativo de pesquisa on-line e com resposta imediata sobre a existência de nome empresarial idêntico; (Redação dada pela Lei nº 14.195, de 2021)\n\nIII - poderá o usuário acompanhar os processos de seu interesse.\n\nIII - (revogado); (Redação dada pela Lei nº 14.195, de 2021) (Vide ADI 6808)\n\nIV - realizar o registro e as inscrições de empresários e pessoas jurídicas sem estabelecimento físico; (Incluído pela Lei nº 14.195, de 2021)\n\nV - prestar serviço de consulta sobre a possibilidade de exercício da atividade empresarial no local indicado para o funcionamento do estabelecimento comercial, no caso de os Municípios disponibilizarem resposta automática e imediata e seguirem as orientações constantes de resolução do CGSIM; (Incluído pela Lei nº 14.195, de 2021)\n\nVI - prestar os serviços posteriores ao registro e à legalização, incluída a coleta de informações relativas aos empregados contratados pelo empresário ou pela pessoa jurídica; e (Incluído pela Lei nº 14.195, de 2021)\n\nVII - oferecer serviço de pagamento on-line e unificado das taxas e dos preços públicos envolvidos no processo de registro e de legalização de empresas. (Incluído pela Lei nº 14.195, de 2021)\n\nParágrafo único. O sistema mencionado no caput deste artigo deverá contemplar o conjunto de ações que devam ser realizadas envolvendo os órgãos e entidades da administração federal, estadual, do Distrito Federal e municipal, observado o disposto no art. 2o desta Lei, aos quais caberá a responsabilidade pela formação, atualização e incorporação de conteúdo ao sistema.\n\nParágrafo único. O sistema mencionado no caput deste artigo deverá contemplar o conjunto de ações a cargo dos órgãos e das entidades federais, estaduais, distritais e municipais, observado o disposto no art. 2º desta Lei. (Redação dada pela Lei nº 14.195, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm#:~:text=Art.%2011.%20O%20Poder%20Executivo%20Federal%20criar%C3%A1%20e%20manter%C3%A1%2C%20na%20rede%20mundial%20de%20computadores%20-%20internet%2C%20sistema%20pelo%20qual%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "11-A"
+    },
+    "11-A": {
+      "numero": "11-A",
+      "texto": "Art. 11-A. Não poderão ser exigidos, no processo de registro de empresários e pessoas jurídicas realizado pela Redesim: (Incluído pela Medida Provisória nº 1.040, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm#:~:text=Art.%2011-A.%20N%C3%A3o%20poder%C3%A3o%20ser%20exigidos%2C%20no%20processo%20de%20registro%20de%20empres%C3%A1rios%20e%20pessoas%20jur%C3%ADdicas%20realizado%20pela%20Redesim%3A%20%28Inclu%C3%ADdo%20pela%20Medida%20Provis%C3%B3ria",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. As Centrais de Atendimento Empresarial - FÁCIL, unidades de atendimento presencial da Redesim, serão instaladas preferencialmente nas capitais e funcionarão como centros integrados para a orientação, registro e a legalização de empresários e pessoas jurídicas, com o fim de promover a integração, em um mesmo espaço físico, dos serviços prestados pelos órgãos que integrem, localmente, a Redesim.\n\n§ 1o Deverá funcionar uma Central de Atendimento Empresarial - FÁCIL em toda capital cuja municipalidade, assim como os órgãos ou entidades dos respectivos Estados, adiram à Redesim, inclusive no Distrito Federal, se for o caso.\n\n§ 2o Poderão fazer parte das Centrais de Atendimento Empresarial - FÁCIL, na qualidade de parceiros, as entidades representativas do setor empresarial, em especial das microempresas e empresas de pequeno porte, e outras entidades da sociedade civil que tenham como foco principal de atuação o apoio e a orientação empresarial.\n\n§ 3o Em cada unidade da Federação, os centros integrados de registro e legalização de empresários e pessoas jurídicas poderão ter seu nome próprio definido pelos parceiros locais, sem prejuízo de sua apresentação juntamente com a marca “FÁCIL”.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm#:~:text=Art.%2012.%20As%20Centrais%20de%20Atendimento%20Empresarial%20-%20F%C3%81CIL%2C%20unidades%20de%20atendimento%20presencial%20da%20Redesim%2C%20ser%C3%A3o%20instaladas%20preferencialmente%20nas%20capitais%20e%20funcionar%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11-A",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. As Centrais de Atendimento Empresarial - FÁCIL serão compostas por:\n\nI - um Núcleo de Orientação e Informação, que fornecerá serviços de apoio empresarial, com a finalidade de auxiliar o usuário na decisão de abertura do negócio, prestar orientação e informações completas e prévias para realização do registro e da legalização de empresas, inclusive as consultas prévias necessárias, de modo que o processo não seja objeto de restrições após a sua protocolização no Núcleo Operacional;\n\nII - um Núcleo Operacional, que receberá e dará tratamento, de forma conclusiva, ao processo único de cada requerente, contemplando as exigências documentais, formais e de informação referentes aos órgãos e entidades que integrem a Redesim.\n\nParágrafo único. As Centrais de Atendimento Empresarial - FÁCIL que forem criadas fora das capitais e do Distrito Federal poderão ter suas atividades restritas ao Núcleo de Orientação e Informação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm#:~:text=Art.%2013.%20As%20Centrais%20de%20Atendimento%20Empresarial%20-%20F%C3%81CIL%20ser%C3%A3o%20compostas%20por%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. No prazo de:\n\nI - 180 (cento e oitenta) dias, serão definidas pelos órgãos e entidades integrantes da Redesim competentes para emissão de licenças e autorizações de funcionamento as atividades cujo grau de risco seja considerado alto e que exigirão vistoria prévia;\n\nII - 18 (dezoito) meses, serão implementados:\n\na) pelo Poder Executivo federal o cadastro a que se refere o inciso I do caput do art. 10 desta Lei, no âmbito do Ministério da Justiça, para ser disponibilizado na rede mundial de computadores - internet;\n\nb) pelos Municípios com mais de 20.000 (vinte mil) habitantes que aderirem à Redesim os procedimentos de consulta prévia a que se referem os incisos I e II do § 1o do art. 4o desta Lei;\n\nIII - 3 (três) anos, será implementado pelo Poder Executivo federal sistema informatizado de classificação das atividades que uniformize e simplifique as atuais codificações existentes em todo o território nacional, com apoio dos integrantes da Redesim.\n\nParágrafo único. Até que seja implementado o sistema de que trata o inciso III do caput deste artigo, os órgãos integrantes da Redesim deverão:\n\nI - promover entre si a unificação da atribuição de códigos da Classificação Nacional de Atividades Econômicas–Fiscal - CNAE–Fiscal aos estabelecimentos empresariais de uma mesma jurisdição, com a utilização dos instrumentos de apoio à codificação disponibilizados pela Fundação Instituto Brasileiro de Geografia e Estatística - IBGE;\n\nII - buscar condições para atualização permanente da codificação atribuída aos agentes econômicos registrados.\n\nIII - promover a unificação da identificação nacional cadastral única, correspondente ao número da inscrição no CNPJ. (Incluído pela Lei nº 14.195, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm#:~:text=Art.%2014.%20No%20prazo%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm#:~:text=Art.%2015.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. O disposto no art. 7o desta Lei aplica-se a todos os órgãos e entidades da União, dos Estados, do Distrito Federal e dos Municípios competentes para o registro e a legalização de empresários e pessoas jurídicas, relativamente aos seus atos constitutivos, de inscrição, alteração e baixa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm#:~:text=Art.%2016.%20O%20disposto%20no%20art.%207o%20desta%20Lei%20aplica-se%20a%20todos%20os%20%C3%B3rg%C3%A3os%20e%20entidades%20da%20Uni%C3%A3o%2C%20dos%20Estados%2C%20do%20Distrito",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "16-A"
+    },
+    "16-A": {
+      "numero": "16-A",
+      "texto": "Art. 16-A. O CGSIM poderá instituir outras iniciativas de integração entre União, Distrito Federal, Estados e Municípios, que visem à facilitação do ambiente de negócios no exercício de competências e de atuações que envolvam os entes federativos. (Incluído pela Lei nº 14.195, de 2021)\n\n§ 1º O CGSIM poderá instituir a obrigatoriedade da adesão à iniciativa de integração referida no caput deste artigo para os membros da Redesim. (Incluído pela Lei nº 14.195, de 2021)\n\n§ 2º O CGSIM poderá instituir a adesão condicionada ou tácita, decorrente de não manifestação de contrariedade, à iniciativa de integração referida no caput deste artigo para os entes que não sejam membros da Redesim, caso a iniciativa recaia em matérias sobre as quais a União tenha competência privativa ou concorrente para legislar, na forma dos arts. 22 e 24 da Constituição Federal. (Incluído pela Lei nº 14.195, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm#:~:text=Art.%2016-A.%20O%20CGSIM%20poder%C3%A1%20instituir%20outras%20iniciativas%20de%20integra%C3%A7%C3%A3o%20entre%20Uni%C3%A3o%2C%20Distrito%20Federal%2C%20Estados%20e%20Munic%C3%ADpios%2C%20que%20visem%20%C3%A0%20facilita%C3%A7%C3%A3o%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Os arts. 43 e 45 da Lei nº 8.934, de 18 de novembro de 1994, passam a vigorar com as seguintes alterações:\n\n“Art. 43. Os pedidos de arquivamento constantes do art. 41 desta Lei serão decididos no prazo máximo de 5 (cinco) dias úteis, contados do seu recebimento; e os pedidos constantes do art. 42 desta Lei serão decididos no prazo máximo de 2 (dois) dias úteis, sob pena de ter-se como arquivados os atos respectivos, mediante provocação dos interessados, sem prejuízo do exame das formalidades legais pela procuradoria.” (NR)\n\n“Art. 45. O Pedido de Reconsideração terá por objeto obter a revisão de despachos singulares ou de Turmas que formulem exigências para o deferimento do arquivamento e será apresentado no prazo para cumprimento da exigência para apreciação pela autoridade recorrida em 3 (três) dias úteis ou 5 (cinco) dias úteis, respectivamente.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm#:~:text=Art.%2017.%20Os%20arts.%2043%20e%2045%20da%20Lei%20n%C2%BA%208.934%2C%20de%2018%20de%20novembro%20de%201994%2C%20passam%20a%20vigorar%20com%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16-A",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Esta Lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm#:~:text=Art.%2018.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. (VETADO).\n\nBrasília, 3 de dezembro de 2007; 186o da Independência e 119o da República.\n\nLUIZ INÁCIO LULA DA SILVA Guido Mantega Miguel Jorge\n\nEste texto não substitui o publicado no DOU de 4.12.2007.\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm#:~:text=Art.%2019.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": null
+    }
+  }
+}

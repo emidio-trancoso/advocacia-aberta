@@ -1253,6 +1253,64 @@
     "L9656:10"
    ],
    "justificativa": "O art. 10 institui o plano-referência e sua cobertura; o art. 12 fixa as exigências mínimas por segmentação; o art. 1º delimita o âmbito da lei. Os arts. 5º e 6º (estrutura regulatória na redação original) não respondem à consulta."
+  },
+  {
+   "id": "lref-recuperacao-judicial",
+   "grupo": "legislacao",
+   "consulta": "recuperação judicial plano credores aprovação",
+   "filtro": {
+    "codigo": "LREF"
+   },
+   "relevantes": [
+    "LREF:35",
+    "LREF:50",
+    "LREF:52",
+    "LREF:54",
+    "LREF:27"
+   ],
+   "obrigatorios": [
+    "LREF:35",
+    "LREF:50"
+   ],
+   "justificativa": "O art. 35 dá à assembleia-geral de credores a deliberação sobre o plano; o art. 50 lista os meios de recuperação; o art. 52 o deferimento do processamento; o art. 54 os limites do plano quanto aos créditos trabalhistas; o art. 27 as atribuições do Comitê de Credores, inclusive sobre o plano."
+  },
+  {
+   "id": "l9279-marca",
+   "grupo": "legislacao",
+   "consulta": "marca registro colidência anterioridade",
+   "filtro": {
+    "codigo": "L9279"
+   },
+   "relevantes": [
+    "L9279:122",
+    "L9279:124",
+    "L9279:126",
+    "L9279:127",
+    "L9279:2"
+   ],
+   "obrigatorios": [
+    "L9279:122",
+    "L9279:124"
+   ],
+   "justificativa": "O art. 122 define o que é registrável como marca; o art. 124 traz as proibições, inclusive colidência com marca alheia; o art. 126 protege a marca notoriamente conhecida; o art. 127 disciplina a prioridade; o art. 2º inclui a concessão de registro de marca entre as formas de proteção."
+  },
+  {
+   "id": "l12846-anticorrupcao",
+   "grupo": "legislacao",
+   "consulta": "responsabilização objetiva atos contra administração acordo de leniência",
+   "filtro": {
+    "codigo": "L12846"
+   },
+   "relevantes": [
+    "L12846:1",
+    "L12846:5",
+    "L12846:30"
+   ],
+   "obrigatorios": [
+    "L12846:1",
+    "L12846:5"
+   ],
+   "justificativa": "O art. 1º institui a responsabilização objetiva de pessoas jurídicas; o art. 5º tipifica os atos lesivos; o art. 30 preserva a independência das demais instâncias. Os arts. 17-A e 9º (competências), também recuperados, não foram julgados relevantes."
   }
  ]
 }

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "codigo": "L14208",
+    "nome": "Federações Partidárias",
+    "lei": "Lei 14.208/2021",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14208.htm",
+    "total_artigos": 3,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º A Lei nº 9.096, de 19 de setembro de 1995 (Lei dos Partidos Políticos), passa a vigorar acrescida do seguinte art. 11-A:\n\n“Art. 11-A. Dois ou mais partidos políticos poderão reunir-se em federação, a qual, após sua constituição e respectivo registro perante o Tribunal Superior Eleitoral, atuará como se fosse uma única agremiação partidária.\n\n§ 1º Aplicam-se à federação de partidos todas as normas que regem o funcionamento parlamentar e a fidelidade partidária.\n\n§ 2º Assegura-se a preservação da identidade e da autonomia dos partidos integrantes de federação.\n\n§ 3º A criação de federação obedecerá às seguintes regras:\n\nI – a federação somente poderá ser integrada por partidos com registro definitivo no Tribunal Superior Eleitoral;\n\nII – os partidos reunidos em federação deverão permanecer a ela filiados por, no mínimo, 4 (quatro) anos;\n\nIII – a federação poderá ser constituída até a data final do período de realização das convenções partidárias;\n\nIV – a federação terá abrangência nacional e seu registro será encaminhado ao Tribunal Superior Eleitoral.\n\n§ 4º O descumprimento do disposto no inciso II do § 3º deste artigo acarretará ao partido vedação de ingressar em federação, de celebrar coligação nas 2 (duas) eleições seguintes e, até completar o prazo mínimo remanescente, de utilizar o fundo partidário.\n\n§ 5º Na hipótese de desligamento de 1 (um) ou mais partidos, a federação continuará em funcionamento, até a eleição seguinte, desde que nela permaneçam 2 (dois) ou mais partidos.\n\n§ 6º O pedido de registro de federação de partidos encaminhado ao Tribunal Superior Eleitoral será acompanhado dos seguintes documentos:\n\nI – cópia da resolução tomada pela maioria absoluta dos votos dos órgãos de deliberação nacional de cada um dos partidos integrantes da federação;\n\nII – cópia do programa e do estatuto comuns da federação constituída;\n\nIII – ata de eleição do órgão de direção nacional da federação.\n\n§ 7º O estatuto de que trata o inciso II do § 6º deste artigo definirá as regras para a composição da lista da federação para as eleições proporcionais.\n\n§ 8º Aplicam-se à federação de partidos todas as normas que regem as atividades dos partidos políticos no que diz respeito às eleições, inclusive no que se refere à escolha e registro de candidatos para as eleições majoritárias e proporcionais, à arrecadação e aplicação de recursos em campanhas eleitorais, à propaganda eleitoral, à contagem de votos, à obtenção de cadeiras, à prestação de contas e à convocação de suplentes.\n\n§ 9º Perderá o mandato o detentor de cargo eletivo que se desfiliar, sem justa causa, de partido que integra federação.”",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14208.htm#:~:text=Art.%201%C2%BA%20A%20Lei%20n%C2%BA%209.096%2C%20de%2019%20de%20setembro%20de%201995%20%28Lei%20dos%20Partidos%20Pol%C3%ADticos%29%2C%20passa%20a%20vigorar%20acrescida%20do%20seguinte",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º A Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), passa a vigorar acrescida do seguinte art. 6º-A:\n\n“Das Federações",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14208.htm#:~:text=Art.%202%C2%BA%20A%20Lei%20n%C2%BA%209.504%2C%20de%2030%20de%20setembro%20de%201997%20%28Lei%20das%20Elei%C3%A7%C3%B5es%29%2C%20passa%20a%20vigorar%20acrescida%20do%20seguinte%20art.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\n\nBrasília, 28 de setembro de 2021; 200º da Independência e 133º da República.\n\nJAIR MESSIAS BOLSONARO\n\nEste texto não substitui o publicado no DOU de 29.9.2021\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14208.htm#:~:text=Art.%203%C2%BA%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": null
+    }
+  }
+}

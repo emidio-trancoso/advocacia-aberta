@@ -1,0 +1,463 @@
+{
+  "_meta": {
+    "codigo": "L6091",
+    "nome": "Transporte de Eleitores em Zona Rural",
+    "lei": "Lei 6.091/1974",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm",
+    "total_artigos": 28,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Os veículos e embarcações, devidamente abastecidos e tripulados, pertencentes à União, Estados, Territórios e Municípios e suas respectivas autarquias e sociedades de economia mista, excluídos os de uso militar, ficarão à disposição da Justiça Eleitoral para o transporte gratuito de eleitores em zonas rurais, em dias de eleição.\n\n§ 1º Excetuam-se do disposto neste artigo os veículos e embarcações em número justificadamente indispensável ao funcionamento de serviço público insusceptível de interrupção.\n\n§ 2º Até quinze dias antes das eleições, a Justiça Eleitoral requisitará dos órgãos da administração direta ou indireta da União, dos Estados, Territórios, Distrito Federal e Municípios os funcionários e as instalações de que necessitar para possibilitar a execução dos serviços de transporte e alimentação de eleitores previstos nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%201%C2%BA%20Os%20ve%C3%ADculos%20e%20embarca%C3%A7%C3%B5es%2C%20devidamente%20abastecidos%20e%20tripulados%2C%20pertencentes%20%C3%A0%20Uni%C3%A3o%2C%20Estados%2C%20Territ%C3%B3rios%20e%20Munic%C3%ADpios%20e%20suas%20respectivas%20autarquias%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Se a utilização de veículos pertencentes às entidades previstas no art. 1º não for suficiente para atender ao disposto nesta Lei, a Justiça Eleitoral requisitará veículos e embarcações a particulares, de preferência os de aluguel.\n\nParágrafo único. Os serviços requisitados serão pagos, até trinta dias depois do pleito, a preços que correspondam aos critérios da localidade. A despesa correrá por conta do Fundo Partidário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%202%C2%BA%20Se%20a%20utiliza%C3%A7%C3%A3o%20de%20ve%C3%ADculos%20pertencentes%20%C3%A0s%20entidades%20previstas%20no%20art.%201%C2%BA%20n%C3%A3o%20for%20suficiente%20para%20atender%20ao%20disposto%20nesta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Até cinqüenta dias antes da data do pleito, os responsáveis por todas as repartições, órgãos e unidades do serviço público federal, estadual e municipal oficiarão à Justiça Eleitoral, informando o número, a espécie e lotação dos veículos e embarcações de sua propriedade, e justificando, se for o caso, a ocorrência da exceção prevista no parágrafo 1º do art. 1º desta Lei.\n\n§ 1º Os veículos e embarcações à disposição da Justiça Eleitoral deverão, mediante comunicação expressa de seus proprietários, estar em condições de ser utilizados, pelo menos, vinte e quatro horas antes das eleições e circularão exibindo de modo bem visível, dístico em letras garrafais, com a frase: \"A serviço da Justiça Eleitoral.\"\n\n§ 2º A Justiça Eleitoral, à vista das informações recebidas, planejará a execução do serviço de transporte de eleitores e requisitará aos responsáveis pelas repartições, órgãos ou unidades, até trinta dias antes do pleito, os veículos e embarcações necessários.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%203%C2%BA%20At%C3%A9%20cinq%C3%BCenta%20dias%20antes%20da%20data%20do%20pleito%2C%20os%20respons%C3%A1veis%20por%20todas%20as%20reparti%C3%A7%C3%B5es%2C%20%C3%B3rg%C3%A3os%20e%20unidades%20do%20servi%C3%A7o%20p%C3%BAblico",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Quinze dias antes do pleito, a Justiça Eleitoral divulgará, pelo órgão competente, o quadro geral de percursos e horários programados para o transporte de eleitores, dele fornecendo cópias aos partidos políticos.\n\n§ 1º O transporte de eleitores somente será feito dentro dos limites territoriais do respectivo município e quando das zonas rurais para as mesas receptoras distar pelo menos dois quilômetros.\n\n§ 2º Os partidos políticos, os candidatos, ou eleitores em número de vinte, pelo menos, poderão oferecer reclamações em três dias contados da divulgação do quadro.\n\n§ 3º As reclamações serão apreciadas nos três dias subsequentes, delas cabendo recurso sem efeito suspensivo.\n\n§ 4º Decididas as reclamações, a Justiça Eleitoral divulgará, pelos meios disponíveis, o quadro definitivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%204%C2%BA%20Quinze%20dias%20antes%20do%20pleito%2C%20a%20Justi%C3%A7a%20Eleitoral%20divulgar%C3%A1%2C%20pelo%20%C3%B3rg%C3%A3o%20competente%2C%20o%20quadro%20geral%20de%20percursos%20e%20hor%C3%A1rios%20programados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Nenhum veículo ou embarcação poderá fazer transporte de eleitores desde o dia anterior até o posterior à eleição, salvo:\n\nI - a serviço da Justiça Eleitoral;\n\nII - coletivos de linhas regulares e não fretados;\n\nIII - de uso individual do proprietário, para o exercício do próprio voto e dos membros da sua família;\n\nIV - o serviço normal, sem finalidade eleitoral, de veículos de aluguel não atingidos pela requisição de que trata o art. 2º.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%205%C2%BA%20Nenhum%20ve%C3%ADculo%20ou%20embarca%C3%A7%C3%A3o%20poder%C3%A1%20fazer%20transporte%20de%20eleitores%20desde%20o%20dia%20anterior%20at%C3%A9%20o%20posterior%20%C3%A0%20elei%C3%A7%C3%A3o%2C%20salvo%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º A indisponibilidade ou as deficiências do transporte de que trata esta Lei não eximem o eleitor do dever de votar.\n\nParágrafo único. Verificada a inexistência ou deficiência de embarcações e veículos, poderão os órgãos partidários ou os candidatos indicar à Justiça Eleitoral onde há disponibilidade para que seja feita a competente requisição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%206%C2%BA%20A%20indisponibilidade%20ou%20as%20defici%C3%AAncias%20do%20transporte%20de%20que%20trata%20esta%20Lei%20n%C3%A3o%20eximem%20o%20eleitor%20do%20dever%20de%20votar.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º O eleitor que deixar de votar e não se justificar perante o Juiz Eleitoral até sessenta dias após a realização da eleição incorrerá na multa de três a dez por cento sobre o salário mínimo da região, imposta pelo Juiz Eleitoral e cobrada na forma prevista no art. 367, da Lei 4.737, de 15 de julho de 1965.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%207%C2%BA%20O%20eleitor%20que%20deixar%20de%20votar%20e%20n%C3%A3o%20se%20justificar%20perante%20o%20Juiz%20Eleitoral%20at%C3%A9%20sessenta%20dias%20ap%C3%B3s%20a%20realiza%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Somente a Justiça Eleitoral poderá, quando imprescindível, em face da absoluta carência de recursos de eleitores da zona rural, fornecer-lhes refeições, correndo, nesta hipótese, as despesas por conta do Fundo Partidário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%208%C2%BA%20Somente%20a%20Justi%C3%A7a%20Eleitoral%20poder%C3%A1%2C%20quando%20imprescind%C3%ADvel%2C%20em%20face%20da%20absoluta%20car%C3%AAncia%20de%20recursos%20de%20eleitores%20da%20zona%20rural%2C%20fornecer-lhes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º É facultado aos Partidos exercer fiscalização nos locais onde houver transporte e fornecimento de refeições a eleitores.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%209%C2%BA%20%C3%89%20facultado%20aos%20Partidos%20exercer%20fiscaliza%C3%A7%C3%A3o%20nos%20locais%20onde%20houver%20transporte%20e%20fornecimento%20de%20refei%C3%A7%C3%B5es%20a%20eleitores.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. É vedado aos candidatos ou órgãos partidários, ou a qualquer pessoa, o fornecimento de transporte ou refeições aos eleitores da zona urbana.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%2010.%20%C3%89%20vedado%20aos%20candidatos%20ou%20%C3%B3rg%C3%A3os%20partid%C3%A1rios%2C%20ou%20a%20qualquer%20pessoa%2C%20o%20fornecimento%20de%20transporte%20ou%20refei%C3%A7%C3%B5es%20aos%20eleitores%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Constitui crime eleitoral:\n\nI - descumprir, o responsável por órgão, repartição ou unidade do serviço público, o dever imposto no art. 3º, ou prestar, informação inexata que vise a elidir, total ou parcialmente, a contribuição de que ele trata:\n\nPena - detenção de quinze dias a seis meses e pagamento de 60 a 100 dias - multa;\n\nII - desatender à requisição de que trata o art. 2º:\n\nPena - pagamento de 200 a 300 dias-multa, além da apreensão do veículo para o fim previsto;\n\nIII - descumprir a proibição dos artigos 5º, 8º e 10º;\n\nPena - reclusão de quatro a seis anos e pagamento de 200 a 300 dias-multa (art. 302 do Código Eleitoral);\n\nIV - obstar, por qualquer forma, a prestação dos serviços previstos nos arts. 4º e 8º desta Lei, atribuídos à Justiça Eleitoral:\n\nPena - reclusão de 2 (dois) a 4 (quatro) anos;\n\nV - utilizar em campanha eleitoral, no decurso dos 90 (noventa) dias que antecedem o pleito, veículos e embarcações pertencentes à União, Estados, Territórios, Municípios e respectivas autarquias e sociedades de economia mista:\n\nPena - cancelamento do registro do candidato ou de seu diploma, se já houver sido proclamado eleito.\n\nParágrafo único. O responsável, pela guarda do veículo ou da embarcação, será punido com a pena de detenção, de 15 (quinze) dias a 6 (seis) meses, e pagamento de 60 (sessenta) a 100 (cem) dias-multa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%2011.%20Constitui%20crime%20eleitoral%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. A propaganda eleitoral, no rádio e na televisão, circunscrever-se-á, única e exclusivamente, ao horário gratuito disciplinado pela Justiça Eleitoral, com a expressa proibição de qualquer propaganda paga.\n\nParágrafo único. Será permitida apenas a divulgação paga, pela imprensa escrita, do curriculum-vitae do candidato e do número do seu registro na Justiça Eleitoral, bem como do partido a que pertence.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%2012.%20A%20propaganda%20eleitoral%2C%20no%20r%C3%A1dio%20e%20na%20televis%C3%A3o%2C%20circunscrever-se-%C3%A1%2C%20%C3%BAnica%20e%20exclusivamente%2C%20ao%20hor%C3%A1rio%20gratuito%20disciplinado%20pela%20Justi%C3%A7a%20Eleitoral%2C%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. São vedados e considerados nulos de pleno direito, não gerando obrigação de espécie alguma para a pessoa jurídica interessada, nem qualquer direito para o beneficiário, os atos que, no período compreendido entre os noventa dias anteriores à data das eleições parlamentares e o término, respectivamente, do mandato do Governador do Estado importem em nomear, contratar, designar, readaptar ou proceder a quaisquer outras formas de provimento de funcionário ou servidor na administração direta e nas autarquias, empresas públicas e sociedades de economia mista dos Estados e Municípios, salvo os cargos em comissão, e da magistratura, do Ministério Público e, com aprovação do respectivo Órgão Legislativo, dos Tribunais de Contas e os aprovados em concursos públicos homologados até a data da publicação desta lei.\n\n§ 1º Excetuam-se do disposto no artigo:\n\nI - nomeação ou contratação necessárias à instalação inadiável de serviços públicos essenciais, com prévia e expressa autorização do governador ou Prefeito;\n\nII - nomeação ou contratação de técnico indispensável ao funcionamento do serviço público essencial.\n\n§ 2º O ato com a devida fundamentação será publicado no respectivo órgão oficial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%2013.%20S%C3%A3o%20vedados%20e%20considerados%20nulos%20de%20pleno%20direito%2C%20n%C3%A3o%20gerando%20obriga%C3%A7%C3%A3o%20de%20esp%C3%A9cie%20alguma%20para%20a%20pessoa%20jur%C3%ADdica%20interessada%2C%20nem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. A Justiça Eleitoral instalará, trinta dias antes do pleito, na sede de cada Município, Comissão Especial de Transporte e Alimentação, composta de pessoas indicadas pelos Diretórios Regionais dos Partidos Políticos Nacionais, com a finalidade de colaborar na execução desta lei.\n\n§ 1º Para compor a Comissão, cada Partido indicará três pessoas, que não disputem cargo eletivo.\n\n§ 2º É facultado a candidato, em Município de sua notória influência política, indicar ao Diretório do seu Partido, pessoa de sua confiança para integrar a Comissão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%2014.%20A%20Justi%C3%A7a%20Eleitoral%20instalar%C3%A1%2C%20trinta%20dias%20antes%20do%20pleito%2C%20na%20sede%20de%20cada%20Munic%C3%ADpio%2C%20Comiss%C3%A3o%20Especial%20de%20Transporte%20e%20Alimenta%C3%A7%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Os Diretórios Regionais, até quarenta dias antes do pleito, farão as indicações de que trata o artigo 14 desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%2015.%20Os%20Diret%C3%B3rios%20Regionais%2C%20at%C3%A9%20quarenta%20dias%20antes%20do%20pleito%2C%20far%C3%A3o%20as%20indica%C3%A7%C3%B5es%20de%20que%20trata%20o%20artigo%2014%20desta%20lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. O eleitor que deixar de votar por se encontrar ausente de seu domicílio eleitoral deverá justificar a falta, no prazo de 60 (sessenta) dias, por meio de requerimento dirigido ao Juiz Eleitoral de sua zona de inscrição, que mandará anotar o fato, na respectiva folha individual de votação.\n\n§ 1º O requerimento, em duas vias, será levado, em sobrecarta aberta, a agência postal, que, depois de dar andamento à 1ª via, aplicará carimbo de recepção na 2ª, devolvendo-a ao interessado, valendo esta como prova para todos os efeitos legais.\n\n§ 2º Estando no exterior, no dia em que se realizarem eleições, o eleitor terá o prazo de 30 (trinta) dias, a contar de sua volta ao País, para a justificação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%2016.%20O%20eleitor%20que%20deixar%20de%20votar%20por%20se%20encontrar%20ausente%20de%20seu%20domic%C3%ADlio%20eleitoral%20dever%C3%A1%20justificar%20a%20falta%2C%20no%20prazo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. O eleitor que residir no Distrito Federal poderá requerer ao Juiz Eleitoral do seu novo domicílio a remessa de sua folha individual de votação, para sufragar, nas eleições para o Senado Federal e Câmara dos Deputados, candidatos do Estado ou Território em que seja eleitor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%2017.%20O%20eleitor%20que%20residir%20no%20Distrito%20Federal%20poder%C3%A1%20requerer%20ao%20Juiz%20Eleitoral%20do%20seu%20novo%20domic%C3%ADlio%20a%20remessa%20de%20sua",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Na Zona Eleitoral de origem, recebendo a requisição, o juiz eleitoral determinará: (Revogado pela Lei nº 7.493, de 1986).\n\nI - a remessa imediata da folha individual de votação e da 2ª parte (canhoto) do título ao Juízo Eleitoral do Distrito Federal; (Revogado pela Lei nº 7.493, de 1986).\n\nII - a anotação de que o eleitor, enquanto não optar pela devolução dos documentos mencionados no nº 1, permanecerá votando no Distrito Federal e apenas nas eleições para o Congresso Nacional. (Revogado pela Lei nº 7.493, de 1986).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%2018.%20Na%20Zona%20Eleitoral%20de%20origem%2C%20recebendo%20a%20requisi%C3%A7%C3%A3o%2C%20o%20juiz%20eleitoral%20determinar%C3%A1%3A%20%28Revogado%20pela%20Lei%20n%C2%BA%207.493%2C%20de%201986%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. O prazo a que se refere o § 1º do artigo 17 reabrir-se-á 90 (noventa) dias após a data das eleições gerais. (Revogado pela Lei nº 7.493, de 1986).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%2019.%20O%20prazo%20a%20que%20se%20refere%20o%20%C2%A7%201%C2%BA%20do%20artigo%2017%20reabrir-se-%C3%A1%2090%20%28noventa%29%20dias%20ap%C3%B3s%20a%20data%20das",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. As mesas receptoras de votos no Distrito Federal aplicam-se as seguintes normas: (Revogado pela Lei nº 7.493, de 1986).\n\nI - seus membros serão nomeados até 30 (trinta) dias antes da eleição, dentre os eleitores da própria seção, ou, sendo necessário, dentre outros do Distrito Federal; (Revogado pela Lei nº 7.493, de 1986).\n\nII - os locais onde funcionaraõ serão designados no prazo do inciso anterior; (Revogado pela Lei nº 7.493, de 1986).\n\nIII - deverão ser organizadas mesas receptoras distintas para os eleitores de cada Estado ou Território. (Revogado pela Lei nº 7.493, de 1986).\n\n§ 1º Quando o número de eleitores for reduzido, o Juiz Eleitoral poderá reunir os de dois ou mais Estados ou Territórios numa única seção, utilizando, porém, urnas diferentes para os de cada circunscrição. (Revogado pela Lei nº 7.493, de 1986).\n\n§ 2º Ressalvadas as disposições constantes deste artigo, aplicam-se às mesas receptoras de votos, organizadas no Distrito Federal, todas as normas da legislação eleitoral. (Revogado pela Lei nº 7.493, de 1986).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%2020.%20As%20mesas%20receptoras%20de%20votos%20no%20Distrito%20Federal%20aplicam-se%20as%20seguintes%20normas%3A%20%28Revogado%20pela%20Lei%20n%C2%BA%207.493%2C%20de%201986%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Os Tribunais Regionais Eleitorais dos Estados comunicarão ao Tribunal Regional Eleitoral do Distrito Federal os nomes e os números dos candidatos que houverem registrado. (Revogado pela Lei nº 7.493, de 1986).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%2021.%20Os%20Tribunais%20Regionais%20Eleitorais%20dos%20Estados%20comunicar%C3%A3o%20ao%20Tribunal%20Regional%20Eleitoral%20do%20Distrito%20Federal%20os%20nomes%20e%20os%20n%C3%BAmeros%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Os delegados e fiscais dos Partidos serão nomeados pelo Presidente do respectivo Diretório Nacional. (Revogado pela Lei nº 7.493, de 1986).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%2022.%20Os%20delegados%20e%20fiscais%20dos%20Partidos%20ser%C3%A3o%20nomeados%20pelo%20Presidente%20do%20respectivo%20Diret%C3%B3rio%20Nacional.%20%28Revogado%20pela%20Lei%20n%C2%BA%207.493%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. As urnas utilizadas no Distrito Federal, no dia seguinte ao da eleição, serão enviados para o Tribunal Regional Eleitoral do Estado correspondente que designará a Junta ou Juntas competentes para a apuração. (Revogado pela Lei nº 7.493, de 1986).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%2023.%20As%20urnas%20utilizadas%20no%20Distrito%20Federal%2C%20no%20dia%20seguinte%20ao%20da%20elei%C3%A7%C3%A3o%2C%20ser%C3%A3o%20enviados%20para%20o%20Tribunal%20Regional%20Eleitoral%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. As normas constantes da legislação eleitoral e partidária, que regulam a propaganda dos Partidos e candidatos, não se aplicam ao Distrito Federal, onde não será admitida qualquer espécie de propaganda, salvo a divulgação escrita dos nomes e números dos candidatos registrados, feito exclusivamente pelo Diretório Nacional dos Partidos Políticos. (Revogado pela Lei nº 7.493, de 1986).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%2024.%20As%20normas%20constantes%20da%20legisla%C3%A7%C3%A3o%20eleitoral%20e%20partid%C3%A1ria%2C%20que%20regulam%20a%20propaganda%20dos%20Partidos%20e%20candidatos%2C%20n%C3%A3o%20se%20aplicam%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. O eleitor inscrito no Distrito Federal, por transferência, poderá, a partir de 1975, requerer retransferência para a zona eleitoral de origem. (Revogado pela Lei nº 7.493, de 1986).\n\n§ 1º O pedido de retransferência, devidamente instruído, será remetido para a Zona Eleitoral indicada pelo eleitor, onde será processado e despachado. (Revogado pela Lei nº 7.493, de 1986).\n\n§ 2º As diligências que se tornarem necessárias serão cumpridas através do Juízo Eleitoral do Distrito Federal. (Revogado pela Lei nº 7.493, de 1986).\n\n§ 3º Deferida a inscrição, o Juiz Eleitoral do novo domicílio enviará título eleitoral, para ser entregue, ao eleitor, pelo Juízo Eleitoral do Distrito Federal. (Revogado pela Lei nº 7.493, de 1986).\n\n§ 4º Deferida a inscrição, o Juiz Eleitoral do novo domicílio enviará o título eleitoral, para ser entregue pelo Juízo Eleitoral do Distrito Federal, assim como a folha individual de votação e a segunda parte do título. (Revogado pela Lei nº 7.493, de 1986).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%2025.%20O%20eleitor%20inscrito%20no%20Distrito%20Federal%2C%20por%20transfer%C3%AAncia%2C%20poder%C3%A1%2C%20a%20partir%20de%201975%2C%20requerer%20retransfer%C3%AAncia%20para%20a%20zona%20eleitoral%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. O Poder Executivo é autorizado a abrir o crédito especial de Cr$20.000.000,00 (vinte milhões de cruzeiros) destinado ao Fundo Partidário, para atender às despesas decorrentes da aplicação desta Lei na eleição de 15 de novembro de 1974.\n\nParágrafo único. A abertura do crédito autorizado neste artigo será compensada mediante a anulação de dotações constantes no Orçamento para o corrente exercício, de que trata a Lei nº 5.964, de 10 de novembro de 1973.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%2026.%20O%20Poder%20Executivo%20%C3%A9%20autorizado%20a%20abrir%20o%20cr%C3%A9dito%20especial%20de%20Cr%2420.000.000%2C00%20%28vinte%20milh%C3%B5es%20de%20cruzeiros%29%20destinado%20ao%20Fundo%20Partid%C3%A1rio%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Sem prejuízo do disposto no inciso XVII do artigo 30 do Código Eleitoral (Lei nº 4.737, de 15 de julho de 1965), o Tribunal Superior Eleitoral expedirá, dentro de 15 dias da data da publicação desta Lei, as instruções necessárias a sua execução.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%2027.%20Sem%20preju%C3%ADzo%20do%20disposto%20no%20inciso%20XVII%20do%20artigo%2030%20do%20C%C3%B3digo%20Eleitoral%20%28Lei%20n%C2%BA%204.737%2C%20de%2015%20de%20julho",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\n\nBrasília, 15 de agosto de 1974; 153º da Independência e 86º da República.\n\nErnesto Geisel Armando Falcão Mário Henrique Simonsen João Paulo dos Reis Velloso\n\nEste texto não substitui o publicado no DOU de 15.8.1974\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm#:~:text=Art.%2028.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o%2C%20revogadas%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": null
+    }
+  }
+}

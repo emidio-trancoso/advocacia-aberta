@@ -1,0 +1,1359 @@
+{
+  "_meta": {
+    "codigo": "L9096",
+    "nome": "Lei dos Partidos Políticos",
+    "lei": "Lei 9.096/1995",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm",
+    "total_artigos": 84,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º O partido político, pessoa jurídica de direito privado, destina-se a assegurar, no interesse do regime democrático, a autenticidade do sistema representativo e a defender os direitos fundamentais definidos na Constituição Federal.\n\nParágrafo único. O partido político não se equipara às entidades paraestatais. (Incluído pela Lei nº 13.488, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%201%C2%BA%20O%20partido%20pol%C3%ADtico%2C%20pessoa%20jur%C3%ADdica%20de%20direito%20privado%2C%20destina-se%20a%20assegurar%2C%20no%20interesse%20do%20regime%20democr%C3%A1tico%2C%20a%20autenticidade%20do%20sistema",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º É livre a criação, fusão, incorporação e extinção de partidos políticos cujos programas respeitem a soberania nacional, o regime democrático, o pluripartidarismo e os direitos fundamentais da pessoa humana.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%202%C2%BA%20%C3%89%20livre%20a%20cria%C3%A7%C3%A3o%2C%20fus%C3%A3o%2C%20incorpora%C3%A7%C3%A3o%20e%20extin%C3%A7%C3%A3o%20de%20partidos%20pol%C3%ADticos%20cujos%20programas%20respeitem%20a%20soberania%20nacional%2C%20o%20regime%20democr%C3%A1tico%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º É assegurada, ao partido político, autonomia para definir sua estrutura interna, organização e funcionamento.\n\n§ 1º. É assegurada aos candidatos, partidos políticos e coligações autonomia para definir o cronograma das atividades eleitorais de campanha e executá-lo em qualquer dia e horário, observados os limites estabelecidos em lei. (Renumerado do parágrafo único pela Lei nº 13.831, de 2019)\n\n§ 2º É assegurada aos partidos políticos autonomia para definir o prazo de duração dos mandatos dos membros dos seus órgãos partidários permanentes ou provisórios. (Incluído pela Lei nº 13.831, de 2019) (Vide ADI Nº 6.230)\n\n§ 3º O prazo de vigência dos órgãos provisórios dos partidos políticos poderá ser de até 8 (oito) anos. (Incluído pela Lei nº 13.831, de 2019) (Vide ADI Nº 6.230)\n\n§ 4º Exaurido o prazo de vigência de um órgão partidário, ficam vedados a extinção automática do órgão e o cancelamento de sua inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ). (Incluído pela Lei nº 13.831, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%203%C2%BA%20%C3%89%20assegurada%2C%20ao%20partido%20pol%C3%ADtico%2C%20autonomia%20para%20definir%20sua%20estrutura%20interna%2C%20organiza%C3%A7%C3%A3o%20e%20funcionamento.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Os filiados de um partido político têm iguais direitos e deveres.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%204%C2%BA%20Os%20filiados%20de%20um%20partido%20pol%C3%ADtico%20t%C3%AAm%20iguais%20direitos%20e%20deveres.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º A ação do partido tem caráter nacional e é exercida de acordo com seu estatuto e programa, sem subordinação a entidades ou governos estrangeiros.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%205%C2%BA%20A%20a%C3%A7%C3%A3o%20do%20partido%20tem%20car%C3%A1ter%20nacional%20e%20%C3%A9%20exercida%20de%20acordo%20com%20seu%20estatuto%20e%20programa%2C%20sem%20subordina%C3%A7%C3%A3o%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º É vedado ao partido político ministrar instrução militar ou paramilitar, utilizar-se de organização da mesma natureza e adotar uniforme para seus membros.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%206%C2%BA%20%C3%89%20vedado%20ao%20partido%20pol%C3%ADtico%20ministrar%20instru%C3%A7%C3%A3o%20militar%20ou%20paramilitar%2C%20utilizar-se%20de%20organiza%C3%A7%C3%A3o%20da%20mesma%20natureza%20e%20adotar%20uniforme%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º O partido político, após adquirir personalidade jurídica na forma da lei civil, registra seu estatuto no Tribunal Superior Eleitoral.\n\n§ 1o Só é admitido o registro do estatuto de partido político que tenha caráter nacional, considerando-se como tal aquele que comprove, no período de dois anos, o apoiamento de eleitores não filiados a partido político, correspondente a, pelo menos, 0,5% (cinco décimos por cento) dos votos dados na última eleição geral para a Câmara dos Deputados, não computados os votos em branco e os nulos, distribuídos por um terço, ou mais, dos Estados, com um mínimo de 0,1% (um décimo por cento) do eleitorado que haja votado em cada um deles. (Redação dada pela Lei nº 13.165, de 2015)\n\n§ 2º Só o partido que tenha registrado seu estatuto no Tribunal Superior Eleitoral pode participar do processo eleitoral, receber recursos do Fundo Partidário e ter acesso gratuito ao rádio e à televisão, nos termos fixados nesta Lei.\n\n§ 3º Somente o registro do estatuto do partido no Tribunal Superior Eleitoral assegura a exclusividade da sua denominação, sigla e símbolos, vedada a utilização, por outros partidos, de variações que venham a induzir a erro ou confusão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%207%C2%BA%20O%20partido%20pol%C3%ADtico%2C%20ap%C3%B3s%20adquirir%20personalidade%20jur%C3%ADdica%20na%20forma%20da%20lei%20civil%2C%20registra%20seu%20estatuto%20no%20Tribunal%20Superior%20Eleitoral.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º O requerimento do registro de partido político, dirigido ao cartório competente do Registro Civil das Pessoas Jurídicas do local de sua sede, deve ser subscrito pelos seus fundadores, em número nunca inferior a 101 (cento e um), com domicílio eleitoral em, no mínimo, 1/3 (um terço) dos Estados, e será acompanhado de: (Redação dada pela Lei nº 13.877, de 2019)\n\nI - cópia autêntica da ata da reunião de fundação do partido;\n\nII - exemplares do Diário Oficial que publicou, no seu inteiro teor, o programa e o estatuto;\n\nIII - relação de todos os fundadores com o nome completo, naturalidade, número do título eleitoral com a Zona, Seção, Município e Estado, profissão e endereço da residência.\n\n§ 1º O requerimento indicará o nome e a função dos dirigentes provisórios e o endereço da sede do partido no território nacional. (Redação dada pela Lei nº 13.877, de 2019)\n\n§ 2º Satisfeitas as exigências deste artigo, o Oficial do Registro Civil efetua o registro no livro correspondente, expedindo certidão de inteiro teor.\n\n§ 3º Adquirida a personalidade jurídica na forma deste artigo, o partido promove a obtenção do apoiamento mínimo de eleitores a que se refere o § 1º do art. 7º e realiza os atos necessários para a constituição definitiva de seus órgãos e designação dos dirigentes, na forma do seu estatuto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%208%C2%BA%20O%20requerimento%20do%20registro%20de%20partido%20pol%C3%ADtico%2C%20dirigido%20ao%20cart%C3%B3rio%20competente%20do%20Registro%20Civil%20das%20Pessoas%20Jur%C3%ADdicas%20do%20local%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Da Organização e Funcionamento dos Partidos Políticos CAPÍTULO I Da Criação e do Registro dos Partidos Políticos",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Feita a constituição e designação, referidas no § 3º do artigo anterior, os dirigentes nacionais promoverão o registro do estatuto do partido junto ao Tribunal Superior Eleitoral, através de requerimento acompanhado de:\n\nI - exemplar autenticado do inteiro teor do programa e do estatuto partidários, inscritos no Registro Civil;\n\nII - certidão do registro civil da pessoa jurídica, a que se refere o § 2º do artigo anterior;\n\nIII - certidões dos cartórios eleitorais que comprovem ter o partido obtido o apoiamento mínimo de eleitores a que se refere o § 1º do art. 7º.\n\n§ 1º A prova do apoiamento mínimo de eleitores é feita por meio de suas assinaturas, com menção ao número do respectivo título eleitoral, em listas organizadas para cada Zona, sendo a veracidade das respectivas assinaturas e o número dos títulos atestados pelo Escrivão Eleitoral.\n\n§ 2º O Escrivão Eleitoral dá imediato recibo de cada lista que lhe for apresentada e, no prazo de quinze dias, lavra o seu atestado, devolvendo-a ao interessado.\n\n§ 3º Protocolado o pedido de registro no Tribunal Superior Eleitoral, o processo respectivo, no prazo de quarenta e oito horas, é distribuído a um Relator, que, ouvida a Procuradoria-Geral, em dez dias, determina, em igual prazo, diligências para sanar eventuais falhas do processo.\n\n§ 4º Se não houver diligências a determinar, ou após o seu atendimento, o Tribunal Superior Eleitoral registra o estatuto do partido, no prazo de trinta dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%209%C2%BA%20Feita%20a%20constitui%C3%A7%C3%A3o%20e%20designa%C3%A7%C3%A3o%2C%20referidas%20no%20%C2%A7%203%C2%BA%20do%20artigo%20anterior%2C%20os%20dirigentes%20nacionais%20promover%C3%A3o%20o%20registro%20do%20estatuto",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Da Organização e Funcionamento dos Partidos Políticos CAPÍTULO I Da Criação e do Registro dos Partidos Políticos",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. As alterações programáticas ou estatutárias, após registradas no Ofício Civil competente, devem ser encaminhadas, para o mesmo fim, ao Tribunal Superior Eleitoral.\n\n§ 1º. O Partido comunica à Justiça Eleitoral a constituição de seus órgãos de direção e os nomes dos respectivos integrantes, bem como as alterações que forem promovidas, para anotação: (Incluído pela Lei nº 9.259, de 1996) (Renumerado pela Lei nº 13.877, de 2019)\n\nI - no Tribunal Superior Eleitoral, dos integrantes dos órgãos de âmbito nacional; (Incluído pela Lei nº 9.259, de 1996) (Renumerado pela Lei nº 13.877, de 2019)\n\nII - nos Tribunais Regionais Eleitorais, dos integrantes dos órgãos de âmbito estadual, municipal ou zonal. (Incluído pela Lei nº 9.259, de 1996) (Renumerado pela Lei nº 13.877, de 2019)\n\n§ 2º Após o recebimento da comunicação de constituição dos órgãos de direção regionais e municipais, definitivos ou provisórios, o Tribunal Superior Eleitoral, na condição de unidade cadastradora, deverá proceder à inscrição, ao restabelecimento e à alteração de dados cadastrais e da situação cadastral perante o CNPJ na Secretaria Especial da Receita Federal do Brasil. (Redação dada pela Lei nº 14.063, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2010.%20As%20altera%C3%A7%C3%B5es%20program%C3%A1ticas%20ou%20estatut%C3%A1rias%2C%20ap%C3%B3s%20registradas%20no%20Of%C3%ADcio%20Civil%20competente%2C%20devem%20ser%20encaminhadas%2C%20para%20o%20mesmo%20fim%2C%20ao%20Tribunal",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Da Organização e Funcionamento dos Partidos Políticos CAPÍTULO I Da Criação e do Registro dos Partidos Políticos",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. O partido com registro no Tribunal Superior Eleitoral pode credenciar, respectivamente:\n\nI - delegados perante o Juiz Eleitoral;\n\nII - delegados perante o Tribunal Regional Eleitoral;\n\nIII - delegados perante o Tribunal Superior Eleitoral.\n\nParágrafo único. Os delegados credenciados pelo órgão de direção nacional representam o partido perante quaisquer Tribunais ou Juízes Eleitorais; os credenciados pelos órgãos estaduais, somente perante o Tribunal Regional Eleitoral e os Juízes Eleitorais do respectivo Estado, do Distrito Federal ou Território Federal; e os credenciados pelo órgão municipal, perante o Juiz Eleitoral da respectiva jurisdição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2011.%20O%20partido%20com%20registro%20no%20Tribunal%20Superior%20Eleitoral%20pode%20credenciar%2C%20respectivamente%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Da Organização e Funcionamento dos Partidos Políticos CAPÍTULO I Da Criação e do Registro dos Partidos Políticos",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "11-A"
+    },
+    "11-A": {
+      "numero": "11-A",
+      "texto": "Art. 11-A. Dois ou mais partidos políticos poderão reunir-se em federação, a qual, após sua constituição e respectivo registro perante o Tribunal Superior Eleitoral, atuará como se fosse uma única agremiação partidária. (Incluído pela Lei nº 14.208, de 2021) (Vide ADI Nº 7021)\n\n§ 1º Aplicam-se à federação de partidos todas as normas que regem o funcionamento parlamentar e a fidelidade partidária. (Incluído pela Lei nº 14.208, de 2021)\n\n§ 2º Assegura-se a preservação da identidade e da autonomia dos partidos integrantes de federação. (Incluído pela Lei nº 14.208, de 2021)\n\n§ 3º A criação de federação obedecerá às seguintes regras: (Incluído pela Lei nº 14.208, de 2021)\n\nI – a federação somente poderá ser integrada por partidos com registro definitivo no Tribunal Superior Eleitoral; (Incluído pela Lei nº 14.208, de 2021)\n\nII – os partidos reunidos em federação deverão permanecer a ela filiados por, no mínimo, 4 (quatro) anos; (Incluído pela Lei nº 14.208, de 2021)\n\nIII – a federação poderá ser constituída até a data final do período de realização das convenções partidárias; (Incluído pela Lei nº 14.208, de 2021) (Vide ADI Nº 7021)\n\nIV – a federação terá abrangência nacional e seu registro será encaminhado ao Tribunal Superior Eleitoral. (Incluído pela Lei nº 14.208, de 2021)\n\n§ 4º O descumprimento do disposto no inciso II do § 3º deste artigo acarretará ao partido vedação de ingressar em federação, de celebrar coligação nas 2 (duas) eleições seguintes e, até completar o prazo mínimo remanescente, de utilizar o fundo partidário. (Incluído pela Lei nº 14.208, de 2021)\n\n§ 5º Na hipótese de desligamento de 1 (um) ou mais partidos, a federação continuará em funcionamento, até a eleição seguinte, desde que nela permaneçam 2 (dois) ou mais partidos. (Incluído pela Lei nº 14.208, de 2021)\n\n§ 6º O pedido de registro de federação de partidos encaminhado ao Tribunal Superior Eleitoral será acompanhado dos seguintes documentos: (Incluído pela Lei nº 14.208, de 2021)\n\nI – cópia da resolução tomada pela maioria absoluta dos votos dos órgãos de deliberação nacional de cada um dos partidos integrantes da federação; (Incluído pela Lei nº 14.208, de 2021)\n\nII – cópia do programa e do estatuto comuns da federação constituída; (Incluído pela Lei nº 14.208, de 2021)\n\nIII – ata de eleição do órgão de direção nacional da federação. (Incluído pela Lei nº 14.208, de 2021)\n\n§ 7º O estatuto de que trata o inciso II do § 6º deste artigo definirá as regras para a composição da lista da federação para as eleições proporcionais. (Incluído pela Lei nº 14.208, de 2021)\n\n§ 8º Aplicam-se à federação de partidos todas as normas que regem as atividades dos partidos políticos no que diz respeito às eleições, inclusive no que se refere à escolha e registro de candidatos para as eleições majoritárias e proporcionais, à arrecadação e aplicação de recursos em campanhas eleitorais, à propaganda eleitoral, à contagem de votos, à obtenção de cadeiras, à prestação de contas e à convocação de suplentes. (Incluído pela Lei nº 14.208, de 2021)\n\n§ 9º Perderá o mandato o detentor de cargo eletivo que se desfiliar, sem justa causa, de partido que integra federação. (Incluído pela Lei nº 14.208, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2011-A.%20Dois%20ou%20mais%20partidos%20pol%C3%ADticos%20poder%C3%A3o%20reunir-se%20em%20federa%C3%A7%C3%A3o%2C%20a%20qual%2C%20ap%C3%B3s%20sua%20constitui%C3%A7%C3%A3o%20e%20respectivo%20registro%20perante%20o%20Tribunal",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Da Organização e Funcionamento dos Partidos Políticos CAPÍTULO I Da Criação e do Registro dos Partidos Políticos",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. O partido político funciona, nas Casas Legislativas, por intermédio de uma bancada, que deve constituir suas lideranças de acordo com o estatuto do partido, as disposições regimentais das respectivas Casas e as normas desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2012.%20O%20partido%20pol%C3%ADtico%20funciona%2C%20nas%20Casas%20Legislativas%2C%20por%20interm%C3%A9dio%20de%20uma%20bancada%2C%20que%20deve%20constituir%20suas%20lideran%C3%A7as%20de%20acordo%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Da Organização e Funcionamento dos Partidos Políticos CAPÍTULO I Da Criação e do Registro dos Partidos Políticos",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Do Funcionamento Parlamentar",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11-A",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Tem direito a funcionamento parlamentar, em todas as Casas Legislativas para as quais tenha elegido representante, o partido que, em cada eleição para a Câmara dos Deputados obtenha o apoio de, no mínimo, cinco por cento dos votos apurados, não computados os brancos e os nulos, distribuídos em, pelo menos, um terço dos Estados, com um mínimo de dois por cento do total de cada um deles. (Vide Adins nºs 1.351-3 e 1.354-8)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2013.%20Tem%20direito%20a%20funcionamento%20parlamentar%2C%20em%20todas%20as%20Casas%20Legislativas%20para%20as%20quais%20tenha%20elegido%20representante%2C%20o%20partido%20que%2C%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Da Organização e Funcionamento dos Partidos Políticos CAPÍTULO I Da Criação e do Registro dos Partidos Políticos",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Do Funcionamento Parlamentar",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Observadas as disposições constitucionais e as desta Lei, o partido é livre para fixar, em seu programa, seus objetivos políticos e para estabelecer, em seu estatuto, a sua estrutura interna, organização e funcionamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2014.%20Observadas%20as%20disposi%C3%A7%C3%B5es%20constitucionais%20e%20as%20desta%20Lei%2C%20o%20partido%20%C3%A9%20livre%20para%20fixar%2C%20em%20seu%20programa%2C%20seus%20objetivos%20pol%C3%ADticos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Da Organização e Funcionamento dos Partidos Políticos CAPÍTULO I Da Criação e do Registro dos Partidos Políticos",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Do Programa e do Estatuto",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. O Estatuto do partido deve conter, entre outras, normas sobre:\n\nI - nome, denominação abreviada e o estabelecimento da sede no território nacional; (Redação dada pela Lei nº 13.877, de 2019)\n\nII - filiação e desligamento de seus membros;\n\nIII - direitos e deveres dos filiados;\n\nIV - modo como se organiza e administra, com a definição de sua estrutura geral e identificação, composição e competências dos órgãos partidários nos níveis municipal, estadual e nacional, duração dos mandatos e processo de eleição dos seus membros;\n\nV - fidelidade e disciplina partidárias, processo para apuração das infrações e aplicação das penalidades, assegurado amplo direito de defesa;\n\nVI - condições e forma de escolha de seus candidatos a cargos e funções eletivas;\n\nVII - finanças e contabilidade, estabelecendo, inclusive, normas que os habilitem a apurar as quantias que os seus candidatos possam despender com a própria eleição, que fixem os limites das contribuições dos filiados e definam as diversas fontes de receita do partido, além daquelas previstas nesta Lei;\n\nVIII - critérios de distribuição dos recursos do Fundo Partidário entre os órgãos de nível municipal, estadual e nacional que compõem o partido;\n\nIX - procedimento de reforma do programa e do estatuto.\n\nX - prevenção, repressão e combate à violência política contra a mulher. (Incluído pela Lei nº 14.192, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2015.%20O%20Estatuto%20do%20partido%20deve%20conter%2C%20entre%20outras%2C%20normas%20sobre%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Da Organização e Funcionamento dos Partidos Políticos CAPÍTULO I Da Criação e do Registro dos Partidos Políticos",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Do Programa e do Estatuto",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "15-A"
+    },
+    "15-A": {
+      "numero": "15-A",
+      "texto": "Art. 15-A. A responsabilidade, inclusive civil e trabalhista, cabe exclusivamente ao órgão partidário municipal, estadual ou nacional que tiver dado causa ao não cumprimento da obrigação, à violação de direito, a dano a outrem ou a qualquer ato ilícito, excluída a solidariedade de outros órgãos de direção partidária. (Redação dada pela Lei nº 12.034, de 2009)\n\nParágrafo único. O órgão nacional do partido político, quando responsável, somente poderá ser demandado judicialmente na circunscrição especial judiciária da sua sede, inclusive nas ações de natureza cível ou trabalhista. (Incluído pela Lei nº 12.891, de 2013)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2015-A.%20A%20responsabilidade%2C%20inclusive%20civil%20e%20trabalhista%2C%20cabe%20exclusivamente%20ao%20%C3%B3rg%C3%A3o%20partid%C3%A1rio%20municipal%2C%20estadual%20ou%20nacional%20que%20tiver%20dado%20causa%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Da Organização e Funcionamento dos Partidos Políticos CAPÍTULO I Da Criação e do Registro dos Partidos Políticos",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Do Programa e do Estatuto",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Só pode filiar-se a partido o eleitor que estiver no pleno gozo de seus direitos políticos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2016.%20S%C3%B3%20pode%20filiar-se%20a%20partido%20o%20eleitor%20que%20estiver%20no%20pleno%20gozo%20de%20seus%20direitos%20pol%C3%ADticos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Da Organização e Funcionamento dos Partidos Políticos CAPÍTULO I Da Criação e do Registro dos Partidos Políticos",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Da Filiação Partidária",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15-A",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Considera-se deferida, para todos os efeitos, a filiação partidária, com o atendimento das regras estatutárias do partido.\n\nParágrafo único. Deferida a filiação do eleitor, será entregue comprovante ao interessado, no modelo adotado pelo partido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2017.%20Considera-se%20deferida%2C%20para%20todos%20os%20efeitos%2C%20a%20filia%C3%A7%C3%A3o%20partid%C3%A1ria%2C%20com%20o%20atendimento%20das%20regras%20estatut%C3%A1rias%20do%20partido.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Da Organização e Funcionamento dos Partidos Políticos CAPÍTULO I Da Criação e do Registro dos Partidos Políticos",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Da Filiação Partidária",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. (Revogado pela Lei nº 13.165, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2018.%20%28Revogado%20pela%20Lei%20n%C2%BA%2013.165%2C%20de%202015%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Da Organização e Funcionamento dos Partidos Políticos CAPÍTULO I Da Criação e do Registro dos Partidos Políticos",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Da Filiação Partidária",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Deferido internamente o pedido de filiação, o partido político, por seus órgãos de direção municipais, regionais ou nacional, deverá inserir os dados do filiado no sistema eletrônico da Justiça Eleitoral, que automaticamente enviará aos juízes eleitorais, para arquivamento, publicação e cumprimento dos prazos de filiação partidária para efeito de candidatura a cargos eletivos, a relação dos nomes de todos os seus filiados, da qual constará a data de filiação, o número dos títulos eleitorais e das seções em que estão inscritos. (Redação dada pela Lei nº 13.877, de 2019)\n\n§ 1º Nos casos de mudança de partido de filiado eleito, a Justiça Eleitoral deverá intimar pessoalmente a agremiação partidária e dar-lhe ciência da saída do seu filiado, a partir do que passarão a ser contados os prazos para ajuizamento das ações cabíveis. (Redação dada pela Lei nº 13.877, de 2019)\n\n§ 2º Os prejudicados por desídia ou má-fé poderão requerer, diretamente à Justiça Eleitoral, a observância do que prescreve o caput deste artigo.\n\n§ 3o Os órgãos de direção nacional dos partidos políticos terão pleno acesso às informações de seus filiados constantes do cadastro eleitoral. (Incluído pela Lei nº 12.034, de 2009)\n\n§ 4º A Justiça Eleitoral disponibilizará eletronicamente aos órgãos nacional e estaduais dos partidos políticos, conforme sua circunscrição eleitoral, acesso a todas as informações de seus filiados constantes do cadastro eleitoral, incluídas as relacionadas a seu nome completo, sexo, número do título de eleitor e de inscrição no Cadastro de Pessoa Física (CPF), endereço, telefones, entre outras. (Incluído pela Lei nº 13.877, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2019.%20Deferido%20internamente%20o%20pedido%20de%20filia%C3%A7%C3%A3o%2C%20o%20partido%20pol%C3%ADtico%2C%20por%20seus%20%C3%B3rg%C3%A3os%20de%20dire%C3%A7%C3%A3o%20municipais%2C%20regionais%20ou%20nacional%2C%20dever%C3%A1%20inserir",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Da Organização e Funcionamento dos Partidos Políticos CAPÍTULO I Da Criação e do Registro dos Partidos Políticos",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Da Filiação Partidária",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. É facultado ao partido político estabelecer, em seu estatuto, prazos de filiação partidária superiores aos previstos nesta Lei, com vistas a candidatura a cargos eletivos.\n\nParágrafo único. Os prazos de filiação partidária, fixados no estatuto do partido, com vistas a candidatura a cargos eletivos, não podem ser alterados no ano da eleição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2020.%20%C3%89%20facultado%20ao%20partido%20pol%C3%ADtico%20estabelecer%2C%20em%20seu%20estatuto%2C%20prazos%20de%20filia%C3%A7%C3%A3o%20partid%C3%A1ria%20superiores%20aos%20previstos%20nesta%20Lei%2C%20com%20vistas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Da Organização e Funcionamento dos Partidos Políticos CAPÍTULO I Da Criação e do Registro dos Partidos Políticos",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Da Filiação Partidária",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Para desligar-se do partido, o filiado faz comunicação escrita ao órgão de direção municipal e ao Juiz Eleitoral da Zona em que for inscrito.\n\nParágrafo único. Decorridos dois dias da data da entrega da comunicação, o vínculo torna-se extinto, para todos os efeitos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2021.%20Para%20desligar-se%20do%20partido%2C%20o%20filiado%20faz%20comunica%C3%A7%C3%A3o%20escrita%20ao%20%C3%B3rg%C3%A3o%20de%20dire%C3%A7%C3%A3o%20municipal%20e%20ao%20Juiz%20Eleitoral%20da%20Zona",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Da Organização e Funcionamento dos Partidos Políticos CAPÍTULO I Da Criação e do Registro dos Partidos Políticos",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Da Filiação Partidária",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. O cancelamento imediato da filiação partidária verifica-se nos casos de:\n\nI - morte;\n\nII - perda dos direitos políticos;\n\nIII - expulsão;\n\nIV - outras formas previstas no estatuto, com comunicação obrigatória ao atingido no prazo de quarenta e oito horas da decisão.\n\nV - filiação a outro partido, desde que a pessoa comunique o fato ao juiz da respectiva Zona Eleitoral. (Incluído pela Lei nº 12.891, de 2013)\n\nParágrafo único. Havendo coexistência de filiações partidárias, prevalecerá a mais recente, devendo a Justiça Eleitoral determinar o cancelamento das demais. (Redação dada pela Lei nº 12.891, de 2013)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2022.%20O%20cancelamento%20imediato%20da%20filia%C3%A7%C3%A3o%20partid%C3%A1ria%20verifica-se%20nos%20casos%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Da Organização e Funcionamento dos Partidos Políticos CAPÍTULO I Da Criação e do Registro dos Partidos Políticos",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Da Filiação Partidária",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "22-A"
+    },
+    "22-A": {
+      "numero": "22-A",
+      "texto": "Art. 22-A. Perderá o mandato o detentor de cargo eletivo que se desfiliar, sem justa causa, do partido pelo qual foi eleito. (Incluído pela Lei nº 13.165, de 2015)\n\nParágrafo único. Consideram-se justa causa para a desfiliação partidária somente as seguintes hipóteses: (Incluído pela Lei nº 13.165, de 2015) (Vide ADI Nº 5.398)\n\nI - mudança substancial ou desvio reiterado do programa partidário; (Incluído pela Lei nº 13.165, de 2015)\n\nII - grave discriminação política pessoal; e (Incluído pela Lei nº 13.165, de 2015)\n\nIII - mudança de partido efetuada durante o período de trinta dias que antecede o prazo de filiação exigido em lei para concorrer à eleição, majoritária ou proporcional, ao término do mandato vigente. (Incluído pela Lei nº 13.165, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2022-A.%20Perder%C3%A1%20o%20mandato%20o%20detentor%20de%20cargo%20eletivo%20que%20se%20desfiliar%2C%20sem%20justa%20causa%2C%20do%20partido%20pelo%20qual%20foi%20eleito.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Da Organização e Funcionamento dos Partidos Políticos CAPÍTULO I Da Criação e do Registro dos Partidos Políticos",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Da Filiação Partidária",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. A responsabilidade por violação dos deveres partidários deve ser apurada e punida pelo competente órgão, na conformidade do que disponha o estatuto de cada partido.\n\n§ 1º Filiado algum pode sofrer medida disciplinar ou punição por conduta que não esteja tipificada no estatuto do partido político.\n\n§ 2º Ao acusado é assegurado amplo direito de defesa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2023.%20A%20responsabilidade%20por%20viola%C3%A7%C3%A3o%20dos%20deveres%20partid%C3%A1rios%20deve%20ser%20apurada%20e%20punida%20pelo%20competente%20%C3%B3rg%C3%A3o%2C%20na%20conformidade%20do%20que%20disponha",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Da Organização e Funcionamento dos Partidos Políticos CAPÍTULO I Da Criação e do Registro dos Partidos Políticos",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Da Fidelidade e da Disciplina Partidárias",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22-A",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Na Casa Legislativa, o integrante da bancada de partido deve subordinar sua ação parlamentar aos princípios doutrinários e programáticos e às diretrizes estabelecidas pelos órgãos de direção partidários, na forma do estatuto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2024.%20Na%20Casa%20Legislativa%2C%20o%20integrante%20da%20bancada%20de%20partido%20deve%20subordinar%20sua%20a%C3%A7%C3%A3o%20parlamentar%20aos%20princ%C3%ADpios%20doutrin%C3%A1rios%20e%20program%C3%A1ticos%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Da Organização e Funcionamento dos Partidos Políticos CAPÍTULO I Da Criação e do Registro dos Partidos Políticos",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Da Fidelidade e da Disciplina Partidárias",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. O estatuto do partido poderá estabelecer, além das medidas disciplinares básicas de caráter partidário, normas sobre penalidades, inclusive com desligamento temporário da bancada, suspensão do direito de voto nas reuniões internas ou perda de todas as prerrogativas, cargos e funções que exerça em decorrência da representação e da proporção partidária, na respectiva Casa Legislativa, ao parlamentar que se opuser, pela atitude ou pelo voto, às diretrizes legitimamente estabelecidas pelos órgãos partidários.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2025.%20O%20estatuto%20do%20partido%20poder%C3%A1%20estabelecer%2C%20al%C3%A9m%20das%20medidas%20disciplinares%20b%C3%A1sicas%20de%20car%C3%A1ter%20partid%C3%A1rio%2C%20normas%20sobre%20penalidades%2C%20inclusive%20com%20desligamento",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Da Organização e Funcionamento dos Partidos Políticos CAPÍTULO I Da Criação e do Registro dos Partidos Políticos",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Da Fidelidade e da Disciplina Partidárias",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Perde automaticamente a função ou cargo que exerça, na respectiva Casa Legislativa, em virtude da proporção partidária, o parlamentar que deixar o partido sob cuja legenda tenha sido eleito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2026.%20Perde%20automaticamente%20a%20fun%C3%A7%C3%A3o%20ou%20cargo%20que%20exer%C3%A7a%2C%20na%20respectiva%20Casa%20Legislativa%2C%20em%20virtude%20da%20propor%C3%A7%C3%A3o%20partid%C3%A1ria%2C%20o%20parlamentar%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Da Organização e Funcionamento dos Partidos Políticos CAPÍTULO I Da Criação e do Registro dos Partidos Políticos",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Da Fidelidade e da Disciplina Partidárias",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Fica cancelado, junto ao Ofício Civil e ao Tribunal Superior Eleitoral, o registro do partido que, na forma de seu estatuto, se dissolva, se incorpore ou venha a se fundir a outro.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2027.%20Fica%20cancelado%2C%20junto%20ao%20Of%C3%ADcio%20Civil%20e%20ao%20Tribunal%20Superior%20Eleitoral%2C%20o%20registro%20do%20partido%20que%2C%20na%20forma%20de%20seu",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Da Organização e Funcionamento dos Partidos Políticos CAPÍTULO I Da Criação e do Registro dos Partidos Políticos",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Da Fusão, Incorporação e Extinção dos Partidos Políticos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. O Tribunal Superior Eleitoral, após trânsito em julgado de decisão, determina o cancelamento do registro civil e do estatuto do partido contra o qual fique provado:\n\nI - ter recebido ou estar recebendo recursos financeiros de procedência estrangeira;\n\nII - estar subordinado a entidade ou governo estrangeiros;\n\nIII - não ter prestado, nos termos desta Lei, as devidas contas à Justiça Eleitoral;\n\nIV - que mantém organização paramilitar.\n\n§ 1º A decisão judicial a que se refere este artigo deve ser precedida de processo regular, que assegure ampla defesa.\n\n§ 2º O processo de cancelamento é iniciado pelo Tribunal à vista de denúncia de qualquer eleitor, de representante de partido, ou de representação do Procurador-Geral Eleitoral.\n\n§ 3º O partido político, em nível nacional, não sofrerá a suspensão das cotas do Fundo Partidário, nem qualquer outra punição como conseqüência de atos praticados por órgãos regionais ou municipais. (Incluído pela Lei nº 9.693, de 1998)\n\n§ 4o Despesas realizadas por órgãos partidários municipais ou estaduais ou por candidatos majoritários nas respectivas circunscrições devem ser assumidas e pagas exclusivamente pela esfera partidária correspondente, salvo acordo expresso com órgão de outra esfera partidária. (Incluído pela Lei nº 12.034, de 2009)\n\n§ 5o Em caso de não pagamento, as despesas não poderão ser cobradas judicialmente dos órgãos superiores dos partidos políticos, recaindo eventual penhora exclusivamente sobre o órgão partidário que contraiu a dívida executada. (Incluído pela Lei nº 12.034, de 2009)\n\n§ 6o O disposto no inciso III do caput refere-se apenas aos órgãos nacionais dos partidos políticos que deixarem de prestar contas ao Tribunal Superior Eleitoral, não ocorrendo o cancelamento do registro civil e do estatuto do partido quando a omissão for dos órgãos partidários regionais ou municipais. (Incluído pela Lei nº 12.034, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2028.%20O%20Tribunal%20Superior%20Eleitoral%2C%20ap%C3%B3s%20tr%C3%A2nsito%20em%20julgado%20de%20decis%C3%A3o%2C%20determina%20o%20cancelamento%20do%20registro%20civil%20e%20do%20estatuto%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Da Organização e Funcionamento dos Partidos Políticos CAPÍTULO I Da Criação e do Registro dos Partidos Políticos",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Da Fusão, Incorporação e Extinção dos Partidos Políticos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Por decisão de seus órgãos nacionais de deliberação, dois ou mais partidos poderão fundir-se num só ou incorporar-se um ao outro.\n\n§ 1º No primeiro caso, observar-se-ão as seguintes normas:\n\nI - os órgãos de direção dos partidos elaborarão projetos comuns de estatuto e programa;\n\nII - os órgãos nacionais de deliberação dos partidos em processo de fusão votarão em reunião conjunta, por maioria absoluta, os projetos, e elegerão o órgão de direção nacional que promoverá o registro do novo partido.\n\n§ 2º No caso de incorporação, observada a lei civil, caberá ao partido incorporando deliberar por maioria absoluta de votos, em seu órgão nacional de deliberação, sobre a adoção do estatuto e do programa de outra agremiação.\n\n§ 3º Adotados o estatuto e o programa do partido incorporador, realizar-se-á, em reunião conjunta dos órgãos nacionais de deliberação, a eleição do novo órgão de direção nacional.\n\n§ 4º Na hipótese de fusão, a existência legal do novo partido tem início com o registro, no Ofício Civil competente da sede do novo partido, do estatuto e do programa, cujo requerimento deve ser acompanhado das atas das decisões dos órgãos competentes. (Redação dada pela Lei nº 13.877, de 2019)\n\n§ 5º No caso de incorporação, o instrumento respectivo deve ser levado ao Ofício Civil competente, que deve, então, cancelar o registro do partido incorporado a outro.\n\n§ 6º No caso de incorporação, o instrumento respectivo deve ser levado ao Ofício Civil competente, que deve, então, cancelar o registro do partido incorporado a outro. (Redação dada pela Lei nº 13.107, de 2015)\n\n§ 7º Havendo fusão ou incorporação, devem ser somados exclusivamente os votos dos partidos fundidos ou incorporados obtidos na última eleição geral para a Câmara dos Deputados, para efeito da distribuição dos recursos do Fundo Partidário e do acesso gratuito ao rádio e à televisão. (Redação dada pela Lei nº 13.107, de 2015)\n\n§ 8º O novo estatuto ou instrumento de incorporação deve ser levado a registro e averbado, respectivamente, no Ofício Civil e no Tribunal Superior Eleitoral. (Incluído pela Lei nº 13.107, de 2015)\n\n§ 9º Somente será admitida a fusão ou incorporação de partidos políticos que hajam obtido o registro definitivo do Tribunal Superior Eleitoral há, pelo menos, 5 (cinco) anos. (Incluído pela Lei nº 13.107, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2029.%20Por%20decis%C3%A3o%20de%20seus%20%C3%B3rg%C3%A3os%20nacionais%20de%20delibera%C3%A7%C3%A3o%2C%20dois%20ou%20mais%20partidos%20poder%C3%A3o%20fundir-se%20num%20s%C3%B3%20ou%20incorporar-se%20um%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Da Organização e Funcionamento dos Partidos Políticos CAPÍTULO I Da Criação e do Registro dos Partidos Políticos",
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Da Fusão, Incorporação e Extinção dos Partidos Políticos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. O partido político, através de seus órgãos nacionais, regionais e municipais, deve manter escrituração contábil, de forma a permitir o conhecimento da origem de suas receitas e a destinação de suas despesas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2030.%20O%20partido%20pol%C3%ADtico%2C%20atrav%C3%A9s%20de%20seus%20%C3%B3rg%C3%A3os%20nacionais%2C%20regionais%20e%20municipais%2C%20deve%20manter%20escritura%C3%A7%C3%A3o%20cont%C3%A1bil%2C%20de%20forma%20a%20permitir%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Finanças e Contabilidade dos Partidos CAPÍTULO I Da Prestação de Contas",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. É vedado ao partido receber, direta ou indiretamente, sob qualquer forma ou pretexto, contribuição ou auxílio pecuniário ou estimável em dinheiro, inclusive através de publicidade de qualquer espécie, procedente de:\n\nI - entidade ou governo estrangeiros;\n\nII - entes públicos e pessoas jurídicas de qualquer natureza, ressalvadas as dotações referidas no art. 38 desta Lei e as proveniente do Fundo Especial de Financiamento de Campanha; (Redação dada pela Lei nº 13.488, de 2017)\n\nIII - (revogado); (Redação dada pela Lei nº 13.488, de 2017)\n\nIV - entidade de classe ou sindical.\n\nV - pessoas físicas que exerçam função ou cargo público de livre nomeação e exoneração, ou cargo ou emprego público temporário, ressalvados os filiados a partido político. (Incluído pela Lei nº 13.488, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2031.%20%C3%89%20vedado%20ao%20partido%20receber%2C%20direta%20ou%20indiretamente%2C%20sob%20qualquer%20forma%20ou%20pretexto%2C%20contribui%C3%A7%C3%A3o%20ou%20aux%C3%ADlio%20pecuni%C3%A1rio%20ou%20estim%C3%A1vel%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Finanças e Contabilidade dos Partidos CAPÍTULO I Da Prestação de Contas",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. O partido está obrigado a enviar, anualmente, à Justiça Eleitoral, o balanço contábil do exercício findo, até o dia 30 de junho do ano seguinte. (Redação dada pela Lei nº 13.877, de 2019)\n\n§ 1º O balanço contábil do órgão nacional será enviado ao Tribunal Superior Eleitoral, o dos órgãos estaduais aos Tribunais Regionais Eleitorais e o dos órgãos municipais aos Juízes Eleitorais.\n\n§ 2º A Justiça Eleitoral determina, imediatamente, a publicação dos balanços na imprensa oficial, e, onde ela não exista, procede à afixação dos mesmos no Cartório Eleitoral.\n\n§ 3o (Revogado). (Redação dada pela Lei nº 13.165, de 2015)\n\n§ 4º Os órgãos partidários municipais que não hajam movimentado recursos financeiros ou arrecadado bens estimáveis em dinheiro ficam desobrigados de prestar contas à Justiça Eleitoral e de enviar declarações de isenção, declarações de débitos e créditos tributários federais ou demonstrativos contábeis à Receita Federal do Brasil, bem como ficam dispensados da certificação digital, exigindo-se do responsável partidário, no prazo estipulado no caput deste artigo, a apresentação de declaração da ausência de movimentação de recursos nesse período. (Redação dada pela Lei nº 13.831, de 2019)\n\n§ 5o A desaprovação da prestação de contas do partido não ensejará sanção alguma que o impeça de participar do pleito eleitoral. (Incluído pela Lei nº 13.165, de 2015)\n\n§ 6º O Tribunal Superior Eleitoral, na condição de unidade cadastradora, deverá proceder à reativação da inscrição perante o CNPJ na Secretaria Especial da Receita Federal do Brasil dos órgãos partidários municipais referidos no § 4º deste artigo que estejam com a inscrição baixada ou inativada, após o recebimento da comunicação de constituição de seus órgãos de direção regionais e municipais, definitivos ou provisórios. (Redação dada pela Lei nº 14.063, de 2020)\n\n§ 7º O requerimento a que se refere o § 6º deste artigo indicará se a agremiação partidária pretende a efetivação imediata da reativação da inscrição pela Secretaria Especial da Receita Federal do Brasil ou a partir de 1º de janeiro de 2020, hipótese em que a efetivação será realizada sem a cobrança de quaisquer taxas, multas ou outros encargos administrativos relativos à ausência de prestação de contas. (Incluído pela Lei nº 13.831, de 2019)\n\n§ 8º As decisões da Justiça Eleitoral nos processos de prestação de contas não ensejam, ainda que desaprovadas as contas, a inscrição dos dirigentes partidários no Cadastro Informativo dos Créditos não Quitados do Setor Público Federal (Cadin). (Incluído pela Lei nº 13.831, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2032.%20O%20partido%20est%C3%A1%20obrigado%20a%20enviar%2C%20anualmente%2C%20%C3%A0%20Justi%C3%A7a%20Eleitoral%2C%20o%20balan%C3%A7o%20cont%C3%A1bil%20do%20exerc%C3%ADcio%20findo%2C%20at%C3%A9%20o%20dia%2030",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Finanças e Contabilidade dos Partidos CAPÍTULO I Da Prestação de Contas",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Os balanços devem conter, entre outros, os seguintes itens:\n\nI - discriminação dos valores e destinação dos recursos oriundos do fundo partidário;\n\nII - origem e valor das contribuições e doações;\n\nIII - despesas de caráter eleitoral, com a especificação e comprovação dos gastos com programas no rádio e televisão, comitês, propaganda, publicações, comícios, e demais atividades de campanha;\n\nIV - discriminação detalhada das receitas e despesas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2033.%20Os%20balan%C3%A7os%20devem%20conter%2C%20entre%20outros%2C%20os%20seguintes%20itens%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Finanças e Contabilidade dos Partidos CAPÍTULO I Da Prestação de Contas",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. A Justiça Eleitoral exerce a fiscalização sobre a prestação de contas do partido e das despesas de campanha eleitoral, devendo atestar se elas refletem adequadamente a real movimentação financeira, os dispêndios e os recursos aplicados nas campanhas eleitorais, exigindo a observação das seguintes normas: (Redação dada pela Lei nº 13.165, de 2015)\n\nI - obrigatoriedade de designação de dirigentes partidários específicos para movimentar recursos financeiros nas campanhas eleitorais; (Redação dada pela Lei nº 13.165, de 2015)\n\nII - (revogado); (Redação dada pela Lei nº 13.165, de 2015)\n\nIII - relatório financeiro, com documentação que comprove a entrada e saída de dinheiro ou de bens recebidos e aplicados; (Redação dada pela Lei nº 13.165, de 2015)\n\nIV - obrigatoriedade de ser conservada pelo partido, por prazo não inferior a cinco anos, a documentação comprobatória de suas prestações de contas; (Redação dada pela Lei nº 13.165, de 2015)\n\nV - obrigatoriedade de prestação de contas pelo partido político e por seus candidatos no encerramento da campanha eleitoral, com o recolhimento imediato à tesouraria do partido dos saldos financeiros eventualmente apurados. (Redação dada pela Lei nº 13.165, de 2015)\n\n§ 1o A fiscalização de que trata o caput tem por escopo identificar a origem das receitas e a destinação das despesas com as atividades partidárias e eleitorais, mediante o exame formal dos documentos fiscais apresentados pelos partidos políticos e candidatos, sendo vedada a análise das atividades político-partidárias ou qualquer interferência em sua autonomia. (Redação dada pela Lei nº 13.165, de 2015)\n\n§ 2o Para efetuar os exames necessários ao atendimento do disposto no caput, a Justiça Eleitoral pode requisitar técnicos do Tribunal de Contas da União ou dos Estados, pelo tempo que for necessário. (Incluído pela Lei nº 12.891, de 2013)\n\n§ 3º (VETADO). (Incluído pela Lei nº 13.877, de 2019)\n\n§ 4º Para o exame das prestações de contas dos partidos políticos, o sistema de contabilidade deve gerar e disponibilizar os relatórios para conhecimento da origem das receitas e das despesas. (Incluído pela Lei nº 13.877, de 2019)\n\n§ 5º Os relatórios emitidos pelas áreas técnicas dos tribunais eleitorais devem ser fundamentados estritamente com base na legislação eleitoral e nas normas de contabilidade, vedado opinar sobre sanções aplicadas aos partidos políticos, cabendo aos magistrados emitir juízo de valor. (Incluído pela Lei nº 13.877, de 2019)\n\n§ 6º A Justiça Eleitoral não pode exigir dos partidos políticos apresentação de certidão ou documentos expedidos por outro órgão da administração pública ou por entidade bancária e do sistema financeiro que mantêm convênio ou integração de sistemas eletrônicos que realizam o envio direto de documentos para a própria Justiça Eleitoral. (Incluído pela Lei nº 13.877, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2034.%20A%20Justi%C3%A7a%20Eleitoral%20exerce%20a%20fiscaliza%C3%A7%C3%A3o%20sobre%20a%20presta%C3%A7%C3%A3o%20de%20contas%20do%20partido%20e%20das%20despesas%20de%20campanha%20eleitoral%2C%20devendo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Finanças e Contabilidade dos Partidos CAPÍTULO I Da Prestação de Contas",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. O Tribunal Superior Eleitoral e os Tribunais Regionais Eleitorais, à vista de denúncia fundamentada de filiado ou delegado de partido, de representação do Procurador-Geral ou Regional ou de iniciativa do Corregedor, determinarão o exame da escrituração do partido e a apuração de qualquer ato que viole as prescrições legais ou estatutárias a que, em matéria financeira, aquele ou seus filiados estejam sujeitos, podendo, inclusive, determinar a quebra de sigilo bancário das contas dos partidos para o esclarecimento ou apuração de fatos vinculados à denúncia.\n\nParágrafo único. O partido pode examinar, na Justiça Eleitoral, as prestações de contas mensais ou anuais dos demais partidos, quinze dias após a publicação dos balanços financeiros, aberto o prazo de cinco dias para impugná-las, podendo, ainda, relatar fatos, indicar provas e pedir abertura de investigação para apurar qualquer ato que viole as prescrições legais ou estatutárias a que, em matéria financeira, os partidos e seus filiados estejam sujeitos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2035.%20O%20Tribunal%20Superior%20Eleitoral%20e%20os%20Tribunais%20Regionais%20Eleitorais%2C%20%C3%A0%20vista%20de%20den%C3%BAncia%20fundamentada%20de%20filiado%20ou%20delegado%20de%20partido%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Finanças e Contabilidade dos Partidos CAPÍTULO I Da Prestação de Contas",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Constatada a violação de normas legais ou estatutárias, ficará o partido sujeito às seguintes sanções:\n\nI - no caso de recursos de origem não mencionada ou esclarecida, fica suspenso o recebimento das quotas do fundo partidário até que o esclarecimento seja aceito pela Justiça Eleitoral;\n\nII - no caso de recebimento de recursos mencionados no art. 31, fica suspensa a participação no fundo partidário por um ano;\n\nIII - no caso de recebimento de doações cujo valor ultrapasse os limites previstos no art. 39, § 4º, fica suspensa por dois anos a participação no fundo partidário e será aplicada ao partido multa correspondente ao valor que exceder aos limites fixados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2036.%20Constatada%20a%20viola%C3%A7%C3%A3o%20de%20normas%20legais%20ou%20estatut%C3%A1rias%2C%20ficar%C3%A1%20o%20partido%20sujeito%20%C3%A0s%20seguintes%20san%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Finanças e Contabilidade dos Partidos CAPÍTULO I Da Prestação de Contas",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. A desaprovação das contas do partido implicará exclusivamente a sanção de devolução da importância apontada como irregular, acrescida de multa de até 20% (vinte por cento). (Redação dada pela Lei nº 13.165, de 2015)\n\n§ 1º. A Justiça Eleitoral pode determinar diligências necessárias à complementação de informações ou ao saneamento de irregularidades encontradas nas contas dos órgãos de direção partidária ou de candidatos. (Parágrafo renumerado pela Lei nº 9.693, de 1998)\n\n§ 2o A sanção a que se refere o caput será aplicada exclusivamente à esfera partidária responsável pela irregularidade, não suspendendo o registro ou a anotação de seus órgãos de direção partidária nem tornando devedores ou inadimplentes os respectivos responsáveis partidários. (Redação dada pela Lei nº 13.165, de 2015)\n\n§ 3º A sanção a que se refere o caput deste artigo deverá ser aplicada de forma proporcional e razoável, pelo período de 1 (um) a 12 (doze) meses, e o pagamento deverá ser feito por meio de desconto nos futuros repasses de cotas do fundo partidário a, no máximo, 50% (cinquenta por cento) do valor mensal, desde que a prestação de contas seja julgada, pelo juízo ou tribunal competente, em até 5 (cinco) anos de sua apresentação, vedada a acumulação de sanções. (Redação dada pela Lei nº 13.877, de 2019)\n\n§ 3º-A. O cumprimento da sanção aplicada a órgão estadual, distrital ou municipal somente será efetivado a partir da data de juntada aos autos do processo de prestação de contas do aviso de recebimento da citação ou intimação, encaminhada, por via postal, pelo Tribunal Regional Eleitoral ou Juízo Eleitoral ao órgão partidário hierarquicamente superior. (Incluído pela Lei nº 13.877, de 2019)\n\n§ 4o Da decisão que desaprovar total ou parcialmente a prestação de contas dos órgãos partidários caberá recurso para os Tribunais Regionais Eleitorais ou para o Tribunal Superior Eleitoral, conforme o caso, o qual deverá ser recebido com efeito suspensivo. (Incluído pela Lei nº 12.034, de 2009)\n\n§ 5o As prestações de contas desaprovadas pelos Tribunais Regionais e pelo Tribunal Superior poderão ser revistas para fins de aplicação proporcional da sanção aplicada, mediante requerimento ofertado nos autos da prestação de contas. (Incluído pela Lei nº 12.034, de 2009)\n\n§ 6o O exame da prestação de contas dos órgãos partidários tem caráter jurisdicional. (Incluído pela Lei nº 12.034, de 2009)\n\n§ 7o (VETADO). (Incluído pela Lei nº 12.891, de 2013)\n\n§ 8o (VETADO). (Incluído pela Lei nº 12.891, de 2013)\n\n§ 9o O desconto no repasse de cotas resultante da aplicação da sanção a que se refere o caput será suspenso durante o segundo semestre do ano em que se realizarem as eleições. (Incluído pela Lei nº 13.165, de 2015)\n\n§ 10. Os gastos com passagens aéreas serão comprovados mediante apresentação de fatura ou duplicata emitida por agência de viagem, quando for o caso, e os beneficiários deverão atender ao interesse da respectiva agremiação e, nos casos de congressos, reuniões, convenções, palestras, poderão ser emitidas independentemente de filiação partidária segundo critérios interna corporis, vedada a exigência de apresentação de qualquer outro documento para esse fim. (Redação dada pela Lei nº 13.877, de 2019)\n\n§ 11. Os órgãos partidários poderão apresentar documentos hábeis para esclarecer questionamentos da Justiça Eleitoral ou para sanear irregularidades a qualquer tempo, enquanto não transitada em julgado a decisão que julgar a prestação de contas. (Incluído pela Lei nº 13.165, de 2015)\n\n§ 12. Erros formais ou materiais que no conjunto da prestação de contas não comprometam o conhecimento da origem das receitas e a destinação das despesas não acarretarão a desaprovação das contas. (Incluído pela Lei nº 13.165, de 2015)\n\n§ 13. A responsabilização pessoal civil e criminal dos dirigentes partidários decorrente da desaprovação das contas partidárias e de atos ilícitos atribuídos ao partido político somente ocorrerá se verificada irregularidade grave e insanável resultante de conduta dolosa que importe enriquecimento ilícito e lesão ao patrimônio do partido. (Incluído pela Lei nº 13.165, de 2015)\n\n§ 14. O instituto ou fundação de pesquisa e de doutrinação e educação política não será atingido pela sanção aplicada ao partido político em caso de desaprovação de suas contas, exceto se tiver diretamente dado causa à reprovação. (Incluído pela Lei nº 13.165, de 2015)\n\n§ 15. As responsabilidades civil e criminal são subjetivas e, assim como eventuais dívidas já apuradas, recaem somente sobre o dirigente partidário responsável pelo órgão partidário à época do fato e não impedem que o órgão partidário receba recurso do fundo partidário. (Incluído pela Lei nº 13.831, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2037.%20A%20desaprova%C3%A7%C3%A3o%20das%20contas%20do%20partido%20implicar%C3%A1%20exclusivamente%20a%20san%C3%A7%C3%A3o%20de%20devolu%C3%A7%C3%A3o%20da%20import%C3%A2ncia%20apontada%20como%20irregular%2C%20acrescida%20de%20multa",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Finanças e Contabilidade dos Partidos CAPÍTULO I Da Prestação de Contas",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "37-A"
+    },
+    "37-A": {
+      "numero": "37-A",
+      "texto": "Art. 37-A. A falta de prestação de contas implicará a suspensão de novas cotas do Fundo Partidário enquanto perdurar a inadimplência e sujeitará os responsáveis às penas da lei. (Incluído pela Lei nº 13.165, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2037-A.%20A%20falta%20de%20presta%C3%A7%C3%A3o%20de%20contas%20implicar%C3%A1%20a%20suspens%C3%A3o%20de%20novas%20cotas%20do%20Fundo%20Partid%C3%A1rio%20enquanto%20perdurar%20a%20inadimpl%C3%AAncia%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Finanças e Contabilidade dos Partidos CAPÍTULO I Da Prestação de Contas",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. O Fundo Especial de Assistência Financeira aos Partidos Políticos (Fundo Partidário) é constituído por:\n\nI - multas e penalidades pecuniárias aplicadas nos termos do Código Eleitoral e leis conexas;\n\nII - recursos financeiros que lhe forem destinados por lei, em caráter permanente ou eventual;\n\nIII - doações de pessoa física ou jurídica, efetuadas por intermédio de depósitos bancários diretamente na conta do Fundo Partidário;\n\nIV - dotações orçamentárias da União em valor nunca inferior, cada ano, ao número de eleitores inscritos em 31 de dezembro do ano anterior ao da proposta orçamentária, multiplicados por trinta e cinco centavos de real, em valores de agosto de 1995.\n\n§ 1º (VETADO)\n\n§ 2º (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2038.%20O%20Fundo%20Especial%20de%20Assist%C3%AAncia%20Financeira%20aos%20Partidos%20Pol%C3%ADticos%20%28Fundo%20Partid%C3%A1rio%29%20%C3%A9%20constitu%C3%ADdo%20por%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Finanças e Contabilidade dos Partidos CAPÍTULO I Da Prestação de Contas",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Do Fundo Partidário",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37-A",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. Ressalvado o disposto no art. 31, o partido político pode receber doações de pessoas físicas e jurídicas para constituição de seus fundos.\n\n§ 1º As doações de que trata este artigo podem ser feitas diretamente aos órgãos de direção nacional, estadual e municipal, que remeterão, à Justiça Eleitoral e aos órgãos hierarquicamente superiores do partido, o demonstrativo de seu recebimento e respectiva destinação, juntamente com o balanço contábil.\n\n§ 2º Outras doações, quaisquer que sejam, devem ser lançadas na contabilidade do partido, definidos seus valores em moeda corrente.\n\n§ 3o As doações de recursos financeiros somente poderão ser efetuadas na conta do partido político por meio de: (Redação dada pela Lei nº 13.165, de 2015)\n\nI - cheques cruzados e nominais ou transferência eletrônica de depósitos; (Incluído pela Lei nº 13.165, de 2015)\n\nII - depósitos em espécie devidamente identificados; (Incluído pela Lei nº 13.165, de 2015)\n\nIII - mecanismo disponível em sítio do partido na internet que permita o uso de cartão de crédito, cartão de débito, emissão on-line de boleto bancário ou, ainda, convênios de débitos em conta, no formato único e no formato recorrente, e outras modalidades, e que atenda aos seguintes requisitos: (Redação dada pela Lei nº 13.877, de 2019)\n\na) identificação do doador; (Incluído pela Lei nº 13.165, de 2015)\n\nb) emissão obrigatória de recibo eleitoral para cada doação realizada. (Incluído pela Lei nº 13.165, de 2015)\n\n§ 4º (Revogado pela Lei nº 9.504, de 1997)\n\n§ 5o Em ano eleitoral, os partidos políticos poderão aplicar ou distribuir pelas diversas eleições os recursos financeiros recebidos de pessoas físicas e jurídicas, observando-se o disposto no § 1º do art. 23, no art. 24 e no § 1o do art. 81 da Lei no 9.504, de 30 de setembro de 1997, e os critérios definidos pelos respectivos órgãos de direção e pelas normas estatutárias. (Incluído pela Lei nº 12.034, de 2009)\n\n§ 6º Os bancos e empresas de meios de pagamentos, incluídos os denominados digitais, ficam obrigados a disponibilizar a abertura de contas bancárias e os seus serviços de meios de pagamentos e compensação, inclusive on-line, para que os partidos políticos possam desenvolver e operacionalizar os mecanismos previstos no inciso III do § 3º deste artigo. (Incluído pela Lei nº 13.877, de 2019)\n\n§ 7º Os serviços para os partidos políticos não se caracterizam e não acarretam restrições relativas às pessoas politicamente expostas, e seus serviços serão disponibilizados pelo preço oferecido pela instituição financeira a outras pessoas jurídicas. (Incluído pela Lei nº 13.877, de 2019)\n\n§ 8º As instituições financeiras devem oferecer aos partidos políticos pacote de serviços bancários que agreguem o conjunto dos serviços financeiros, e a mensalidade desse pacote não poderá ser superior à soma das tarifas avulsas praticadas no mercado. (Incluído pela Lei nº 13.877, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2039.%20Ressalvado%20o%20disposto%20no%20art.%2031%2C%20o%20partido%20pol%C3%ADtico%20pode%20receber%20doa%C3%A7%C3%B5es%20de%20pessoas%20f%C3%ADsicas%20e%20jur%C3%ADdicas%20para%20constitui%C3%A7%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Finanças e Contabilidade dos Partidos CAPÍTULO I Da Prestação de Contas",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Do Fundo Partidário",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. A previsão orçamentária de recursos para o Fundo Partidário deve ser consignada, no Anexo do Poder Judiciário, ao Tribunal Superior Eleitoral.\n\n§ 1º O Tesouro Nacional depositará, mensalmente, os duodécimos no Banco do Brasil, em conta especial à disposição do Tribunal Superior Eleitoral.\n\n§ 2º Na mesma conta especial serão depositadas as quantias arrecadadas pela aplicação de multas e outras penalidades pecuniárias, previstas na Legislação Eleitoral.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2040.%20A%20previs%C3%A3o%20or%C3%A7ament%C3%A1ria%20de%20recursos%20para%20o%20Fundo%20Partid%C3%A1rio%20deve%20ser%20consignada%2C%20no%20Anexo%20do%20Poder%20Judici%C3%A1rio%2C%20ao%20Tribunal%20Superior",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Finanças e Contabilidade dos Partidos CAPÍTULO I Da Prestação de Contas",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Do Fundo Partidário",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. O Tribunal Superior Eleitoral, dentro de cinco dias, a contar da data do depósito a que se refere o § 1º do artigo anterior, fará a respectiva distribuição aos órgãos nacionais dos partidos, obedecendo aos seguintes critérios: (Vide Adins nºs 1.351-3 e 1.354-8)\n\nI - um por cento do total do Fundo Partidário será destacado para entrega, em partes iguais, a todos os partidos que tenham seus estatutos registrados no Tribunal Superior Eleitoral; (Vide Adins nºs 1.351-3 e 1.354-8)\n\nII - noventa e nove por cento do total do Fundo Partidário serão distribuídos aos partidos que tenham preenchido as condições do art. 13, na proporção dos votos obtidos na última eleição geral para a Câmara dos Deputados. (Vide Adins nºs 1.351-3 e 1.354-8)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2041.%20O%20Tribunal%20Superior%20Eleitoral%2C%20dentro%20de%20cinco%20dias%2C%20a%20contar%20da%20data%20do%20dep%C3%B3sito%20a%20que%20se%20refere%20o%20%C2%A7",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Finanças e Contabilidade dos Partidos CAPÍTULO I Da Prestação de Contas",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Do Fundo Partidário",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "41-A"
+    },
+    "41-A": {
+      "numero": "41-A",
+      "texto": "Art. 41-A. Do total do Fundo Partidário: (Redação dada pela Lei nº 12.875, de 2013) (Vide ADI-5105)\n\nI - 5% (cinco por cento) serão destacados para entrega, em partes iguais, a todos os partidos que atendam aos requisitos constitucionais de acesso aos recursos do Fundo Partidário; e (Redação dada pela Lei nº 13.165, de 2015)\n\nII - 95% (noventa e cinco por cento) serão distribuídos aos partidos na proporção dos votos obtidos na última eleição geral para a Câmara dos Deputados. (Incluído pela Lei nº 12.875, de 2013) (Vide ADI-5105)\n\nParágrafo único. Para efeito do disposto no inciso II, serão desconsideradas as mudanças de filiação partidária em quaisquer hipóteses. (Redação dada pela Lei nº 13.107, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2041-A.%20Do%20total%20do%20Fundo%20Partid%C3%A1rio%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%2012.875%2C%20de%202013%29%20%28Vide%20ADI-5105%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Finanças e Contabilidade dos Partidos CAPÍTULO I Da Prestação de Contas",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Do Fundo Partidário",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. Em caso de cancelamento ou caducidade do órgão de direção nacional do partido, reverterá ao Fundo Partidário a quota que a este caberia.\n\n§ 1º O órgão de direção nacional do partido está obrigado a abrir conta bancária exclusivamente para movimentação do fundo partidário e para a aplicação dos recursos prevista no inciso V do caput do art. 44 desta Lei, observado que, para os demais órgãos do partido e para outros tipos de receita, a obrigação prevista neste parágrafo somente se aplica quando existir movimentação financeira. (Incluído pela Lei nº 13.831, de 2019)\n\n§ 2º A certidão do órgão superior, ou do próprio órgão regional e municipal, de inexistência de movimentação financeira tem fé pública como prova documental para aplicação do art. 32 desta Lei, sem prejuízo de apuração de ilegalidade de acordo com o disposto no art. 35 desta Lei. (Incluído pela Lei nº 13.831, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2042.%20Em%20caso%20de%20cancelamento%20ou%20caducidade%20do%20%C3%B3rg%C3%A3o%20de%20dire%C3%A7%C3%A3o%20nacional%20do%20partido%2C%20reverter%C3%A1%20ao%20Fundo%20Partid%C3%A1rio%20a%20quota%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Finanças e Contabilidade dos Partidos CAPÍTULO I Da Prestação de Contas",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Do Fundo Partidário",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41-A",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. Os depósitos e movimentações dos recursos oriundos do Fundo Partidário serão feitos em estabelecimentos bancários controlados pelo Poder Público Federal, pelo Poder Público Estadual ou, inexistindo estes, no banco escolhido pelo órgão diretivo do partido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2043.%20Os%20dep%C3%B3sitos%20e%20movimenta%C3%A7%C3%B5es%20dos%20recursos%20oriundos%20do%20Fundo%20Partid%C3%A1rio%20ser%C3%A3o%20feitos%20em%20estabelecimentos%20banc%C3%A1rios%20controlados%20pelo%20Poder%20P%C3%BAblico%20Federal%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Finanças e Contabilidade dos Partidos CAPÍTULO I Da Prestação de Contas",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Do Fundo Partidário",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. Os recursos oriundos do Fundo Partidário serão aplicados:\n\nI - na manutenção das sedes e serviços do partido, permitido o pagamento de pessoal, a qualquer título, observado, do total recebido, os seguintes limites: (Redação dada pela Lei nº 13.165, de 2015)\n\na) 50% (cinquenta por cento) para o órgão nacional; (Incluído pela Lei nº 13.165, de 2015)\n\nb) 60% (sessenta por cento) para cada órgão estadual e municipal; (Incluído pela Lei nº 13.165, de 2015)\n\nII - na propaganda doutrinária e política;\n\nIII - no alistamento e campanhas eleitorais;\n\nIV - na criação e manutenção de instituto ou fundação de pesquisa e de doutrinação e educação política, sendo esta aplicação de, no mínimo, vinte por cento do total recebido.\n\nV - na criação e manutenção de programas de promoção e difusão da participação política das mulheres, criados e executados pela Secretaria da Mulher ou, a critério da agremiação, por instituto com personalidade jurídica própria presidido pela Secretária da Mulher, em nível nacional, conforme percentual que será fixado pelo órgão nacional de direção partidária, observado o mínimo de 5% (cinco por cento) do total; (Redação dada pela Lei nº 13.877, de 2019)\n\nVI - no pagamento de mensalidades, anuidades e congêneres devidos a organismos partidários internacionais que se destinem ao apoio à pesquisa, ao estudo e à doutrinação política, aos quais seja o partido político regularmente filiado; (Incluído pela Lei nº 13.165, de 2015)\n\nVII - no pagamento de despesas com alimentação, incluindo restaurantes e lanchonetes. (Incluído pela Lei nº 13.165, de 2015)\n\nVIII - na contratação de serviços de consultoria contábil e advocatícia e de serviços para atuação jurisdicional em ações de controle de constitucionalidade e em demais processos judiciais e administrativos de interesse partidário, bem como nos litígios que envolvam candidatos do partido, eleitos ou não, relacionados exclusivamente ao processo eleitoral; (Incluído pela Lei nº 13.877, de 2019)\n\nIX - (VETADO); (Incluído pela Lei nº 13.877, de 2019)\n\nX - na compra ou locação de bens móveis e imóveis, bem como na edificação ou construção de sedes e afins, e na realização de reformas e outras adaptações nesses bens; (Incluído pela Lei nº 13.877, de 2019)\n\nXI - no custeio de impulsionamento, para conteúdos contratados diretamente com provedor de aplicação de internet com sede e foro no País, incluída a priorização paga de conteúdos resultantes de aplicações de busca na internet, inclusive plataforma de compartilhamento de vídeos e redes sociais, mediante o pagamento por meio de boleto bancário, de depósito identificado ou de transferência eletrônica diretamente para conta do provedor, proibido, nos anos de eleição, no período desde o início do prazo das convenções partidárias até a data do pleito. (Redação dada pela Lei nº 14.291, de 2022)\n\n§ 1º Na prestação de contas dos órgãos de direção partidária de qualquer nível devem ser discriminadas as despesas realizadas com recursos do Fundo Partidário, de modo a permitir o controle da Justiça Eleitoral sobre o cumprimento do disposto nos incisos I e IV deste artigo.\n\n§ 2º A Justiça Eleitoral pode, a qualquer tempo, investigar sobre a aplicação de recursos oriundos do Fundo Partidário.\n\n§ 3o Os recursos de que trata este artigo não estão sujeitos ao regime da Lei no 8.666, de 21 de junho de 1993, tendo os partidos políticos autonomia para contratar e realizar despesas. (Redação dada pela Lei nº 12.891, de 2013)\n\n§ 4o Não se incluem no cômputo do percentual previsto no inciso I deste artigo encargos e tributos de qualquer natureza. (Incluído pela Lei nº 12.034, de 2009)\n\n§ 5o O partido político que não cumprir o disposto no inciso V do caput deverá transferir o saldo para conta específica, sendo vedada sua aplicação para finalidade diversa, de modo que o saldo remanescente deverá ser aplicado dentro do exercício financeiro subsequente, sob pena de acréscimo de 12,5% (doze inteiros e cinco décimos por cento) do valor previsto no inciso V do caput, a ser aplicado na mesma finalidade. (Redação dada pela Lei nº 13.165, de 2015)\n\n§ 5o-A. A critério das agremiações partidárias, os recursos a que se refere o inciso V poderão ser acumulados em diferentes exercícios financeiros, mantidos em contas bancárias específicas, para utilização futura em campanhas eleitorais de candidatas do partido. (Incluído pela Lei nº 13.165, de 2015) (Vide ADIN Nº 5.617)\n\n§ 6o No exercício financeiro em que a fundação ou instituto de pesquisa não despender a totalidade dos recursos que lhe forem assinalados, a eventual sobra poderá ser revertida para outras atividades partidárias, conforme previstas no caput deste artigo. (Incluído pela Lei nº 12.891, de 2013)\n\n§ 7o A critério da secretaria da mulher ou, inexistindo a secretaria, a critério da fundação de pesquisa e de doutrinação e educação política, os recursos a que se refere o inciso V do caput poderão ser acumulados em diferentes exercícios financeiros, mantidos em contas bancárias específicas, para utilização futura em campanhas eleitorais de candidatas do partido, não se aplicando, neste caso, o disposto no § 5o. (Incluído pela Lei nº 13.165, de 2015) (Vide ADIN Nº 5.617)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2044.%20Os%20recursos%20oriundos%20do%20Fundo%20Partid%C3%A1rio%20ser%C3%A3o%20aplicados%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Finanças e Contabilidade dos Partidos CAPÍTULO I Da Prestação de Contas",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Do Fundo Partidário",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "44-A"
+    },
+    "44-A": {
+      "numero": "44-A",
+      "texto": "Art. 44-A. As atividades de direção exercidas nos órgãos partidários e em suas fundações e institutos, bem como as de assessoramento e as de apoio político-partidário, assim definidas em normas internas de organização, não geram vínculo de emprego, não sendo aplicável o regime jurídico previsto na Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, quando remuneradas com valor mensal igual ou superior a 2 (duas) vezes o limite máximo do benefício do Regime Geral de Previdência Social. (Incluído pela Lei nº 13.877, de 2019)\n\nParágrafo único. O partido político poderá ressarcir despesas comprovadamente realizadas no desempenho de atividades partidárias e deverá manter registro contábil de todos os dispêndios efetuados, sem computar esses valores para os fins do inciso I do caput do art. 44 desta Lei. (Incluído pela Lei nº 13.877, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2044-A.%20As%20atividades%20de%20dire%C3%A7%C3%A3o%20exercidas%20nos%20%C3%B3rg%C3%A3os%20partid%C3%A1rios%20e%20em%20suas%20funda%C3%A7%C3%B5es%20e%20institutos%2C%20bem%20como%20as%20de%20assessoramento%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Das Finanças e Contabilidade dos Partidos CAPÍTULO I Da Prestação de Contas",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Do Fundo Partidário",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. (Revogado pela Lei nº 13.487, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2045.%20%28Revogado%20pela%20Lei%20n%C2%BA%2013.487%2C%20de%202017%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Do Acesso Gratuito ao Rádio e à Televisão",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44-A",
+      "next": "45-A"
+    },
+    "45-A": {
+      "numero": "45-A",
+      "texto": "Art. 45-A. (VETADO). (Incluído pela Lei nº 13.877, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2045-A.%20%28VETADO%29.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.877%2C%20de%202019%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Do Acesso Gratuito ao Rádio e à Televisão",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. (Revogado pela Lei nº 13.487, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2046.%20%28Revogado%20pela%20Lei%20n%C2%BA%2013.487%2C%20de%202017%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Do Acesso Gratuito ao Rádio e à Televisão",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45-A",
+      "next": "46-A"
+    },
+    "46-A": {
+      "numero": "46-A",
+      "texto": "Art. 46-A. (VETADO). (Incluído pela Lei nº 13.877, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2046-A.%20%28VETADO%29.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.877%2C%20de%202019%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Do Acesso Gratuito ao Rádio e à Televisão",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47.(Revogado pela Lei nº 13.487, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2047.%28Revogado%20pela%20Lei%20n%C2%BA%2013.487%2C%20de%202017%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Do Acesso Gratuito ao Rádio e à Televisão",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46-A",
+      "next": "47-A"
+    },
+    "47-A": {
+      "numero": "47-A",
+      "texto": "Art. 47-A. (VETADO). (Incluído pela Lei nº 13.877, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2047-A.%20%28VETADO%29.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.877%2C%20de%202019%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Do Acesso Gratuito ao Rádio e à Televisão",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. (Revogado pela Lei nº 13.487, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2048.%20%28Revogado%20pela%20Lei%20n%C2%BA%2013.487%2C%20de%202017%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Do Acesso Gratuito ao Rádio e à Televisão",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47-A",
+      "next": "48-A"
+    },
+    "48-A": {
+      "numero": "48-A",
+      "texto": "Art. 48-A. (VETADO). (Incluído pela Lei nº 13.877, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2048-A.%20%28VETADO%29.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.877%2C%20de%202019%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Do Acesso Gratuito ao Rádio e à Televisão",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. (Revogado pela Lei nº 13.487, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2049.%20%28Revogado%20pela%20Lei%20n%C2%BA%2013.487%2C%20de%202017%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Do Acesso Gratuito ao Rádio e à Televisão",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48-A",
+      "next": "49-A"
+    },
+    "49-A": {
+      "numero": "49-A",
+      "texto": "Art. 49-A. (VETADO). (Incluído pela Lei nº 13.877, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2049-A.%20%28VETADO%29.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2013.877%2C%20de%202019%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "TÍTULO IV Do Acesso Gratuito ao Rádio e à Televisão",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2050.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Disposições Gerais",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49-A",
+      "next": "50-A"
+    },
+    "50-A": {
+      "numero": "50-A",
+      "texto": "Art. 50-A. A propaganda partidária gratuita mediante transmissão no rádio e na televisão será realizada entre as 19h30 (dezenove horas e trinta minutos) e as 22h30 (vinte e duas horas e trinta minutos), em âmbito nacional e estadual, por iniciativa e sob a responsabilidade dos respectivos órgãos de direção partidária. (Incluído pela Lei nº 14.291, de 2022)\n\n§ 1º As transmissões serão em bloco, em cadeia nacional ou estadual, por meio de inserções de 30 (trinta) segundos, no intervalo da programação normal das emissoras. (Incluído pela Lei nº 14.291, de 2022)\n\n§ 2º O órgão partidário respectivo apresentará à Justiça Eleitoral requerimento da fixação das datas de formação das cadeias nacional e estaduais. (Incluído pela Lei nº 14.291, de 2022)\n\n§ 3º A formação das cadeias nacional e estaduais será autorizada respectivamente pelo Tribunal Superior Eleitoral e pelos Tribunais Regionais Eleitorais, que farão a necessária requisição dos horários às emissoras de rádio e de televisão. (Incluído pela Lei nº 14.291, de 2022)\n\n§ 4º A critério do órgão partidário nacional, as inserções em redes nacionais poderão veicular conteúdo regionalizado, com comunicação prévia ao Tribunal Superior Eleitoral. (Incluído pela Lei nº 14.291, de 2022)\n\n§ 5º Se houver coincidência de data, a Justiça Eleitoral dará prioridade ao partido político que apresentou o requerimento primeiro. (Incluído pela Lei nº 14.291, de 2022)\n\n§ 6º As inserções serão entregues às emissoras com a antecedência mínima acordada e em mídia com tecnologia compatível com a da emissora recebedora. (Incluído pela Lei nº 14.291, de 2022)\n\n§ 7º As inserções a serem feitas na programação das emissoras serão determinadas: (Incluído pela Lei nº 14.291, de 2022)\n\nI - pelo Tribunal Superior Eleitoral, quando solicitadas por órgão de direção nacional de partido político; (Incluído pela Lei nº 14.291, de 2022)\n\nII - pelo Tribunal Regional Eleitoral, quando solicitadas por órgão de direção estadual de partido político. (Incluído pela Lei nº 14.291, de 2022)\n\n§ 8º Em cada rede somente serão autorizadas até 10 (dez) inserções de 30 (trinta) segundos por dia. (Incluído pela Lei nº 14.291, de 2022)\n\n§ 9º As inserções deverão ser veiculadas pelas emissoras de rádio e de televisão no horário estabelecido no caput, divididas proporcionalmente dentro dos intervalos comerciais no decorrer das 3 (três) horas de veiculação, da seguinte forma: (Incluído pela Lei nº 14.291, de 2022)\n\nI - na primeira hora de veiculação, no máximo 3 (três) inserções; (Incluído pela Lei nº 14.291, de 2022)\n\nII - na segunda hora de veiculação, no máximo 3 (três) inserções; (Incluído pela Lei nº 14.291, de 2022)\n\nIII - na terceira hora de veiculação, no máximo 4 (quatro) inserções. (Incluído pela Lei nº 14.291, de 2022)\n\n§ 10. É vedada a veiculação de inserções sequenciais, observado obrigatoriamente o intervalo mínimo de 10 (dez) minutos entre cada veiculação. (Incluído pela Lei nº 14.291, de 2022)\n\n§ 11. As inserções serão veiculadas da seguinte forma: (Incluído pela Lei nº 14.291, de 2022)\n\nI - as nacionais: nas terças-feiras, quintas-feiras e sábados; (Incluído pela Lei nº 14.291, de 2022)\n\nII - as estaduais: nas segundas-feiras, quartas-feiras e sextas-feiras. (Incluído pela Lei nº 14.291, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2050-A.%20A%20propaganda%20partid%C3%A1ria%20gratuita%20mediante%20transmiss%C3%A3o%20no%20r%C3%A1dio%20e%20na%20televis%C3%A3o%20ser%C3%A1%20realizada%20entre%20as%2019h30%20%28dezenove%20horas%20e%20trinta",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Disposições Gerais",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "50-B"
+    },
+    "50-B": {
+      "numero": "50-B",
+      "texto": "Art. 50-B. O partido político com estatuto registrado no Tribunal Superior Eleitoral poderá divulgar propaganda partidária gratuita mediante transmissão no rádio e na televisão, por meio exclusivo de inserções, para: (Incluído pela Lei nº 14.291, de 2022)\n\nI - difundir os programas partidários; (Incluído pela Lei nº 14.291, de 2022)\n\nII - transmitir mensagens aos filiados sobre a execução do programa partidário, os eventos com este relacionados e as atividades congressuais do partido; (Incluído pela Lei nº 14.291, de 2022)\n\nIII - divulgar a posição do partido em relação a temas políticos e ações da sociedade civil; (Incluído pela Lei nº 14.291, de 2022)\n\nIV - incentivar a filiação partidária e esclarecer o papel dos partidos na democracia brasileira; (Incluído pela Lei nº 14.291, de 2022)\n\nV - promover e difundir a participação política das mulheres, dos jovens e dos negros. (Incluído pela Lei nº 14.291, de 2022)\n\n§ 1º Os partidos políticos que tenham cumprido as condições estabelecidas no § 3º do art. 17 da Constituição Federal terão assegurado o direito de acesso gratuito ao rádio e à televisão, na proporção de sua bancada eleita em cada eleição geral, nos seguintes termos: (Incluído pela Lei nº 14.291, de 2022)\n\nI - o partido que tenha eleito acima de 20 (vinte) Deputados Federais terá assegurado o direito à utilização do tempo total de 20 (vinte) minutos por semestre para inserções de 30 (trinta) segundos nas redes nacionais, e de igual tempo nas emissoras estaduais; (Incluído pela Lei nº 14.291, de 2022)\n\nII - o partido que tenha eleito entre 10 (dez) e 20 (vinte) Deputados Federais terá assegurado o direito à utilização do tempo total de 10 (dez) minutos por semestre para inserções de 30 (trinta) segundos nas redes nacionais, e de igual tempo nas emissoras estaduais; (Incluído pela Lei nº 14.291, de 2022)\n\nIII - o partido que tenha eleito até 9 (nove) Deputados Federais terá assegurado o direito à utilização do tempo total de 5 (cinco) minutos por semestre para inserções de 30 (trinta) segundos nas redes nacionais, e de igual tempo nas redes estaduais. (Incluído pela Lei nº 14.291, de 2022)\n\n§ 2º Do tempo total disponível para o partido político, no mínimo 30% (trinta por cento) deverão ser destinados à promoção e à difusão da participação política das mulheres. (Incluído pela Lei nº 14.291, de 2022)\n\n§ 3º Nos anos de eleições, as inserções somente serão veiculadas no primeiro semestre. (Incluído pela Lei nº 14.291, de 2022)\n\n§ 4º Ficam vedadas nas inserções: (Incluído pela Lei nº 14.291, de 2022)\n\nI - a participação de pessoas não filiadas ao partido responsável pelo programa; (Incluído pela Lei nº 14.291, de 2022)\n\nII - a divulgação de propaganda de candidatos a cargos eletivos e a defesa de interesses pessoais ou de outros partidos, bem como toda forma de propaganda eleitoral; (Incluído pela Lei nº 14.291, de 2022)\n\nIII - a utilização de imagens ou de cenas incorretas ou incompletas, de efeitos ou de quaisquer outros recursos que distorçam ou falseiem os fatos ou a sua comunicação; (Incluído pela Lei nº 14.291, de 2022)\n\nIV - a utilização de matérias que possam ser comprovadas como falsas (fake news); (Incluído pela Lei nº 14.291, de 2022)\n\nV - a prática de atos que resultem em qualquer tipo de preconceito racial, de gênero ou de local de origem; (Incluído pela Lei nº 14.291, de 2022)\n\nVI - a prática de atos que incitem a violência. (Incluído pela Lei nº 14.291, de 2022)\n\n§ 5º Tratando-se de propaganda partidária no rádio e na televisão, o partido político que descumprir o disposto neste artigo será punido com a cassação do tempo equivalente a 2 (duas) a 5 (cinco) vezes o tempo da inserção ilícita, no semestre seguinte. (Incluído pela Lei nº 14.291, de 2022)\n\n§ 6º A representação, que poderá ser oferecida por partido político ou pelo Ministério Público Eleitoral, será julgada pelo Tribunal Superior Eleitoral quando se tratar de inserções nacionais e pelos Tribunais Regionais Eleitorais quando se tratar de inserções transmitidas nos Estados correspondentes. (Incluído pela Lei nº 14.291, de 2022)\n\n§ 7º O prazo para o oferecimento da representação prevista no § 6º deste artigo encerra-se no último dia do semestre em que for veiculado o programa impugnado ou, se este tiver sido transmitido nos últimos 30 (trinta) dias desse período, até o 15º (décimo quinto) dia do semestre seguinte. (Incluído pela Lei nº 14.291, de 2022)\n\n§ 8º Da decisão do Tribunal Regional Eleitoral que julgar procedente a representação, cassando o direito de transmissão de propaganda partidária, caberá recurso para o Tribunal Superior Eleitoral, que será recebido com efeito suspensivo. (Incluído pela Lei nº 14.291, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2050-B.%20O%20partido%20pol%C3%ADtico%20com%20estatuto%20registrado%20no%20Tribunal%20Superior%20Eleitoral%20poder%C3%A1%20divulgar%20propaganda%20partid%C3%A1ria%20gratuita%20mediante%20transmiss%C3%A3o%20no%20r%C3%A1dio%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Disposições Gerais",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50-A",
+      "next": "50-C"
+    },
+    "50-C": {
+      "numero": "50-C",
+      "texto": "Art. 50-C. Para agilizar os procedimentos, condições especiais podem ser pactuadas diretamente entre as emissoras de rádio e de televisão e os órgãos de direção do partido, obedecidos os limites estabelecidos nesta Lei, dando-se conhecimento ao Tribunal Eleitoral da respectiva jurisdição. (Incluído pela Lei nº 14.291, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2050-C.%20Para%20agilizar%20os%20procedimentos%2C%20condi%C3%A7%C3%B5es%20especiais%20podem%20ser%20pactuadas%20diretamente%20entre%20as%20emissoras%20de%20r%C3%A1dio%20e%20de%20televis%C3%A3o%20e%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Disposições Gerais",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50-B",
+      "next": "50-D"
+    },
+    "50-D": {
+      "numero": "50-D",
+      "texto": "Art. 50-D. A propaganda partidária no rádio e na televisão fica restrita aos horários gratuitos disciplinados nesta Lei, com proibição de propaganda paga. (Incluído pela Lei nº 14.291, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2050-D.%20A%20propaganda%20partid%C3%A1ria%20no%20r%C3%A1dio%20e%20na%20televis%C3%A3o%20fica%20restrita%20aos%20hor%C3%A1rios%20gratuitos%20disciplinados%20nesta%20Lei%2C%20com%20proibi%C3%A7%C3%A3o%20de%20propaganda",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Disposições Gerais",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50-C",
+      "next": "50-E"
+    },
+    "50-E": {
+      "numero": "50-E",
+      "texto": "Art. 50-E. As emissoras de rádio e de televisão terão direito a compensação fiscal pela cessão do horário gratuito previsto nesta Lei, em conformidade com os critérios estabelecidos no art. 99 da Lei nº 9.504, de 30 de setembro de 1997. (Incluído pela Lei nº 14.291, de 2022)\n\n§ 1º A compensação fiscal à qual as emissoras de rádio e de televisão farão jus deverá ser calculada com base na média do faturamento dos comerciais dos anunciantes do horário compreendido entre as 19h30 (dezenove horas e trinta minutos) e as 22h30 (vinte e duas horas e trinta minutos). (Incluído pela Lei nº 14.291, de 2022)\n\n§ 2º A emissora de rádio ou de televisão que não exibir as inserções partidárias nos termos desta Lei perderá o direito à compensação fiscal e ficará obrigada a ressarcir o partido político lesado mediante a exibição de inserções por igual tempo, nos termos definidos em decisão judicial. (Incluído pela Lei nº 14.291, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2050-E.%20As%20emissoras%20de%20r%C3%A1dio%20e%20de%20televis%C3%A3o%20ter%C3%A3o%20direito%20a%20compensa%C3%A7%C3%A3o%20fiscal%20pela%20cess%C3%A3o%20do%20hor%C3%A1rio%20gratuito%20previsto%20nesta%20Lei%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Disposições Gerais",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50-D",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. É assegurado ao partido político com estatuto registrado no Tribunal Superior Eleitoral o direito à utilização gratuita de escolas públicas ou Casas Legislativas para a realização de suas reuniões ou convenções, responsabilizando-se pelos danos porventura causados com a realização do evento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2051.%20%C3%89%20assegurado%20ao%20partido%20pol%C3%ADtico%20com%20estatuto%20registrado%20no%20Tribunal%20Superior%20Eleitoral%20o%20direito%20%C3%A0%20utiliza%C3%A7%C3%A3o%20gratuita%20de%20escolas%20p%C3%BAblicas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Disposições Gerais",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50-E",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. (VETADO)\n\nParágrafo único. (Revogado pela Lei nº 13.487, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2052.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Disposições Gerais",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. A fundação ou instituto de direito privado, criado por partido político, destinado ao estudo e pesquisa, à doutrinação e à educação política, rege-se pelas normas da lei civil e tem autonomia para contratar com instituições públicas e privadas, prestar serviços e manter estabelecimentos de acordo com suas finalidades, podendo, ainda, manter intercâmbio com instituições não nacionais.\n\n§ 1º O instituto poderá ser criado sob qualquer das formas admitidas pela lei civil. (Incluído pela Lei nº 13.487, de 2017)\n\n§ 2o O patrimônio da fundação ou do instituto de direito privado a que se referem o inciso IV do art. 44 desta Lei e o caput deste artigo será vertido ao ente que vier a sucedê-lo nos casos de: (Incluído pela Lei nº 13.487, de 2017)\n\nI - extinção da fundação ou do instituto, quando extinto, fundido ou incorporado o partido político, assim como nas demais hipóteses previstas na legislação; (Incluído pela Lei nº 13.487, de 2017)\n\nII - conversão ou transformação da fundação em instituto, assim como deste em fundação. (Incluído pela Lei nº 13.487, de 2017)\n\n§ 3o Para fins do disposto no § 2o deste artigo, a versão do patrimônio implica a sucessão de todos os direitos, os deveres e as obrigações da fundação ou do instituto extinto, transformado ou convertido. (Incluído pela Lei nº 13.487, de 2017)\n\n§ 4o A conversão, a transformação ou, quando for o caso, a extinção da fundação ou do instituto ocorrerá por decisão do órgão de direção nacional do partido político. (Incluído pela Lei nº 13.487, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2053.%20A%20funda%C3%A7%C3%A3o%20ou%20instituto%20de%20direito%20privado%2C%20criado%20por%20partido%20pol%C3%ADtico%2C%20destinado%20ao%20estudo%20e%20pesquisa%2C%20%C3%A0%20doutrina%C3%A7%C3%A3o%20e%20%C3%A0",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Disposições Gerais",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. Para fins de aplicação das normas estabelecidas nesta Lei, consideram-se como equivalentes a Estados e Municípios o Distrito Federal e os Territórios e respectivas divisões político-administrativas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2054.%20Para%20fins%20de%20aplica%C3%A7%C3%A3o%20das%20normas%20estabelecidas%20nesta%20Lei%2C%20consideram-se%20como%20equivalentes%20a%20Estados%20e%20Munic%C3%ADpios%20o%20Distrito%20Federal%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "V",
+        "title_name": "TÍTULO V Disposições Gerais",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. O partido político que, nos termos da legislação anterior, tenha registro definitivo, fica dispensado da condição estabelecida no § 1º do art. 7º, e deve providenciar a adaptação de seu estatuto às disposições desta Lei, no prazo de seis meses da data de sua publicação.\n\n§ 1º A alteração estatutária com a finalidade prevista neste artigo pode ser realizada pelo partido político em reunião do órgão nacional máximo, especialmente convocado na forma dos estatutos, com antecedência mínima de trinta dias e ampla divulgação, entre seus órgãos e filiados, do projeto do estatuto.\n\n§ 2º Aplicam-se as disposições deste artigo ao partido que, na data da publicação desta Lei:\n\nI - tenha completado seu processo de organização nos termos da legislação anterior e requerido o registro definitivo;\n\nII - tenha seu pedido de registro sub judice, desde que sobrevenha decisão favorável do órgão judiciário competente;\n\nIII - tenha requerido registro de seus estatutos junto ao Tribunal Superior Eleitoral, após o devido registro como entidade civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2055.%20O%20partido%20pol%C3%ADtico%20que%2C%20nos%20termos%20da%20legisla%C3%A7%C3%A3o%20anterior%2C%20tenha%20registro%20definitivo%2C%20fica%20dispensado%20da%20condi%C3%A7%C3%A3o%20estabelecida%20no%20%C2%A7%201%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Disposições Finais e Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54",
+      "next": "55-A"
+    },
+    "55-A": {
+      "numero": "55-A",
+      "texto": "Art. 55-A. Os partidos que não tenham observado a aplicação de recursos prevista no inciso V do caput do art. 44 desta Lei nos exercícios anteriores a 2019, e que tenham utilizado esses recursos no financiamento das candidaturas femininas até as eleições de 2018, não poderão ter suas contas rejeitadas ou sofrer qualquer outra penalidade. (Incluído pela Lei nº 13.831, de 2019) (Vide ADI Nº 6.230)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2055-A.%20Os%20partidos%20que%20n%C3%A3o%20tenham%20observado%20a%20aplica%C3%A7%C3%A3o%20de%20recursos%20prevista%20no%20inciso%20V%20do%20caput%20do%20art.%2044%20desta",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Disposições Finais e Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55",
+      "next": "55-B"
+    },
+    "55-B": {
+      "numero": "55-B",
+      "texto": "Art. 55-B. Os partidos que, nos termos da legislação anterior, ainda possuam saldo em conta bancária específica conforme o disposto no § 5º-A do art. 44 desta Lei poderão utilizá-lo na criação e na manutenção de programas de promoção e difusão da participação política das mulheres até o exercício de 2020, como forma de compensação. (Incluído pela Lei nº 13.831, de 2019) (Vide ADI Nº 6.230)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2055-B.%20Os%20partidos%20que%2C%20nos%20termos%20da%20legisla%C3%A7%C3%A3o%20anterior%2C%20ainda%20possuam%20saldo%20em%20conta%20banc%C3%A1ria%20espec%C3%ADfica%20conforme%20o%20disposto%20no%20%C2%A7",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Disposições Finais e Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55-A",
+      "next": "55-C"
+    },
+    "55-C": {
+      "numero": "55-C",
+      "texto": "Art. 55-C. A não observância do disposto no inciso V do caput do art. 44 desta Lei até o exercício de 2018 não ensejará a desaprovação das contas. (Incluído pela Lei nº 13.831, de 2019) (Vide ADI Nº 6.230)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2055-C.%20A%20n%C3%A3o%20observ%C3%A2ncia%20do%20disposto%20no%20inciso%20V%20do%20caput%20do%20art.%2044%20desta%20Lei%20at%C3%A9%20o%20exerc%C3%ADcio%20de%202018",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Disposições Finais e Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55-B",
+      "next": "55-D"
+    },
+    "55-D": {
+      "numero": "55-D",
+      "texto": "Art. 55-D. Ficam anistiadas as devoluções, as cobranças ou as transferências ao Tesouro Nacional que tenham como causa as doações ou contribuições feitas em anos anteriores por servidores públicos que exerçam função ou cargo público de livre nomeação e exoneração, desde que filiados a partido político. (Incluído pela Lei nº 13.831, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2055-D.%20Ficam%20anistiadas%20as%20devolu%C3%A7%C3%B5es%2C%20as%20cobran%C3%A7as%20ou%20as%20transfer%C3%AAncias%20ao%20Tesouro%20Nacional%20que%20tenham%20como%20causa%20as%20doa%C3%A7%C3%B5es%20ou%20contribui%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Disposições Finais e Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55-C",
+      "next": "55-E"
+    },
+    "55-E": {
+      "numero": "55-E",
+      "texto": "Art. 55-E. O disposto no art. 30 desta Lei deverá ser implantado no prazo máximo de 180 (cento e oitenta) dias, contado da data de entrada em vigor deste artigo. (Incluído pela Lei nº 13.877, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2055-E.%20O%20disposto%20no%20art.%2030%20desta%20Lei%20dever%C3%A1%20ser%20implantado%20no%20prazo%20m%C3%A1ximo%20de%20180%20%28cento%20e%20oitenta%29%20dias%2C%20contado",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Disposições Finais e Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55-D",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. (Revogado pela Lei nº 13.165, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2056.%20%28Revogado%20pela%20Lei%20n%C2%BA%2013.165%2C%20de%202015%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Disposições Finais e Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55-E",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. (Revogado pela Lei nº 13.165, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2057.%20%28Revogado%20pela%20Lei%20n%C2%BA%2013.165%2C%20de%202015%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Disposições Finais e Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. A requerimento de partido, o Juiz Eleitoral devolverá as fichas de filiação partidária existentes no cartório da respectiva Zona, devendo ser organizada a primeira relação de filiados, nos termos do art. 19, obedecidas as normas estatutárias.\n\nParágrafo único. Para efeito de candidatura a cargo eletivo será considerada como primeira filiação a constante das listas de que trata este artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2058.%20A%20requerimento%20de%20partido%2C%20o%20Juiz%20Eleitoral%20devolver%C3%A1%20as%20fichas%20de%20filia%C3%A7%C3%A3o%20partid%C3%A1ria%20existentes%20no%20cart%C3%B3rio%20da%20respectiva%20Zona%2C%20devendo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Disposições Finais e Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. O art. 16 da Lei nº 3.071, de 1º de janeiro de 1916 (Código Civil), passa a vigorar com a seguinte redação:\n\n\"Art.16. .................................................................\n\n........................................................................\n\nIII - os partidos políticos.\n\n........................................................................\n\n§ 3º Os partidos políticos reger-se-ão pelo disposto, no que lhes for aplicável, nos arts. 17 a 22 deste Código e em lei específica.”",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2059.%20O%20art.%2016%20da%20Lei%20n%C2%BA%203.071%2C%20de%201%C2%BA%20de%20janeiro%20de%201916%20%28C%C3%B3digo%20Civil%29%2C%20passa%20a%20vigorar%20com%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Disposições Finais e Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. Os artigos a seguir enumerados da Lei nº 6.015, de 31 de dezembro de 1973, passam a vigorar a seguinte redação:\n\n\"Art. 114. ..............................................................\n\n........................................................................\n\nIII - os atos constitutivos e os estatutos dos partidos políticos.\n\n........................................................................",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2060.%20Os%20artigos%20a%20seguir%20enumerados%20da%20Lei%20n%C2%BA%206.015%2C%20de%2031%20de%20dezembro%20de%201973%2C%20passam%20a%20vigorar%20a%20seguinte",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Disposições Finais e Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. O Tribunal Superior Eleitoral expedirá instruções para a fiel execução desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2061.%20O%20Tribunal%20Superior%20Eleitoral%20expedir%C3%A1%20instru%C3%A7%C3%B5es%20para%20a%20fiel%20execu%C3%A7%C3%A3o%20desta%20Lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Disposições Finais e Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "60",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. Esta Lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2062.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Disposições Finais e Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "61",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. Ficam revogadas a Lei nº 5.682, de 21 de julho de 1971, e respectivas alterações; a Lei nº 6.341, de 5 de julho de 1976; a Lei nº 6.817, de 5 de setembro de 1980; a Lei nº 6.957, de 23 de novembro de 1981; o art. 16 da Lei nº 6.996, de 7 de junho de 1982; a Lei nº 7.307, de 9 de abril de 1985, e a Lei nº 7.514, de 9 de julho de 1986.\n\nBrasília, 19 de setembro de 1995; 174º da Independência e 107º da República.\n\nMARCO ANTONIO DE OLIVEIRA MACIEL Nelson A. Jobim\n\nEste texto não substitui o publicado no DOU de 20.9.1995\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm#:~:text=Art.%2063.%20Ficam%20revogadas%20a%20Lei%20n%C2%BA%205.682%2C%20de%2021%20de%20julho%20de%201971%2C%20e%20respectivas%20altera%C3%A7%C3%B5es%3B%20a%20Lei%20n%C2%BA%206.341%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "TÍTULO VI Disposições Finais e Transitórias",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "62",
+      "next": null
+    }
+  }
+}

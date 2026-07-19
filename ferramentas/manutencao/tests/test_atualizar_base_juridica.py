@@ -309,6 +309,8 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
         II - trecho citado de norma alterada.</p>
         <p><a href="Msg/VEP-100.htm">Art. 2º-A</a>. (VETADO)</p>
         <p><a name="art3"></a>Art. 3º Esta Lei entra em vigor.</p>
+        <p>Art. 59-A. Texto de outra norma reproduzido sem marcador algum,
+        descartado por decisão explícita no manifesto.</p>
         </body></html>
         """
         config = {
@@ -318,6 +320,7 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
                     "url": "https://www.planalto.gov.br/teste",
                     "arquivo_bruto": "xx.html",
                     "destino": "lei_xx.json",
+                    "descartar_artigos": ["59-A"],
                 }
             ]
         }

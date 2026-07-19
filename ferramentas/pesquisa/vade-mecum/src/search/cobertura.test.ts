@@ -72,11 +72,17 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "L12850",
   "L13058",
   "L13103",
+  "L13165",
   "L13257",
   "L13260",
   "L13431",
+  "L13487",
+  "L13488",
   "L13869",
   "L13988",
+  "L14192",
+  "L14208",
+  "L14211",
   "L14344",
   "L14382",
   "L14442",
@@ -91,13 +97,16 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "L5889",
   "L6019",
   "L605",
+  "L6091",
   "L6321",
   "L6515",
   "L6533",
   "L6615",
   "L6858",
+  "L6996",
   "L7064",
   "L7418",
+  "L7444",
   "L7492",
   "L7689",
   "L7713",
@@ -114,11 +123,13 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "L8971",
   "L8989",
   "L9029",
+  "L9096",
   "L9249",
   "L9278",
   "L9296",
   "L9430",
   "L9455",
+  "L9504",
   "L9601",
   "L9605",
   "L9613",
@@ -131,8 +142,10 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "LC109",
   "LC116",
   "LC123",
+  "LC135",
   "LC142",
   "LC150",
+  "LC64",
   "LC87",
   "LCP",
   "LD",
@@ -148,7 +161,7 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
 ];
 
 describe("cobertura declarada pelo motor", () => {
-  test("expõe exatamente os 133 diplomas que possuem arquivo", () => {
+  test("expõe exatamente os 146 diplomas que possuem arquivo", () => {
     expect([...CODIGOS_DISPONIVEIS].sort()).toEqual(CODIGOS_ESPERADOS);
     expect(resolverCodigos("todos").toSorted()).toEqual(CODIGOS_ESPERADOS);
   });
@@ -167,9 +180,9 @@ describe("cobertura declarada pelo motor", () => {
 
   test("carrega e descreve todos os diplomas disponíveis", () => {
     const legislacoes = listarLegislacaoDisponivel();
-    expect(legislacoes).toHaveLength(133);
+    expect(legislacoes).toHaveLength(146);
     expect(legislacoes.reduce((total, item) => total + item.registros, 0)).toBe(
-      14523,
+      14902,
     );
     for (const item of legislacoes) {
       expect(item.registros).toBeGreaterThan(0);

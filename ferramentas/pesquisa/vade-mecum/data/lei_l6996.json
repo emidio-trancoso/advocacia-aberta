@@ -1,0 +1,335 @@
+{
+  "_meta": {
+    "codigo": "L6996",
+    "nome": "Apoio Logístico Postal a Alistamento e Eleições",
+    "lei": "Lei 6.996/1982",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6996.htm",
+    "total_artigos": 20,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º - Os Tribunais Regionais Eleitorais, nos Estados em que for autorizado pelo Tribunal Superior Eleitoral, poderão utilizar processamento eletrônico de dados nos serviços eleitorais, na forma prevista nesta Lei.\n\n§ 1º - A autorização do Tribunal Superior Eleitoral será solicitada pelo Tribunal Regional Eleitoral interessado, que, previamente, ouvirá os Partidos Políticos.\n\n§ 2º - O pedido de autorização poderá referir-se ao alistamento eleitoral, à votação e à apuração, ou a apenas uma dessas fases, em todo o Estado, em determinadas Zonas Eleitorais ou em parte destas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6996.htm#:~:text=Art.%201%C2%BA%20-%20Os%20Tribunais%20Regionais%20Eleitorais%2C%20nos%20Estados%20em%20que%20for%20autorizado%20pelo%20Tribunal%20Superior%20Eleitoral%2C%20poder%C3%A3o%20utilizar%20processamento%20eletr%C3%B4nico%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º - Concedida a autorização, o Tribunal Regional Eleitoral, em conformidade com as condições e peculiaridades locais, executará os serviços de processamento eletrônico de dados diretamente ou mediante convênio ou contrato.\n\n§ 1º - Os serviços de que trata este artigo deverão ser executados de acordo com definições e especificações fixadas pelo Tribunal Superior Eleitoral.\n\n§ 2º - Os serviços de que trata este artigo não poderão ser contratados a entidades da administração direta ou indireta dos Estados e Municípios ou a empresas cuja maioria de capital for detido por pessoa física ou jurídica estabelecida no exterior. (Revogado pela Lei nº 7.444, de 1985)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6996.htm#:~:text=Art.%202%C2%BA%20-%20Concedida%20a%20autoriza%C3%A7%C3%A3o%2C%20o%20Tribunal%20Regional%20Eleitoral%2C%20em%20conformidade%20com%20as%20condi%C3%A7%C3%B5es%20e%20peculiaridades%20locais%2C%20executar%C3%A1%20os%20servi%C3%A7os%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º - Ao setor da Secretaria do Tribunal Regional Eleitoral responsável pelos serviços de processamento eletrônico de dados compete:\n\nI - preencher as fórmulas dos títulos e documentos eleitorais;\n\nII - confeccionar relações de eleitores destinadas aos Cartórios Eleitorais e aos Partidos Políticos;\n\nIII - manter atualizado o cadastro geral de eleitores do Estado;\n\nIV - manter atualizado o cadastro de filiação partidária, expedindo relações destinadas aos Partidos Políticos e à Justiça Eleitoral;\n\nV - expedir comunicações padronizadas e previamente programadas nos processos de alistamento, transferência ou cancelamento de inscrições;\n\nVI - contar votos, ou totalizar resultados já apurados, expedindo relações ou boletins destinados à Justiça Eleitoral e aos Partidos Políticos;\n\nVII - calcular quociente eleitoral, quociente partidário e distribuição de sobras, indicando os eleitos;\n\nVIII - preencher diplomas e expedir relações com os resultados finais de cada pleito, destinados à justiça Eleitoral e aos Partidos Políticos;\n\nIX - executar outras tarefas que lhe forem atribuídas por instruções do Tribunal Superior Eleitoral.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6996.htm#:~:text=Art.%203%C2%BA%20-%20Ao%20setor%20da%20Secretaria%20do%20Tribunal%20Regional%20Eleitoral%20respons%C3%A1vel%20pelos%20servi%C3%A7os%20de%20processamento%20eletr%C3%B4nico%20de%20dados%20compete%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º - O alistamento se faz mediante a inscrição do eleitor.\n\nParágrafo único - Para efeito de inscrição, domicílio eleitoral é o lugar de residência ou moradia do requerente, e, verificado ter o alistando mais de uma, considerar-se-á domicílio qualquer delas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6996.htm#:~:text=Art.%204%C2%BA%20-%20O%20alistamento%20se%20faz%20mediante%20a%20inscri%C3%A7%C3%A3o%20do%20eleitor.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º - O alistando apresentará em cartório, ou em local previamente designado, requerimento em formulário que obedecerá a modelo aprovado pelo Tribunal Superior Eleitoral.\n\nParágrafo único - O escrivão, o funcionário ou o preparador, recebendo o formulário e documentos, determinará que o alistando date e assine o requerimento, e, ato contínuo, atestará terem sido a data e a assinatura lançadas na sua presença.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6996.htm#:~:text=Art.%205%C2%BA%20-%20O%20alistando%20apresentar%C3%A1%20em%20cart%C3%B3rio%2C%20ou%20em%20local%20previamente%20designado%2C%20requerimento%20em%20formul%C3%A1rio%20que%20obedecer%C3%A1%20a%20modelo%20aprovado%20pelo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º - O pedido de inscrição do eleitor será instruído com um dos seguintes documentos:\n\nI - carteira de identidade;\n\nII - certificado de quitação de serviço militar;\n\nIII - carteira emitida pelos órgãos criados por lei federal, controladores do exercício profissional;\n\nIV - certidão de idade extraída do Registro Civil;\n\nV - instrumento público do qual se infira, por direito, ter o requerente idade superior a 18 (dezoito) anos e do qual conste, também, os demais elementos necessários à sua qualificação;\n\nVI - documento do qual se infira a nacionalidade brasileira, originária ou adquirida, do requerente.\n\n§ 1º - A restituição de qualquer documento não poderá ser feita antes de despachado o requerimento pelo Juiz Eleitoral.\n\n§ 2º - Sempre que, com o documento, for apresentada cópia, o original será devolvido no ato, feita a autenticação pelo próprio funcionário do Cartório Eleitoral, mediante aposição de sua assinatura no verso da cópia.\n\n§ 3º - O documento poderá ser apresentado em cópia autenticada por tabelião, dispensando-se, nessa hipótese, nova conferência com o documento original.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6996.htm#:~:text=Art.%206%C2%BA%20-%20O%20pedido%20de%20inscri%C3%A7%C3%A3o%20do%20eleitor%20ser%C3%A1%20instru%C3%ADdo%20com%20um%20dos%20seguintes%20documentos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º - Despachado o requerimento de inscrição pelo Juiz Eleitoral, o setor da Secretaria do Tribunal Regional Eleitoral responsável pelos serviços de processamento eletrônico de dados enviará ao Cartório Eleitoral, que as fornecerá aos Partidos Políticos, relações dos eleitores inscritos originariamente ou por transferência, com os respectivos endereços, assim como dos pedidos indeferidos ou convertidos em diligência.\n\n§ 1º - Do despacho que indeferir o requerimento de inscrição, caberá recurso interposto pelo alistando no prazo de 5 (cinco) dias e, do que o deferir, poderá recorrer qualquer delegado de Partido Político no prazo de 10 (dez) dias.\n\n§ 2º - As relações a que se refere o \"caput\" deste artigo serão fornecidas aos Partidos Políticos nos dias 1º (primeiro) e 15 (quinze) de cada mês, ou no 1º (primeiro) dia útil seguinte, datas em que começarão a correr os prazos mencionados no parágrafo anterior, ainda que tenham sido exibidas ao alistando antes dessas datas e mesmo que os Partidos não as retirem.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6996.htm#:~:text=Art.%207%C2%BA%20-%20Despachado%20o%20requerimento%20de%20inscri%C3%A7%C3%A3o%20pelo%20Juiz%20Eleitoral%2C%20o%20setor%20da%20Secretaria%20do%20Tribunal%20Regional%20Eleitoral%20respons%C3%A1vel%20pelos%20servi%C3%A7os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º - A transferência do eleitor só será admitida se satisfeitas as seguintes exigências:\n\nI - entrada do requerimento no Cartório Eleitoral do novo domicílio até 100 (cem) dias antes da data da eleição;\n\nII - transcurso de, pelo menos, 1 (um) ano da inscrição anterior;\n\nIII - residência mínima de 3 (três) meses no novo domicílio, declarada, sob as penas da lei, pelo próprio eleitor.\n\nParágrafo único - O disposto nos incisos II e III deste artigo não se aplica à transferência de título eleitoral de servidor público civil, militar, autárquico, ou de membro de sua família, por motivo de remoção ou transferência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6996.htm#:~:text=Art.%208%C2%BA%20-%20A%20transfer%C3%AAncia%20do%20eleitor%20s%C3%B3%20ser%C3%A1%20admitida%20se%20satisfeitas%20as%20seguintes%20exig%C3%AAncias%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º - Nas Zonas Eleitorais em que o alistamento se fizer pelo processamento eletrônico de dados, será cancelada a inscrição do eleitor que não votar e não pagar a multa ou se justificar no prazo de 6 (seis) meses, a contar da data de eleição. (Revogado pela Lei nº 7.663, de 1988)\n\nParágrafo único - Sem prova de que votou na última eleição, pagou a respectiva multa ou de que se justificou devidamente, não poderá o eleitor: (Revogado pela Lei nº 7.663, de 1988)\n\nI - ser investido ou ser empossado em cargo ou função pública; (Revogado pela Lei nº 7.663, de 1988)\n\nII - receber vencimentos, remuneração, salário ou proventos de função ou emprego público, autárquico, paraestatal, bem como em empresas públicas ou fundações mantidas ou instituídas pelo Poder Público, correspondentes ao 2º (segundo) mês subseqüente ao da eleição; (Revogado pela Lei nº 7.663, de 1988)\n\nIII - firmar, como pessoa física, quaisquer contratos de prestação de serviços perante Órgãos ou entidades da União, dos Estados, dos Territórios ou dos Municípios; (Revogado pela Lei nº 7.663, de 1988)\n\nIV - obter passaporte. (Revogado pela Lei nº 7.663, de 1988)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6996.htm#:~:text=Art.%209%C2%BA%20-%20Nas%20Zonas%20Eleitorais%20em%20que%20o%20alistamento%20se%20fizer%20pelo%20processamento%20eletr%C3%B4nico%20de%20dados%2C%20ser%C3%A1%20cancelada%20a%20inscri%C3%A7%C3%A3o%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10 - Na votação poderá ser utilizada cédula de acordo com modelo aprovado pelo Tribunal Superior Eleitoral.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6996.htm#:~:text=Art.%2010%20-%20Na%20vota%C3%A7%C3%A3o%20poder%C3%A1%20ser%20utilizada%20c%C3%A9dula%20de%20acordo%20com%20modelo%20aprovado%20pelo%20Tribunal%20Superior%20Eleitoral.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11 - O Tribunal Superior Eleitoral estabelecerá o número de eleitores das seções eleitorais em função do número de cabinas nelas existentes.\n\nParágrafo único - Cada seção eleitoral terá, no mínimo, duas cabinas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6996.htm#:~:text=Art.%2011%20-%20O%20Tribunal%20Superior%20Eleitoral%20estabelecer%C3%A1%20o%20n%C3%BAmero%20de%20eleitores%20das%20se%C3%A7%C3%B5es%20eleitorais%20em%20fun%C3%A7%C3%A3o%20do%20n%C3%BAmero%20de%20cabinas%20nelas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12 - Nas seções das Zonas Eleitorais em que o alistamento se fizer pelo processamento eletrônico de dados, as folhas individuais de votação serão substituídas por listas de eleitores, emitidas por computador, das quais constarão, além do nome do eleitor, os dados de qualificação indicados pelo Tribunal Superior Eleitoral.\n\n§ 1º - Somente poderão votar fora da respectiva seção os mesários, os candidatos e os fiscais ou delegados de Partidos Políticos, desde que eleitores do Município e de posse do título eleitoral.\n\n§ 2º - Ainda que não esteja de posse do seu título, o eleitor será admitido a votar desde que seja inscrito na seção, conste da lista dos eleitores e exiba documento que comprove sua identidade.\n\n§ 3º - Os votos dos eleitores mencionados nos parágrafos anteriores não serão tomados em separado.\n\n§ 4º - O voto em separado será recolhido em invólucro especial e somente será admitido quando houver dúvida quanto à identidade ou inscrição do eleitor, ou quando da lista não constar nome de eleitor que apresentar título correspondente à seção.\n\n§ 5º - A validade dos votos tomados em separado, das seções de um mesmo Município, será examinada em conjunto pela Junta Apuradora, independentemente da apuração dos votos contidos nas urnas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6996.htm#:~:text=Art.%2012%20-%20Nas%20se%C3%A7%C3%B5es%20das%20Zonas%20Eleitorais%20em%20que%20o%20alistamento%20se%20fizer%20pelo%20processamento%20eletr%C3%B4nico%20de%20dados%2C%20as%20folhas%20individuais",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13 - O Tribunal Superior Eleitoral poderá autorizar a criação de Juntas Apuradoras Regionais, nos termos das instruções que baixar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6996.htm#:~:text=Art.%2013%20-%20O%20Tribunal%20Superior%20Eleitoral%20poder%C3%A1%20autorizar%20a%20cria%C3%A7%C3%A3o%20de%20Juntas%20Apuradoras%20Regionais%2C%20nos%20termos%20das%20instru%C3%A7%C3%B5es%20que%20baixar.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14 - A apuração poderá ser iniciada a partir do recebimento da primeira urna, prolongando-se pelo tempo necessário, observado o prazo máximo de 10 (dez) dias.\n\nParágrafo único - Ultrapassada a fase de abertura da urna, as cédulas programadas para a apuração através da computação serão eletronicamente processadas, caso em que os Partidos poderão manter fiscais nos locais destinados a esse fim.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6996.htm#:~:text=Art.%2014%20-%20A%20apura%C3%A7%C3%A3o%20poder%C3%A1%20ser%20iniciada%20a%20partir%20do%20recebimento%20da%20primeira%20urna%2C%20prolongando-se%20pelo%20tempo%20necess%C3%A1rio%2C%20observado%20o%20prazo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15 - Incorrerá nas penas do art. 315 do Código Eleitoral quem, no processamento eletrônico das cédulas, alterar resultados, qualquer que seja o método utilizado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6996.htm#:~:text=Art.%2015%20-%20Incorrer%C3%A1%20nas%20penas%20do%20art.%20315%20do%20C%C3%B3digo%20Eleitoral%20quem%2C%20no%20processamento%20eletr%C3%B4nico%20das%20c%C3%A9dulas%2C%20alterar%20resultados%2C%20qualquer%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16 - Nos Estados em que for utilizado processamento eletrônico de dados no alistamento, a filiação partidária far-se-á em formulário próprio, que substituirá as fichas. Revogado pela Lei nº 9.096, de 1995\n\n§ 1º - Deferida a filiação, a Comissão Executiva, no prazo de 3 (três) dias, enviará o formulário à Justiça Eleitoral.\n\n§ 2º - Estando em vigor a inscrição eleitoral, será emitido, por processo eletrônico, cartão de filiado para o eleitor, e incluído o seu nome nas relações destinadas ao Partido Político e ao Cartório Eleitoral.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6996.htm#:~:text=Art.%2016%20-%20Nos%20Estados%20em%20que%20for%20utilizado%20processamento%20eletr%C3%B4nico%20de%20dados%20no%20alistamento%2C%20a%20filia%C3%A7%C3%A3o%20partid%C3%A1ria%20far-se-%C3%A1%20em%20formul%C3%A1rio%20pr%C3%B3prio%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17 - Os arts. 6º e 8º e o parágrafo único do art. 9º desta Lei também serão aplicados nas Zonas Eleitorais em que o alistamento continuar a ser efetuado na forma prevista no Código Eleitoral.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6996.htm#:~:text=Art.%2017%20-%20Os%20arts.%206%C2%BA%20e%208%C2%BA%20e%20o%20par%C3%A1grafo%20%C3%BAnico%20do%20art.%209%C2%BA%20desta%20Lei%20tamb%C3%A9m%20ser%C3%A3o%20aplicados%20nas%20Zonas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18 - O Tribunal Superior Eleitoral expedirá as instruções que se fizerem necessárias para o cumprimento desta Lei, inclusive divulgando entre os Partidos Políticos, os Juízes e os Cartórios Eleitorais manuais de procedimentos detalhando a nova sistemática.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6996.htm#:~:text=Art.%2018%20-%20O%20Tribunal%20Superior%20Eleitoral%20expedir%C3%A1%20as%20instru%C3%A7%C3%B5es%20que%20se%20fizerem%20necess%C3%A1rias%20para%20o%20cumprimento%20desta%20Lei%2C%20inclusive%20divulgando%20entre",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19 - Esta Lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6996.htm#:~:text=Art.%2019%20-%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20 - Revogam-se as disposições em contrário.\n\nBrasília, em 07 de junho de 1982; 161º da Independência e 94º da República.\n\nJOÃO FIGUEIREDO Ibrahim Abi-Ackel\n\nEste texto não substitui o publicado no DOU de 8.6.1982\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6996.htm#:~:text=Art.%2020%20-%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": null
+    }
+  }
+}

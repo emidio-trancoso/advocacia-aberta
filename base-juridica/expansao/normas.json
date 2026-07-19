@@ -2496,7 +2496,12 @@
    "origens": [
     "Esparsas/Eleitoral/Processual: Minirreforma Eleitoral 2015"
    ],
-   "notas": []
+   "notas": [
+    "a página reproduz, sem aspas, link ou riscado, o texto do art. 59-A da Lei 9.504/1997 (promulgado após derrubada de veto); o dispositivo pertence à Lei 9.504, onde está registrado, e é descartado aqui por decisão explícita"
+   ],
+   "descartar_artigos": [
+    "59-A"
+   ]
   },
   {
    "sigla": "L13487",

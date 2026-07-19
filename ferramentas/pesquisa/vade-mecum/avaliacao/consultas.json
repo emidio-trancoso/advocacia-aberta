@@ -998,6 +998,37 @@
     "L12318:6"
    ],
    "justificativa": "O art. 2º define o ato de alienação parental e traz o rol exemplificativo; o art. 6º lista as medidas quando caracterizados os atos; o art. 5º trata da perícia; o art. 1º delimita o objeto; o art. 3º qualifica a prática como violação de direito fundamental."
+  },
+  {
+   "id": "lc64-inelegibilidades",
+   "grupo": "legislacao",
+   "consulta": "inelegíveis para qualquer cargo rejeição de contas",
+   "filtro": {
+    "codigo": "LC64"
+   },
+   "relevantes": [
+    "LC64:1"
+   ],
+   "obrigatorios": [
+    "LC64:1"
+   ],
+   "justificativa": "O art. 1º da LC 64/1990 concentra o rol das inelegibilidades, inclusive a da alínea g (rejeição de contas relativas ao exercício de cargos ou funções públicas)."
+  },
+  {
+   "id": "l9504-registro-candidatura",
+   "grupo": "legislacao",
+   "consulta": "partidos coligações solicitarão justiça eleitoral registro candidatos",
+   "filtro": {
+    "codigo": "L9504"
+   },
+   "relevantes": [
+    "L9504:11",
+    "L9504:8"
+   ],
+   "obrigatorios": [
+    "L9504:11"
+   ],
+   "justificativa": "O art. 11 disciplina o pedido de registro de candidatos à Justiça Eleitoral; o art. 8º trata da escolha em convenção, etapa que o antecede. Os arts. 6º (coligações), 23 (doações) e 28 (prestação de contas), também recuperados, não versam sobre o registro."
   }
  ]
 }

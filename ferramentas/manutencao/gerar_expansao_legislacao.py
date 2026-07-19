@@ -107,15 +107,16 @@ def conjunto_esperado(normas_grupo: list[dict[str, Any]]) -> dict[str, Any]:
     fontes = []
     for norma in sorted(normas_grupo, key=lambda item: id_da_sigla(item["sigla"])):
         identificador = id_da_sigla(norma["sigla"])
-        fontes.append(
-            {
-                "id": identificador,
-                "codigo": norma["sigla"],
-                "url": norma["url"],
-                "arquivo_bruto": f"{identificador}.html",
-                "destino": f"lei_{identificador}.json",
-            }
-        )
+        fonte = {
+            "id": identificador,
+            "codigo": norma["sigla"],
+            "url": norma["url"],
+            "arquivo_bruto": f"{identificador}.html",
+            "destino": f"lei_{identificador}.json",
+        }
+        if norma.get("descartar_artigos"):
+            fonte["descartar_artigos"] = list(norma["descartar_artigos"])
+        fontes.append(fonte)
     return {
         "familia": "legislacao",
         "adaptador": "planalto_html_v1",

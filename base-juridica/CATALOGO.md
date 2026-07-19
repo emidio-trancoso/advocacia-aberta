@@ -26,19 +26,19 @@ python3 ferramentas/manutencao/auditar_base_juridica.py --json
 
 | Acervo | Arquivos principais | Quantidade observada | Tamanho ou cobertura |
 |---|---:|---:|---|
-| Legislação | 133 | 14.523 registros | 133 diplomas |
+| Legislação | 146 | 14.902 registros | 146 diplomas |
 | Súmulas | 3 | 1.475 registros | STJ, STF e vinculantes do STF |
 | Jurisprudência em Teses | 1 | 3.508 teses | 283 edições do STJ |
 | Temas repetitivos | 1 | 1.462 temas | STJ |
 | Índices auxiliares | 2 exclusivos + índices embutidos | derivados | palavras-chave e termos de busca |
-| Total em JSON | 140 | — | 30.246.437 bytes, cerca de 30 MB |
+| Total em JSON | 153 | — | 30.938.137 bytes, cerca de 31 MB |
 
 Os números acima foram contados diretamente nos JSONs. `gerado_em` e `generatedAt`
 indicam geração do arquivo, não garantem a data de vigência do conteúdo.
 
 ## Legislação
 
-Todos os 14.523 registros legislativos possuem URL individual. Os metadados apontam
+Todos os 14.902 registros legislativos possuem URL individual. Os metadados apontam
 para páginas compiladas do Planalto.
 
 | Código | Diploma | Gerado em | Registros | Índice | Situação estrutural |
@@ -115,9 +115,10 @@ protocolo comum. O inventário por diploma sai de
 | `esparsas_tributario` | 16 | 803 | 2026-07-19 |
 | `esparsas_previdenciario` | 12 | 421 | 2026-07-19 |
 | `esparsas_civel_familia` | 18 | 640 | 2026-07-19 |
+| `esparsas_eleitoral` | 13 | 379 | 2026-07-19 |
 
-Grupos pendentes de materialização: decretos (1) e as sete fatias de esparsas
-por macro-área restantes (121 normas). O Código Comercial de 1850 foi movido
+Grupos pendentes de materialização: decretos (1) e as seis fatias de esparsas
+por macro-área restantes (108 normas). O Código Comercial de 1850 foi movido
 para o grupo `pendentes_especiais` sem materialização: a página compilada
 mistura duas numerações (o corpo do Código, arts. 1 a 913, e o Título Único da
 administração da justiça comercial, com arts. 1 a 30 próprios), e a captura por
@@ -141,16 +142,20 @@ recaptura das fatias promovidas separou cerca de 80 dispositivos que estavam
 absorvidos no artigo anterior (ex.: arts. 2º-A a 9º-A da Lei 7.998); redações
 pontilhadas de normas alteradas ("Art. 155. ....." na Lei 6.515) deixaram de
 virar artigos; e artigos vetados da própria lei com rótulo ligado à mensagem
-de veto (Lei 11.804) passaram a ser preservados.
+de veto (Lei 11.804) passaram a ser preservados. A página da Lei 13.165
+reproduz sem nenhum marcador o texto do art. 59-A da Lei 9.504 (promulgado
+após derrubada de veto); o manifesto ganhou o campo de descarte explícito por
+número (`descartar_artigos`), e o dispositivo fica registrado apenas na Lei
+9.504.
 
 ### Cobertura real do motor legislativo
 
 | Superfície | Cobertura observada |
 |---|---|
-| Arquivos disponíveis | 133 diplomas: núcleo (11), piloto (8), estatutos (17), trabalhista (27), codificadas (7), penal (17), tributário (16), previdenciário (12) e cível/família (18); a lista completa está no registro do motor e no manifesto da expansão |
-| Códigos declarados no TypeScript | exatamente os 133 arquivos disponíveis (expansão gerada entre marcadores) |
-| Busca com código específico | aceita os 133 códigos; valor desconhecido produz erro legível |
-| Busca `todos` | os 133 códigos do registro central |
+| Arquivos disponíveis | 133 diplomas: núcleo (11), piloto (8), estatutos (17), trabalhista (27), codificadas (7), penal (17), tributário (16), previdenciário (12), cível/família (18) e eleitoral (13); a lista completa está no registro do motor e no manifesto da expansão |
+| Códigos declarados no TypeScript | exatamente os 146 arquivos disponíveis (expansão gerada entre marcadores) |
+| Busca com código específico | aceita os 146 códigos; valor desconhecido produz erro legível |
+| Busca `todos` | os 146 códigos do registro central |
 | Esquema MCP e sua documentação | gerados a partir do mesmo registro central |
 
 Desde a conclusão de `BASE-002` e `BASE-003`:
@@ -300,7 +305,7 @@ proveniência e efeito jurídico. O vocabulário e as regras estão documentados
   a referência pública e o processo futuro já estejam documentados;
 - os rótulos reduzem inferências indevidas, mas não substituem o exame do inteiro teor,
   da vigência, da situação atual e da aplicabilidade ao caso;
-- a avaliação de recuperação cobre 55 consultas controladas e seis famílias; ela é um
+- a avaliação de recuperação cobre 57 consultas controladas e seis famílias; ela é um
   gate de regressão, não uma estimativa exaustiva para qualquer consulta jurídica.
 
 As métricas e limitações estão em

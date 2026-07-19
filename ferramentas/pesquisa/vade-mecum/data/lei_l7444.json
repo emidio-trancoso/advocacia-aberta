@@ -1,0 +1,207 @@
+{
+  "_meta": {
+    "codigo": "L7444",
+    "nome": "Revisão do Eleitorado",
+    "lei": "Lei 7.444/1985",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l7444.htm",
+    "total_artigos": 12,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º - O alistamento eleitoral será feito mediante processamento eletrônico de dados.\n\nParágrafo único - Em cada Zona Eleitoral, enquanto não for implantada o processamento eletrônico de dados, o alistamento continuará a ser efetuado na forma da legislação em vigor na data desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l7444.htm#:~:text=Art.%201%C2%BA%20-%20O%20alistamento%20eleitoral%20ser%C3%A1%20feito%20mediante%20processamento%20eletr%C3%B4nico%20de%20dados.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º - Ao adotar o sistema de que trata o artigo anterior, a Justiça Eleitoral procederá, em cada Zona, à revisão dos eleitores inscritos, bem como à conferência e à atualização dos respectivos registros, que constituirão, a seguir, cadastros mantidos em computador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l7444.htm#:~:text=Art.%202%C2%BA%20-%20Ao%20adotar%20o%20sistema%20de%20que%20trata%20o%20artigo%20anterior%2C%20a%20Justi%C3%A7a%20Eleitoral%20proceder%C3%A1%2C%20em%20cada%20Zona%2C%20%C3%A0%20revis%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º - A revisão do eleitorado prevista no art. 2º desta Lei far-se-á, de conformidade com instruções baixadas pelo Tribunal Superior Eleitoral, mediante a apresentação do título eleitoral pelos eleitores inscritos na Zona e preenchimento do formulário adotado para o alistamento de que trata o art. 1º.\n\n§ 1º - A revisão do eleitorado, que poderá realizar-se, simultaneamente, em mais de uma Zona ou em várias Circunscrições, será procedida, sempre, de ampla divulgação, processando-se em prazo marcado pela Justiça Eleitoral, não inferior a 30 (trinta) dias.\n\n§ 2º - Sem prejuízo do disposto no § 1º deste artigo, a Justiça Eleitoral poderá fixar datas especiais e designar previamente locais para a apresentação dos eleitores inscritos.\n\n§ 3º Ao proceder-se à revisão, ficam anistiados os débitos dos eleitores inscritos na Zona, em falta para com a Justiça Eleitoral.\n\n§ 4º - Em cada Zona, vencido o prazo de que trata o § 1º deste artigo, cancelar-se-ão as inscrições correspondentes aos títulos que não forem apresentados à revisão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l7444.htm#:~:text=Art.%203%C2%BA%20-%20A%20revis%C3%A3o%20do%20eleitorado%20prevista%20no%20art.%202%C2%BA%20desta%20Lei%20far-se-%C3%A1%2C%20de%20conformidade%20com%20instru%C3%A7%C3%B5es%20baixadas%20pelo%20Tribunal%20Superior",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º - Para a conferência e atualização dos registros eleitorais a que se refere o art. 2º desta Lei, a Justiça Eleitoral poderá utilizar, também, informações pertinentes, constantes de cadastros de qualquer natureza, mantidos por órgãos federais, estaduais ou municipais.\n\nParágrafo único - Os órgãos aludidos neste artigo ficam obrigados a fornecer à Justiça Eleitoral, gratuitamente, as informações solicitadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l7444.htm#:~:text=Art.%204%C2%BA%20-%20Para%20a%20confer%C3%AAncia%20e%20atualiza%C3%A7%C3%A3o%20dos%20registros%20eleitorais%20a%20que%20se%20refere%20o%20art.%202%C2%BA%20desta%20Lei%2C%20a%20Justi%C3%A7a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º - Para o alistamento, na forma do art. 1º desta Lei, o alistando apresentará em Cartório, ou em local previamente designado, requerimento em formulário que obedecerá a modelo aprovado pelo Tribunal Superior Eleitoral.\n\n§ 1º - O escrivão, o funcionário ou o preparador, recebendo o formulário e os documentos, datará o requerimento determinará que o alistando nele aponha sua assinatura, ou, se não souber assinar, a impressão digital de seu polegar direito, atestando, a seguir, terem sido a assinatura ou a impressão digital lançadas na sua presença.\n\n§ 2º - O requerimento de inscrição será instruído com um dos seguintes documentos:\n\nI - carteira de identidade, expedida por órgão oficial competente;\n\nII - certificado de quitação do serviço militar;\n\nIII - carteira emitida pelos órgãos criados por lei federal, controladores do exercício profissional;\n\nIV - certidão de idade, extraída do Registro Civil;\n\nV - instrumento público do qual se infira, por direito, ter o requerente a idade mínima de 18 (dezoito) anos e do qual constem, também, os demais elementos necessários à sua qualificação;\n\nVI - documento do qual se infira a nacionalidade brasileira, originaria ou adquirida, do requerente.\n\n§ 3º - Será devolvido o requerimento que não contenha os dados constantes do modelo oficial, na mesma ordem, em caracteres inequívocos.\n\n§ 4º - Para o alistamento, na forma deste artigo, é dispensada a apresentação de fotografia do alistando.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l7444.htm#:~:text=Art.%205%C2%BA%20-%20Para%20o%20alistamento%2C%20na%20forma%20do%20art.%201%C2%BA%20desta%20Lei%2C%20o%20alistando%20apresentar%C3%A1%20em%20Cart%C3%B3rio%2C%20ou%20em%20local%20previamente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º - Implantado o sistema previsto no art. 1º desta Lei, o título eleitoral será emitido por computador.\n\n§ 1º - O Tribunal Superior Eleitoral aprovará o modelo do título e definirá o procedimento a ser adotado, na Justiça Eleitoral, para sua expedição.\n\n§ 2º - Aos eleitores inscritos, em cada Zona, após a revisão e conferência de seu registro. na conformidade do art. 3º e parágrafos desta Lei, será expedido nova título eleitoral, na forma deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l7444.htm#:~:text=Art.%206%C2%BA%20-%20Implantado%20o%20sistema%20previsto%20no%20art.%201%C2%BA%20desta%20Lei%2C%20o%20t%C3%ADtulo%20eleitoral%20ser%C3%A1%20emitido%20por%20computador.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º - A Justiça Eleitoral executará os serviços previstos nesta Lei, atendidas as condições e peculiaridades locais, diretamente ou mediante convênio ou contrato.\n\nParágrafo único - Os convênios ou contratos de que cuida este artigo somente poderão ser ajustados com entidades da Administração Direta ou Indireta da União, dos Estados, do Distrito Federal ou dos Municípios, ou com empresas cujo capital seja exclusivamente nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l7444.htm#:~:text=Art.%207%C2%BA%20-%20A%20Justi%C3%A7a%20Eleitoral%20executar%C3%A1%20os%20servi%C3%A7os%20previstos%20nesta%20Lei%2C%20atendidas%20as%20condi%C3%A7%C3%B5es%20e%20peculiaridades%20locais%2C%20diretamente%20ou%20mediante%20conv%C3%AAnio",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º - Para a implantação do alistamento mediante processamento de dados e revisão do eleitorado nos termos desta lei, a Justiça Eleitoral poderá requisitar servidores federais, estaduais ou municipais, bem como utilizar instalações e serviços de órgãos da União, dos Estados, do Distrito Federal, dos Territórios e Municípios.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l7444.htm#:~:text=Art.%208%C2%BA%20-%20Para%20a%20implanta%C3%A7%C3%A3o%20do%20alistamento%20mediante%20processamento%20de%20dados%20e%20revis%C3%A3o%20do%20eleitorado%20nos%20termos%20desta%20lei%2C%20a%20Justi%C3%A7a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º O Tribunal Superior Eleitoral baixará as instruções necessárias à execução desta Lei, especialmente, para definir:\n\nI - a administração e a utilização dos cadastros eleitorais em computador, exclusivamente, pela Justiça Eleitoral;\n\nII - a forma de solicitação e de utilização de informações constantes de cadastras mantidos por órgãos federais, estaduais ou municipais, visando resguardar sua privacidade;\n\nIII - as condições gerais para a execução direta ou mediante convênio ou contrato, dos serviços de alistamento, revisão do eleitorado, conferência e atualização dos registros eleitorais, inclusive de coleta de informações e transporte de documentos eleitorais, quando necessário, das Zonas Eleitorais até os Centros de Processamento de Dados;\n\nIV - o acompanhamento e a fiscalização pelos partido políticos, da execução dos serviços de que trata este Lei;\n\nV - a programação e o calendário de execução dos serviços;\n\nVI - a forma de divulgação do alistamento eleitoral e da revisão do eleitorado, em cada Zona e Circunscrição, atendidas as peculiaridades locais;\n\nVII - qualquer outra especificação necessária à execução dos serviços de que trata esta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l7444.htm#:~:text=Art.%209%C2%BA%20O%20Tribunal%20Superior%20Eleitoral%20baixar%C3%A1%20as%20instru%C3%A7%C3%B5es%20necess%C3%A1rias%20%C3%A0%20execu%C3%A7%C3%A3o%20desta%20Lei%2C%20especialmente%2C%20para%20definir%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10 - Fica o Poder Executivo autorizado a abrir, para a Justiça Eleitoral, à disposição do Tribunal Superior Eleitoral, o crédito especial de Cr$ 600.000.000.000 (seiscentos bilhões de cruzeiros), destinado a atender às despesas decorrentes desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l7444.htm#:~:text=Art.%2010%20-%20Fica%20o%20Poder%20Executivo%20autorizado%20a%20abrir%2C%20para%20a%20Justi%C3%A7a%20Eleitoral%2C%20%C3%A0%20disposi%C3%A7%C3%A3o%20do%20Tribunal%20Superior%20Eleitoral%2C%20o%20cr%C3%A9dito",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11 - Esta Lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l7444.htm#:~:text=Art.%2011%20-%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12 - Revogam-se as disposições em contrário, especialmente o § 2º do art. 2º da Lei nº 6.996, de 7 de junho de 1932.\n\nBrasília, em 20 de dezembro de 1985; 164º da Independência e 97º da República.\n\nJOSÉ SARNEY Fernando Lyra\n\nEste texto não substitui o publicado no DOU de 23.12.1985\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l7444.htm#:~:text=Art.%2012%20-%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio%2C%20especialmente%20o%20%C2%A7%202%C2%BA%20do%20art.%202%C2%BA%20da%20Lei%20n%C2%BA%206.996%2C%20de%207%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": null
+    }
+  }
+}

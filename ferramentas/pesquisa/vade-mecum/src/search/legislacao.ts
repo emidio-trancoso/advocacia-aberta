@@ -295,6 +295,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l13103.json",
     rotulo: "Motorista Profissional (Lei 13.103/2015)",
   },
+  L13165: {
+    arquivo: "../../data/lei_l13165.json",
+    rotulo: "Minirreforma Eleitoral 2015 (Lei 13.165/2015)",
+  },
   L13257: {
     arquivo: "../../data/lei_l13257.json",
     rotulo: "Marco Legal da Primeira Infância (Lei 13.257/2016)",
@@ -307,6 +311,14 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l13431.json",
     rotulo: "Sistema de Garantia – Escuta e Depoimento Especial (Lei 13.431/2017)",
   },
+  L13487: {
+    arquivo: "../../data/lei_l13487.json",
+    rotulo: "Fundo Especial de Financiamento de Campanha (FEFC) (Lei 13.487/2017)",
+  },
+  L13488: {
+    arquivo: "../../data/lei_l13488.json",
+    rotulo: "Reforma Eleitoral 2017 (ajustes adicionais) (Lei 13.488/2017)",
+  },
   L13869: {
     arquivo: "../../data/lei_l13869.json",
     rotulo: "Abuso de Autoridade (Lei 13.869/2019)",
@@ -314,6 +326,18 @@ const REGISTRO_CODIGOS = {
   L13988: {
     arquivo: "../../data/lei_l13988.json",
     rotulo: "Transação no Contencioso Tributário Federal (Lei 13.988/2020)",
+  },
+  L14192: {
+    arquivo: "../../data/lei_l14192.json",
+    rotulo: "Violência Política contra a Mulher (Lei 14.192/2021)",
+  },
+  L14208: {
+    arquivo: "../../data/lei_l14208.json",
+    rotulo: "Federações Partidárias (Lei 14.208/2021)",
+  },
+  L14211: {
+    arquivo: "../../data/lei_l14211.json",
+    rotulo: "Sobras e Quociente (distribuição de vagas) (Lei 14.211/2021)",
   },
   L14344: {
     arquivo: "../../data/lei_l14344.json",
@@ -371,6 +395,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l605.json",
     rotulo: "Repouso Semanal Remunerado e Feriados (DSR) (Lei 605/1949)",
   },
+  L6091: {
+    arquivo: "../../data/lei_l6091.json",
+    rotulo: "Transporte de Eleitores em Zona Rural (Lei 6.091/1974)",
+  },
   L6321: {
     arquivo: "../../data/lei_l6321.json",
     rotulo: "Programa de Alimentação do Trabalhador (PAT) (Lei 6.321/1976)",
@@ -391,6 +419,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l6858.json",
     rotulo: "Pagamento a Dependentes sem Inventário (Lei 6.858/1980)",
   },
+  L6996: {
+    arquivo: "../../data/lei_l6996.json",
+    rotulo: "Apoio Logístico Postal a Alistamento e Eleições (Lei 6.996/1982)",
+  },
   L7064: {
     arquivo: "../../data/lei_l7064.json",
     rotulo: "Trabalho no Exterior (brasileiros) (Lei 7.064/1982)",
@@ -398,6 +430,10 @@ const REGISTRO_CODIGOS = {
   L7418: {
     arquivo: "../../data/lei_l7418.json",
     rotulo: "Vale-Transporte (Lei 7.418/1985)",
+  },
+  L7444: {
+    arquivo: "../../data/lei_l7444.json",
+    rotulo: "Revisão do Eleitorado (Lei 7.444/1985)",
   },
   L7492: {
     arquivo: "../../data/lei_l7492.json",
@@ -463,6 +499,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l9029.json",
     rotulo: "Antidiscriminação nas Relações de Trabalho (Lei 9.029/1995)",
   },
+  L9096: {
+    arquivo: "../../data/lei_l9096.json",
+    rotulo: "Lei dos Partidos Políticos (Lei 9.096/1995)",
+  },
   L9249: {
     arquivo: "../../data/lei_l9249.json",
     rotulo: "IRPJ/CSLL – Regras centrais (JCP, bases e limites) (Lei 9.249/1995)",
@@ -482,6 +522,10 @@ const REGISTRO_CODIGOS = {
   L9455: {
     arquivo: "../../data/lei_l9455.json",
     rotulo: "Tortura (Lei 9.455/1997)",
+  },
+  L9504: {
+    arquivo: "../../data/lei_l9504.json",
+    rotulo: "Lei das Eleições (Lei 9.504/1997)",
   },
   L9601: {
     arquivo: "../../data/lei_l9601.json",
@@ -527,6 +571,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_lc123.json",
     rotulo: "Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte (Lei Complementar 123/2006)",
   },
+  LC135: {
+    arquivo: "../../data/lei_lc135.json",
+    rotulo: "Lei da Ficha Limpa (altera LC 64/1990) (Lei Complementar 135/2010)",
+  },
   LC142: {
     arquivo: "../../data/lei_lc142.json",
     rotulo: "Aposentadoria da Pessoa com Deficiência (RGPS) (Lei Complementar 142/2013)",
@@ -534,6 +582,10 @@ const REGISTRO_CODIGOS = {
   LC150: {
     arquivo: "../../data/lei_lc150.json",
     rotulo: "Empregado Doméstico (Lei Complementar 150/2015)",
+  },
+  LC64: {
+    arquivo: "../../data/lei_lc64.json",
+    rotulo: "Inelegibilidades (Lei Complementar das Inelegibilidades) (Lei Complementar 64/1990)",
   },
   LC87: {
     arquivo: "../../data/lei_lc87.json",

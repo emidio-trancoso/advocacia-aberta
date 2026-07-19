@@ -435,6 +435,107 @@
         }
       ]
     },
+    "legislacao_esparsas_eleitoral": {
+      "familia": "legislacao",
+      "adaptador": "planalto_html_v1",
+      "chave_colecao": "artigos",
+      "fontes": [
+        {
+          "id": "l13165",
+          "codigo": "L13165",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13165.htm",
+          "arquivo_bruto": "l13165.html",
+          "destino": "lei_l13165.json",
+          "descartar_artigos": [
+            "59-A"
+          ]
+        },
+        {
+          "id": "l13487",
+          "codigo": "L13487",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13487.htm",
+          "arquivo_bruto": "l13487.html",
+          "destino": "lei_l13487.json"
+        },
+        {
+          "id": "l13488",
+          "codigo": "L13488",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13488.htm",
+          "arquivo_bruto": "l13488.html",
+          "destino": "lei_l13488.json"
+        },
+        {
+          "id": "l14192",
+          "codigo": "L14192",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14192.htm",
+          "arquivo_bruto": "l14192.html",
+          "destino": "lei_l14192.json"
+        },
+        {
+          "id": "l14208",
+          "codigo": "L14208",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14208.htm",
+          "arquivo_bruto": "l14208.html",
+          "destino": "lei_l14208.json"
+        },
+        {
+          "id": "l14211",
+          "codigo": "L14211",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14211.htm",
+          "arquivo_bruto": "l14211.html",
+          "destino": "lei_l14211.json"
+        },
+        {
+          "id": "l6091",
+          "codigo": "L6091",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm",
+          "arquivo_bruto": "l6091.html",
+          "destino": "lei_l6091.json"
+        },
+        {
+          "id": "l6996",
+          "codigo": "L6996",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6996.htm",
+          "arquivo_bruto": "l6996.html",
+          "destino": "lei_l6996.json"
+        },
+        {
+          "id": "l7444",
+          "codigo": "L7444",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l7444.htm",
+          "arquivo_bruto": "l7444.html",
+          "destino": "lei_l7444.json"
+        },
+        {
+          "id": "l9096",
+          "codigo": "L9096",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm",
+          "arquivo_bruto": "l9096.html",
+          "destino": "lei_l9096.json"
+        },
+        {
+          "id": "l9504",
+          "codigo": "L9504",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9504compilado.htm",
+          "arquivo_bruto": "l9504.html",
+          "destino": "lei_l9504.json"
+        },
+        {
+          "id": "lc135",
+          "codigo": "LC135",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp135.htm",
+          "arquivo_bruto": "lc135.html",
+          "destino": "lei_lc135.json"
+        },
+        {
+          "id": "lc64",
+          "codigo": "LC64",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp64.htm",
+          "arquivo_bruto": "lc64.html",
+          "destino": "lei_lc64.json"
+        }
+      ]
+    },
     "legislacao_esparsas_penal": {
       "familia": "legislacao",
       "adaptador": "planalto_html_v1",

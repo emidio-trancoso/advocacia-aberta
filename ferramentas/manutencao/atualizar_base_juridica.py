@@ -579,6 +579,11 @@ def transformar_legislacao(
                 if codigo == "CF"
                 else paragrafos[marcador_adct + 1 :]
             )
+        # Descarte explícito e revisado por número: usado quando a página
+        # exibe dispositivo de outra norma sem nenhum marcador estrutural
+        # (ex.: o art. 59-A da Lei 9.504 reproduzido na página da Lei 13.165
+        # após a derrubada do veto). A decisão fica no manifesto de fontes.
+        descartar = set(fonte.get("descartar_artigos", []))
         inicio_apos = fonte.get("inicio_apos")
         if inicio_apos:
             alvo = texto_normalizado(inicio_apos).upper()
@@ -637,6 +642,8 @@ def transformar_legislacao(
                 # preservados.
                 continue
             numero = numero_artigo(artigo_match)
+            if numero in descartar:
+                continue
             blocos = [simples]
             for seguinte in paragrafos[indice + 1 :]:
                 proximo = texto_normalizado(texto_elemento(seguinte, preservar_linhas=True))

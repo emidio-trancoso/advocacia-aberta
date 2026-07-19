@@ -412,9 +412,15 @@ def extrair_catalogo_stf(conteudo: str, vinculante: bool) -> list[dict[str, Any]
             continue
         status = "aprovada" if vinculante else "ativa"
         rotulo_status = rotulo.lower()
-        for candidato in ("cancelada", "superada", "alterada", "suspensa"):
-            if candidato in rotulo_status:
-                status = candidato
+        for marcador, estado in (
+            ("cancelada", "cancelada"),
+            ("revogada", "cancelada"),
+            ("superada", "superada"),
+            ("alterada", "alterada"),
+            ("suspensa", "suspensa"),
+        ):
+            if marcador in rotulo_status:
+                status = estado
                 break
         itens.append(
             {
@@ -913,18 +919,31 @@ def transformar_jt(
             }
     if not teses:
         raise ValueError("nenhuma tese reconhecida nas páginas do STJ")
+    edicoes_extraidas = {int(item["edicao"]) for item in teses.values()}
+    edicoes_retidas: set[int] = set()
+    for identificador, anterior in anteriores.items():
+        try:
+            edicao_anterior = int(anterior.get("edicao") or 0)
+        except (TypeError, ValueError):
+            continue
+        if edicao_anterior and edicao_anterior not in edicoes_extraidas:
+            # A página oficial não devolveu a edição nesta coleta; preserva os
+            # registros publicados em vez de presumir que a edição desapareceu.
+            teses.setdefault(identificador, anterior)
+            edicoes_retidas.add(edicao_anterior)
     ramos = Counter(item["ramo_direito"] for item in teses.values())
     objeto = {
         "_meta": {
             "version": "2.0.0",
             "tipo": "jurisprudencia_em_teses",
             "tribunal": "STJ",
-            "total_edicoes": len({item["edicao"] for item in teses.values()}),
+            "total_edicoes": len({int(item["edicao"]) for item in teses.values()}),
             "total_teses": len(teses),
             "ramos_direito": dict(sorted(ramos.items())),
             "gerado_em": hoje(),
             "descricao": "Jurisprudência em Teses extraída das páginas oficiais do STJ",
             "transformacao": "jt_stj_html_v1",
+            "edicoes_retidas_sem_correspondencia": sorted(edicoes_retidas),
         },
         "teses": teses,
     }
@@ -1058,6 +1077,11 @@ def transformar_temas(
         },
         "temas": temas,
     }
+    for bloco in ("keywords", "terms"):
+        # Índices derivados legados consumidos pelo motor; preservados como os
+        # da legislação até terem geração reproduzível (BASE-019).
+        if atual.get(bloco):
+            objeto[bloco] = atual[bloco]
     saida = candidatos / config["destino"]
     salvar_json(saida, objeto)
     return [saida]

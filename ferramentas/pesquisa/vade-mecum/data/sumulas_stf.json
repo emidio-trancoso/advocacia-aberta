@@ -1,20 +1,22 @@
 {
   "_meta": {
-    "version": "1.0",
+    "version": "2.0",
     "tipo": "sumulas",
     "tribunal": "STF",
     "total": 736,
+    "gerado_em": "2026-07-19",
+    "descricao": "Súmulas extraídas do catálogo oficial do STF",
+    "transformacao": "sumulas_stf_html_v1",
     "ativas": 724,
+    "aprovadas": 0,
     "canceladas": 10,
     "alteradas": 1,
-    "superadas": 1,
-    "gerado_em": "2026-01-13",
-    "descricao": "Súmulas STF (não vinculantes) consolidadas com enunciado e links"
+    "superadas": 1
   },
   "sumulas": {
     "1": {
       "numero": 1,
-      "enunciado": "É vedada a expulsão de estrangeiro casado com Brasileira, ou que tenha filho Brasileiro, dependente da economia paterna.",
+      "enunciado": "É vedada a expulsão de estrangeiro casado com brasileira, ou que tenha filho brasileiro, dependente da economia paterna.",
       "status": "ativa",
       "area": "Internacional",
       "data": "13/12/1963",
@@ -22,7 +24,7 @@
     },
     "2": {
       "numero": 2,
-      "enunciado": "Concede-se liberdade vigiada ao extraditando que estiver prêso por prazo superior a sessenta dias.",
+      "enunciado": "Concede-se liberdade vigiada ao extraditando que estiver preso por prazo superior a sessenta dias.",
       "status": "ativa",
       "area": "Internacional",
       "data": "13/12/1963",
@@ -30,7 +32,7 @@
     },
     "3": {
       "numero": 3,
-      "enunciado": "A imunidade concedida a deputados estaduais é restrita à Justiça do Estado. (Superada)",
+      "enunciado": "A imunidade concedida a deputados estaduais é restrita à Justiça do Estado. (superada)",
       "status": "superada",
       "area": "Constitucional",
       "data": "13/12/1963",
@@ -38,7 +40,7 @@
     },
     "4": {
       "numero": 4,
-      "enunciado": "Não perde a imunidade parlamentar o congressista nomeado Ministro de Estado. (Cancelada)",
+      "enunciado": "Não perde a imunidade parlamentar o congressista nomeado Ministro de Estado. (cancelada)",
       "status": "cancelada",
       "area": "Constitucional",
       "data": "13/12/1963",
@@ -54,7 +56,7 @@
     },
     "6": {
       "numero": 6,
-      "enunciado": "A revogação ou anulação, pelo Poder Executivo, de aposentadoria, ou qualquer outro ato aprovado pelo Tribunal de Contas, não produz efeitos antes de aprovada por aquêle Tribunal, ressalvada a competência revisora do Judiciário.",
+      "enunciado": "A revogação ou anulação, pelo Poder Executivo, de aposentadoria, ou qualquer outro ato aprovado pelo Tribunal de Contas, não produz efeitos antes de aprovada por aquele tribunal, ressalvada a competência revisora do Judiciário.",
       "status": "ativa",
       "area": "Constitucional",
       "data": "13/12/1963",
@@ -62,7 +64,7 @@
     },
     "7": {
       "numero": 7,
-      "enunciado": "Sem prejuízo de recurso para o Congresso, não é exeqüível contrato administrativo a que o Tribunal de Contas houver negado registro.",
+      "enunciado": "Sem prejuízo de recurso para o Congresso, não é exequível contrato administrativo a que o Tribunal de Contas houver negado registro.",
       "status": "ativa",
       "area": "Constitucional",
       "data": "13/12/1963",
@@ -110,7 +112,7 @@
     },
     "13": {
       "numero": 13,
-      "enunciado": "A equiparação de extranumerário a funcionário efetivo, determinada pela L. 2.284, de 9.8.54, não envolve reestruturação, não compreendendo, portanto, os vencimentos.",
+      "enunciado": "A equiparação de extranumerário a funcionário efetivo, determinada pela Lei 2.284, de 9-8-1954, não envolve reestruturação, não compreendendo, portanto, os vencimentos.",
       "status": "ativa",
       "area": "Administrativo",
       "data": "13/12/1963",
@@ -126,7 +128,7 @@
     },
     "15": {
       "numero": 15,
-      "enunciado": "Dentro do prazo de validade do concurso, o candidato aprovado tem o direito à nomeação, quando o cargo fôr preenchido sem observância da classificação.",
+      "enunciado": "Dentro do prazo de validade do concurso, o candidato aprovado tem direito à nomeação, quando o cargo for preenchido sem observância da classificação.",
       "status": "ativa",
       "area": "Administrativo",
       "data": "13/12/1963",
@@ -190,7 +192,7 @@
     },
     "23": {
       "numero": 23,
-      "enunciado": "Verificados os pressupostos legais para o licenciamento da obra, não o impede a declaração de utilidade pública para desapropriação do imóvel, mas o valor da obra não se incluirá na indenização, quando a desapropriação fôr efetivada.",
+      "enunciado": "Verificados os pressupostos legais para o licenciamento da obra, não o impede a declaração de utilidade pública para desapropriação do imóvel, mas o valor da obra não se incluirá na indenização, quando a desapropriação for efetivada.",
       "status": "ativa",
       "area": "Administrativo",
       "data": "13/12/1963",
@@ -206,7 +208,7 @@
     },
     "25": {
       "numero": 25,
-      "enunciado": "A nomeação a têrmo não impede a livre demissão pelo Presidente da República, de ocupante de cargo dirigente de autarquia.",
+      "enunciado": "A nomeação a termo não impede a livre demissão, pelo Presidente da República, de ocupante de cargo dirigente de autarquia.",
       "status": "ativa",
       "area": "Administrativo",
       "data": "13/12/1963",
@@ -254,7 +256,7 @@
     },
     "31": {
       "numero": 31,
-      "enunciado": "Para aplicação da L. 1741, de 22.11.52, soma-se o tempo de serviço ininterrupto em mais de um cargo em comissão.",
+      "enunciado": "Para aplicação da Lei 1741, de 22-11-1952, soma-se o tempo de serviço ininterrupto em mais de um cargo em comissão.",
       "status": "ativa",
       "area": "Administrativo",
       "data": "13/12/1963",
@@ -262,7 +264,7 @@
     },
     "32": {
       "numero": 32,
-      "enunciado": "Para aplicação da L. 1741, de 22.11.52, soma-se o tempo de serviço ininterrupto em cargo em comissão e em função gratificada.",
+      "enunciado": "Para aplicação da L. 1741, de 22-11-1952, soma-se o tempo de serviço ininterrupto em cargo em comissão e em função gratificada.",
       "status": "ativa",
       "area": "Administrativo",
       "data": "13/12/1963",
@@ -270,7 +272,7 @@
     },
     "33": {
       "numero": 33,
-      "enunciado": "A L. 1.741, de 22.11.52, é aplicável às autarquias federais.",
+      "enunciado": "A L. 1741, de 22-11-1952, é aplicável às autarquias federais.",
       "status": "ativa",
       "area": "Administrativo",
       "data": "13/12/1963",
@@ -326,7 +328,7 @@
     },
     "40": {
       "numero": 40,
-      "enunciado": "A elevação da entrância da comarca não promove automaticamente o juiz, mas não interrompe o exercício de suas funções na mesma comarca.",
+      "enunciado": "A elevação da entrância da Comarca não promove automaticamente o Juiz, mas não interrompe o exercício de suas funções na mesma Comarca.",
       "status": "ativa",
       "area": "Constitucional",
       "data": "13/12/1963",
@@ -350,7 +352,7 @@
     },
     "43": {
       "numero": 43,
-      "enunciado": "Não contraria a Constituição Federal o art. 61 da Constituição de São Paulo, que equiparou os vencimentos do Ministério Público aos da magistratura.",
+      "enunciado": "Não contraria a Constituição Federal o art. 61 da Constituição de São Paulo, que equiparou os vencimentos do Ministério Público aos da Magistratura.",
       "status": "ativa",
       "area": "Constitucional",
       "data": "13/12/1963",
@@ -358,7 +360,7 @@
     },
     "44": {
       "numero": 44,
-      "enunciado": "O exercício do cargo pelo prazo determinado na L. 1.341, de 30.1.51, art. 91, dá preferência para a nomeação interina de Procurador da República.",
+      "enunciado": "O exercício do cargo pelo prazo determinado na Lei 1.341, de 30-1-1951, art. 91, dá preferência para a nomeação interina de Procurador da República.",
       "status": "ativa",
       "area": "Constitucional",
       "data": "13/12/1963",
@@ -382,7 +384,7 @@
     },
     "47": {
       "numero": 47,
-      "enunciado": "Reitor de universidade não é livremente demissível pelo Presidente da República durante o prazo de sua investidura.",
+      "enunciado": "Reitor de universidade não é livremente demissível pelo presidente da república durante o prazo de sua investidura.",
       "status": "ativa",
       "area": "Administrativo",
       "data": "13/12/1963",
@@ -494,7 +496,7 @@
     },
     "61": {
       "numero": 61,
-      "enunciado": "Brasileiro domiciliado no estrangeiro, que se transfere definitivamente para o Brasil, pode trazer automóvel licenciado em seu nome há mais de seis meses",
+      "enunciado": "Brasileiro domiciliado no estrangeiro, que se transfere definitivamente para o Brasil, pode trazer automóvel licenciado em seu nome há mais de seis meses.",
       "status": "ativa",
       "area": "Internacional",
       "data": "13/12/1963",
@@ -526,7 +528,7 @@
     },
     "65": {
       "numero": 65,
-      "enunciado": "A cláusula de aluguel progressivo anterior à L. 3.494, de 19.12.58, continua em vigor em caso de prorrogação legal ou convencional da locação.",
+      "enunciado": "A cláusula de aluguel progressivo anterior à Lei 3.494, de 19-12-1958, continua em vigor em caso de prorrogação legal ou convencional da locação.",
       "status": "ativa",
       "area": "Civil",
       "data": "13/12/1963",
@@ -550,7 +552,7 @@
     },
     "68": {
       "numero": 68,
-      "enunciado": "É legítima a cobrança, pelos Municípios, no exercício de 1961, de tributo estadual, regularmente criado ou aumentado, e que lhes foi transferido pela Emenda Constitucional nº 5, de 21.11.61.",
+      "enunciado": "É legítima a cobrança, pelos Municípios, no exercício de 1961, de tributo estadual, regularmente criado ou aumentado, e que lhes foi transferido pela Emenda Constitucional 5, de 21-11-1961.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -590,7 +592,7 @@
     },
     "73": {
       "numero": 73,
-      "enunciado": "A imunidade das autarquias, implicitamente contida no art. 31, V, \"a\", da Constituição Federal, abrange tributos estaduais e municipais.",
+      "enunciado": "A imunidade das autarquias, implicitamente contida no art. 31, V, a, da Constituição Federal, abrange tributos estaduais e municipais.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -606,7 +608,7 @@
     },
     "75": {
       "numero": 75,
-      "enunciado": "Sendo vendedora uma autarquia, a sua imunidade fiscal não compreende o impôsto de transmissão \"inter vivos\", que é encargo do comprador.",
+      "enunciado": "Sendo vendedora uma autarquia, a sua imunidade fiscal não compreende o impôsto de transmissão inter vivos, que é encargo do comprador.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -614,7 +616,7 @@
     },
     "76": {
       "numero": 76,
-      "enunciado": "As sociedades de economia mista não estão protegidas pela imunidade fiscal do art. 31, V, \"a\", Constituição Federal.",
+      "enunciado": "As sociedades de economia mista não estão protegidas pela imunidade fiscal do art. 31, V, a, Constituição Federal.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -702,7 +704,7 @@
     },
     "87": {
       "numero": 87,
-      "enunciado": "Somente no que não colidirem com a L. 3.244, de 14.8.57, são aplicáveis acordos tarifários anteriores.",
+      "enunciado": "Somente no que não colidirem com a Lei 3.244, de 14-8-1957, são aplicáveis acordos tarifários anteriores.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -710,7 +712,7 @@
     },
     "88": {
       "numero": 88,
-      "enunciado": "É válida a majoração da tarifa alfandegária, resultante da L. 3.244, de 14.8.57, que modificou o Acordo Geral sôbre Tarifas Aduaneiras e Comércio (GATT), aprovado pela L. 313, de 30.7.48.",
+      "enunciado": "É válida a majoração da tarifa alfandegária, resultante da Lei 3.244, de 14-8-1957, que modificou o Acordo Geral sôbre Tarifas Aduaneiras e Comércio (GATT), aprovado pela Lei 313, de 30-7-1948.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -742,7 +744,7 @@
     },
     "92": {
       "numero": 92,
-      "enunciado": "É constitucional o art. 100, nº II, da L. 4.563, de 20.2.57, do Município de Recife, que faz variar o impôsto de licença em função do aumento do capital do contribuinte.",
+      "enunciado": "É constitucional o art. 100, II, da Lei 4.563, de 20-2-1957, do Município de Recife, que faz variar o imposto de licença em função do aumento do capital do contribuinte.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -750,7 +752,7 @@
     },
     "93": {
       "numero": 93,
-      "enunciado": "Não está isenta do impôsto de renda a atividade profissional do arquiteto.",
+      "enunciado": "Não está isenta do imposto de renda a atividade profissional do arquiteto.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -774,7 +776,7 @@
     },
     "96": {
       "numero": 96,
-      "enunciado": "O impôsto de lucro imobiliário incide sôbre a venda de imóvel da meação do cônjuge sobrevivente, ainda que aberta a sucessão antes da vigência da L. 3.470, de 28.11.58.",
+      "enunciado": "O impôsto de lucro imobiliário incide sôbre a venda de imóvel da meação do cônjuge sobrevivente, ainda que aberta a sucessão antes da vigência da Lei 3.470, de 28-11-1958.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -790,7 +792,7 @@
     },
     "98": {
       "numero": 98,
-      "enunciado": "Sendo o imóvel alienado na vigência da L. 3.470, de 28.11.58, ainda que adquirido por herança, usucapião ou a título gratuito, é devido o impôsto de lucro imobiliário.",
+      "enunciado": "Sendo o imóvel alienado na vigência da Lei 3.470, de 28-11-1958, ainda que adquirido por herança, usucapião ou a título gratuito, é devido o impôsto de lucro imobiliário.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -798,7 +800,7 @@
     },
     "99": {
       "numero": 99,
-      "enunciado": "Não é devido o impôsto de lucro imobiliário, quando a alienação de imóvel adquirido por herança, ou a título gratuito, tiver sido anterior à vigência da L. 3.470, de 28.11.58.",
+      "enunciado": "Não é devido o impôsto de lucro imobiliário, quando a alienação de imóvel adquirido por herança, ou a título gratuito, tiver sido anterior à vigência da Lei 3.470, de 28-11-1958.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -806,7 +808,7 @@
     },
     "100": {
       "numero": 100,
-      "enunciado": "Não é devido o impôsto de lucro imobiliário, quando a alienação de imóvel, adquirido por usucapião, tiver sido anterior à vigência da L. 3.470, de 28.11.58.",
+      "enunciado": "Não é devido o impôsto de lucro imobiliário, quando a alienação de imóvel, adquirido por usucapião, tiver sido anterior à vigência da Lei 3.470, de 28-11-1958.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -822,7 +824,7 @@
     },
     "102": {
       "numero": 102,
-      "enunciado": "É devido o impôsto federal do selo pela incorporação de reservas, em reavaliação de ativo, ainda que realizada antes da vigência da L. 3.519, de 30.12.58.",
+      "enunciado": "É devido o imposto federal do selo pela incorporação de reservas, em reavaliação de ativo, ainda que realizada antes da vigência da Lei 3.519, de 30-12-1958.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -830,7 +832,7 @@
     },
     "103": {
       "numero": 103,
-      "enunciado": "É devido o impôsto federal do selo na simples reavaliação de ativo, realizada posteriormente à vigência da L. 3.519, de 30.12.58.",
+      "enunciado": "É devido o imposto federal do selo na simples reavaliação de ativo, realizada posteriormente à vigência da Lei 3.519, de 30-12-1958.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -838,7 +840,7 @@
     },
     "104": {
       "numero": 104,
-      "enunciado": "Não é devido o impôsto federal do selo na simples reavaliação de ativo anterior à vigência da L. 3.519, de 30.12.58.",
+      "enunciado": "Não é devido o imposto federal do selo na simples reavaliação de ativo anterior à vigência da Lei 3.519, de 30-12-1958.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -854,7 +856,7 @@
     },
     "106": {
       "numero": 106,
-      "enunciado": "É legítima a cobrança de sêlo sôbre registro de automóveis, na conformidade da legislação estadual.",
+      "enunciado": "É legítima a cobrança de selo sobre registro de automóveis, na conformidade da legislação estadual.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -862,7 +864,7 @@
     },
     "107": {
       "numero": 107,
-      "enunciado": "É inconstitucional o impôsto de selo de 3%, \"ad valorem\", do Paraná, quanto aos produtos remetidos para fora do Estado.",
+      "enunciado": "É inconstitucional o imposto de selo de 3%, \"ad valorem\", do Paraná, quanto aos produtos remetidos para fora do estado.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -870,7 +872,7 @@
     },
     "108": {
       "numero": 108,
-      "enunciado": "É legítima a incidência do impôsto de transmissão \"inter vivos\" sôbre o valor do imóvel ao tempo da alienação e não da promessa, na conformidade da legislação local.",
+      "enunciado": "É legítima a incidência do imposto de transmissão \"inter vivos\" sobre o valor do imóvel ao tempo da alienação e não da promessa, na conformidade da legislação local.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -878,7 +880,7 @@
     },
     "109": {
       "numero": 109,
-      "enunciado": "É devida a multa prevista no art. 15, § 6º, da L. 1.300, de 28.12.50, ainda que a desocupação do imóvel tenha resultado da notificação e não haja sido proposta ação de despejo.",
+      "enunciado": "É devida a multa prevista no art. 15, § 6º, da Lei 1.300, de 28-12-1950, ainda que a desocupação do imóvel tenha resultado da notificação e não haja sido proposta ação de despejo.",
       "status": "ativa",
       "area": "Civil",
       "data": "13/12/1963",
@@ -886,7 +888,7 @@
     },
     "110": {
       "numero": 110,
-      "enunciado": "O impôsto de transmissão inter vivos não incide sôbre a construção, ou parte dela, realizada pelo adquirente, mas sôbre o que tiver sido construído ao tempo da alienação do terreno.",
+      "enunciado": "O imposto de transmissão \"inter vivos\" não incide sobre a construção, ou parte dela, realizada pelo adquirente, mas sobre o que tiver sido construído ao tempo da alienação do terreno.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -894,7 +896,7 @@
     },
     "111": {
       "numero": 111,
-      "enunciado": "É legítima a incidência do impôsto de transmissão \"inter vivos\" sôbre a restituição, ao antigo proprietário, de imóvel que deixou de servir à finalidade da sua desapropriação.",
+      "enunciado": "É legítima a incidência do impôsto de transmissão inter vivos sôbre a restituição, ao antigo proprietário, de imóvel que deixou de servir à finalidade da sua desapropriação.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -902,7 +904,7 @@
     },
     "112": {
       "numero": 112,
-      "enunciado": "O impôsto de transmissão \"causa mortis\" é devido pela alíquota vigente ao tempo da abertura da sucessão.",
+      "enunciado": "O imposto de transmissão \"causa mortis\" é devido pela alíquota vigente ao tempo da abertura da sucessão.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -910,7 +912,7 @@
     },
     "113": {
       "numero": 113,
-      "enunciado": "O impôsto de transmissão \"causa mortis\" é calculado sôbre o valor dos bens na data da avaliação.",
+      "enunciado": "O imposto de transmissão \"causa mortis\" é calculado sobre o valor dos bens na data da avaliação.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -918,7 +920,7 @@
     },
     "114": {
       "numero": 114,
-      "enunciado": "O impôsto de transmissão \"causa mortis\" não é exigível antes da homologação do cálculo.",
+      "enunciado": "O imposto de transmissão \"causa mortis\" não é exigível antes da homologação do cálculo.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -926,7 +928,7 @@
     },
     "115": {
       "numero": 115,
-      "enunciado": "Sôbre os honorários do advogado contratado pelo inventariante, com a homologação do juiz, não incide o impôsto de transmissão \"causa mortis\".",
+      "enunciado": "Sôbre os honorários do advogado contratado pelo inventariante, com a homologação do juiz, não incide o impôsto de transmissão causa mortis.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -934,7 +936,7 @@
     },
     "116": {
       "numero": 116,
-      "enunciado": "Em desquite ou inventário, é legítima a cobrança do chamado impôsto de reposição, quando houver desigualdade nos valôres partilhados.",
+      "enunciado": "Em desquite ou inventário, é legítima a cobrança do chamado imposto de reposição, quando houver desigualdade nos valores partilhados.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -942,7 +944,7 @@
     },
     "117": {
       "numero": 117,
-      "enunciado": "A lei estadual pode fazer variar a alíquota do impôsto de vendas e consignações em razão da espécie do produto.",
+      "enunciado": "A lei estadual pode fazer variar a alíquota do imposto de vendas e consignações em razão da espécie do produto.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -950,7 +952,7 @@
     },
     "118": {
       "numero": 118,
-      "enunciado": "Estão sujeitas ao impôsto de vendas e consignações as transações sôbre minerais, que ainda não estão compreendidos na legislação federal sôbre o impôsto único.",
+      "enunciado": "Estão sujeitas ao imposto de vendas e consignações as transações sobre minerais que ainda não estão compreendidos na legislação federal sobre o imposto único.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -958,7 +960,7 @@
     },
     "119": {
       "numero": 119,
-      "enunciado": "É devido o impôsto de vendas e consignações sôbre a venda de cafés ao Instituto Brasileiro do Café, embora o lote, originariamente, se destinasse à exportação.",
+      "enunciado": "É devido o imposto de vendas e consignações sobre a venda de cafés ao Instituto Brasileiro do Café, embora o lote, originariamente, se destinasse à exportação.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -990,7 +992,7 @@
     },
     "123": {
       "numero": 123,
-      "enunciado": "Sendo a locação regida pelo D. 24.150, de 20.4.34, o locatário não tem direito à purgação da mora prevista na L. 1.300, de 28.12.50.",
+      "enunciado": "Sendo a locação regida pelo Decreto 24.150, de 20-4-1934, o locatário não tem direito à purgação da mora prevista na Lei 1.300, de 28-12-1950.",
       "status": "ativa",
       "area": "Civil",
       "data": "13/12/1963",
@@ -998,7 +1000,7 @@
     },
     "124": {
       "numero": 124,
-      "enunciado": "É inconstitucional o adicional do impôsto de vendas e consignações cobrado pelo Estado do Espírito Santo sôbre cafés da cota de expurgo entregues ao Instituto Brasileiro do Café.",
+      "enunciado": "É inconstitucional o adicional do imposto de vendas e consignações cobrado pelo Estado do Espírito Santo sobre cafés da cota de expurgo entregues ao Instituo Brasileiro do Café.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -1046,7 +1048,7 @@
     },
     "130": {
       "numero": 130,
-      "enunciado": "A taxa de despacho aduaneiro (art. 66 da L. 3.244, de 14.8.57) continua a ser exigível após o Dec. Legisl. 14, de 25.8.60, que aprovou alterações introduzidas no Acordo Geral sôbre Tarifas Aduaneiras e Comércio (GATT).",
+      "enunciado": "A taxa de despacho aduaneiro (art. 66 da Lei 3.244, de 14-8-1957) continua a ser exigível após o Decreto Legislativo 14, de 25-8-1960, que aprovou alterações introduzidas no Acordo Geral sobre Tarifas Aduaneiras e Comércio (GATT).",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -1054,7 +1056,7 @@
     },
     "131": {
       "numero": 131,
-      "enunciado": "A taxa de despacho aduaneiro (art. 66 da L. 3.244, de 14.8.57) continua a ser exigível após o Dec. Legisl. 14, de 25.8.60, mesmo para as mercadorias incluídas na vigente lista III do Acordo Geral sôbre Tarifas Aduaneiras e Comércio (GATT).",
+      "enunciado": "A taxa de despacho aduaneiro (art. 66 da Lei 3.244, de 14-8-1957) continua a ser exigível após o Decreto Legislativo 14, de 25-8-1960, que aprovou alterações introduzidas no Acordo Geral sobre Tarifas Aduaneiras e Comércio (GATT).",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -1102,7 +1104,7 @@
     },
     "137": {
       "numero": 137,
-      "enunciado": "A taxa de fiscalização da exportação incide sôbre a bonificação cambial concedida ao exportador.",
+      "enunciado": "A taxa de fiscalização da exportação incide sobre a bonificação cambial concedida ao exportador.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -1110,7 +1112,7 @@
     },
     "138": {
       "numero": 138,
-      "enunciado": "É inconstitucional a taxa contra fogo, do estado de Minas Gerais, incidente sôbre prêmio de seguro contra fogo.",
+      "enunciado": "É inconstitucional a taxa contra fogo, do Estado de Minas Gerais, incidente sobre prêmio de seguro contra fogo.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -1118,7 +1120,7 @@
     },
     "139": {
       "numero": 139,
-      "enunciado": "É indevida a cobrança do impôsto de transação a que se refere a L. 899, de 1957, art. 58, IV, letra \"e\", do antigo Distrito Federal.",
+      "enunciado": "É indevida a cobrança do imposto de transação a que se refere a Lei 899/1957, art. 58, IV, \"e\", do antigo Distrito Federal.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -1134,7 +1136,7 @@
     },
     "141": {
       "numero": 141,
-      "enunciado": "Não incide a taxa de previdência social sôbre combustíveis.",
+      "enunciado": "Não incide a taxa de previdência social sobre combustíveis.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -1142,7 +1144,7 @@
     },
     "142": {
       "numero": 142,
-      "enunciado": "Não é devida a taxa de previdência social sôbre mercadorias isentas do impôsto de importação.",
+      "enunciado": "Não é devida a taxa de previdência social sobre mercadorias isentas do imposto de importação.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -1150,7 +1152,7 @@
     },
     "143": {
       "numero": 143,
-      "enunciado": "Na forma da lei estadual, é devido o impôsto de vendas e consignações na exportação de café pelo Estado da Guanabara, embora proveniente de outro Estado.",
+      "enunciado": "Na forma da lei estadual, é devido o imposto de vendas e consignações na exportação de café pelo Estado da Guanabara, embora proveniente de outro estado.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -1158,7 +1160,7 @@
     },
     "144": {
       "numero": 144,
-      "enunciado": "É inconstitucional a incidência da taxa de recuperação econômica de Minas Gerais sôbre contrato sujeito ao impôsto federal do sêlo.",
+      "enunciado": "É inconstitucional a incidência da taxa de recuperação econômica de Minas Gerais sobre contrato sujeito ao imposto federal do selo.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -1214,7 +1216,7 @@
     },
     "151": {
       "numero": 151,
-      "enunciado": "Prescreve em um ano a ação do segurador subrogado para haver indenização por extravio ou perda de carga transportada por navio.",
+      "enunciado": "Prescreve em um ano a ação do segurador sub-rogado para haver indenização por extravio ou perda de carga transportada por navio.",
       "status": "ativa",
       "area": "Empresarial",
       "data": "13/12/1963",
@@ -1222,7 +1224,7 @@
     },
     "152": {
       "numero": 152,
-      "enunciado": "A ação para anular venda de ascendente a descendente, sem consentimento dos demais, prescreve em quatro anos a contar da abertura da sucessão. (Revogada)",
+      "enunciado": "A ação para anular venda de ascendente a descendente, sem consentimento dos demais, prescreve em quatro anos a contar da abertura da sucessão. (revogada)",
       "status": "cancelada",
       "area": "Civil",
       "data": "13/12/1963",
@@ -1262,7 +1264,7 @@
     },
     "157": {
       "numero": 157,
-      "enunciado": "É necessária prévia autorização do Presidente da República para desapropriação, pelos Estados, de emprêsa de energia elétrica.",
+      "enunciado": "É necessária prévia autorização do Presidente da República para desapropriação, pelos Estados, de empresa de energia elétrica.",
       "status": "ativa",
       "area": "Administrativo",
       "data": "13/12/1963",
@@ -1334,7 +1336,7 @@
     },
     "166": {
       "numero": 166,
-      "enunciado": "É inadmissível o arrependimento no compromisso de compra e venda sujeito ao regime do Dl. 58, de 10.12.37.",
+      "enunciado": "É inadmissível o arrependimento no compromisso de compra e venda sujeito ao regime do Decreto-Lei 58, de 10-12-1937.",
       "status": "ativa",
       "area": "Civil",
       "data": "13/12/1963",
@@ -1342,7 +1344,7 @@
     },
     "167": {
       "numero": 167,
-      "enunciado": "Não se aplica o regime do Dl. 58, de 10.12.37, ao compromisso de compra e venda não inscrito no registro imobiliário, salvo se o promitente vendedor se obrigou a efetuar o registro.",
+      "enunciado": "Não se aplica o regime do Decreto-Lei 58, de 10-12-1937, ao compromisso de compra e venda não inscrito no registro imobiliário, salvo se o promitente vendedor se obrigou a efetuar o registro.",
       "status": "ativa",
       "area": "Civil",
       "data": "13/12/1963",
@@ -1350,7 +1352,7 @@
     },
     "168": {
       "numero": 168,
-      "enunciado": "Para os efeitos do Dl. 58, de 10.12.37, admite-se a inscrição imobiliária do compromisso de compra e venda no curso da ação.",
+      "enunciado": "Para os efeitos do Decreto-Lei 58, de 10-12-1937, admite-se a inscrição imobiliária do compromisso de compra e venda no curso da ação.",
       "status": "ativa",
       "area": "Civil",
       "data": "13/12/1963",
@@ -1374,7 +1376,7 @@
     },
     "171": {
       "numero": 171,
-      "enunciado": "Não se admite, na locação em curso, de prazo determinado, a majoração de encargos a que se refere a L. 3.844, de 15.12.60.",
+      "enunciado": "Não se admite, na locação em curso, de prazo determinado, a majoração de encargos a que se refere à Lei 3.844, de 15-12-1960.",
       "status": "ativa",
       "area": "Civil",
       "data": "13/12/1963",
@@ -1382,7 +1384,7 @@
     },
     "172": {
       "numero": 172,
-      "enunciado": "Não se admite, na locação em curso, de prazo determinado, o reajustamento de aluguel a que se refere a L. 3.085, de 29.12.56.",
+      "enunciado": "Não se admite, na locação em curso, de prazo determinado, o reajustamento de aluguel a que se refere a Lei 3.085, de 29-12-1956.",
       "status": "ativa",
       "area": "Civil",
       "data": "13/12/1963",
@@ -1390,7 +1392,7 @@
     },
     "173": {
       "numero": 173,
-      "enunciado": "Em caso de obstáculo judicial admite-se a purga da mora, pelo locatário, além do prazo legal.",
+      "enunciado": "Em caso de obstáculo judicial, admite-se a purga da mora, pelo locatário, além do prazo legal.",
       "status": "ativa",
       "area": "Civil",
       "data": "13/12/1963",
@@ -1414,7 +1416,7 @@
     },
     "176": {
       "numero": 176,
-      "enunciado": "O promitente comprador, nas condições previstas na L. 1.300, de 28-12-50, pode retomar o imóvel locado.",
+      "enunciado": "O promitente comprador, nas condições previstas na Lei 1.300, de 28-12-1950, pode retomar o imóvel locado.",
       "status": "ativa",
       "area": "Civil",
       "data": "13/12/1963",
@@ -1422,7 +1424,7 @@
     },
     "177": {
       "numero": 177,
-      "enunciado": "O cessionário do promitente comprador, nas mesmas condições dêste, pode retomar o imóvel locado.",
+      "enunciado": "O cessionário do promitente comprador, nas mesmas condições deste, pode retomar o imóvel locado.",
       "status": "ativa",
       "area": "Civil",
       "data": "13/12/1963",
@@ -1430,7 +1432,7 @@
     },
     "178": {
       "numero": 178,
-      "enunciado": "Não excederá de cinco anos a renovação judicial de contrato de locação, fundada no D. 24.150, de 20.4.34.",
+      "enunciado": "Não excederá de cinco anos a renovação judicial de contrato de locação, fundada no Decreto 24.150, de 20-4-1934.",
       "status": "ativa",
       "area": "Civil",
       "data": "13/12/1963",
@@ -1438,7 +1440,7 @@
     },
     "179": {
       "numero": 179,
-      "enunciado": "O aluguel arbitrado judicialmente nos têrmos da L. 3.085, de 29.12.56, art. 6º, vigora a partir da data do laudo pericial.",
+      "enunciado": "O aluguel arbitrado judicialmente nos termos da Lei 3.085, de 29-12-1956, art. 6º, vigora a partir da data do laudo pericial.",
       "status": "ativa",
       "area": "Civil",
       "data": "13/12/1963",
@@ -1446,7 +1448,7 @@
     },
     "180": {
       "numero": 180,
-      "enunciado": "Na ação revisional do art. 31 do D. 24.150, de 20.4.34, o aluguel arbitrado vigora a partir do laudo pericial.",
+      "enunciado": "Na ação revisional do art. 31 do Decreto 24.150, de 20-4-1934, o aluguel arbitrado vigora a partir do laudo pericial.",
       "status": "ativa",
       "area": "Civil",
       "data": "13/12/1963",
@@ -1454,7 +1456,7 @@
     },
     "181": {
       "numero": 181,
-      "enunciado": "Na retomada, para construção mais útil de imóvel sujeito ao D. 24.150, de 20.4.34, é sempre devida indenização para despesas de mudança do locatário.",
+      "enunciado": "Na retomada, para construção mais útil de imóvel sujeito ao Decreto 24.150, de 20-4-1934, é sempre devida indenização para despesas de mudança do locatário.",
       "status": "ativa",
       "area": "Civil",
       "data": "13/12/1963",
@@ -1462,7 +1464,7 @@
     },
     "182": {
       "numero": 182,
-      "enunciado": "Não impede o reajustamento do débito pecuário, nos termos da L. 1.002, de 24.12.49, a falta de cancelamento da renúncia à moratória da L. 209, de 2.1.48.",
+      "enunciado": "Não impede o reajustamento do débito pecuário, nos termos da Lei 1.002, de 24-12-1949, a falta de cancelamento da renúncia à moratória da Lei 209, de 2-1-1948.",
       "status": "ativa",
       "area": "Civil",
       "data": "13/12/1963",
@@ -1478,7 +1480,7 @@
     },
     "184": {
       "numero": 184,
-      "enunciado": "Não se incluem no reajustamento pecuário dívidas contraídas posteriormente a 19.12.46.",
+      "enunciado": "Não se incluem no reajustamento pecuário dívidas contraídas posteriormente a 19-12-1946.",
       "status": "ativa",
       "area": "Civil",
       "data": "13/12/1963",
@@ -1574,7 +1576,7 @@
     },
     "196": {
       "numero": 196,
-      "enunciado": "Ainda que exerça atividade rural, o empregado de emprêsa industrial ou comercial é classificado de acôrdo com a categoria do empregador.",
+      "enunciado": "Ainda que exerça atividade rural, o empregado de empresa industrial ou comercial é classificado de acordo com a categoria do empregador.",
       "status": "ativa",
       "area": "Trabalhista",
       "data": "13/12/1963",
@@ -1606,7 +1608,7 @@
     },
     "200": {
       "numero": 200,
-      "enunciado": "Não é inconstitucional a L. 1.530, de 26.12.51, que manda incluir na indenização por despedida injusta parcela correspondente a férias proporcionais.",
+      "enunciado": "Não é inconstitucional a Lei 1.530, de 26.12.1951, que manda incluir na indenização por despedida injusta parcela correspondente a férias proporcionais.",
       "status": "ativa",
       "area": "Trabalhista",
       "data": "13/12/1963",
@@ -1622,7 +1624,7 @@
     },
     "202": {
       "numero": 202,
-      "enunciado": "Na equiparação de salário, em caso de trabalho igual, toma-se em conta o tempo de serviço na função, e não no emprêgo.",
+      "enunciado": "Na equiparação de salário, em caso de trabalho igual, toma-se em conta o tempo de serviço na função, e não no emprego.",
       "status": "ativa",
       "area": "Trabalhista",
       "data": "13/12/1963",
@@ -1630,7 +1632,7 @@
     },
     "203": {
       "numero": 203,
-      "enunciado": "Não está sujeita à vacância de 60 dias a vigência de novos níveis de salário mínimo.",
+      "enunciado": "Não está sujeita à vacância de sessenta dias a vigência de novos níveis de salário-mínimo.",
       "status": "ativa",
       "area": "Trabalhista",
       "data": "13/12/1963",
@@ -1670,7 +1672,7 @@
     },
     "208": {
       "numero": 208,
-      "enunciado": "O assistente do Ministério Público não pode recorrer, extraordinariamente, de decisão concessiva de \"habeas corpus\".",
+      "enunciado": "O assistente do Ministério Público não pode recorrer, extraordinariamente, de decisão concessiva de habeas corpus.",
       "status": "ativa",
       "area": "Processual Penal",
       "data": "13/12/1963",
@@ -1694,7 +1696,7 @@
     },
     "211": {
       "numero": 211,
-      "enunciado": "Contra a decisão proferida sôbre o agravo no auto do processo, por ocasião do julgamento da apelação, não se admitem embargos infringentes ou de nulidade.",
+      "enunciado": "Contra a decisão proferida sobre o agravo no auto do processo, por ocasião do julgamento da apelação, não se admitem embargos infringentes ou de nulidade.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -1718,7 +1720,7 @@
     },
     "214": {
       "numero": 214,
-      "enunciado": "A duração legal da hora de serviço noturno (52 minutos e trinta segundos) constitui vantagem suplementar que não dispensa o salário adicional.",
+      "enunciado": "A duração legal da hora de serviço noturno (52 minutos e 30 segundos) constitui vantagem suplementar que não dispensa o salário adicional.",
       "status": "ativa",
       "area": "Trabalhista",
       "data": "13/12/1963",
@@ -1726,7 +1728,7 @@
     },
     "215": {
       "numero": 215,
-      "enunciado": "Conta-se a favor de empregado readmitido o tempo de serviço anterior, salvo se houver sido despedido por falta grave ou tiver recebido a indenização legal.",
+      "enunciado": "Conta-se a favor do empregado readmitido o tempo de serviço anterior, salvo se houver sido despedido por falta grave ou tiver recebido a indenização legal.",
       "status": "ativa",
       "area": "Trabalhista",
       "data": "13/12/1963",
@@ -1742,7 +1744,7 @@
     },
     "217": {
       "numero": 217,
-      "enunciado": "Tem direito de retornar ao emprego, ou ser indenizado em caso de recusa do empregador, o aposentado que recupera a capacidade de trabalho dentro de cinco anos, a contar da aposentadoria, que se torna definitiva após êsse prazo.",
+      "enunciado": "Tem direito de retornar ao emprego, ou ser indenizado em caso de recusa do empregador, o aposentado que recupera a capacidade de trabalho dentro de cinco anos, a contar da aposentadoria, que se torna definitiva após esse prazo.",
       "status": "ativa",
       "area": "Trabalhista",
       "data": "13/12/1963",
@@ -1750,7 +1752,7 @@
     },
     "218": {
       "numero": 218,
-      "enunciado": "É competente o Juízo da Fazenda Nacional da capital do Estado, e não o da situação da coisa, para a desapropriação promovida por emprêsa de energia elétrica, se a União Federal intervém como assistente.",
+      "enunciado": "É competente o juízo da Fazenda Nacional da capital do Estado, e não o da situação da coisa, para a desapropriação promovida por empresa de energia elétrica, se a União Federal intervém como assistente.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -1766,7 +1768,7 @@
     },
     "220": {
       "numero": 220,
-      "enunciado": "A indenização devida a empregado estável, que não é readmitido, ao cessar sua aposentadoria, deve ser paga em dôbro.",
+      "enunciado": "A indenização devida a empregado estável, que não é readmitido, ao cessar sua aposentadoria, deve ser paga em dobro.",
       "status": "ativa",
       "area": "Trabalhista",
       "data": "13/12/1963",
@@ -1774,7 +1776,7 @@
     },
     "221": {
       "numero": 221,
-      "enunciado": "A transferência de estabelecimento, ou a sua extinção parcial, por motivo que não seja de fôrça maior, não justifica a transferência de empregado estável.",
+      "enunciado": "A transferência de estabelecimento, ou a sua extinção parcial, por motivo que não seja de força maior, não justifica a transferência de empregado estável.",
       "status": "ativa",
       "area": "Trabalhista",
       "data": "13/12/1963",
@@ -1782,7 +1784,7 @@
     },
     "222": {
       "numero": 222,
-      "enunciado": "O princípio da identidade física do juiz não é aplicável às Juntas de Conciliação e Julgamento da Justiça do Trabalho.",
+      "enunciado": "O princípio da identidade física do juiz não é aplicável às juntas de conciliação e julgamento da justiça do trabalho.",
       "status": "ativa",
       "area": "Processual do Trabalho",
       "data": "13/12/1963",
@@ -1870,7 +1872,7 @@
     },
     "233": {
       "numero": 233,
-      "enunciado": "Salvo em caso de divergência qualificada (L. 623, de 1949), não cabe recurso de embargos contra decisão que nega provimento a agravo ou não conhece de recurso extraordinário, ainda que por maioria de votos.",
+      "enunciado": "Salvo em caso de divergência qualificada (Lei 623/1949), não cabe recurso de embargos contra decisão que nega provimento a agravo ou não conhece de recurso extraordinário, ainda que por maioria de votos.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -1886,7 +1888,7 @@
     },
     "235": {
       "numero": 235,
-      "enunciado": "É competente para a ação de acidente do trabalho a Justiça cível comum, inclusive em segunda instância, ainda que seja parte autarquia seguradora.",
+      "enunciado": "É competente para a ação de acidente de trabalho a Justiça Cível comum, inclusive em segunda instância, ainda que seja parte autarquia seguradora.",
       "status": "ativa",
       "area": "Processual do Trabalho",
       "data": "13/12/1963",
@@ -1902,7 +1904,7 @@
     },
     "237": {
       "numero": 237,
-      "enunciado": "O usucapião pode ser argüído em defesa.",
+      "enunciado": "O usucapião pode ser argüido em defesa.",
       "status": "ativa",
       "area": "Civil",
       "data": "13/12/1963",
@@ -1918,7 +1920,7 @@
     },
     "239": {
       "numero": 239,
-      "enunciado": "Decisão que declara indevida a cobrança do impôsto em determinado exercício não faz coisa julgada em relação aos posteriores.",
+      "enunciado": "Decisão que declara indevida a cobrança do imposto em determinado exercício não faz coisa julgada em relação aos posteriores.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -1934,7 +1936,7 @@
     },
     "241": {
       "numero": 241,
-      "enunciado": "A contribuição previdenciária incide sôbre o abono incorporado ao salário.",
+      "enunciado": "A contribuição previdenciária incide sobre o abono incorporado ao salário.",
       "status": "ativa",
       "area": "Previdenciário",
       "data": "13/12/1963",
@@ -1958,7 +1960,7 @@
     },
     "244": {
       "numero": 244,
-      "enunciado": "A importação de máquinas de costura está isenta do impôsto de consumo.",
+      "enunciado": "A importação de máquinas de costura está isenta do imposto de consumo.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -1982,7 +1984,7 @@
     },
     "247": {
       "numero": 247,
-      "enunciado": "O relator não admitirá os embargos da L. 623, de 19.2.49, nem deles conhecerá o Supremo Tribunal Federal, quando houver jurisprudência firme do Plenário no mesmo sentido da decisão embargada.",
+      "enunciado": "O relator não admitirá os embargos da Lei 623, de 19-2-1949, nem deles conhecerá o Supremo Tribunal Federal, quando houver jurisprudência firme do Plenário no mesmo sentido da decisão embargada.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2006,7 +2008,7 @@
     },
     "250": {
       "numero": 250,
-      "enunciado": "A intervenção da União desloca o processo do juízo cível comum para o fazendário.",
+      "enunciado": "A intervenção da União desloca o processo do Juízo Cível comum para o Fazendário.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2014,7 +2016,7 @@
     },
     "251": {
       "numero": 251,
-      "enunciado": "Responde a Rêde Ferroviária Federal S.A. perante o fôro comum e não perante o juízo especial da Fazenda Nacional, a menos que a União intervenha na causa.",
+      "enunciado": "Responde a Rede Ferroviária Federal S.A. perante o foro comum e não perante o juízo especial da Fazenda Nacional, a menos que a União intervenha na causa.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2030,7 +2032,7 @@
     },
     "253": {
       "numero": 253,
-      "enunciado": "Nos embargos da L. 623, de 19.2.49, no Supremo Tribunal Federal, a divergência somente será acolhida, se tiver sido indicada na petição de recurso extraordinário.",
+      "enunciado": "Nos embargos da Lei 623, de 19-2-1949, no Supremo Tribunal Federal, a divergência somente será acolhida, se tiver sido indicada na petição de recurso extraordinário.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2054,7 +2056,7 @@
     },
     "256": {
       "numero": 256,
-      "enunciado": "É dispensável pedido expresso para condenação do réu em honorários, com fundamento nos arts. 63 ou 64 do Cód. de Proc. Civil.",
+      "enunciado": "É dispensável pedido expresso para condenação do réu em honorários, com fundamento nos arts. 63 ou 64 do Código de Processo Civil.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2078,7 +2080,7 @@
     },
     "259": {
       "numero": 259,
-      "enunciado": "Para produzir efeito em juízo não é necessária a inscrição, no registro público, de documentos de procedência estrangeira, autenticados por via consular.",
+      "enunciado": "Para produzir efeito em juízo não é necessária a inscrição, no Registro Público, de documentos de procedência estrangeira, autenticados por via consular.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2166,7 +2168,7 @@
     },
     "270": {
       "numero": 270,
-      "enunciado": "Não cabe mandado de segurança para impugnar enquadramento da L. 3.780, de 12.7.60, que envolva exame de prova ou de situação funcional complexa.",
+      "enunciado": "Não cabe mandado de segurança para impugnar enquadramento da Lei 3.780, de 12-7-1960, que envolva exame de prova ou de situação funcional complexa.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2190,7 +2192,7 @@
     },
     "273": {
       "numero": 273,
-      "enunciado": "Nos embargos da L. 623, de 19.2.49, a divergência sôbre questão prejudicial ou preliminar, suscitada após a interposição do recurso extraordinário, ou do agravo, somente será acolhida se o acórdão-padrão fôr anterior à decisão embargada.",
+      "enunciado": "Nos embargos da Lei 623, de 19-2-1949, a divergência sôbre questão prejudicial ou preliminar, suscitada após a interposição do recurso extraordinário, ou do agravo, somente será acolhida se o acórdão-padrão fôr anterior à decisão embargada.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2198,7 +2200,7 @@
     },
     "274": {
       "numero": 274,
-      "enunciado": "É inconstitucional a taxa de serviço contra fogo cobrada pelo Estado de Pernambuco. (Revogada)",
+      "enunciado": "É inconstitucional a taxa de serviço contra fogo cobrada pelo Estado de Pernambuco. (revogada)",
       "status": "cancelada",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -2206,7 +2208,7 @@
     },
     "275": {
       "numero": 275,
-      "enunciado": "Está sujeita a recurso \"ex officio\" sentença concessiva de reajustamento pecuário anterior à vigência da L. 2.804, de 25.6.56.",
+      "enunciado": "Está sujeita a recurso ex officio sentença concessiva de reajustamento pecuário anterior à vigência da Lei 2.804, de 25-6-1956.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2254,7 +2256,7 @@
     },
     "281": {
       "numero": 281,
-      "enunciado": "É inadmissível o recurso extraordinário, quando couber na Justiça de origem, recurso ordinário da decisão impugnada.",
+      "enunciado": "É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2270,7 +2272,7 @@
     },
     "283": {
       "numero": 283,
-      "enunciado": "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos êles.",
+      "enunciado": "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2286,7 +2288,7 @@
     },
     "285": {
       "numero": 285,
-      "enunciado": "Não sendo razoável a argüição de inconstitucionalidade, não se conhece do recurso extraordinário fundado na letra c do art. 101, III, da Constituição Federal.",
+      "enunciado": "Não sendo razoável a argüição de inconstitucionalidade, não se conhece do recurso extraordinário fundado na letra \"c\" do art. 101, III, da Constituição Federal.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2318,7 +2320,7 @@
     },
     "289": {
       "numero": 289,
-      "enunciado": "O provimento do agravo por uma das Turmas do Supremo Tribunal Federal ainda que sem ressalva, não prejudica a questão do cabimento do recurso extraordinário.",
+      "enunciado": "O provimento do agravo por uma das turmas do Supremo Tribunal Federal ainda que sem ressalva, não prejudica a questão do cabimento do recurso extraordinário.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2326,7 +2328,7 @@
     },
     "290": {
       "numero": 290,
-      "enunciado": "Nos embargos da L. 623, de 19.2.49, a prova de divergência far-se-á por certidão, ou mediante indicação do \"Diário da Justiça\" ou de repertório de jurisprudência autorizado, que a tenha publicado, com a transcrição do trecho que configure a divergência, mencionadas as circunstâncias que identifiquem ou assemelhem os casos confrontados.",
+      "enunciado": "Nos embargos da Lei 623, de 19.2.1949, a prova de divergência far-se-á por certidão, ou mediante indicação do \"Diário da Justiça\" ou de repertório de jurisprudência autorizado, que a tenha publicado, com a transcrição do trecho que configure a divergência, mencionadas as circunstâncias que identifiquem ou assemelhem os casos confrontados.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2334,7 +2336,7 @@
     },
     "291": {
       "numero": 291,
-      "enunciado": "No recurso extraordinário pela letra \"d\" do art. 101, n. III, da Constituição, a prova do dissídio jurisprudencial far-se-á por certidão, ou mediante indicação do \"Diário da Justiça\" ou de repertório de jurisprudência autorizado, com a transcrição do trecho que configure a divergência, mencionadas as circunstâncias que identifiquem ou assemelhem os casos confrontados.",
+      "enunciado": "No recurso extraordinário pela letra \"d\" do art. 101, número III, da Constituição, a prova do dissídio jurisprudencial far-se-á por certidão, ou mediante indicação do \"Diário da Justiça\" ou de repertório de jurisprudência autorizado, com a transcrição do trecho que configure a divergência, mencionadas as circunstâncias que identifiquem ou assemelhem os casos confrontados.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2342,7 +2344,7 @@
     },
     "292": {
       "numero": 292,
-      "enunciado": "Interposto o recurso extraordinário por mais de um dos fundamentos indicados no art. 101, n. III, da Constituição, a admissão apenas por um dêles não prejudica o seu conhecimento por qualquer dos outros.",
+      "enunciado": "Interposto o recurso extraordinário por mais de um dos fundamentos indicados no art. 101, III da Constituição, a admissão apenas por um deles não prejudica o seu conhecimento por qualquer dos outros.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2350,7 +2352,7 @@
     },
     "293": {
       "numero": 293,
-      "enunciado": "São inadmissíveis embargos infringentes contra decisão em matéria constitucional submetida ao plenário dos Tribunais.",
+      "enunciado": "São inadmissíveis embargos infringentes contra decisão em matéria constitucional submetida ao plenário dos tribunais.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2374,7 +2376,7 @@
     },
     "296": {
       "numero": 296,
-      "enunciado": "São inadmissíveis embargos infringentes sôbre matéria não ventilada, pela Turma, no julgamento do recurso extraordinário.",
+      "enunciado": "São inadmissíveis embargos infringentes sobre matéria não ventilada, pela Turma, no julgamento do recurso extraordinário.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2382,7 +2384,7 @@
     },
     "297": {
       "numero": 297,
-      "enunciado": "Oficiais e praças das milícias dos Estados, no exercício de função policial civil, não são considerados militares para efeitos penais, sendo competente a Justiça comum para julgar os crimes cometidos por ou contra êles.",
+      "enunciado": "Oficiais e praças das milícias dos Estados, no exercício de função policial civil, não são considerados militares para efeitos penais, sendo competente a Justiça Comum para julgar os crimes cometidos por ou contra eles.",
       "status": "ativa",
       "area": "Militar",
       "data": "13/12/1963",
@@ -2390,7 +2392,7 @@
     },
     "298": {
       "numero": 298,
-      "enunciado": "O legislador ordinário só pode sujeitar civis à Justiça Militar, em tempo de paz, nos crimes contra a segurança externa do país ou as instituições militares.",
+      "enunciado": "O legislador ordinário só pode sujeitar civis à justiça militar, em tempo de paz, nos crimes contra a segurança externa do país ou as instituições militares.",
       "status": "ativa",
       "area": "Militar",
       "data": "13/12/1963",
@@ -2398,7 +2400,7 @@
     },
     "299": {
       "numero": 299,
-      "enunciado": "O recurso ordinário e o extraordinário interpostos no mesmo processo de mandado de segurança, ou de \"habeas corpus\", serão julgados conjuntamente pelo Tribunal Pleno.",
+      "enunciado": "O recurso ordinário e o extraordinário interpostos no mesmo processo de mandado de segurança, ou de habeas corpus, serão julgados conjuntamente pelo Tribunal Pleno.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2406,7 +2408,7 @@
     },
     "300": {
       "numero": 300,
-      "enunciado": "São incabíveis os embargos da L. 623, de 19.2.49, contra provimento de agravo para subida de recurso extraordinário.",
+      "enunciado": "São incabíveis os embargos da Lei 623, de 19-2-1949, contra provimento de agravo para subida de recurso extraordinário.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2414,7 +2416,7 @@
     },
     "301": {
       "numero": 301,
-      "enunciado": "Por crime de responsabilidade, o procedimento penal contra Prefeito Municipal fica condicionado ao seu afastamento do cargo por \"impeachment\", ou à cessação do exercício por outro motivo. (Cancelada)",
+      "enunciado": "Por crime de responsabilidade, o procedimento penal contra prefeito municipal fica condicionado ao seu afastamento do cargo por \"impeachment\", ou à cessação do exercício por outro motivo. (cancelada)",
       "status": "cancelada",
       "area": "Processual Penal",
       "data": "13/12/1963",
@@ -2430,7 +2432,7 @@
     },
     "303": {
       "numero": 303,
-      "enunciado": "Não é devido o impôsto federal de sêlo em contrato firmado com autarquia anteriormente à vigência da Emenda Constitucional nº 5, de 21.11.61.",
+      "enunciado": "Não é devido o impôsto federal de sêlo em contrato firmado com autarquia anteriormente à vigência da Emenda Constitucional 5, de 21-11-1961.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -2486,7 +2488,7 @@
     },
     "310": {
       "numero": 310,
-      "enunciado": "Quando a intimação tiver lugar na sexta-feira, ou a publicação com efeito de intimação fôr feita nesse dia, o prazo judicial terá início na segunda-feira imediata, salvo se não houver expediente, caso em que começará no primeiro dia útil que se seguir.",
+      "enunciado": "Quando a intimação tiver lugar na sexta-feira, ou a publicação com efeito de intimação for feita nesse dia, o prazo judicial terá início na segunda-feira imediata, salvo se não houver expediente, caso em que começará no primeiro dia útil que se seguir.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2534,7 +2536,7 @@
     },
     "316": {
       "numero": 316,
-      "enunciado": "A simples adesão a greve não constitui falta grave.",
+      "enunciado": "A simples adesão à greve não constitui falta grave.",
       "status": "ativa",
       "area": "Trabalhista",
       "data": "13/12/1963",
@@ -2558,7 +2560,7 @@
     },
     "319": {
       "numero": 319,
-      "enunciado": "O prazo do recurso ordinário para o Supremo Tribunal Federal, em \"habeas corpus\" ou mandado de segurança, é de cinco dias.",
+      "enunciado": "O prazo do recurso ordinário para o Supremo Tribunal Federal, em habeas corpus ou mandado de segurança, é de cinco dias.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2574,7 +2576,7 @@
     },
     "321": {
       "numero": 321,
-      "enunciado": "A constituição estadual pode estabelecer a irredutibilidade dos vencimentos do Ministério Público.",
+      "enunciado": "A Constituição Estadual pode estabelecer a irredutibilidade dos vencimentos do Ministério Público.",
       "status": "ativa",
       "area": "Constitucional",
       "data": "13/12/1963",
@@ -2590,7 +2592,7 @@
     },
     "323": {
       "numero": 323,
-      "enunciado": "É inadmissível a apreensão de mercadorias como meio coercitivo para pagamento de tributos.",
+      "enunciado": "É inadmissível a apreensão de mercadorias como meio coercitivo para pagamento de tributos",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -2614,7 +2616,7 @@
     },
     "326": {
       "numero": 326,
-      "enunciado": "É legítima a incidência do impôsto de transmissão \"inter vivos\" sôbre a transferência do domínio útil.",
+      "enunciado": "É legítima a incidência do impôsto de transmissão inter vivos sôbre a transferência do domínio útil.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -2622,7 +2624,7 @@
     },
     "327": {
       "numero": 327,
-      "enunciado": "O direito trabalhista admite a prescrição intercorrente.",
+      "enunciado": "O Direito Trabalhista admite a prescrição intercorrente.",
       "status": "ativa",
       "area": "Processual do Trabalho",
       "data": "13/12/1963",
@@ -2638,7 +2640,7 @@
     },
     "329": {
       "numero": 329,
-      "enunciado": "O impôsto de transmissão \"inter vivos\" não incide sôbre a transferência de ações de sociedade imobiliária.",
+      "enunciado": "O impôsto de transmissão inter vivos não incide sôbre a transferência de ações de sociedade imobiliária.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -2646,7 +2648,7 @@
     },
     "330": {
       "numero": 330,
-      "enunciado": "O Supremo Tribunal Federal não é competente para conhecer de mandado de segurança contra atos dos Tribunais de Justiça dos Estados.",
+      "enunciado": "O Supremo Tribunal Federal não é competente para conhecer de mandado de segurança contra atos dos tribunais de justiça dos Estados.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2654,7 +2656,7 @@
     },
     "331": {
       "numero": 331,
-      "enunciado": "É legítima a incidência do impôsto de transmissão \"causa mortis\" no inventário por morte presumida.",
+      "enunciado": "É legítima a incidência do impôsto de transmissão causa mortis no inventário por morte presumida.",
       "status": "ativa",
       "area": "Tributário",
       "data": "13/12/1963",
@@ -2710,7 +2712,7 @@
     },
     "338": {
       "numero": 338,
-      "enunciado": "Não cabe ação rescisória no âmbito da justiça do trabalho.",
+      "enunciado": "Não cabe ação rescisória no âmbito da Justiça do Trabalho.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2758,7 +2760,7 @@
     },
     "344": {
       "numero": 344,
-      "enunciado": "Sentença de primeira instância concessiva de habeas corpus, em caso de crime praticado em detrimento de bens, serviços ou interesses da União, está sujeita a recurso \"ex officio\".",
+      "enunciado": "Sentença de primeira instância concessiva de habeas corpus, em caso de crime praticado em detrimento de bens, serviços ou interesses da União, está sujeita a recurso ex officio.",
       "status": "ativa",
       "area": "Processual Penal",
       "data": "13/12/1963",
@@ -2774,7 +2776,7 @@
     },
     "346": {
       "numero": 346,
-      "enunciado": "A administração pública pode declarar a nulidade dos seus próprios atos.",
+      "enunciado": "A Administração Pública pode declarar a nulidade dos seus próprios atos.",
       "status": "ativa",
       "area": "Administrativo",
       "data": "13/12/1963",
@@ -2782,7 +2784,7 @@
     },
     "347": {
       "numero": 347,
-      "enunciado": "O Tribunal de Contas, no exercício de suas atribuições, pode apreciar a constitucionalidade das leis e dos atos do poder público.",
+      "enunciado": "O Tribunal de Contas, no exercício de suas atribuições, pode apreciar a constitucionalidade das leis e dos atos do Poder Público.",
       "status": "ativa",
       "area": "Constitucional",
       "data": "13/12/1963",
@@ -2814,7 +2816,7 @@
     },
     "351": {
       "numero": 351,
-      "enunciado": "É nula a citação por edital de réu prêso na mesma unidade da Federação em que o juiz exerce a sua jurisdição.",
+      "enunciado": "É nula a citação por edital de réu preso na mesma unidade da federação em que o juiz exerce a sua jurisdição.",
       "status": "ativa",
       "area": "Não classificado",
       "data": "13/12/1963",
@@ -2830,7 +2832,7 @@
     },
     "353": {
       "numero": 353,
-      "enunciado": "São incabíveis os embargos da L. 623, de 19.2.49, com fundamento em divergência entre decisões da mesma Turma do Supremo Tribunal Federal.",
+      "enunciado": "São incabíveis os embargos da Lei 623, de 19-2-1949, com fundamento em divergência entre decisões da mesma Turma do Supremo Tribunal Federal.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2846,7 +2848,7 @@
     },
     "355": {
       "numero": 355,
-      "enunciado": "Em caso de embargos infringentes parciais, é tardio o recurso extraordinário interposto após o julgamento dos embargos, quanto à parte da decisão embargada que não fôra por eles abrangida.",
+      "enunciado": "Em caso de embargos infringentes parciais, é tardio o recurso extraordinário interposto após o julgamento dos embargos, quanto à parte da decisão embargada que não fora por eles abrangida.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2854,7 +2856,7 @@
     },
     "356": {
       "numero": 356,
-      "enunciado": "O ponto omisso da decisão, sôbre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.",
+      "enunciado": "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2862,7 +2864,7 @@
     },
     "357": {
       "numero": 357,
-      "enunciado": "É lícita a convenção pela qual o locador renuncia, durante a vigência do contrato, à ação revisional do art. 31 do Decreto 24.150, de 20.4.34.",
+      "enunciado": "É lícita a convenção pela qual o locador renuncia, durante a vigência do contrato, à ação revisional do art. 31 do Decreto 24.150, de 20-4-1934.",
       "status": "ativa",
       "area": "Civil",
       "data": "13/12/1963",
@@ -2878,7 +2880,7 @@
     },
     "359": {
       "numero": 359,
-      "enunciado": "Ressalvada a revisão prevista em lei, os proventos da inatividade regulam-se pela lei vigente ao tempo em que o militar, ou o servidor civil, reuniu os requisitos necessários. (Alterada)",
+      "enunciado": "Ressalvada a revisão prevista em lei, os proventos da inatividade regulam-se pela lei vigente ao tempo em que o militar, ou o servidor civil, reuniu os requisitos necessários. (alterada)",
       "status": "alterada",
       "area": "Administrativo",
       "data": "13/12/1963",
@@ -2942,7 +2944,7 @@
     },
     "367": {
       "numero": 367,
-      "enunciado": "Concede-se liberdade ao extraditando que não fôr retirado do país no prazo do art. 16 do Decreto-lei. 394, de 28.4.38.",
+      "enunciado": "Concede-se liberdade ao extraditando que não for retirado do país no prazo do art. 16 do Decreto-Lei 394, de 28-4-1938.",
       "status": "ativa",
       "area": "Internacional",
       "data": "13/12/1963",
@@ -2958,7 +2960,7 @@
     },
     "369": {
       "numero": 369,
-      "enunciado": "Julgados do mesmo Tribunal não servem para fundamentar o recurso extraordinário por divergência jurisprudencial.",
+      "enunciado": "Julgados do mesmo tribunal não servem para fundamentar o recurso extraordinário por divergência jurisprudencial.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "13/12/1963",
@@ -2966,7 +2968,7 @@
     },
     "370": {
       "numero": 370,
-      "enunciado": "Julgada improcedente a ação renovatória da locação, terá o locatário, para desocupar o imóvel, o prazo de seis meses, acrescido de tantos meses quantos forem os anos da ocupação, até o limite total de dezoito meses.",
+      "enunciado": "Julgada improcedente a ação renovatória de locação, terá o locatário, para desocupar o imóvel, o prazo de seis meses, acrescido de tantos meses quantos forem os anos da ocupação, até o limite total de dezoito meses.",
       "status": "ativa",
       "area": "Civil",
       "data": "13/12/1963",
@@ -2982,7 +2984,7 @@
     },
     "372": {
       "numero": 372,
-      "enunciado": "A L. 2.752, de 10.4.56, sôbre dupla aposentadoria, aproveita, quando couber, a servidores aposentados antes de sua publicação.",
+      "enunciado": "A Lei 2.752, de 10-4-1956, sobre dupla aposentadoria, aproveita, quando couber, a servidores aposentados antes de sua publicação.",
       "status": "ativa",
       "area": "Não classificado",
       "data": "03/04/1964",
@@ -2990,7 +2992,7 @@
     },
     "373": {
       "numero": 373,
-      "enunciado": "Servidor nomeado após aprovação no curso de capacitação policial, instituído na Polícia do Distrito Federal, em 1941, preenche o requisito da nomeação por concurso a que se referem as Leis 705, de 16.5.49 e 1.639, de 14.7.52.",
+      "enunciado": "Servidor nomeado após aprovação no curso de capacitação policial, instituído na Polícia do Distrito Federal, em 1941, preenche o requisito da nomeação por concurso a que se referem as Leis 705, de 16-5-49 e 1.639, de 14-7-1952.",
       "status": "ativa",
       "area": "Administrativo",
       "data": "03/04/1964",
@@ -3006,7 +3008,7 @@
     },
     "375": {
       "numero": 375,
-      "enunciado": "Não renovada a locação regida pelo D. 24.150, de 20.4.34, aplica-se o direito comum e não a legislação especial do inquilinato.",
+      "enunciado": "Não renovada a locação regida pelo Decreto 24.150, de 20-4-1934, aplica-se o direito comum e não a legislação especial do inquilinato.",
       "status": "ativa",
       "area": "Civil",
       "data": "03/04/1964",
@@ -3014,7 +3016,7 @@
     },
     "376": {
       "numero": 376,
-      "enunciado": "Na renovação de locação, regida pelo D. 24.150, de 20.4.34, o prazo do nôvo contrato conta-se da transcrição da decisão exequenda no Registro de Títulos e Documentos; começa, porém, da terminação do contrato anterior, se esta tiver ocorrido antes do registro.",
+      "enunciado": "Na renovação de locação, regida pelo Decreto 24.150, de 20-4-1934, o prazo do nôvo contrato conta-se da transcrição da decisão exequenda no Registro de Títulos e Documentos; começa, porém, da terminação do contrato anterior, se esta tiver ocorrido antes do registro.",
       "status": "ativa",
       "area": "Civil",
       "data": "03/04/1964",
@@ -3046,7 +3048,7 @@
     },
     "380": {
       "numero": 380,
-      "enunciado": "Comprovada a existência de sociedade de fato entre os concubinos, é cabível a sua dissolução judicial, com a partilha do patrimônio adquirido pelo esfôrço comum.",
+      "enunciado": "Comprovada a existência de sociedade de fato entre os concubinos, é cabível a sua dissolução judicial, com a partilha do patrimônio adquirido pelo esforço comum.",
       "status": "ativa",
       "area": "Civil",
       "data": "03/04/1964",
@@ -3062,7 +3064,7 @@
     },
     "382": {
       "numero": 382,
-      "enunciado": "A vida em comum sob o mesmo teto, \"more uxorio\", não é indispensável à caracterização do concubinato.",
+      "enunciado": "A vida em comum sob o mesmo teto, more uxorio, não é indispensável à caracterização do concubinato.",
       "status": "ativa",
       "area": "Civil",
       "data": "03/04/1964",
@@ -3110,7 +3112,7 @@
     },
     "388": {
       "numero": 388,
-      "enunciado": "O casamento da ofendida com quem não seja o ofensor faz cessar a qualidade do seu representante legal, e a ação penal só pode prosseguir por iniciativa da própria ofendida, observados os prazos legais de decadência e perempção. (Revogada)",
+      "enunciado": "O casamento da ofendida com quem não seja o ofensor faz cessar a qualidade do seu representante legal, e a ação penal só pode prosseguir por iniciativa da própria ofendida, observados os prazos legais de decadência e perempção. (revogada)",
       "status": "cancelada",
       "area": "Processual Penal",
       "data": "03/04/1964",
@@ -3158,7 +3160,7 @@
     },
     "394": {
       "numero": 394,
-      "enunciado": "Cometido o crime durante o exercício funcional, prevalece a competência especial por prerrogativa de função, ainda que o inquérito ou a ação penal sejam iniciados após a cessação daquele exercício. (Cancelada)",
+      "enunciado": "Cometido o crime durante o exercício funcional, prevalece a competência especial por prerrogativa de função, ainda que o inquérito ou a ação penal sejam iniciados após a cessação daquele exercício. (cancelada)",
       "status": "cancelada",
       "area": "Processual Penal",
       "data": "03/04/1964",
@@ -3166,7 +3168,7 @@
     },
     "395": {
       "numero": 395,
-      "enunciado": "Não se conhece de recurso de \"habeas corpus\" cujo objeto seja resolver sôbre o ônus das custas, por não estar mais em causa a liberdade de locomoção.",
+      "enunciado": "Não se conhece de recurso de habeas corpus cujo objeto seja resolver sobre o ônus das custas, por não estar mais em causa a liberdade de locomoção.",
       "status": "ativa",
       "area": "Processual Penal",
       "data": "03/04/1964",
@@ -3198,7 +3200,7 @@
     },
     "399": {
       "numero": 399,
-      "enunciado": "Não cabe recurso extraordinário, por violação de lei federal, quando a ofensa alegada fôr a regimento de tribunal.",
+      "enunciado": "Não cabe recurso extraordinário, por violação de lei federal, quando a ofensa alegada for a regimento de tribunal.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "03/04/1964",
@@ -3206,7 +3208,7 @@
     },
     "400": {
       "numero": 400,
-      "enunciado": "Decisão que deu razoável interpretação à lei, ainda que não seja a melhor, não autoriza recurso extraordinário pela letra a do art. 101, III, da C.F.",
+      "enunciado": "Decisão que deu razoável interpretação à lei, ainda que não seja a melhor, não autoriza recurso extraordinário pela letra \"a\" do art. 101, III, da Constituição Federal.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "03/04/1964",
@@ -3238,7 +3240,7 @@
     },
     "404": {
       "numero": 404,
-      "enunciado": "Não contrariam a Constituição os arts 3º, 22 e 27 da L. 3.244, de 14.8.57, que definem as atribuições do Conselho de Política Aduaneira quanto à tarifa flexível.",
+      "enunciado": "Não contrariam a Constituição os arts. 3º, 22 e 27 da Lei 3.244, de 14-8-1957, que definem as atribuições do Conselho de Política Aduaneira quanto à tarifa flexível.",
       "status": "ativa",
       "area": "Tributário",
       "data": "03/04/1964",
@@ -3246,7 +3248,7 @@
     },
     "405": {
       "numero": 405,
-      "enunciado": "Denegado o mandado de segurança pela sentença, ou no julgamento do agravo, dela interposto, fica sem efeito a liminar concedida, retroagindo os efeitos da decisão contrária.",
+      "enunciado": "Denegado o mandado de segurança pela sentença, ou no julgamento do agravo dela interposto, fica sem efeito a liminar concedida, retroagindo os efeitos da decisão contrária.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "01/06/1964",
@@ -3358,7 +3360,7 @@
     },
     "419": {
       "numero": 419,
-      "enunciado": "Os Municípios têm competência para regular o horário do comércio local, desde que não infrinjam leis estaduais ou federais válidas.",
+      "enunciado": "Os municípios têm competência para regular o horário do comércio local, desde que não infrinjam leis estaduais ou federais válidas.",
       "status": "ativa",
       "area": "Administrativo",
       "data": "01/06/1964",
@@ -3390,7 +3392,7 @@
     },
     "423": {
       "numero": 423,
-      "enunciado": "Não transita em julgado a sentença por haver omitido o recurso \"ex officio\", que se considera interposto \"ex lege\".",
+      "enunciado": "Não transita em julgado a sentença por haver omitido o recurso ex officio, que se considera interposto ex lege.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "01/06/1964",
@@ -3422,7 +3424,7 @@
     },
     "427": {
       "numero": 427,
-      "enunciado": "A falta de petição de interposição não prejudica o agravo no auto do processo tomado por têrmo.",
+      "enunciado": "A falta de petição de interposição não prejudica o agravo no auto do processo tomado por termo.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "01/06/1964",
@@ -3454,7 +3456,7 @@
     },
     "431": {
       "numero": 431,
-      "enunciado": "É nulo o julgamento de recurso criminal, na segunda instância, sem prévia intimação, ou publicação da pauta, salvo em \"habeas corpus\".",
+      "enunciado": "É nulo o julgamento de recurso criminal, na segunda instância, sem prévia intimação, ou publicação da pauta, salvo em habeas corpus.",
       "status": "ativa",
       "area": "Processual Penal",
       "data": "01/06/1964",
@@ -3462,7 +3464,7 @@
     },
     "432": {
       "numero": 432,
-      "enunciado": "Não cabe recurso extraordinário com fundamento no art. 101, III, \"d\", da Constituição Federal, quando a divergência alegada fôr entre decisões da Justiça do Trabalho.",
+      "enunciado": "Não cabe recurso extraordinário com fundamento no art. 101, III, \"d\", da Constituição Federal, quando a divergência alegada for entre decisões da Justiça do Trabalho.",
       "status": "ativa",
       "area": "Processual do Trabalho",
       "data": "01/06/1964",
@@ -3486,7 +3488,7 @@
     },
     "435": {
       "numero": 435,
-      "enunciado": "O impôsto de transmissão \"causa mortis\" pela transferência de ações é devido ao Estado em que tem sede a companhia.",
+      "enunciado": "O impôsto de transmissão causa mortis pela transferência de ações é devido ao Estado em que tem sede a companhia.",
       "status": "ativa",
       "area": "Tributário",
       "data": "01/06/1964",
@@ -3494,7 +3496,7 @@
     },
     "436": {
       "numero": 436,
-      "enunciado": "É válida a L. 4.093, de 24.10.959, do Paraná, que revogou a isenção concedida às cooperativas por lei anterior.",
+      "enunciado": "É válida a Lei 4.093, de 24-10-1959, do Paraná, que revogou a isenção concedida às cooperativas por lei anterior.",
       "status": "ativa",
       "area": "Tributário",
       "data": "01/06/1964",
@@ -3550,7 +3552,7 @@
     },
     "443": {
       "numero": 443,
-      "enunciado": "A prescrição das prestações anteriores ao período previsto em lei não ocorre, quando não tiver sido negado, antes daquele prazo, o próprio direito reclamado, ou a situação jurídica de que êle resulta.",
+      "enunciado": "A prescrição das prestações anteriores ao período previsto em lei não ocorre, quando não tiver sido negado, antes daquele prazo, o próprio direito reclamado, ou a situação jurídica de que ele resulta.",
       "status": "ativa",
       "area": "Administrativo",
       "data": "01/10/1964",
@@ -3566,7 +3568,7 @@
     },
     "445": {
       "numero": 445,
-      "enunciado": "A L. 2.437, de 7.3.55, que reduz prazo prescricional, é aplicável às prescrições em curso na data de sua vigência (1.1.56), salvo quanto aos processos então pendentes.",
+      "enunciado": "A Lei 2.437, de 7-3-1955, que reduz prazo prescricional, é aplicável às prescrições em curso na data de sua vigência (1º-1-1956), salvo quanto aos processos então pendentes.",
       "status": "ativa",
       "area": "Civil",
       "data": "01/10/1964",
@@ -3618,11 +3620,11 @@
       "status": "ativa",
       "area": "Processual Penal",
       "data": "01/10/1964",
-      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula451/false"
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/seq-sumula452/false"
     },
     "452": {
       "numero": 452,
-      "enunciado": "Oficiais e praças do Corpo de Bombeiros do Estado da Guanabara respondem perante a Justiça Comum por crime anterior à L. 427, de 11.10.48.",
+      "enunciado": "Oficiais e praças do Corpo de Bombeiros do Estado da Guanabara respondem perante a Justiça Comum por crime anterior à Lei 427, de 11-10-1948.",
       "status": "ativa",
       "area": "Processual Penal",
       "data": "01/10/1964",
@@ -3750,7 +3752,7 @@
     },
     "468": {
       "numero": 468,
-      "enunciado": "Após a E. C. nº 5 de 21.11.61, em contrato firmado com a União, Estado, Município ou autarquia, é devido o impôsto federal de sêlo pelo contratante não protegido pela imunidade, ainda que haja repercussão do ônus tributário sôbre o patrimônio daquelas entidades.",
+      "enunciado": "Após a Emenda Constitucional 5 de 21-11-1961, em contrato firmado com a União, Estado, Município ou autarquia, é devido o impôsto federal de sêlo pelo contratante não protegido pela imunidade, ainda que haja repercussão do ônus tributário sôbre o patrimônio daquelas entidades.",
       "status": "ativa",
       "area": "Tributário",
       "data": "01/10/1964",
@@ -3766,7 +3768,7 @@
     },
     "470": {
       "numero": 470,
-      "enunciado": "O impôsto de transmissão \"inter vivos\" não incide sôbre a construção, ou parte dela, realizada, inequivocamente, pelo promitente comprador, mas sôbre o valor do que tiver sido construído antes da promessa de venda.",
+      "enunciado": "O imposto de transmissão \"inter vivos\" não incide sobre a construção, ou parte dela, realizada, inequivocamente, pelo promitente comprador, mas sobre o valor do que tiver sido construído antes da promessa de venda.",
       "status": "ativa",
       "area": "Tributário",
       "data": "01/10/1964",
@@ -3774,7 +3776,7 @@
     },
     "471": {
       "numero": 471,
-      "enunciado": "As emprêsas aeroviárias não estão isentas do impôsto de indústrias e profissões.",
+      "enunciado": "As empresas aeroviárias não estão isentas do imposto de indústrias e profissões.",
       "status": "ativa",
       "area": "Tributário",
       "data": "01/10/1964",
@@ -3790,7 +3792,7 @@
     },
     "473": {
       "numero": 473,
-      "enunciado": "A administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque dêles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial.",
+      "enunciado": "A administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial.",
       "status": "ativa",
       "area": "Administrativo",
       "data": "03/12/1969",
@@ -3806,7 +3808,7 @@
     },
     "475": {
       "numero": 475,
-      "enunciado": "A Lei nº 4.686, de 21-6-65, tem aplicação imediata aos processos em curso, inclusive em grau de recurso extraordinário.",
+      "enunciado": "A Lei 4.686, de 21-6-1965, tem aplicação imediata aos processos em curso, inclusive em grau de recurso extraordinário.",
       "status": "ativa",
       "area": "Administrativo",
       "data": "03/12/1969",
@@ -3846,7 +3848,7 @@
     },
     "480": {
       "numero": 480,
-      "enunciado": "Pertencem ao domínio e administração da União, nos têrmos dos arts. 4º, IV e 186, da Constituição Federal de 1967, as terras ocupadas por silvícolas.",
+      "enunciado": "Pertencem ao domínio e administração da União, nos termos dos arts. 4º, IV, e 186, da Constituição Federal de 1967, as terras ocupadas por silvículas.",
       "status": "ativa",
       "area": "Não classificado",
       "data": "03/12/1969",
@@ -3854,7 +3856,7 @@
     },
     "481": {
       "numero": 481,
-      "enunciado": "Se a locação compreende, além do imóvel, fundo de comércio, com instalações e pertences, como no caso de teatros, cinemas e hotéis, não se aplicam ao retomante as restrições do art. 8º, e, parágrafo único, do Decreto nº. 24.150, de 20.4.34.",
+      "enunciado": "Se a locação compreende, além do imóvel, fundo de comércio, com instalações e pertences, como no caso de teatros, cinemas e hotéis, não se aplicam ao retomante as restrições do art. 8°, e, parágrafo único, do Decreto 24.150, de 20-4-1934.",
       "status": "ativa",
       "area": "Civil",
       "data": "03/12/1969",
@@ -3862,7 +3864,7 @@
     },
     "482": {
       "numero": 482,
-      "enunciado": "O locatário, que não fôr sucessor ou cessionário do que o precedeu na locação, não pode somar os prazos concedidos a este, para pedir a renovação do contrato, nos termos do Decreto nº 24.150.",
+      "enunciado": "O locatário, que não fôr sucessor ou cessionário do que o precedeu na locação, não pode somar os prazos concedidos a este, para pedir a renovação do contrato, nos termos do Decreto 24.150.",
       "status": "ativa",
       "area": "Civil",
       "data": "03/12/1969",
@@ -3878,7 +3880,7 @@
     },
     "484": {
       "numero": 484,
-      "enunciado": "Pode, legitimamente, o proprietário pedir o prédio para a residência de filho, ainda que solteiro, de acordo com o art. 11, nº III, da Lei nº 4.494, de 25.11.64.",
+      "enunciado": "Pode, legitimamente, o proprietário pedir o prédio para a residência de filho, ainda que solteiro, de acordo com o art. 11, III, da Lei 4.494, de 25-11-1964.",
       "status": "ativa",
       "area": "Civil",
       "data": "03/12/1969",
@@ -3886,7 +3888,7 @@
     },
     "485": {
       "numero": 485,
-      "enunciado": "Nas locações regidas pelo Decreto nº 24.150, de 20 de abril de 1934, a presunção de sinceridade do retomante é relativa, podendo ser ilidida pelo locatário.",
+      "enunciado": "Nas locações regidas pelo Decreto 24.150, de 20-4-1934, a presunção de sinceridade do retomante é relativa, podendo ser ilidida pelo locatário.",
       "status": "ativa",
       "area": "Civil",
       "data": "03/12/1969",
@@ -3902,7 +3904,7 @@
     },
     "487": {
       "numero": 487,
-      "enunciado": "Será deferida a posse a quem, evidentemente, tiver o domínio, se com base neste fôr ela disputada.",
+      "enunciado": "Será deferida a posse a quem, evidentemente, tiver o domínio, se com base neste for ela disputada.",
       "status": "ativa",
       "area": "Civil",
       "data": "03/12/1969",
@@ -3910,7 +3912,7 @@
     },
     "488": {
       "numero": 488,
-      "enunciado": "A preferência a que se refere o art. 9º da Lei nº 3.912, de 3-7-1961, constitui direito pessoal. Sua violação resolve-se em perdas e danos.",
+      "enunciado": "A preferência a que se refere o art. 9° da Lei 3.912, de 3-7-1961, constitui direito pessoal. Sua violação resolve-se em perdas e danos.",
       "status": "ativa",
       "area": "Civil",
       "data": "03/12/1969",
@@ -3918,7 +3920,7 @@
     },
     "489": {
       "numero": 489,
-      "enunciado": "A compra e venda de automóvel não prevalece contra terceiros, de boa-fé, se o contrato não foi transcrito no Registro de Títulos e Documentos.",
+      "enunciado": "A compra e venda de automóvel não prevalece contra terceiros, de boa-fé, se o contrato não foi transcrito no registro de títulos e documentos.",
       "status": "ativa",
       "area": "Civil",
       "data": "03/12/1969",
@@ -3926,7 +3928,7 @@
     },
     "490": {
       "numero": 490,
-      "enunciado": "A pensão correspondente à indenização oriunda de responsabilidade civil deve ser calculada com base no salário-mínimo vigente ao tempo da sentença e ajustar-se-á às variações ulteriores.",
+      "enunciado": "A pensão correspondente à indenização oriunda de responsabilidade civil deve ser calculada com base no salário mínimo vigente ao tempo da sentença e ajustar-se-á às variações ulteriores.",
       "status": "ativa",
       "area": "Civil",
       "data": "03/12/1969",
@@ -3942,7 +3944,7 @@
     },
     "492": {
       "numero": 492,
-      "enunciado": "A emprêsa locadora de veículos responde, civil e solidariamente com o locatário, pelos danos por este causados a terceiro, no uso do carro locado.",
+      "enunciado": "A empresa locadora de veículos responde, civil e solidariamente com o locatário, pelos danos por este causados a terceiro, no uso do carro locado.",
       "status": "ativa",
       "area": "Civil",
       "data": "03/12/1969",
@@ -3950,7 +3952,7 @@
     },
     "493": {
       "numero": 493,
-      "enunciado": "O valor da indenização, se consistente em prestações periódicas e sucessivas, compreenderá, para que se mantenha inalterável na sua fixação, parcelas compensatórias do impôsto de renda, incidente sôbre os juros do capital gravado ou caucionado, nos termos dos arts. 911 e 912 do Código de Processo Civil.",
+      "enunciado": "O valor da indenização, se consistente em prestações periódicas e sucessivas, compreenderá, para que se mantenha inalterável na sua fixação, parcelas compensatórias do imposto de renda, incidente sobre os juros do capital gravado ou caucionado, nos termos dos arts. 911 e 912 do Código de Processo Civil.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "03/12/1969",
@@ -3958,7 +3960,7 @@
     },
     "494": {
       "numero": 494,
-      "enunciado": "A ação para anular venda de ascendente a descendente, sem consentimento dos demais, prescreve em vinte anos, contados da data do ato, revogada a Súmula nº 152.",
+      "enunciado": "A ação para anular venda de ascendente a descendente, sem consentimento dos demais, prescreve em vinte anos, contados da data do ato, revogada a Súmula 152.",
       "status": "ativa",
       "area": "Civil",
       "data": "03/12/1969",
@@ -4014,7 +4016,7 @@
     },
     "501": {
       "numero": 501,
-      "enunciado": "Compete à Justiça ordinária estadual o processo e o julgamento, em ambas as instâncias, das causas de acidente do trabalho, ainda que promovidas contra a União, suas autarquias, emprêsas públicas ou sociedades de economia mista.",
+      "enunciado": "Compete à Justiça Ordinária Estadual o processo e o julgamento, em ambas as instâncias, das causas de acidente do trabalho, ainda que promovidas contra a União, suas autarquias, empresas públicas ou sociedades de economia mista.",
       "status": "ativa",
       "area": "Processual do Trabalho",
       "data": "03/12/1969",
@@ -4022,7 +4024,7 @@
     },
     "502": {
       "numero": 502,
-      "enunciado": "Na aplicação do art. 839 do C. Pr. Civ., com a redação da Lei nº 4.290, de 5.12.63, a relação valor da causa e salário mínimo vigente na Capital do Estado, ou do Território, para o efeito de alçada, deve ser considerada na data do ajuizamento do pedido.",
+      "enunciado": "Na aplicação do art. 839 do Código de Processo Civil, com a redação da Lei 4.290, de 5-12-1963, a relação valor da causa e salário mínimo vigente na capital do Estado, ou do Território, para efeito de alçada, deve ser considerada na data do ajuizamento do pedido.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "03/12/1969",
@@ -4030,7 +4032,7 @@
     },
     "503": {
       "numero": 503,
-      "enunciado": "A dúvida, suscitada por particular, sôbre o direito de tributar, manifestado por dois Estados, não configura litígio da competência originária do Supremo Tribunal Federal.",
+      "enunciado": "A dúvida, suscitada por particular, sobre o direito de tributar, manifestado por dois Estados, não configura litígio da competência originária do Supremo Tribunal Federal.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "03/12/1969",
@@ -4046,7 +4048,7 @@
     },
     "505": {
       "numero": 505,
-      "enunciado": "Salvo quando contrariarem a Constituição, não cabe recurso para o Supremo Tribunal Federal, de quaisquer decisões da Justiça do Trabalho, inclusive dos presidentes de seus Tribunais.",
+      "enunciado": "Salvo quando contrariarem a Constituição, não cabe recurso para o Supremo Tribunal Federal, de quaisquer decisões da Justiça do Trabalho, inclusive dos presidentes de seus tribunais.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "03/12/1969",
@@ -4054,7 +4056,7 @@
     },
     "506": {
       "numero": 506,
-      "enunciado": "O agravo a que se refere o art. 4º da Lei nº 4.348, de 26.6.64, cabe, somente, do despacho do Presidente do Supremo Tribunal Federal que defere a suspensão da liminar, em mandado de segurança; não do que a denega.",
+      "enunciado": "O agravo a que se refere o art. 4º da Lei 4.348, de 26-6-1964, cabe, somente, do despacho do Presidente do Supremo Tribunal Federal que defere a suspensão da liminar, em mandado de segurança; não do que a \"denega\".",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "03/12/1969",
@@ -4070,7 +4072,7 @@
     },
     "508": {
       "numero": 508,
-      "enunciado": "Compete à Justiça Estadual, em ambas as instâncias, processar e julgar as causas em que fôr parte o Banco do Brasil S. A.",
+      "enunciado": "Compete à Justiça Estadual, em ambas as instâncias, processar e julgar as causas em que for parte o Banco do Brasil S.A.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "03/12/1969",
@@ -4078,7 +4080,7 @@
     },
     "509": {
       "numero": 509,
-      "enunciado": "A Lei nº 4.632, de 18.5.65, que alterou o art. 64 do Código de Processo Civil, aplica-se aos processos em andamento, nas instâncias ordinárias.",
+      "enunciado": "A Lei 4.632, de 18-05-1965, que alterou o art. 64 do Código de Processo Civil, aplica-se aos processos em andamento, nas instâncias ordinárias.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "03/12/1969",
@@ -4110,7 +4112,7 @@
     },
     "513": {
       "numero": 513,
-      "enunciado": "A decisão que enseja a interposição de recurso ordinário ou extraordinário não é a do plenário, que resolve o incidente de inconstitucionalidade, mas a do órgão (Câmaras, Grupos ou Turmas) que completa o julgamento do feito.",
+      "enunciado": "A decisão que enseja a interposição de recurso ordinário ou extraordinário não é a do plenário, que resolve o incidente de inconstitucionalidade, mas a do órgão (câmaras, grupos ou turmas) que completa o julgamento do feito.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "03/12/1969",
@@ -4134,7 +4136,7 @@
     },
     "516": {
       "numero": 516,
-      "enunciado": "O Serviço Social da Indústria - S. E. S. I. - está sujeito à jurisdição da Justiça Estadual.",
+      "enunciado": "O Serviço Social da Indústria (SESI) está sujeito à jurisdição da Justiça estadual.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "03/12/1969",
@@ -4142,7 +4144,7 @@
     },
     "517": {
       "numero": 517,
-      "enunciado": "As sociedades de economia mista só têm fôro na Justiça Federal, quando a União intervém como assistente ou opoente.",
+      "enunciado": "As sociedades de economia mista só têm foro na Justiça Federal, quando a União intervém como assistente ou opoente.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "03/12/1969",
@@ -4182,7 +4184,7 @@
     },
     "522": {
       "numero": 522,
-      "enunciado": "Salvo ocorrência de tráfico para o Exterior, quando, então, a competência será da Justiça Federal, compete à Justiça dos Estados o processo e julgamento dos crimes relativos a entorpecentes.",
+      "enunciado": "Salvo ocorrência de tráfico para o exterior, quando, então, a competência será da justiça federal, compete à justiça dos estados o processo e julgamento dos crimes relativos a entorpecentes.",
       "status": "ativa",
       "area": "Processual Penal",
       "data": "03/12/1969",
@@ -4214,7 +4216,7 @@
     },
     "526": {
       "numero": 526,
-      "enunciado": "Subsiste a competência do Supremo Tribunal Federal para conhecer e julgar a apelação, nos crimes da Lei de Segurança Nacional, se houve sentença antes da vigência do A.I. nº 2.",
+      "enunciado": "Subsiste a competência do Supremo Tribunal Federal para conhecer e julgar a apelação, nos crimes da Lei de Segurança Nacional, se houve sentença antes da vigência do A.I. n° 2.",
       "status": "ativa",
       "area": "Processual Penal",
       "data": "03/12/1969",
@@ -4222,7 +4224,7 @@
     },
     "527": {
       "numero": 527,
-      "enunciado": "Após a vigência do Ato Institucional nº 6, que deu nova redação ao art. 114, III, da Constituição Federal de 1967, não cabe recurso extraordinário das decisões do juiz singular.",
+      "enunciado": "Após a vigência do Ato Institucional 6, que deu nova redação ao art. 114, III, da Constituição Federal de 1967, não cabe recurso extraordinário das decisões do juiz singular.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "03/12/1969",
@@ -4230,7 +4232,7 @@
     },
     "528": {
       "numero": 528,
-      "enunciado": "Se a decisão contiver partes autônomas, a admissão parcial, pelo Presidente do Tribunal a quo, de recurso extraordinário que, sôbre qualquer delas se manifestar, não limitará a apreciação de tôdas pelo Supremo Tribunal Federal, independentemente de interposição de agravo de instrumento.",
+      "enunciado": "Se a decisão contiver partes autônomas, a admissão parcial, pelo presidente do tribunal a quo, de recurso extraordinário que, sobre qualquer delas se manifestar, não limitará a apreciação de todas pelo Supremo Tribunal Federal, independentemente de interposição de agravo de instrumento.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "03/12/1969",
@@ -4246,7 +4248,7 @@
     },
     "530": {
       "numero": 530,
-      "enunciado": "Na legislação anterior ao art. 4º da Lei nº 4.749, de 12-8-1965, a contribuição para a previdência social não estava sujeita ao limite estabelecido no art. 69 da Lei nº 3.807, de 26 de agosto de 1960, sôbre o 13º salário a que se refere o art. 3º da Lei nº 4.281, de 8-11-63.",
+      "enunciado": "Na legislação anterior ao art. 4º da Lei 4.749, de 12-08-1965, a contribuição para a previdência social não estava sujeita ao limite estabelecido no art. 69 da Lei 3.807, de 26-08-1960, sobre o 13º salário a que se refere o art. 3º da Lei 4.281, de 8-11-1963.",
       "status": "ativa",
       "area": "Previdenciário",
       "data": "03/12/1969",
@@ -4254,7 +4256,7 @@
     },
     "531": {
       "numero": 531,
-      "enunciado": "É inconstitucional o Decreto nº 51.668, de 17-1-1963, que estabeleceu salário profissional para trabalhadores de transportes marítimos, fluviais e lacustres.",
+      "enunciado": "É inconstitucional o Decreto 51668, de 17-01-1963, que estabeleceu salário profissional para trabalhadores de transportes marítimos, fluviais e lacustres.",
       "status": "ativa",
       "area": "Trabalhista",
       "data": "03/12/1969",
@@ -4262,7 +4264,7 @@
     },
     "532": {
       "numero": 532,
-      "enunciado": "É constitucional a Lei nº 5.043, de 21.6.66, que concedeu remissão das dívidas fiscais oriundas da falta de oportuno pagamento de sêlo nos contratos particulares com a Caixa Econômica e outras entidades autárquicas.",
+      "enunciado": "É constitucional a Lei 5.043, de 21-06-1966, que concedeu remissão das dívidas fiscais oriundas da falta de oportuno pagamento de sêlo nos contratos particulares com a Caixa Econômica e outras entidades autárquicas.",
       "status": "ativa",
       "area": "Tributário",
       "data": "03/12/1969",
@@ -4278,7 +4280,7 @@
     },
     "534": {
       "numero": 534,
-      "enunciado": "O impôsto de importação sôbre o extrato alcoólico de malte, como matéria-prima para fabricação de whisky, incide à base de 60%, desde que desembarcado antes do Ddecreto-lei nº 398, de 30.12.1968.",
+      "enunciado": "O imposto de importação sobre o extrato alcoólico de malte, como matéria-prima para fabricação de whisky, incide à base de 60%, desde que desembarcado antes do Decreto-lei 398, de 30-12-1968.",
       "status": "ativa",
       "area": "Tributário",
       "data": "03/12/1969",
@@ -4286,7 +4288,7 @@
     },
     "535": {
       "numero": 535,
-      "enunciado": "Na importação, a granel, de combustíveis líquidos é admíssivel a diferença de pêso, para mais, até 4%, motivada pelas variações previstas no Decreto-lei nº 1.028, de 4-1-1939, art. 1º.",
+      "enunciado": "Na importação, a granel, de combustíveis líquidos é admíssivel a diferença de pêso, para mais, até 4%, motivada pelas variações previstas no Decreto-lei 1.028, de 4-1-1939, art. 1º.",
       "status": "ativa",
       "area": "Tributário",
       "data": "03/12/1969",
@@ -4294,7 +4296,7 @@
     },
     "536": {
       "numero": 536,
-      "enunciado": "São objetivamente imunes ao impôsto sôbre circulação de mercadorias os produtos industrializados, em geral, destinados à exportação, além de outros, com a mesma destinação, cuja isenção a lei determinar.",
+      "enunciado": "São objetivamente imunes ao imposto sobre circulação de mercadorias os \"produtos industrializados\", em geral, destinados à exportação, além de outros, com a mesma destinação, cuja isenção a lei determinar.",
       "status": "ativa",
       "area": "Tributário",
       "data": "03/12/1969",
@@ -4310,7 +4312,7 @@
     },
     "538": {
       "numero": 538,
-      "enunciado": "A avaliação judicial para o efeito do cálculo das benfeitorias dedutíveis do impôsto sôbre lucro imobiliário independe do limite a que se refere a Lei nº 3.470, de 28-11-1958, art. 8º, parágrafo único.",
+      "enunciado": "A avaliação judicial para o efeito do cálculo das benfeitorias dedutíveis do impôsto sôbre lucro imobiliário independe do limite a que se refere a Lei 3.470, de 28-11-1958, art. 8º, parágrafo único.",
       "status": "ativa",
       "area": "Tributário",
       "data": "03/12/1969",
@@ -4318,7 +4320,7 @@
     },
     "539": {
       "numero": 539,
-      "enunciado": "É constitucional a lei do Município que reduz o impôsto predial urbano sôbre imóvel ocupado pela residência do proprietário, que não possua outro.",
+      "enunciado": "É constitucional a lei do Município que reduz o imposto predial urbano sobre imóvel ocupado pela residência do proprietário, que não possua outro.",
       "status": "ativa",
       "area": "Tributário",
       "data": "03/12/1969",
@@ -4326,7 +4328,7 @@
     },
     "540": {
       "numero": 540,
-      "enunciado": "No preço da mercadoria sujeita ao impôsto de vendas e consignações, não se incluem as despesas de frete e carreto.",
+      "enunciado": "No preço da mercadoria sujeita ao imposto de vendas e consignações, não se incluem as despesas de frete e carreto.",
       "status": "ativa",
       "area": "Tributário",
       "data": "03/12/1969",
@@ -4334,7 +4336,7 @@
     },
     "541": {
       "numero": 541,
-      "enunciado": "O impôsto sôbre vendas e consignações não incide sôbre a venda ocasional de veículos e equipamentos usados, que não se insere na atividade profissional do vendedor, e não é realizada com o fim de lucro, sem caráter, pois, de comercialidade.",
+      "enunciado": "O imposto sobre vendas e consignações não incide sobre a venda ocasional de veículos e equipamentos usados, que não se insere na atividade profissional do vendedor, e não é realizada com o fim de lucro, sem caráter, pois, de comercialidade.",
       "status": "ativa",
       "area": "Tributário",
       "data": "03/12/1969",
@@ -4350,7 +4352,7 @@
     },
     "543": {
       "numero": 543,
-      "enunciado": "A Lei nº 2.975, de 27-11-1965, revogou, apenas, as isenções de caráter geral, relativas ao impôsto único sôbre combustíveis, não as especiais, por outras leis concedidas.",
+      "enunciado": "A Lei 2.975, de 27-11-1965, revogou, apenas, as isenções de caráter geral, relativas ao impôsto único sôbre combustíveis, não as especiais, por outras leis concedidas.",
       "status": "ativa",
       "area": "Tributário",
       "data": "03/12/1969",
@@ -4374,7 +4376,7 @@
     },
     "546": {
       "numero": 546,
-      "enunciado": "Cabe a restituição do tributo pago indevidamente, quando reconhecido por decisão, que o contribuinte de jure não recuperou do contribuinte de facto o quantum respectivo.",
+      "enunciado": "Cabe a restituição do tributo pago indevidamente, quando reconhecido por decisão, que o contribuinte \"de jure\" não recuperou do contribuinte \"de facto\" o \"quantum\" respectivo.",
       "status": "ativa",
       "area": "Tributário",
       "data": "03/12/1969",
@@ -4390,7 +4392,7 @@
     },
     "548": {
       "numero": 548,
-      "enunciado": "É inconstitucional o Decreto-lei nº 643, de 19.6.47, artigo 4º, do Paraná, na parte que exige sêlo proporcional sôbre atos e instrumentos regulados por lei federal.",
+      "enunciado": "É inconstitucional o Decreto-lei 643, de 19-6-1947, artigo 4º, do Paraná, na parte que exige sêlo proporcional sôbre atos e instrumentos regulados por lei federal.",
       "status": "ativa",
       "area": "Tributário",
       "data": "03/12/1969",
@@ -4398,7 +4400,7 @@
     },
     "549": {
       "numero": 549,
-      "enunciado": "A Taxa de Bombeiros do Estado de Pernambuco é constitucional, revogada a Súmula nº 274.",
+      "enunciado": "A taxa de bombeiros do Estado de Pernambuco é constitucional, revogada a Súmula 274.",
       "status": "ativa",
       "area": "Tributário",
       "data": "03/12/1969",
@@ -4406,7 +4408,7 @@
     },
     "550": {
       "numero": 550,
-      "enunciado": "A isenção concedida pelo art. 2º da Lei nº 1.815 de 1953, às emprêsas de navegação aérea não compreende a taxa de melhoramento de portos, instituída pela Lei nº 3.421 de 1958.",
+      "enunciado": "A isenção concedida pelo art. 2º da Lei 1.815 de 1953, às emprêsas de navegação aérea não compreende a taxa de melhoramento de portos, instituída pela Lei 3.421 de 1958.",
       "status": "ativa",
       "area": "Tributário",
       "data": "03/12/1969",
@@ -4414,7 +4416,7 @@
     },
     "551": {
       "numero": 551,
-      "enunciado": "É inconstitucional a taxa de urbanização da Lei número 2.320, de 20-12-1961, instituída pelo Município de Pôrto Alegre, porque seu fato gerador é o mesmo da transmissão imobiliária.",
+      "enunciado": "É inconstitucional a taxa de urbanização da Lei 2.320, de 20-12-1961, instituída pelo Município de Pôrto Alegre, porque seu fato gerador é o mesmo da transmissão imobiliária.",
       "status": "ativa",
       "area": "Tributário",
       "data": "03/12/1969",
@@ -4422,7 +4424,7 @@
     },
     "552": {
       "numero": 552,
-      "enunciado": "Com a regulamentação do art. 15 da Lei nº 5.316/67, pelo Decreto 71.037/72, tornou-se exeqüível a exigência da exaustão da via administrativa antes do início da ação de acidente do trabalho.",
+      "enunciado": "Com a regulamentação do art. 15 da Lei 5.316/1967, pelo Decreto 71.037/1972, tornou-se exequível a exigência da exaustão da via administrativa antes do início da ação de acidente do trabalho.",
       "status": "ativa",
       "area": "Processual do Trabalho",
       "data": "15/12/1976",
@@ -4430,7 +4432,7 @@
     },
     "553": {
       "numero": 553,
-      "enunciado": "O Adicional ao Frete para Renovação da Marinha Mercante (AFRMM) é contribuição parafiscal, não sendo abrangido pela imunidade prevista na letra d, inciso III, do art. 19, da Constituição Federal.",
+      "enunciado": "O Adicional ao Frete para Renovação da Marinha Mercante (AFRMM) é contribuição parafiscal, não sendo abrangido pela imunidade prevista na letra \"d\", III, do art. 19 da Constituição Federal.",
       "status": "ativa",
       "area": "Tributário",
       "data": "15/12/1976",
@@ -4454,7 +4456,7 @@
     },
     "556": {
       "numero": 556,
-      "enunciado": "É competente a Justiça comum para julgar as causas em que é parte sociedade de economia mista.",
+      "enunciado": "É competente a Justiça Comum para julgar as causas em que é parte sociedade de economia mista.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "15/12/1976",
@@ -4470,7 +4472,7 @@
     },
     "558": {
       "numero": 558,
-      "enunciado": "É constitucional o art. 27 do Decreto-lei 898, de 29.9.69.",
+      "enunciado": "É constitucional o art. 27 do Decreto-lei 898, de 29-9-1969.",
       "status": "ativa",
       "area": "Penal",
       "data": "15/12/1976",
@@ -4478,7 +4480,7 @@
     },
     "559": {
       "numero": 559,
-      "enunciado": "O Decreto-lei 730, de 5.8.69, revogou a exigência de homologação, pelo Ministro da Fazenda, das Resoluções do Conselho de Política Aduaneira.",
+      "enunciado": "O Decreto-lei 730, de 5-8-1969, revogou a exigência de homologação, pelo Ministro da Fazenda, das Resoluções do Conselho de Política Aduaneira.",
       "status": "ativa",
       "area": "Tributário",
       "data": "15/12/1976",
@@ -4486,7 +4488,7 @@
     },
     "560": {
       "numero": 560,
-      "enunciado": "A extinção de punibilidade, pelo pagamento do tributo devido, estende-se ao crime de contrabando ou descaminho, por força do art. 18, § 2º, do Decreto-lei 157/67.",
+      "enunciado": "A extinção de punibilidade, pelo pagamento do tributo devido, estende-se ao crime de contrabando ou descaminho, por força do art. 18, § 2º, do Decreto-Lei 157/1967.",
       "status": "ativa",
       "area": "Penal",
       "data": "15/12/1976",
@@ -4510,7 +4512,7 @@
     },
     "563": {
       "numero": 563,
-      "enunciado": "O concurso de preferência a que se refere o parágrafo único do art. 187 do Código Tributário Nacional é compatível com o disposto no art. 9º, inciso I, da Constituição Federal. (Cancelada)",
+      "enunciado": "O concurso de preferência a que se refere o parágrafo único do art. 187 do Código Tributário Nacional é compatível com o disposto no art. 9º, I, da Constituição Federal. (cancelada)",
       "status": "cancelada",
       "area": "Tributário",
       "data": "15/12/1976",
@@ -4542,7 +4544,7 @@
     },
     "567": {
       "numero": 567,
-      "enunciado": "A constituição, ao assegurar, no § 3º do art. 102, a contagem integral do tempo de serviço público federal, estadual ou municipal para os efeitos de aposentadoria e disponibilidade não proíbe à União, aos Estados e aos Municípios mandarem contar, mediante lei, para efeito diverso, tempo de serviço prestado a outra pessoa de direito público interno.",
+      "enunciado": "A Constituição, ao assegurar, no § 3º do art. 102, a contagem integral do tempo de serviço público federal, estadual ou municipal para os efeitos de aposentadoria e disponibilidade não proíbe à União, aos Estados e aos Municípios mandarem contar, mediante lei, para efeito diverso, tempo de serviço prestado a outra pessoa de direito público interno.",
       "status": "ativa",
       "area": "Administrativo",
       "data": "15/12/1976",
@@ -4566,7 +4568,7 @@
     },
     "570": {
       "numero": 570,
-      "enunciado": "O impôsto de circulação de mercadorias não incide sobre a importação de bens de capital.",
+      "enunciado": "O imposto de circulação de mercadorias não incide sobre a importação de bens de capital.",
       "status": "ativa",
       "area": "Tributário",
       "data": "15/12/1976",
@@ -4606,7 +4608,7 @@
     },
     "575": {
       "numero": 575,
-      "enunciado": "À mercadoria importada de país signatário do GATT, ou membro da ALALC, estende-se a isenção do imposto de circulação de mercadorias concedida a similar nacional.",
+      "enunciado": "À mercadoria importada de país signatário do GATT, ou membro da ALALC, estende-se a isenção do imposto sobre circulação de mercadorias concedida a similar nacional.",
       "status": "ativa",
       "area": "Tributário",
       "data": "15/12/1976",
@@ -4614,7 +4616,7 @@
     },
     "576": {
       "numero": 576,
-      "enunciado": "É lícita a cobrança do imposto de circulação de mercadorias sobre produtos importados sob o regime da alíquota \"zero\".",
+      "enunciado": "É lícita a cobrança do imposto sobre circulação de mercadorias sobre produtos importados sob o regime da alíquota \"zero\".",
       "status": "ativa",
       "area": "Tributário",
       "data": "15/12/1976",
@@ -4646,7 +4648,7 @@
     },
     "580": {
       "numero": 580,
-      "enunciado": "A isenção prevista no art. 13, parágrafo único, do Decreto-lei 43/66, restringe-se aos filmes cinematográficos.",
+      "enunciado": "A isenção prevista no art. 13, parágrafo único, do Decreto-lei 43/1966, restringe-se aos filmes cinematográficos.",
       "status": "ativa",
       "area": "Tributário",
       "data": "15/12/1976",
@@ -4654,7 +4656,7 @@
     },
     "581": {
       "numero": 581,
-      "enunciado": "A exigência de transporte em navio de bandeira brasileira, para efeito de isenção tributária, legitimou-se com o advento do Decreto-lei nº 666, de 2.7.69.",
+      "enunciado": "A exigência de transporte em navio de bandeira brasileira, para efeito de isenção tributária, legitimou-se com o advento do Decreto-lei nº 666, de 2-7-1969.",
       "status": "ativa",
       "area": "Tributário",
       "data": "15/12/1976",
@@ -4670,7 +4672,7 @@
     },
     "583": {
       "numero": 583,
-      "enunciado": "Promitente-Comprador de imóvel residencial transcrito em nome de autarquia é contribuinte do imposto predial territorial urbano.",
+      "enunciado": "Promitente comprador de imóvel residencial transcrito em nome de autarquia é contribuinte do imposto predial territorial urbano.",
       "status": "ativa",
       "area": "Tributário",
       "data": "15/12/1976",
@@ -4678,7 +4680,7 @@
     },
     "584": {
       "numero": 584,
-      "enunciado": "Ao imposto de renda calculado sobre os rendimentos do ano-base, aplica-se a lei vigente no exercício financeiro em que deve ser apresentada a declaração. (Cancelada)",
+      "enunciado": "Ao imposto de renda calculado sobre os rendimentos do ano-base, aplica-se a lei vigente no exercício financeiro em que deve ser apresentada a declaração. (cancelada)",
       "status": "cancelada",
       "area": "Tributário",
       "data": "15/12/1976",
@@ -4774,7 +4776,7 @@
     },
     "596": {
       "numero": 596,
-      "enunciado": "As disposições do Decreto 22.626/33 não se aplicam às taxas de juros e aos outros encargos cobrados nas operações realizadas por instituições públicas ou privadas, que integram o sistema financeiro nacional.",
+      "enunciado": "As disposições do Decreto 22.626/1933 não se aplicam às taxas de juros e aos outros encargos cobrados nas operações realizadas por instituições públicas ou privadas, que integram o Sistema Financeiro Nacional.",
       "status": "ativa",
       "area": "Civil",
       "data": "15/12/1976",
@@ -4782,7 +4784,7 @@
     },
     "597": {
       "numero": 597,
-      "enunciado": "Não cabem embargos infringentes de acórdão que, em mandado de segurança decidiu, por maioria de votos, a apelação.",
+      "enunciado": "Não cabem embargos infringentes de acórdão que, em mandado de segurança, decidiu, por maioria de votos, a apelação.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "15/12/1976",
@@ -4798,7 +4800,7 @@
     },
     "599": {
       "numero": 599,
-      "enunciado": "São incabíveis embargos de divergência de decisão de turma, em agravo regimental. (Cancelada)",
+      "enunciado": "São incabíveis embargos de divergência de decisão de Turma, em Agravo Regimental. (cancelada)",
       "status": "cancelada",
       "area": "Processual Civil",
       "data": "15/12/1976",
@@ -4814,7 +4816,7 @@
     },
     "601": {
       "numero": 601,
-      "enunciado": "Os arts. 3º, II, e 55 da Lei Complementar nº 40/81 (Lei Orgânica do Ministério Público) não revogaram a legislação anterior que atribui a iniciativa para a ação penal pública, no processo sumário, ao juiz ou à autoridade policial, mediante Portaria ou Auto de Prisão em Flagrante.",
+      "enunciado": "Os arts. 3°, II, e 55 da Lei Complementar 40/1981 (Lei Orgânica do Ministério Público) não revogaram a legislação anterior que atribui a iniciativa para a ação penal pública, no processo sumário, ao juiz ou à autoridade policial, mediante Portaria ou Auto de Prisão em Flagrante.",
       "status": "ativa",
       "area": "Processual Penal",
       "data": "17/10/1984",
@@ -4830,7 +4832,7 @@
     },
     "603": {
       "numero": 603,
-      "enunciado": "A competência para o processo e julgamento de latrocínio é do Juiz singular e não do Tribunal do Júri.",
+      "enunciado": "A competência para o processo e julgamento de latrocínio é do juiz singular e não do tribunal do júri.",
       "status": "ativa",
       "area": "Processual Penal",
       "data": "17/10/1984",
@@ -4862,7 +4864,7 @@
     },
     "607": {
       "numero": 607,
-      "enunciado": "Na ação penal regida pela Lei nº 4611/65, a denúncia, como substitutivo da Portaria, não interrompe a prescrição.",
+      "enunciado": "Na ação penal regida pela Lei 4.611/1965, a denúncia, como substitutivo da portaria, não interrompe a prescrição.",
       "status": "ativa",
       "area": "Processual Penal",
       "data": "17/10/1984",
@@ -4894,7 +4896,7 @@
     },
     "611": {
       "numero": 611,
-      "enunciado": "Transitada em julgado a sentença condenatória, compete ao Juízo das execuções a aplicação de lei mais benigna.",
+      "enunciado": "Transitada em julgado a sentença condenatória, compete ao juízo das execuções a aplicação de lei mais benigna.",
       "status": "ativa",
       "area": "Penal",
       "data": "17/10/1984",
@@ -4910,7 +4912,7 @@
     },
     "613": {
       "numero": 613,
-      "enunciado": "Os dependentes de trabalhador rural não têm direito à pensão previdenciária, se o óbito ocorreu anteriormente à vigência da Lei Complementar nº 11/71.",
+      "enunciado": "Os dependentes de trabalhador rural não têm direito à pensão previdenciária, se o óbito ocorreu anteriormente à vigência da Lei Complementar 11/1971.",
       "status": "ativa",
       "area": "Previdenciário",
       "data": "17/10/1984",
@@ -4926,7 +4928,7 @@
     },
     "615": {
       "numero": 615,
-      "enunciado": "O princípio constitucional da anualidade (§ 29 do art. 153 da CF) não se aplica à revogação de isenção do ICM.",
+      "enunciado": "O princípio constitucional da anualidade (§ 29 do art. 153 da Constituição Federal) não se aplica à revogação de isenção do ICM.",
       "status": "ativa",
       "area": "Tributário",
       "data": "17/10/1984",
@@ -4958,7 +4960,7 @@
     },
     "619": {
       "numero": 619,
-      "enunciado": "A prisão do depositário judicial pode ser decretada no próprio processo em que se constituiu o encargo, independentemente da propositura de ação de depósito. (Revogada)",
+      "enunciado": "A prisão do depositário judicial pode ser decretada no próprio processo em que se constituiu o encargo, independentemente da propositura de ação de depósito. (revogada)",
       "status": "cancelada",
       "area": "Constitucional",
       "data": "17/10/1984",
@@ -4974,7 +4976,7 @@
     },
     "621": {
       "numero": 621,
-      "enunciado": "Não enseja embargos de terceiro à penhora a promessa de compra e venda não inscrita no registro de imóveis.",
+      "enunciado": "Não enseja Embargos de Terceiro à penhora a promessa de compra e venda não inscrita no registro de imóveis.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "17/10/1984",
@@ -4982,7 +4984,7 @@
     },
     "622": {
       "numero": 622,
-      "enunciado": "Não cabe agravo regimental contra decisão do relator que concede ou indefere liminar em mandado de segurança.",
+      "enunciado": "Não cabe Agravo Regimental contra decisão do relator que concede ou indefere liminar em Mandado de Segurança.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "24/09/2003",
@@ -4990,7 +4992,7 @@
     },
     "623": {
       "numero": 623,
-      "enunciado": "Não gera por si só a competência originária do Supremo Tribunal Federal para conhecer do mandado de segurança com base no art. 102, I, n, da Constituição, dirigir-se o pedido contra deliberação administrativa do tribunal de origem, da qual haja participado a maioria ou a totalidade de seus membros.",
+      "enunciado": "Não gera por si só a competência originária do Supremo Tribunal Federal para conhecer do mandado de segurança com base no art. 102, I, \"n\", da Constituição, dirigir-se o pedido contra deliberação administrativa do tribunal de origem, da qual haja participado a maioria ou a totalidade de seus membros.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "24/09/2003",
@@ -5070,7 +5072,7 @@
     },
     "633": {
       "numero": 633,
-      "enunciado": "É incabível a condenação em verba honorária nos recursos extraordinários interpostos em processo trabalhista, exceto nas hipóteses previstas na Lei 5.584/70.",
+      "enunciado": "É incabível a condenação em verba honorária nos recursos extraordinários interpostos em processo trabalhista, exceto nas hipóteses previstas na Lei 5584/1970.",
       "status": "ativa",
       "area": "Processual do Trabalho",
       "data": "24/09/2003",
@@ -5086,7 +5088,7 @@
     },
     "635": {
       "numero": 635,
-      "enunciado": "Cabe ao Presidente do Tribunal de origem decidir o pedido de medida cautelar em recurso extraordinário ainda pendente do seu juízo de admissibilidade.",
+      "enunciado": "Cabe ao presidente do tribunal de origem decidir o pedido de medida cautelar em recurso extraordinário ainda pendente do seu juízo de admissibilidade.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "24/09/2003",
@@ -5102,7 +5104,7 @@
     },
     "637": {
       "numero": 637,
-      "enunciado": "Não cabe recurso extraordinário contra acórdão de Tribunal de Justiça que defere pedido de intervenção estadual em Município.",
+      "enunciado": "Não cabe recurso extraordinário contra acórdão de tribunal de justiça que defere pedido de intervenção estadual em município.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "24/09/2003",
@@ -5166,7 +5168,7 @@
     },
     "645": {
       "numero": 645,
-      "enunciado": "É competente o Município para fixar o horário de funcionamento de estabelecimento comercial.",
+      "enunciado": "É competente o município para fixar o horário de funcionamento de estabelecimento comercial.",
       "status": "ativa",
       "area": "Administrativo",
       "data": "24/09/2003",
@@ -5190,7 +5192,7 @@
     },
     "648": {
       "numero": 648,
-      "enunciado": "A norma do § 3º do art. 192 da Constituição, revogada pela EC 40/2003, que limitava a taxa de juros reais a 12% ao ano, tinha sua aplicabilidade condicionada à edição de lei complementar.",
+      "enunciado": "A norma do § 3º do art. 192 da Constituição, revogada pela Emenda Constitucional 40/2003, que limitava a taxa de juros reais a 12% ao ano, tinha sua aplicabilidade condicionada à edição de Lei Complementar.",
       "status": "ativa",
       "area": "Constitucional",
       "data": "24/09/2003",
@@ -5198,7 +5200,7 @@
     },
     "649": {
       "numero": 649,
-      "enunciado": "É inconstitucional a criação, por Constituição estadual, de órgão de controle administrativo do Poder Judiciário do qual participem representantes de outros Poderes ou entidades.",
+      "enunciado": "É inconstitucional a criação, por Constituição Estadual, de órgão de controle administrativo do Poder Judiciário do qual participem representantes de outros poderes ou entidades.",
       "status": "ativa",
       "area": "Constitucional",
       "data": "24/09/2003",
@@ -5206,7 +5208,7 @@
     },
     "650": {
       "numero": 650,
-      "enunciado": "Os incisos I e XI do art. 20 da CF não alcançam terras de aldeamentos extintos, ainda que ocupadas por indígenas em passado remoto.",
+      "enunciado": "Os incisos I e XI do art. 20 da Constituição Federal não alcançam terras de aldeamentos extintos, ainda que ocupadas por indígenas em passado remoto.",
       "status": "ativa",
       "area": "Administrativo",
       "data": "24/09/2003",
@@ -5214,7 +5216,7 @@
     },
     "651": {
       "numero": 651,
-      "enunciado": "A medida provisória não apreciada pelo Congresso Nacional podia, até a EC 32/2001, ser reeditada dentro do seu prazo de eficácia de trinta dias, mantidos os efeitos de lei desde a primeira edição.",
+      "enunciado": "A medida provisória não apreciada pelo Congresso Nacional podia, até a Emenda Constitucional 32/2001, ser reeditada dentro do seu prazo de eficácia de trinta dias, mantidos os efeitos de lei desde a primeira edição.",
       "status": "ativa",
       "area": "Constitucional",
       "data": "24/09/2003",
@@ -5222,7 +5224,7 @@
     },
     "652": {
       "numero": 652,
-      "enunciado": "Não contraria a Constituição o art. 15, § 1º, do Dl. 3.365/41 (Lei da Desapropriação por utilidade pública).",
+      "enunciado": "Não contraria a Constituição o art. 15, § 1º, do Decreto-lei 3365/1941 (Lei da desapropriação por utilidade pública).",
       "status": "ativa",
       "area": "Administrativo",
       "data": "24/09/2003",
@@ -5230,7 +5232,7 @@
     },
     "653": {
       "numero": 653,
-      "enunciado": "No Tribunal de Contas estadual, composto por sete conselheiros, quatro devem ser escolhidos pela Assembléia Legislativa e três pelo Chefe do Poder Executivo estadual, cabendo a este indicar um dentre auditores e outro dentre membros do Ministério Público, e um terceiro a sua livre escolha.",
+      "enunciado": "No Tribunal de Contas Estadual, composto por sete conselheiros, quatro devem ser escolhidos pela Assembléia Legislativa e três pelo chefe do Poder Executivo estadual, cabendo a este indicar um dentre auditores e outro dentre membros do Ministério Público, e um terceiro a sua livre escolha.",
       "status": "ativa",
       "area": "Constitucional",
       "data": "24/09/2003",
@@ -5238,7 +5240,7 @@
     },
     "654": {
       "numero": 654,
-      "enunciado": "A garantia da irretroatividade da lei, prevista no art 5º, XXXVI, da Constituição da República, não é invocável pela entidade estatal que a tenha editado.",
+      "enunciado": "A garantia da irretroatividade da lei, prevista no art. 5º, XXXVI, da Constituição da República, não é invocável pela entidade estatal que a tenha editado.",
       "status": "ativa",
       "area": "Constitucional",
       "data": "24/09/2003",
@@ -5262,7 +5264,7 @@
     },
     "657": {
       "numero": 657,
-      "enunciado": "A imunidade prevista no art. 150, VI, d, da Constituição Federal abrange os filmes e papéis fotográficos necessários à publicação de jornais e periódicos.",
+      "enunciado": "A imunidade prevista no art. 150, VI, \"d\", da Constituição Federal abrange os filmes e papéis fotográficos necessários à publicação de jornais e periódicos.",
       "status": "ativa",
       "area": "Tributário",
       "data": "24/09/2003",
@@ -5270,7 +5272,7 @@
     },
     "658": {
       "numero": 658,
-      "enunciado": "São constitucionais os arts. 7º da Lei 7.787/89 e 1º da Lei 7.894/89 e da Lei 8.147/90, que majoraram a alíquota do Finsocial, quando devida a contribuição por empresas dedicadas exclusivamente à prestação de serviços.",
+      "enunciado": "São constitucionais os arts. 7º da Lei 7.787/1989 e 1º da Lei 7.894/1989 e da Lei 8.147/1990, que majoraram a alíquota do FINSOCIAL, quando devida a contribuição por empresas dedicadas exclusivamente à prestação de serviços.",
       "status": "ativa",
       "area": "Tributário",
       "data": "24/09/2003",
@@ -5278,7 +5280,7 @@
     },
     "659": {
       "numero": 659,
-      "enunciado": "É legítima a cobrança da COFINS, do PIS e do FINSOCIAL sobre as operações relativas a energia elétrica, serviços de telecomunicações, derivados de petróleo, combustíveis e minerais do País.",
+      "enunciado": "É legítima a cobrança da Cofins, do PIS e do Finsocial sobre as operações relativas a energia elétrica, serviços de telecomunicações, derivados de petróleo, combustíveis e minerais do país.",
       "status": "ativa",
       "area": "Tributário",
       "data": "24/09/2003",
@@ -5310,7 +5312,7 @@
     },
     "663": {
       "numero": 663,
-      "enunciado": "Os §§ 1º e 3º do art. 9º do Dl. 406/68 foram recebidos pela Constituição.",
+      "enunciado": "Os §§ 1º e 3º do art. 9º do Decreto-Lei 406/1968 foram recebidos pela Constituição.",
       "status": "ativa",
       "area": "Tributário",
       "data": "24/09/2003",
@@ -5318,7 +5320,7 @@
     },
     "664": {
       "numero": 664,
-      "enunciado": "É inconstitucional o inciso V do art. 1º da Lei 8.033/90, que instituiu a incidência do imposto nas operações de crédito, câmbio e seguros - IOF sobre saques efetuados em caderneta de poupança.",
+      "enunciado": "É inconstitucional o inciso V do art. 1º da Lei 8.033/1990, que instituiu a incidência do imposto nas operações de crédito, câmbio e seguros - IOF sobre saques efetuados em caderneta de poupança.",
       "status": "ativa",
       "area": "Tributário",
       "data": "24/09/2003",
@@ -5326,7 +5328,7 @@
     },
     "665": {
       "numero": 665,
-      "enunciado": "É constitucional a Taxa de Fiscalização dos Mercados de Títulos e Valores Mobiliários instituída pela Lei 7.940/89.",
+      "enunciado": "É constitucional a taxa de fiscalização dos mercados de títulos e valores mobiliários instituída pela Lei 7.940/1989.",
       "status": "ativa",
       "area": "Tributário",
       "data": "24/09/2003",
@@ -5382,7 +5384,7 @@
     },
     "672": {
       "numero": 672,
-      "enunciado": "O reajuste de 28,86%, concedido aos servidores militares pelas Leis 8.622/93 e 8.627/93, estende-se aos servidores civis do Poder Executivo, observadas as eventuais compensações decorrentes dos reajustes diferenciados concedidos pelos mesmos diplomas legais.",
+      "enunciado": "O reajuste de 28,86%, concedido aos servidores militares pelas leis 8622/1993 e 8627/1993, estende-se aos servidores civis do Poder Executivo, observadas as eventuais compensações decorrentes dos reajustes diferenciados concedidos pelos mesmos diplomas legais.",
       "status": "ativa",
       "area": "Administrativo",
       "data": "24/09/2003",
@@ -5398,7 +5400,7 @@
     },
     "674": {
       "numero": 674,
-      "enunciado": "A anistia prevista no art. 8º do ADCT não alcança os militares expulsos com base em legislação disciplinar ordinária, ainda que em razão de atos praticados por motivação política.",
+      "enunciado": "A anistia prevista no art. 8º do Ato das Disposições Constitucionais Transitórias não alcança os militares expulsos com base em legislação disciplinar ordinária, ainda que em razão de atos praticados por motivação política.",
       "status": "ativa",
       "area": "Militar",
       "data": "24/09/2003",
@@ -5414,7 +5416,7 @@
     },
     "676": {
       "numero": 676,
-      "enunciado": "A garantia da estabilidade provisória prevista no art. 10, II, a, do ADCT, também se aplica ao suplente do cargo de direção de comissões internas de prevenção de acidentes (CIPA).",
+      "enunciado": "A garantia da estabilidade provisória prevista no art. 10, II, \"a\", do Ato das Disposições Constitucionais Transitórias, também se aplica ao suplente do cargo de direção de comissões internas de prevenção de acidentes (CIPA).",
       "status": "ativa",
       "area": "Trabalhista",
       "data": "24/09/2003",
@@ -5430,7 +5432,7 @@
     },
     "678": {
       "numero": 678,
-      "enunciado": "São inconstitucionais os incisos I e III do art. 7º da Lei 8.162/91, que afastam, para efeito de anuênio e de licença-prêmio, a contagem do tempo de serviço regido pela CLT dos servidores que passaram a submeter-se ao Regime Jurídico Único.",
+      "enunciado": "São inconstitucionais os incisos I e III do art. 7º da Lei 8.162/91, que afastam, para efeito de anuênio e de licença-prêmio, a contagem do tempo de serviço regido pela consolidação das leis do trabalho dos servidores que passaram a submeter-se ao regime jurídico único.",
       "status": "ativa",
       "area": "Administrativo",
       "data": "24/09/2003",
@@ -5462,7 +5464,7 @@
     },
     "682": {
       "numero": 682,
-      "enunciado": "Não ofende a Constituição a correção monetária no pagamento com atraso dos vencimentos de servidores públicos.",
+      "enunciado": "Não ofende a Constituição a correção monetária no pagamento com atraso dos vencimentos dos servidores públicos.",
       "status": "ativa",
       "area": "Administrativo",
       "data": "24/09/2003",
@@ -5502,7 +5504,7 @@
     },
     "687": {
       "numero": 687,
-      "enunciado": "A revisão de que trata o art. 58 do ADCT não se aplica aos benefícios previdenciários concedidos após a promulgação da Constituição de 1988.",
+      "enunciado": "A revisão de que trata o art. 58 do Ato das Disposições Constitucionais Transitórias não se aplica aos benefícios previdenciários concedidos após a promulgação da Constituição de 1988.",
       "status": "ativa",
       "area": "Previdenciário",
       "data": "24/09/2003",
@@ -5518,7 +5520,7 @@
     },
     "689": {
       "numero": 689,
-      "enunciado": "O segurado pode ajuizar ação contra a instituição previdenciária perante o juízo federal do seu domicílio ou nas varas federais da Capital do Estado-Membro.",
+      "enunciado": "O segurado pode ajuizar ação contra a instituição previdenciária perante o Juízo Federal do seu domicílio ou nas Varas Federais da capital do Estado-membro.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "24/09/2003",
@@ -5526,7 +5528,7 @@
     },
     "690": {
       "numero": 690,
-      "enunciado": "Compete originariamente ao Supremo Tribunal Federal o julgamento de habeas corpus contra decisão de turma recursal de juizados especiais criminais.",
+      "enunciado": "Compete originariamente ao Supremo Tribunal Federal o julgamento de \"habeas corpus\" contra decisão de Turma Recursal de Juizados Especiais Criminais.",
       "status": "ativa",
       "area": "Processual Penal",
       "data": "24/09/2003",
@@ -5534,7 +5536,7 @@
     },
     "691": {
       "numero": 691,
-      "enunciado": "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.",
+      "enunciado": "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.",
       "status": "ativa",
       "area": "Processual Penal",
       "data": "24/09/2003",
@@ -5574,7 +5576,7 @@
     },
     "696": {
       "numero": 696,
-      "enunciado": "Reunidos os pressupostos legais permissivos da suspensão condicional do processo, mas se recusando o Promotor de Justiça a propô-la, o Juiz, dissentindo, remeterá a questão ao Procurador-Geral, aplicando-se por analogia o art. 28 do Código de Processo Penal.",
+      "enunciado": "Reunidos os pressupostos legais permissivos da suspensão condicional do processo, mas se recusando o promotor de justiça a propô-la, o juiz, dissentindo, remeterá a questão ao Procurador-Geral, aplicando-se por analogia o art. 28 do Código de Processo Penal.",
       "status": "ativa",
       "area": "Processual Penal",
       "data": "24/09/2003",
@@ -5598,7 +5600,7 @@
     },
     "699": {
       "numero": 699,
-      "enunciado": "O prazo para interposição de agravo, em processo penal, é de cinco dias, de acordo com a Lei 8.038/90, não se aplicando o disposto a respeito nas alterações da Lei 8.950/94 ao Código de Processo Civil.",
+      "enunciado": "O prazo para interposição de agravo, em processo penal, é de cinco dias, de acordo com a Lei 8.038/1990, não se aplicando o disposto a respeito nas alterações da Lei 8.950/1994 ao Código de Processo Civil.",
       "status": "ativa",
       "area": "Processual Penal",
       "data": "24/09/2003",
@@ -5622,7 +5624,7 @@
     },
     "702": {
       "numero": 702,
-      "enunciado": "A competência do Tribunal de Justiça para julgar prefeitos restringe-se aos crimes de competência da Justiça comum estadual; nos demais casos, a competência originária caberá ao respectivo tribunal de segundo grau.",
+      "enunciado": "A competência do tribunal de justiça para julgar prefeitos restringe-se aos crimes de competência da justiça comum estadual; nos demais casos, a competência originária caberá ao respectivo tribunal de segundo grau.",
       "status": "ativa",
       "area": "Processual Penal",
       "data": "24/09/2003",
@@ -5630,7 +5632,7 @@
     },
     "703": {
       "numero": 703,
-      "enunciado": "A extinção do mandato do prefeito não impede a instauração de processo pela prática dos crimes previstos no art. 1º do Dl. 201/67.",
+      "enunciado": "A extinção do mandato do prefeito não impede a instauração de processo pela prática dos crimes previstos no art. 1º do DL 201/1967.",
       "status": "ativa",
       "area": "Processual Penal",
       "data": "24/09/2003",
@@ -5638,7 +5640,7 @@
     },
     "704": {
       "numero": 704,
-      "enunciado": "Não viola as garantias do juiz natural, da ampla defesa e do devido processo legal a atração por continência ou conexão do processo do co-réu ao foro por prerrogativa de função de um dos denunciados.",
+      "enunciado": "Não viola as garantias do juiz natural, da ampla defesa e do devido processo legal a atração por continência ou conexão do processo do corréu ao foro por prerrogativa de função de um dos denunciados.",
       "status": "ativa",
       "area": "Processual Penal",
       "data": "24/09/2003",
@@ -5710,7 +5712,7 @@
     },
     "713": {
       "numero": 713,
-      "enunciado": "O efeito devolutivo da apelação contra decisões do Júri é adstrito aos fundamentos da sua interposição.",
+      "enunciado": "O efeito devolutivo da apelação contra decisões do júri é adstrito aos fundamentos da sua interposição.",
       "status": "ativa",
       "area": "Processual Penal",
       "data": "24/09/2003",
@@ -5718,7 +5720,7 @@
     },
     "714": {
       "numero": 714,
-      "enunciado": "É concorrente a legitimidade do ofendido, mediante queixa, e do Ministério Público, condicionada à representação do ofendido, para a ação penal por crime contra a honra de servidor público em razão do exercício de suas funções.",
+      "enunciado": "É concorrente a legitimidade do ofendido, mediante queixa, e do ministério público, condicionada à representação do ofendido, para a ação penal por crime contra a honra de servidor público em razão do exercício de suas funções.",
       "status": "ativa",
       "area": "Processual Penal",
       "data": "24/09/2003",
@@ -5774,7 +5776,7 @@
     },
     "721": {
       "numero": 721,
-      "enunciado": "A competência constitucional do Tribunal do Júri prevalece sobre o foro por prerrogativa de função estabelecido exclusivamente pela Constituição estadual.",
+      "enunciado": "A competência constitucional do Tribunal do Júri prevalece sobre o foro por prerrogativa de função estabelecido exclusivamente pela constituição estadual.",
       "status": "ativa",
       "area": "Processual Penal",
       "data": "24/09/2003",
@@ -5798,7 +5800,7 @@
     },
     "724": {
       "numero": 724,
-      "enunciado": "Ainda quando alugado a terceiros, permanece imune ao IPTU o imóvel pertencente a qualquer das entidades referidas pelo art. 150, VI, c, da Constituição, desde que o valor dos aluguéis seja aplicado nas atividades essenciais de tais entidades.",
+      "enunciado": "Ainda quando alugado a terceiros, permanece imune ao IPTU o imóvel pertencente a qualquer das entidades referidas pelo art. 150, VI, \"c\", da Constituição, desde que o valor dos aluguéis seja aplicado nas atividades essenciais de tais entidades.",
       "status": "ativa",
       "area": "Tributário",
       "data": "26/11/2003",
@@ -5806,7 +5808,7 @@
     },
     "725": {
       "numero": 725,
-      "enunciado": "É constitucional o § 2º do art. 6º da L. 8.024/90, resultante da conversão da MPr 168/90, que fixou o BTN fiscal como índice de correção monetária aplicável aos depósitos bloqueados pelo Plano Collor I.",
+      "enunciado": "É constitucional o § 2º do art. 6º da Lei 8024/1990, resultante da conversão da Medida Provisória 168/1990, que fixou o BTN fiscal como índice de correção monetária aplicável aos depósitos bloqueados pelo Plano Collor I.",
       "status": "ativa",
       "area": "Constitucional",
       "data": "26/11/2003",
@@ -5830,7 +5832,7 @@
     },
     "728": {
       "numero": 728,
-      "enunciado": "É de três dias o prazo para a interposição de recurso extraordinário contra decisão do Tribunal Superior Eleitoral, contado, quando for o caso, a partir da publicação do acórdão, na própria sessão de julgamento, nos termos do art. 12 da Lei 6.055/74, que não foi revogado pela Lei 8.950/94.",
+      "enunciado": "É de três dias o prazo para a interposição de recurso extraordinário contra decisão do Tribunal Superior Eleitoral, contado, quando for o caso, a partir da publicação do acórdão, na própria sessão de julgamento, nos termos do art. 12 da Lei 6.055/1974, que não foi revogado pela Lei 8.950/1994.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "26/11/2003",
@@ -5838,7 +5840,7 @@
     },
     "729": {
       "numero": 729,
-      "enunciado": "A decisão na ADC-4 não se aplica à antecipação de tutela em causa de natureza previdenciária.",
+      "enunciado": "A decisão na Ação Direta de Constitucionalidade 4 não se aplica à antecipação de tutela em causa de natureza previdenciária.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "26/11/2003",
@@ -5846,7 +5848,7 @@
     },
     "730": {
       "numero": 730,
-      "enunciado": "A imunidade tributária conferida a instituições de assistência social sem fins lucrativos pelo art. 150, VI, c, da Constituição, somente alcança as entidades fechadas de previdência social privada se não houver contribuição dos beneficiários.",
+      "enunciado": "A imunidade tributária conferida a instituições de assistência social sem fins lucrativos pelo art. 150, VI, \"c\", da Constituição, somente alcança as entidades fechadas de previdência social privada se não houver contribuição dos beneficiários.",
       "status": "ativa",
       "area": "Tributário",
       "data": "26/11/2003",
@@ -5854,7 +5856,7 @@
     },
     "731": {
       "numero": 731,
-      "enunciado": "Para fim da competência originária do Supremo Tribunal Federal, é de interesse geral da magistratura a questão de saber se, em face da LOMAN, os juízes têm direito à licença-prêmio.",
+      "enunciado": "Para fim da competência originária do Supremo Tribunal Federal, é de interesse geral da magistratura a questão de saber se, em face da Lei Orgânica da Magistratura Nacional, os juízes têm direito à licença-prêmio.",
       "status": "ativa",
       "area": "Processual Civil",
       "data": "26/11/2003",
@@ -5862,7 +5864,7 @@
     },
     "732": {
       "numero": 732,
-      "enunciado": "É constitucional a cobrança da contribuição do salário-educação, seja sob a Carta de 1969, seja sob a Constituição Federal de 1988, e no regime da Lei 9.424/96.",
+      "enunciado": "É constitucional a cobrança da contribuição do salário-educação, seja sob a Carta de 1969, seja sob a Constituição Federal de 1988, e no regime da Lei 9.424/1996.",
       "status": "ativa",
       "area": "Tributário",
       "data": "26/11/2003",
@@ -5894,7 +5896,7 @@
     },
     "736": {
       "numero": 736,
-      "enunciado": "Compete à Justiça do Trabalho julgar as ações que tenham como causa de pedir o descumprimento de normas trabalhistas relativas à segurança, higiene e saúde dos trabalhadores.",
+      "enunciado": "Compete à justiça do trabalho julgar as ações que tenham como causa de pedir o descumprimento de normas trabalhistas relativas à segurança, higiene e saúde dos trabalhadores.",
       "status": "ativa",
       "area": "Processual do Trabalho",
       "data": "26/11/2003",

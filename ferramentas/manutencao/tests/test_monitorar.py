@@ -132,6 +132,16 @@ class MonitorarSumulasTest(unittest.TestCase):
         self.assertEqual(itens[0]["situacao"], "mudou")
         self.assertIn("canceladas", itens[0]["detalhe"])
 
+    def test_catalogo_stf_mapeia_revogada_para_cancelada(self) -> None:
+        catalogo = (
+            '<div class="sumula-item">'
+            '<a href="sumariosumulas.asp?base=30&sumula=2442">'
+            "Súmula 152 <em>(revogada)</em></a></div>"
+        )
+        itens = pipeline.extrair_catalogo_stf(catalogo, False)
+        self.assertEqual(itens[0]["numero"], 152)
+        self.assertEqual(itens[0]["status"], "cancelada")
+
     def test_jt_compara_edicao_mais_recente(self) -> None:
         url = "https://processo.stj.jus.br/SCON/jt/jt.jsp"
         indice = (
@@ -387,6 +397,101 @@ class TransformarLegislacaoInicioAposTest(unittest.TestCase):
                 pipeline.transformar_legislacao(
                     config, bruto, publicados, candidatos
                 )
+
+
+class TransformarTemasIndicesTest(unittest.TestCase):
+    def test_preserva_keywords_e_terms_publicados(self) -> None:
+        with tempfile.TemporaryDirectory() as temp:
+            raiz = Path(temp)
+            bruto = raiz / "bruto"
+            publicados = raiz / "publicados"
+            candidatos = raiz / "candidatos"
+            for pasta in (bruto, publicados, candidatos):
+                pasta.mkdir()
+            (bruto / "temas.csv").write_text(
+                "tipoPrecedente,numeroPrecedente,sequencialPrecedente,situacao,"
+                "assunto,questaoSubmetidaAJulgamento,teseFirmada,orgaoJulgador,"
+                "dataPrimeiraAfetacao,dataJulgamento\n"
+                "Tema,1,10,Afetado,Direito Civil,Questão de teste,,S2,,\n",
+                encoding="utf-8",
+            )
+            (bruto / "processos.csv").write_text(
+                "tipoPrecedente,sequencialPrecedente,leadingCase,ministroRelator\n"
+                "Tema,10,S,MINISTRO TESTE\n",
+                encoding="utf-8",
+            )
+            indice = {"teste": [1]}
+            (publicados / "flash_teste.json").write_text(
+                json.dumps(
+                    {"_meta": {}, "temas": {}, "keywords": indice, "terms": indice}
+                ),
+                encoding="utf-8",
+            )
+            config = {
+                "destino": "flash_teste.json",
+                "package_id": "x",
+                "join_key": "sequencialPrecedente",
+                "fontes": [
+                    {"id": "metadados", "url": "https://dadosabertos.web.stj.jus.br/x"},
+                    {"id": "temas", "url": "https://dadosabertos.web.stj.jus.br/t", "resource_id": "a"},
+                    {"id": "processos", "url": "https://dadosabertos.web.stj.jus.br/p", "resource_id": "b"},
+                ],
+            }
+            saidas = pipeline.transformar_temas(
+                config, bruto, publicados, candidatos
+            )
+            objeto = json.loads(saidas[0].read_text(encoding="utf-8"))
+        self.assertEqual(objeto["keywords"], indice)
+        self.assertEqual(objeto["terms"], indice)
+        self.assertIn("1", objeto["temas"])
+
+
+class TransformarJtRetencaoTest(unittest.TestCase):
+    def test_edicao_sem_correspondencia_na_coleta_e_retida(self) -> None:
+        with tempfile.TemporaryDirectory() as temp:
+            raiz = Path(temp)
+            edicoes = raiz / "bruto" / "edicoes"
+            publicados = raiz / "publicados"
+            candidatos = raiz / "candidatos"
+            edicoes.mkdir(parents=True)
+            publicados.mkdir()
+            candidatos.mkdir()
+            (edicoes / "1.html").write_text(
+                '<div class="gridEdicaoJT">'
+                '<span class="clsVerbete">EDIÇÃO N. 1: TESTE</span>'
+                '<span class="clsData">01/01/2020</span></div>'
+                '<div class="clsTemasJT redacaoAtual">'
+                '<a class="clsSubmitPesquisaTema">1) Enunciado extraído.</a>'
+                "</div>",
+                encoding="utf-8",
+            )
+            tese_retida = {
+                "id": "JT_002_T01",
+                "edicao": "2",
+                "edicao_titulo": "Edição antiga",
+                "tese_numero": "1",
+                "ramo_direito": "Direito Penal",
+                "enunciado": "Enunciado preservado.",
+                "rito_especial": "False",
+                "data_publicacao": "2014-01-01",
+                "url": "https://scon.stj.jus.br/SCON/x",
+                "qtd_julgados": "3",
+            }
+            (publicados / "jt_teste.json").write_text(
+                json.dumps({"_meta": {}, "teses": {"JT_002_T01": tese_retida}}),
+                encoding="utf-8",
+            )
+            config = {"destino": "jt_teste.json"}
+            saidas = pipeline.transformar_jt(
+                config, raiz / "bruto", publicados, candidatos
+            )
+            objeto = json.loads(saidas[0].read_text(encoding="utf-8"))
+        self.assertIn("JT_001_T01", objeto["teses"])
+        self.assertEqual(objeto["teses"]["JT_002_T01"], tese_retida)
+        self.assertEqual(
+            objeto["_meta"]["edicoes_retidas_sem_correspondencia"], [2]
+        )
+        self.assertEqual(objeto["_meta"]["total_edicoes"], 2)
 
 
 class InstanteUtcTest(unittest.TestCase):

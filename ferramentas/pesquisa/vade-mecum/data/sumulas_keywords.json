@@ -21,9 +21,9 @@
     "fonte": {
       "arquivo": "sumulas_stj.json",
       "colecao": "sumulas",
-      "sha256": "237d654062f3c75309e2ef827e8a4858aefeac8add5cc971f3a627b2c8628174",
+      "sha256": "3f362f99a4ca51b2c59f2c8cf067396268c20a9aba145597d06d1a36226cb50e",
       "total_registros": 676,
-      "gerado_em": "2025-12-17"
+      "gerado_em": "2026-07-19"
     },
     "relacao": {
       "chave": "numero",
@@ -520,7 +520,7 @@
     "SUM_028": {
       "numero": 28,
       "area": "DIREITO BANCÁRIO",
-      "tema": "CONTRATO COM GARANTIA DE ALIENAÇÃO   FIDUCIÁRIA",
+      "tema": "CONTRATO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA",
       "keywords": [
         "contrato",
         "alienacao",
@@ -1348,7 +1348,7 @@
     "SUM_072": {
       "numero": 72,
       "area": "DIREITO BANCÁRIO",
-      "tema": "CONTRATO COM GARANTIA DE ALIENAÇÃO   FIDUCIÁRIA",
+      "tema": "CONTRATO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA",
       "keywords": [
         "comprovacao",
         "mora",
@@ -1724,7 +1724,7 @@
     "SUM_092": {
       "numero": 92,
       "area": "DIREITO BANCÁRIO",
-      "tema": "CONTRATO COM GARANTIA DE ALIENAÇÃO   FIDUCIÁRIA",
+      "tema": "CONTRATO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA",
       "keywords": [
         "terceiro",
         "boa",
@@ -1864,7 +1864,7 @@
     "SUM_100": {
       "numero": 100,
       "area": "DIREITO TRIBUTÁRIO",
-      "tema": "ADICIONAL AO FRETE PARA RENOVAÇÃO DA   MARINHA MERCANTE",
+      "tema": "ADICIONAL AO FRETE PARA RENOVAÇÃO DA MARINHA MERCANTE",
       "keywords": [
         "devido",
         "adicional",
@@ -2082,27 +2082,7 @@
         "incidem",
         "prestacoes",
         "vencidas",
-        "sentenca",
-        "apreciando",
-        "projeto",
-        "sumula",
-        "560",
-        "sessao",
-        "terceira",
-        "secao",
-        "deliberou",
-        "modificacao",
-        "111",
-        "redacao",
-        "anterior",
-        "decisao",
-        "1994",
-        "vincendas",
-        "texto",
-        "2006",
-        "apreciar",
-        "stj",
-        "27430"
+        "sentenca"
       ]
     },
     "SUM_112": {
@@ -3784,7 +3764,7 @@
     "SUM_200": {
       "numero": 200,
       "area": "DIREITO PROCESSUAL PENAL",
-      "tema": "COMPETÊNCIA EM CRIME DE USO DE   PASSAPORTE FALSO",
+      "tema": "COMPETÊNCIA EM CRIME DE USO DE PASSAPORTE FALSO",
       "keywords": [
         "juizo",
         "federal",
@@ -3849,26 +3829,7 @@
         "segundo",
         "grau",
         "juizados",
-        "especiais",
-        "corte",
-        "sessao",
-        "extraordinaria",
-        "maio",
-        "2002",
-        "julgando",
-        "agrg",
-        "400",
-        "076",
-        "deliberou",
-        "alteracao",
-        "enunciado",
-        "sumula",
-        "203",
-        "redacao",
-        "anterior",
-        "1998",
-        "limites",
-        "competencia"
+        "especiais"
       ]
     },
     "SUM_204": {
@@ -4220,25 +4181,13 @@
         "prevista",
         "art",
         "578",
-        "clt",
-        "primeira",
-        "secao",
-        "sessao",
-        "novembro",
-        "2024",
-        "apreciar",
-        "projeto",
-        "sumula",
-        "403",
-        "cancelou",
-        "222",
-        "stj"
+        "clt"
       ]
     },
     "SUM_223": {
       "numero": 223,
       "area": "DIREITO PROCESSUAL CIVIL",
-      "tema": "AGRAVO DE INSTRUMENTO CONTRA DECISÃO DE   INADMISSÃO DE RECURSO ESPECIAL",
+      "tema": "AGRAVO DE INSTRUMENTO CONTRA DECISÃO DE INADMISSÃO DE RECURSO ESPECIAL",
       "keywords": [
         "certidao",
         "intimacao",
@@ -4663,7 +4612,7 @@
     "SUM_245": {
       "numero": 245,
       "area": "DIREITO BANCÁRIO",
-      "tema": "CONTRATO COM GARANTIA DE ALIENAÇÃO   FIDUCIÁRIA",
+      "tema": "CONTRATO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA",
       "keywords": [
         "notificacao",
         "destinada",
@@ -5260,7 +5209,7 @@
     "SUM_276": {
       "numero": 276,
       "area": "DIREITO TRIBUTÁRIO",
-      "tema": "CONTRIBUIÇÃO PARA FINANCIAMENTO DA   SEGURIDADE SOCIAL",
+      "tema": "CONTRIBUIÇÃO PARA FINANCIAMENTO DA SEGURIDADE SOCIAL",
       "keywords": [
         "sociedades",
         "civis",
@@ -5404,7 +5353,7 @@
     "SUM_284": {
       "numero": 284,
       "area": "DIREITO BANCÁRIO",
-      "tema": "CONTRATO COM GARANTIA DE ALIENAÇÃO   FIDUCIÁRIA",
+      "tema": "CONTRATO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA",
       "keywords": [
         "purga",
         "mora",
@@ -5897,26 +5846,7 @@
         "execucao",
         "vencerem",
         "curso",
-        "processo",
-        "segunda",
-        "secao",
-        "sessao",
-        "ordinaria",
-        "marco",
-        "2006",
-        "julgando",
-        "068",
-        "deliberou",
-        "alteracao",
-        "enunciado",
-        "sumula",
-        "309",
-        "redacao",
-        "anterior",
-        "decisao",
-        "2005",
-        "166",
-        "citacao"
+        "processo"
       ]
     },
     "SUM_310": {
@@ -6174,24 +6104,7 @@
         "anos",
         "independentemente",
         "prescricao",
-        "execucao",
-        "segunda",
-        "secao",
-        "sessao",
-        "ordinaria",
-        "novembro",
-        "2009",
-        "deliberou",
-        "alteracao",
-        "enunciado",
-        "sumula",
-        "323",
-        "redacao",
-        "anterior",
-        "decisao",
-        "2005",
-        "410",
-        "inadimplente"
+        "execucao"
       ]
     },
     "SUM_324": {
@@ -6640,7 +6553,10 @@
         "especial",
         "federal",
         "juizo",
-        "ainda"
+        "ainda",
+        "mesma",
+        "secao",
+        "judiciaria"
       ]
     },
     "SUM_349": {
@@ -6808,19 +6724,7 @@
         "ligacoes",
         "telefone",
         "fixo",
-        "celular",
-        "julgando",
-        "resp",
-        "074",
-        "799",
-        "sessao",
-        "2009",
-        "primeira",
-        "secao",
-        "deliberou",
-        "revogacao",
-        "sumula",
-        "357"
+        "celular"
       ]
     },
     "SUM_358": {
@@ -8019,7 +7923,7 @@
     "SUM_423": {
       "numero": 423,
       "area": "DIREITO TRIBUTÁRIO",
-      "tema": "CONTRIBUIÇÃO PARA FINANCIAMENTO DA   SEGURIDADE SOCIAL",
+      "tema": "CONTRIBUIÇÃO PARA FINANCIAMENTO DA SEGURIDADE SOCIAL",
       "keywords": [
         "contribuicao",
         "financiamento",
@@ -9549,7 +9453,7 @@
     "SUM_499": {
       "numero": 499,
       "area": "DIREITO TRIBUTÁRIO",
-      "tema": "CONTRIBUIÇÃO SOCIAL PARA O SESC E O   SENAC",
+      "tema": "CONTRIBUIÇÃO SOCIAL PARA O SESC E O SENAC",
       "keywords": [
         "empresas",
         "prestadoras",
@@ -9762,7 +9666,7 @@
     "SUM_508": {
       "numero": 508,
       "area": "DIREITO TRIBUTÁRIO",
-      "tema": "CONTRIBUIÇÃO PARA FINANCIAMENTO DA   SEGURIDADE SOCIAL",
+      "tema": "CONTRIBUIÇÃO PARA FINANCIAMENTO DA SEGURIDADE SOCIAL",
       "keywords": [
         "isencao",
         "cofins",
@@ -9877,7 +9781,7 @@
     "SUM_513": {
       "numero": 513,
       "area": "DIREITO PENAL",
-      "tema": "PORTE OU POSSE DE ARMA DE FOGO DE USO   PERMITIDO",
+      "tema": "PORTE OU POSSE DE ARMA DE FOGO DE USO PERMITIDO",
       "keywords": [
         "abolitio",
         "criminis",
@@ -9955,7 +9859,7 @@
     "SUM_516": {
       "numero": 516,
       "area": "DIREITO TRIBUTÁRIO",
-      "tema": "CONTRIBUIÇÃO DE INTERVENÇÃO NO DOMÍNIO   ECONÔMICO PARA O INCRA",
+      "tema": "CONTRIBUIÇÃO DE INTERVENÇÃO NO DOMÍNIO ECONÔMICO PARA O INCRA",
       "keywords": [
         "contribuicao",
         "intervencao",
@@ -10274,32 +10178,7 @@
         "julgar",
         "crime",
         "trafico",
-        "internacional",
-        "terceira",
-        "secao",
-        "sessao",
-        "ordinaria",
-        "fevereiro",
-        "2022",
-        "cancelou",
-        "seguinte",
-        "enunciado",
-        "sumula",
-        "sera",
-        "publicado",
-        "diario",
-        "justica",
-        "eletronico",
-        "superior",
-        "tribunal",
-        "tres",
-        "vezes",
-        "datas",
-        "proximas",
-        "termos",
-        "art",
-        "123",
-        "ristj"
+        "internacional"
       ]
     },
     "SUM_529": {
@@ -10734,8 +10613,13 @@
         "julgador",
         "terceira",
         "secao",
-        "sessao",
+        "julgado",
         "2025",
+        "djen",
+        "sumula",
+        "revisada",
+        "sessao",
+        "ordinaria",
         "julgar",
         "resp",
         "001",
@@ -10746,7 +10630,6 @@
         "deliberou",
         "revisao",
         "enunciado",
-        "sumula",
         "545",
         "redacao",
         "anterior",
@@ -10755,16 +10638,13 @@
         "reu",
         "fara",
         "jus",
-        "atenuante",
-        "julgado",
-        "2015",
-        "dje"
+        "atenuante"
       ]
     },
     "SUM_546": {
       "numero": 546,
       "area": "DIREITO PROCESSUAL PENAL",
-      "tema": "COMPETÊNCIA EM CRIME DE USO DE DOCUMENTO  FALSO",
+      "tema": "COMPETÊNCIA EM CRIME DE USO DE DOCUMENTO FALSO",
       "keywords": [
         "competencia",
         "processar",
@@ -10957,7 +10837,7 @@
     "SUM_553": {
       "numero": 553,
       "area": "DIREITO TRIBUTÁRIO",
-      "tema": "EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA   ELÉTRICA",
+      "tema": "EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA",
       "keywords": [
         "casos",
         "emprestimo",
@@ -11340,7 +11220,7 @@
     "SUM_565": {
       "numero": 565,
       "area": "DIREITO BANCÁRIO",
-      "tema": "CONTRATO COM GARANTIA DE ALIENAÇÃO   FIDUCIÁRIA",
+      "tema": "CONTRATO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA",
       "keywords": [
         "pactuacao",
         "tarifas",
@@ -11372,7 +11252,7 @@
     "SUM_566": {
       "numero": 566,
       "area": "DIREITO BANCÁRIO",
-      "tema": "CONTRATO COM GARANTIA DE ALIENAÇÃO   FIDUCIÁRIA",
+      "tema": "CONTRATO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA",
       "keywords": [
         "contratos",
         "bancarios",
@@ -11873,7 +11753,7 @@
     "SUM_584": {
       "numero": 584,
       "area": "DIREITO TRIBUTÁRIO",
-      "tema": "CONTRIBUIÇÃO PARA FINANCIAMENTO DA   SEGURIDADE SOCIAL",
+      "tema": "CONTRIBUIÇÃO PARA FINANCIAMENTO DA SEGURIDADE SOCIAL",
       "keywords": [
         "sociedades",
         "corretoras",
@@ -13045,35 +12925,7 @@
         "seria",
         "devida",
         "caso",
-        "plena",
-        "terceira",
-        "secao",
-        "sessao",
-        "2025",
-        "julgar",
-        "resp",
-        "001",
-        "973",
-        "tema",
-        "repetitivo",
-        "1194",
-        "deliberou",
-        "revisao",
-        "enunciado",
-        "sumula",
-        "630",
-        "redacao",
-        "anterior",
-        "exige",
-        "reconhecimento",
-        "traficancia",
-        "nao",
-        "bastando",
-        "mera",
-        "admissao",
-        "julgado",
-        "2019",
-        "dje"
+        "plena"
       ]
     },
     "SUM_631": {
@@ -13954,7 +13806,7 @@
     "SUM_668": {
       "numero": 668,
       "area": "DIREITO PENAL",
-      "tema": "PORTE OU POSSE DE ARMA DE FOGO DE USO   PERMITIDO",
+      "tema": "PORTE OU POSSE DE ARMA DE FOGO DE USO PERMITIDO",
       "keywords": [
         "nao",
         "hediondo",
@@ -13980,7 +13832,7 @@
     "SUM_669": {
       "numero": 669,
       "area": "DIREITO PENAL",
-      "tema": "FORNECIMENTO DE BEBIDA ALCOÓLICA A MENOR  DE IDADE",
+      "tema": "FORNECIMENTO DE BEBIDA ALCOÓLICA A MENOR DE IDADE",
       "keywords": [
         "fornecimento",
         "bebida",

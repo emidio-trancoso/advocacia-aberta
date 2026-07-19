@@ -56,6 +56,6 @@ describe("cobertura declarada pelo motor", () => {
     });
     expect(TOTAL_TESES_STJ).toBe(3371);
     expect(TOTAL_EDICOES_JT).toBe(269);
-    expect(TOTAL_TEMAS_STJ).toBe(1405);
+    expect(TOTAL_TEMAS_STJ).toBe(1462);
   });
 });

@@ -21,9 +21,9 @@
     "fonte": {
       "arquivo": "sumulas_stf.json",
       "colecao": "sumulas",
-      "sha256": "ff44e7f30e788a763c9f401993bd7a63005915519cbd0eda77cd8bbfa5c04971",
+      "sha256": "e9e84c1296a46929fe2f2eaf4924f79a272ff7c5ab7fc667e297f9b253f5f324",
       "total_registros": 736,
-      "gerado_em": "2026-01-13"
+      "gerado_em": "2026-07-19"
     },
     "relacao": {
       "chave": "numero",
@@ -231,7 +231,9 @@
         "funcionario",
         "efetivo",
         "determinada",
+        "lei",
         "284",
+        "1954",
         "nao",
         "envolve",
         "reestruturacao",
@@ -540,7 +542,9 @@
       "area": "Administrativo",
       "keywords": [
         "aplicacao",
+        "lei",
         "1741",
+        "1952",
         "soma",
         "tempo",
         "servico",
@@ -555,6 +559,7 @@
       "keywords": [
         "aplicacao",
         "1741",
+        "1952",
         "soma",
         "tempo",
         "servico",
@@ -569,7 +574,8 @@
       "numero": 33,
       "area": "Administrativo",
       "keywords": [
-        "741",
+        "1741",
+        "1952",
         "aplicavel",
         "autarquias",
         "federais"
@@ -763,7 +769,9 @@
         "cargo",
         "prazo",
         "determinado",
+        "lei",
         "341",
+        "1951",
         "art",
         "preferencia",
         "nomeacao",
@@ -1104,7 +1112,9 @@
         "aluguel",
         "progressivo",
         "anterior",
+        "lei",
         "494",
+        "1958",
         "continua",
         "vigor",
         "caso",
@@ -1475,7 +1485,9 @@
         "somente",
         "nao",
         "colidirem",
+        "lei",
         "244",
+        "1957",
         "sao",
         "aplicaveis",
         "acordos",
@@ -1492,7 +1504,9 @@
         "tarifa",
         "alfandegaria",
         "resultante",
+        "lei",
         "244",
+        "1957",
         "modificou",
         "acordo",
         "geral",
@@ -1501,7 +1515,8 @@
         "comercio",
         "gatt",
         "aprovado",
-        "313"
+        "313",
+        "1948"
       ]
     },
     "SUM_089": {
@@ -1565,7 +1580,9 @@
         "constitucional",
         "art",
         "100",
+        "lei",
         "563",
+        "1957",
         "municipio",
         "recife",
         "faz",
@@ -1643,7 +1660,9 @@
         "sucessao",
         "antes",
         "vigencia",
-        "470"
+        "lei",
+        "470",
+        "1958"
       ]
     },
     "SUM_097": {
@@ -1677,7 +1696,9 @@
         "imovel",
         "alienado",
         "vigencia",
+        "lei",
         "470",
+        "1958",
         "ainda",
         "adquirido",
         "heranca",
@@ -1710,7 +1731,9 @@
         "sido",
         "anterior",
         "vigencia",
-        "470"
+        "lei",
+        "470",
+        "1958"
       ]
     },
     "SUM_100": {
@@ -1731,7 +1754,9 @@
         "sido",
         "anterior",
         "vigencia",
-        "470"
+        "lei",
+        "470",
+        "1958"
       ]
     },
     "SUM_101": {
@@ -1762,7 +1787,9 @@
         "realizada",
         "antes",
         "vigencia",
-        "519"
+        "lei",
+        "519",
+        "1958"
       ]
     },
     "SUM_103": {
@@ -1779,7 +1806,9 @@
         "realizada",
         "posteriormente",
         "vigencia",
-        "519"
+        "lei",
+        "519",
+        "1958"
       ]
     },
     "SUM_104": {
@@ -1796,7 +1825,9 @@
         "ativo",
         "anterior",
         "vigencia",
-        "519"
+        "lei",
+        "519",
+        "1958"
       ]
     },
     "SUM_105": {
@@ -1878,7 +1909,9 @@
         "multa",
         "prevista",
         "art",
+        "lei",
         "300",
+        "1950",
         "ainda",
         "desocupacao",
         "imovel",
@@ -2130,7 +2163,9 @@
         "sendo",
         "locacao",
         "regida",
+        "decreto",
         "150",
+        "1934",
         "locatario",
         "nao",
         "tem",
@@ -2138,7 +2173,9 @@
         "purgacao",
         "mora",
         "prevista",
-        "300"
+        "lei",
+        "300",
+        "1950"
       ]
     },
     "SUM_124": {
@@ -2158,7 +2195,7 @@
         "cota",
         "expurgo",
         "entregues",
-        "instituto",
+        "instituo",
         "brasileiro",
         "cafe"
       ]
@@ -2253,11 +2290,14 @@
         "despacho",
         "aduaneiro",
         "art",
+        "lei",
         "244",
+        "1957",
         "continua",
         "exigivel",
-        "dec",
-        "legisl",
+        "decreto",
+        "legislativo",
+        "1960",
         "aprovou",
         "alteracoes",
         "introduzidas",
@@ -2277,17 +2317,17 @@
         "despacho",
         "aduaneiro",
         "art",
+        "lei",
         "244",
+        "1957",
         "continua",
         "exigivel",
-        "dec",
-        "legisl",
-        "mesmo",
-        "mercadorias",
-        "incluidas",
-        "vigente",
-        "lista",
-        "iii",
+        "decreto",
+        "legislativo",
+        "1960",
+        "aprovou",
+        "alteracoes",
+        "introduzidas",
         "acordo",
         "geral",
         "tarifas",
@@ -2401,10 +2441,10 @@
         "imposto",
         "transacao",
         "refere",
+        "lei",
         "899",
         "1957",
         "art",
-        "letra",
         "antigo",
         "distrito",
         "federal"
@@ -2591,7 +2631,8 @@
         "ano",
         "acao",
         "segurador",
-        "subrogado",
+        "sub",
+        "rogado",
         "indenizacao",
         "extravio",
         "perda",
@@ -2839,7 +2880,10 @@
         "compra",
         "venda",
         "sujeito",
-        "regime"
+        "regime",
+        "decreto",
+        "lei",
+        "1937"
       ]
     },
     "SUM_167": {
@@ -2849,6 +2893,9 @@
         "nao",
         "aplica",
         "regime",
+        "decreto",
+        "lei",
+        "1937",
         "compromisso",
         "compra",
         "venda",
@@ -2867,6 +2914,9 @@
       "area": "Civil",
       "keywords": [
         "efeitos",
+        "decreto",
+        "lei",
+        "1937",
         "admite",
         "inscricao",
         "imobiliaria",
@@ -2914,7 +2964,9 @@
         "majoracao",
         "encargos",
         "refere",
-        "844"
+        "lei",
+        "844",
+        "1960"
       ]
     },
     "SUM_172": {
@@ -2930,7 +2982,9 @@
         "reajustamento",
         "aluguel",
         "refere",
-        "085"
+        "lei",
+        "085",
+        "1956"
       ]
     },
     "SUM_173": {
@@ -2988,7 +3042,9 @@
         "comprador",
         "condicoes",
         "previstas",
+        "lei",
         "300",
+        "1950",
         "pode",
         "retomar",
         "imovel",
@@ -3024,7 +3080,9 @@
         "contrato",
         "locacao",
         "fundada",
-        "150"
+        "decreto",
+        "150",
+        "1934"
       ]
     },
     "SUM_179": {
@@ -3035,7 +3093,9 @@
         "arbitrado",
         "judicialmente",
         "termos",
+        "lei",
         "085",
+        "1956",
         "art",
         "vigora",
         "partir",
@@ -3051,7 +3111,9 @@
         "acao",
         "revisional",
         "art",
+        "decreto",
         "150",
+        "1934",
         "aluguel",
         "arbitrado",
         "vigora",
@@ -3069,7 +3131,9 @@
         "util",
         "imovel",
         "sujeito",
+        "decreto",
         "150",
+        "1934",
         "sempre",
         "devida",
         "indenizacao",
@@ -3088,12 +3152,15 @@
         "debito",
         "pecuario",
         "termos",
+        "lei",
         "002",
+        "1949",
         "falta",
         "cancelamento",
         "renuncia",
         "moratoria",
-        "209"
+        "209",
+        "1948"
       ]
     },
     "SUM_183": {
@@ -3120,7 +3187,8 @@
         "pecuario",
         "dividas",
         "contraidas",
-        "posteriormente"
+        "posteriormente",
+        "1946"
       ]
     },
     "SUM_185": {
@@ -3377,7 +3445,9 @@
       "keywords": [
         "nao",
         "inconstitucional",
+        "lei",
         "530",
+        "1951",
         "manda",
         "incluir",
         "indenizacao",
@@ -3430,6 +3500,7 @@
         "nao",
         "sujeita",
         "vacancia",
+        "sessenta",
         "dias",
         "vigencia",
         "novos",
@@ -3630,7 +3701,6 @@
         "servico",
         "noturno",
         "minutos",
-        "trinta",
         "segundos",
         "constitui",
         "vantagem",
@@ -3983,6 +4053,7 @@
         "caso",
         "divergencia",
         "qualificada",
+        "lei",
         "623",
         "1949",
         "nao",
@@ -4220,7 +4291,9 @@
         "nao",
         "admitira",
         "embargos",
+        "lei",
         "623",
+        "1949",
         "nem",
         "deles",
         "conhecera",
@@ -4338,7 +4411,9 @@
       "area": "Processual Civil",
       "keywords": [
         "embargos",
+        "lei",
         "623",
+        "1949",
         "supremo",
         "tribunal",
         "federal",
@@ -4403,8 +4478,8 @@
         "honorarios",
         "fundamento",
         "arts",
-        "cod",
-        "proc",
+        "codigo",
+        "processo",
         "civil"
       ]
     },
@@ -4605,7 +4680,9 @@
         "seguranca",
         "impugnar",
         "enquadramento",
+        "lei",
         "780",
+        "1960",
         "envolva",
         "exame",
         "prova",
@@ -4656,7 +4733,9 @@
       "area": "Processual Civil",
       "keywords": [
         "embargos",
+        "lei",
         "623",
+        "1949",
         "divergencia",
         "questao",
         "prejudicial",
@@ -4705,7 +4784,9 @@
         "pecuario",
         "anterior",
         "vigencia",
-        "804"
+        "lei",
+        "804",
+        "1956"
       ]
     },
     "SUM_276": {
@@ -4968,7 +5049,9 @@
       "area": "Processual Civil",
       "keywords": [
         "embargos",
+        "lei",
         "623",
+        "1949",
         "prova",
         "divergencia",
         "far",
@@ -5002,6 +5085,7 @@
         "letra",
         "art",
         "101",
+        "numero",
         "iii",
         "constituicao",
         "prova",
@@ -5199,7 +5283,9 @@
         "sao",
         "incabiveis",
         "embargos",
+        "lei",
         "623",
+        "1949",
         "contra",
         "provimento",
         "agravo",
@@ -5259,7 +5345,8 @@
         "anteriormente",
         "vigencia",
         "emenda",
-        "constitucional"
+        "constitucional",
+        "1961"
       ]
     },
     "SUM_304": {
@@ -6159,7 +6246,9 @@
         "sao",
         "incabiveis",
         "embargos",
+        "lei",
         "623",
+        "1949",
         "fundamento",
         "divergencia",
         "decisoes",
@@ -6247,7 +6336,8 @@
         "revisional",
         "art",
         "decreto",
-        "150"
+        "150",
+        "1934"
       ]
     },
     "SUM_358": {
@@ -6429,7 +6519,8 @@
         "art",
         "decreto",
         "lei",
-        "394"
+        "394",
+        "1938"
       ]
     },
     "SUM_368": {
@@ -6507,7 +6598,9 @@
       "numero": 372,
       "area": "Não classificado",
       "keywords": [
+        "lei",
         "752",
+        "1956",
         "dupla",
         "aposentadoria",
         "aproveita",
@@ -6541,7 +6634,8 @@
         "referem",
         "leis",
         "705",
-        "639"
+        "639",
+        "1952"
       ]
     },
     "SUM_374": {
@@ -6569,7 +6663,9 @@
         "renovada",
         "locacao",
         "regida",
+        "decreto",
         "150",
+        "1934",
         "aplica",
         "direito",
         "comum",
@@ -6585,7 +6681,9 @@
         "renovacao",
         "locacao",
         "regida",
+        "decreto",
         "150",
+        "1934",
         "prazo",
         "novo",
         "contrato",
@@ -7081,7 +7179,9 @@
         "letra",
         "art",
         "101",
-        "iii"
+        "iii",
+        "constituicao",
+        "federal"
       ]
     },
     "SUM_401": {
@@ -7153,7 +7253,9 @@
         "contrariam",
         "constituicao",
         "arts",
+        "lei",
         "244",
+        "1957",
         "definem",
         "atribuicoes",
         "conselho",
@@ -7762,14 +7864,14 @@
       "area": "Tributário",
       "keywords": [
         "valida",
+        "lei",
         "093",
-        "959",
+        "1959",
         "parana",
         "revogou",
         "isencao",
         "concedida",
         "cooperativas",
-        "lei",
         "anterior"
       ]
     },
@@ -7942,7 +8044,9 @@
       "numero": 445,
       "area": "Civil",
       "keywords": [
+        "lei",
         "437",
+        "1955",
         "reduz",
         "prazo",
         "prescricional",
@@ -7951,6 +8055,7 @@
         "curso",
         "data",
         "vigencia",
+        "1956",
         "salvo",
         "quanto",
         "processos",
@@ -8062,7 +8167,9 @@
         "comum",
         "crime",
         "anterior",
-        "427"
+        "lei",
+        "427",
+        "1948"
       ]
     },
     "SUM_453": {
@@ -8351,6 +8458,9 @@
       "numero": 468,
       "area": "Tributário",
       "keywords": [
+        "emenda",
+        "constitucional",
+        "1961",
         "contrato",
         "firmado",
         "uniao",
@@ -8514,6 +8624,7 @@
       "keywords": [
         "lei",
         "686",
+        "1965",
         "tem",
         "aplicacao",
         "imediata",
@@ -8625,7 +8736,7 @@
         "1967",
         "terras",
         "ocupadas",
-        "silvicolas"
+        "silviculas"
       ]
     },
     "SUM_481": {
@@ -8652,7 +8763,8 @@
         "paragrafo",
         "unico",
         "decreto",
-        "150"
+        "150",
+        "1934"
       ]
     },
     "SUM_482": {
@@ -8721,7 +8833,8 @@
         "art",
         "iii",
         "lei",
-        "494"
+        "494",
+        "1964"
       ]
     },
     "SUM_485": {
@@ -8732,7 +8845,6 @@
         "regidas",
         "decreto",
         "150",
-        "abril",
         "1934",
         "presuncao",
         "sinceridade",
@@ -9081,10 +9193,13 @@
         "aplicacao",
         "art",
         "839",
-        "civ",
+        "codigo",
+        "processo",
+        "civil",
         "redacao",
         "lei",
         "290",
+        "1963",
         "relacao",
         "valor",
         "causa",
@@ -9175,6 +9290,7 @@
         "art",
         "lei",
         "348",
+        "1964",
         "cabe",
         "somente",
         "despacho",
@@ -9231,6 +9347,7 @@
       "keywords": [
         "lei",
         "632",
+        "1965",
         "alterou",
         "art",
         "codigo",
@@ -9384,6 +9501,7 @@
         "servico",
         "social",
         "industria",
+        "sesi",
         "sujeito",
         "jurisdicao",
         "justica",
@@ -9701,11 +9819,11 @@
         "limite",
         "estabelecido",
         "807",
-        "agosto",
         "1960",
         "salario",
         "refere",
-        "281"
+        "281",
+        "1963"
       ]
     },
     "SUM_531": {
@@ -9714,7 +9832,7 @@
       "keywords": [
         "inconstitucional",
         "decreto",
-        "668",
+        "51668",
         "1963",
         "estabeleceu",
         "salario",
@@ -9733,6 +9851,7 @@
         "constitucional",
         "lei",
         "043",
+        "1966",
         "concedeu",
         "remissao",
         "dividas",
@@ -9799,7 +9918,7 @@
         "desde",
         "desembarcado",
         "antes",
-        "ddecreto",
+        "decreto",
         "lei",
         "398",
         "1968"
@@ -10094,6 +10213,7 @@
         "decreto",
         "lei",
         "643",
+        "1947",
         "artigo",
         "parana",
         "parte",
@@ -10151,7 +10271,6 @@
         "taxa",
         "urbanizacao",
         "lei",
-        "numero",
         "320",
         "1961",
         "instituida",
@@ -10174,8 +10293,10 @@
         "art",
         "lei",
         "316",
+        "1967",
         "decreto",
         "037",
+        "1972",
         "tornou",
         "exequivel",
         "exigencia",
@@ -10207,7 +10328,6 @@
         "imunidade",
         "prevista",
         "letra",
-        "inciso",
         "iii",
         "art",
         "constituicao",
@@ -10287,7 +10407,8 @@
         "art",
         "decreto",
         "lei",
-        "898"
+        "898",
+        "1969"
       ]
     },
     "SUM_559": {
@@ -10297,6 +10418,7 @@
         "decreto",
         "lei",
         "730",
+        "1969",
         "revogou",
         "exigencia",
         "homologacao",
@@ -10325,7 +10447,8 @@
         "art",
         "decreto",
         "lei",
-        "157"
+        "157",
+        "1967"
       ]
     },
     "SUM_561": {
@@ -10388,7 +10511,6 @@
         "nacional",
         "compativel",
         "disposto",
-        "inciso",
         "constituicao",
         "federal",
         "cancelada"
@@ -10725,6 +10847,7 @@
         "unico",
         "decreto",
         "lei",
+        "1966",
         "restringe",
         "filmes",
         "cinematograficos"
@@ -10746,7 +10869,8 @@
         "advento",
         "decreto",
         "lei",
-        "666"
+        "666",
+        "1969"
       ]
     },
     "SUM_582": {
@@ -11011,6 +11135,7 @@
         "disposicoes",
         "decreto",
         "626",
+        "1933",
         "nao",
         "aplicam",
         "taxas",
@@ -11112,6 +11237,7 @@
         "arts",
         "lei",
         "complementar",
+        "1981",
         "organica",
         "ministerio",
         "publico",
@@ -11219,7 +11345,8 @@
         "penal",
         "regida",
         "lei",
-        "4611",
+        "611",
+        "1965",
         "denuncia",
         "substitutivo",
         "portaria",
@@ -11323,7 +11450,8 @@
         "anteriormente",
         "vigencia",
         "lei",
-        "complementar"
+        "complementar",
+        "1971"
       ]
     },
     "SUM_614": {
@@ -11354,6 +11482,8 @@
         "anualidade",
         "art",
         "153",
+        "constituicao",
+        "federal",
         "nao",
         "aplica",
         "revogacao",
@@ -11716,7 +11846,8 @@
         "hipoteses",
         "previstas",
         "lei",
-        "584"
+        "5584",
+        "1970"
       ]
     },
     "SUM_634": {
@@ -12004,6 +12135,8 @@
         "192",
         "constituicao",
         "revogada",
+        "emenda",
+        "constitucional",
         "2003",
         "limitava",
         "taxa",
@@ -12043,6 +12176,8 @@
       "keywords": [
         "incisos",
         "art",
+        "constituicao",
+        "federal",
         "nao",
         "alcancam",
         "terras",
@@ -12067,6 +12202,8 @@
         "nacional",
         "podia",
         "ate",
+        "emenda",
+        "constitucional",
         "2001",
         "reeditada",
         "dentro",
@@ -12090,8 +12227,10 @@
         "contraria",
         "constituicao",
         "art",
-        "365",
+        "decreto",
         "lei",
+        "3365",
+        "1941",
         "desapropriacao",
         "utilidade",
         "publica"
@@ -12229,8 +12368,10 @@
         "arts",
         "lei",
         "787",
+        "1989",
         "894",
         "147",
+        "1990",
         "majoraram",
         "aliquota",
         "finsocial",
@@ -12320,7 +12461,10 @@
       "area": "Tributário",
       "keywords": [
         "art",
+        "decreto",
+        "lei",
         "406",
+        "1968",
         "foram",
         "recebidos",
         "constituicao"
@@ -12335,6 +12479,7 @@
         "art",
         "lei",
         "033",
+        "1990",
         "instituiu",
         "incidencia",
         "imposto",
@@ -12362,7 +12507,8 @@
         "mobiliarios",
         "instituida",
         "lei",
-        "940"
+        "940",
+        "1989"
       ]
     },
     "SUM_666": {
@@ -12494,8 +12640,9 @@
         "servidores",
         "militares",
         "leis",
-        "622",
-        "627",
+        "8622",
+        "1993",
+        "8627",
         "estende",
         "civis",
         "executivo",
@@ -12535,7 +12682,10 @@
         "anistia",
         "prevista",
         "art",
-        "adct",
+        "ato",
+        "disposicoes",
+        "constitucionais",
+        "transitorias",
         "nao",
         "alcanca",
         "militares",
@@ -12585,7 +12735,10 @@
         "provisoria",
         "prevista",
         "art",
-        "adct",
+        "ato",
+        "disposicoes",
+        "constitucionais",
+        "transitorias",
         "tambem",
         "aplica",
         "suplente",
@@ -12640,7 +12793,9 @@
         "tempo",
         "servico",
         "regido",
-        "clt",
+        "consolidacao",
+        "leis",
+        "trabalho",
         "servidores",
         "passaram",
         "submeter",
@@ -12793,7 +12948,10 @@
         "revisao",
         "trata",
         "art",
-        "adct",
+        "ato",
+        "disposicoes",
+        "constitucionais",
+        "transitorias",
         "nao",
         "aplica",
         "beneficios",
@@ -13046,12 +13204,14 @@
         "acordo",
         "lei",
         "038",
+        "1990",
         "nao",
         "aplicando",
         "disposto",
         "respeito",
         "alteracoes",
         "950",
+        "1994",
         "codigo",
         "civil"
       ]
@@ -13130,7 +13290,8 @@
         "crimes",
         "previstos",
         "art",
-        "201"
+        "201",
+        "1967"
       ]
     },
     "SUM_704": {
@@ -13150,7 +13311,7 @@
         "atracao",
         "continencia",
         "conexao",
-        "reu",
+        "correu",
         "foro",
         "prerrogativa",
         "funcao",
@@ -13573,10 +13734,13 @@
       "keywords": [
         "constitucional",
         "art",
-        "024",
+        "lei",
+        "8024",
+        "1990",
         "resultante",
         "conversao",
-        "mpr",
+        "medida",
+        "provisoria",
         "168",
         "fixou",
         "btn",
@@ -13666,10 +13830,12 @@
         "art",
         "lei",
         "055",
+        "1974",
         "nao",
         "foi",
         "revogado",
-        "950"
+        "950",
+        "1994"
       ]
     },
     "SUM_729": {
@@ -13677,7 +13843,9 @@
       "area": "Processual Civil",
       "keywords": [
         "decisao",
-        "adc",
+        "acao",
+        "direta",
+        "constitucionalidade",
         "nao",
         "aplica",
         "antecipacao",
@@ -13730,7 +13898,9 @@
         "questao",
         "saber",
         "face",
-        "loman",
+        "lei",
+        "organica",
+        "nacional",
         "juizes",
         "tem",
         "direito",
@@ -13755,7 +13925,8 @@
         "1988",
         "regime",
         "lei",
-        "424"
+        "424",
+        "1996"
       ]
     },
     "SUM_733": {

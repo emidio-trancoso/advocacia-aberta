@@ -1,19 +1,20 @@
 {
   "_meta": {
-    "version": "1.0",
+    "version": "2.0",
     "tipo": "Súmulas Vinculantes",
     "tribunal": "STF",
     "total": 63,
+    "gerado_em": "2026-07-19",
+    "descricao": "Súmulas extraídas do catálogo oficial do STF",
+    "transformacao": "sumulas_stf_html_v1",
+    "ativas": 0,
     "aprovadas": 62,
-    "canceladas": 1,
-    "suspensas": 0,
-    "gerado_em": "2026-01-14T13:43:23.881Z",
-    "descricao": "Súmulas Vinculantes do STF - norma vinculante (art. 103-A CF)"
+    "canceladas": 1
   },
   "sumulas": {
     "1": {
       "numero": 1,
-      "enunciado": "Ofende a garantia constitucional do ato jurídico perfeito a decisão que, sem ponderar as circunstâncias do caso concreto, desconsidera a validez e a eficácia de acordo constante de termo de adesão instituído pela Lei Complementar nº 110/2001.",
+      "enunciado": "Ofende a garantia constitucional do ato jurídico perfeito a decisão que, sem ponderar as circunstâncias do caso concreto, desconsidera a validez e a eficácia de acordo constante de termo de adesão instituído pela Lei Complementar 110/2001.",
       "status": "aprovada",
       "ramo": "Constitucional",
       "data": "30/05/2007",
@@ -21,7 +22,7 @@
     },
     "2": {
       "numero": 2,
-      "enunciado": "É inconstitucional a lei ou ato normativo estadual ou distrital que disponha sobre sistemas de consórcios e sorteios, inclusive bingos e loterias.",
+      "enunciado": "É inconstitucional a lei ou ato normativo Estadual ou Distrital que disponha sobre sistemas de consórcios e sorteios, inclusive bingos e loterias.",
       "status": "aprovada",
       "ramo": "Constitucional",
       "data": "30/05/2007",
@@ -61,7 +62,7 @@
     },
     "7": {
       "numero": 7,
-      "enunciado": "A norma do §3º do artigo 192 da Constituição, revogada pela Emenda Constitucional nº 40/2003, que limitava a taxa de juros reais a 12% ao ano, tinha sua aplicação condicionada à edição de lei complementar.",
+      "enunciado": "A norma do § 3º do artigo 192 da Constituição, revogada pela Emenda Constitucional 40/2003, que limitava a taxa de juros reais a 12% ao ano, tinha sua aplicação condicionada à edição de lei complementar.",
       "status": "aprovada",
       "ramo": "Constitucional",
       "data": "11/06/2008",
@@ -69,7 +70,7 @@
     },
     "8": {
       "numero": 8,
-      "enunciado": "São inconstitucionais o parágrafo único do artigo 5º do Decreto-Lei nº 1.569/1977 e os artigos 45 e 46 da Lei nº 8.212/1991, que tratam de prescrição e decadência de crédito tributário.",
+      "enunciado": "São inconstitucionais o parágrafo único do artigo 5º do Decreto-Lei 1.569/1977 e os artigos 45 e 46 da Lei 8.212/1991, que tratam da prescrição e decadência do crédito tributário.",
       "status": "aprovada",
       "ramo": "Tributário",
       "data": "12/06/2008",
@@ -77,7 +78,7 @@
     },
     "9": {
       "numero": 9,
-      "enunciado": "O disposto no artigo 127 da Lei nº 7.210/1984 (Lei de Execução Penal) foi recebido pela ordem constitucional vigente, e não se lhe aplica o limite temporal previsto no \"caput\" do artigo 58.",
+      "enunciado": "O disposto no artigo 127 da Lei 7.210/1984 (Lei de Execução Penal) foi recebido pela ordem constitucional vigente, e não se lhe aplica o limite temporal previsto no caput do artigo 58.",
       "status": "cancelada",
       "ramo": "Penal",
       "data": "12/06/2008",
@@ -85,7 +86,7 @@
     },
     "10": {
       "numero": 10,
-      "enunciado": "Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de Tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte.",
+      "enunciado": "Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do Poder Público, afasta sua incidência, no todo ou em parte.",
       "status": "aprovada",
       "ramo": "Processual Civil",
       "data": "18/06/2008",
@@ -109,7 +110,7 @@
     },
     "13": {
       "numero": 13,
-      "enunciado": "A nomeação de cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, da autoridade nomeante ou de servidor da mesma pessoa jurídica investido em cargo de direção, chefia ou assessoramento, para o exercício de cargo em comissão ou de confiança ou, ainda, de função gratificada na administração pública direta e indireta em qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, compreendido o ajuste mediante designações recíprocas, viola a Constituição Federal.",
+      "enunciado": "A nomeação de cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, da autoridade nomeante ou de servidor da mesma pessoa jurídica investido em cargo de direção, chefia ou assessoramento, para o exercício de cargo em comissão ou de confiança ou, ainda, de função gratificada na administração pública direta e indireta em qualquer dos poderes da União, dos Estados, do Distrito Federal e dos Municípios, compreendido o ajuste mediante designações recíprocas, viola a Constituição Federal.",
       "status": "aprovada",
       "ramo": "Administrativo",
       "data": "21/08/2008",
@@ -157,7 +158,7 @@
     },
     "19": {
       "numero": 19,
-      "enunciado": "A taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis, não viola o artigo 145, II, da Constituição Federal.",
+      "enunciado": "A taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis não viola o artigo 145, II, da Constituição Federal.",
       "status": "aprovada",
       "ramo": "Tributário",
       "data": "29/10/2009",
@@ -165,7 +166,7 @@
     },
     "20": {
       "numero": 20,
-      "enunciado": "A Gratificação de Desempenho de Atividade Técnico-Administrativa - GDATA, instituída pela Lei nº 10.404/2002, deve ser deferida aos inativos nos valores correspondentes a 37,5 (trinta e sete vírgula cinco) pontos no período de fevereiro a maio de 2002 e, nos termos do artigo 5º, parágrafo único, da Lei nº 10.404/2002, no período de junho de 2002 até a conclusão dos efeitos do último ciclo de avaliação a que se refere o artigo 1º da Medida Provisória nº 198/2004, a partir da qual passa a ser de 60 (sessenta) pontos.",
+      "enunciado": "A Gratificação de Desempenho de Atividade Técnico-Administrativa - GDATA, instituída pela Lei 10.404/2002, deve ser deferida aos inativos nos valores correspondentes a 37,5 (trinta e sete vírgula cinco) pontos no período de fevereiro a maio de 2002 e, nos termos do artigo 5º, parágrafo único, da Lei 10.404/2002, no período de junho de 2002 até a conclusão dos efeitos do último ciclo de avaliação a que se refere o artigo 1º da Medida Provisória 198/2004, a partir da qual passa a ser de 60 (sessenta) pontos.",
       "status": "aprovada",
       "ramo": "Administrativo",
       "data": "29/10/2009",
@@ -181,7 +182,7 @@
     },
     "22": {
       "numero": 22,
-      "enunciado": "A Justiça do Trabalho é competente para processar e julgar as ações de indenização por danos morais e patrimoniais decorrentes de acidente de trabalho propostas por empregado contra empregador, inclusive aquelas que ainda não possuíam sentença de mérito em primeiro grau quando da promulgação da Emenda Constitucional nº 45/04.",
+      "enunciado": "A Justiça do Trabalho é competente para processar e julgar as ações de indenização por danos morais e patrimoniais decorrentes de acidente de trabalho propostas por empregado contra empregador, inclusive aquelas que ainda não possuíam sentença de mérito em primeiro grau quando da promulgação da Emenda Constitucional 45/2004.",
       "status": "aprovada",
       "ramo": "Processual do Trabalho",
       "data": "02/12/2009",
@@ -197,7 +198,7 @@
     },
     "24": {
       "numero": 24,
-      "enunciado": "Não se tipifica crime material contra a ordem tributária, previsto no art. 1º, incisos I a IV, da Lei nº 8.137/90, antes do lançamento definitivo do tributo.",
+      "enunciado": "Não se tipifica crime material contra a ordem tributária, previsto no art. 1º, incisos I a IV, da Lei 8.137/1990, antes do lançamento definitivo do tributo.",
       "status": "aprovada",
       "ramo": "Penal",
       "data": "02/12/2009",
@@ -205,7 +206,7 @@
     },
     "25": {
       "numero": 25,
-      "enunciado": "É ilícita a prisão civil de depositário infiel, qualquer que seja a modalidade do depósito.",
+      "enunciado": "É ilícita a prisão civil de depositário infiel, qualquer que seja a modalidade de depósito.",
       "status": "aprovada",
       "ramo": "Constitucional",
       "data": "16/12/2009",
@@ -213,7 +214,7 @@
     },
     "26": {
       "numero": 26,
-      "enunciado": "Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.",
+      "enunciado": "Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.",
       "status": "aprovada",
       "ramo": "Penal",
       "data": "16/12/2009",
@@ -221,7 +222,7 @@
     },
     "27": {
       "numero": 27,
-      "enunciado": "Compete à Justiça estadual julgar causas entre consumidor e concessionária de serviço público de telefonia, quando a ANATEL não seja litisconsorte passiva necessária, assistente, nem opoente.",
+      "enunciado": "Compete à Justiça Estadual julgar causas entre consumidor e concessionária de serviço público de telefonia, quando a ANATEL não seja litisconsorte passiva necessária, assistente, nem opoente.",
       "status": "aprovada",
       "ramo": "Processual Civil",
       "data": "18/12/2009",
@@ -245,7 +246,7 @@
     },
     "30": {
       "numero": 30,
-      "enunciado": "(Em 04/02/2010, nos autos da PSV 41, o Tribunal suspendeu a publicação da Súmula Vinculante nº 30.)",
+      "enunciado": "A Súmula Vinculante 30 está pendente de publicação.",
       "status": "aprovada",
       "ramo": "Constitucional",
       "data": "03/02/2010",
@@ -253,7 +254,7 @@
     },
     "31": {
       "numero": 31,
-      "enunciado": "É inconstitucional a incidência do Imposto sobre Serviços de Qualquer Natureza - ISS sobre operações de locação de bens móveis.",
+      "enunciado": "É inconstitucional a incidência do imposto sobre serviços de qualquer natureza - ISS sobre operações de locação de bens móveis.",
       "status": "aprovada",
       "ramo": "Tributário",
       "data": "04/02/2010",
@@ -365,7 +366,7 @@
     },
     "45": {
       "numero": 45,
-      "enunciado": "A competência constitucional do Tribunal do Júri prevalece sobre o foro por prerrogativa de função estabelecido exclusivamente pela constituição estadual.",
+      "enunciado": "A competência constitucional do Tribunal do Júri prevalece sobre o foro por prerrogativa de função estabelecido exclusivamente pela Constituição Estadual.",
       "status": "aprovada",
       "ramo": "Processual Penal",
       "data": "08/04/2015",
@@ -373,7 +374,7 @@
     },
     "46": {
       "numero": 46,
-      "enunciado": "A definição dos crimes de responsabilidade e o estabelecimento das respectivas normas de processo e julgamento são da competência legislativa privativa da União.",
+      "enunciado": "A definição dos crimes de responsabilidade e o estabelecimento das respectivas normas de processo e julgamento são de competência legislativa privativa da União.",
       "status": "aprovada",
       "ramo": "Constitucional",
       "data": "09/04/2015",
@@ -485,7 +486,7 @@
     },
     "60": {
       "numero": 60,
-      "enunciado": "O pedido e a análise administrativos de fármacos na rede pública de saúde, a judicialização do caso, bem ainda seus desdobramentos (administrativos e jurisdicionais), devem observar os termos dos 3 (três) acordos interfederativos (e seus fluxos) homologados pelo Supremo Tribunal Federal, em governança judicial colaborativa, no tema 1.234 da sistemática da repercussão geral (RE 1.366.243).",
+      "enunciado": "O pedido e a análise administrativos de fármacos na rede pública de saúde, a judicialização do caso, bem ainda seus desdobramentos (administrativos e jurisdicionais), devem observar os termos dos 3 (três) acordos interfederativos (e seus fluxos) homologados pelo Supremo Tribunal Federal, em governança judicial colaborativa, no tema 1.234 da sistemática da repercussão geral RE 1.366.243.",
       "status": "aprovada",
       "ramo": "Constitucional",
       "data": "16/09/2024",

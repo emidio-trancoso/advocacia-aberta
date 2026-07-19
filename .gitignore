@@ -10,10 +10,11 @@ __pycache__/
 .DS_Store
 
 # Dados dos SEUS casos — NÃO versionar (sigilo do cliente).
-# Mantém só o modelo vazio e o README explicativo.
+# Mantém só o modelo vazio, o README e o caso-exemplo SINTÉTICO.
 casos/*
 !casos/README.md
 !casos/_modelo-de-caso
+!casos/exemplo-trafico-sintetico
 
 # Claude Code local
 .claude/settings.local.json

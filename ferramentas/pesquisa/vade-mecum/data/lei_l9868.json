@@ -1,0 +1,639 @@
+{
+  "_meta": {
+    "codigo": "L9868",
+    "nome": "ADI e ADC no STF (processo e julgamento)",
+    "lei": "Lei 9.868/1999",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm",
+    "total_artigos": 39,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o Esta Lei dispõe sobre o processo e julgamento da ação direta de inconstitucionalidade e da ação declaratória de constitucionalidade perante o Supremo Tribunal Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%201o%20Esta%20Lei%20disp%C3%B5e%20sobre%20o%20processo%20e%20julgamento%20da%20a%C3%A7%C3%A3o%20direta%20de%20inconstitucionalidade%20e%20da%20a%C3%A7%C3%A3o%20declarat%C3%B3ria%20de%20constitucionalidade%20perante",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE E DA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o Podem propor a ação direta de inconstitucionalidade: (Vide artigo 103 da Constituição Federal)\n\nI - o Presidente da República;\n\nII - a Mesa do Senado Federal;\n\nIII - a Mesa da Câmara dos Deputados;\n\nIV - a Mesa de Assembléia Legislativa ou a Mesa da Câmara Legislativa do Distrito Federal;\n\nV - o Governador de Estado ou o Governador do Distrito Federal;\n\nVI - o Procurador-Geral da República;\n\nVII - o Conselho Federal da Ordem dos Advogados do Brasil;\n\nVIII - partido político com representação no Congresso Nacional;\n\nIX - confederação sindical ou entidade de classe de âmbito nacional.\n\nParágrafo único. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%202o%20Podem%20propor%20a%20a%C3%A7%C3%A3o%20direta%20de%20inconstitucionalidade%3A%20%28Vide%20artigo%20103%20da%20Constitui%C3%A7%C3%A3o%20Federal%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE",
+        "section": "I",
+        "section_name": "Seção I Da Admissibilidade e do Procedimento da Ação Direta de Inconstitucionalidade"
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o A petição indicará:\n\nI - o dispositivo da lei ou do ato normativo impugnado e os fundamentos jurídicos do pedido em relação a cada uma das impugnações;\n\nII - o pedido, com suas especificações.\n\nParágrafo único. A petição inicial, acompanhada de instrumento de procuração, quando subscrita por advogado, será apresentada em duas vias, devendo conter cópias da lei ou do ato normativo impugnado e dos documentos necessários para comprovar a impugnação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%203o%20A%20peti%C3%A7%C3%A3o%20indicar%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE",
+        "section": "I",
+        "section_name": "Seção I Da Admissibilidade e do Procedimento da Ação Direta de Inconstitucionalidade"
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o A petição inicial inepta, não fundamentada e a manifestamente improcedente serão liminarmente indeferidas pelo relator.\n\nParágrafo único. Cabe agravo da decisão que indeferir a petição inicial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%204o%20A%20peti%C3%A7%C3%A3o%20inicial%20inepta%2C%20n%C3%A3o%20fundamentada%20e%20a%20manifestamente%20improcedente%20ser%C3%A3o%20liminarmente%20indeferidas%20pelo%20relator.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE",
+        "section": "I",
+        "section_name": "Seção I Da Admissibilidade e do Procedimento da Ação Direta de Inconstitucionalidade"
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o Proposta a ação direta, não se admitirá desistência.\n\nParágrafo único. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%205o%20Proposta%20a%20a%C3%A7%C3%A3o%20direta%2C%20n%C3%A3o%20se%20admitir%C3%A1%20desist%C3%AAncia.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE",
+        "section": "I",
+        "section_name": "Seção I Da Admissibilidade e do Procedimento da Ação Direta de Inconstitucionalidade"
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o O relator pedirá informações aos órgãos ou às autoridades das quais emanou a lei ou o ato normativo impugnado.\n\nParágrafo único. As informações serão prestadas no prazo de trinta dias contado do recebimento do pedido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%206o%20O%20relator%20pedir%C3%A1%20informa%C3%A7%C3%B5es%20aos%20%C3%B3rg%C3%A3os%20ou%20%C3%A0s%20autoridades%20das%20quais%20emanou%20a%20lei%20ou%20o%20ato%20normativo%20impugnado.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE",
+        "section": "I",
+        "section_name": "Seção I Da Admissibilidade e do Procedimento da Ação Direta de Inconstitucionalidade"
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o Não se admitirá intervenção de terceiros no processo de ação direta de inconstitucionalidade.\n\n§ 1o (VETADO)\n\n§ 2o O relator, considerando a relevância da matéria e a representatividade dos postulantes, poderá, por despacho irrecorrível, admitir, observado o prazo fixado no parágrafo anterior, a manifestação de outros órgãos ou entidades.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%207o%20N%C3%A3o%20se%20admitir%C3%A1%20interven%C3%A7%C3%A3o%20de%20terceiros%20no%20processo%20de%20a%C3%A7%C3%A3o%20direta%20de%20inconstitucionalidade.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE",
+        "section": "I",
+        "section_name": "Seção I Da Admissibilidade e do Procedimento da Ação Direta de Inconstitucionalidade"
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o Decorrido o prazo das informações, serão ouvidos, sucessivamente, o Advogado-Geral da União e o Procurador-Geral da República, que deverão manifestar-se, cada qual, no prazo de quinze dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%208o%20Decorrido%20o%20prazo%20das%20informa%C3%A7%C3%B5es%2C%20ser%C3%A3o%20ouvidos%2C%20sucessivamente%2C%20o%20Advogado-Geral%20da%20Uni%C3%A3o%20e%20o%20Procurador-Geral%20da%20Rep%C3%BAblica%2C%20que%20dever%C3%A3o%20manifestar-se%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE",
+        "section": "I",
+        "section_name": "Seção I Da Admissibilidade e do Procedimento da Ação Direta de Inconstitucionalidade"
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o Vencidos os prazos do artigo anterior, o relator lançará o relatório, com cópia a todos os Ministros, e pedirá dia para julgamento.\n\n§ 1o Em caso de necessidade de esclarecimento de matéria ou circunstância de fato ou de notória insuficiência das informações existentes nos autos, poderá o relator requisitar informações adicionais, designar perito ou comissão de peritos para que emita parecer sobre a questão, ou fixar data para, em audiência pública, ouvir depoimentos de pessoas com experiência e autoridade na matéria.\n\n§ 2o O relator poderá, ainda, solicitar informações aos Tribunais Superiores, aos Tribunais federais e aos Tribunais estaduais acerca da aplicação da norma impugnada no âmbito de sua jurisdição.\n\n§ 3o As informações, perícias e audiências a que se referem os parágrafos anteriores serão realizadas no prazo de trinta dias, contado da solicitação do relator.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%209o%20Vencidos%20os%20prazos%20do%20artigo%20anterior%2C%20o%20relator%20lan%C3%A7ar%C3%A1%20o%20relat%C3%B3rio%2C%20com%20c%C3%B3pia%20a%20todos%20os%20Ministros%2C%20e%20pedir%C3%A1%20dia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE",
+        "section": "I",
+        "section_name": "Seção I Da Admissibilidade e do Procedimento da Ação Direta de Inconstitucionalidade"
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Salvo no período de recesso, a medida cautelar na ação direta será concedida por decisão da maioria absoluta dos membros do Tribunal, observado o disposto no art. 22, após a audiência dos órgãos ou autoridades dos quais emanou a lei ou ato normativo impugnado, que deverão pronunciar-se no prazo de cinco dias.\n\n§ 1o O relator, julgando indispensável, ouvirá o Advogado-Geral da União e o Procurador-Geral da República, no prazo de três dias.\n\n§ 2o No julgamento do pedido de medida cautelar, será facultada sustentação oral aos representantes judiciais do requerente e das autoridades ou órgãos responsáveis pela expedição do ato, na forma estabelecida no Regimento do Tribunal.\n\n§ 3o Em caso de excepcional urgência, o Tribunal poderá deferir a medida cautelar sem a audiência dos órgãos ou das autoridades das quais emanou a lei ou o ato normativo impugnado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2010.%20Salvo%20no%20per%C3%ADodo%20de%20recesso%2C%20a%20medida%20cautelar%20na%20a%C3%A7%C3%A3o%20direta%20ser%C3%A1%20concedida%20por%20decis%C3%A3o%20da%20maioria%20absoluta%20dos%20membros",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE",
+        "section": "II",
+        "section_name": "Seção II Da Medida Cautelar em Ação Direta de Inconstitucionalidade"
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Concedida a medida cautelar, o Supremo Tribunal Federal fará publicar em seção especial do Diário Oficial da União e do Diário da Justiça da União a parte dispositiva da decisão, no prazo de dez dias, devendo solicitar as informações à autoridade da qual tiver emanado o ato, observando-se, no que couber, o procedimento estabelecido na Seção I deste Capítulo.\n\n§ 1o A medida cautelar, dotada de eficácia contra todos, será concedida com efeito ex nunc, salvo se o Tribunal entender que deva conceder-lhe eficácia retroativa.\n\n§ 2o A concessão da medida cautelar torna aplicável a legislação anterior acaso existente, salvo expressa manifestação em sentido contrário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2011.%20Concedida%20a%20medida%20cautelar%2C%20o%20Supremo%20Tribunal%20Federal%20far%C3%A1%20publicar%20em%20se%C3%A7%C3%A3o%20especial%20do%20Di%C3%A1rio%20Oficial%20da%20Uni%C3%A3o%20e%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE",
+        "section": "II",
+        "section_name": "Seção II Da Medida Cautelar em Ação Direta de Inconstitucionalidade"
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Havendo pedido de medida cautelar, o relator, em face da relevância da matéria e de seu especial significado para a ordem social e a segurança jurídica, poderá, após a prestação das informações, no prazo de dez dias, e a manifestação do Advogado-Geral da União e do Procurador-Geral da República, sucessivamente, no prazo de cinco dias, submeter o processo diretamente ao Tribunal, que terá a faculdade de julgar definitivamente a ação. (Vide ADO Nº 26)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2012.%20Havendo%20pedido%20de%20medida%20cautelar%2C%20o%20relator%2C%20em%20face%20da%20relev%C3%A2ncia%20da%20mat%C3%A9ria%20e%20de%20seu%20especial%20significado%20para%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE",
+        "section": "II",
+        "section_name": "Seção II Da Medida Cautelar em Ação Direta de Inconstitucionalidade"
+      },
+      "prev": "11",
+      "next": "12-A"
+    },
+    "12-A": {
+      "numero": "12-A",
+      "texto": "Art. 12-A. Podem propor a ação direta de inconstitucionalidade por omissão os legitimados à propositura da ação direta de inconstitucionalidade e da ação declaratória de constitucionalidade. (Incluído pela Lei nº 12.063, de 2009).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2012-A.%20Podem%20propor%20a%20a%C3%A7%C3%A3o%20direta%20de%20inconstitucionalidade%20por%20omiss%C3%A3o%20os%20legitimados%20%C3%A0%20propositura%20da%20a%C3%A7%C3%A3o%20direta%20de%20inconstitucionalidade%20e%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II-A (Incluído pela Lei nº 12.063, de 2009).",
+        "section": "I",
+        "section_name": "Seção I (Incluído pela Lei nº 12.063, de 2009)."
+      },
+      "prev": "12",
+      "next": "12-B"
+    },
+    "12-B": {
+      "numero": "12-B",
+      "texto": "Art. 12-B. A petição indicará: (Incluído pela Lei nº 12.063, de 2009).\n\nI - a omissão inconstitucional total ou parcial quanto ao cumprimento de dever constitucional de legislar ou quanto à adoção de providência de índole administrativa; (Incluído pela Lei nº 12.063, de 2009).\n\nII - o pedido, com suas especificações. (Incluído pela Lei nº 12.063, de 2009).\n\nParágrafo único. A petição inicial, acompanhada de instrumento de procuração, se for o caso, será apresentada em 2 (duas) vias, devendo conter cópias dos documentos necessários para comprovar a alegação de omissão. (Incluído pela Lei nº 12.063, de 2009).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2012-B.%20A%20peti%C3%A7%C3%A3o%20indicar%C3%A1%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2012.063%2C%20de%202009%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II-A (Incluído pela Lei nº 12.063, de 2009).",
+        "section": "I",
+        "section_name": "Seção I (Incluído pela Lei nº 12.063, de 2009)."
+      },
+      "prev": "12-A",
+      "next": "12-C"
+    },
+    "12-C": {
+      "numero": "12-C",
+      "texto": "Art. 12-C. A petição inicial inepta, não fundamentada, e a manifestamente improcedente serão liminarmente indeferidas pelo relator. (Incluído pela Lei nº 12.063, de 2009).\n\nParágrafo único. Cabe agravo da decisão que indeferir a petição inicial. (Incluído pela Lei nº 12.063, de 2009).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2012-C.%20A%20peti%C3%A7%C3%A3o%20inicial%20inepta%2C%20n%C3%A3o%20fundamentada%2C%20e%20a%20manifestamente%20improcedente%20ser%C3%A3o%20liminarmente%20indeferidas%20pelo%20relator.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2012.063%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II-A (Incluído pela Lei nº 12.063, de 2009).",
+        "section": "I",
+        "section_name": "Seção I (Incluído pela Lei nº 12.063, de 2009)."
+      },
+      "prev": "12-B",
+      "next": "12-D"
+    },
+    "12-D": {
+      "numero": "12-D",
+      "texto": "Art. 12-D. Proposta a ação direta de inconstitucionalidade por omissão, não se admitirá desistência. (Incluído pela Lei nº 12.063, de 2009).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2012-D.%20Proposta%20a%20a%C3%A7%C3%A3o%20direta%20de%20inconstitucionalidade%20por%20omiss%C3%A3o%2C%20n%C3%A3o%20se%20admitir%C3%A1%20desist%C3%AAncia.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2012.063%2C%20de%202009%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II-A (Incluído pela Lei nº 12.063, de 2009).",
+        "section": "I",
+        "section_name": "Seção I (Incluído pela Lei nº 12.063, de 2009)."
+      },
+      "prev": "12-C",
+      "next": "12-E"
+    },
+    "12-E": {
+      "numero": "12-E",
+      "texto": "Art. 12-E. Aplicam-se ao procedimento da ação direta de inconstitucionalidade por omissão, no que couber, as disposições constantes da Seção I do Capítulo II desta Lei. (Incluído pela Lei nº 12.063, de 2009).\n\n§ 1o Os demais titulares referidos no art. 2o desta Lei poderão manifestar-se, por escrito, sobre o objeto da ação e pedir a juntada de documentos reputados úteis para o exame da matéria, no prazo das informações, bem como apresentar memoriais. (Incluído pela Lei nº 12.063, de 2009).\n\n§ 2o O relator poderá solicitar a manifestação do Advogado-Geral da União, que deverá ser encaminhada no prazo de 15 (quinze) dias. (Incluído pela Lei nº 12.063, de 2009).\n\n§ 3o O Procurador-Geral da República, nas ações em que não for autor, terá vista do processo, por 15 (quinze) dias, após o decurso do prazo para informações. (Incluído pela Lei nº 12.063, de 2009).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2012-E.%20Aplicam-se%20ao%20procedimento%20da%20a%C3%A7%C3%A3o%20direta%20de%20inconstitucionalidade%20por%20omiss%C3%A3o%2C%20no%20que%20couber%2C%20as%20disposi%C3%A7%C3%B5es%20constantes%20da%20Se%C3%A7%C3%A3o%20I%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II-A (Incluído pela Lei nº 12.063, de 2009).",
+        "section": "I",
+        "section_name": "Seção I (Incluído pela Lei nº 12.063, de 2009)."
+      },
+      "prev": "12-D",
+      "next": "12-F"
+    },
+    "12-F": {
+      "numero": "12-F",
+      "texto": "Art. 12-F. Em caso de excepcional urgência e relevância da matéria, o Tribunal, por decisão da maioria absoluta de seus membros, observado o disposto no art. 22, poderá conceder medida cautelar, após a audiência dos órgãos ou autoridades responsáveis pela omissão inconstitucional, que deverão pronunciar-se no prazo de 5 (cinco) dias. (Incluído pela Lei nº 12.063, de 2009).\n\n§ 1o A medida cautelar poderá consistir na suspensão da aplicação da lei ou do ato normativo questionado, no caso de omissão parcial, bem como na suspensão de processos judiciais ou de procedimentos administrativos, ou ainda em outra providência a ser fixada pelo Tribunal. (Incluído pela Lei nº 12.063, de 2009).\n\n§ 2o O relator, julgando indispensável, ouvirá o Procurador-Geral da República, no prazo de 3 (três) dias. (Incluído pela Lei nº 12.063, de 2009).\n\n§ 3o No julgamento do pedido de medida cautelar, será facultada sustentação oral aos representantes judiciais do requerente e das autoridades ou órgãos responsáveis pela omissão inconstitucional, na forma estabelecida no Regimento do Tribunal. (Incluído pela Lei nº 12.063, de 2009).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2012-F.%20Em%20caso%20de%20excepcional%20urg%C3%AAncia%20e%20relev%C3%A2ncia%20da%20mat%C3%A9ria%2C%20o%20Tribunal%2C%20por%20decis%C3%A3o%20da%20maioria%20absoluta%20de%20seus%20membros%2C%20observado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II-A (Incluído pela Lei nº 12.063, de 2009).",
+        "section": "II",
+        "section_name": "Seção II (Incluído pela Lei nº 12.063, de 2009)."
+      },
+      "prev": "12-E",
+      "next": "12-G"
+    },
+    "12-G": {
+      "numero": "12-G",
+      "texto": "Art.12-G. Concedida a medida cautelar, o Supremo Tribunal Federal fará publicar, em seção especial do Diário Oficial da União e do Diário da Justiça da União, a parte dispositiva da decisão no prazo de 10 (dez) dias, devendo solicitar as informações à autoridade ou ao órgão responsável pela omissão inconstitucional, observando-se, no que couber, o procedimento estabelecido na Seção I do Capítulo II desta Lei. (Incluído pela Lei nº 12.063, de 2009).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.12-G.%20Concedida%20a%20medida%20cautelar%2C%20o%20Supremo%20Tribunal%20Federal%20far%C3%A1%20publicar%2C%20em%20se%C3%A7%C3%A3o%20especial%20do%20Di%C3%A1rio%20Oficial%20da%20Uni%C3%A3o%20e%20do%20Di%C3%A1rio",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II-A (Incluído pela Lei nº 12.063, de 2009).",
+        "section": "II",
+        "section_name": "Seção II (Incluído pela Lei nº 12.063, de 2009)."
+      },
+      "prev": "12-F",
+      "next": "12-H"
+    },
+    "12-H": {
+      "numero": "12-H",
+      "texto": "Art. 12-H. Declarada a inconstitucionalidade por omissão, com observância do disposto no art. 22, será dada ciência ao Poder competente para a adoção das providências necessárias. (Incluído pela Lei nº 12.063, de 2009).\n\n§ 1o Em caso de omissão imputável a órgão administrativo, as providências deverão ser adotadas no prazo de 30 (trinta) dias, ou em prazo razoável a ser estipulado excepcionalmente pelo Tribunal, tendo em vista as circunstâncias específicas do caso e o interesse público envolvido. (Incluído pela Lei nº 12.063, de 2009).\n\n§ 2o Aplica-se à decisão da ação direta de inconstitucionalidade por omissão, no que couber, o disposto no Capítulo IV desta Lei. (Incluído pela Lei nº 12.063, de 2009).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2012-H.%20Declarada%20a%20inconstitucionalidade%20por%20omiss%C3%A3o%2C%20com%20observ%C3%A2ncia%20do%20disposto%20no%20art.%2022%2C%20ser%C3%A1%20dada%20ci%C3%AAncia%20ao%20Poder%20competente%20para%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II-A (Incluído pela Lei nº 12.063, de 2009).",
+        "section": "III",
+        "section_name": "Seção III (Incluído pela Lei nº 12.063, de 2009)."
+      },
+      "prev": "12-G",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Podem propor a ação declaratória de constitucionalidade de lei ou ato normativo federal: (Vide artigo 103 da Constituição Federal)\n\nI - o Presidente da República;\n\nII - a Mesa da Câmara dos Deputados;\n\nIII - a Mesa do Senado Federal;\n\nIV - o Procurador-Geral da República.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2013.%20Podem%20propor%20a%20a%C3%A7%C3%A3o%20declarat%C3%B3ria%20de%20constitucionalidade%20de%20lei%20ou%20ato%20normativo%20federal%3A%20%28Vide%20artigo%20103%20da%20Constitui%C3%A7%C3%A3o%20Federal%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE",
+        "section": "I",
+        "section_name": "Seção I Da Admissibilidade e do Procedimento da Ação Declaratória de Constitucionalidade"
+      },
+      "prev": "12-H",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. A petição inicial indicará:\n\nI - o dispositivo da lei ou do ato normativo questionado e os fundamentos jurídicos do pedido;\n\nII - o pedido, com suas especificações;\n\nIII - a existência de controvérsia judicial relevante sobre a aplicação da disposição objeto da ação declaratória.\n\nParágrafo único. A petição inicial, acompanhada de instrumento de procuração, quando subscrita por advogado, será apresentada em duas vias, devendo conter cópias do ato normativo questionado e dos documentos necessários para comprovar a procedência do pedido de declaração de constitucionalidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2014.%20A%20peti%C3%A7%C3%A3o%20inicial%20indicar%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE",
+        "section": "I",
+        "section_name": "Seção I Da Admissibilidade e do Procedimento da Ação Declaratória de Constitucionalidade"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. A petição inicial inepta, não fundamentada e a manifestamente improcedente serão liminarmente indeferidas pelo relator.\n\nParágrafo único. Cabe agravo da decisão que indeferir a petição inicial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2015.%20A%20peti%C3%A7%C3%A3o%20inicial%20inepta%2C%20n%C3%A3o%20fundamentada%20e%20a%20manifestamente%20improcedente%20ser%C3%A3o%20liminarmente%20indeferidas%20pelo%20relator.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE",
+        "section": "I",
+        "section_name": "Seção I Da Admissibilidade e do Procedimento da Ação Declaratória de Constitucionalidade"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Proposta a ação declaratória, não se admitirá desistência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2016.%20Proposta%20a%20a%C3%A7%C3%A3o%20declarat%C3%B3ria%2C%20n%C3%A3o%20se%20admitir%C3%A1%20desist%C3%AAncia.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE",
+        "section": "I",
+        "section_name": "Seção I Da Admissibilidade e do Procedimento da Ação Declaratória de Constitucionalidade"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2017.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE",
+        "section": "I",
+        "section_name": "Seção I Da Admissibilidade e do Procedimento da Ação Declaratória de Constitucionalidade"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Não se admitirá intervenção de terceiros no processo de ação declaratória de constitucionalidade.\n\n§ 1o (VETADO)\n\n§ 2o (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2018.%20N%C3%A3o%20se%20admitir%C3%A1%20interven%C3%A7%C3%A3o%20de%20terceiros%20no%20processo%20de%20a%C3%A7%C3%A3o%20declarat%C3%B3ria%20de%20constitucionalidade.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE",
+        "section": "I",
+        "section_name": "Seção I Da Admissibilidade e do Procedimento da Ação Declaratória de Constitucionalidade"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Decorrido o prazo do artigo anterior, será aberta vista ao Procurador-Geral da República, que deverá pronunciar-se no prazo de quinze dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2019.%20Decorrido%20o%20prazo%20do%20artigo%20anterior%2C%20ser%C3%A1%20aberta%20vista%20ao%20Procurador-Geral%20da%20Rep%C3%BAblica%2C%20que%20dever%C3%A1%20pronunciar-se%20no%20prazo%20de%20quinze",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE",
+        "section": "I",
+        "section_name": "Seção I Da Admissibilidade e do Procedimento da Ação Declaratória de Constitucionalidade"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Vencido o prazo do artigo anterior, o relator lançará o relatório, com cópia a todos os Ministros, e pedirá dia para julgamento.\n\n§ 1o Em caso de necessidade de esclarecimento de matéria ou circunstância de fato ou de notória insuficiência das informações existentes nos autos, poderá o relator requisitar informações adicionais, designar perito ou comissão de peritos para que emita parecer sobre a questão ou fixar data para, em audiência pública, ouvir depoimentos de pessoas com experiência e autoridade na matéria.\n\n§ 2o O relator poderá solicitar, ainda, informações aos Tribunais Superiores, aos Tribunais federais e aos Tribunais estaduais acerca da aplicação da norma questionada no âmbito de sua jurisdição.\n\n§ 3o As informações, perícias e audiências a que se referem os parágrafos anteriores serão realizadas no prazo de trinta dias, contado da solicitação do relator.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2020.%20Vencido%20o%20prazo%20do%20artigo%20anterior%2C%20o%20relator%20lan%C3%A7ar%C3%A1%20o%20relat%C3%B3rio%2C%20com%20c%C3%B3pia%20a%20todos%20os%20Ministros%2C%20e%20pedir%C3%A1%20dia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE",
+        "section": "I",
+        "section_name": "Seção I Da Admissibilidade e do Procedimento da Ação Declaratória de Constitucionalidade"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. O Supremo Tribunal Federal, por decisão da maioria absoluta de seus membros, poderá deferir pedido de medida cautelar na ação declaratória de constitucionalidade, consistente na determinação de que os juízes e os Tribunais suspendam o julgamento dos processos que envolvam a aplicação da lei ou do ato normativo objeto da ação até seu julgamento definitivo.\n\nParágrafo único. Concedida a medida cautelar, o Supremo Tribunal Federal fará publicar em seção especial do Diário Oficial da União a parte dispositiva da decisão, no prazo de dez dias, devendo o Tribunal proceder ao julgamento da ação no prazo de cento e oitenta dias, sob pena de perda de sua eficácia.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2021.%20O%20Supremo%20Tribunal%20Federal%2C%20por%20decis%C3%A3o%20da%20maioria%20absoluta%20de%20seus%20membros%2C%20poder%C3%A1%20deferir%20pedido%20de%20medida%20cautelar%20na%20a%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE",
+        "section": "II",
+        "section_name": "Seção II Da Medida Cautelar em Ação Declaratória de Constitucionalidade"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. A decisão sobre a constitucionalidade ou a inconstitucionalidade da lei ou do ato normativo somente será tomada se presentes na sessão pelo menos oito Ministros.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2022.%20A%20decis%C3%A3o%20sobre%20a%20constitucionalidade%20ou%20a%20inconstitucionalidade%20da%20lei%20ou%20do%20ato%20normativo%20somente%20ser%C3%A1%20tomada%20se%20presentes%20na",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA DECISÃO NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE E NA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Efetuado o julgamento, proclamar-se-á a constitucionalidade ou a inconstitucionalidade da disposição ou da norma impugnada se num ou noutro sentido se tiverem manifestado pelo menos seis Ministros, quer se trate de ação direta de inconstitucionalidade ou de ação declaratória de constitucionalidade.\n\nParágrafo único. Se não for alcançada a maioria necessária à declaração de constitucionalidade ou de inconstitucionalidade, estando ausentes Ministros em número que possa influir no julgamento, este será suspenso a fim de aguardar-se o comparecimento dos Ministros ausentes, até que se atinja o número necessário para prolação da decisão num ou noutro sentido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2023.%20Efetuado%20o%20julgamento%2C%20proclamar-se-%C3%A1%20a%20constitucionalidade%20ou%20a%20inconstitucionalidade%20da%20disposi%C3%A7%C3%A3o%20ou%20da%20norma%20impugnada%20se%20num%20ou%20noutro%20sentido",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA DECISÃO NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE E NA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Proclamada a constitucionalidade, julgar-se-á improcedente a ação direta ou procedente eventual ação declaratória; e, proclamada a inconstitucionalidade, julgar-se-á procedente a ação direta ou improcedente eventual ação declaratória.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2024.%20Proclamada%20a%20constitucionalidade%2C%20julgar-se-%C3%A1%20improcedente%20a%20a%C3%A7%C3%A3o%20direta%20ou%20procedente%20eventual%20a%C3%A7%C3%A3o%20declarat%C3%B3ria%3B%20e%2C%20proclamada%20a%20inconstitucionalidade%2C%20julgar-se-%C3%A1%20procedente%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA DECISÃO NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE E NA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Julgada a ação, far-se-á a comunicação à autoridade ou ao órgão responsável pela expedição do ato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2025.%20Julgada%20a%20a%C3%A7%C3%A3o%2C%20far-se-%C3%A1%20a%20comunica%C3%A7%C3%A3o%20%C3%A0%20autoridade%20ou%20ao%20%C3%B3rg%C3%A3o%20respons%C3%A1vel%20pela%20expedi%C3%A7%C3%A3o%20do%20ato.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA DECISÃO NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE E NA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. A decisão que declara a constitucionalidade ou a inconstitucionalidade da lei ou do ato normativo em ação direta ou em ação declaratória é irrecorrível, ressalvada a interposição de embargos declaratórios, não podendo, igualmente, ser objeto de ação rescisória.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2026.%20A%20decis%C3%A3o%20que%20declara%20a%20constitucionalidade%20ou%20a%20inconstitucionalidade%20da%20lei%20ou%20do%20ato%20normativo%20em%20a%C3%A7%C3%A3o%20direta%20ou%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA DECISÃO NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE E NA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Ao declarar a inconstitucionalidade de lei ou ato normativo, e tendo em vista razões de segurança jurídica ou de excepcional interesse social, poderá o Supremo Tribunal Federal, por maioria de dois terços de seus membros, restringir os efeitos daquela declaração ou decidir que ela só tenha eficácia a partir de seu trânsito em julgado ou de outro momento que venha a ser fixado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2027.%20Ao%20declarar%20a%20inconstitucionalidade%20de%20lei%20ou%20ato%20normativo%2C%20e%20tendo%20em%20vista%20raz%C3%B5es%20de%20seguran%C3%A7a%20jur%C3%ADdica%20ou%20de%20excepcional",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA DECISÃO NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE E NA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Dentro do prazo de dez dias após o trânsito em julgado da decisão, o Supremo Tribunal Federal fará publicar em seção especial do Diário da Justiça e do Diário Oficial da União a parte dispositiva do acórdão.\n\nParágrafo único. A declaração de constitucionalidade ou de inconstitucionalidade, inclusive a interpretação conforme a Constituição e a declaração parcial de inconstitucionalidade sem redução de texto, têm eficácia contra todos e efeito vinculante em relação aos órgãos do Poder Judiciário e à Administração Pública federal, estadual e municipal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2028.%20Dentro%20do%20prazo%20de%20dez%20dias%20ap%C3%B3s%20o%20tr%C3%A2nsito%20em%20julgado%20da%20decis%C3%A3o%2C%20o%20Supremo%20Tribunal%20Federal%20far%C3%A1%20publicar%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DA DECISÃO NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE E NA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. O art. 482 do Código de Processo Civil fica acrescido dos seguintes parágrafos:\n\n\"Art. 482. ...........................................................................\n\n§ 1o O Ministério Público e as pessoas jurídicas de direito público responsáveis pela edição do ato questionado, se assim o requererem, poderão manifestar-se no incidente de inconstitucionalidade, observados os prazos e condições fixados no Regimento Interno do Tribunal.\n\n§ 2o Os titulares do direito de propositura referidos no art. 103 da Constituição poderão manifestar-se, por escrito, sobre a questão constitucional objeto de apreciação pelo órgão especial ou pelo Pleno do Tribunal, no prazo fixado em Regimento, sendo-lhes assegurado o direito de apresentar memoriais ou de pedir a juntada de documentos.\n\n§ 3o O relator, considerando a relevância da matéria e a representatividade dos postulantes, poderá admitir, por despacho irrecorrível, a manifestação de outros órgãos ou entidades.\"",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2029.%20O%20art.%20482%20do%20C%C3%B3digo%20de%20Processo%20Civil%20fica%20acrescido%20dos%20seguintes%20par%C3%A1grafos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DAS DISPOSIÇÕES GERAIS E FINAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. O art. 8o da Lei no 8.185, de 14 de maio de 1991, passa a vigorar acrescido dos seguintes dispositivos:\n\n\"Art.8o .............................................................................\n\nI - .....................................................................................\n\n........................................................................................\n\nn) a ação direta de inconstitucionalidade de lei ou ato normativo do Distrito Federal em face da sua Lei Orgânica;\n\n.......................................................................................\n\n§ 3o São partes legítimas para propor a ação direta de inconstitucionalidade:\n\nI- o Governador do Distrito Federal;\n\nII - a Mesa da Câmara Legislativa;\n\nIII - o Procurador-Geral de Justiça;\n\nIV - a Ordem dos Advogados do Brasil, seção do Distrito Federal;\n\nV - as entidades sindicais ou de classe, de atuação no Distrito Federal, demonstrando que a pretensão por elas deduzida guarda relação de pertinência direta com os seus objetivos institucionais;\n\nVI - os partidos políticos com representação na Câmara Legislativa.\n\n§ 4o Aplicam-se ao processo e julgamento da ação direta de Inconstitucionalidade perante o Tribunal de Justiça do Distrito Federal e Territórios as seguintes disposições:\n\nI - o Procurador-Geral de Justiça será sempre ouvido nas ações diretas de constitucionalidade ou de inconstitucionalidade;\n\nII - declarada a inconstitucionalidade por omissão de medida para tornar efetiva norma da Lei Orgânica do Distrito Federal, a decisão será comunicada ao Poder competente para adoção das providências necessárias, e, tratando-se de órgão administrativo, para fazê-lo em trinta dias;\n\nIII - somente pelo voto da maioria absoluta de seus membros ou de seu órgão especial, poderá o Tribunal de Justiça declarar a inconstitucionalidade de lei ou de ato normativo do Distrito Federal ou suspender a sua vigência em decisão de medida cautelar.\n\n§ 5o Aplicam-se, no que couber, ao processo de julgamento da ação direta de inconstitucionalidade de lei ou ato normativo do Distrito Federal em face da sua Lei Orgânica as normas sobre o processo e o julgamento da ação direta de inconstitucionalidade perante o Supremo Tribunal Federal.\"",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2030.%20O%20art.%208o%20da%20Lei%20no%208.185%2C%20de%2014%20de%20maio%20de%201991%2C%20passa%20a%20vigorar%20acrescido%20dos%20seguintes%20dispositivos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DAS DISPOSIÇÕES GERAIS E FINAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Esta Lei entra em vigor na data de sua publicação.\n\nBrasília, 10 de novembro de 1999; 178o da Independência e 111o da República.\n\nFERNANDO HENRIQUE CARDOSO José Carlos Dias\n\nEste texto não substitui o publicado no DOU de 11.11.1999\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm#:~:text=Art.%2031.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DAS DISPOSIÇÕES GERAIS E FINAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": null
+    }
+  }
+}

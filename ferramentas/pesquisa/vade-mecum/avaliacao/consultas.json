@@ -1146,6 +1146,60 @@
     "LRF:20"
    ],
    "justificativa": "O art. 19 fixa os limites globais da despesa com pessoal sobre a receita corrente líquida; o art. 20 os reparte por Poder e órgão; o art. 23 disciplina a recondução ao limite; o art. 71 traz regra transitória sobre a despesa de pessoal. O art. 4º (conteúdo da LDO) não foi julgado relevante."
+  },
+  {
+   "id": "lje-competencia",
+   "grupo": "legislacao",
+   "consulta": "juizados especiais causas menor complexidade quarenta salários mínimos",
+   "filtro": {
+    "codigo": "LJE"
+   },
+   "relevantes": [
+    "LJE:3",
+    "LJE:9"
+   ],
+   "obrigatorios": [
+    "LJE:3"
+   ],
+   "justificativa": "O art. 3º fixa a competência do Juizado Especial Cível para causas de menor complexidade até quarenta salários mínimos; o art. 9º disciplina o comparecimento e a assistência por advogado conforme o valor da causa."
+  },
+  {
+   "id": "l9868-cautelar-adi",
+   "grupo": "legislacao",
+   "consulta": "medida cautelar na ação direta maioria absoluta",
+   "filtro": {
+    "codigo": "L9868"
+   },
+   "relevantes": [
+    "L9868:10",
+    "L9868:12",
+    "L9868:12-F",
+    "L9868:21"
+   ],
+   "obrigatorios": [
+    "L9868:10"
+   ],
+   "justificativa": "O art. 10 disciplina a concessão da cautelar na ADI por maioria absoluta; o art. 12 o rito abreviado; o art. 12-F a cautelar na ação direta por omissão; o art. 21 a cautelar na ADC. O art. 30 (alterações em outra lei) não foi julgado relevante."
+  },
+  {
+   "id": "l11417-sumula-vinculante",
+   "grupo": "legislacao",
+   "consulta": "súmula vinculante edição revisão cancelamento",
+   "filtro": {
+    "codigo": "L11417"
+   },
+   "relevantes": [
+    "L11417:1",
+    "L11417:2",
+    "L11417:3",
+    "L11417:5",
+    "L11417:6"
+   ],
+   "obrigatorios": [
+    "L11417:2",
+    "L11417:3"
+   ],
+   "justificativa": "O art. 2º fixa os pressupostos da edição, revisão e cancelamento do enunciado; o art. 3º os legitimados; o art. 1º delimita o objeto; o art. 5º trata da revogação da lei de base; o art. 6º do efeito da proposta sobre os processos."
   }
  ]
 }

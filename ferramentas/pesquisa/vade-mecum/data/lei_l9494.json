@@ -1,0 +1,207 @@
+{
+  "_meta": {
+    "codigo": "L9494",
+    "nome": "Efeitos Processuais contra a Fazenda Pública",
+    "lei": "Lei 9.494/1997",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9494.htm",
+    "total_artigos": 12,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Aplica-se à tutela antecipada prevista nos arts. 273 e 461 do Código de Processo Civil o disposto nos arts. 5º e seu parágrafo único e 7º da Lei nº 4.348, de 26 de junho de 1964, no art. 1º e seu § 4º da Lei nº 5.021, de 9 de junho de 1966, e nos arts. 1º, 3º e 4º da Lei nº 8.437, de 30 de junho de 1992.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9494.htm#:~:text=Art.%201%C2%BA%20Aplica-se%20%C3%A0%20tutela%20antecipada%20prevista%20nos%20arts.%20273%20e%20461%20do%20C%C3%B3digo%20de%20Processo%20Civil%20o%20disposto%20nos%20arts.%205%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "1-A"
+    },
+    "1-A": {
+      "numero": "1-A",
+      "texto": "Art. 1o-A. Estão dispensadas de depósito prévio, para interposição de recurso, as pessoas jurídicas de direito público federais, estaduais, distritais e municipais. (Incluído pela Medida provisória nº 2.180-35, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9494.htm#:~:text=Art.%201o-A.%20Est%C3%A3o%20dispensadas%20de%20dep%C3%B3sito%20pr%C3%A9vio%2C%20para%20interposi%C3%A7%C3%A3o%20de%20recurso%2C%20as%20pessoas%20jur%C3%ADdicas%20de%20direito%20p%C3%BAblico%20federais%2C%20estaduais%2C%20distritais%20e%20municipais.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "1-B"
+    },
+    "1-B": {
+      "numero": "1-B",
+      "texto": "Art. 1o-B. O prazo a que se refere o caput dos arts. 730 do Código de Processo Civil, e 884 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei no 5.452, de 1o de maio de 1943, passa a ser de trinta dias (Incluído pela Medida provisória nº 2.180-35, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9494.htm#:~:text=Art.%201o-B.%20O%20prazo%20a%20que%20se%20refere%20o%20caput%20dos%20arts.%20730%20do%20C%C3%B3digo%20de%20Processo%20Civil%2C%20e%20884%20da%20Consolida%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1-A",
+      "next": "1-C"
+    },
+    "1-C": {
+      "numero": "1-C",
+      "texto": "Art. 1o-C. Prescreverá em cinco anos o direito de obter indenização dos danos causados por agentes de pessoas jurídicas de direito público e de pessoas jurídicas de direito privado prestadoras de serviços públicos. (Incluído pela Medida provisória nº 2.180-35, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9494.htm#:~:text=Art.%201o-C.%20Prescrever%C3%A1%20em%20cinco%20anos%20o%20direito%20de%20obter%20indeniza%C3%A7%C3%A3o%20dos%20danos%20causados%20por%20agentes%20de%20pessoas%20jur%C3%ADdicas%20de%20direito%20p%C3%BAblico",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1-B",
+      "next": "1-D"
+    },
+    "1-D": {
+      "numero": "1-D",
+      "texto": "Art. 1o-D. Não serão devidos honorários advocatícios pela Fazenda Pública nas execuções não embargadas. (Incluído pela Medida provisória nº 2.180-35, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9494.htm#:~:text=Art.%201o-D.%20N%C3%A3o%20ser%C3%A3o%20devidos%20honor%C3%A1rios%20advocat%C3%ADcios%20pela%20Fazenda%20P%C3%BAblica%20nas%20execu%C3%A7%C3%B5es%20n%C3%A3o%20embargadas.%20%28Inclu%C3%ADdo%20pela%20Medida%20provis%C3%B3ria%20n%C2%BA%202.180-35%2C%20de%202001%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1-C",
+      "next": "1-E"
+    },
+    "1-E": {
+      "numero": "1-E",
+      "texto": "Art. 1o-E. São passíveis de revisão, pelo Presidente do Tribunal, de ofício ou a requerimento das partes, as contas elaboradas para aferir o valor dos precatórios antes de seu pagamento ao credor. (Incluído pela Medida provisória nº 2.180-35, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9494.htm#:~:text=Art.%201o-E.%20S%C3%A3o%20pass%C3%ADveis%20de%20revis%C3%A3o%2C%20pelo%20Presidente%20do%20Tribunal%2C%20de%20of%C3%ADcio%20ou%20a%20requerimento%20das%20partes%2C%20as%20contas%20elaboradas%20para%20aferir",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1-D",
+      "next": "1-F"
+    },
+    "1-F": {
+      "numero": "1-F",
+      "texto": "Art. 1o-F. Os juros de mora, nas condenações impostas à Fazenda Pública para pagamento de verbas remuneratórias devidas a servidores e empregados públicos, não poderão ultrapassar o percentual de seis por cento ao ano. (Incluído pela Medida provisória nº 2.180-35, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9494.htm#:~:text=Art.%201o-F.%20Os%20juros%20de%20mora%2C%20nas%20condena%C3%A7%C3%B5es%20impostas%20%C3%A0%20Fazenda%20P%C3%BAblica%20para%20pagamento%20de%20verbas%20remunerat%C3%B3rias%20devidas%20a%20servidores%20e%20empregados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1-E",
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º O art. 16 da Lei nº 7.347, de 24 de julho de 1985, passa a vigorar com a seguinte redação:\n\n“Art. 16. A sentença civil fará coisa julgada erga omnes, nos limites da competência territorial do órgão prolator, exceto se o pedido for julgado improcedente por insuficiência de provas, hipótese em que qualquer legitimado poderá intentar outra ação com idêntico fundamento, valendo-se de nova prova.”",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9494.htm#:~:text=Art.%202%C2%BA%20O%20art.%2016%20da%20Lei%20n%C2%BA%207.347%2C%20de%2024%20de%20julho%20de%201985%2C%20passa%20a%20vigorar%20com%20a%20seguinte%20reda%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1-F",
+      "next": "2-A"
+    },
+    "2-A": {
+      "numero": "2-A",
+      "texto": "Art. 2o-A. A sentença civil prolatada em ação de caráter coletivo proposta por entidade associativa, na defesa dos interesses e direitos dos seus associados, abrangerá apenas os substituídos que tenham, na data da propositura da ação, domicílio no âmbito da competência territorial do órgão prolator. (Incluído pela Medida provisória nº 2.180-35, de 2001)\n\nParágrafo único. Nas ações coletivas propostas contra a União, os Estados, o Distrito Federal, os Municípios e suas autarquias e fundações, a petição inicial deverá obrigatoriamente estar instruída com a ata da assembléia da entidade associativa que a autorizou, acompanhada da relação nominal dos seus associados e indicação dos respectivos endereços. (Incluído pela Medida provisória nº 2.180-35, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9494.htm#:~:text=Art.%202o-A.%20A%20senten%C3%A7a%20civil%20prolatada%20em%20a%C3%A7%C3%A3o%20de%20car%C3%A1ter%20coletivo%20proposta%20por%20entidade%20associativa%2C%20na%20defesa%20dos%20interesses%20e%20direitos%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "2-B"
+    },
+    "2-B": {
+      "numero": "2-B",
+      "texto": "Art. 2o-B. A sentença que tenha por objeto a liberação de recurso, inclusão em folha de pagamento, reclassificação, equiparação, concessão de aumento ou extensão de vantagens a servidores da União, dos Estados, do Distrito Federal e dos Municípios, inclusive de suas autarquias e fundações, somente poderá ser executada após seu trânsito em julgado. (Incluído pela Medida provisória nº 2.180-35, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9494.htm#:~:text=Art.%202o-B.%20A%20senten%C3%A7a%20que%20tenha%20por%20objeto%20a%20libera%C3%A7%C3%A3o%20de%20recurso%2C%20inclus%C3%A3o%20em%20folha%20de%20pagamento%2C%20reclassifica%C3%A7%C3%A3o%2C%20equipara%C3%A7%C3%A3o%2C%20concess%C3%A3o%20de%20aumento",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2-A",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Ficam convalidados os atos praticados com base, na Medida Provisória nº 1.570-4, de 22 de julho de 1997.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9494.htm#:~:text=Art.%203%C2%BA%20Ficam%20convalidados%20os%20atos%20praticados%20com%20base%2C%20na%20Medida%20Provis%C3%B3ria%20n%C2%BA%201.570-4%2C%20de%2022%20de%20julho%20de%201997.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2-B",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\n\nCongresso Nacional, 10 de setembro, de 1997;176º da Independência e 109º da República.\n\nSenador ANTONIO CARLOS MAGALHÃES Presidente do Congresso Nacional\n\nEste texto não substitui o publicado no D.O.U. de 24.12.1997\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9494.htm#:~:text=Art.%204%C2%BA%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": null
+    }
+  }
+}

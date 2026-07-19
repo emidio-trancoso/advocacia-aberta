@@ -1,0 +1,111 @@
+{
+  "_meta": {
+    "codigo": "L8437",
+    "nome": "Suspensão de Liminar e Sentença (Fazenda Pública)",
+    "lei": "Lei 8.437/1992",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l8437.htm",
+    "total_artigos": 6,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1° Não será cabível medida liminar contra atos do Poder Público, no procedimento cautelar ou em quaisquer outras ações de natureza cautelar ou preventiva, toda vez que providência semelhante não puder ser concedida em ações de mandado de segurança, em virtude de vedação legal.\n\n§ 1° Não será cabível, no juízo de primeiro grau, medida cautelar inominada ou a sua liminar, quando impugnado ato de autoridade sujeita, na via de mandado de segurança, à competência originária de tribunal.\n\n§ 2° O disposto no parágrafo anterior não se aplica aos processos de ação popular e de ação civil pública.\n\n§ 3° Não será cabível medida liminar que esgote, no todo ou em qualquer parte, o objeto da ação.\n\n§ 4° Nos casos em que cabível medida liminar, sem prejuízo da comunicação ao dirigente do órgão ou entidade, o respectivo representante judicial dela será imediatamente intimado. (Incluído pela Medida Provisória nº 2,180-35, de 2001)\n\n§ 5o Não será cabível medida liminar que defira compensação de créditos tributários ou previdenciários. (Incluído pela Medida Provisória nº 2,180-35, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8437.htm#:~:text=Art.%201%C2%B0%20N%C3%A3o%20ser%C3%A1%20cab%C3%ADvel%20medida%20liminar%20contra%20atos%20do%20Poder%20P%C3%BAblico%2C%20no%20procedimento%20cautelar%20ou%20em%20quaisquer%20outras%20a%C3%A7%C3%B5es%20de%20natureza",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º No mandado de segurança coletivo e na ação civil pública, a liminar será concedida, quando cabível, após a audiência do representante judicial da pessoa jurídica de direito público, que deverá se pronunciar no prazo de setenta e duas horas .",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8437.htm#:~:text=Art.%202%C2%BA%20No%20mandado%20de%20seguran%C3%A7a%20coletivo%20e%20na%20a%C3%A7%C3%A3o%20civil%20p%C3%BAblica%2C%20a%20liminar%20ser%C3%A1%20concedida%2C%20quando%20cab%C3%ADvel%2C%20ap%C3%B3s%20a%20audi%C3%AAncia%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3° O recurso voluntário ou ex officio, interposto contra sentença em processo cautelar, proferida contra pessoa jurídica de direito público ou seus agentes, que importe em outorga ou adição de vencimentos ou de reclassificação funcional, terá efeito suspensivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8437.htm#:~:text=Art.%203%C2%B0%20O%20recurso%20volunt%C3%A1rio%20ou%20ex%20officio%2C%20interposto%20contra%20senten%C3%A7a%20em%20processo%20cautelar%2C%20proferida%20contra%20pessoa%20jur%C3%ADdica%20de%20direito%20p%C3%BAblico%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4° Compete ao presidente do tribunal, ao qual couber o conhecimento do respectivo recurso, suspender, em despacho fundamentado, a execução da liminar nas ações movidas contra o Poder Público ou seus agentes, a requerimento do Ministério Público ou da pessoa jurídica de direito público interessada, em caso de manifesto interesse público ou de flagrante ilegitimidade, e para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas.\n\n§ 1° Aplica-se o disposto neste artigo à sentença proferida em processo de ação cautelar inominada, no processo de ação popular e na ação civil pública, enquanto não transitada em julgado.\n\n§ 2° O presidente do tribunal poderá ouvir o autor e o Ministério Público, em cinco dias.\n\n§ 2o O Presidente do Tribunal poderá ouvir o autor e o Ministério Público, em setenta e duas horas. (Redação dada pela Medida Provisória nº 2,180-35, de 2001)\n\n§ 3° Do despacho que conceder ou negar a suspensão, caberá agravo, no prazo de cinco dias.\n\n§ 3o Do despacho que conceder ou negar a suspensão, caberá agravo, no prazo de cinco dias, que será levado a julgamento na sessão seguinte a sua interposição. (Redação dada pela Medida Provisória nº 2,180-35, de 2001)\n\n§ 4o Se do julgamento do agravo de que trata o § 3o resultar a manutenção ou o restabelecimento da decisão que se pretende suspender, caberá novo pedido de suspensão ao Presidente do Tribunal competente para conhecer de eventual recurso especial ou extraordinário. (Incluído pela Medida Provisória nº 2,180-35, de 2001)\n\n§ 5o É cabível também o pedido de suspensão a que se refere o § 4o, quando negado provimento a agravo de instrumento interposto contra a liminar a que se refere este artigo. (Incluído pela Medida Provisória nº 2,180-35, de 2001)\n\n§ 6o A interposição do agravo de instrumento contra liminar concedida nas ações movidas contra o Poder Público e seus agentes não prejudica nem condiciona o julgamento do pedido de suspensão a que se refere este artigo. (Incluído pela Medida Provisória nº 2,180-35, de 2001)\n\n§ 7o O Presidente do Tribunal poderá conferir ao pedido efeito suspensivo liminar, se constatar, em juízo prévio, a plausibilidade do direito invocado e a urgência na concessão da medida. (Incluído pela Medida Provisória nº 2,180-35, de 2001)\n\n§ 8o As liminares cujo objeto seja idêntico poderão ser suspensas em uma única decisão, podendo o Presidente do Tribunal estender os efeitos da suspensão a liminares supervenientes, mediante simples aditamento do pedido original. (Incluído pela Medida Provisória nº 2,180-35, de 2001)\n\n§ 9o A suspensão deferida pelo Presidente do Tribunal vigorará até o trânsito em julgado da decisão de mérito na ação principal. (Incluído pela Medida Provisória nº 2,180-35, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8437.htm#:~:text=Art.%204%C2%B0%20Compete%20ao%20presidente%20do%20tribunal%2C%20ao%20qual%20couber%20o%20conhecimento%20do%20respectivo%20recurso%2C%20suspender%2C%20em%20despacho%20fundamentado%2C%20a%20execu%C3%A7%C3%A3o%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5° Esta lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8437.htm#:~:text=Art.%205%C2%B0%20Esta%20lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6° Revogam-se as disposições em contrário.\n\nBrasília, 30 de junho de 1992; 171° da Independência e 104° da República.\n\nFERNANDO COLLOR Célio Borja Marcílio Marques Moreira\n\nEste texto não substitui o publicado no DOU de 1.7.1992\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8437.htm#:~:text=Art.%206%C2%B0%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": null
+    }
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "_meta": {
+    "codigo": "L11419",
+    "nome": "Processo Judicial Eletrônico (PJe) e atos eletrônicos",
+    "lei": "Lei 11.419/2006",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm",
+    "total_artigos": 22,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º O uso de meio eletrônico na tramitação de processos judiciais, comunicação de atos e transmissão de peças processuais será admitido nos termos desta Lei.\n\n§ 1º Aplica-se o disposto nesta Lei, indistintamente, aos processos civil, penal e trabalhista, bem como aos juizados especiais, em qualquer grau de jurisdição.\n\n§ 2º Para o disposto nesta Lei, considera-se:\n\nI - meio eletrônico qualquer forma de armazenamento ou tráfego de documentos e arquivos digitais;\n\nII - transmissão eletrônica toda forma de comunicação a distância com a utilização de redes de comunicação, preferencialmente a rede mundial de computadores;\n\nIII - assinatura eletrônica as seguintes formas de identificação inequívoca do signatário:\n\na) assinatura digital baseada em certificado digital emitido por Autoridade Certificadora credenciada, na forma de lei específica;\n\nb) mediante cadastro de usuário no Poder Judiciário, conforme disciplinado pelos órgãos respectivos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm#:~:text=Art.%201%C2%BA%20O%20uso%20de%20meio%20eletr%C3%B4nico%20na%20tramita%C3%A7%C3%A3o%20de%20processos%20judiciais%2C%20comunica%C3%A7%C3%A3o%20de%20atos%20e%20transmiss%C3%A3o%20de%20pe%C3%A7as%20processuais%20ser%C3%A1%20admitido",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "capítulo I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º O envio de petições, de recursos e a prática de atos processuais em geral por meio eletrônico serão admitidos mediante uso de assinatura eletrônica, na forma do art. 1º desta Lei, sendo obrigatório o credenciamento prévio no Poder Judiciário, conforme disciplinado pelos órgãos respectivos.\n\n§ 1º O credenciamento no Poder Judiciário será realizado mediante procedimento no qual esteja assegurada a adequada identificação presencial do interessado.\n\n§ 2º Ao credenciado será atribuído registro e meio de acesso ao sistema, de modo a preservar o sigilo, a identificação e a autenticidade de suas comunicações.\n\n§ 3º Os órgãos do Poder Judiciário poderão criar um cadastro único para o credenciamento previsto neste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm#:~:text=Art.%202%C2%BA%20O%20envio%20de%20peti%C3%A7%C3%B5es%2C%20de%20recursos%20e%20a%20pr%C3%A1tica%20de%20atos%20processuais%20em%20geral%20por%20meio%20eletr%C3%B4nico%20ser%C3%A3o%20admitidos%20mediante",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "capítulo I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Consideram-se realizados os atos processuais por meio eletrônico no dia e hora do seu envio ao sistema do Poder Judiciário, do que deverá ser fornecido protocolo eletrônico.\n\nParágrafo único. Quando a petição eletrônica for enviada para atender prazo processual, serão consideradas tempestivas as transmitidas até as 24 (vinte e quatro) horas do seu último dia.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm#:~:text=Art.%203%C2%BA%20Consideram-se%20realizados%20os%20atos%20processuais%20por%20meio%20eletr%C3%B4nico%20no%20dia%20e%20hora%20do%20seu%20envio%20ao%20sistema%20do%20Poder%20Judici%C3%A1rio%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "capítulo I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Os tribunais poderão criar Diário da Justiça eletrônico, disponibilizado em sítio da rede mundial de computadores, para publicação de atos judiciais e administrativos próprios e dos órgãos a eles subordinados, bem como comunicações em geral.\n\n§ 1º O sítio e o conteúdo das publicações de que trata este artigo deverão ser assinados digitalmente com base em certificado emitido por Autoridade Certificadora credenciada na forma da lei específica.\n\n§ 2º A publicação eletrônica na forma deste artigo substitui qualquer outro meio e publicação oficial, para quaisquer efeitos legais, à exceção dos casos que, por lei, exigem intimação ou vista pessoal.\n\n§ 3º Considera-se como data da publicação o primeiro dia útil seguinte ao da disponibilização da informação no Diário da Justiça eletrônico.\n\n§ 4º Os prazos processuais terão início no primeiro dia útil que seguir ao considerado como data da publicação.\n\n§ 5º A criação do Diário da Justiça eletrônico deverá ser acompanhada de ampla divulgação, e o ato administrativo correspondente será publicado durante 30 (trinta) dias no diário oficial em uso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm#:~:text=Art.%204%C2%BA%20Os%20tribunais%20poder%C3%A3o%20criar%20Di%C3%A1rio%20da%20Justi%C3%A7a%20eletr%C3%B4nico%2C%20disponibilizado%20em%20s%C3%ADtio%20da%20rede%20mundial%20de%20computadores%2C%20para%20publica%C3%A7%C3%A3o%20de%20atos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "capítulo II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º As intimações serão feitas por meio eletrônico em portal próprio aos que se cadastrarem na forma do art. 2º desta Lei, dispensando-se a publicação no órgão oficial, inclusive eletrônico.\n\n§ 1º Considerar-se-á realizada a intimação no dia em que o intimando efetivar a consulta eletrônica ao teor da intimação, certificando-se nos autos a sua realização.\n\n§ 2º Na hipótese do § 1º deste artigo, nos casos em que a consulta se dê em dia não útil, a intimação será considerada como realizada no primeiro dia útil seguinte.\n\n§ 3º A consulta referida nos §§ 1º e 2º deste artigo deverá ser feita em até 10 (dez) dias corridos contados da data do envio da intimação, sob pena de considerar-se a intimação automaticamente realizada na data do término desse prazo.\n\n§ 4º Em caráter informativo, poderá ser efetivada remessa de correspondência eletrônica, comunicando o envio da intimação e a abertura automática do prazo processual nos termos do § 3º deste artigo, aos que manifestarem interesse por esse serviço.\n\n§ 5º Nos casos urgentes em que a intimação feita na forma deste artigo possa causar prejuízo a quaisquer das partes ou nos casos em que for evidenciada qualquer tentativa de burla ao sistema, o ato processual deverá ser realizado por outro meio que atinja a sua finalidade, conforme determinado pelo juiz.\n\n§ 6º As intimações feitas na forma deste artigo, inclusive da Fazenda Pública, serão consideradas pessoais para todos os efeitos legais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm#:~:text=Art.%205%C2%BA%20As%20intima%C3%A7%C3%B5es%20ser%C3%A3o%20feitas%20por%20meio%20eletr%C3%B4nico%20em%20portal%20pr%C3%B3prio%20aos%20que%20se%20cadastrarem%20na%20forma%20do%20art.%202%C2%BA%20desta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "capítulo II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Observadas as formas e as cautelas do art. 5º desta Lei, as citações, inclusive da Fazenda Pública, excetuadas as dos Direitos Processuais Criminal e Infracional, poderão ser feitas por meio eletrônico, desde que a íntegra dos autos seja acessível ao citando.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm#:~:text=Art.%206%C2%BA%20Observadas%20as%20formas%20e%20as%20cautelas%20do%20art.%205%C2%BA%20desta%20Lei%2C%20as%20cita%C3%A7%C3%B5es%2C%20inclusive%20da%20Fazenda%20P%C3%BAblica%2C%20excetuadas%20as%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "capítulo II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º As cartas precatórias, rogatórias, de ordem e, de um modo geral, todas as comunicações oficiais que transitem entre órgãos do Poder Judiciário, bem como entre os deste e os dos demais Poderes, serão feitas preferentemente por meio eletrônico.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm#:~:text=Art.%207%C2%BA%20As%20cartas%20precat%C3%B3rias%2C%20rogat%C3%B3rias%2C%20de%20ordem%20e%2C%20de%20um%20modo%20geral%2C%20todas%20as%20comunica%C3%A7%C3%B5es%20oficiais%20que%20transitem%20entre%20%C3%B3rg%C3%A3os%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "capítulo II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Os órgãos do Poder Judiciário poderão desenvolver sistemas eletrônicos de processamento de ações judiciais por meio de autos total ou parcialmente digitais, utilizando, preferencialmente, a rede mundial de computadores e acesso por meio de redes internas e externas.\n\nParágrafo único. Todos os atos processuais do processo eletrônico serão assinados eletronicamente na forma estabelecida nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm#:~:text=Art.%208%C2%BA%20Os%20%C3%B3rg%C3%A3os%20do%20Poder%20Judici%C3%A1rio%20poder%C3%A3o%20desenvolver%20sistemas%20eletr%C3%B4nicos%20de%20processamento%20de%20a%C3%A7%C3%B5es%20judiciais%20por%20meio%20de%20autos%20total%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IIi",
+        "chapter_name": "capítulo IIi",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º No processo eletrônico, todas as citações, intimações e notificações, inclusive da Fazenda Pública, serão feitas por meio eletrônico, na forma desta Lei.\n\n§ 1º As citações, intimações, notificações e remessas que viabilizem o acesso à íntegra do processo correspondente serão consideradas vista pessoal do interessado para todos os efeitos legais.\n\n§ 2º Quando, por motivo técnico, for inviável o uso do meio eletrônico para a realização de citação, intimação ou notificação, esses atos processuais poderão ser praticados segundo as regras ordinárias, digitalizando-se o documento físico, que deverá ser posteriormente destruído.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm#:~:text=Art.%209%C2%BA%20No%20processo%20eletr%C3%B4nico%2C%20todas%20as%20cita%C3%A7%C3%B5es%2C%20intima%C3%A7%C3%B5es%20e%20notifica%C3%A7%C3%B5es%2C%20inclusive%20da%20Fazenda%20P%C3%BAblica%2C%20ser%C3%A3o%20feitas%20por%20meio%20eletr%C3%B4nico%2C%20na%20forma",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IIi",
+        "chapter_name": "capítulo IIi",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A distribuição da petição inicial e a juntada da contestação, dos recursos e das petições em geral, todos em formato digital, nos autos de processo eletrônico, podem ser feitas diretamente pelos advogados públicos e privados, sem necessidade da intervenção do cartório ou secretaria judicial, situação em que a autuação deverá se dar de forma automática, fornecendo-se recibo eletrônico de protocolo.\n\n§ 1º Quando o ato processual tiver que ser praticado em determinado prazo, por meio de petição eletrônica, serão considerados tempestivos os efetivados até as 24 (vinte e quatro) horas do último dia.\n\n§ 2º No caso do § 1º deste artigo, se o Sistema do Poder Judiciário se tornar indisponível por motivo técnico, o prazo fica automaticamente prorrogado para o primeiro dia útil seguinte à resolução do problema.\n\n§ 3º Os órgãos do Poder Judiciário deverão manter equipamentos de digitalização e de acesso à rede mundial de computadores à disposição dos interessados para distribuição de peças processuais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm#:~:text=Art.%2010.%20A%20distribui%C3%A7%C3%A3o%20da%20peti%C3%A7%C3%A3o%20inicial%20e%20a%20juntada%20da%20contesta%C3%A7%C3%A3o%2C%20dos%20recursos%20e%20das%20peti%C3%A7%C3%B5es%20em%20geral%2C%20todos%20em%20formato",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IIi",
+        "chapter_name": "capítulo IIi",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Os documentos produzidos eletronicamente e juntados aos processos eletrônicos com garantia da origem e de seu signatário, na forma estabelecida nesta Lei, serão considerados originais para todos os efeitos legais.\n\n§ 1º Os extratos digitais e os documentos digitalizados e juntados aos autos pelos órgãos da Justiça e seus auxiliares, pelo Ministério Público e seus auxiliares, pelas procuradorias, pelas autoridades policiais, pelas repartições públicas em geral e por advogados públicos e privados têm a mesma força probante dos originais, ressalvada a alegação motivada e fundamentada de adulteração antes ou durante o processo de digitalização.\n\n§ 2º A argüição de falsidade do documento original será processada eletronicamente na forma da lei processual em vigor.\n\n§ 3º Os originais dos documentos digitalizados, mencionados no § 2º deste artigo, deverão ser preservados pelo seu detentor até o trânsito em julgado da sentença ou, quando admitida, até o final do prazo para interposição de ação rescisória.\n\n§ 4º (VETADO)\n\n§ 5º Os documentos cuja digitalização seja tecnicamente inviável devido ao grande volume ou por motivo de ilegibilidade deverão ser apresentados ao cartório ou secretaria no prazo de 10 (dez) dias contados do envio de petição eletrônica comunicando o fato, os quais serão devolvidos à parte após o trânsito em julgado.\n\n§ 5º Os documentos cuja digitalização seja tecnicamente inviável devido ao grande volume ou por motivo de ilegibilidade deverão ser apresentados ao cartório ou secretaria ou encaminhados por meio de protocolo integrado judicial nacional no prazo de 10 (dez) dias contado do envio de petição eletrônica comunicando o fato, os quais serão devolvidos à parte após o trânsito em julgado. (Redação dada pela Lei nº 14.318, de 2022) Vigência\n\n§ 6º Os documentos digitalizados juntados em processo eletrônico somente estarão disponíveis para acesso por meio da rede externa para suas respectivas partes processuais e para o Ministério Público, respeitado o disposto em lei para as situações de sigilo e de segredo de justiça.\n\n§ 6º Os documentos digitalizados juntados em processo eletrônico estarão disponíveis para acesso por meio da rede externa pelas respectivas partes processuais, pelos advogados, independentemente de procuração nos autos, pelos membros do Ministério Público e pelos magistrados, sem prejuízo da possibilidade de visualização nas secretarias dos órgãos julgadores, à exceção daqueles que tramitarem em segredo de justiça. (Incluído pela Lei nº 13.793, de 2019)\n\n§ 7º Os sistemas de informações pertinentes a processos eletrônicos devem possibilitar que advogados, procuradores e membros do Ministério Público cadastrados, mas não vinculados a processo previamente identificado, acessem automaticamente todos os atos e documentos processuais armazenados em meio eletrônico, desde que demonstrado interesse para fins apenas de registro, salvo nos casos de processos em segredo de justiça. (Incluído pela Lei nº 13.793, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm#:~:text=Art.%2011.%20Os%20documentos%20produzidos%20eletronicamente%20e%20juntados%20aos%20processos%20eletr%C3%B4nicos%20com%20garantia%20da%20origem%20e%20de%20seu%20signat%C3%A1rio%2C%20na%20forma%20estabelecida",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IIi",
+        "chapter_name": "capítulo IIi",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. A conservação dos autos do processo poderá ser efetuada total ou parcialmente por meio eletrônico.\n\n§ 1º Os autos dos processos eletrônicos deverão ser protegidos por meio de sistemas de segurança de acesso e armazenados em meio que garanta a preservação e integridade dos dados, sendo dispensada a formação de autos suplementares.\n\n§ 2º Os autos de processos eletrônicos que tiverem de ser remetidos a outro juízo ou instância superior que não disponham de sistema compatível deverão ser impressos em papel, autuados na forma dos arts. 166 a 168 da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, ainda que de natureza criminal ou trabalhista, ou pertinentes a juizado especial.\n\n§ 3º No caso do § 2º deste artigo, o escrivão ou o chefe de secretaria certificará os autores ou a origem dos documentos produzidos nos autos, acrescentando, ressalvada a hipótese de existir segredo de justiça, a forma pela qual o banco de dados poderá ser acessado para aferir a autenticidade das peças e das respectivas assinaturas digitais.\n\n§ 4º Feita a autuação na forma estabelecida no § 2º deste artigo, o processo seguirá a tramitação legalmente estabelecida para os processos físicos.\n\n§ 5º A digitalização de autos em mídia não digital, em tramitação ou já arquivados, será precedida de publicação de editais de intimações ou da intimação pessoal das partes e de seus procuradores, para que, no prazo preclusivo de 30 (trinta) dias, se manifestem sobre o desejo de manterem pessoalmente a guarda de algum dos documentos originais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm#:~:text=Art.%2012.%20A%20conserva%C3%A7%C3%A3o%20dos%20autos%20do%20processo%20poder%C3%A1%20ser%20efetuada%20total%20ou%20parcialmente%20por%20meio%20eletr%C3%B4nico.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IIi",
+        "chapter_name": "capítulo IIi",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. O magistrado poderá determinar que sejam realizados por meio eletrônico a exibição e o envio de dados e de documentos necessários à instrução do processo.\n\n§ 1º Consideram-se cadastros públicos, para os efeitos deste artigo, dentre outros existentes ou que venham a ser criados, ainda que mantidos por concessionárias de serviço público ou empresas privadas, os que contenham informações indispensáveis ao exercício da função judicante.\n\n§ 2º O acesso de que trata este artigo dar-se-á por qualquer meio tecnológico disponível, preferentemente o de menor custo, considerada sua eficiência.\n\n§ 3º (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm#:~:text=Art.%2013.%20O%20magistrado%20poder%C3%A1%20determinar%20que%20sejam%20realizados%20por%20meio%20eletr%C3%B4nico%20a%20exibi%C3%A7%C3%A3o%20e%20o%20envio%20de%20dados%20e%20de%20documentos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IIi",
+        "chapter_name": "capítulo IIi",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Os sistemas a serem desenvolvidos pelos órgãos do Poder Judiciário deverão usar, preferencialmente, programas com código aberto, acessíveis ininterruptamente por meio da rede mundial de computadores, priorizando-se a sua padronização.\n\nParágrafo único. Os sistemas devem buscar identificar os casos de ocorrência de prevenção, litispendência e coisa julgada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm#:~:text=Art.%2014.%20Os%20sistemas%20a%20serem%20desenvolvidos%20pelos%20%C3%B3rg%C3%A3os%20do%20Poder%20Judici%C3%A1rio%20dever%C3%A3o%20usar%2C%20preferencialmente%2C%20programas%20com%20c%C3%B3digo%20aberto%2C%20acess%C3%ADveis%20ininterruptamente%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "iv",
+        "chapter_name": "capítulo iv",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Salvo impossibilidade que comprometa o acesso à justiça, a parte deverá informar, ao distribuir a petição inicial de qualquer ação judicial, o número no cadastro de pessoas físicas ou jurídicas, conforme o caso, perante a Secretaria da Receita Federal.\n\nParágrafo único. Da mesma forma, as peças de acusação criminais deverão ser instruídas pelos membros do Ministério Público ou pelas autoridades policiais com os números de registros dos acusados no Instituto Nacional de Identificação do Ministério da Justiça, se houver.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm#:~:text=Art.%2015.%20Salvo%20impossibilidade%20que%20comprometa%20o%20acesso%20%C3%A0%20justi%C3%A7a%2C%20a%20parte%20dever%C3%A1%20informar%2C%20ao%20distribuir%20a%20peti%C3%A7%C3%A3o%20inicial%20de%20qualquer%20a%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "iv",
+        "chapter_name": "capítulo iv",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Os livros cartorários e demais repositórios dos órgãos do Poder Judiciário poderão ser gerados e armazenados em meio totalmente eletrônico.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm#:~:text=Art.%2016.%20Os%20livros%20cartor%C3%A1rios%20e%20demais%20reposit%C3%B3rios%20dos%20%C3%B3rg%C3%A3os%20do%20Poder%20Judici%C3%A1rio%20poder%C3%A3o%20ser%20gerados%20e%20armazenados%20em%20meio%20totalmente%20eletr%C3%B4nico.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "iv",
+        "chapter_name": "capítulo iv",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm#:~:text=Art.%2017.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "iv",
+        "chapter_name": "capítulo iv",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Os órgãos do Poder Judiciário regulamentarão esta Lei, no que couber, no âmbito de suas respectivas competências.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm#:~:text=Art.%2018.%20Os%20%C3%B3rg%C3%A3os%20do%20Poder%20Judici%C3%A1rio%20regulamentar%C3%A3o%20esta%20Lei%2C%20no%20que%20couber%2C%20no%20%C3%A2mbito%20de%20suas%20respectivas%20compet%C3%AAncias.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "iv",
+        "chapter_name": "capítulo iv",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Ficam convalidados os atos processuais praticados por meio eletrônico até a data de publicação desta Lei, desde que tenham atingido sua finalidade e não tenha havido prejuízo para as partes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm#:~:text=Art.%2019.%20Ficam%20convalidados%20os%20atos%20processuais%20praticados%20por%20meio%20eletr%C3%B4nico%20at%C3%A9%20a%20data%20de%20publica%C3%A7%C3%A3o%20desta%20Lei%2C%20desde%20que%20tenham%20atingido",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "iv",
+        "chapter_name": "capítulo iv",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. A Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, passa a vigorar com as seguintes alterações:\n\n\"Art. 38. ...........................................................................\n\nParágrafo único. A procuração pode ser assinada digitalmente com base em certificado emitido por Autoridade Certificadora credenciada, na forma da lei específica.\" (NR)\n\n\"Art. 154. ........................................................................\n\nParágrafo único. (Vetado). (VETADO)\n\n§ 2º Todos os atos e termos do processo podem ser produzidos, transmitidos, armazenados e assinados por meio eletrônico, na forma da lei.\" (NR)\n\n\"Art. 164. .......................................................................\n\nParágrafo único. A assinatura dos juízes, em todos os graus de jurisdição, pode ser feita eletronicamente, na forma da lei.\" (NR)\n\n\"Art. 169. .......................................................................\n\n§ 1º É vedado usar abreviaturas.\n\n§ 2º Quando se tratar de processo total ou parcialmente eletrônico, os atos processuais praticados na presença do juiz poderão ser produzidos e armazenados de modo integralmente digital em arquivo eletrônico inviolável, na forma da lei, mediante registro em termo que será assinado digitalmente pelo juiz e pelo escrivão ou chefe de secretaria, bem como pelos advogados das partes.\n\n§ 3º No caso do § 2º deste artigo, eventuais contradições na transcrição deverão ser suscitadas oralmente no momento da realização do ato, sob pena de preclusão, devendo o juiz decidir de plano, registrando-se a alegação e a decisão no termo.\" (NR)\n\n\"Art. 202. .....................................................................\n\n.....................................................................................\n\n§ 3º A carta de ordem, carta precatória ou carta rogatória pode ser expedida por meio eletrônico, situação em que a assinatura do juiz deverá ser eletrônica, na forma da lei.\" (NR)\n\n\"Art. 221. ....................................................................\n\n....................................................................................\n\nIV - por meio eletrônico, conforme regulado em lei própria.\" (NR)\n\n\"Art. 237. ....................................................................\n\nParágrafo único. As intimações podem ser feitas de forma eletrônica, conforme regulado em lei própria.\" (NR)\n\n\"Art. 365. ...................................................................\n\n...................................................................................\n\nV - os extratos digitais de bancos de dados, públicos e privados, desde que atestado pelo seu emitente, sob as penas da lei, que as informações conferem com o que consta na origem;\n\nVI - as reproduções digitalizadas de qualquer documento, público ou particular, quando juntados aos autos pelos órgãos da Justiça e seus auxiliares, pelo Ministério Público e seus auxiliares, pelas procuradorias, pelas repartições públicas em geral e por advogados públicos ou privados, ressalvada a alegação motivada e fundamentada de adulteração antes ou durante o processo de digitalização.\n\n§ 1º Os originais dos documentos digitalizados, mencionados no inciso VI do caput deste artigo, deverão ser preservados pelo seu detentor até o final do prazo para interposição de ação rescisória.\n\n§ 2º Tratando-se de cópia digital de título executivo extrajudicial ou outro documento relevante à instrução do processo, o juiz poderá determinar o seu depósito em cartório ou secretaria.\" (NR)\n\n\"Art. 399. ................................................................\n\n§ 1º Recebidos os autos, o juiz mandará extrair, no prazo máximo e improrrogável de 30 (trinta) dias, certidões ou reproduções fotográficas das peças indicadas pelas partes ou de ofício; findo o prazo, devolverá os autos à repartição de origem.\n\n§ 2º As repartições públicas poderão fornecer todos os documentos em meio eletrônico conforme disposto em lei, certificando, pelo mesmo meio, que se trata de extrato fiel do que consta em seu banco de dados ou do documento digitalizado.\" (NR)\n\n\"Art. 417. ...............................................................\n\n§ 1º O depoimento será passado para a versão datilográfica quando houver recurso da sentença ou noutros casos, quando o juiz o determinar, de ofício ou a requerimento da parte.\n\n§ 2º Tratando-se de processo eletrônico, observar-se-á o disposto nos §§ 2º e 3º do art. 169 desta Lei.\" (NR)\n\n\"Art. 457. .............................................................\n\n.............................................................................\n\n§ 4º Tratando-se de processo eletrônico, observar-se-á o disposto nos §§ 2º e 3º do art. 169 desta Lei.\" (NR)\n\n\"Art. 556. ............................................................\n\nParágrafo único. Os votos, acórdãos e demais atos processuais podem ser registrados em arquivo eletrônico inviolável e assinados eletronicamente, na forma da lei, devendo ser impressos para juntada aos autos do processo quando este não for eletrônico.\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm#:~:text=Art.%2020.%20A%20Lei%20n%C2%BA%205.869%2C%20de%2011%20de%20janeiro%20de%201973%20-%20C%C3%B3digo%20de%20Processo%20Civil%2C%20passa%20a%20vigorar%20com%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "iv",
+        "chapter_name": "capítulo iv",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm#:~:text=Art.%2021.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "iv",
+        "chapter_name": "capítulo iv",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Esta Lei entra em vigor 90 (noventa) dias depois de sua publicação.\n\nBrasília, 19 de dezembro de 2006; 185º da Independência e 118º da República.\n\nLUIZ INÁCIO LULA DA SILVA Márcio Thomaz Bastos\n\nEste texto não substitui o publicado no DOU de 20.12.2006\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm#:~:text=Art.%2022.%20Esta%20Lei%20entra%20em%20vigor%2090%20%28noventa%29%20dias%20depois%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "iv",
+        "chapter_name": "capítulo iv",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": null
+    }
+  }
+}

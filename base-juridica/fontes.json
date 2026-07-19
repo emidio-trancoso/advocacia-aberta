@@ -1019,6 +1019,146 @@
         }
       ]
     },
+    "legislacao_esparsas_processual_constitucional": {
+      "familia": "legislacao",
+      "adaptador": "planalto_html_v1",
+      "chave_colecao": "artigos",
+      "fontes": [
+        {
+          "id": "d4311",
+          "codigo": "D4311",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto/2002/d4311.htm",
+          "arquivo_bruto": "d4311.html",
+          "destino": "lei_d4311.json"
+        },
+        {
+          "id": "d8660",
+          "codigo": "D8660",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8660.htm",
+          "arquivo_bruto": "d8660.html",
+          "destino": "lei_d8660.json"
+        },
+        {
+          "id": "d9039",
+          "codigo": "D9039",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9039.htm",
+          "arquivo_bruto": "d9039.html",
+          "destino": "lei_d9039.json"
+        },
+        {
+          "id": "d9734",
+          "codigo": "D9734",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9734.htm",
+          "arquivo_bruto": "d9734.html",
+          "destino": "lei_d9734.json"
+        },
+        {
+          "id": "l11417",
+          "codigo": "L11417",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11417.htm",
+          "arquivo_bruto": "l11417.html",
+          "destino": "lei_l11417.json"
+        },
+        {
+          "id": "l11419",
+          "codigo": "L11419",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm",
+          "arquivo_bruto": "l11419.html",
+          "destino": "lei_l11419.json"
+        },
+        {
+          "id": "l12030",
+          "codigo": "L12030",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12030.htm",
+          "arquivo_bruto": "l12030.html",
+          "destino": "lei_l12030.json"
+        },
+        {
+          "id": "l12037",
+          "codigo": "L12037",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12037.htm",
+          "arquivo_bruto": "l12037.html",
+          "destino": "lei_l12037.json"
+        },
+        {
+          "id": "l13300",
+          "codigo": "L13300",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13300.htm",
+          "arquivo_bruto": "l13300.html",
+          "destino": "lei_l13300.json"
+        },
+        {
+          "id": "l13726",
+          "codigo": "L13726",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13726.htm",
+          "arquivo_bruto": "l13726.html",
+          "destino": "lei_l13726.json"
+        },
+        {
+          "id": "l8038",
+          "codigo": "L8038",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm",
+          "arquivo_bruto": "l8038.html",
+          "destino": "lei_l8038.json"
+        },
+        {
+          "id": "l8437",
+          "codigo": "L8437",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8437.htm",
+          "arquivo_bruto": "l8437.html",
+          "destino": "lei_l8437.json"
+        },
+        {
+          "id": "l9289",
+          "codigo": "L9289",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm",
+          "arquivo_bruto": "l9289.html",
+          "destino": "lei_l9289.json"
+        },
+        {
+          "id": "l9494",
+          "codigo": "L9494",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9494.htm",
+          "arquivo_bruto": "l9494.html",
+          "destino": "lei_l9494.json"
+        },
+        {
+          "id": "l9709",
+          "codigo": "L9709",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9709.htm",
+          "arquivo_bruto": "l9709.html",
+          "destino": "lei_l9709.json"
+        },
+        {
+          "id": "l9868",
+          "codigo": "L9868",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9868.htm",
+          "arquivo_bruto": "l9868.html",
+          "destino": "lei_l9868.json"
+        },
+        {
+          "id": "l9882",
+          "codigo": "L9882",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9882.htm",
+          "arquivo_bruto": "l9882.html",
+          "destino": "lei_l9882.json"
+        },
+        {
+          "id": "lc80",
+          "codigo": "LC80",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm",
+          "arquivo_bruto": "lc80.html",
+          "destino": "lei_lc80.json"
+        },
+        {
+          "id": "lje",
+          "codigo": "LJE",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm",
+          "arquivo_bruto": "lje.html",
+          "destino": "lei_lje.json"
+        }
+      ]
+    },
     "legislacao_esparsas_trabalhista": {
       "familia": "legislacao",
       "adaptador": "planalto_html_v1",

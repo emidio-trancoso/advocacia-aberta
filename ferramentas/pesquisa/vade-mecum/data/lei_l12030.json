@@ -1,0 +1,111 @@
+{
+  "_meta": {
+    "codigo": "L12030",
+    "nome": "Perícia Oficial de Natureza Criminal",
+    "lei": "Lei 12.030/2009",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12030.htm",
+    "total_artigos": 6,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o Esta Lei estabelece normas gerais para as perícias oficiais de natureza criminal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12030.htm#:~:text=Art.%201o%20Esta%20Lei%20estabelece%20normas%20gerais%20para%20as%20per%C3%ADcias%20oficiais%20de%20natureza%20criminal.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o No exercício da atividade de perícia oficial de natureza criminal, é assegurado autonomia técnica, científica e funcional, exigido concurso público, com formação acadêmica específica, para o provimento do cargo de perito oficial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12030.htm#:~:text=Art.%202o%20No%20exerc%C3%ADcio%20da%20atividade%20de%20per%C3%ADcia%20oficial%20de%20natureza%20criminal%2C%20%C3%A9%20assegurado%20autonomia%20t%C3%A9cnica%2C%20cient%C3%ADfica%20e%20funcional%2C%20exigido%20concurso%20p%C3%BAblico%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o Em razão do exercício das atividades de perícia oficial de natureza criminal, os peritos de natureza criminal estão sujeitos a regime especial de trabalho, observada a legislação específica de cada ente a que se encontrem vinculados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12030.htm#:~:text=Art.%203o%20Em%20raz%C3%A3o%20do%20exerc%C3%ADcio%20das%20atividades%20de%20per%C3%ADcia%20oficial%20de%20natureza%20criminal%2C%20os%20peritos%20de%20natureza%20criminal%20est%C3%A3o%20sujeitos%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12030.htm#:~:text=Art.%204o%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o Observado o disposto na legislação específica de cada ente a que o perito se encontra vinculado, são peritos de natureza criminal os peritos criminais, peritos médico-legistas e peritos odontolegistas com formação superior específica detalhada em regulamento, de acordo com a necessidade de cada órgão e por área de atuação profissional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12030.htm#:~:text=Art.%205o%20Observado%20o%20disposto%20na%20legisla%C3%A7%C3%A3o%20espec%C3%ADfica%20de%20cada%20ente%20a%20que%20o%20perito%20se%20encontra%20vinculado%2C%20s%C3%A3o%20peritos%20de%20natureza",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o Esta Lei entra em vigor 90 (noventa) dias após a data de sua publicação.\n\nBrasília, 17 de setembro de 2009; 188o da Independência e 121o da República.\n\nLUIZ INÁCIO LULA DA SILVA Tarso Genro Paulo Bernardo Silva\n\nEste texto não substitui o publicado no DOU de 18.9.2009",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12030.htm#:~:text=Art.%206o%20Esta%20Lei%20entra%20em%20vigor%2090%20%28noventa%29%20dias%20ap%C3%B3s%20a%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": null
+    }
+  }
+}

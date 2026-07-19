@@ -1,0 +1,1599 @@
+{
+  "_meta": {
+    "codigo": "LJE",
+    "nome": "Juizados Especiais",
+    "lei": "Lei 9.099/1995",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm",
+    "total_artigos": 99,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Os Juizados Especiais Cíveis e Criminais, órgãos da Justiça Ordinária, serão criados pela União, no Distrito Federal e nos Territórios, e pelos Estados, para conciliação, processo, julgamento e execução, nas causas de sua competência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%201%C2%BA%20Os%20Juizados%20Especiais%20C%C3%ADveis%20e%20Criminais%2C%20%C3%B3rg%C3%A3os%20da%20Justi%C3%A7a%20Ordin%C3%A1ria%2C%20ser%C3%A3o%20criados%20pela%20Uni%C3%A3o%2C%20no%20Distrito%20Federal%20e%20nos%20Territ%C3%B3rios%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º O processo orientar-se-á pelos critérios da oralidade, simplicidade, informalidade, economia processual e celeridade, buscando, sempre que possível, a conciliação ou a transação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%202%C2%BA%20O%20processo%20orientar-se-%C3%A1%20pelos%20crit%C3%A9rios%20da%20oralidade%2C%20simplicidade%2C%20informalidade%2C%20economia%20processual%20e%20celeridade%2C%20buscando%2C%20sempre%20que%20poss%C3%ADvel%2C%20a%20concilia%C3%A7%C3%A3o%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º O Juizado Especial Cível tem competência para conciliação, processo e julgamento das causas cíveis de menor complexidade, assim consideradas:\n\nI - as causas cujo valor não exceda a quarenta vezes o salário mínimo;\n\nII - as enumeradas no art. 275, inciso II, do Código de Processo Civil;\n\nIII - a ação de despejo para uso próprio;\n\nIV - as ações possessórias sobre bens imóveis de valor não excedente ao fixado no inciso I deste artigo.\n\n§ 1º Compete ao Juizado Especial promover a execução:\n\nI - dos seus julgados;\n\nII - dos títulos executivos extrajudiciais, no valor de até quarenta vezes o salário mínimo, observado o disposto no § 1º do art. 8º desta Lei.\n\n§ 2º Ficam excluídas da competência do Juizado Especial as causas de natureza alimentar, falimentar, fiscal e de interesse da Fazenda Pública, e também as relativas a acidentes de trabalho, a resíduos e ao estado e capacidade das pessoas, ainda que de cunho patrimonial.\n\n§ 3º A opção pelo procedimento previsto nesta Lei importará em renúncia ao crédito excedente ao limite estabelecido neste artigo, excetuada a hipótese de conciliação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%203%C2%BA%20O%20Juizado%20Especial%20C%C3%ADvel%20tem%20compet%C3%AAncia%20para%20concilia%C3%A7%C3%A3o%2C%20processo%20e%20julgamento%20das%20causas%20c%C3%ADveis%20de%20menor%20complexidade%2C%20assim%20consideradas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º É competente, para as causas previstas nesta Lei, o Juizado do foro:\n\nI - do domicílio do réu ou, a critério do autor, do local onde aquele exerça atividades profissionais ou econômicas ou mantenha estabelecimento, filial, agência, sucursal ou escritório;\n\nII - do lugar onde a obrigação deva ser satisfeita;\n\nIII - do domicílio do autor ou do local do ato ou fato, nas ações para reparação de dano de qualquer natureza.\n\nParágrafo único. Em qualquer hipótese, poderá a ação ser proposta no foro previsto no inciso I deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%204%C2%BA%20%C3%89%20competente%2C%20para%20as%20causas%20previstas%20nesta%20Lei%2C%20o%20Juizado%20do%20foro%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º O Juiz dirigirá o processo com liberdade para determinar as provas a serem produzidas, para apreciá-las e para dar especial valor às regras de experiência comum ou técnica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%205%C2%BA%20O%20Juiz%20dirigir%C3%A1%20o%20processo%20com%20liberdade%20para%20determinar%20as%20provas%20a%20serem%20produzidas%2C%20para%20apreci%C3%A1-las%20e%20para%20dar%20especial",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º O Juiz adotará em cada caso a decisão que reputar mais justa e equânime, atendendo aos fins sociais da lei e às exigências do bem comum.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%206%C2%BA%20O%20Juiz%20adotar%C3%A1%20em%20cada%20caso%20a%20decis%C3%A3o%20que%20reputar%20mais%20justa%20e%20equ%C3%A2nime%2C%20atendendo%20aos%20fins%20sociais%20da%20lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Os conciliadores e Juízes leigos são auxiliares da Justiça, recrutados, os primeiros, preferentemente, entre os bacharéis em Direito, e os segundos, entre advogados com mais de cinco anos de experiência.\n\nParágrafo único. Os Juízes leigos ficarão impedidos de exercer a advocacia perante os Juizados Especiais, enquanto no desempenho de suas funções.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%207%C2%BA%20Os%20conciliadores%20e%20Ju%C3%ADzes%20leigos%20s%C3%A3o%20auxiliares%20da%20Justi%C3%A7a%2C%20recrutados%2C%20os%20primeiros%2C%20preferentemente%2C%20entre%20os%20bachar%C3%A9is%20em%20Direito%2C%20e%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Não poderão ser partes, no processo instituído por esta Lei, o incapaz, o preso, as pessoas jurídicas de direito público, as empresas públicas da União, a massa falida e o insolvente civil.\n\n§ 1º Somente as pessoas físicas capazes serão admitidas a propor ação perante o Juizado Especial, excluídos os cessionários de direito de pessoas jurídicas.\n\n§ 1o Somente serão admitidas a propor ação perante o Juizado Especial: (Redação dada pela Lei nº 12.126, de 2009)\n\nI - as pessoas físicas capazes, excluídos os cessionários de direito de pessoas jurídicas; (Incluído pela Lei nº 12.126, de 2009)\n\nII - as microempresas, assim definidas pela Lei no 9.841, de 5 de outubro de 1999; (Incluído pela Lei nº 12.126, de 2009)\n\nII - as pessoas enquadradas como microempreendedores individuais, microempresas e empresas de pequeno porte na forma da Lei Complementar no 123, de 14 de dezembro de 2006; (Redação dada pela Lei Complementar nº 147, de 2014)\n\nIII - as pessoas jurídicas qualificadas como Organização da Sociedade Civil de Interesse Público, nos termos da Lei no 9.790, de 23 de março de 1999; (Incluído pela Lei nº 12.126, de 2009)\n\nIV - as sociedades de crédito ao microempreendedor, nos termos do art. 1o da Lei no 10.194, de 14 de fevereiro de 2001. (Incluído pela Lei nº 12.126, de 2009)\n\n§ 2º O maior de dezoito anos poderá ser autor, independentemente de assistência, inclusive para fins de conciliação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%208%C2%BA%20N%C3%A3o%20poder%C3%A3o%20ser%20partes%2C%20no%20processo%20institu%C3%ADdo%20por%20esta%20Lei%2C%20o%20incapaz%2C%20o%20preso%2C%20as%20pessoas%20jur%C3%ADdicas%20de%20direito%20p%C3%BAblico%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Nas causas de valor até vinte salários mínimos, as partes comparecerão pessoalmente, podendo ser assistidas por advogado; nas de valor superior, a assistência é obrigatória.\n\n§ 1º Sendo facultativa a assistência, se uma das partes comparecer assistida por advogado, ou se o réu for pessoa jurídica ou firma individual, terá a outra parte, se quiser, assistência judiciária prestada por órgão instituído junto ao Juizado Especial, na forma da lei local.\n\n§ 2º O Juiz alertará as partes da conveniência do patrocínio por advogado, quando a causa o recomendar.\n\n§ 3º O mandato ao advogado poderá ser verbal, salvo quanto aos poderes especiais.\n\n§ 4º O réu, sendo pessoa jurídica ou titular de firma individual, poderá ser representado por preposto credenciado.\n\n§ 4o O réu, sendo pessoa jurídica ou titular de firma individual, poderá ser representado por preposto credenciado, munido de carta de preposição com poderes para transigir, sem haver necessidade de vínculo empregatício. (Redação dada pela Lei nº 12.137, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%209%C2%BA%20Nas%20causas%20de%20valor%20at%C3%A9%20vinte%20sal%C3%A1rios%20m%C3%ADnimos%2C%20as%20partes%20comparecer%C3%A3o%20pessoalmente%2C%20podendo%20ser%20assistidas%20por%20advogado%3B%20nas%20de%20valor",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Não se admitirá, no processo, qualquer forma de intervenção de terceiro nem de assistência. Admitir-se-á o litisconsórcio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2010.%20N%C3%A3o%20se%20admitir%C3%A1%2C%20no%20processo%2C%20qualquer%20forma%20de%20interven%C3%A7%C3%A3o%20de%20terceiro%20nem%20de%20assist%C3%AAncia.%20Admitir-se-%C3%A1%20o%20litiscons%C3%B3rcio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. O Ministério Público intervirá nos casos previstos em lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2011.%20O%20Minist%C3%A9rio%20P%C3%BAblico%20intervir%C3%A1%20nos%20casos%20previstos%20em%20lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Os atos processuais serão públicos e poderão realizar-se em horário noturno, conforme dispuserem as normas de organização judiciária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2012.%20Os%20atos%20processuais%20ser%C3%A3o%20p%C3%BAblicos%20e%20poder%C3%A3o%20realizar-se%20em%20hor%C3%A1rio%20noturno%2C%20conforme%20dispuserem%20as%20normas%20de%20organiza%C3%A7%C3%A3o%20judici%C3%A1ria.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "11",
+      "next": "12-A"
+    },
+    "12-A": {
+      "numero": "12-A",
+      "texto": "Art. 12-A. Na contagem de prazo em dias, estabelecido por lei ou pelo juiz, para a prática de qualquer ato processual, inclusive para a interposição de recursos, computar-se-ão somente os dias úteis. (Incluído pela Lei nº 13.728, de 2018)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2012-A.%20Na%20contagem%20de%20prazo%20em%20dias%2C%20estabelecido%20por%20lei%20ou%20pelo%20juiz%2C%20para%20a%20pr%C3%A1tica%20de%20qualquer%20ato%20processual%2C%20inclusive",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "12",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Os atos processuais serão válidos sempre que preencherem as finalidades para as quais forem realizados, atendidos os critérios indicados no art. 2º desta Lei.\n\n§ 1º Não se pronunciará qualquer nulidade sem que tenha havido prejuízo.\n\n§ 2º A prática de atos processuais em outras comarcas poderá ser solicitada por qualquer meio idôneo de comunicação.\n\n§ 3º Apenas os atos considerados essenciais serão registrados resumidamente, em notas manuscritas, datilografadas, taquigrafadas ou estenotipadas. Os demais atos poderão ser gravados em fita magnética ou equivalente, que será inutilizada após o trânsito em julgado da decisão.\n\n§ 4º As normas locais disporão sobre a conservação das peças do processo e demais documentos que o instruem.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2013.%20Os%20atos%20processuais%20ser%C3%A3o%20v%C3%A1lidos%20sempre%20que%20preencherem%20as%20finalidades%20para%20as%20quais%20forem%20realizados%2C%20atendidos%20os%20crit%C3%A9rios%20indicados%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "12-A",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. O processo instaurar-se-á com a apresentação do pedido, escrito ou oral, à Secretaria do Juizado.\n\n§ 1º Do pedido constarão, de forma simples e em linguagem acessível:\n\nI - o nome, a qualificação e o endereço das partes;\n\nII - os fatos e os fundamentos, de forma sucinta;\n\nIII - o objeto e seu valor.\n\n§ 2º É lícito formular pedido genérico quando não for possível determinar, desde logo, a extensão da obrigação.\n\n§ 3º O pedido oral será reduzido a escrito pela Secretaria do Juizado, podendo ser utilizado o sistema de fichas ou formulários impressos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2014.%20O%20processo%20instaurar-se-%C3%A1%20com%20a%20apresenta%C3%A7%C3%A3o%20do%20pedido%2C%20escrito%20ou%20oral%2C%20%C3%A0%20Secretaria%20do%20Juizado.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Os pedidos mencionados no art. 3º desta Lei poderão ser alternativos ou cumulados; nesta última hipótese, desde que conexos e a soma não ultrapasse o limite fixado naquele dispositivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2015.%20Os%20pedidos%20mencionados%20no%20art.%203%C2%BA%20desta%20Lei%20poder%C3%A3o%20ser%20alternativos%20ou%20cumulados%3B%20nesta%20%C3%BAltima%20hip%C3%B3tese%2C%20desde%20que%20conexos%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Registrado o pedido, independentemente de distribuição e autuação, a Secretaria do Juizado designará a sessão de conciliação, a realizar-se no prazo de quinze dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2016.%20Registrado%20o%20pedido%2C%20independentemente%20de%20distribui%C3%A7%C3%A3o%20e%20autua%C3%A7%C3%A3o%2C%20a%20Secretaria%20do%20Juizado%20designar%C3%A1%20a%20sess%C3%A3o%20de%20concilia%C3%A7%C3%A3o%2C%20a%20realizar-se%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Comparecendo inicialmente ambas as partes, instaurar-se-á, desde logo, a sessão de conciliação, dispensados o registro prévio de pedido e a citação.\n\nParágrafo único. Havendo pedidos contrapostos, poderá ser dispensada a contestação formal e ambos serão apreciados na mesma sentença.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2017.%20Comparecendo%20inicialmente%20ambas%20as%20partes%2C%20instaurar-se-%C3%A1%2C%20desde%20logo%2C%20a%20sess%C3%A3o%20de%20concilia%C3%A7%C3%A3o%2C%20dispensados%20o%20registro%20pr%C3%A9vio%20de%20pedido%20e%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. A citação far-se-á:\n\nI - por correspondência, com aviso de recebimento em mão própria;\n\nII - tratando-se de pessoa jurídica ou firma individual, mediante entrega ao encarregado da recepção, que será obrigatoriamente identificado;\n\nIII - sendo necessário, por oficial de justiça, independentemente de mandado ou carta precatória.\n\n§ 1º A citação conterá cópia do pedido inicial, dia e hora para comparecimento do citando e advertência de que, não comparecendo este, considerar-se-ão verdadeiras as alegações iniciais, e será proferido julgamento, de plano.\n\n§ 2º Não se fará citação por edital.\n\n§ 3º O comparecimento espontâneo suprirá a falta ou nulidade da citação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2018.%20A%20cita%C3%A7%C3%A3o%20far-se-%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. As intimações serão feitas na forma prevista para citação, ou por qualquer outro meio idôneo de comunicação.\n\n§ 1º Dos atos praticados na audiência, considerar-se-ão desde logo cientes as partes.\n\n§ 2º As partes comunicarão ao juízo as mudanças de endereço ocorridas no curso do processo, reputando-se eficazes as intimações enviadas ao local anteriormente indicado, na ausência da comunicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2019.%20As%20intima%C3%A7%C3%B5es%20ser%C3%A3o%20feitas%20na%20forma%20prevista%20para%20cita%C3%A7%C3%A3o%2C%20ou%20por%20qualquer%20outro%20meio%20id%C3%B4neo%20de%20comunica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Não comparecendo o demandado à sessão de conciliação ou à audiência de instrução e julgamento, reputar-se-ão verdadeiros os fatos alegados no pedido inicial, salvo se o contrário resultar da convicção do Juiz.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2020.%20N%C3%A3o%20comparecendo%20o%20demandado%20%C3%A0%20sess%C3%A3o%20de%20concilia%C3%A7%C3%A3o%20ou%20%C3%A0%20audi%C3%AAncia%20de%20instru%C3%A7%C3%A3o%20e%20julgamento%2C%20reputar-se-%C3%A3o%20verdadeiros%20os%20fatos%20alegados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "VII",
+        "section_name": "Seção VII"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Aberta a sessão, o Juiz togado ou leigo esclarecerá as partes presentes sobre as vantagens da conciliação, mostrando-lhes os riscos e as conseqüências do litígio, especialmente quanto ao disposto no § 3º do art. 3º desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2021.%20Aberta%20a%20sess%C3%A3o%2C%20o%20Juiz%20togado%20ou%20leigo%20esclarecer%C3%A1%20as%20partes%20presentes%20sobre%20as%20vantagens%20da%20concilia%C3%A7%C3%A3o%2C%20mostrando-lhes%20os%20riscos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "VIII",
+        "section_name": "Seção VIII"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. A conciliação será conduzida pelo Juiz togado ou leigo ou por conciliador sob sua orientação.\n\nParágrafo único. Obtida a conciliação, esta será reduzida a escrito e homologada pelo Juiz togado, mediante sentença com eficácia de título executivo.\n\n§ 1º Obtida a conciliação, esta será reduzida a escrito e homologada pelo Juiz togado mediante sentença com eficácia de título executivo. (Incluído pela Lei nº 13.994, de 2020).\n\n§ 2º É cabível a conciliação não presencial conduzida pelo Juizado mediante o emprego dos recursos tecnológicos disponíveis de transmissão de sons e imagens em tempo real, devendo o resultado da tentativa de conciliação ser reduzido a escrito com os anexos pertinentes. (Incluído pela Lei nº 13.994, de 2020).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2022.%20A%20concilia%C3%A7%C3%A3o%20ser%C3%A1%20conduzida%20pelo%20Juiz%20togado%20ou%20leigo%20ou%20por%20conciliador%20sob%20sua%20orienta%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "VIII",
+        "section_name": "Seção VIII"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Não comparecendo o demandado, o Juiz togado proferirá sentença.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2023.%20N%C3%A3o%20comparecendo%20o%20demandado%2C%20o%20Juiz%20togado%20proferir%C3%A1%20senten%C3%A7a.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "VIII",
+        "section_name": "Seção VIII"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Não obtida a conciliação, as partes poderão optar, de comum acordo, pelo juízo arbitral, na forma prevista nesta Lei.\n\n§ 1º O juízo arbitral considerar-se-á instaurado, independentemente de termo de compromisso, com a escolha do árbitro pelas partes. Se este não estiver presente, o Juiz convocá-lo-á e designará, de imediato, a data para a audiência de instrução.\n\n§ 2º O árbitro será escolhido dentre os juízes leigos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2024.%20N%C3%A3o%20obtida%20a%20concilia%C3%A7%C3%A3o%2C%20as%20partes%20poder%C3%A3o%20optar%2C%20de%20comum%20acordo%2C%20pelo%20ju%C3%ADzo%20arbitral%2C%20na%20forma%20prevista%20nesta%20Lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "VIII",
+        "section_name": "Seção VIII"
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. O árbitro conduzirá o processo com os mesmos critérios do Juiz, na forma dos arts. 5º e 6º desta Lei, podendo decidir por eqüidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2025.%20O%20%C3%A1rbitro%20conduzir%C3%A1%20o%20processo%20com%20os%20mesmos%20crit%C3%A9rios%20do%20Juiz%2C%20na%20forma%20dos%20arts.%205%C2%BA%20e%206%C2%BA%20desta%20Lei%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "VIII",
+        "section_name": "Seção VIII"
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Ao término da instrução, ou nos cinco dias subseqüentes, o árbitro apresentará o laudo ao Juiz togado para homologação por sentença irrecorrível.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2026.%20Ao%20t%C3%A9rmino%20da%20instru%C3%A7%C3%A3o%2C%20ou%20nos%20cinco%20dias%20subseq%C3%BCentes%2C%20o%20%C3%A1rbitro%20apresentar%C3%A1%20o%20laudo%20ao%20Juiz%20togado%20para%20homologa%C3%A7%C3%A3o%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "VIII",
+        "section_name": "Seção VIII"
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Não instituído o juízo arbitral, proceder-se-á imediatamente à audiência de instrução e julgamento, desde que não resulte prejuízo para a defesa.\n\nParágrafo único. Não sendo possível a sua realização imediata, será a audiência designada para um dos quinze dias subseqüentes, cientes, desde logo, as partes e testemunhas eventualmente presentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2027.%20N%C3%A3o%20institu%C3%ADdo%20o%20ju%C3%ADzo%20arbitral%2C%20proceder-se-%C3%A1%20imediatamente%20%C3%A0%20audi%C3%AAncia%20de%20instru%C3%A7%C3%A3o%20e%20julgamento%2C%20desde%20que%20n%C3%A3o%20resulte%20preju%C3%ADzo%20para%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "IX",
+        "section_name": "Seção IX"
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Na audiência de instrução e julgamento serão ouvidas as partes, colhida a prova e, em seguida, proferida a sentença.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2028.%20Na%20audi%C3%AAncia%20de%20instru%C3%A7%C3%A3o%20e%20julgamento%20ser%C3%A3o%20ouvidas%20as%20partes%2C%20colhida%20a%20prova%20e%2C%20em%20seguida%2C%20proferida%20a%20senten%C3%A7a.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "IX",
+        "section_name": "Seção IX"
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Serão decididos de plano todos os incidentes que possam interferir no regular prosseguimento da audiência. As demais questões serão decididas na sentença.\n\nParágrafo único. Sobre os documentos apresentados por uma das partes, manifestar-se-á imediatamente a parte contrária, sem interrupção da audiência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2029.%20Ser%C3%A3o%20decididos%20de%20plano%20todos%20os%20incidentes%20que%20possam%20interferir%20no%20regular%20prosseguimento%20da%20audi%C3%AAncia.%20As%20demais%20quest%C3%B5es%20ser%C3%A3o%20decididas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "IX",
+        "section_name": "Seção IX"
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. A contestação, que será oral ou escrita, conterá toda matéria de defesa, exceto argüição de suspeição ou impedimento do Juiz, que se processará na forma da legislação em vigor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2030.%20A%20contesta%C3%A7%C3%A3o%2C%20que%20ser%C3%A1%20oral%20ou%20escrita%2C%20conter%C3%A1%20toda%20mat%C3%A9ria%20de%20defesa%2C%20exceto%20arg%C3%BCi%C3%A7%C3%A3o%20de%20suspei%C3%A7%C3%A3o%20ou%20impedimento%20do%20Juiz%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "X",
+        "section_name": "Seção X"
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Não se admitirá a reconvenção. É lícito ao réu, na contestação, formular pedido em seu favor, nos limites do art. 3º desta Lei, desde que fundado nos mesmos fatos que constituem objeto da controvérsia.\n\nParágrafo único. O autor poderá responder ao pedido do réu na própria audiência ou requerer a designação da nova data, que será desde logo fixada, cientes todos os presentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2031.%20N%C3%A3o%20se%20admitir%C3%A1%20a%20reconven%C3%A7%C3%A3o.%20%C3%89%20l%C3%ADcito%20ao%20r%C3%A9u%2C%20na%20contesta%C3%A7%C3%A3o%2C%20formular%20pedido%20em%20seu%20favor%2C%20nos%20limites%20do%20art.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "X",
+        "section_name": "Seção X"
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. Todos os meios de prova moralmente legítimos, ainda que não especificados em lei, são hábeis para provar a veracidade dos fatos alegados pelas partes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2032.%20Todos%20os%20meios%20de%20prova%20moralmente%20leg%C3%ADtimos%2C%20ainda%20que%20n%C3%A3o%20especificados%20em%20lei%2C%20s%C3%A3o%20h%C3%A1beis%20para%20provar%20a%20veracidade%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XI",
+        "section_name": "Seção XI"
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Todas as provas serão produzidas na audiência de instrução e julgamento, ainda que não requeridas previamente, podendo o Juiz limitar ou excluir as que considerar excessivas, impertinentes ou protelatórias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2033.%20Todas%20as%20provas%20ser%C3%A3o%20produzidas%20na%20audi%C3%AAncia%20de%20instru%C3%A7%C3%A3o%20e%20julgamento%2C%20ainda%20que%20n%C3%A3o%20requeridas%20previamente%2C%20podendo%20o%20Juiz%20limitar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XI",
+        "section_name": "Seção XI"
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. As testemunhas, até o máximo de três para cada parte, comparecerão à audiência de instrução e julgamento levadas pela parte que as tenha arrolado, independentemente de intimação, ou mediante esta, se assim for requerido.\n\n§ 1º O requerimento para intimação das testemunhas será apresentado à Secretaria no mínimo cinco dias antes da audiência de instrução e julgamento.\n\n§ 2º Não comparecendo a testemunha intimada, o Juiz poderá determinar sua imediata condução, valendo-se, se necessário, do concurso da força pública.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2034.%20As%20testemunhas%2C%20at%C3%A9%20o%20m%C3%A1ximo%20de%20tr%C3%AAs%20para%20cada%20parte%2C%20comparecer%C3%A3o%20%C3%A0%20audi%C3%AAncia%20de%20instru%C3%A7%C3%A3o%20e%20julgamento%20levadas%20pela%20parte",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XI",
+        "section_name": "Seção XI"
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Quando a prova do fato exigir, o Juiz poderá inquirir técnicos de sua confiança, permitida às partes a apresentação de parecer técnico.\n\nParágrafo único. No curso da audiência, poderá o Juiz, de ofício ou a requerimento das partes, realizar inspeção em pessoas ou coisas, ou determinar que o faça pessoa de sua confiança, que lhe relatará informalmente o verificado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2035.%20Quando%20a%20prova%20do%20fato%20exigir%2C%20o%20Juiz%20poder%C3%A1%20inquirir%20t%C3%A9cnicos%20de%20sua%20confian%C3%A7a%2C%20permitida%20%C3%A0s%20partes%20a%20apresenta%C3%A7%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XI",
+        "section_name": "Seção XI"
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. A prova oral não será reduzida a escrito, devendo a sentença referir, no essencial, os informes trazidos nos depoimentos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2036.%20A%20prova%20oral%20n%C3%A3o%20ser%C3%A1%20reduzida%20a%20escrito%2C%20devendo%20a%20senten%C3%A7a%20referir%2C%20no%20essencial%2C%20os%20informes%20trazidos%20nos%20depoimentos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XI",
+        "section_name": "Seção XI"
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. A instrução poderá ser dirigida por Juiz leigo, sob a supervisão de Juiz togado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2037.%20A%20instru%C3%A7%C3%A3o%20poder%C3%A1%20ser%20dirigida%20por%20Juiz%20leigo%2C%20sob%20a%20supervis%C3%A3o%20de%20Juiz%20togado.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XI",
+        "section_name": "Seção XI"
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. A sentença mencionará os elementos de convicção do Juiz, com breve resumo dos fatos relevantes ocorridos em audiência, dispensado o relatório.\n\nParágrafo único. Não se admitirá sentença condenatória por quantia ilíquida, ainda que genérico o pedido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2038.%20A%20senten%C3%A7a%20mencionar%C3%A1%20os%20elementos%20de%20convic%C3%A7%C3%A3o%20do%20Juiz%2C%20com%20breve%20resumo%20dos%20fatos%20relevantes%20ocorridos%20em%20audi%C3%AAncia%2C%20dispensado%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XII",
+        "section_name": "Seção XII"
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. É ineficaz a sentença condenatória na parte que exceder a alçada estabelecida nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2039.%20%C3%89%20ineficaz%20a%20senten%C3%A7a%20condenat%C3%B3ria%20na%20parte%20que%20exceder%20a%20al%C3%A7ada%20estabelecida%20nesta%20Lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XII",
+        "section_name": "Seção XII"
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. O Juiz leigo que tiver dirigido a instrução proferirá sua decisão e imediatamente a submeterá ao Juiz togado, que poderá homologá-la, proferir outra em substituição ou, antes de se manifestar, determinar a realização de atos probatórios indispensáveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2040.%20O%20Juiz%20leigo%20que%20tiver%20dirigido%20a%20instru%C3%A7%C3%A3o%20proferir%C3%A1%20sua%20decis%C3%A3o%20e%20imediatamente%20a%20submeter%C3%A1%20ao%20Juiz%20togado%2C%20que%20poder%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XII",
+        "section_name": "Seção XII"
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. Da sentença, excetuada a homologatória de conciliação ou laudo arbitral, caberá recurso para o próprio Juizado.\n\n§ 1º O recurso será julgado por uma turma composta por três Juízes togados, em exercício no primeiro grau de jurisdição, reunidos na sede do Juizado.\n\n§ 2º No recurso, as partes serão obrigatoriamente representadas por advogado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2041.%20Da%20senten%C3%A7a%2C%20excetuada%20a%20homologat%C3%B3ria%20de%20concilia%C3%A7%C3%A3o%20ou%20laudo%20arbitral%2C%20caber%C3%A1%20recurso%20para%20o%20pr%C3%B3prio%20Juizado.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XII",
+        "section_name": "Seção XII"
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. O recurso será interposto no prazo de dez dias, contados da ciência da sentença, por petição escrita, da qual constarão as razões e o pedido do recorrente.\n\n§ 1º O preparo será feito, independentemente de intimação, nas quarenta e oito horas seguintes à interposição, sob pena de deserção.\n\n§ 2º Após o preparo, a Secretaria intimará o recorrido para oferecer resposta escrita no prazo de dez dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2042.%20O%20recurso%20ser%C3%A1%20interposto%20no%20prazo%20de%20dez%20dias%2C%20contados%20da%20ci%C3%AAncia%20da%20senten%C3%A7a%2C%20por%20peti%C3%A7%C3%A3o%20escrita%2C%20da%20qual%20constar%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XII",
+        "section_name": "Seção XII"
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. O recurso terá somente efeito devolutivo, podendo o Juiz dar-lhe efeito suspensivo, para evitar dano irreparável para a parte.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2043.%20O%20recurso%20ter%C3%A1%20somente%20efeito%20devolutivo%2C%20podendo%20o%20Juiz%20dar-lhe%20efeito%20suspensivo%2C%20para%20evitar%20dano%20irrepar%C3%A1vel%20para%20a%20parte.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XII",
+        "section_name": "Seção XII"
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. As partes poderão requerer a transcrição da gravação da fita magnética a que alude o § 3º do art. 13 desta Lei, correndo por conta do requerente as despesas respectivas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2044.%20As%20partes%20poder%C3%A3o%20requerer%20a%20transcri%C3%A7%C3%A3o%20da%20grava%C3%A7%C3%A3o%20da%20fita%20magn%C3%A9tica%20a%20que%20alude%20o%20%C2%A7%203%C2%BA%20do%20art.%2013",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XII",
+        "section_name": "Seção XII"
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. As partes serão intimadas da data da sessão de julgamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2045.%20As%20partes%20ser%C3%A3o%20intimadas%20da%20data%20da%20sess%C3%A3o%20de%20julgamento.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XII",
+        "section_name": "Seção XII"
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. O julgamento em segunda instância constará apenas da ata, com a indicação suficiente do processo, fundamentação sucinta e parte dispositiva. Se a sentença for confirmada pelos próprios fundamentos, a súmula do julgamento servirá de acórdão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2046.%20O%20julgamento%20em%20segunda%20inst%C3%A2ncia%20constar%C3%A1%20apenas%20da%20ata%2C%20com%20a%20indica%C3%A7%C3%A3o%20suficiente%20do%20processo%2C%20fundamenta%C3%A7%C3%A3o%20sucinta%20e%20parte%20dispositiva.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XII",
+        "section_name": "Seção XII"
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2047.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XII",
+        "section_name": "Seção XII"
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. Caberão embargos de declaração quando, na sentença ou acórdão, houver obscuridade, contradição, omissão ou dúvida.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2048.%20Caber%C3%A3o%20embargos%20de%20declara%C3%A7%C3%A3o%20quando%2C%20na%20senten%C3%A7a%20ou%20ac%C3%B3rd%C3%A3o%2C%20houver%20obscuridade%2C%20contradi%C3%A7%C3%A3o%2C%20omiss%C3%A3o%20ou%20d%C3%BAvida.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XIII",
+        "section_name": "Seção XIII"
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. Os embargos de declaração serão interpostos por escrito ou oralmente, no prazo de cinco dias, contados da ciência da decisão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2049.%20Os%20embargos%20de%20declara%C3%A7%C3%A3o%20ser%C3%A3o%20interpostos%20por%20escrito%20ou%20oralmente%2C%20no%20prazo%20de%20cinco%20dias%2C%20contados%20da%20ci%C3%AAncia%20da%20decis%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XIII",
+        "section_name": "Seção XIII"
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. Quando interpostos contra sentença, os embargos de declaração suspenderão o prazo para recurso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2050.%20Quando%20interpostos%20contra%20senten%C3%A7a%2C%20os%20embargos%20de%20declara%C3%A7%C3%A3o%20suspender%C3%A3o%20o%20prazo%20para%20recurso.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XIII",
+        "section_name": "Seção XIII"
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. Extingue-se o processo, além dos casos previstos em lei:\n\nI - quando o autor deixar de comparecer a qualquer das audiências do processo;\n\nII - quando inadmissível o procedimento instituído por esta Lei ou seu prosseguimento, após a conciliação;\n\nIII - quando for reconhecida a incompetência territorial;\n\nIV - quando sobrevier qualquer dos impedimentos previstos no art. 8º desta Lei;\n\nV - quando, falecido o autor, a habilitação depender de sentença ou não se der no prazo de trinta dias;\n\nVI - quando, falecido o réu, o autor não promover a citação dos sucessores no prazo de trinta dias da ciência do fato.\n\n§ 1º A extinção do processo independerá, em qualquer hipótese, de prévia intimação pessoal das partes.\n\n§ 2º No caso do inciso I deste artigo, quando comprovar que a ausência decorre de força maior, a parte poderá ser isentada, pelo Juiz, do pagamento das custas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2051.%20Extingue-se%20o%20processo%2C%20al%C3%A9m%20dos%20casos%20previstos%20em%20lei%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XIV",
+        "section_name": "Seção XIV"
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. A execução da sentença processar-se-á no próprio Juizado, aplicando-se, no que couber, o disposto no Código de Processo Civil, com as seguintes alterações:\n\nI - as sentenças serão necessariamente líquidas, contendo a conversão em Bônus do Tesouro Nacional - BTN ou índice equivalente;\n\nII - os cálculos de conversão de índices, de honorários, de juros e de outras parcelas serão efetuados por servidor judicial;\n\nIII - a intimação da sentença será feita, sempre que possível, na própria audiência em que for proferida. Nessa intimação, o vencido será instado a cumprir a sentença tão logo ocorra seu trânsito em julgado, e advertido dos efeitos do seu descumprimento (inciso V);\n\nIV - não cumprida voluntariamente a sentença transitada em julgado, e tendo havido solicitação do interessado, que poderá ser verbal, proceder-se-á desde logo à execução, dispensada nova citação;\n\nV - nos casos de obrigação de entregar, de fazer, ou de não fazer, o Juiz, na sentença ou na fase de execução, cominará multa diária, arbitrada de acordo com as condições econômicas do devedor, para a hipótese de inadimplemento. Não cumprida a obrigação, o credor poderá requerer a elevação da multa ou a transformação da condenação em perdas e danos, que o Juiz de imediato arbitrará, seguindo-se a execução por quantia certa, incluída a multa vencida de obrigação de dar, quando evidenciada a malícia do devedor na execução do julgado;\n\nVI - na obrigação de fazer, o Juiz pode determinar o cumprimento por outrem, fixado o valor que o devedor deve depositar para as despesas, sob pena de multa diária;\n\nVII - na alienação forçada dos bens, o Juiz poderá autorizar o devedor, o credor ou terceira pessoa idônea a tratar da alienação do bem penhorado, a qual se aperfeiçoará em juízo até a data fixada para a praça ou leilão. Sendo o preço inferior ao da avaliação, as partes serão ouvidas. Se o pagamento não for à vista, será oferecida caução idônea, nos casos de alienação de bem móvel, ou hipotecado o imóvel;\n\nVIII - é dispensada a publicação de editais em jornais, quando se tratar de alienação de bens de pequeno valor;\n\nIX - o devedor poderá oferecer embargos, nos autos da execução, versando sobre:\n\na) falta ou nulidade da citação no processo, se ele correu à revelia;\n\nb) manifesto excesso de execução;\n\nc) erro de cálculo;\n\nd) causa impeditiva, modificativa ou extintiva da obrigação, superveniente à sentença.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2052.%20A%20execu%C3%A7%C3%A3o%20da%20senten%C3%A7a%20processar-se-%C3%A1%20no%20pr%C3%B3prio%20Juizado%2C%20aplicando-se%2C%20no%20que%20couber%2C%20o%20disposto%20no%20C%C3%B3digo%20de%20Processo%20Civil%2C%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XV",
+        "section_name": "Seção XV"
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. A execução de título executivo extrajudicial, no valor de até quarenta salários mínimos, obedecerá ao disposto no Código de Processo Civil, com as modificações introduzidas por esta Lei.\n\n§ 1º Efetuada a penhora, o devedor será intimado a comparecer à audiência de conciliação, quando poderá oferecer embargos (art. 52, IX), por escrito ou verbalmente.\n\n§ 2º Na audiência, será buscado o meio mais rápido e eficaz para a solução do litígio, se possível com dispensa da alienação judicial, devendo o conciliador propor, entre outras medidas cabíveis, o pagamento do débito a prazo ou a prestação, a dação em pagamento ou a imediata adjudicação do bem penhorado.\n\n§ 3º Não apresentados os embargos em audiência, ou julgados improcedentes, qualquer das partes poderá requerer ao Juiz a adoção de uma das alternativas do parágrafo anterior.\n\n§ 4º Não encontrado o devedor ou inexistindo bens penhoráveis, o processo será imediatamente extinto, devolvendo-se os documentos ao autor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2053.%20A%20execu%C3%A7%C3%A3o%20de%20t%C3%ADtulo%20executivo%20extrajudicial%2C%20no%20valor%20de%20at%C3%A9%20quarenta%20sal%C3%A1rios%20m%C3%ADnimos%2C%20obedecer%C3%A1%20ao%20disposto%20no%20C%C3%B3digo%20de%20Processo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XV",
+        "section_name": "Seção XV"
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. O acesso ao Juizado Especial independerá, em primeiro grau de jurisdição, do pagamento de custas, taxas ou despesas.\n\nParágrafo único. O preparo do recurso, na forma do § 1º do art. 42 desta Lei, compreenderá todas as despesas processuais, inclusive aquelas dispensadas em primeiro grau de jurisdição, ressalvada a hipótese de assistência judiciária gratuita.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2054.%20O%20acesso%20ao%20Juizado%20Especial%20independer%C3%A1%2C%20em%20primeiro%20grau%20de%20jurisdi%C3%A7%C3%A3o%2C%20do%20pagamento%20de%20custas%2C%20taxas%20ou%20despesas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XVI",
+        "section_name": "Seção XVI"
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. A sentença de primeiro grau não condenará o vencido em custas e honorários de advogado, ressalvados os casos de litigância de má-fé. Em segundo grau, o recorrente, vencido, pagará as custas e honorários de advogado, que serão fixados entre dez por cento e vinte por cento do valor de condenação ou, não havendo condenação, do valor corrigido da causa.\n\nParágrafo único. Na execução não serão contadas custas, salvo quando:\n\nI - reconhecida a litigância de má-fé;\n\nII - improcedentes os embargos do devedor;\n\nIII - tratar-se de execução de sentença que tenha sido objeto de recurso improvido do devedor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2055.%20A%20senten%C3%A7a%20de%20primeiro%20grau%20n%C3%A3o%20condenar%C3%A1%20o%20vencido%20em%20custas%20e%20honor%C3%A1rios%20de%20advogado%2C%20ressalvados%20os%20casos%20de%20litig%C3%A2ncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XVI",
+        "section_name": "Seção XVI"
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. Instituído o Juizado Especial, serão implantadas as curadorias necessárias e o serviço de assistência judiciária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2056.%20Institu%C3%ADdo%20o%20Juizado%20Especial%2C%20ser%C3%A3o%20implantadas%20as%20curadorias%20necess%C3%A1rias%20e%20o%20servi%C3%A7o%20de%20assist%C3%AAncia%20judici%C3%A1ria.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XVII",
+        "section_name": "Seção XVII"
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. O acordo extrajudicial, de qualquer natureza ou valor, poderá ser homologado, no juízo competente, independentemente de termo, valendo a sentença como título executivo judicial.\n\nParágrafo único. Valerá como título extrajudicial o acordo celebrado pelas partes, por instrumento escrito, referendado pelo órgão competente do Ministério Público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2057.%20O%20acordo%20extrajudicial%2C%20de%20qualquer%20natureza%20ou%20valor%2C%20poder%C3%A1%20ser%20homologado%2C%20no%20ju%C3%ADzo%20competente%2C%20independentemente%20de%20termo%2C%20valendo%20a%20senten%C3%A7a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XVII",
+        "section_name": "Seção XVII"
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. As normas de organização judiciária local poderão estender a conciliação prevista nos arts. 22 e 23 a causas não abrangidas por esta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2058.%20As%20normas%20de%20organiza%C3%A7%C3%A3o%20judici%C3%A1ria%20local%20poder%C3%A3o%20estender%20a%20concilia%C3%A7%C3%A3o%20prevista%20nos%20arts.%2022%20e%2023%20a%20causas%20n%C3%A3o%20abrangidas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XVII",
+        "section_name": "Seção XVII"
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. Não se admitirá ação rescisória nas causas sujeitas ao procedimento instituído por esta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2059.%20N%C3%A3o%20se%20admitir%C3%A1%20a%C3%A7%C3%A3o%20rescis%C3%B3ria%20nas%20causas%20sujeitas%20ao%20procedimento%20institu%C3%ADdo%20por%20esta%20Lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": "XVII",
+        "section_name": "Seção XVII"
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. O Juizado Especial Criminal, provido por Juízes togados ou togados e leigos, tem competência para a conciliação, o julgamento e a execução das infrações penais de menor potencial ofensivo. (Vide Lei nº 10.259, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2060.%20O%20Juizado%20Especial%20Criminal%2C%20provido%20por%20Ju%C3%ADzes%20togados%20ou%20togados%20e%20leigos%2C%20tem%20compet%C3%AAncia%20para%20a%20concilia%C3%A7%C3%A3o%2C%20o%20julgamento%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. Consideram-se infrações penais de menor potencial ofensivo, para os efeitos desta Lei, as contravenções penais e os crimes a que a lei comine pena máxima não superior a um ano, excetuados os casos em que a lei preveja procedimento especial. (Vide Lei nº 10.259, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2061.%20Consideram-se%20infra%C3%A7%C3%B5es%20penais%20de%20menor%20potencial%20ofensivo%2C%20para%20os%20efeitos%20desta%20Lei%2C%20as%20contraven%C3%A7%C3%B5es%20penais%20e%20os%20crimes%20a%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "60",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. O processo perante o Juizado Especial orientar-se-á pelos critérios da oralidade, informalidade, economia processual e celeridade, objetivando, sempre que possível, a reparação dos danos sofridos pela vítima e a aplicação de pena não privativa de liberdade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2062.%20O%20processo%20perante%20o%20Juizado%20Especial%20orientar-se-%C3%A1%20pelos%20crit%C3%A9rios%20da%20oralidade%2C%20informalidade%2C%20economia%20processual%20e%20celeridade%2C%20objetivando%2C%20sempre%20que%20poss%C3%ADvel%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "61",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. A competência do Juizado será determinada pelo lugar em que foi praticada a infração penal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2063.%20A%20compet%C3%AAncia%20do%20Juizado%20ser%C3%A1%20determinada%20pelo%20lugar%20em%20que%20foi%20praticada%20a%20infra%C3%A7%C3%A3o%20penal.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "62",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. Os atos processuais serão públicos e poderão realizar-se em horário noturno e em qualquer dia da semana, conforme dispuserem as normas de organização judiciária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2064.%20Os%20atos%20processuais%20ser%C3%A3o%20p%C3%BAblicos%20e%20poder%C3%A3o%20realizar-se%20em%20hor%C3%A1rio%20noturno%20e%20em%20qualquer%20dia%20da%20semana%2C%20conforme%20dispuserem%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "63",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art. 65. Os atos processuais serão válidos sempre que preencherem as finalidades para as quais foram realizados, atendidos os critérios indicados no art. 62 desta Lei.\n\n§ 1º Não se pronunciará qualquer nulidade sem que tenha havido prejuízo.\n\n§ 2º A prática de atos processuais em outras comarcas poderá ser solicitada por qualquer meio hábil de comunicação.\n\n§ 3º Serão objeto de registro escrito exclusivamente os atos havidos por essenciais. Os atos realizados em audiência de instrução e julgamento poderão ser gravados em fita magnética ou equivalente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2065.%20Os%20atos%20processuais%20ser%C3%A3o%20v%C3%A1lidos%20sempre%20que%20preencherem%20as%20finalidades%20para%20as%20quais%20foram%20realizados%2C%20atendidos%20os%20crit%C3%A9rios%20indicados%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "64",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art. 66. A citação será pessoal e far-se-á no próprio Juizado, sempre que possível, ou por mandado.\n\nParágrafo único. Não encontrado o acusado para ser citado, o Juiz encaminhará as peças existentes ao Juízo comum para adoção do procedimento previsto em lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2066.%20A%20cita%C3%A7%C3%A3o%20ser%C3%A1%20pessoal%20e%20far-se-%C3%A1%20no%20pr%C3%B3prio%20Juizado%2C%20sempre%20que%20poss%C3%ADvel%2C%20ou%20por%20mandado.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "65",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art. 67. A intimação far-se-á por correspondência, com aviso de recebimento pessoal ou, tratando-se de pessoa jurídica ou firma individual, mediante entrega ao encarregado da recepção, que será obrigatoriamente identificado, ou, sendo necessário, por oficial de justiça, independentemente de mandado ou carta precatória, ou ainda por qualquer meio idôneo de comunicação.\n\nParágrafo único. Dos atos praticados em audiência considerar-se-ão desde logo cientes as partes, os interessados e defensores.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2067.%20A%20intima%C3%A7%C3%A3o%20far-se-%C3%A1%20por%20correspond%C3%AAncia%2C%20com%20aviso%20de%20recebimento%20pessoal%20ou%2C%20tratando-se%20de%20pessoa%20jur%C3%ADdica%20ou%20firma%20individual%2C%20mediante%20entrega",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "66",
+      "next": "68"
+    },
+    "68": {
+      "numero": "68",
+      "texto": "Art. 68. Do ato de intimação do autor do fato e do mandado de citação do acusado, constará a necessidade de seu comparecimento acompanhado de advogado, com a advertência de que, na sua falta, ser-lhe-á designado defensor público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2068.%20Do%20ato%20de%20intima%C3%A7%C3%A3o%20do%20autor%20do%20fato%20e%20do%20mandado%20de%20cita%C3%A7%C3%A3o%20do%20acusado%2C%20constar%C3%A1%20a%20necessidade%20de%20seu",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "67",
+      "next": "69"
+    },
+    "69": {
+      "numero": "69",
+      "texto": "Art. 69. A autoridade policial que tomar conhecimento da ocorrência lavrará termo circunstanciado e o encaminhará imediatamente ao Juizado, com o autor do fato e a vítima, providenciando-se as requisições dos exames periciais necessários.\n\nParágrafo único. Ao autor do fato que, após a lavratura do termo, for imediatamente encaminhado ao Juizado ou assumir o compromisso de a ele comparecer, não se imporá prisão em flagrante, nem se exigirá fiança.\n\nParágrafo único. Ao autor do fato que, após a lavratura do termo, for imediatamente encaminhado ao juizado ou assumir o compromisso de a ele comparecer, não se imporá prisão em flagrante, nem se exigirá fiança. Em caso de violência doméstica, o juiz poderá determinar, como medida de cautela, seu afastamento do lar, domicílio ou local de convivência com a vítima. (Redação dada pela Lei nº 10.455, de 13.5.2002))",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2069.%20A%20autoridade%20policial%20que%20tomar%20conhecimento%20da%20ocorr%C3%AAncia%20lavrar%C3%A1%20termo%20circunstanciado%20e%20o%20encaminhar%C3%A1%20imediatamente%20ao%20Juizado%2C%20com%20o%20autor",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "68",
+      "next": "70"
+    },
+    "70": {
+      "numero": "70",
+      "texto": "Art. 70. Comparecendo o autor do fato e a vítima, e não sendo possível a realização imediata da audiência preliminar, será designada data próxima, da qual ambos sairão cientes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2070.%20Comparecendo%20o%20autor%20do%20fato%20e%20a%20v%C3%ADtima%2C%20e%20n%C3%A3o%20sendo%20poss%C3%ADvel%20a%20realiza%C3%A7%C3%A3o%20imediata%20da%20audi%C3%AAncia%20preliminar%2C%20ser%C3%A1%20designada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "69",
+      "next": "71"
+    },
+    "71": {
+      "numero": "71",
+      "texto": "Art. 71. Na falta do comparecimento de qualquer dos envolvidos, a Secretaria providenciará sua intimação e, se for o caso, a do responsável civil, na forma dos arts. 67 e 68 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2071.%20Na%20falta%20do%20comparecimento%20de%20qualquer%20dos%20envolvidos%2C%20a%20Secretaria%20providenciar%C3%A1%20sua%20intima%C3%A7%C3%A3o%20e%2C%20se%20for%20o%20caso%2C%20a%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "70",
+      "next": "72"
+    },
+    "72": {
+      "numero": "72",
+      "texto": "Art. 72. Na audiência preliminar, presente o representante do Ministério Público, o autor do fato e a vítima e, se possível, o responsável civil, acompanhados por seus advogados, o Juiz esclarecerá sobre a possibilidade da composição dos danos e da aceitação da proposta de aplicação imediata de pena não privativa de liberdade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2072.%20Na%20audi%C3%AAncia%20preliminar%2C%20presente%20o%20representante%20do%20Minist%C3%A9rio%20P%C3%BAblico%2C%20o%20autor%20do%20fato%20e%20a%20v%C3%ADtima%20e%2C%20se%20poss%C3%ADvel%2C%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "71",
+      "next": "73"
+    },
+    "73": {
+      "numero": "73",
+      "texto": "Art. 73. A conciliação será conduzida pelo Juiz ou por conciliador sob sua orientação.\n\nParágrafo único. Os conciliadores são auxiliares da Justiça, recrutados, na forma da lei local, preferentemente entre bacharéis em Direito, excluídos os que exerçam funções na administração da Justiça Criminal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2073.%20A%20concilia%C3%A7%C3%A3o%20ser%C3%A1%20conduzida%20pelo%20Juiz%20ou%20por%20conciliador%20sob%20sua%20orienta%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "72",
+      "next": "74"
+    },
+    "74": {
+      "numero": "74",
+      "texto": "Art. 74. A composição dos danos civis será reduzida a escrito e, homologada pelo Juiz mediante sentença irrecorrível, terá eficácia de título a ser executado no juízo civil competente.\n\nParágrafo único. Tratando-se de ação penal de iniciativa privada ou de ação penal pública condicionada à representação, o acordo homologado acarreta a renúncia ao direito de queixa ou representação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2074.%20A%20composi%C3%A7%C3%A3o%20dos%20danos%20civis%20ser%C3%A1%20reduzida%20a%20escrito%20e%2C%20homologada%20pelo%20Juiz%20mediante%20senten%C3%A7a%20irrecorr%C3%ADvel%2C%20ter%C3%A1%20efic%C3%A1cia%20de%20t%C3%ADtulo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "73",
+      "next": "75"
+    },
+    "75": {
+      "numero": "75",
+      "texto": "Art. 75. Não obtida a composição dos danos civis, será dada imediatamente ao ofendido a oportunidade de exercer o direito de representação verbal, que será reduzida a termo.\n\nParágrafo único. O não oferecimento da representação na audiência preliminar não implica decadência do direito, que poderá ser exercido no prazo previsto em lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2075.%20N%C3%A3o%20obtida%20a%20composi%C3%A7%C3%A3o%20dos%20danos%20civis%2C%20ser%C3%A1%20dada%20imediatamente%20ao%20ofendido%20a%20oportunidade%20de%20exercer%20o%20direito%20de%20representa%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "74",
+      "next": "76"
+    },
+    "76": {
+      "numero": "76",
+      "texto": "Art. 76. Havendo representação ou tratando-se de crime de ação penal pública incondicionada, não sendo caso de arquivamento, o Ministério Público poderá propor a aplicação imediata de pena restritiva de direitos ou multas, a ser especificada na proposta.\n\n§ 1º Nas hipóteses de ser a pena de multa a única aplicável, o Juiz poderá reduzi-la até a metade.\n\n§ 2º Não se admitirá a proposta se ficar comprovado:\n\nI - ter sido o autor da infração condenado, pela prática de crime, à pena privativa de liberdade, por sentença definitiva;\n\nII - ter sido o agente beneficiado anteriormente, no prazo de cinco anos, pela aplicação de pena restritiva ou multa, nos termos deste artigo;\n\nIII - não indicarem os antecedentes, a conduta social e a personalidade do agente, bem como os motivos e as circunstâncias, ser necessária e suficiente a adoção da medida.\n\n§ 3º Aceita a proposta pelo autor da infração e seu defensor, será submetida à apreciação do Juiz.\n\n§ 4º Acolhendo a proposta do Ministério Público aceita pelo autor da infração, o Juiz aplicará a pena restritiva de direitos ou multa, que não importará em reincidência, sendo registrada apenas para impedir novamente o mesmo benefício no prazo de cinco anos.\n\n§ 5º Da sentença prevista no parágrafo anterior caberá a apelação referida no art. 82 desta Lei.\n\n§ 6º A imposição da sanção de que trata o § 4º deste artigo não constará de certidão de antecedentes criminais, salvo para os fins previstos no mesmo dispositivo, e não terá efeitos civis, cabendo aos interessados propor ação cabível no juízo cível.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2076.%20Havendo%20representa%C3%A7%C3%A3o%20ou%20tratando-se%20de%20crime%20de%20a%C3%A7%C3%A3o%20penal%20p%C3%BAblica%20incondicionada%2C%20n%C3%A3o%20sendo%20caso%20de%20arquivamento%2C%20o%20Minist%C3%A9rio%20P%C3%BAblico%20poder%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "75",
+      "next": "77"
+    },
+    "77": {
+      "numero": "77",
+      "texto": "Art. 77. Na ação penal de iniciativa pública, quando não houver aplicação de pena, pela ausência do autor do fato, ou pela não ocorrência da hipótese prevista no art. 76 desta Lei, o Ministério Público oferecerá ao Juiz, de imediato, denúncia oral, se não houver necessidade de diligências imprescindíveis.\n\n§ 1º Para o oferecimento da denúncia, que será elaborada com base no termo de ocorrência referido no art. 69 desta Lei, com dispensa do inquérito policial, prescindir-se-á do exame do corpo de delito quando a materialidade do crime estiver aferida por boletim médico ou prova equivalente.\n\n§ 2º Se a complexidade ou circunstâncias do caso não permitirem a formulação da denúncia, o Ministério Público poderá requerer ao Juiz o encaminhamento das peças existentes, na forma do parágrafo único do art. 66 desta Lei.\n\n§ 3º Na ação penal de iniciativa do ofendido poderá ser oferecida queixa oral, cabendo ao Juiz verificar se a complexidade e as circunstâncias do caso determinam a adoção das providências previstas no parágrafo único do art. 66 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2077.%20Na%20a%C3%A7%C3%A3o%20penal%20de%20iniciativa%20p%C3%BAblica%2C%20quando%20n%C3%A3o%20houver%20aplica%C3%A7%C3%A3o%20de%20pena%2C%20pela%20aus%C3%AAncia%20do%20autor%20do%20fato%2C%20ou%20pela",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "76",
+      "next": "78"
+    },
+    "78": {
+      "numero": "78",
+      "texto": "Art. 78. Oferecida a denúncia ou queixa, será reduzida a termo, entregando-se cópia ao acusado, que com ela ficará citado e imediatamente cientificado da designação de dia e hora para a audiência de instrução e julgamento, da qual também tomarão ciência o Ministério Público, o ofendido, o responsável civil e seus advogados.\n\n§ 1º Se o acusado não estiver presente, será citado na forma dos arts. 66 e 68 desta Lei e cientificado da data da audiência de instrução e julgamento, devendo a ela trazer suas testemunhas ou apresentar requerimento para intimação, no mínimo cinco dias antes de sua realização.\n\n§ 2º Não estando presentes o ofendido e o responsável civil, serão intimados nos termos do art. 67 desta Lei para comparecerem à audiência de instrução e julgamento.\n\n§ 3º As testemunhas arroladas serão intimadas na forma prevista no art. 67 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2078.%20Oferecida%20a%20den%C3%BAncia%20ou%20queixa%2C%20ser%C3%A1%20reduzida%20a%20termo%2C%20entregando-se%20c%C3%B3pia%20ao%20acusado%2C%20que%20com%20ela%20ficar%C3%A1%20citado%20e%20imediatamente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "77",
+      "next": "79"
+    },
+    "79": {
+      "numero": "79",
+      "texto": "Art. 79. No dia e hora designados para a audiência de instrução e julgamento, se na fase preliminar não tiver havido possibilidade de tentativa de conciliação e de oferecimento de proposta pelo Ministério Público, proceder-se-á nos termos dos arts. 72, 73, 74 e 75 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2079.%20No%20dia%20e%20hora%20designados%20para%20a%20audi%C3%AAncia%20de%20instru%C3%A7%C3%A3o%20e%20julgamento%2C%20se%20na%20fase%20preliminar%20n%C3%A3o%20tiver%20havido%20possibilidade",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "78",
+      "next": "80"
+    },
+    "80": {
+      "numero": "80",
+      "texto": "Art. 80. Nenhum ato será adiado, determinando o Juiz, quando imprescindível, a condução coercitiva de quem deva comparecer.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2080.%20Nenhum%20ato%20ser%C3%A1%20adiado%2C%20determinando%20o%20Juiz%2C%20quando%20imprescind%C3%ADvel%2C%20a%20condu%C3%A7%C3%A3o%20coercitiva%20de%20quem%20deva%20comparecer.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "79",
+      "next": "81"
+    },
+    "81": {
+      "numero": "81",
+      "texto": "Art. 81. Aberta a audiência, será dada a palavra ao defensor para responder à acusação, após o que o Juiz receberá, ou não, a denúncia ou queixa; havendo recebimento, serão ouvidas a vítima e as testemunhas de acusação e defesa, interrogando-se a seguir o acusado, se presente, passando-se imediatamente aos debates orais e à prolação da sentença.\n\n§ 1º Todas as provas serão produzidas na audiência de instrução e julgamento, podendo o Juiz limitar ou excluir as que considerar excessivas, impertinentes ou protelatórias.\n\n§ 1º-A. Durante a audiência, todas as partes e demais sujeitos processuais presentes no ato deverão respeitar a dignidade da vítima, sob pena de responsabilização civil, penal e administrativa, cabendo ao juiz garantir o cumprimento do disposto neste artigo, vedadas: (Incluído pela Lei nº 14.245, de 2021)\n\nI - a manifestação sobre circunstâncias ou elementos alheios aos fatos objeto de apuração nos autos; (Incluído pela Lei nº 14.245, de 2021)\n\nII - a utilização de linguagem, de informações ou de material que ofendam a dignidade da vítima ou de testemunhas. (Incluído pela Lei nº 14.245, de 2021)\n\n§ 2º De todo o ocorrido na audiência será lavrado termo, assinado pelo Juiz e pelas partes, contendo breve resumo dos fatos relevantes ocorridos em audiência e a sentença.\n\n§ 3º A sentença, dispensado o relatório, mencionará os elementos de convicção do Juiz.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2081.%20Aberta%20a%20audi%C3%AAncia%2C%20ser%C3%A1%20dada%20a%20palavra%20ao%20defensor%20para%20responder%20%C3%A0%20acusa%C3%A7%C3%A3o%2C%20ap%C3%B3s%20o%20que%20o%20Juiz%20receber%C3%A1%2C%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "80",
+      "next": "82"
+    },
+    "82": {
+      "numero": "82",
+      "texto": "Art. 82. Da decisão de rejeição da denúncia ou queixa e da sentença caberá apelação, que poderá ser julgada por turma composta de três Juízes em exercício no primeiro grau de jurisdição, reunidos na sede do Juizado.\n\n§ 1º A apelação será interposta no prazo de dez dias, contados da ciência da sentença pelo Ministério Público, pelo réu e seu defensor, por petição escrita, da qual constarão as razões e o pedido do recorrente.\n\n§ 2º O recorrido será intimado para oferecer resposta escrita no prazo de dez dias.\n\n§ 3º As partes poderão requerer a transcrição da gravação da fita magnética a que alude o § 3º do art. 65 desta Lei.\n\n§ 4º As partes serão intimadas da data da sessão de julgamento pela imprensa.\n\n§ 5º Se a sentença for confirmada pelos próprios fundamentos, a súmula do julgamento servirá de acórdão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2082.%20Da%20decis%C3%A3o%20de%20rejei%C3%A7%C3%A3o%20da%20den%C3%BAncia%20ou%20queixa%20e%20da%20senten%C3%A7a%20caber%C3%A1%20apela%C3%A7%C3%A3o%2C%20que%20poder%C3%A1%20ser%20julgada%20por%20turma%20composta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "81",
+      "next": "83"
+    },
+    "83": {
+      "numero": "83",
+      "texto": "Art. 83. Caberão embargos de declaração quando, em sentença ou acórdão, houver obscuridade, contradição, omissão ou dúvida.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2083.%20Caber%C3%A3o%20embargos%20de%20declara%C3%A7%C3%A3o%20quando%2C%20em%20senten%C3%A7a%20ou%20ac%C3%B3rd%C3%A3o%2C%20houver%20obscuridade%2C%20contradi%C3%A7%C3%A3o%2C%20omiss%C3%A3o%20ou%20d%C3%BAvida.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "82",
+      "next": "84"
+    },
+    "84": {
+      "numero": "84",
+      "texto": "Art. 84. Aplicada exclusivamente pena de multa, seu cumprimento far-se-á mediante pagamento na Secretaria do Juizado.\n\nParágrafo único. Efetuado o pagamento, o Juiz declarará extinta a punibilidade, determinando que a condenação não fique constando dos registros criminais, exceto para fins de requisição judicial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2084.%20Aplicada%20exclusivamente%20pena%20de%20multa%2C%20seu%20cumprimento%20far-se-%C3%A1%20mediante%20pagamento%20na%20Secretaria%20do%20Juizado.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "83",
+      "next": "85"
+    },
+    "85": {
+      "numero": "85",
+      "texto": "Art. 85. Não efetuado o pagamento de multa, será feita a conversão em pena privativa da liberdade, ou restritiva de direitos, nos termos previstos em lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2085.%20N%C3%A3o%20efetuado%20o%20pagamento%20de%20multa%2C%20ser%C3%A1%20feita%20a%20convers%C3%A3o%20em%20pena%20privativa%20da%20liberdade%2C%20ou%20restritiva%20de%20direitos%2C%20nos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "84",
+      "next": "86"
+    },
+    "86": {
+      "numero": "86",
+      "texto": "Art. 86. A execução das penas privativas de liberdade e restritivas de direitos, ou de multa cumulada com estas, será processada perante o órgão competente, nos termos da lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2086.%20A%20execu%C3%A7%C3%A3o%20das%20penas%20privativas%20de%20liberdade%20e%20restritivas%20de%20direitos%2C%20ou%20de%20multa%20cumulada%20com%20estas%2C%20ser%C3%A1%20processada%20perante",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "85",
+      "next": "87"
+    },
+    "87": {
+      "numero": "87",
+      "texto": "Art. 87. Nos casos de homologação do acordo civil e aplicação de pena restritiva de direitos ou multa (arts. 74 e 76, § 4º), as despesas processuais serão reduzidas, conforme dispuser lei estadual.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2087.%20Nos%20casos%20de%20homologa%C3%A7%C3%A3o%20do%20acordo%20civil%20e%20aplica%C3%A7%C3%A3o%20de%20pena%20restritiva%20de%20direitos%20ou%20multa%20%28arts.%2074%20e%2076%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "86",
+      "next": "88"
+    },
+    "88": {
+      "numero": "88",
+      "texto": "Art. 88. Além das hipóteses do Código Penal e da legislação especial, dependerá de representação a ação penal relativa aos crimes de lesões corporais leves e lesões culposas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2088.%20Al%C3%A9m%20das%20hip%C3%B3teses%20do%20C%C3%B3digo%20Penal%20e%20da%20legisla%C3%A7%C3%A3o%20especial%2C%20depender%C3%A1%20de%20representa%C3%A7%C3%A3o%20a%20a%C3%A7%C3%A3o%20penal%20relativa%20aos%20crimes%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "87",
+      "next": "89"
+    },
+    "89": {
+      "numero": "89",
+      "texto": "Art. 89. Nos crimes em que a pena mínima cominada for igual ou inferior a um ano, abrangidas ou não por esta Lei, o Ministério Público, ao oferecer a denúncia, poderá propor a suspensão do processo, por dois a quatro anos, desde que o acusado não esteja sendo processado ou não tenha sido condenado por outro crime, presentes os demais requisitos que autorizariam a suspensão condicional da pena (art. 77 do Código Penal).\n\n§ 1º Aceita a proposta pelo acusado e seu defensor, na presença do Juiz, este, recebendo a denúncia, poderá suspender o processo, submetendo o acusado a período de prova, sob as seguintes condições:\n\nI - reparação do dano, salvo impossibilidade de fazê-lo;\n\nII - proibição de freqüentar determinados lugares;\n\nIII - proibição de ausentar-se da comarca onde reside, sem autorização do Juiz;\n\nIV - comparecimento pessoal e obrigatório a juízo, mensalmente, para informar e justificar suas atividades.\n\n§ 2º O Juiz poderá especificar outras condições a que fica subordinada a suspensão, desde que adequadas ao fato e à situação pessoal do acusado.\n\n§ 3º A suspensão será revogada se, no curso do prazo, o beneficiário vier a ser processado por outro crime ou não efetuar, sem motivo justificado, a reparação do dano.\n\n§ 4º A suspensão poderá ser revogada se o acusado vier a ser processado, no curso do prazo, por contravenção, ou descumprir qualquer outra condição imposta.\n\n§ 5º Expirado o prazo sem revogação, o Juiz declarará extinta a punibilidade.\n\n§ 6º Não correrá a prescrição durante o prazo de suspensão do processo.\n\n§ 7º Se o acusado não aceitar a proposta prevista neste artigo, o processo prosseguirá em seus ulteriores termos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2089.%20Nos%20crimes%20em%20que%20a%20pena%20m%C3%ADnima%20cominada%20for%20igual%20ou%20inferior%20a%20um%20ano%2C%20abrangidas%20ou%20n%C3%A3o%20por%20esta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "88",
+      "next": "90"
+    },
+    "90": {
+      "numero": "90",
+      "texto": "Art. 90. As disposições desta Lei não se aplicam aos processos penais cuja instrução já estiver iniciada. (Vide ADIN nº 1.719-9)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2090.%20As%20disposi%C3%A7%C3%B5es%20desta%20Lei%20n%C3%A3o%20se%20aplicam%20aos%20processos%20penais%20cuja%20instru%C3%A7%C3%A3o%20j%C3%A1%20estiver%20iniciada.%20%28Vide%20ADIN%20n%C2%BA%201.719-9%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "89",
+      "next": "90-A"
+    },
+    "90-A": {
+      "numero": "90-A",
+      "texto": "Art. 90-A. As disposições desta Lei não se aplicam no âmbito da Justiça Militar. (Artigo incluído pela Lei nº 9.839, de 27.9.1999)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2090-A.%20As%20disposi%C3%A7%C3%B5es%20desta%20Lei%20n%C3%A3o%20se%20aplicam%20no%20%C3%A2mbito%20da%20Justi%C3%A7a%20Militar.%20%28Artigo%20inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%209.839%2C%20de%2027.9.1999%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "90",
+      "next": "91"
+    },
+    "91": {
+      "numero": "91",
+      "texto": "Art. 91. Nos casos em que esta Lei passa a exigir representação para a propositura da ação penal pública, o ofendido ou seu representante legal será intimado para oferecê-la no prazo de trinta dias, sob pena de decadência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2091.%20Nos%20casos%20em%20que%20esta%20Lei%20passa%20a%20exigir%20representa%C3%A7%C3%A3o%20para%20a%20propositura%20da%20a%C3%A7%C3%A3o%20penal%20p%C3%BAblica%2C%20o%20ofendido%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "90-A",
+      "next": "92"
+    },
+    "92": {
+      "numero": "92",
+      "texto": "Art. 92. Aplicam-se subsidiariamente as disposições dos Códigos Penal e de Processo Penal, no que não forem incompatíveis com esta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2092.%20Aplicam-se%20subsidiariamente%20as%20disposi%C3%A7%C3%B5es%20dos%20C%C3%B3digos%20Penal%20e%20de%20Processo%20Penal%2C%20no%20que%20n%C3%A3o%20forem%20incompat%C3%ADveis%20com%20esta%20Lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "91",
+      "next": "93"
+    },
+    "93": {
+      "numero": "93",
+      "texto": "Art. 93. Lei Estadual disporá sobre o Sistema de Juizados Especiais Cíveis e Criminais, sua organização, composição e competência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2093.%20Lei%20Estadual%20dispor%C3%A1%20sobre%20o%20Sistema%20de%20Juizados%20Especiais%20C%C3%ADveis%20e%20Criminais%2C%20sua%20organiza%C3%A7%C3%A3o%2C%20composi%C3%A7%C3%A3o%20e%20compet%C3%AAncia.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "Capítulo IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "92",
+      "next": "94"
+    },
+    "94": {
+      "numero": "94",
+      "texto": "Art. 94. Os serviços de cartório poderão ser prestados, e as audiências realizadas fora da sede da Comarca, em bairros ou cidades a ela pertencentes, ocupando instalações de prédios públicos, de acordo com audiências previamente anunciadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2094.%20Os%20servi%C3%A7os%20de%20cart%C3%B3rio%20poder%C3%A3o%20ser%20prestados%2C%20e%20as%20audi%C3%AAncias%20realizadas%20fora%20da%20sede%20da%20Comarca%2C%20em%20bairros%20ou%20cidades",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "Capítulo IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "93",
+      "next": "95"
+    },
+    "95": {
+      "numero": "95",
+      "texto": "Art. 95. Os Estados, Distrito Federal e Territórios criarão e instalarão os Juizados Especiais no prazo de seis meses, a contar da vigência desta Lei.\n\nParágrafo único. No prazo de 6 (seis) meses, contado da publicação desta Lei, serão criados e instalados os Juizados Especiais Itinerantes, que deverão dirimir, prioritariamente, os conflitos existentes nas áreas rurais ou nos locais de menor concentração populacional. (Redação dada pela Lei nº 12.726, de 2012)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2095.%20Os%20Estados%2C%20Distrito%20Federal%20e%20Territ%C3%B3rios%20criar%C3%A3o%20e%20instalar%C3%A3o%20os%20Juizados%20Especiais%20no%20prazo%20de%20seis%20meses%2C%20a%20contar%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "Capítulo IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "94",
+      "next": "96"
+    },
+    "96": {
+      "numero": "96",
+      "texto": "Art. 96. Esta Lei entra em vigor no prazo de sessenta dias após a sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2096.%20Esta%20Lei%20entra%20em%20vigor%20no%20prazo%20de%20sessenta%20dias%20ap%C3%B3s%20a%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "Capítulo IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "95",
+      "next": "97"
+    },
+    "97": {
+      "numero": "97",
+      "texto": "Art. 97. Ficam revogadas a Lei nº 4.611, de 2 de abril de 1965 e a Lei nº 7.244, de 7 de novembro de 1984.\n\nBrasília, 26 de setembro de 1995; 174º da Independência e 107º da República.\n\nFERNANDO HENRIQUE CARDOSO Nelson A. Jobim\n\nEste texto não substitui o publicado no DOU de 27.9.1995\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2097.%20Ficam%20revogadas%20a%20Lei%20n%C2%BA%204.611%2C%20de%202%20de%20abril%20de%201965%20e%20a%20Lei%20n%C2%BA%207.244%2C%20de%207%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "Capítulo IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "96",
+      "next": null
+    }
+  }
+}

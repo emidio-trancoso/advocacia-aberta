@@ -1,0 +1,735 @@
+{
+  "_meta": {
+    "codigo": "L8038",
+    "nome": "Procedimentos no STF e STJ (ações originárias/recursos)",
+    "lei": "Lei 8.038/1990",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm",
+    "total_artigos": 45,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º - Nos crimes de ação penal pública, o Ministério Público terá o prazo de quinze dias para oferecer denúncia ou pedir arquivamento do inquérito ou das peças informativas. (Vide Lei nº 8.658, de 1993)\n\n§ 1º - Diligências complementares poderão ser deferidas pelo relator, com interrupção do prazo deste artigo.\n\n§ 2º - Se o indiciado estiver preso:\n\na) o prazo para oferecimento da denúncia será de cinco dias;\n\nb) as diligências complementares não interromperão o prazo, salvo se o relator, ao deferi-las, determinar o relaxamento da prisão.\n\n§ 3º Não sendo o caso de arquivamento e tendo o investigado confessado formal e circunstanciadamente a prática de infração penal sem violência ou grave ameaça e com pena mínima inferior a 4 (quatro) anos, o Ministério Público poderá propor acordo de não persecução penal, desde que necessário e suficiente para a reprovação e prevenção do crime, nos termos do art. 28-A do Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal). (Incluído pela Lei nº 13.964, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%201%C2%BA%20-%20Nos%20crimes%20de%20a%C3%A7%C3%A3o%20penal%20p%C3%BAblica%2C%20o%20Minist%C3%A9rio%20P%C3%BAblico%20ter%C3%A1%20o%20prazo%20de%20quinze%20dias%20para%20oferecer%20den%C3%BAncia%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Processos de Competência Originária CAPÍTULO I Ação Penal Originária",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º - O relator, escolhido na forma regimental, será o juiz da instrução, que se realizará segundo o disposto neste capítulo, no Código de Processo Penal, no que for aplicável, e no Regimento Interno do Tribunal. (Vide Lei nº 8.658, de 1993)\n\nParágrafo único - O relator terá as atribuições que a legislação processual confere aos juízes singulares.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%202%C2%BA%20-%20O%20relator%2C%20escolhido%20na%20forma%20regimental%2C%20ser%C3%A1%20o%20juiz%20da%20instru%C3%A7%C3%A3o%2C%20que%20se%20realizar%C3%A1%20segundo%20o%20disposto%20neste%20cap%C3%ADtulo%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Processos de Competência Originária CAPÍTULO I Ação Penal Originária",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º - Compete ao relator: (Vide Lei nº 8.658, de 1993)\n\nI - determinar o arquivamento do inquérito ou de peças informativas, quando o requerer o Ministério Público, ou submeter o requerimento à decisão competente do Tribunal;\n\nII - decretar a extinção da punibilidade, nos casos previstos em lei.\n\nIII – convocar desembargadores de Turmas Criminais dos Tribunais de Justiça ou dos Tribunais Regionais Federais, bem como juízes de varas criminais da Justiça dos Estados e da Justiça Federal, pelo prazo de 6 (seis) meses, prorrogável por igual período, até o máximo de 2 (dois) anos, para a realização do interrogatório e de outros atos da instrução, na sede do tribunal ou no local onde se deva produzir o ato. (Incluído pela Lei nº 12.019, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%203%C2%BA%20-%20Compete%20ao%20relator%3A%20%28Vide%20Lei%20n%C2%BA%208.658%2C%20de%201993%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Processos de Competência Originária CAPÍTULO I Ação Penal Originária",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º - Apresentada a denúncia ou a queixa ao Tribunal, far-se-á a notificação do acusado para oferecer resposta no prazo de quinze dias. (Vide Lei nº 8.658, de 1993)\n\n§ 1º - Com a notificação, serão entregues ao acusado cópia da denúncia ou da queixa, do despacho do relator e dos documentos por este indicados.\n\n§ 2º - Se desconhecido o paradeiro do acusado, ou se este criar dificuldades para que o oficial cumpra a diligência, proceder-se-á a sua notificação por edital, contendo o teor resumido da acusação, para que compareça ao Tribunal, em cinco dias, onde terá vista dos autos pelo prazo de quinze dias, a fim de apresentar a resposta prevista neste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%204%C2%BA%20-%20Apresentada%20a%20den%C3%BAncia%20ou%20a%20queixa%20ao%20Tribunal%2C%20far-se-%C3%A1%20a%20notifica%C3%A7%C3%A3o%20do%20acusado%20para%20oferecer%20resposta%20no%20prazo%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Processos de Competência Originária CAPÍTULO I Ação Penal Originária",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º - Se, com a resposta, forem apresentados novos documentos, será intimada a parte contrária para sobre eles se manifestar, no prazo de cinco dias. (Vide Lei nº 8.658, de 1993)\n\nParágrafo único - Na ação penal de iniciativa privada, será ouvido, em igual prazo, o Ministério Público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%205%C2%BA%20-%20Se%2C%20com%20a%20resposta%2C%20forem%20apresentados%20novos%20documentos%2C%20ser%C3%A1%20intimada%20a%20parte%20contr%C3%A1ria%20para%20sobre%20eles%20se%20manifestar%2C%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Processos de Competência Originária CAPÍTULO I Ação Penal Originária",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º - A seguir, o relator pedirá dia para que o Tribunal delibere sobre o recebimento, a rejeição da denúncia ou da queixa, ou a improcedência da acusação, se a decisão não depender de outras provas. (Vide Lei nº 8.658, de 1993)\n\n§ 1º - No julgamento de que trata este artigo, será facultada sustentação oral pelo prazo de quinze minutos, primeiro à acusação, depois à defesa.\n\n§ 2º - Encerrados os debates, o Tribunal passará a deliberar, determinando o Presidente as pessoas que poderão permanecer no recinto, observado o disposto no inciso II do art. 12 desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%206%C2%BA%20-%20A%20seguir%2C%20o%20relator%20pedir%C3%A1%20dia%20para%20que%20o%20Tribunal%20delibere%20sobre%20o%20recebimento%2C%20a%20rejei%C3%A7%C3%A3o%20da%20den%C3%BAncia%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Processos de Competência Originária CAPÍTULO I Ação Penal Originária",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º - Recebida a denúncia ou a queixa, o relator designará dia e hora para o interrogatório, mandando citar o acusado ou querelado e intimar o órgão do Ministério Público, bem como o querelante ou o assistente, se for o caso. (Vide Lei nº 8.658, de 1993)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%207%C2%BA%20-%20Recebida%20a%20den%C3%BAncia%20ou%20a%20queixa%2C%20o%20relator%20designar%C3%A1%20dia%20e%20hora%20para%20o%20interrogat%C3%B3rio%2C%20mandando%20citar%20o%20acusado",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Processos de Competência Originária CAPÍTULO I Ação Penal Originária",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º - O prazo para defesa prévia será de cinco dias, contado do interrogatório ou da intimação do defensor dativo. (Vide Lei nº 8.658, de 1993)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%208%C2%BA%20-%20O%20prazo%20para%20defesa%20pr%C3%A9via%20ser%C3%A1%20de%20cinco%20dias%2C%20contado%20do%20interrogat%C3%B3rio%20ou%20da%20intima%C3%A7%C3%A3o%20do%20defensor%20dativo.%20%28Vide",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Processos de Competência Originária CAPÍTULO I Ação Penal Originária",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º - A instrução obedecerá, no que couber, ao procedimento comum do Código de Processo Penal. (Vide Lei nº 8.658, de 1993)\n\n§ 1º - O relator poderá delegar a realização do interrogatório ou de outro ato da instrução ao juiz ou membro de tribunal com competência territorial no local de cumprimento da carta de ordem.\n\n§ 2º - Por expressa determinação do relator, as intimações poderão ser feitas por carta registrada com aviso de recebimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%209%C2%BA%20-%20A%20instru%C3%A7%C3%A3o%20obedecer%C3%A1%2C%20no%20que%20couber%2C%20ao%20procedimento%20comum%20do%20C%C3%B3digo%20de%20Processo%20Penal.%20%28Vide%20Lei%20n%C2%BA%208.658%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Processos de Competência Originária CAPÍTULO I Ação Penal Originária",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10 - Concluída a inquirição de testemunhas, serão intimadas a acusação e a defesa, para requerimento de diligências no prazo de cinco dias. (Vide Lei nº 8.658, de 1993)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2010%20-%20Conclu%C3%ADda%20a%20inquiri%C3%A7%C3%A3o%20de%20testemunhas%2C%20ser%C3%A3o%20intimadas%20a%20acusa%C3%A7%C3%A3o%20e%20a%20defesa%2C%20para%20requerimento%20de%20dilig%C3%AAncias%20no%20prazo%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Processos de Competência Originária CAPÍTULO I Ação Penal Originária",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11 - Realizadas as diligências, ou não sendo estas requeridas nem determinadas pelo relator, serão intimadas a acusação e a defesa para, sucessivamente, apresentarem, no prazo de quinze dias, alegações escritas. (Vide Lei nº 8.658, de 1993)\n\n§ 1º - Será comum o prazo do acusador e do assistente, bem como o dos co-réus.\n\n§ 2º - Na ação penal de iniciativa privada, o Ministério Público terá vista, por igual prazo, após as alegações das partes.\n\n§ 3º - O relator poderá, após as alegações escritas, determinar de ofício a realização de provas reputadas imprescindíveis para o julgamento da causa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2011%20-%20Realizadas%20as%20dilig%C3%AAncias%2C%20ou%20n%C3%A3o%20sendo%20estas%20requeridas%20nem%20determinadas%20pelo%20relator%2C%20ser%C3%A3o%20intimadas%20a%20acusa%C3%A7%C3%A3o%20e%20a%20defesa",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Processos de Competência Originária CAPÍTULO I Ação Penal Originária",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12 - Finda a instrução, o Tribunal procederá ao julgamento, na forma determinada pelo regimento interno, observando-se o seguinte: (Vide Lei nº 8.658, de 1993)\n\nI - a acusação e a defesa terão, sucessivamente, nessa ordem, prazo de uma hora para sustentação oral, assegurado ao assistente um quarto do tempo da acusação;\n\nII - encerrados os debates, o Tribunal passará a proferir o julgamento, podendo o Presidente limitar a presença no recinto às partes e seus advogados, ou somente a estes, se o interesse público exigir.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2012%20-%20Finda%20a%20instru%C3%A7%C3%A3o%2C%20o%20Tribunal%20proceder%C3%A1%20ao%20julgamento%2C%20na%20forma%20determinada%20pelo%20regimento%20interno%2C%20observando-se%20o%20seguinte%3A%20%28Vide%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Processos de Competência Originária CAPÍTULO I Ação Penal Originária",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13 - Para preservar a competência do Tribunal ou garantir a autoridade das suas decisões, caberá reclamação da parte interessada ou do Ministério Público. (Revogado pela Lei n º 13.105, de 2015) (Vigência)\n\nParágrafo único - A reclamação, dirigida ao Presidente do Tribunal, instruída com prova documental, será autuada e distribuída ao relator da causa principal, sempre que possível. (Revogado pela Lei n º 13.105, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2013%20-%20Para%20preservar%20a%20compet%C3%AAncia%20do%20Tribunal%20ou%20garantir%20a%20autoridade%20das%20suas%20decis%C3%B5es%2C%20caber%C3%A1%20reclama%C3%A7%C3%A3o%20da%20parte%20interessada%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Processos de Competência Originária CAPÍTULO I Ação Penal Originária",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Reclamação",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14 - Ao despachar a reclamação, o relator: (Revogado pela Lei n º 13.105, de 2015) (Vigência)\n\nI - requisitará informações da autoridade a quem for imputada a prática do ato impugnado, que as prestará no prazo de dez dias; (Revogado pela Lei n º 13.105, de 2015) (Vigência)\n\nII - ordenará, se necessário, para evitar dano irreparável, a suspensão do processo ou do ato impugnado. (Revogado pela Lei n º 13.105, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2014%20-%20Ao%20despachar%20a%20reclama%C3%A7%C3%A3o%2C%20o%20relator%3A%20%28Revogado%20pela%20Lei%20n%20%C2%BA%2013.105%2C%20de%202015%29%20%28Vig%C3%AAncia%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Processos de Competência Originária CAPÍTULO I Ação Penal Originária",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Reclamação",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15 - Qualquer interessado poderá impugnar o pedido do reclamante. (Revogado pela Lei n º 13.105, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2015%20-%20Qualquer%20interessado%20poder%C3%A1%20impugnar%20o%20pedido%20do%20reclamante.%20%28Revogado%20pela%20Lei%20n%20%C2%BA%2013.105%2C%20de%202015%29%20%28Vig%C3%AAncia%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Processos de Competência Originária CAPÍTULO I Ação Penal Originária",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Reclamação",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16 - O Ministério Público, nas reclamações que não houver formulado, terá vista do processo, por cinco dias, após o decurso do prazo para informações. (Revogado pela Lei n º 13.105, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2016%20-%20O%20Minist%C3%A9rio%20P%C3%BAblico%2C%20nas%20reclama%C3%A7%C3%B5es%20que%20n%C3%A3o%20houver%20formulado%2C%20ter%C3%A1%20vista%20do%20processo%2C%20por%20cinco%20dias%2C%20ap%C3%B3s%20o%20decurso",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Processos de Competência Originária CAPÍTULO I Ação Penal Originária",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Reclamação",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17 - Julgando procedente a reclamação, o Tribunal cassará a decisão exorbitante de seu julgado ou determinará medida adequada à preservação de sua competência. (Revogado pela Lei n º 13.105, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2017%20-%20Julgando%20procedente%20a%20reclama%C3%A7%C3%A3o%2C%20o%20Tribunal%20cassar%C3%A1%20a%20decis%C3%A3o%20exorbitante%20de%20seu%20julgado%20ou%20determinar%C3%A1%20medida%20adequada%20%C3%A0%20preserva%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Processos de Competência Originária CAPÍTULO I Ação Penal Originária",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Reclamação",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18 - O Presidente determinará o imediato cumprimento da decisão, lavrando-se o acórdão posteriormente. (Revogado pela Lei n º 13.105, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2018%20-%20O%20Presidente%20determinar%C3%A1%20o%20imediato%20cumprimento%20da%20decis%C3%A3o%2C%20lavrando-se%20o%20ac%C3%B3rd%C3%A3o%20posteriormente.%20%28Revogado%20pela%20Lei%20n%20%C2%BA%2013.105%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Processos de Competência Originária CAPÍTULO I Ação Penal Originária",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Reclamação",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19 - A requisição de intervenção federal prevista nos incisos II e IV do art. 36 da Constituição Federal será promovida:\n\nI - de ofício, ou mediante pedido de Presidente de Tribunal de Justiça do Estado, ou de Presidente de Tribunal Federal, quando se tratar de prover a execução de ordem ou decisão judicial, com ressalva, conforme a matéria, da competência do Supremo Tribunal Federal ou do Tribunal Superior Eleitoral;\n\nII - de ofício, ou mediante pedido da parte interessada, quando se tratar de prover a execução de ordem ou decisão do Superior Tribunal de Justiça;\n\nIII - mediante representação do Procurador-Geral da República, quando se tratar de prover a execução de lei federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2019%20-%20A%20requisi%C3%A7%C3%A3o%20de%20interven%C3%A7%C3%A3o%20federal%20prevista%20nos%20incisos%20II%20e%20IV%20do%20art.%2036%20da%20Constitui%C3%A7%C3%A3o%20Federal%20ser%C3%A1%20promovida%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Processos de Competência Originária CAPÍTULO I Ação Penal Originária",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Intervenção Federal",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20 - O Presidente, ao receber o pedido:\n\nI - tomará as providências que lhe parecerem adequadas para remover, administrativamente, a causa do pedido;\n\nII - mandará arquivá-lo, se for manifestamente infundado, cabendo do seu despacho agravo regimental.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2020%20-%20O%20Presidente%2C%20ao%20receber%20o%20pedido%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Processos de Competência Originária CAPÍTULO I Ação Penal Originária",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Intervenção Federal",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21 - Realizada a gestão prevista no inciso I do artigo anterior, solicitadas informações à autoridade estadual e ouvido o Procurador-Geral, o pedido será distribuído a um relator.\n\nParágrafo único - Tendo em vista o interesse público, poderá ser permitida a presença no recinto às partes e seus advogados, ou somente a estes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2021%20-%20Realizada%20a%20gest%C3%A3o%20prevista%20no%20inciso%20I%20do%20artigo%20anterior%2C%20solicitadas%20informa%C3%A7%C3%B5es%20%C3%A0%20autoridade%20estadual%20e%20ouvido%20o%20Procurador-Geral%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Processos de Competência Originária CAPÍTULO I Ação Penal Originária",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Intervenção Federal",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22 - Julgado procedente o pedido, o Presidente do Superior Tribunal de Justiça comunicará, imediatamente, a decisão aos órgãos do poder público interessados e requisitará a intervenção ao Presidente da República.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2022%20-%20Julgado%20procedente%20o%20pedido%2C%20o%20Presidente%20do%20Superior%20Tribunal%20de%20Justi%C3%A7a%20comunicar%C3%A1%2C%20imediatamente%2C%20a%20decis%C3%A3o%20aos%20%C3%B3rg%C3%A3os%20do%20poder",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Processos de Competência Originária CAPÍTULO I Ação Penal Originária",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Intervenção Federal",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23 - Aplicam-se ao Habeas Corpus perante o Superior Tribunal de Justiça as normas do Livro III, Título II, Capítulo X do Código de Processo Penal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2023%20-%20Aplicam-se%20ao%20Habeas%20Corpus%20perante%20o%20Superior%20Tribunal%20de%20Justi%C3%A7a%20as%20normas%20do%20Livro%20III%2C%20T%C3%ADtulo%20II%2C%20Cap%C3%ADtulo%20X",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Processos de Competência Originária CAPÍTULO I Ação Penal Originária",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Habeas Corpus",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24 - Na ação rescisória, nos conflitos de competência, de jurisdição e de atribuições, na revisão criminal e no mandado de segurança, será aplicada a legislação processual em vigor.\n\nParágrafo único - No mandado de injunção e no habeas data, serão observadas, no que couber, as normas do mandado de segurança, enquanto não editada legislação específica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2024%20-%20Na%20a%C3%A7%C3%A3o%20rescis%C3%B3ria%2C%20nos%20conflitos%20de%20compet%C3%AAncia%2C%20de%20jurisdi%C3%A7%C3%A3o%20e%20de%20atribui%C3%A7%C3%B5es%2C%20na%20revis%C3%A3o%20criminal%20e%20no%20mandado%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Processos de Competência Originária CAPÍTULO I Ação Penal Originária",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Outros Procedimentos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25 - Salvo quando a causa tiver por fundamento matéria constitucional, compete ao Presidente do Superior Tribunal de Justiça, a requerimento do Procurador-Geral da República ou da pessoa jurídica de direito público interessada, e para evitar grave lesão à ordem, à saúde, à segurança e à economia pública, suspender, em despacho fundamentado, a execução de liminar ou de decisão concessiva de mandado de segurança, proferida, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal.\n\n§ 1º - O Presidente pode ouvir o impetrante, em cinco dias, e o Procurador-Geral quando não for o requerente, em igual prazo.\n\n§ 2º - Do despacho que conceder a suspensão caberá agravo regimental.\n\n§ 3º - A suspensão de segurança vigorará enquanto pender o recurso, ficando sem efeito, se a decisão concessiva for mantida pelo Superior Tribunal de Justiça ou transitar em julgado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2025%20-%20Salvo%20quando%20a%20causa%20tiver%20por%20fundamento%20mat%C3%A9ria%20constitucional%2C%20compete%20ao%20Presidente%20do%20Superior%20Tribunal%20de%20Justi%C3%A7a%2C%20a%20requerimento",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I Processos de Competência Originária CAPÍTULO I Ação Penal Originária",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Outros Procedimentos",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26 - Os recurso extraordinário e especial, nos casos previstos na Constituição Federal, serão interpostos no prazo comum de quinze dias, perante o Presidente do Tribunal recorrido, em petições distintas que conterão: (Revogado pela Lei n º 13.105, de 2015) (Vigência)\n\nI - exposição do fato e do direito; (Revogado pela Lei n º 13.105, de 2015) (Vigência)\n\nII - a demonstração do cabimento do recurso interposto; (Revogado pela Lei n º 13.105, de 2015) (Vigência)\n\nIII - as razões do pedido de reforma da decisão recorrida. (Revogado pela Lei n º 13.105, de 2015) (Vigência)\n\nParágrafo único - Quando o recurso se fundar em dissídio entre a interpretação da lei federal adotada pelo julgado recorrido e a que lhe haja dado outro Tribunal, o recorrente fará a prova da divergência mediante certidão, ou indicação do número e da página do jornal oficial, ou do repertório autorizado de jurisprudência, que o houver publicado. (Revogado pela Lei n º 13.105, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2026%20-%20Os%20recurso%20extraordin%C3%A1rio%20e%20especial%2C%20nos%20casos%20previstos%20na%20Constitui%C3%A7%C3%A3o%20Federal%2C%20ser%C3%A3o%20interpostos%20no%20prazo%20comum%20de%20quinze%20dias%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Recursos CAPÍTULO I Recurso Extraordinário e Recurso Especial",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27 - Recebida a petição pela Secretaria do Tribunal e aí protocolada, será intimado o recorrido, abrindo-se-lhe vista pelo prazo de quinze dias para apresentar contra-razões. (Revogado pela Lei n º 13.105, de 2015) (Vigência)\n\n§ 1º - Findo esse prazo, serão os autos conclusos para admissão ou não do recurso, no prazo de cinco dias. (Revogado pela Lei n º 13.105, de 2015) (Vigência)\n\n§ 2º - Os recursos extraordinário e especial serão recebidos no efeito devolutivo. (Revogado pela Lei n º 13.105, de 2015) (Vigência)\n\n§ 3º - Admitidos os recursos, os autos serão imediatamente remetidos ao Superior Tribunal de Justiça. (Revogado pela Lei n º 13.105, de 2015) (Vigência)\n\n§ 4º - Concluído o julgamento do recurso especial, serão os autos remetidos ao Supremo Tribunal Federal para apreciação do recurso extraordinário, se este não estiver prejudicado. (Revogado pela Lei n º 13.105, de 2015) (Vigência)\n\n§ 5º - Na hipótese de o relator do recurso especial considerar que o recurso extraordinário é prejudicial daquele em decisão irrecorrível, sobrestará o seu julgamento e remeterá os autos ao Supremo Tribunal Federal, para julgar o extraordinário. (Revogado pela Lei n º 13.105, de 2015) (Vigência)\n\n§ 6º - No caso de parágrafo anterior, se o relator do recurso extraordinário, em despacho irrecorrível, não o considerar prejudicial, devolverá os autos ao Superior Tribunal de Justiça, para o julgamento do recurso especial. (Revogado pela Lei n º 13.105, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2027%20-%20Recebida%20a%20peti%C3%A7%C3%A3o%20pela%20Secretaria%20do%20Tribunal%20e%20a%C3%AD%20protocolada%2C%20ser%C3%A1%20intimado%20o%20recorrido%2C%20abrindo-se-lhe%20vista%20pelo%20prazo%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Recursos CAPÍTULO I Recurso Extraordinário e Recurso Especial",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28 - Denegado o recurso extraordinário ou o recurso especial, caberá agravo de instrumento, no prazo de cinco dias, para o Supremo Tribunal Federal ou para o Superior Tribunal de Justiça, conforme o caso. (Revogado pela Lei n º 13.105, de 2015) (Vigência)\n\n§ 1º - Cada agravo de instrumento será instruído com as peças que forem indicadas pelo agravante e pelo agravado, dele constando, obrigatoriamente, além das mencionadas no parágrafo único do art. 523 do Código de Processo Civil, o acórdão recorrido, a petição de interposição do recurso e as contra-razões, se houver. (Revogado pela Lei n º 13.105, de 2015) (Vigência)\n\n§ 2º - Distribuído o agravo de instrumento, o relator proferirá decisão. (Revogado pela Lei n º 13.105, de 2015) (Vigência)\n\n§ 3º - Na hipótese de provimento, se o instrumento contiver os elementos necessários ao julgamento do mérito do recurso especial, o relator determinará, desde logo, sua inclusão em pauta, observando-se, daí por diante, o procedimento relativo àqueles recursos, admitida a sustentação oral. (Revogado pela Lei n º 13.105, de 2015) (Vigência)\n\n§ 4º - O disposto no parágrafo anterior aplica-se também ao agravo de instrumento contra denegação de recurso extraordinário, salvo quando, na mesma causa, houver recurso especial admitido e que deva ser julgado em primeiro lugar. (Revogado pela Lei n º 13.105, de 2015) (Vigência)\n\n§ 5º - Da decisão do relator que negar seguimento ou provimento ao agravo de instrumento, caberá agravo para o órgão julgador no prazo de cinco dias. (Revogado pela Lei n º 13.105, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2028%20-%20Denegado%20o%20recurso%20extraordin%C3%A1rio%20ou%20o%20recurso%20especial%2C%20caber%C3%A1%20agravo%20de%20instrumento%2C%20no%20prazo%20de%20cinco%20dias%2C%20para%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Recursos CAPÍTULO I Recurso Extraordinário e Recurso Especial",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29 - É embargável, no prazo de quinze dias, a decisão da turma que, em recurso especial, divergir do julgamento de outra turma, da seção ou do órgão especial, observando-se o procedimento estabelecido no regimento interno. (Revogado pela Lei n º 13.105, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2029%20-%20%C3%89%20embarg%C3%A1vel%2C%20no%20prazo%20de%20quinze%20dias%2C%20a%20decis%C3%A3o%20da%20turma%20que%2C%20em%20recurso%20especial%2C%20divergir%20do%20julgamento%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Recursos CAPÍTULO I Recurso Extraordinário e Recurso Especial",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30 - O recurso ordinário para o Superior Tribunal de Justiça, das decisões denegatórias de Habeas Corpus, proferidas pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal, será interposto no prazo de cinco dias, com as razões do pedido de reforma. (Vide Lei n º 13.105, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2030%20-%20O%20recurso%20ordin%C3%A1rio%20para%20o%20Superior%20Tribunal%20de%20Justi%C3%A7a%2C%20das%20decis%C3%B5es%20denegat%C3%B3rias%20de%20Habeas%20Corpus%2C%20proferidas%20pelos%20Tribunais%20Regionais",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Recursos CAPÍTULO I Recurso Extraordinário e Recurso Especial",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Recurso Ordinário em Habeas Corpus",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31 - Distribuído o recurso, a Secretaria, imediatamente, fará os autos com vista ao Ministério Público, pelo prazo de dois dias.\n\nParágrafo único - Conclusos os autos ao relator, este submeterá o feito a julgamento independentemente de pauta.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2031%20-%20Distribu%C3%ADdo%20o%20recurso%2C%20a%20Secretaria%2C%20imediatamente%2C%20far%C3%A1%20os%20autos%20com%20vista%20ao%20Minist%C3%A9rio%20P%C3%BAblico%2C%20pelo%20prazo%20de%20dois%20dias.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Recursos CAPÍTULO I Recurso Extraordinário e Recurso Especial",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Recurso Ordinário em Habeas Corpus",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32 - Será aplicado, no que couber, ao processo e julgamento do recurso, o disposto com relação ao pedido originário de Habeas Corpus.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2032%20-%20Ser%C3%A1%20aplicado%2C%20no%20que%20couber%2C%20ao%20processo%20e%20julgamento%20do%20recurso%2C%20o%20disposto%20com%20rela%C3%A7%C3%A3o%20ao%20pedido%20origin%C3%A1rio%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Recursos CAPÍTULO I Recurso Extraordinário e Recurso Especial",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Recurso Ordinário em Habeas Corpus",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33 - O recurso ordinário para o Superior Tribunal de Justiça, das decisões denegatórias de mandado de segurança, proferidas em única instância pelos Tribunais Regionais Federais ou pelos Tribunais de Estados e do Distrito Federal, será interposto no prazo de quinze dias, com as razões do pedido de reforma.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2033%20-%20O%20recurso%20ordin%C3%A1rio%20para%20o%20Superior%20Tribunal%20de%20Justi%C3%A7a%2C%20das%20decis%C3%B5es%20denegat%C3%B3rias%20de%20mandado%20de%20seguran%C3%A7a%2C%20proferidas%20em%20%C3%BAnica",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Recursos CAPÍTULO I Recurso Extraordinário e Recurso Especial",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34 - Serão aplicadas, quanto aos requisitos de admissibilidade e ao procedimento no Tribunal recorrido, as regras do Código de Processo Civil relativas à apelação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2034%20-%20Ser%C3%A3o%20aplicadas%2C%20quanto%20aos%20requisitos%20de%20admissibilidade%20e%20ao%20procedimento%20no%20Tribunal%20recorrido%2C%20as%20regras%20do%20C%C3%B3digo%20de%20Processo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Recursos CAPÍTULO I Recurso Extraordinário e Recurso Especial",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35 - Distribuído o recurso, a Secretaria, imediatamente, fará os autos com vista ao Ministério Público, pelo prazo de cinco dias.\n\nParágrafo único - Conclusos os autos ao relator, este pedirá dia para julgamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2035%20-%20Distribu%C3%ADdo%20o%20recurso%2C%20a%20Secretaria%2C%20imediatamente%2C%20far%C3%A1%20os%20autos%20com%20vista%20ao%20Minist%C3%A9rio%20P%C3%BAblico%2C%20pelo%20prazo%20de%20cinco%20dias.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Recursos CAPÍTULO I Recurso Extraordinário e Recurso Especial",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36 - Nas causas em que forem partes, de um lado, Estado estrangeiro ou organismo internacional e, de outro, município ou pessoa domiciliada ou residente no País, caberá:\n\nI - apelação da sentença;\n\nII - agravo de instrumento, das decisões interlocutórias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2036%20-%20Nas%20causas%20em%20que%20forem%20partes%2C%20de%20um%20lado%2C%20Estado%20estrangeiro%20ou%20organismo%20internacional%20e%2C%20de%20outro%2C%20munic%C3%ADpio%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Recursos CAPÍTULO I Recurso Extraordinário e Recurso Especial",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Apelação Cível e Agravo de Instrumento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37 - Os recursos mencionados no artigo anterior serão interpostos para o Superior Tribunal de Justiça, aplicando-se-lhes, quanto aos requisitos de admissibilidade e ao procedimento, o disposto no Código de Processo Civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2037%20-%20Os%20recursos%20mencionados%20no%20artigo%20anterior%20ser%C3%A3o%20interpostos%20para%20o%20Superior%20Tribunal%20de%20Justi%C3%A7a%2C%20aplicando-se-lhes%2C%20quanto%20aos%20requisitos%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II Recursos CAPÍTULO I Recurso Extraordinário e Recurso Especial",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Apelação Cível e Agravo de Instrumento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38 - O Relator, no Supremo Tribunal Federal ou no Superior Tribunal de Justiça, decidirá o pedido ou o recurso que haja perdido seu objeto, bem como negará seguimento a pedido ou recurso manifestamente intempestivo, incabível ou, improcedente ou ainda, que contrariar, nas questões predominantemente de direito, Súmula do respectivo Tribunal. (Revogado pela Lei n º 13.105, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2038%20-%20O%20Relator%2C%20no%20Supremo%20Tribunal%20Federal%20ou%20no%20Superior%20Tribunal%20de%20Justi%C3%A7a%2C%20decidir%C3%A1%20o%20pedido%20ou%20o%20recurso%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Disposições Gerais",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39 - Da decisão do Presidente do Tribunal, de Seção, de Turma ou de Relator que causar gravame à parte, caberá agravo para o órgão especial, Seção ou Turma, conforme o caso, no prazo de cinco dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2039%20-%20Da%20decis%C3%A3o%20do%20Presidente%20do%20Tribunal%2C%20de%20Se%C3%A7%C3%A3o%2C%20de%20Turma%20ou%20de%20Relator%20que%20causar%20gravame%20%C3%A0%20parte%2C%20caber%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Disposições Gerais",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40 - Haverá revisão, no Superior Tribunal de Justiça, nos seguintes processos:\n\nI - ação rescisória;\n\nII - ação penal originária;\n\nIII - revisão criminal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2040%20-%20Haver%C3%A1%20revis%C3%A3o%2C%20no%20Superior%20Tribunal%20de%20Justi%C3%A7a%2C%20nos%20seguintes%20processos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Disposições Gerais",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41 - Em caso de vaga ou afastamento de Ministro do Superior Tribunal de Justiça, por prazo superior a trinta dias, poderá ser convocado Juiz de Tribunal Regional Federal ou Desembargador, para substituição, pelo voto da maioria absoluta dos seus membros.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2041%20-%20Em%20caso%20de%20vaga%20ou%20afastamento%20de%20Ministro%20do%20Superior%20Tribunal%20de%20Justi%C3%A7a%2C%20por%20prazo%20superior%20a%20trinta%20dias%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Disposições Gerais",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "41-A"
+    },
+    "41-A": {
+      "numero": "41-A",
+      "texto": "Art. 41-A - A decisão de Turma, no Superior Tribunal de Justiça, será tomada pelo voto da maioria absoluta de seus membros. (Incluído pela Lei nº 9.756, de 1998).\n\nParágrafo único - Em habeas corpus originário ou recursal, havendo empate, prevalecerá a decisão mais favorável ao paciente. (Incluído pela Lei nº 9.756, de 1998).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2041-A%20-%20A%20decis%C3%A3o%20de%20Turma%2C%20no%20Superior%20Tribunal%20de%20Justi%C3%A7a%2C%20ser%C3%A1%20tomada%20pelo%20voto%20da%20maioria%20absoluta%20de%20seus%20membros.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Disposições Gerais",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "41-B"
+    },
+    "41-B": {
+      "numero": "41-B",
+      "texto": "Art. 41-B - As despesas do porte de remessa e retorno dos autos serão recolhidas mediante documento de arrecadação, de conformidade com instruções e tabela expedidas pelo Supremo Tribunal Federal e pelo Superior Tribunal de Justiça. (Incluído pela Lei nº 9.756, de 1998).\n\nParágrafo único - A secretaria do tribunal local zelará pelo recolhimento das despesas postais. (Incluído pela Lei nº 9.756, de 1998).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2041-B%20-%20As%20despesas%20do%20porte%20de%20remessa%20e%20retorno%20dos%20autos%20ser%C3%A3o%20recolhidas%20mediante%20documento%20de%20arrecada%C3%A7%C3%A3o%2C%20de%20conformidade%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Disposições Gerais",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41-A",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42 - Os arts. 496, 497, 498, inciso II do art. 500, e 508 da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, passam a vigorar com a seguinte redação:\n\n\"Art. 496 - São cabíveis os seguintes recursos:\n\nI - apelação;\n\nII - agravo de instrumento;\n\nIII - embargos infringentes;\n\nIV - embargos de declaração;\n\nV - recurso ordinário;\n\nVI - recurso especial;\n\nVII - recurso extraordinário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2042%20-%20Os%20arts.%20496%2C%20497%2C%20498%2C%20inciso%20II%20do%20art.%20500%2C%20e%20508%20da%20Lei%20n%C2%BA%205.869%2C%20de%2011%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Disposições Gerais",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41-B",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43 - Esta lei entra em vigor na data de sua publicação.\n\nArt - 44. Revogam-se as disposições em contrário, especialmente os arts. 541 a 546 do Código de Processo Civil e a Lei nº 3.396, de 2 de junho de 1958.\n\nBrasília, 28 de maio de 1990; 169º da Independência e 102º da República.\n\nFERNANDO COLLOR Bernardo Cabral\n\nEste texto não substitui o publicado no DOU de 29.5.1990\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm#:~:text=Art.%2043%20-%20Esta%20lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III Disposições Gerais",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": null
+    }
+  }
+}

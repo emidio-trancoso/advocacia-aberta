@@ -1,0 +1,255 @@
+{
+  "_meta": {
+    "codigo": "L13300",
+    "nome": "Mandado de Injunção",
+    "lei": "Lei 13.300/2016",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13300.htm",
+    "total_artigos": 15,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Esta Lei disciplina o processo e o julgamento dos mandados de injunção individual e coletivo, nos termos do inciso LXXI do art. 5º da Constituição Federa l.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13300.htm#:~:text=Art.%201%C2%BA%20Esta%20Lei%20disciplina%20o%20processo%20e%20o%20julgamento%20dos%20mandados%20de%20injun%C3%A7%C3%A3o%20individual%20e%20coletivo%2C%20nos%20termos%20do%20inciso%20LXXI",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Conceder-se-á mandado de injunção sempre que a falta total ou parcial de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania.\n\nParágrafo único. Considera-se parcial a regulamentação quando forem insuficientes as normas editadas pelo órgão legislador competente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13300.htm#:~:text=Art.%202%C2%BA%20Conceder-se-%C3%A1%20mandado%20de%20injun%C3%A7%C3%A3o%20sempre%20que%20a%20falta%20total%20ou%20parcial%20de%20norma%20regulamentadora%20torne%20invi%C3%A1vel%20o%20exerc%C3%ADcio%20dos%20direitos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º São legitimados para o mandado de injunção, como impetrantes, as pessoas naturais ou jurídicas que se afirmam titulares dos direitos, das liberdades ou das prerrogativas referidos no art. 2º e, como impetrado, o Poder, o órgão ou a autoridade com atribuição para editar a norma regulamentadora.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13300.htm#:~:text=Art.%203%C2%BA%20S%C3%A3o%20legitimados%20para%20o%20mandado%20de%20injun%C3%A7%C3%A3o%2C%20como%20impetrantes%2C%20as%20pessoas%20naturais%20ou%20jur%C3%ADdicas%20que%20se%20afirmam%20titulares%20dos%20direitos%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º A petição inicial deverá preencher os requisitos estabelecidos pela lei processual e indicará, além do órgão impetrado, a pessoa jurídica que ele integra ou aquela a que está vinculado.\n\n§ 1º Quando não for transmitida por meio eletrônico, a petição inicial e os documentos que a instruem serão acompanhados de tantas vias quantos forem os impetrados.\n\n§ 2º Quando o documento necessário à prova do alegado encontrar-se em repartição ou estabelecimento público, em poder de autoridade ou de terceiro, havendo recusa em fornecê-lo por certidão, no original, ou em cópia autêntica, será ordenada, a pedido do impetrante, a exibição do documento no prazo de 10 (dez) dias, devendo, nesse caso, ser juntada cópia à segunda via da petição.\n\n§ 3º Se a recusa em fornecer o documento for do impetrado, a ordem será feita no próprio instrumento da notificação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13300.htm#:~:text=Art.%204%C2%BA%20A%20peti%C3%A7%C3%A3o%20inicial%20dever%C3%A1%20preencher%20os%20requisitos%20estabelecidos%20pela%20lei%20processual%20e%20indicar%C3%A1%2C%20al%C3%A9m%20do%20%C3%B3rg%C3%A3o%20impetrado%2C%20a%20pessoa%20jur%C3%ADdica",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Recebida a petição inicial, será ordenada:\n\nI - a notificação do impetrado sobre o conteúdo da petição inicial, devendo-lhe ser enviada a segunda via apresentada com as cópias dos documentos, a fim de que, no prazo de 10 (dez) dias, preste informações;\n\nII - a ciência do ajuizamento da ação ao órgão de representação judicial da pessoa jurídica interessada, devendo-lhe ser enviada cópia da petição inicial, para que, querendo, ingresse no feito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13300.htm#:~:text=Art.%205%C2%BA%20Recebida%20a%20peti%C3%A7%C3%A3o%20inicial%2C%20ser%C3%A1%20ordenada%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º A petição inicial será desde logo indeferida quando a impetração for manifestamente incabível ou manifestamente improcedente.\n\nParágrafo único. Da decisão de relator que indeferir a petição inicial, caberá agravo, em 5 (cinco) dias, para o órgão colegiado competente para o julgamento da impetração.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13300.htm#:~:text=Art.%206%C2%BA%20A%20peti%C3%A7%C3%A3o%20inicial%20ser%C3%A1%20desde%20logo%20indeferida%20quando%20a%20impetra%C3%A7%C3%A3o%20for%20manifestamente%20incab%C3%ADvel%20ou%20manifestamente%20improcedente.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Findo o prazo para apresentação das informações, será ouvido o Ministério Público, que opinará em 10 (dez) dias, após o que, com ou sem parecer, os autos serão conclusos para decisão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13300.htm#:~:text=Art.%207%C2%BA%20Findo%20o%20prazo%20para%20apresenta%C3%A7%C3%A3o%20das%20informa%C3%A7%C3%B5es%2C%20ser%C3%A1%20ouvido%20o%20Minist%C3%A9rio%20P%C3%BAblico%2C%20que%20opinar%C3%A1%20em%2010%20%28dez%29%20dias%2C%20ap%C3%B3s%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Reconhecido o estado de mora legislativa, será deferida a injunção para:\n\nI - determinar prazo razoável para que o impetrado promova a edição da norma regulamentadora;\n\nII - estabelecer as condições em que se dará o exercício dos direitos, das liberdades ou das prerrogativas reclamados ou, se for o caso, as condições em que poderá o interessado promover ação própria visando a exercê-los, caso não seja suprida a mora legislativa no prazo determinado.\n\nParágrafo único. Será dispensada a determinação a que se refere o inciso I do caput quando comprovado que o impetrado deixou de atender, em mandado de injunção anterior, ao prazo estabelecido para a edição da norma.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13300.htm#:~:text=Art.%208%C2%BA%20Reconhecido%20o%20estado%20de%20mora%20legislativa%2C%20ser%C3%A1%20deferida%20a%20injun%C3%A7%C3%A3o%20para%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º A decisão terá eficácia subjetiva limitada às partes e produzirá efeitos até o advento da norma regulamentadora.\n\n§ 1º Poderá ser conferida eficácia ultra partes ou erga omnes à decisão, quando isso for inerente ou indispensável ao exercício do direito, da liberdade ou da prerrogativa objeto da impetração.\n\n§ 2º Transitada em julgado a decisão, seus efeitos poderão ser estendidos aos casos análogos por decisão monocrática do relator.\n\n§ 3º O indeferimento do pedido por insuficiência de prova não impede a renovação da impetração fundada em outros elementos probatórios.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13300.htm#:~:text=Art.%209%C2%BA%20A%20decis%C3%A3o%20ter%C3%A1%20efic%C3%A1cia%20subjetiva%20limitada%20%C3%A0s%20partes%20e%20produzir%C3%A1%20efeitos%20at%C3%A9%20o%20advento%20da%20norma%20regulamentadora.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Sem prejuízo dos efeitos já produzidos, a decisão poderá ser revista, a pedido de qualquer interessado, quando sobrevierem relevantes modificações das circunstâncias de fato ou de direito.\n\nParágrafo único. A ação de revisão observará, no que couber, o procedimento estabelecido nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13300.htm#:~:text=Art.%2010.%20Sem%20preju%C3%ADzo%20dos%20efeitos%20j%C3%A1%20produzidos%2C%20a%20decis%C3%A3o%20poder%C3%A1%20ser%20revista%2C%20a%20pedido%20de%20qualquer%20interessado%2C%20quando%20sobrevierem%20relevantes%20modifica%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. A norma regulamentadora superveniente produzirá efeitos ex nunc em relação aos beneficiados por decisão transitada em julgado, salvo se a aplicação da norma editada lhes for mais favorável.\n\nParágrafo único. Estará prejudicada a impetração se a norma regulamentadora for editada antes da decisão, caso em que o processo será extinto sem resolução de mérito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13300.htm#:~:text=Art.%2011.%20A%20norma%20regulamentadora%20superveniente%20produzir%C3%A1%20efeitos%20ex%20nunc%20em%20rela%C3%A7%C3%A3o%20aos%20beneficiados%20por%20decis%C3%A3o%20transitada%20em%20julgado%2C%20salvo%20se%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. O mandado de injunção coletivo pode ser promovido:\n\nI - pelo Ministério Público, quando a tutela requerida for especialmente relevante para a defesa da ordem jurídica, do regime democrático ou dos interesses sociais ou individuais indisponíveis;\n\nII - por partido político com representação no Congresso Nacional, para assegurar o exercício de direitos, liberdades e prerrogativas de seus integrantes ou relacionados com a finalidade partidária;\n\nIII - por organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos 1 (um) ano, para assegurar o exercício de direitos, liberdades e prerrogativas em favor da totalidade ou de parte de seus membros ou associados, na forma de seus estatutos e desde que pertinentes a suas finalidades, dispensada, para tanto, autorização especial;\n\nIV - pela Defensoria Pública, quando a tutela requerida for especialmente relevante para a promoção dos direitos humanos e a defesa dos direitos individuais e coletivos dos necessitados, na forma do inciso LXXIV do art. 5º da Constituição Federal .\n\nParágrafo único. Os direitos, as liberdades e as prerrogativas protegidos por mandado de injunção coletivo são os pertencentes, indistintamente, a uma coletividade indeterminada de pessoas ou determinada por grupo, classe ou categoria.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13300.htm#:~:text=Art.%2012.%20O%20mandado%20de%20injun%C3%A7%C3%A3o%20coletivo%20pode%20ser%20promovido%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. No mandado de injunção coletivo, a sentença fará coisa julgada limitadamente às pessoas integrantes da coletividade, do grupo, da classe ou da categoria substituídos pelo impetrante, sem prejuízo do disposto nos §§ 1º e 2º do art. 9º.\n\nParágrafo único. O mandado de injunção coletivo não induz litispendência em relação aos individuais, mas os efeitos da coisa julgada não beneficiarão o impetrante que não requerer a desistência da demanda individual no prazo de 30 (trinta) dias a contar da ciência comprovada da impetração coletiva.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13300.htm#:~:text=Art.%2013.%20No%20mandado%20de%20injun%C3%A7%C3%A3o%20coletivo%2C%20a%20senten%C3%A7a%20far%C3%A1%20coisa%20julgada%20limitadamente%20%C3%A0s%20pessoas%20integrantes%20da%20coletividade%2C%20do%20grupo%2C%20da%20classe",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Aplicam-se subsidiariamente ao mandado de injunção as normas do mandado de segurança, disciplinado pela Lei nº 12.016, de 7 de agosto de 2009 , e do Código de Processo Civil, instituído pela Lei nº 5.869, de 11 de janeiro de 1973 , e pela Lei nº 13.105, de 16 de março de 2015 , observado o disposto em seus arts. 1.045 e 1.046 .",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13300.htm#:~:text=Art.%2014.%20Aplicam-se%20subsidiariamente%20ao%20mandado%20de%20injun%C3%A7%C3%A3o%20as%20normas%20do%20mandado%20de%20seguran%C3%A7a%2C%20disciplinado%20pela%20Lei%20n%C2%BA%2012.016%2C%20de%207%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Esta Lei entra em vigor na data de sua publicação.\n\nBrasília, 23 de junho de 2016; 195º da Independência e 128º da República.\n\nMICHEL TEMER Alexandre de Moraes Fábio Medina Osório\n\nEste texto não substitui o publicado no DOU de 24.6.2016\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13300.htm#:~:text=Art.%2015.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": null
+    }
+  }
+}

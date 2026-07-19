@@ -1,0 +1,303 @@
+{
+  "_meta": {
+    "codigo": "L9289",
+    "nome": "Custas na Justiça Federal",
+    "lei": "Lei 9.289/1996",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm",
+    "total_artigos": 18,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º As custas devidas à União, na Justiça Federal de primeiro e segundo graus, são cobradas de acordo com as normas estabelecidas nesta Lei.\n\n§ 1° Rege-se pela legislação estadual respectiva a cobrança de custas nas causas ajuizadas perante a Justiça Estadual, no exercício da jurisdição federal.\n\n§ 2° As custas previstas nas tabelas anexas não excluem as despesas estabelecidas na legislação processual não disciplinadas por esta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm#:~:text=Art.%201%C2%BA%20As%20custas%20devidas%20%C3%A0%20Uni%C3%A3o%2C%20na%20Justi%C3%A7a%20Federal%20de%20primeiro%20e%20segundo%20graus%2C%20s%C3%A3o%20cobradas%20de%20acordo%20com%20as%20normas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2° O pagamento das custas é feito mediante documento de arrecadação das receitas federais, na Caixa Econômica Federal - CEF, ou, não existindo agência desta instituição no local, em outro banco oficial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm#:~:text=Art.%202%C2%B0%20O%20pagamento%20das%20custas%20%C3%A9%20feito%20mediante%20documento%20de%20arrecada%C3%A7%C3%A3o%20das%20receitas%20federais%2C%20na%20Caixa%20Econ%C3%B4mica%20Federal%20-%20CEF%2C%20ou%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3° Incumbe ao Diretor de Secretaria fiscalizar o exato recolhimento das custas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm#:~:text=Art.%203%C2%B0%20Incumbe%20ao%20Diretor%20de%20Secretaria%20fiscalizar%20o%20exato%20recolhimento%20das%20custas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4° São isentos de pagamento de custas:\n\nI - a União, os Estados, os Municípios, os Territórios Federais, o Distrito Federal e as respectivas autarquias e fundações;\n\nII - os que provarem insuficiência de recursos e os beneficiários da assistência judiciária gratuita;\n\nIII - o Ministério Público;\n\nIV - os autores nas ações populares, nas ações civis públicas e nas ações coletivas de que trata o Código de Defesa do Consumidor, ressalvada a hipótese de litigância de má-fé.\n\nParágrafo único. A isenção prevista neste artigo não alcança as entidades fiscalizadoras do exercício profissional, nem exime as pessoas jurídicas referidas no inciso I da obrigação de reembolsar as despesas judiciais feitas pela parte vencedora.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm#:~:text=Art.%204%C2%B0%20S%C3%A3o%20isentos%20de%20pagamento%20de%20custas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5° Não são devidas custas nos processos de habeas corpus e habeas data.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm#:~:text=Art.%205%C2%B0%20N%C3%A3o%20s%C3%A3o%20devidas%20custas%20nos%20processos%20de%20habeas%20corpus%20e%20habeas%20data.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6° Nas ações penais subdivididas, as custas são pagas a final pelo réu, se condenado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm#:~:text=Art.%206%C2%B0%20Nas%20a%C3%A7%C3%B5es%20penais%20subdivididas%2C%20as%20custas%20s%C3%A3o%20pagas%20a%20final%20pelo%20r%C3%A9u%2C%20se%20condenado.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7° A reconvenção e os embargos à execução não se sujeitam ao pagamento de custas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm#:~:text=Art.%207%C2%B0%20A%20reconven%C3%A7%C3%A3o%20e%20os%20embargos%20%C3%A0%20execu%C3%A7%C3%A3o%20n%C3%A3o%20se%20sujeitam%20ao%20pagamento%20de%20custas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8° Os recursos dependentes de instrumento sujeitam-se ao pagamento das despesas de traslado.\n\nParágrafo único. Se o recurso for unicamente de qualquer das pessoas jurídicas referidas no inciso I do art. 4° , o pagamento das custas e dos traslados será efetuado a final pelo vencido, salvo se este também for isento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm#:~:text=Art.%208%C2%B0%20Os%20recursos%20dependentes%20de%20instrumento%20sujeitam-se%20ao%20pagamento%20das%20despesas%20de%20traslado.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9° Em caso de incompetência, redistribuído o feito a outro juiz federal, não haverá novo pagamento de custas, nem haverá restituição quando se declinar da competência para outros órgãos jurisdicionais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm#:~:text=Art.%209%C2%B0%20Em%20caso%20de%20incompet%C3%AAncia%2C%20redistribu%C3%ADdo%20o%20feito%20a%20outro%20juiz%20federal%2C%20n%C3%A3o%20haver%C3%A1%20novo%20pagamento%20de%20custas%2C%20nem%20haver%C3%A1%20restitui%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A remuneração do perito, do intérprete e do tradutor será fixada pelo Juiz em despacho fundamentado, ouvidas as partes e à vista da proposta de honorários apresentada, considerados o local da prestação do serviço, a natureza, a complexidade e o tempo estimado do trabalho a realizar, aplicando-se, no que couber, o disposto no art. 33 do Código de Processo Civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm#:~:text=Art.%2010.%20A%20remunera%C3%A7%C3%A3o%20do%20perito%2C%20do%20int%C3%A9rprete%20e%20do%20tradutor%20ser%C3%A1%20fixada%20pelo%20Juiz%20em%20despacho%20fundamentado%2C%20ouvidas%20as%20partes%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Os depósitos de pedras e metais preciosos e de quantias em dinheiro e a amortização ou liquidação de dívida ativa serão recolhidos, sob responsabilidade da parte, diretamente na Caixa Econômica Federal, ou, na sua inexistência no local, em outro banco oficial, os quais manterão guias próprias para tal finalidade.\n\n§ 1° Os depósitos efetuados em dinheiro observarão as mesmas regras das cadernetas de poupança, no que se refere à remuneração básica e ao prazo.\n\n§ 2° O levantamento dos depósitos a que se refere este artigo dependerá de alvará ou de ofício do Juiz.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm#:~:text=Art.%2011.%20Os%20dep%C3%B3sitos%20de%20pedras%20e%20metais%20preciosos%20e%20de%20quantias%20em%20dinheiro%20e%20a%20amortiza%C3%A7%C3%A3o%20ou%20liquida%C3%A7%C3%A3o%20de%20d%C3%ADvida%20ativa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. A unidade utilizada para o cálculo das custas previstas nesta Lei é a mesma utilizada para os débitos de natureza fiscal, considerando-se o valor fixado no primeiro dia do mês.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm#:~:text=Art.%2012.%20A%20unidade%20utilizada%20para%20o%20c%C3%A1lculo%20das%20custas%20previstas%20nesta%20Lei%20%C3%A9%20a%20mesma%20utilizada%20para%20os%20d%C3%A9bitos%20de%20natureza",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Não se fará levantamento de caução ou de fiança sem o pagamento das custas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm#:~:text=Art.%2013.%20N%C3%A3o%20se%20far%C3%A1%20levantamento%20de%20cau%C3%A7%C3%A3o%20ou%20de%20fian%C3%A7a%20sem%20o%20pagamento%20das%20custas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. O pagamento das custas e contribuições devidas nos feitos e nos recursos que se processam nos próprios autos efetua-se da forma seguinte:\n\nI - o autor ou requerente pagará metade das custas e contribuições tabeladas, por ocasião da distribuição do feito, ou, não havendo distribuição, logo após o despacho da inicial;\n\nII - aquele que recorrer da sentença pagará a outra metade das custas, dentro do prazo de cinco dias, sob pena de deserção;\n\nII - aquele que recorrer da sentença adiantará a outra metade das custas, comprovando o adiantamento no ato de interposição do recurso, sob pena de deserção, observado o disposto nos §§ 1o a 7o do art. 1.007 do Código de Processo Civil; (Redação dada pela Lei nº 13.105, de 2015) (Vigência)\n\nIII - não havendo recurso, e cumprindo o vencido desde logo a sentença, reembolsará ao vencedor as custas e contribuições por este adiantadas, ficando obrigado ao pagamento previsto no inciso II;\n\nIV - se o vencido, embora não recorrendo da sentença, oferecer defesa à sua execução, ou embaraçar seu cumprimento, deverá pagar a outra metade, no prazo marcado pelo juiz, não excedente de três dias, sob pena de não ter apreciada sua defesa ou impugnação.\n\n§ 1° O abandono ou desistência de feito, ou a existência de transação que lhe ponha termo, em qualquer fase do processo, não dispensa o pagamento das custas e contribuições já exigíveis, nem dá direito a restituição.\n\n§ 2° Somente com o pagamento de importância igual à paga até o momento pelo autor serão admitidos o assistente, o litisconsorte ativo voluntário e o oponente.\n\n§ 3° Nas ações em que o valor estimado for inferior ao da liquidação, a parte não pode prosseguir na execução sem efetuar o pagamento da diferença de custas e contribuições, recalculadas de acordo com a importância a final apurada ou resultante da condenação definitiva.\n\n§ 4° As custas e contribuições serão reembolsadas a final pelo vencido, ainda que seja uma das entidades referidas no inciso I do art. 4° , nos termos da decisão que o condenar, ou pelas partes, na proporção de seus quinhões, nos processos divisórios e demarcatórios, ou suportadas por quem tiver dado causa ao procedimento judicial.\n\n§ 5° Nos recursos a que se refere este artigo o pagamento efetuado por um recorrente não aproveita aos demais, salvo se representados pelo mesmo advogado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm#:~:text=Art.%2014.%20O%20pagamento%20das%20custas%20e%20contribui%C3%A7%C3%B5es%20devidas%20nos%20feitos%20e%20nos%20recursos%20que%20se%20processam%20nos%20pr%C3%B3prios%20autos%20efetua-se%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. A indenização de transporte, de que trata o art. 60 da Lei n° 8.112, de 11 de dezembro de 1990, destinada ao ressarcimento de despesas realizadas com a utilização do meio próprio de locomoção para a execução de serviços externos, será paga aos Oficiais de Justiça Avaliadores da Justiça Federal de primeiro e segundo graus, de acordo com critérios estabelecidos pelo Conselho da Justiça Federal, que fixará também o percentual correspondente.\n\nParágrafo único. Para efeito do disposto neste artigo, consideram-se como serviço externo as atividades exercidas no cumprimento das diligências fora das dependências dos Tribunais Regionais Federais ou das Seções Judiciárias em que os Oficiais de Justiça estejam lotados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm#:~:text=Art.%2015.%20A%20indeniza%C3%A7%C3%A3o%20de%20transporte%2C%20de%20que%20trata%20o%20art.%2060%20da%20Lei%20n%C2%B0%208.112%2C%20de%2011%20de%20dezembro%20de%201990%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Extinto o processo, se a parte responsável pelas custas, devidamente intimada, não as pagar dentro de quinze dias, o Diretor da Secretaria encaminhará os elementos necessários à Procuradoria da Fazenda Nacional, para sua inscrição como dívida ativa da União.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm#:~:text=Art.%2016.%20Extinto%20o%20processo%2C%20se%20a%20parte%20respons%C3%A1vel%20pelas%20custas%2C%20devidamente%20intimada%2C%20n%C3%A3o%20as%20pagar%20dentro%20de%20quinze%20dias%2C%20o%20Diretor",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Esta Lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm#:~:text=Art.%2017.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Revogam-se as disposições em contrário, em especial a Lei n° 6.032, de 30 de abril de 1974, alterada pelas Leis nos 6.789, de 28 de maio de 1980, e 7.400, de 6 de novembro de 1985.\n\nBrasília, 4 de julho de 1996; 175º da Independência e 108º da República.\n\nFERNANDO HENRIQUE CARDOSO Nelson A. Jobim\n\nEste texto não substitui o publicado no DOU de 5.7.1996 e republicado em 8.7.1996\n\nTABELA DE CUSTAS\n\nTABELA I\n\nDAS AÇÕES CÍVEIS EM GERAL\n\na) Ações cíveis em geral:\n\num por cento sobre o valor da causa, com o mínimo de dez UFIR e o máximo de mil e oitocentos UFIR;\n\nb) processo cautelar e procedimentos de jurisdição voluntária:\n\ncinqüenta por cento dos valores constantes da letra a;\n\nc) causas de valor inestimável e cumprimento de carta rogatória:\n\ndez UFIR.\n\nTABELA II\n\nDAS AÇÕES CRIMINAIS EM GERAL\n\na) Ações penais em geral, pelo vencido, a final:\n\nduzentas e oitenta UFIR;\n\nb) ações penais privadas:\n\ncem UFIR;\n\nc) notificações, interpelações e procedimentos cautelares:\n\ncinqüenta UFIR.\n\nTABELA III\n\nDA ARREMATAÇÃO, ADJUDICAÇÃO E REMIÇÃO\n\nArrematação, adjudicação e remição:\n\nmeio por cento do respectivo valor, com o mínimo de dez UFIR e o máximo de mil e oitocentas UFIR.\n\nObservação:\n\nAs custas serão pagas pela interessada antes da assinatura do auto correspondente.\n\nTABELA IV\n\nDAS CERTIDÕES E CARTAS DE SENTENÇAS\n\n(Vide ADIN 2259)\n\nCertidões em geral, por folha expedida:\n\na) mediante processamento eletrônico de dados:\n\nquarenta por cento do valor da UFIR;\n\nb) por cópia reprográfica:\n\ndez por cento do valor da UFIR.\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm#:~:text=Art.%2018.%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio%2C%20em%20especial%20a%20Lei%20n%C2%B0%206.032%2C%20de%2030%20de%20abril%20de%201974%2C%20alterada%20pelas%20Leis",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": null
+    }
+  }
+}

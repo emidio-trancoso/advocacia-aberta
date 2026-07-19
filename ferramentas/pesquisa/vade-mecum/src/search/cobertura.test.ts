@@ -31,7 +31,11 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "CTB",
   "CTN",
   "D3413",
+  "D4311",
   "D70235",
+  "D8660",
+  "D9039",
+  "D9734",
   "DL1598",
   "DL167",
   "DL3365",
@@ -64,6 +68,8 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "L10887",
   "L11079",
   "L11107",
+  "L11417",
+  "L11419",
   "L11441",
   "L11445",
   "L11770",
@@ -71,6 +77,8 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "L11804",
   "L11977",
   "L12010",
+  "L12030",
+  "L12037",
   "L12153",
   "L12318",
   "L12506",
@@ -83,12 +91,14 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "L13165",
   "L13257",
   "L13260",
+  "L13300",
   "L13303",
   "L13431",
   "L13460",
   "L13465",
   "L13487",
   "L13488",
+  "L13726",
   "L13777",
   "L13786",
   "L13848",
@@ -135,11 +145,13 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "L7960",
   "L7998",
   "L8009",
+  "L8038",
   "L8072",
   "L8112",
   "L8137",
   "L8212",
   "L8245",
+  "L8437",
   "L8560",
   "L8629",
   "L8935",
@@ -150,19 +162,24 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "L9096",
   "L9249",
   "L9278",
+  "L9289",
   "L9296",
   "L9430",
   "L9455",
+  "L9494",
   "L9504",
   "L9507",
   "L9514",
   "L9601",
   "L9605",
   "L9613",
+  "L9709",
   "L9717",
   "L9784",
   "L9796",
   "L9807",
+  "L9868",
+  "L9882",
   "L9986",
   "LACP",
   "LAI",
@@ -176,6 +193,7 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "LC142",
   "LC150",
   "LC64",
+  "LC80",
   "LC87",
   "LCP",
   "LD",
@@ -184,6 +202,7 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
   "LGPD",
   "LIA",
   "LINDB",
+  "LJE",
   "LLC",
   "LMIG",
   "LMP",
@@ -194,7 +213,7 @@ const CODIGOS_ESPERADOS: CodigoCodigo[] = [
 ];
 
 describe("cobertura declarada pelo motor", () => {
-  test("expõe exatamente os 179 diplomas que possuem arquivo", () => {
+  test("expõe exatamente os 198 diplomas que possuem arquivo", () => {
     expect([...CODIGOS_DISPONIVEIS].sort()).toEqual(CODIGOS_ESPERADOS);
     expect(resolverCodigos("todos").toSorted()).toEqual(CODIGOS_ESPERADOS);
   });
@@ -213,9 +232,9 @@ describe("cobertura declarada pelo motor", () => {
 
   test("carrega e descreve todos os diplomas disponíveis", () => {
     const legislacoes = listarLegislacaoDisponivel();
-    expect(legislacoes).toHaveLength(179);
+    expect(legislacoes).toHaveLength(198);
     expect(legislacoes.reduce((total, item) => total + item.registros, 0)).toBe(
-      16811,
+      17312,
     );
     for (const item of legislacoes) {
       expect(item.registros).toBeGreaterThan(0);

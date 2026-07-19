@@ -135,9 +135,25 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_d3413.json",
     rotulo: "Convenção de Haia – Sequestro Internacional de Crianças (promulgação) (Decreto 3.413/2000)",
   },
+  D4311: {
+    arquivo: "../../data/lei_d4311.json",
+    rotulo: "Convenção de Nova York (1958) — sentenças arbitrais — promulgação (Decreto 4.311/2002)",
+  },
   D70235: {
     arquivo: "../../data/lei_d70235.json",
     rotulo: "Processo Administrativo Fiscal (PAF) Federal (Decreto 70.235/1972)",
+  },
+  D8660: {
+    arquivo: "../../data/lei_d8660.json",
+    rotulo: "Apostila da Haia (1961) — promulgação (Decreto 8.660/2016)",
+  },
+  D9039: {
+    arquivo: "../../data/lei_d9039.json",
+    rotulo: "Haia — Obtenção de Provas no Exterior (1970) — promulgação (Decreto 9.039/2017)",
+  },
+  D9734: {
+    arquivo: "../../data/lei_d9734.json",
+    rotulo: "Haia — Citação/Intimação no Exterior (1965) — promulgação (Decreto 9.734/2019)",
   },
   DL1598: {
     arquivo: "../../data/lei_dl1598.json",
@@ -263,6 +279,14 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l11107.json",
     rotulo: "Consórcios Públicos (Lei 11.107/2005)",
   },
+  L11417: {
+    arquivo: "../../data/lei_l11417.json",
+    rotulo: "Súmula Vinculante (procedimento e efeitos) (Lei 11.417/2006)",
+  },
+  L11419: {
+    arquivo: "../../data/lei_l11419.json",
+    rotulo: "Processo Judicial Eletrônico (PJe) e atos eletrônicos (Lei 11.419/2006)",
+  },
   L11441: {
     arquivo: "../../data/lei_l11441.json",
     rotulo: "Inventários Extrajudiciais (Lei 11.441/2007)",
@@ -290,6 +314,14 @@ const REGISTRO_CODIGOS = {
   L12010: {
     arquivo: "../../data/lei_l12010.json",
     rotulo: "Adoção (Lei 12.010/2009)",
+  },
+  L12030: {
+    arquivo: "../../data/lei_l12030.json",
+    rotulo: "Perícia Oficial de Natureza Criminal (Lei 12.030/2009)",
+  },
+  L12037: {
+    arquivo: "../../data/lei_l12037.json",
+    rotulo: "Identificação Criminal (Lei 12.037/2009)",
   },
   L12153: {
     arquivo: "../../data/lei_l12153.json",
@@ -339,6 +371,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l13260.json",
     rotulo: "Antiterrorismo (Lei 13.260/2016)",
   },
+  L13300: {
+    arquivo: "../../data/lei_l13300.json",
+    rotulo: "Mandado de Injunção (Lei 13.300/2016)",
+  },
   L13303: {
     arquivo: "../../data/lei_l13303.json",
     rotulo: "Estatais (Lei 13.303/2016)",
@@ -362,6 +398,10 @@ const REGISTRO_CODIGOS = {
   L13488: {
     arquivo: "../../data/lei_l13488.json",
     rotulo: "Reforma Eleitoral 2017 (ajustes adicionais) (Lei 13.488/2017)",
+  },
+  L13726: {
+    arquivo: "../../data/lei_l13726.json",
+    rotulo: "Desburocratização — Atos e Documentos Públicos (Lei 13.726/2018)",
   },
   L13777: {
     arquivo: "../../data/lei_l13777.json",
@@ -547,6 +587,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l8009.json",
     rotulo: "Bem de Família (impenhorabilidade do imóvel residencial) (Lei 8.009/1990)",
   },
+  L8038: {
+    arquivo: "../../data/lei_l8038.json",
+    rotulo: "Procedimentos no STF e STJ (ações originárias/recursos) (Lei 8.038/1990)",
+  },
   L8072: {
     arquivo: "../../data/lei_l8072.json",
     rotulo: "Crimes Hediondos (Lei 8.072/1990)",
@@ -566,6 +610,10 @@ const REGISTRO_CODIGOS = {
   L8245: {
     arquivo: "../../data/lei_l8245.json",
     rotulo: "Inquilinato (Lei 8.245/1991)",
+  },
+  L8437: {
+    arquivo: "../../data/lei_l8437.json",
+    rotulo: "Suspensão de Liminar e Sentença (Fazenda Pública) (Lei 8.437/1992)",
   },
   L8560: {
     arquivo: "../../data/lei_l8560.json",
@@ -607,6 +655,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l9278.json",
     rotulo: "União Estável (regime jurídico) (Lei 9.278/1996)",
   },
+  L9289: {
+    arquivo: "../../data/lei_l9289.json",
+    rotulo: "Custas na Justiça Federal (Lei 9.289/1996)",
+  },
   L9296: {
     arquivo: "../../data/lei_l9296.json",
     rotulo: "Interceptação Telefônica (Lei 9.296/1996)",
@@ -618,6 +670,10 @@ const REGISTRO_CODIGOS = {
   L9455: {
     arquivo: "../../data/lei_l9455.json",
     rotulo: "Tortura (Lei 9.455/1997)",
+  },
+  L9494: {
+    arquivo: "../../data/lei_l9494.json",
+    rotulo: "Efeitos Processuais contra a Fazenda Pública (Lei 9.494/1997)",
   },
   L9504: {
     arquivo: "../../data/lei_l9504.json",
@@ -643,6 +699,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l9613.json",
     rotulo: "Lavagem de Dinheiro (Lei 9.613/1998)",
   },
+  L9709: {
+    arquivo: "../../data/lei_l9709.json",
+    rotulo: "Plebiscito, Referendo e Iniciativa Popular (Lei 9.709/1998)",
+  },
   L9717: {
     arquivo: "../../data/lei_l9717.json",
     rotulo: "Normas Gerais dos RPPS (Lei 9.717/1998)",
@@ -658,6 +718,14 @@ const REGISTRO_CODIGOS = {
   L9807: {
     arquivo: "../../data/lei_l9807.json",
     rotulo: "Proteção Testemunhas (Lei 9.807/1999)",
+  },
+  L9868: {
+    arquivo: "../../data/lei_l9868.json",
+    rotulo: "ADI e ADC no STF (processo e julgamento) (Lei 9.868/1999)",
+  },
+  L9882: {
+    arquivo: "../../data/lei_l9882.json",
+    rotulo: "ADPF no STF (processo e julgamento) (Lei 9.882/1999)",
   },
   L9986: {
     arquivo: "../../data/lei_l9986.json",
@@ -707,6 +775,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_lc64.json",
     rotulo: "Inelegibilidades (Lei Complementar das Inelegibilidades) (Lei Complementar 64/1990)",
   },
+  LC80: {
+    arquivo: "../../data/lei_lc80.json",
+    rotulo: "Organização da Defensoria Pública (LC 80) (Lei Complementar 80/1994)",
+  },
   LC87: {
     arquivo: "../../data/lei_lc87.json",
     rotulo: "ICMS – Normas Gerais (Lei Kandir) (Lei Complementar 87/1996)",
@@ -722,6 +794,10 @@ const REGISTRO_CODIGOS = {
   LIA: {
     arquivo: "../../data/lei_lia.json",
     rotulo: "Improbidade Administrativa (Lei 8.429/1992)",
+  },
+  LJE: {
+    arquivo: "../../data/lei_lje.json",
+    rotulo: "Juizados Especiais (Lei 9.099/1995)",
   },
   LMIG: {
     arquivo: "../../data/lei_lmig.json",

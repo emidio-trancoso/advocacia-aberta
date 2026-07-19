@@ -1,0 +1,255 @@
+{
+  "_meta": {
+    "codigo": "L9709",
+    "nome": "Plebiscito, Referendo e Iniciativa Popular",
+    "lei": "Lei 9.709/1998",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9709.htm",
+    "total_artigos": 15,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o A soberania popular é exercida por sufrágio universal e pelo voto direto e secreto, com valor igual para todos, nos termos desta Lei e das normas constitucionais pertinentes, mediante:\n\nI – plebiscito;\n\nII – referendo;\n\nIII – iniciativa popular.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9709.htm#:~:text=Art.%201o%20A%20soberania%20popular%20%C3%A9%20exercida%20por%20sufr%C3%A1gio%20universal%20e%20pelo%20voto%20direto%20e%20secreto%2C%20com%20valor%20igual%20para%20todos%2C%20nos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o Plebiscito e referendo são consultas formuladas ao povo para que delibere sobre matéria de acentuada relevância, de natureza constitucional, legislativa ou administrativa.\n\n§ 1o O plebiscito é convocado com anterioridade a ato legislativo ou administrativo, cabendo ao povo, pelo voto, aprovar ou denegar o que lhe tenha sido submetido.\n\n§ 2o O referendo é convocado com posterioridade a ato legislativo ou administrativo, cumprindo ao povo a respectiva ratificação ou rejeição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9709.htm#:~:text=Art.%202o%20Plebiscito%20e%20referendo%20s%C3%A3o%20consultas%20formuladas%20ao%20povo%20para%20que%20delibere%20sobre%20mat%C3%A9ria%20de%20acentuada%20relev%C3%A2ncia%2C%20de%20natureza%20constitucional%2C%20legislativa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o Nas questões de relevância nacional, de competência do Poder Legislativo ou do Poder Executivo, e no caso do § 3o do art. 18 da Constituição Federal, o plebiscito e o referendo são convocados mediante decreto legislativo, por proposta de um terço, no mínimo, dos membros que compõem qualquer das Casas do Congresso Nacional, de conformidade com esta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9709.htm#:~:text=Art.%203o%20Nas%20quest%C3%B5es%20de%20relev%C3%A2ncia%20nacional%2C%20de%20compet%C3%AAncia%20do%20Poder%20Legislativo%20ou%20do%20Poder%20Executivo%2C%20e%20no%20caso%20do%20%C2%A7%203o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o A incorporação de Estados entre si, subdivisão ou desmembramento para se anexarem a outros, ou formarem novos Estados ou Territórios Federais, dependem da aprovação da população diretamente interessada, por meio de plebiscito realizado na mesma data e horário em cada um dos Estados, e do Congresso Nacional, por lei complementar, ouvidas as respectivas Assembléias Legislativas.\n\n§ 1o Proclamado o resultado da consulta plebiscitária, sendo favorável à alteração territorial prevista no caput, o projeto de lei complementar respectivo será proposto perante qualquer das Casas do Congresso Nacional.\n\n§ 2o À Casa perante a qual tenha sido apresentado o projeto de lei complementar referido no parágrafo anterior compete proceder à audiência das respectivas Assembléias Legislativas.\n\n§ 3o Na oportunidade prevista no parágrafo anterior, as respectivas Assembléias Legislativas opinarão, sem caráter vinculativo, sobre a matéria, e fornecerão ao Congresso Nacional os detalhamentos técnicos concernentes aos aspectos administrativos, financeiros, sociais e econômicos da área geopolítica afetada.\n\n§ 4o O Congresso Nacional, ao aprovar a lei complementar, tomará em conta as informações técnicas a que se refere o parágrafo anterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9709.htm#:~:text=Art.%204o%20A%20incorpora%C3%A7%C3%A3o%20de%20Estados%20entre%20si%2C%20subdivis%C3%A3o%20ou%20desmembramento%20para%20se%20anexarem%20a%20outros%2C%20ou%20formarem%20novos%20Estados%20ou%20Territ%C3%B3rios",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o O plebiscito destinado à criação, à incorporação, à fusão e ao desmembramento de Municípios, será convocado pela Assembléia Legislativa, de conformidade com a legislação federal e estadual.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9709.htm#:~:text=Art.%205o%20O%20plebiscito%20destinado%20%C3%A0%20cria%C3%A7%C3%A3o%2C%20%C3%A0%20incorpora%C3%A7%C3%A3o%2C%20%C3%A0%20fus%C3%A3o%20e%20ao%20desmembramento%20de%20Munic%C3%ADpios%2C%20ser%C3%A1%20convocado%20pela%20Assembl%C3%A9ia%20Legislativa%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o Nas demais questões, de competência dos Estados, do Distrito Federal e dos Municípios, o plebiscito e o referendo serão convocados de conformidade, respectivamente, com a Constituição Estadual e com a Lei Orgânica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9709.htm#:~:text=Art.%206o%20Nas%20demais%20quest%C3%B5es%2C%20de%20compet%C3%AAncia%20dos%20Estados%2C%20do%20Distrito%20Federal%20e%20dos%20Munic%C3%ADpios%2C%20o%20plebiscito%20e%20o%20referendo%20ser%C3%A3o%20convocados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o Nas consultas plebiscitárias previstas nos arts. 4o e 5o entende-se por população diretamente interessada tanto a do território que se pretende desmembrar, quanto a do que sofrerá desmembramento; em caso de fusão ou anexação, tanto a população da área que se quer anexar quanto a da que receberá o acréscimo; e a vontade popular se aferirá pelo percentual que se manifestar em relação ao total da população consultada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9709.htm#:~:text=Art.%207o%20Nas%20consultas%20plebiscit%C3%A1rias%20previstas%20nos%20arts.%204o%20e%205o%20entende-se%20por%20popula%C3%A7%C3%A3o%20diretamente%20interessada%20tanto%20a%20do%20territ%C3%B3rio%20que%20se",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o Aprovado o ato convocatório, o Presidente do Congresso Nacional dará ciência à Justiça Eleitoral, a quem incumbirá, nos limites de sua circunscrição:\n\nI – fixar a data da consulta popular;\n\nII – tornar pública a cédula respectiva;\n\nIII – expedir instruções para a realização do plebiscito ou referendo;\n\nIV – assegurar a gratuidade nos meio de comunicação de massa concessionários de serviço público, aos partidos políticos e às frentes suprapartidárias organizadas pela sociedade civil em torno da matéria em questão, para a divulgação de seus postulados referentes ao tema sob consulta.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9709.htm#:~:text=Art.%208o%20Aprovado%20o%20ato%20convocat%C3%B3rio%2C%20o%20Presidente%20do%20Congresso%20Nacional%20dar%C3%A1%20ci%C3%AAncia%20%C3%A0%20Justi%C3%A7a%20Eleitoral%2C%20a%20quem%20incumbir%C3%A1%2C%20nos%20limites%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o Convocado o plebiscito, o projeto legislativo ou medida administrativa não efetivada, cujas matérias constituam objeto da consulta popular, terá sustada sua tramitação, até que o resultado das urnas seja proclamado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9709.htm#:~:text=Art.%209o%20Convocado%20o%20plebiscito%2C%20o%20projeto%20legislativo%20ou%20medida%20administrativa%20n%C3%A3o%20efetivada%2C%20cujas%20mat%C3%A9rias%20constituam%20objeto%20da%20consulta%20popular%2C%20ter%C3%A1%20sustada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. O plebiscito ou referendo, convocado nos termos da presente Lei, será considerado aprovado ou rejeitado por maioria simples, de acordo com o resultado homologado pelo Tribunal Superior Eleitoral.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9709.htm#:~:text=Art.%2010.%20O%20plebiscito%20ou%20referendo%2C%20convocado%20nos%20termos%20da%20presente%20Lei%2C%20ser%C3%A1%20considerado%20aprovado%20ou%20rejeitado%20por%20maioria%20simples%2C%20de%20acordo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. O referendo pode ser convocado no prazo de trinta dias, a contar da promulgação de lei ou adoção de medida administrativa, que se relacione de maneira direta com a consulta popular.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9709.htm#:~:text=Art.%2011.%20O%20referendo%20pode%20ser%20convocado%20no%20prazo%20de%20trinta%20dias%2C%20a%20contar%20da%20promulga%C3%A7%C3%A3o%20de%20lei%20ou%20ado%C3%A7%C3%A3o%20de%20medida",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. A tramitação dos projetos de plebiscito e referendo obedecerá às normas do Regimento Comum do Congresso Nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9709.htm#:~:text=Art.%2012.%20A%20tramita%C3%A7%C3%A3o%20dos%20projetos%20de%20plebiscito%20e%20referendo%20obedecer%C3%A1%20%C3%A0s%20normas%20do%20Regimento%20Comum%20do%20Congresso%20Nacional.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. A iniciativa popular consiste na apresentação de projeto de lei à Câmara dos Deputados, subscrito por, no mínimo, um por cento do eleitorado nacional, distribuído pelo menos por cinco Estados, com não menos de três décimos por cento dos eleitores de cada um deles.\n\n§ 1o O projeto de lei de iniciativa popular deverá circunscrever-se a um só assunto.\n\n§ 2o O projeto de lei de iniciativa popular não poderá ser rejeitado por vício de forma, cabendo à Câmara dos Deputados, por seu órgão competente, providenciar a correção de eventuais impropriedades de técnica legislativa ou de redação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9709.htm#:~:text=Art.%2013.%20A%20iniciativa%20popular%20consiste%20na%20apresenta%C3%A7%C3%A3o%20de%20projeto%20de%20lei%20%C3%A0%20C%C3%A2mara%20dos%20Deputados%2C%20subscrito%20por%2C%20no%20m%C3%ADnimo%2C%20um%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. A Câmara dos Deputados, verificando o cumprimento das exigências estabelecidas no art. 13 e respectivos parágrafos, dará seguimento à iniciativa popular, consoante as normas do Regimento Interno.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9709.htm#:~:text=Art.%2014.%20A%20C%C3%A2mara%20dos%20Deputados%2C%20verificando%20o%20cumprimento%20das%20exig%C3%AAncias%20estabelecidas%20no%20art.%2013%20e%20respectivos%20par%C3%A1grafos%2C%20dar%C3%A1%20seguimento%20%C3%A0%20iniciativa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Esta Lei entra em vigor na data de sua publicação.\n\nBrasília, 18 de novembro de 1998; 177o da Independência e 110o da República.\n\nFERNANDO HENRIQUE CARDOSO Renan Calheiros\n\nEste texto não substitui o publicado no DOU de 19.11.1998\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9709.htm#:~:text=Art.%2015.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": null
+    }
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "_meta": {
+    "codigo": "L9882",
+    "nome": "ADPF no STF (processo e julgamento)",
+    "lei": "Lei 9.882/1999",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9882.htm",
+    "total_artigos": 14,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o A argüição prevista no § 1o do art. 102 da Constituição Federal será proposta perante o Supremo Tribunal Federal, e terá por objeto evitar ou reparar lesão a preceito fundamental, resultante de ato do Poder Público.\n\nParágrafo único. Caberá também argüição de descumprimento de preceito fundamental:\n\nI - quando for relevante o fundamento da controvérsia constitucional sobre lei ou ato normativo federal, estadual ou municipal, incluídos os anteriores à Constituição;\n\nII – (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9882.htm#:~:text=Art.%201o%20A%20arg%C3%BCi%C3%A7%C3%A3o%20prevista%20no%20%C2%A7%201o%20do%20art.%20102%20da%20Constitui%C3%A7%C3%A3o%20Federal%20ser%C3%A1%20proposta%20perante%20o%20Supremo%20Tribunal%20Federal%2C%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o Podem propor argüição de descumprimento de preceito fundamental:\n\nI - os legitimados para a ação direta de inconstitucionalidade;\n\nII - (VETADO)\n\n§ 1o Na hipótese do inciso II, faculta-se ao interessado, mediante representação, solicitar a propositura de argüição de descumprimento de preceito fundamental ao Procurador-Geral da República, que, examinando os fundamentos jurídicos do pedido, decidirá do cabimento do seu ingresso em juízo.\n\n§ 2o (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9882.htm#:~:text=Art.%202o%20Podem%20propor%20arg%C3%BCi%C3%A7%C3%A3o%20de%20descumprimento%20de%20preceito%20fundamental%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o A petição inicial deverá conter:\n\nI - a indicação do preceito fundamental que se considera violado;\n\nII - a indicação do ato questionado;\n\nIII - a prova da violação do preceito fundamental;\n\nIV - o pedido, com suas especificações;\n\nV - se for o caso, a comprovação da existência de controvérsia judicial relevante sobre a aplicação do preceito fundamental que se considera violado.\n\nParágrafo único. A petição inicial, acompanhada de instrumento de mandato, se for o caso, será apresentada em duas vias, devendo conter cópias do ato questionado e dos documentos necessários para comprovar a impugnação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9882.htm#:~:text=Art.%203o%20A%20peti%C3%A7%C3%A3o%20inicial%20dever%C3%A1%20conter%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o A petição inicial será indeferida liminarmente, pelo relator, quando não for o caso de argüição de descumprimento de preceito fundamental, faltar algum dos requisitos prescritos nesta Lei ou for inepta.\n\n§ 1o Não será admitida argüição de descumprimento de preceito fundamental quando houver qualquer outro meio eficaz de sanar a lesividade.\n\n§ 2o Da decisão de indeferimento da petição inicial caberá agravo, no prazo de cinco dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9882.htm#:~:text=Art.%204o%20A%20peti%C3%A7%C3%A3o%20inicial%20ser%C3%A1%20indeferida%20liminarmente%2C%20pelo%20relator%2C%20quando%20n%C3%A3o%20for%20o%20caso%20de%20arg%C3%BCi%C3%A7%C3%A3o%20de%20descumprimento%20de%20preceito%20fundamental%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o O Supremo Tribunal Federal, por decisão da maioria absoluta de seus membros, poderá deferir pedido de medida liminar na argüição de descumprimento de preceito fundamental.\n\n§ 1o Em caso de extrema urgência ou perigo de lesão grave, ou ainda, em período de recesso, poderá o relator conceder a liminar, ad referendum do Tribunal Pleno.\n\n§ 2o O relator poderá ouvir os órgãos ou autoridades responsáveis pelo ato questionado, bem como o Advogado-Geral da União ou o Procurador-Geral da República, no prazo comum de cinco dias.\n\n§ 3o A liminar poderá consistir na determinação de que juízes e tribunais suspendam o andamento de processo ou os efeitos de decisões judiciais, ou de qualquer outra medida que apresente relação com a matéria objeto da argüição de descumprimento de preceito fundamental, salvo se decorrentes da coisa julgada.\n\n§ 4o (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9882.htm#:~:text=Art.%205o%20O%20Supremo%20Tribunal%20Federal%2C%20por%20decis%C3%A3o%20da%20maioria%20absoluta%20de%20seus%20membros%2C%20poder%C3%A1%20deferir%20pedido%20de%20medida%20liminar%20na%20arg%C3%BCi%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o Apreciado o pedido de liminar, o relator solicitará as informações às autoridades responsáveis pela prática do ato questionado, no prazo de dez dias.\n\n§ 1o Se entender necessário, poderá o relator ouvir as partes nos processos que ensejaram a argüição, requisitar informações adicionais, designar perito ou comissão de peritos para que emita parecer sobre a questão, ou ainda, fixar data para declarações, em audiência pública, de pessoas com experiência e autoridade na matéria.\n\n§ 2o Poderão ser autorizadas, a critério do relator, sustentação oral e juntada de memoriais, por requerimento dos interessados no processo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9882.htm#:~:text=Art.%206o%20Apreciado%20o%20pedido%20de%20liminar%2C%20o%20relator%20solicitar%C3%A1%20as%20informa%C3%A7%C3%B5es%20%C3%A0s%20autoridades%20respons%C3%A1veis%20pela%20pr%C3%A1tica%20do%20ato%20questionado%2C%20no%20prazo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o Decorrido o prazo das informações, o relator lançará o relatório, com cópia a todos os ministros, e pedirá dia para julgamento.\n\nParágrafo único. O Ministério Público, nas argüições que não houver formulado, terá vista do processo, por cinco dias, após o decurso do prazo para informações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9882.htm#:~:text=Art.%207o%20Decorrido%20o%20prazo%20das%20informa%C3%A7%C3%B5es%2C%20o%20relator%20lan%C3%A7ar%C3%A1%20o%20relat%C3%B3rio%2C%20com%20c%C3%B3pia%20a%20todos%20os%20ministros%2C%20e%20pedir%C3%A1%20dia%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o A decisão sobre a argüição de descumprimento de preceito fundamental somente será tomada se presentes na sessão pelo menos dois terços dos Ministros.\n\n§ 1o (VETADO)\n\n§ 2o (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9882.htm#:~:text=Art.%208o%20A%20decis%C3%A3o%20sobre%20a%20arg%C3%BCi%C3%A7%C3%A3o%20de%20descumprimento%20de%20preceito%20fundamental%20somente%20ser%C3%A1%20tomada%20se%20presentes%20na%20sess%C3%A3o%20pelo%20menos%20dois",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9882.htm#:~:text=Art.%209o%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Julgada a ação, far-se-á comunicação às autoridades ou órgãos responsáveis pela prática dos atos questionados, fixando-se as condições e o modo de interpretação e aplicação do preceito fundamental.\n\n§ 1o O presidente do Tribunal determinará o imediato cumprimento da decisão, lavrando-se o acórdão posteriormente.\n\n§ 2o Dentro do prazo de dez dias contado a partir do trânsito em julgado da decisão, sua parte dispositiva será publicada em seção especial do Diário da Justiça e do Diário Oficial da União.\n\n§ 3o A decisão terá eficácia contra todos e efeito vinculante relativamente aos demais órgãos do Poder Público. (Vide ADPF 774)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9882.htm#:~:text=Art.%2010.%20Julgada%20a%20a%C3%A7%C3%A3o%2C%20far-se-%C3%A1%20comunica%C3%A7%C3%A3o%20%C3%A0s%20autoridades%20ou%20%C3%B3rg%C3%A3os%20respons%C3%A1veis%20pela%20pr%C3%A1tica%20dos%20atos%20questionados%2C%20fixando-se%20as%20condi%C3%A7%C3%B5es%20e%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Ao declarar a inconstitucionalidade de lei ou ato normativo, no processo de argüição de descumprimento de preceito fundamental, e tendo em vista razões de segurança jurídica ou de excepcional interesse social, poderá o Supremo Tribunal Federal, por maioria de dois terços de seus membros, restringir os efeitos daquela declaração ou decidir que ela só tenha eficácia a partir de seu trânsito em julgado ou de outro momento que venha a ser fixado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9882.htm#:~:text=Art.%2011.%20Ao%20declarar%20a%20inconstitucionalidade%20de%20lei%20ou%20ato%20normativo%2C%20no%20processo%20de%20arg%C3%BCi%C3%A7%C3%A3o%20de%20descumprimento%20de%20preceito%20fundamental%2C%20e%20tendo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. A decisão que julgar procedente ou improcedente o pedido em argüição de descumprimento de preceito fundamental é irrecorrível, não podendo ser objeto de ação rescisória.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9882.htm#:~:text=Art.%2012.%20A%20decis%C3%A3o%20que%20julgar%20procedente%20ou%20improcedente%20o%20pedido%20em%20arg%C3%BCi%C3%A7%C3%A3o%20de%20descumprimento%20de%20preceito%20fundamental%20%C3%A9%20irrecorr%C3%ADvel%2C%20n%C3%A3o%20podendo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Caberá reclamação contra o descumprimento da decisão proferida pelo Supremo Tribunal Federal, na forma do seu Regimento Interno.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9882.htm#:~:text=Art.%2013.%20Caber%C3%A1%20reclama%C3%A7%C3%A3o%20contra%20o%20descumprimento%20da%20decis%C3%A3o%20proferida%20pelo%20Supremo%20Tribunal%20Federal%2C%20na%20forma%20do%20seu%20Regimento%20Interno.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Esta Lei entra em vigor na data de sua publicação.\n\nBrasília, 3 de dezembro de 1999; 178o da Independência e 1 11o da República.\n\nFERNANDO HENRIQUE CARDOSO José Carlos Dias\n\nEste texto não substitui o publicado no DOU de 6.12.1999\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9882.htm#:~:text=Art.%2014.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": null
+    }
+  }
+}

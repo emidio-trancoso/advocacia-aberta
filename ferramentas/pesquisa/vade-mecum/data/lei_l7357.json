@@ -1,0 +1,1151 @@
+{
+  "_meta": {
+    "codigo": "L7357",
+    "nome": "Cheque",
+    "lei": "Lei 7.357/1985",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm",
+    "total_artigos": 71,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art . 1º O cheque contêm:\n\nI - a denominação ‘’cheque’’ inscrita no contexto do título e expressa na língua em que este é redigido;\n\nII - a ordem incondicional de pagar quantia determinada;\n\nIII - o nome do banco ou da instituição financeira que deve pagar (sacado);\n\nIV - a indicação do lugar de pagamento;\n\nV - a indicação da data e do lugar de emissão;\n\nVI - a assinatura do emitente (sacador), ou de seu mandatário com poderes especiais.\n\nParágrafo único - A assinatura do emitente ou a de seu mandatário com poderes especiais pode ser constituída, na forma de legislação específica, por chancela mecânica ou processo equivalente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%201%C2%BA%20O%20cheque%20cont%C3%AAm%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Da Emissão e da Forma do Cheque",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art . 2º O título, a que falte qualquer dos requisitos enumerados no artigo precedente não vale como cheque, salvo nos casos determinados a seguir:\n\nI - na falta de indicação especial, é considerado lugar de pagamento o lugar designado junto ao nome do sacado; se designados vários lugares, o cheque é pagável no primeiro deles; não existindo qualquer indicação, o cheque é pagável no lugar de sua emissão;\n\nII - não indicado o lugar de emissão, considera-se emitido o cheque no lugar indicado junto ao nome do emitente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%202%C2%BA%20O%20t%C3%ADtulo%2C%20a%20que%20falte%20qualquer%20dos%20requisitos%20enumerados%20no%20artigo%20precedente%20n%C3%A3o%20vale%20como%20cheque%2C%20salvo%20nos%20casos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Da Emissão e da Forma do Cheque",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art . 3º O cheque é emitido contra banco, ou instituição financeira que lhe seja equiparada, sob pena de não valer como cheque.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%203%C2%BA%20O%20cheque%20%C3%A9%20emitido%20contra%20banco%2C%20ou%20institui%C3%A7%C3%A3o%20financeira%20que%20lhe%20seja%20equiparada%2C%20sob%20pena%20de%20n%C3%A3o%20valer%20como",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Da Emissão e da Forma do Cheque",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art . 4º O emitente deve ter fundos disponíveis em poder do sacado e estar autorizado a sobre eles emitir cheque, em virtude de contrato expresso ou tácito. A infração desses preceitos não prejudica a validade do título como cheque.\n\n§ 1º - A existência de fundos disponíveis é verificada no momento da apresentação do cheque para pagamento.\n\n§ 2º - Consideram-se fundos disponíveis:\n\na) os créditos constantes de conta-corrente bancária não subordinados a termo;\n\nb) o saldo exigível de conta-corrente contratual;\n\nc) a soma proveniente de abertura de crédito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%204%C2%BA%20O%20emitente%20deve%20ter%20fundos%20dispon%C3%ADveis%20em%20poder%20do%20sacado%20e%20estar%20autorizado%20a%20sobre%20eles%20emitir%20cheque%2C%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Da Emissão e da Forma do Cheque",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art . 5º (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%205%C2%BA%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Da Emissão e da Forma do Cheque",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art . 6º O cheque não admite aceite considerando-se não escrita qualquer declaração com esse sentido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%206%C2%BA%20O%20cheque%20n%C3%A3o%20admite%20aceite%20considerando-se%20n%C3%A3o%20escrita%20qualquer%20declara%C3%A7%C3%A3o%20com%20esse%20sentido.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Da Emissão e da Forma do Cheque",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art . 7º Pode o sacado, a pedido do emitente ou do portador legitimado, lançar e assinar, no verso do cheque não ao portador e ainda não endossado, visto, certificação ou outra declaração equivalente, datada e por quantia igual à indicada no título.\n\n§ 1º A aposição de visto, certificação ou outra declaração equivalente obriga o sacado a debitar à conta do emitente a quantia indicada no cheque e a reservá-la em benefício do portador legitimado, durante o prazo de apresentação, sem que fiquem exonerados o emitente, endossantes e demais coobrigados.\n\n§ 2º - O sacado creditará à conta do emitente a quantia reservada, uma vez vencido o prazo de apresentação; e, antes disso, se o cheque lhe for entregue para inutilização.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%207%C2%BA%20Pode%20o%20sacado%2C%20a%20pedido%20do%20emitente%20ou%20do%20portador%20legitimado%2C%20lan%C3%A7ar%20e%20assinar%2C%20no%20verso%20do%20cheque%20n%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Da Emissão e da Forma do Cheque",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art . 8º Pode-se estipular no cheque que seu pagamento seja feito:\n\nI - a pessoa nomeada, com ou sem cláusula expressa ‘’à ordem’’;\n\nII - a pessoa nomeada, com a cláusula ‘’não à ordem’’, ou outra equivalente;\n\nIII - ao portador.\n\nParágrafo único - Vale como cheque ao portador o que não contém indicação do beneficiário e o emitido em favor de pessoa nomeada com a cláusula ‘’ou ao portador’’, ou expressão equivalente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%208%C2%BA%20Pode-se%20estipular%20no%20cheque%20que%20seu%20pagamento%20seja%20feito%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Da Emissão e da Forma do Cheque",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art . 9º O cheque pode ser emitido:\n\nI - à ordem do próprio sacador;\n\nII - por conta de terceiro;\n\nIll - contra o próprio banco sacador, desde que não ao portador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%209%C2%BA%20O%20cheque%20pode%20ser%20emitido%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Da Emissão e da Forma do Cheque",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art . 10 Considera-se não escrita a estipulação de juros inserida no cheque.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2010%20Considera-se%20n%C3%A3o%20escrita%20a%20estipula%C3%A7%C3%A3o%20de%20juros%20inserida%20no%20cheque.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Da Emissão e da Forma do Cheque",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art . 11 O cheque pode ser pagável no domicílio de terceiro, quer na localidade em que o sacado tenha domicílio, quer em outra, desde que o terceiro seja banco.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2011%20O%20cheque%20pode%20ser%20pag%C3%A1vel%20no%20domic%C3%ADlio%20de%20terceiro%2C%20quer%20na%20localidade%20em%20que%20o%20sacado%20tenha%20domic%C3%ADlio%2C%20quer",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Da Emissão e da Forma do Cheque",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art . 12 Feita a indicação da quantia em algarismos e por extenso, prevalece esta no caso de divergência. lndicada a quantia mais de uma vez, quer por extenso, quer por algarismos, prevalece, no caso de divergência, a indicação da menor quantia.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2012%20Feita%20a%20indica%C3%A7%C3%A3o%20da%20quantia%20em%20algarismos%20e%20por%20extenso%2C%20prevalece%20esta%20no%20caso%20de%20diverg%C3%AAncia.%20lndicada%20a%20quantia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Da Emissão e da Forma do Cheque",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art . 13 As obrigações contraídas no cheque são autônomas e independentes.\n\nParágrafo único - A assinatura de pessoa capaz cria obrigações para o signatário, mesmo que o cheque contenha assinatura de pessoas incapazes de se obrigar por cheque, ou assinaturas falsas, ou assinaturas de pessoas fictícias, ou assinaturas que, por qualquer outra razão, não poderiam obrigar as pessoas que assinaram o cheque, ou em nome das quais ele foi assinado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2013%20As%20obriga%C3%A7%C3%B5es%20contra%C3%ADdas%20no%20cheque%20s%C3%A3o%20aut%C3%B4nomas%20e%20independentes.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Da Emissão e da Forma do Cheque",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art . 14 Obriga-se pessoalmente quem assina cheque como mandatário ou representante, sem ter poderes para tal, ou excedendo os que lhe foram conferidos. Pagando o cheque, tem os mesmos direitos daquele em cujo nome assinou.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2014%20Obriga-se%20pessoalmente%20quem%20assina%20cheque%20como%20mandat%C3%A1rio%20ou%20representante%2C%20sem%20ter%20poderes%20para%20tal%2C%20ou%20excedendo%20os%20que%20lhe",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Da Emissão e da Forma do Cheque",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art . 15 O emitente garante o pagamento, considerando-se não escrita a declaração pela qual se exima dessa garantia.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2015%20O%20emitente%20garante%20o%20pagamento%2C%20considerando-se%20n%C3%A3o%20escrita%20a%20declara%C3%A7%C3%A3o%20pela%20qual%20se%20exima%20dessa%20garantia.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Da Emissão e da Forma do Cheque",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art . 16 Se o cheque, incompleto no ato da emissão, for completado com inobservância do convencionado com a emitente, tal fato não pode ser oposto ao portador, a não ser que este tenha adquirido a cheque de má-fé.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2016%20Se%20o%20cheque%2C%20incompleto%20no%20ato%20da%20emiss%C3%A3o%2C%20for%20completado%20com%20inobserv%C3%A2ncia%20do%20convencionado%20com%20a%20emitente%2C%20tal%20fato",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I Da Emissão e da Forma do Cheque",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art . 17 O cheque pagável a pessoa nomeada, com ou sem cláusula expressa ‘’ à ordem’’, é transmissível por via de endosso.\n\n§ 1º O cheque pagável a pessoa nomeada, com a cláusula ‘’não à ordem’’, ou outra equivalente, só é transmissível pela forma e com os efeitos de cessão.\n\n§ 2º O endosso pode ser feito ao emitente, ou a outro obrigado, que podem novamente endossar o cheque.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2017%20O%20cheque%20pag%C3%A1vel%20a%20pessoa%20nomeada%2C%20com%20ou%20sem%20cl%C3%A1usula%20expressa%20%E2%80%98%E2%80%99%20%C3%A0%20ordem%E2%80%99%E2%80%99%2C%20%C3%A9%20transmiss%C3%ADvel%20por%20via%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II De Transmissão",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art . 18 O endosso deve ser puro e simples, reputando-se não-escrita qualquer condição a que seja subordinado.\n\n§ 1º São nulos o endosso parcial e o do sacado.\n\n§ 2º Vale como em branco o endosso ao portador. O endosso ao sacado vale apenas como quitação, salvo no caso de o sacado ter vários estabelecimentos e o endosso ser feito em favor de estabelecimento diverso daquele contra o qual o cheque foi emitido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2018%20O%20endosso%20deve%20ser%20puro%20e%20simples%2C%20reputando-se%20n%C3%A3o-escrita%20qualquer%20condi%C3%A7%C3%A3o%20a%20que%20seja%20subordinado.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II De Transmissão",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art . 19 - O endosso deve ser lançado no, cheque ou na folha de alongamento e assinado pelo endossante, ou seu mandatário com poderes especiais.\n\n§ 1º O endosso pode não designar o endossatário. Consistindo apenas na assinatura do endossante (endosso em branco), só é válido quando lançado no verso do cheque ou na folha de alongamento.\n\n§ 2º A assinatura do endossante, ou a de seu mandatário com poderes especiais, pode ser constituída, na forma de legislação específica, por chancela mecânica, ou processo equivalente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2019%20-%20O%20endosso%20deve%20ser%20lan%C3%A7ado%20no%2C%20cheque%20ou%20na%20folha%20de%20alongamento%20e%20assinado%20pelo%20endossante%2C%20ou%20seu",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II De Transmissão",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art . 20 O endosso transmite todos os direitos resultantes do cheque. Se o endosso é em branco, pode o portador:\n\nI - completá-lo com o seu nome ou com o de outra pessoa;\n\nII - endossar novamente o cheque, em branco ou a outra pessoa;\n\nIII - transferir o cheque a um terceiro, sem completar o endosso e sem endossar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2020%20O%20endosso%20transmite%20todos%20os%20direitos%20resultantes%20do%20cheque.%20Se%20o%20endosso%20%C3%A9%20em%20branco%2C%20pode%20o%20portador%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II De Transmissão",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art . 21 Salvo estipulação em contrário, o endossante garante o pagamento.\n\nParágrafo único - Pode o endossante proibir novo endosso; neste caso, não garante o pagamento a quem seja o cheque posteriormente endossado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2021%20Salvo%20estipula%C3%A7%C3%A3o%20em%20contr%C3%A1rio%2C%20o%20endossante%20garante%20o%20pagamento.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II De Transmissão",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art . 22 O detentor de cheque \"à ordem’’ é considerado portador legitimado, se provar seu direito por uma série ininterrupta de endossos, mesmo que o último seja em branco. Para esse efeito, os endossos cancelados são considerados não-escritos.\n\nParágrafo único. Quando um endosso em branco for seguido de outro, entende-se que o signatário deste adquiriu o cheque pelo endosso em branco.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2022%20O%20detentor%20de%20cheque%20%22%C3%A0%20ordem%E2%80%99%E2%80%99%20%C3%A9%20considerado%20portador%20legitimado%2C%20se%20provar%20seu%20direito%20por%20uma%20s%C3%A9rie%20ininterrupta%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II De Transmissão",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art . 23 O endosso num cheque passado ao portador torna o endossante responsável, nos termos das disposições que regulam o direito de ação, mas nem por isso converte o título num cheque ‘’à ordem’’.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2023%20O%20endosso%20num%20cheque%20passado%20ao%20portador%20torna%20o%20endossante%20respons%C3%A1vel%2C%20nos%20termos%20das%20disposi%C3%A7%C3%B5es%20que%20regulam%20o%20direito",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II De Transmissão",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art . 24 Desapossado alguém de um cheque, em virtude de qualquer evento, novo portador legitimado não está obrigado a restituí-lo, se não o adquiriu de má-fé.\n\nParágrafo único - Sem prejuízo do disposto neste artigo, serão observadas, nos casos de perda, extravio, furto, roubo ou apropriação indébita do cheque, as disposições legais relativas à anulação e substituição de títulos ao portador, no que for aplicável.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2024%20Desapossado%20algu%C3%A9m%20de%20um%20cheque%2C%20em%20virtude%20de%20qualquer%20evento%2C%20novo%20portador%20legitimado%20n%C3%A3o%20est%C3%A1%20obrigado%20a%20restitu%C3%AD-lo%2C%20se",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II De Transmissão",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art . 25 Quem for demandado por obrigação resultante de cheque não pode opor ao portador exceções fundadas em relações pessoais com o emitente, ou com os portadores anteriores, salvo se o portador o adquiriu conscientemente em detrimento do devedor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2025%20Quem%20for%20demandado%20por%20obriga%C3%A7%C3%A3o%20resultante%20de%20cheque%20n%C3%A3o%20pode%20opor%20ao%20portador%20exce%C3%A7%C3%B5es%20fundadas%20em%20rela%C3%A7%C3%B5es%20pessoais%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II De Transmissão",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art . 26 Quando o endosso contiver a cláusula ‘’valor em cobrança’’, ‘’para cobrança’’, ‘’por procuração’’, ou qualquer outra que implique apenas mandato, o portador pode exercer todos os direitos resultantes do cheque, mas só pode lançar no cheque endosso-mandato. Neste caso, os obrigados somente podem invocar contra o portador as exceções oponíveis ao endossante.\n\nParágrafo único. O mandato contido no endosso não se extingue por morte do endossante ou por superveniência de sua incapacidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2026%20Quando%20o%20endosso%20contiver%20a%20cl%C3%A1usula%20%E2%80%98%E2%80%99valor%20em%20cobran%C3%A7a%E2%80%99%E2%80%99%2C%20%E2%80%98%E2%80%99para%20cobran%C3%A7a%E2%80%99%E2%80%99%2C%20%E2%80%98%E2%80%99por%20procura%C3%A7%C3%A3o%E2%80%99%E2%80%99%2C%20ou%20qualquer%20outra%20que%20implique%20apenas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II De Transmissão",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art . 27 O endosso posterior ao protesto, ou declaração equivalente, ou à expiração do prazo de apresentação produz apenas os efeitos de cessão. Salvo prova em contrário, o endosso sem data presume-se anterior ao protesto, ou declaração equivalente, ou à expiração do prazo de apresentação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2027%20O%20endosso%20posterior%20ao%20protesto%2C%20ou%20declara%C3%A7%C3%A3o%20equivalente%2C%20ou%20%C3%A0%20expira%C3%A7%C3%A3o%20do%20prazo%20de%20apresenta%C3%A7%C3%A3o%20produz%20apenas%20os%20efeitos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II De Transmissão",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art . 28 O endosso no cheque nominativo, pago pelo banco contra o qual foi sacado, prova o recebimento da respectiva importância pela pessoa a favor da qual foi emitido, e pelos endossantes subseqüentes.\n\nParágrafo único Se o cheque indica a nota, fatura, conta cambial, imposto lançado ou declarado a cujo pagamento se destina, ou outra causa da sua emissão, o endosso pela pessoa a favor da qual foi emitido, e a sua liquidação pelo banco sacado provam a extinção da obrigação indicada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2028%20O%20endosso%20no%20cheque%20nominativo%2C%20pago%20pelo%20banco%20contra%20o%20qual%20foi%20sacado%2C%20prova%20o%20recebimento%20da%20respectiva%20import%C3%A2ncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II De Transmissão",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art . 29 O pagamento do cheque pode ser garantido, no todo ou em parte, por aval prestado por terceiro, exceto o sacado, ou mesmo por signatário do título.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2029%20O%20pagamento%20do%20cheque%20pode%20ser%20garantido%2C%20no%20todo%20ou%20em%20parte%2C%20por%20aval%20prestado%20por%20terceiro%2C%20exceto%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Do Aval",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art . 30 O aval é lançado no cheque ou na folha de alongamento. Exprime-se pelas palavras ‘’por aval’’, ou fórmula equivalente, com a assinatura do avalista. Considera-se como resultante da simples assinatura do avalista, aposta no anverso do cheque, salvo quando se tratar da assinatura do emitente.\n\nParágrafo único - O aval deve indicar o avalizado. Na falta de indicação, considera-se avalizado o emitente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2030%20O%20aval%20%C3%A9%20lan%C3%A7ado%20no%20cheque%20ou%20na%20folha%20de%20alongamento.%20Exprime-se%20pelas%20palavras%20%E2%80%98%E2%80%99por%20aval%E2%80%99%E2%80%99%2C%20ou%20f%C3%B3rmula%20equivalente%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Do Aval",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art . 31 O avalista se obriga da mesma maneira que o avaliado. Subsiste sua obrigação, ainda que nula a por ele garantida, salvo se a nulidade resultar de vício de forma.\n\nParágrafo único - O avalista que paga o cheque adquire todos os direitos dele resultantes contra o avalizado e contra os obrigados para com este em virtude do cheque.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2031%20O%20avalista%20se%20obriga%20da%20mesma%20maneira%20que%20o%20avaliado.%20Subsiste%20sua%20obriga%C3%A7%C3%A3o%2C%20ainda%20que%20nula%20a%20por%20ele",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Do Aval",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art . 32 O cheque é pagável à vista. Considera-se não-estrita qualquer menção em contrário.\n\nParágrafo único - O cheque apresentado para pagamento antes do dia indicado como data de emissão é pagável no dia da apresentação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2032%20O%20cheque%20%C3%A9%20pag%C3%A1vel%20%C3%A0%20vista.%20Considera-se%20n%C3%A3o-estrita%20qualquer%20men%C3%A7%C3%A3o%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Da Apresentação e do Pagamento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art . 33 O cheque deve ser apresentado para pagamento, a contar do dia da emissão, no prazo de 30 (trinta) dias, quando emitido no lugar onde houver de ser pago; e de 60 (sessenta) dias, quando emitido em outro lugar do País ou no exterior.\n\nParágrafo único - Quando o cheque é emitido entre lugares com calendários diferentes, considera-se como de emissão o dia correspondente do calendário do lugar de pagamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2033%20O%20cheque%20deve%20ser%20apresentado%20para%20pagamento%2C%20a%20contar%20do%20dia%20da%20emiss%C3%A3o%2C%20no%20prazo%20de%2030%20%28trinta%29%20dias%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Da Apresentação e do Pagamento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art . 34 A apresentação do cheque à câmara de compensação equivale à apresentação a pagamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2034%20A%20apresenta%C3%A7%C3%A3o%20do%20cheque%20%C3%A0%20c%C3%A2mara%20de%20compensa%C3%A7%C3%A3o%20equivale%20%C3%A0%20apresenta%C3%A7%C3%A3o%20a%20pagamento.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Da Apresentação e do Pagamento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art . 35 O emitente do cheque pagável no Brasil pode revogá-lo, mercê de contra-ordem dada por aviso epistolar, ou por via judicial ou extrajudicial, com as razões motivadoras do ato.\n\nParágrafo único - A revogação ou contra-ordem só produz efeito depois de expirado o prazo de apresentação e, não sendo promovida, pode o sacado pagar o cheque até que decorra o prazo de prescrição, nos termos do art. 59 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2035%20O%20emitente%20do%20cheque%20pag%C3%A1vel%20no%20Brasil%20pode%20revog%C3%A1-lo%2C%20merc%C3%AA%20de%20contra-ordem%20dada%20por%20aviso%20epistolar%2C%20ou%20por%20via",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Da Apresentação e do Pagamento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art . 36 Mesmo durante o prazo de apresentação, o emitente e o portador legitimado podem fazer sustar o pagamento, manifestando ao sacado, por escrito, oposição fundada em relevante razão de direito.\n\n§ 1º A oposição do emitente e a revogação ou contra-ordem se excluem reciprocamente.\n\n§ 2º Não cabe ao sacado julgar da relevância da razão invocada pelo oponente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2036%20Mesmo%20durante%20o%20prazo%20de%20apresenta%C3%A7%C3%A3o%2C%20o%20emitente%20e%20o%20portador%20legitimado%20podem%20fazer%20sustar%20o%20pagamento%2C%20manifestando%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Da Apresentação e do Pagamento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art . 37 A morte do emitente ou sua incapacidade superveniente à emissão não invalidam os efeitos do cheque.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2037%20A%20morte%20do%20emitente%20ou%20sua%20incapacidade%20superveniente%20%C3%A0%20emiss%C3%A3o%20n%C3%A3o%20invalidam%20os%20efeitos%20do%20cheque.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Da Apresentação e do Pagamento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art . 38 O sacado pode exigir, ao pagar o cheque, que este lhe seja entregue quitado pelo portador.\n\nParágrafo único. O portador não pode recusar pagamento parcial, e, nesse caso, o sacado pode exigir que esse pagamento conste do cheque e que o portador lhe dê a respectiva quitação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2038%20O%20sacado%20pode%20exigir%2C%20ao%20pagar%20o%20cheque%2C%20que%20este%20lhe%20seja%20entregue%20quitado%20pelo%20portador.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Da Apresentação e do Pagamento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art . 39 O sacado que paga cheque ‘’à ordem’’ é obrigado a verificar a regularidade da série de endossos, mas não a autenticidade das assinaturas dos endossantes. A mesma obrigação incumbe ao banco apresentante do cheque a câmara de compensação.\n\nParágrafo único. Ressalvada a responsabilidade do apresentante, no caso da parte final deste artigo, o banco sacado responde pelo pagamento do cheque falso, falsificado ou alterado, salvo dolo ou culpa do correntista, do endossante ou do beneficiário, dos quais poderá o sacado, no todo ou em parte, reaver a que pagou.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2039%20O%20sacado%20que%20paga%20cheque%20%E2%80%98%E2%80%99%C3%A0%20ordem%E2%80%99%E2%80%99%20%C3%A9%20obrigado%20a%20verificar%20a%20regularidade%20da%20s%C3%A9rie%20de%20endossos%2C%20mas%20n%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Da Apresentação e do Pagamento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art . 40 O pagamento se fará à medida em que forem apresentados os cheques e se 2 (dois) ou mais forem apresentados simultaneamente, sem que os fundos disponíveis bastem para o pagamento de todos, terão preferência os de emissão mais antiga e, se da mesma data, os de número inferior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2040%20O%20pagamento%20se%20far%C3%A1%20%C3%A0%20medida%20em%20que%20forem%20apresentados%20os%20cheques%20e%20se%202%20%28dois%29%20ou%20mais%20forem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Da Apresentação e do Pagamento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art . 41 O sacado pode pedir explicações ou garantia para pagar cheque mutilado, rasgado ou partido, ou que contenha borrões, emendas e dizeres que não pareçam formalmente normais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2041%20O%20sacado%20pode%20pedir%20explica%C3%A7%C3%B5es%20ou%20garantia%20para%20pagar%20cheque%20mutilado%2C%20rasgado%20ou%20partido%2C%20ou%20que%20contenha%20borr%C3%B5es%2C%20emendas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Da Apresentação e do Pagamento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art . 42 O cheque em moeda estrangeira é pago, no prazo de apresentação, em moeda nacional ao câmbio do dia do pagamento, obedecida a legislação especial.\n\nParágrafo único. Se o cheque não for pago no ato da apresentação, pode o portador optar entre o câmbio do dia da apresentação e o do dia do pagamento para efeito de conversão em moeda nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2042%20O%20cheque%20em%20moeda%20estrangeira%20%C3%A9%20pago%2C%20no%20prazo%20de%20apresenta%C3%A7%C3%A3o%2C%20em%20moeda%20nacional%20ao%20c%C3%A2mbio%20do%20dia%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Da Apresentação e do Pagamento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art . 43 (VETADO).\n\n§ 1º (VETADO).\n\n§ 2º - (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2043%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV Da Apresentação e do Pagamento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art . 44 O emitente ou o portador podem cruzar o cheque, mediante a aposição de dois traços paralelos no anverso do título.\n\n§ 1º O cruzamento é geral se entre os dois traços não houver nenhuma indicação ou existir apenas a indicação ‘’banco’’, ou outra equivalente. O cruzamento é especial se entre os dois traços existir a indicação do nome do banco.\n\n§ 2º O cruzamento geral pode ser convertida em especial, mas este não pode converter-se naquele.\n\n§ 3º A inutilização do cruzamento ou a do nome do banco é reputada como não existente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2044%20O%20emitente%20ou%20o%20portador%20podem%20cruzar%20o%20cheque%2C%20mediante%20a%20aposi%C3%A7%C3%A3o%20de%20dois%20tra%C3%A7os%20paralelos%20no%20anverso%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Do Cheque Cruzado",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art . 45 O cheque com cruzamento geral só pode ser pago pelo sacado a banco ou a cliente do sacado, mediante crédito em conta. O cheque com cruzamento especial só pode ser pago pelo sacado ao banco indicado, ou, se este for o sacado, a cliente seu, mediante crédito em conta. Pode, entretanto, o banco designado incumbir outro da cobrança.\n\n§ 1º O banco só pode adquirir cheque cruzado de cliente seu ou de outro banco. Só pode cobrá-lo por conta de tais pessoas.\n\n§ 2º O cheque com vários cruzamentos especiais só pode ser pago pelo sacado no caso de dois cruzamentos, um dos quais para cobrança por câmara de compensação.\n\n§ 3º Responde pelo dano, até a concorrência do montante do cheque, o sacado ou o banco portador que não observar as disposições precedentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2045%20O%20cheque%20com%20cruzamento%20geral%20s%C3%B3%20pode%20ser%20pago%20pelo%20sacado%20a%20banco%20ou%20a%20cliente%20do%20sacado%2C%20mediante",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V Do Cheque Cruzado",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art . 46 O emitente ou o portador podem proibir que o cheque seja pago em dinheiro mediante a inscrição transversal, no anverso do título, da cláusula ‘’para ser creditado em conta’’, ou outra equivalente. Nesse caso, o sacado só pode proceder a Iançamento contábil (crédito em conta, transferência ou compensação), que vale como pagamento. O depósito do cheque em conta de seu beneficiário dispensa o respectivo endosso.\n\n§ 1º A inutilização da cláusula é considerada como não existente.\n\n§ 2º Responde pelo dano, até a concorrência do montante do cheque, o sacado que não observar as disposições precedentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2046%20O%20emitente%20ou%20o%20portador%20podem%20proibir%20que%20o%20cheque%20seja%20pago%20em%20dinheiro%20mediante%20a%20inscri%C3%A7%C3%A3o%20transversal%2C%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI Do Cheque para Ser Creditado em Conta",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art . 47 Pode o portador promover a execução do cheque:\n\nI - contra o emitente e seu avalista;\n\nII - contra os endossantes e seus avalistas, se o cheque apresentado em tempo hábil e a recusa de pagamento é comprovada pelo protesto ou por declaração do sacado, escrita e datada sobre o cheque, com indicação do dia de apresentação, ou, ainda, por declaração escrita e datada por câmara de compensação.\n\n§ 1º Qualquer das declarações previstas neste artigo dispensa o protesto e produz os efeitos deste.\n\n§ 2º Os signatários respondem pelos danos causados por declarações inexatas.\n\n§ 3º O portador que não apresentar o cheque em tempo hábil, ou não comprovar a recusa de pagamento pela forma indicada neste artigo, perde o direito de execução contra o emitente, se este tinha fundos disponíveis durante o prazo de apresentação e os deixou de ter, em razão de fato que não lhe seja imputável.\n\n§ 4º A execução independe do protesto e das declarações previstas neste artigo, se a apresentação ou o pagamento do cheque são obstados pelo fato de o sacado ter sido submetido a intervenção, liquidação extrajudicial ou falência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2047%20Pode%20o%20portador%20promover%20a%20execu%C3%A7%C3%A3o%20do%20cheque%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Da Ação por Falta de Pagamento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art . 48 O protesto ou as declarações do artigo anterior devem fazer-se no lugar de pagamento ou do domicílio do emitente, antes da expiração do prazo de apresentação. Se esta ocorrer no último dia do prazo, o protesto ou as declarações podem fazer-se no primeiro dia útil seguinte.\n\n§ 1º A entrega do cheque para protesto deve ser prenotada em livro especial e o protesto tirado no prazo de 3 (três) dias úteis a contar do recebimento do título.\n\n§ 2º O instrumento do protesto, datado e assinado pelo oficial público competente, contém:\n\na) a transcrição literal do cheque, com todas as declarações nele inseridas, na ordem em que se acham lançadas;\n\nb) a certidão da intimação do emitente, de seu mandatário especial ou representante legal, e as demais pessoas obrigadas no cheque;\n\nc) a resposta dada pelos intimados ou a declaração da falta de resposta;\n\nd) a certidão de não haverem sido encontrados ou de serem desconhecidos o emitente ou os demais obrigados, realizada a intimação, nesse caso, pela imprensa.\n\n§ 3º O instrumento de protesto, depois de registrado em livro próprio, será entregue ao portador legitimado ou àquele que houver efetuado o pagamento.\n\n§ 4º Pago o cheque depois do protesto, pode este ser cancelado, a pedido de qualquer interessado, mediante arquivamento de cópia autenticada da quitação que contenha perfeita identificação do título.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2048%20O%20protesto%20ou%20as%20declara%C3%A7%C3%B5es%20do%20artigo%20anterior%20devem%20fazer-se%20no%20lugar%20de%20pagamento%20ou%20do%20domic%C3%ADlio%20do%20emitente%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Da Ação por Falta de Pagamento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art . 49 O portador deve dar aviso da falta de pagamento a seu endossante e ao emitente, nos 4 (quatro) dias úteis seguintes ao do protesto ou das declarações previstas no art. 47 desta Lei ou, havendo cláusula ‘’sem despesa’’, ao da apresentação.\n\n§ 1º Cada endossante deve, nos 2 (dois) dias úteis seguintes ao do recebimento do aviso, comunicar seu teor ao endossante precedente, indicando os nomes e endereços dos que deram os avisos anteriores, e assim por diante, até o emitente, contando-se os prazos do recebimento do aviso precedente.\n\n§ 2º O aviso dado a um obrigado deve estender-se, no mesmo prazo, a seu avalista.\n\n§ 3º Se o endossante não houver indicado seu endereço ou o tiver feito de forma ilegível, basta o aviso ao endossante que o preceder.\n\n§ 4º O aviso pode ser dado por qualquer forma, até pela simples devolução do cheque.\n\n§ 5º Aquele que estiver obrigado a aviso deverá provar que o deu no prazo estipulado. Considera-se observado o prazo se, dentro dele, houver sido posta no correio a carta de aviso.\n\n§ 6º Não decai do direito de regresso o que deixa de dar o aviso no prazo estabelecido. Responde, porém, pelo dano causado por sua negligência, sem que a indenização exceda o valor do cheque.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2049%20O%20portador%20deve%20dar%20aviso%20da%20falta%20de%20pagamento%20a%20seu%20endossante%20e%20ao%20emitente%2C%20nos%204%20%28quatro%29%20dias",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Da Ação por Falta de Pagamento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art . 50 O emitente, o endossante e o avalista podem, pela cláusula ‘’sem despesa’’, ‘’sem protesto’’, ou outra equivalente, lançada no título e assinada, dispensar o portador, para promover a execução do título, do protesto ou da declaração equivalente.\n\n§ 1º A cláusula não dispensa o portador da apresentação do cheque no prazo estabelecido, nem dos avisos. Incumbe a quem alega a inobservância de prazo a prova respectiva.\n\n§ 2º A cláusula lançada pelo emitente produz efeito em relação a todos os obrigados; a lançada por endossante ou por avalista produz efeito somente em relação ao que lançar.\n\n§ 3º Se, apesar de cláusula lançada pelo emitente, o portador promove o protesto, as despesas correm por sua conta. Por elas respondem todos os obrigados, se a cláusula é lançada por endossante ou avalista.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2050%20O%20emitente%2C%20o%20endossante%20e%20o%20avalista%20podem%2C%20pela%20cl%C3%A1usula%20%E2%80%98%E2%80%99sem%20despesa%E2%80%99%E2%80%99%2C%20%E2%80%98%E2%80%99sem%20protesto%E2%80%99%E2%80%99%2C%20ou%20outra%20equivalente%2C%20lan%C3%A7ada%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Da Ação por Falta de Pagamento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art . 51 Todos os obrigados respondem solidariamente para com o portador do cheque.\n\n§ 1º - O portador tem o direito de demandar todos os obrigados, individual ou coletivamente, sem estar sujeito a observar a ordem em que se obrigaram. O mesmo direito cabe ao obrigado que pagar o cheque.\n\n§ 2º A ação contra um dos obrigados não impede sejam os outros demandados, mesmo que se tenham obrigado posteriormente àquele.\n\n§ 3º Regem-se pelas normas das obrigações solidárias as relações entre obrigados do mesmo grau.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2051%20Todos%20os%20obrigados%20respondem%20solidariamente%20para%20com%20o%20portador%20do%20cheque.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Da Ação por Falta de Pagamento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art . 52 portador pode exigir do demandado:\n\nI - a importância do cheque não pago;\n\nII - os juros legais desde o dia da apresentação;\n\nIII - as despesas que fez;\n\nIV - a compensação pela perde do valor aquisitivo da moeda, até o embolso das importâncias mencionadas nos itens antecedentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2052%20portador%20pode%20exigir%20do%20demandado%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Da Ação por Falta de Pagamento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art . 53 Quem paga o cheque pode exigir de seus garantes:\n\nI - a importância integral que pagou;\n\nII - os juros legais, a contar do dia do pagamento;\n\nIII - as despesas que fez;\n\nIV - a compensação pela perda do valor aquisitivo da moeda, até o embolso das importâncias mencionadas nos itens antecedentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2053%20Quem%20paga%20o%20cheque%20pode%20exigir%20de%20seus%20garantes%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Da Ação por Falta de Pagamento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art . 54 O obrigado contra o qual se promova execução, ou que a esta esteja sujeito, pode exigir, contra pagamento, a entrega do cheque, com o instrumento de protesto ou da declaração equivalente e a conta de juros e despesas quitada.\n\nParágrafo único. O endossante que pagou o cheque pode cancelar seu endosso e os dos endossantes posteriores.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2054%20O%20obrigado%20contra%20o%20qual%20se%20promova%20execu%C3%A7%C3%A3o%2C%20ou%20que%20a%20esta%20esteja%20sujeito%2C%20pode%20exigir%2C%20contra%20pagamento%2C%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Da Ação por Falta de Pagamento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art . 55 Quando disposição legal ou caso de força maior impedir a apresentação do cheque, o protesto ou a declaração equivalente nos prazos estabelecidos, consideram-se estes prorrogados.\n\n§ 1º O portador é obrigado a dar aviso imediato da ocorrência de força maior a seu endossante e a fazer menção do aviso dado mediante declaração datada e assinada por ele no cheque ou folha de alongamento. São aplicáveis, quanto ao mais, as disposições do art. 49 e seus parágrafos desta Lei.\n\n§ 2º Cessado o impedimento, deve o portador, imediatamente, apresentar o cheque para pagamento e, se couber, promover o protesto ou a declaração equivalente.\n\n§ 3º Se o impedimento durar por mais de 15 (quinze) dias, contados do dia em que o portador, mesmo antes de findo o prazo de apresentação, comunicou a ocorrência de força maior a seu endossante, poderá ser promovida a execução, sem necessidade da apresentação do protesto ou declaração equivalente.\n\n§ 4º Não constituem casos de força maior os fatos puramente pessoais relativos ao portador ou à pessoa por ele incumbida da apresentação do cheque, do protesto ou da obtenção da declaração equivalente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2055%20Quando%20disposi%C3%A7%C3%A3o%20legal%20ou%20caso%20de%20for%C3%A7a%20maior%20impedir%20a%20apresenta%C3%A7%C3%A3o%20do%20cheque%2C%20o%20protesto%20ou%20a%20declara%C3%A7%C3%A3o%20equivalente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Da Ação por Falta de Pagamento",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art . 56 Excetuado o cheque ao portador, qualquer cheque emitido em um país e pagável em outro pode ser feito em vários exemplares idênticos, que devem ser numerados no próprio texto do título, sob pena de cada exemplar ser considerado cheque distinto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2056%20Excetuado%20o%20cheque%20ao%20portador%2C%20qualquer%20cheque%20emitido%20em%20um%20pa%C3%ADs%20e%20pag%C3%A1vel%20em%20outro%20pode%20ser%20feito%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Da Pluralidade de Exemplares",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art . 57 O pagamento feito contra a apresentação de um exemplar é liberatório, ainda que não estipulado que o pagamento torna sem efeito os outros exemplares.\n\nParágrafo único. O endossante que transferir os exemplares a diferentes pessoas e os endossantes posteriores respondem por todos os exemplares que assinarem e que não forem restituídos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2057%20O%20pagamento%20feito%20contra%20a%20apresenta%C3%A7%C3%A3o%20de%20um%20exemplar%20%C3%A9%20liberat%C3%B3rio%2C%20ainda%20que%20n%C3%A3o%20estipulado%20que%20o%20pagamento%20torna",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII Da Pluralidade de Exemplares",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art . 58 No caso de alteração do texto do cheque, os signatários posteriores à alteração respondem nos termos do texto alterado e os signatários anteriores, nos do texto original.\n\nParágrafo único. Não sendo possível determinar se a firma foi aposta no título antes ou depois de sua alteração, presume-se que a tenha sido antes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2058%20No%20caso%20de%20altera%C3%A7%C3%A3o%20do%20texto%20do%20cheque%2C%20os%20signat%C3%A1rios%20posteriores%20%C3%A0%20altera%C3%A7%C3%A3o%20respondem%20nos%20termos%20do%20texto%20alterado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX Das Alterações",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art . 59 Prescrevem em 6 (seis) meses, contados da expiração do prazo de apresentação, a ação que o art. 47 desta Lei assegura ao portador.\n\nParágrafo único - A ação de regresso de um obrigado ao pagamento do cheque contra outro prescreve em 6 (seis) meses, contados do dia em que o obrigado pagou o cheque ou do dia em que foi demandado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2059%20Prescrevem%20em%206%20%28seis%29%20meses%2C%20contados%20da%20expira%C3%A7%C3%A3o%20do%20prazo%20de%20apresenta%C3%A7%C3%A3o%2C%20a%20a%C3%A7%C3%A3o%20que%20o%20art.%2047%20desta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X Da Prescrição",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art . 60 A interrupção da prescrição produz efeito somente contra o obrigado em relação ao qual foi promovido o ato interruptivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2060%20A%20interrup%C3%A7%C3%A3o%20da%20prescri%C3%A7%C3%A3o%20produz%20efeito%20somente%20contra%20o%20obrigado%20em%20rela%C3%A7%C3%A3o%20ao%20qual%20foi%20promovido%20o%20ato%20interruptivo.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X Da Prescrição",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art . 61 A ação de enriquecimento contra o emitente ou outros obrigados, que se locupletaram injustamente com o não-pagamento do cheque, prescreve em 2 (dois) anos, contados do dia em que se consumar a prescrição prevista no art. 59 e seu parágrafo desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2061%20A%20a%C3%A7%C3%A3o%20de%20enriquecimento%20contra%20o%20emitente%20ou%20outros%20obrigados%2C%20que%20se%20locupletaram%20injustamente%20com%20o%20n%C3%A3o-pagamento%20do%20cheque%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X Da Prescrição",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "60",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art . 62 Salvo prova de novação, a emissão ou a transferência do cheque não exclui a ação fundada na relação causal, feita a prova do não-pagamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2062%20Salvo%20prova%20de%20nova%C3%A7%C3%A3o%2C%20a%20emiss%C3%A3o%20ou%20a%20transfer%C3%AAncia%20do%20cheque%20n%C3%A3o%20exclui%20a%20a%C3%A7%C3%A3o%20fundada%20na%20rela%C3%A7%C3%A3o%20causal%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X Da Prescrição",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "61",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art . 63 Os conflitos de leis em matéria de cheques serão resolvidos de acordo com as normas constantes das Convenções aprovadas, promulgadas e mandadas aplicar no Brasil, na forma prevista pela Constituição Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2063%20Os%20conflitos%20de%20leis%20em%20mat%C3%A9ria%20de%20cheques%20ser%C3%A3o%20resolvidos%20de%20acordo%20com%20as%20normas%20constantes%20das%20Conven%C3%A7%C3%B5es%20aprovadas%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI Dos Conflitos de Leis em Matéria de Cheques",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "62",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art . 64 A apresentação do cheque, o protesto ou a declaração equivalente só podem ser feitos ou exigidos em dia útil, durante o expediente dos estabelecimentos de crédito, câmaras de compensação e cartórios de protestos.\n\nParágrafo único. O cômputo dos prazos estabelecidos nesta Lei obedece às disposições do direito comum.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2064%20A%20apresenta%C3%A7%C3%A3o%20do%20cheque%2C%20o%20protesto%20ou%20a%20declara%C3%A7%C3%A3o%20equivalente%20s%C3%B3%20podem%20ser%20feitos%20ou%20exigidos%20em%20dia%20%C3%BAtil%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII Das Disposições Gerais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "63",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art . 65 Os efeitos penais da emissão do cheque sem suficiente provisão de fundos, da frustração do pagamento do cheque, da falsidade, da falsificação e da alteração do cheque continuam regidos pela legislação criminal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2065%20Os%20efeitos%20penais%20da%20emiss%C3%A3o%20do%20cheque%20sem%20suficiente%20provis%C3%A3o%20de%20fundos%2C%20da%20frustra%C3%A7%C3%A3o%20do%20pagamento%20do%20cheque%2C%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII Das Disposições Gerais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "64",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art . 66 Os vales ou cheques postais, os cheques de poupança ou assemelhados, e os cheques de viagem regem-se pelas disposições especiais a eles referentes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2066%20Os%20vales%20ou%20cheques%20postais%2C%20os%20cheques%20de%20poupan%C3%A7a%20ou%20assemelhados%2C%20e%20os%20cheques%20de%20viagem%20regem-se%20pelas%20disposi%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII Das Disposições Gerais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "65",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art . 67 A palavra ‘’banco’’, para os fins desta Lei, designa também a instituição financeira contra a qual a lei admita a emissão de cheque.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2067%20A%20palavra%20%E2%80%98%E2%80%99banco%E2%80%99%E2%80%99%2C%20para%20os%20fins%20desta%20Lei%2C%20designa%20tamb%C3%A9m%20a%20institui%C3%A7%C3%A3o%20financeira%20contra%20a%20qual%20a%20lei%20admita",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII Das Disposições Gerais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "66",
+      "next": "68"
+    },
+    "68": {
+      "numero": "68",
+      "texto": "Art . 68 Os bancos e casas bancárias poderão fazer prova aos seus depositantes dos cheques por estes sacados mediante apresentação de cópia fotográfica ou microfotográfica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2068%20Os%20bancos%20e%20casas%20banc%C3%A1rias%20poder%C3%A3o%20fazer%20prova%20aos%20seus%20depositantes%20dos%20cheques%20por%20estes%20sacados%20mediante%20apresenta%C3%A7%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII Das Disposições Gerais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "67",
+      "next": "69"
+    },
+    "69": {
+      "numero": "69",
+      "texto": "Art . 69 Fica ressalvada a competência do Conselho Monetário Nacional, nos termos e nos limites da legislação especifica, para expedir normas relativas à matéria bancária relacionada com o cheque.\n\nParágrafo único. É da competência do Conselho Monetário Nacional:\n\na) a determinação das normas a que devem obedecer as contas de depósito para que possam ser fornecidos os talões de cheques aos depositantes;\n\nb) a determinação das conseqüências do uso indevido do cheque, relativamente à conta do depositante;\n\nc) a disciplina das relações entre o sacado e o opoente, na hipótese do art. 36 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2069%20Fica%20ressalvada%20a%20compet%C3%AAncia%20do%20Conselho%20Monet%C3%A1rio%20Nacional%2C%20nos%20termos%20e%20nos%20limites%20da%20legisla%C3%A7%C3%A3o%20especifica%2C%20para%20expedir%20normas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII Das Disposições Gerais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "68",
+      "next": "70"
+    },
+    "70": {
+      "numero": "70",
+      "texto": "Art . 70 Esta Lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2070%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII Das Disposições Gerais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "69",
+      "next": "71"
+    },
+    "71": {
+      "numero": "71",
+      "texto": "Art . 71 Revogam-se as disposições em contrário.\n\nBrasília, em 02 de setembro de 1985; 164º da Independência e 97º da República.\n\nJOSÉ SARNEY Dilson Domingos Funaro\n\nEste texto não substitui o publicado no DOU de 3.9.1986\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm#:~:text=Art%20.%2071%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII Das Disposições Gerais",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "70",
+      "next": null
+    }
+  }
+}

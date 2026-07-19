@@ -1,0 +1,783 @@
+{
+  "_meta": {
+    "codigo": "L13140",
+    "nome": "Lei da Mediação",
+    "lei": "Lei 13.140/2015",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm",
+    "total_artigos": 48,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Esta Lei dispõe sobre a mediação como meio de solução de controvérsias entre particulares e sobre a autocomposição de conflitos no âmbito da administração pública.\n\nParágrafo único. Considera-se mediação a atividade técnica exercida por terceiro imparcial sem poder decisório, que, escolhido ou aceito pelas partes, as auxilia e estimula a identificar ou desenvolver soluções consensuais para a controvérsia.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%201%C2%BA%20Esta%20Lei%20disp%C3%B5e%20sobre%20a%20media%C3%A7%C3%A3o%20como%20meio%20de%20solu%C3%A7%C3%A3o%20de%20controv%C3%A9rsias%20entre%20particulares%20e%20sobre%20a%20autocomposi%C3%A7%C3%A3o%20de%20conflitos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º A mediação será orientada pelos seguintes princípios:\n\nI - imparcialidade do mediador;\n\nII - isonomia entre as partes;\n\nIII - oralidade;\n\nIV - informalidade;\n\nV - autonomia da vontade das partes;\n\nVI - busca do consenso;\n\nVII - confidencialidade;\n\nVIII - boa-fé.\n\n§ 1º Na hipótese de existir previsão contratual de cláusula de mediação, as partes deverão comparecer à primeira reunião de mediação.\n\n§ 2º Ninguém será obrigado a permanecer em procedimento de mediação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%202%C2%BA%20A%20media%C3%A7%C3%A3o%20ser%C3%A1%20orientada%20pelos%20seguintes%20princ%C3%ADpios%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Pode ser objeto de mediação o conflito que verse sobre direitos disponíveis ou sobre direitos indisponíveis que admitam transação.\n\n§ 1º A mediação pode versar sobre todo o conflito ou parte dele.\n\n§ 2º O consenso das partes envolvendo direitos indisponíveis, mas transigíveis, deve ser homologado em juízo, exigida a oitiva do Ministério Público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%203%C2%BA%20Pode%20ser%20objeto%20de%20media%C3%A7%C3%A3o%20o%20conflito%20que%20verse%20sobre%20direitos%20dispon%C3%ADveis%20ou%20sobre%20direitos%20indispon%C3%ADveis%20que%20admitam%20transa%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º O mediador será designado pelo tribunal ou escolhido pelas partes.\n\n§ 1º O mediador conduzirá o procedimento de comunicação entre as partes, buscando o entendimento e o consenso e facilitando a resolução do conflito.\n\n§ 2º Aos necessitados será assegurada a gratuidade da mediação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%204%C2%BA%20O%20mediador%20ser%C3%A1%20designado%20pelo%20tribunal%20ou%20escolhido%20pelas%20partes.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Aplicam-se ao mediador as mesmas hipóteses legais de impedimento e suspeição do juiz.\n\nParágrafo único. A pessoa designada para atuar como mediador tem o dever de revelar às partes, antes da aceitação da função, qualquer fato ou circunstância que possa suscitar dúvida justificada em relação à sua imparcialidade para mediar o conflito, oportunidade em que poderá ser recusado por qualquer delas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%205%C2%BA%20Aplicam-se%20ao%20mediador%20as%20mesmas%20hip%C3%B3teses%20legais%20de%20impedimento%20e%20suspei%C3%A7%C3%A3o%20do%20juiz.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º O mediador fica impedido, pelo prazo de um ano, contado do término da última audiência em que atuou, de assessorar, representar ou patrocinar qualquer das partes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%206%C2%BA%20O%20mediador%20fica%20impedido%2C%20pelo%20prazo%20de%20um%20ano%2C%20contado%20do%20t%C3%A9rmino%20da%20%C3%BAltima%20audi%C3%AAncia%20em%20que%20atuou%2C%20de%20assessorar%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º O mediador não poderá atuar como árbitro nem funcionar como testemunha em processos judiciais ou arbitrais pertinentes a conflito em que tenha atuado como mediador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%207%C2%BA%20O%20mediador%20n%C3%A3o%20poder%C3%A1%20atuar%20como%20%C3%A1rbitro%20nem%20funcionar%20como%20testemunha%20em%20processos%20judiciais%20ou%20arbitrais%20pertinentes%20a%20conflito%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º O mediador e todos aqueles que o assessoram no procedimento de mediação, quando no exercício de suas funções ou em razão delas, são equiparados a servidor público, para os efeitos da legislação penal.\n\nSubseção II\n\nDos Mediadores Extrajudiciais",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%208%C2%BA%20O%20mediador%20e%20todos%20aqueles%20que%20o%20assessoram%20no%20procedimento%20de%20media%C3%A7%C3%A3o%2C%20quando%20no%20exerc%C3%ADcio%20de%20suas%20fun%C3%A7%C3%B5es%20ou%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Poderá funcionar como mediador extrajudicial qualquer pessoa capaz que tenha a confiança das partes e seja capacitada para fazer mediação, independentemente de integrar qualquer tipo de conselho, entidade de classe ou associação, ou nele inscrever-se.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%209%C2%BA%20Poder%C3%A1%20funcionar%20como%20mediador%20extrajudicial%20qualquer%20pessoa%20capaz%20que%20tenha%20a%20confian%C3%A7a%20das%20partes%20e%20seja%20capacitada%20para%20fazer%20media%C3%A7%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. As partes poderão ser assistidas por advogados ou defensores públicos.\n\nParágrafo único. Comparecendo uma das partes acompanhada de advogado ou defensor público, o mediador suspenderá o procedimento, até que todas estejam devidamente assistidas.\n\nSubseção III\n\nDos Mediadores Judiciais",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2010.%20As%20partes%20poder%C3%A3o%20ser%20assistidas%20por%20advogados%20ou%20defensores%20p%C3%BAblicos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Poderá atuar como mediador judicial a pessoa capaz, graduada há pelo menos dois anos em curso de ensino superior de instituição reconhecida pelo Ministério da Educação e que tenha obtido capacitação em escola ou instituição de formação de mediadores, reconhecida pela Escola Nacional de Formação e Aperfeiçoamento de Magistrados - ENFAM ou pelos tribunais, observados os requisitos mínimos estabelecidos pelo Conselho Nacional de Justiça em conjunto com o Ministério da Justiça.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2011.%20Poder%C3%A1%20atuar%20como%20mediador%20judicial%20a%20pessoa%20capaz%2C%20graduada%20h%C3%A1%20pelo%20menos%20dois%20anos%20em%20curso%20de%20ensino%20superior%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Os tribunais criarão e manterão cadastros atualizados dos mediadores habilitados e autorizados a atuar em mediação judicial.\n\n§ 1º A inscrição no cadastro de mediadores judiciais será requerida pelo interessado ao tribunal com jurisdição na área em que pretenda exercer a mediação.\n\n§ 2º Os tribunais regulamentarão o processo de inscrição e desligamento de seus mediadores.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2012.%20Os%20tribunais%20criar%C3%A3o%20e%20manter%C3%A3o%20cadastros%20atualizados%20dos%20mediadores%20habilitados%20e%20autorizados%20a%20atuar%20em%20media%C3%A7%C3%A3o%20judicial.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. A remuneração devida aos mediadores judiciais será fixada pelos tribunais e custeada pelas partes, observado o disposto no § 2º do art. 4º desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2013.%20A%20remunera%C3%A7%C3%A3o%20devida%20aos%20mediadores%20judiciais%20ser%C3%A1%20fixada%20pelos%20tribunais%20e%20custeada%20pelas%20partes%2C%20observado%20o%20disposto%20no%20%C2%A7%202%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. No início da primeira reunião de mediação, e sempre que julgar necessário, o mediador deverá alertar as partes acerca das regras de confidencialidade aplicáveis ao procedimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2014.%20No%20in%C3%ADcio%20da%20primeira%20reuni%C3%A3o%20de%20media%C3%A7%C3%A3o%2C%20e%20sempre%20que%20julgar%20necess%C3%A1rio%2C%20o%20mediador%20dever%C3%A1%20alertar%20as%20partes%20acerca%20das",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. A requerimento das partes ou do mediador, e com anuência daquelas, poderão ser admitidos outros mediadores para funcionarem no mesmo procedimento, quando isso for recomendável em razão da natureza e da complexidade do conflito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2015.%20A%20requerimento%20das%20partes%20ou%20do%20mediador%2C%20e%20com%20anu%C3%AAncia%20daquelas%2C%20poder%C3%A3o%20ser%20admitidos%20outros%20mediadores%20para%20funcionarem%20no%20mesmo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Ainda que haja processo arbitral ou judicial em curso, as partes poderão submeter-se à mediação, hipótese em que requererão ao juiz ou árbitro a suspensão do processo por prazo suficiente para a solução consensual do litígio.\n\n§ 1º É irrecorrível a decisão que suspende o processo nos termos requeridos de comum acordo pelas partes.\n\n§ 2º A suspensão do processo não obsta a concessão de medidas de urgência pelo juiz ou pelo árbitro.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2016.%20Ainda%20que%20haja%20processo%20arbitral%20ou%20judicial%20em%20curso%2C%20as%20partes%20poder%C3%A3o%20submeter-se%20%C3%A0%20media%C3%A7%C3%A3o%2C%20hip%C3%B3tese%20em%20que%20requerer%C3%A3o%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Considera-se instituída a mediação na data para a qual for marcada a primeira reunião de mediação.\n\nParágrafo único. Enquanto transcorrer o procedimento de mediação, ficará suspenso o prazo prescricional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2017.%20Considera-se%20institu%C3%ADda%20a%20media%C3%A7%C3%A3o%20na%20data%20para%20a%20qual%20for%20marcada%20a%20primeira%20reuni%C3%A3o%20de%20media%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Iniciada a mediação, as reuniões posteriores com a presença das partes somente poderão ser marcadas com a sua anuência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2018.%20Iniciada%20a%20media%C3%A7%C3%A3o%2C%20as%20reuni%C3%B5es%20posteriores%20com%20a%20presen%C3%A7a%20das%20partes%20somente%20poder%C3%A3o%20ser%20marcadas%20com%20a%20sua%20anu%C3%AAncia.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. No desempenho de sua função, o mediador poderá reunir-se com as partes, em conjunto ou separadamente, bem como solicitar das partes as informações que entender necessárias para facilitar o entendimento entre aquelas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2019.%20No%20desempenho%20de%20sua%20fun%C3%A7%C3%A3o%2C%20o%20mediador%20poder%C3%A1%20reunir-se%20com%20as%20partes%2C%20em%20conjunto%20ou%20separadamente%2C%20bem%20como%20solicitar%20das",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. O procedimento de mediação será encerrado com a lavratura do seu termo final, quando for celebrado acordo ou quando não se justificarem novos esforços para a obtenção de consenso, seja por declaração do mediador nesse sentido ou por manifestação de qualquer das partes.\n\nParágrafo único. O termo final de mediação, na hipótese de celebração de acordo, constitui título executivo extrajudicial e, quando homologado judicialmente, título executivo judicial.\n\nSubseção II\n\nDa Mediação Extrajudicial",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2020.%20O%20procedimento%20de%20media%C3%A7%C3%A3o%20ser%C3%A1%20encerrado%20com%20a%20lavratura%20do%20seu%20termo%20final%2C%20quando%20for%20celebrado%20acordo%20ou%20quando%20n%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. O convite para iniciar o procedimento de mediação extrajudicial poderá ser feito por qualquer meio de comunicação e deverá estipular o escopo proposto para a negociação, a data e o local da primeira reunião.\n\nParágrafo único. O convite formulado por uma parte à outra considerar-se-á rejeitado se não for respondido em até trinta dias da data de seu recebimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2021.%20O%20convite%20para%20iniciar%20o%20procedimento%20de%20media%C3%A7%C3%A3o%20extrajudicial%20poder%C3%A1%20ser%20feito%20por%20qualquer%20meio%20de%20comunica%C3%A7%C3%A3o%20e%20dever%C3%A1%20estipular",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. A previsão contratual de mediação deverá conter, no mínimo:\n\nI - prazo mínimo e máximo para a realização da primeira reunião de mediação, contado a partir da data de recebimento do convite;\n\nII - local da primeira reunião de mediação;\n\nIII - critérios de escolha do mediador ou equipe de mediação;\n\nIV - penalidade em caso de não comparecimento da parte convidada à primeira reunião de mediação.\n\n§ 1º A previsão contratual pode substituir a especificação dos itens acima enumerados pela indicação de regulamento, publicado por instituição idônea prestadora de serviços de mediação, no qual constem critérios claros para a escolha do mediador e realização da primeira reunião de mediação.\n\n§ 2º Não havendo previsão contratual completa, deverão ser observados os seguintes critérios para a realização da primeira reunião de mediação:\n\nI - prazo mínimo de dez dias úteis e prazo máximo de três meses, contados a partir do recebimento do convite;\n\nII - local adequado a uma reunião que possa envolver informações confidenciais;\n\nIII - lista de cinco nomes, informações de contato e referências profissionais de mediadores capacitados; a parte convidada poderá escolher, expressamente, qualquer um dos cinco mediadores e, caso a parte convidada não se manifeste, considerar-se-á aceito o primeiro nome da lista;\n\nIV - o não comparecimento da parte convidada à primeira reunião de mediação acarretará a assunção por parte desta de cinquenta por cento das custas e honorários sucumbenciais caso venha a ser vencedora em procedimento arbitral ou judicial posterior, que envolva o escopo da mediação para a qual foi convidada.\n\n§ 3º Nos litígios decorrentes de contratos comerciais ou societários que não contenham cláusula de mediação, o mediador extrajudicial somente cobrará por seus serviços caso as partes decidam assinar o termo inicial de mediação e permanecer, voluntariamente, no procedimento de mediação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2022.%20A%20previs%C3%A3o%20contratual%20de%20media%C3%A7%C3%A3o%20dever%C3%A1%20conter%2C%20no%20m%C3%ADnimo%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Se, em previsão contratual de cláusula de mediação, as partes se comprometerem a não iniciar procedimento arbitral ou processo judicial durante certo prazo ou até o implemento de determinada condição, o árbitro ou o juiz suspenderá o curso da arbitragem ou da ação pelo prazo previamente acordado ou até o implemento dessa condição.\n\nParágrafo único. O disposto no caput não se aplica às medidas de urgência em que o acesso ao Poder Judiciário seja necessário para evitar o perecimento de direito.\n\nSubseção III\n\nDa Mediaçã o Judicial",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2023.%20Se%2C%20em%20previs%C3%A3o%20contratual%20de%20cl%C3%A1usula%20de%20media%C3%A7%C3%A3o%2C%20as%20partes%20se%20comprometerem%20a%20n%C3%A3o%20iniciar%20procedimento%20arbitral%20ou%20processo%20judicial",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Os tribunais criarão centros judiciários de solução consensual de conflitos, responsáveis pela realização de sessões e audiências de conciliação e mediação, pré-processuais e processuais, e pelo desenvolvimento de programas destinados a auxiliar, orientar e estimular a autocomposição.\n\nParágrafo único. A composição e a organização do centro serão definidas pelo respectivo tribunal, observadas as normas do Conselho Nacional de Justiça.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2024.%20Os%20tribunais%20criar%C3%A3o%20centros%20judici%C3%A1rios%20de%20solu%C3%A7%C3%A3o%20consensual%20de%20conflitos%2C%20respons%C3%A1veis%20pela%20realiza%C3%A7%C3%A3o%20de%20sess%C3%B5es%20e%20audi%C3%AAncias%20de%20concilia%C3%A7%C3%A3o%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Na mediação judicial, os mediadores não estarão sujeitos à prévia aceitação das partes, observado o disposto no art. 5º desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2025.%20Na%20media%C3%A7%C3%A3o%20judicial%2C%20os%20mediadores%20n%C3%A3o%20estar%C3%A3o%20sujeitos%20%C3%A0%20pr%C3%A9via%20aceita%C3%A7%C3%A3o%20das%20partes%2C%20observado%20o%20disposto%20no%20art.%205%C2%BA%20desta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. As partes deverão ser assistidas por advogados ou defensores públicos, ressalvadas as hipóteses previstas nas Leis n º 9.099, de 26 de setembro de 1995 , e 10.259, de 12 de julho de 2001 .\n\nParágrafo único. Aos que comprovarem insuficiência de recursos será assegurada assistência pela Defensoria Pública.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2026.%20As%20partes%20dever%C3%A3o%20ser%20assistidas%20por%20advogados%20ou%20defensores%20p%C3%BAblicos%2C%20ressalvadas%20as%20hip%C3%B3teses%20previstas%20nas%20Leis%20n%20%C2%BA%209.099%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Se a petição inicial preencher os requisitos essenciais e não for o caso de improcedência liminar do pedido, o juiz designará audiência de mediação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2027.%20Se%20a%20peti%C3%A7%C3%A3o%20inicial%20preencher%20os%20requisitos%20essenciais%20e%20n%C3%A3o%20for%20o%20caso%20de%20improced%C3%AAncia%20liminar%20do%20pedido%2C%20o%20juiz",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. O procedimento de mediação judicial deverá ser concluído em até sessenta dias, contados da primeira sessão, salvo quando as partes, de comum acordo, requererem sua prorrogação.\n\nParágrafo único. Se houver acordo, os autos serão encaminhados ao juiz, que determinará o arquivamento do processo e, desde que requerido pelas partes, homologará o acordo, por sentença, e o termo final da mediação e determinará o arquivamento do processo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2028.%20O%20procedimento%20de%20media%C3%A7%C3%A3o%20judicial%20dever%C3%A1%20ser%20conclu%C3%ADdo%20em%20at%C3%A9%20sessenta%20dias%2C%20contados%20da%20primeira%20sess%C3%A3o%2C%20salvo%20quando%20as%20partes%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Solucionado o conflito pela mediação antes da citação do réu, não serão devidas custas judiciais finais.\n\nS eção IV\n\nDa Confi dencialidade e suas Exceções",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2029.%20Solucionado%20o%20conflito%20pela%20media%C3%A7%C3%A3o%20antes%20da%20cita%C3%A7%C3%A3o%20do%20r%C3%A9u%2C%20n%C3%A3o%20ser%C3%A3o%20devidas%20custas%20judiciais%20finais.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Toda e qualquer informação relativa ao procedimento de mediação será confidencial em relação a terceiros, não podendo ser revelada sequer em processo arbitral ou judicial salvo se as partes expressamente decidirem de forma diversa ou quando sua divulgação for exigida por lei ou necessária para cumprimento de acordo obtido pela mediação.\n\n§ 1º O dever de confidencialidade aplica-se ao mediador, às partes, a seus prepostos, advogados, assessores técnicos e a outras pessoas de sua confiança que tenham, direta ou indiretamente, participado do procedimento de mediação, alcançando:\n\nI - declaração, opinião, sugestão, promessa ou proposta formulada por uma parte à outra na busca de entendimento para o conflito;\n\nII - reconhecimento de fato por qualquer das partes no curso do procedimento de mediação;\n\nIII - manifestação de aceitação de proposta de acordo apresentada pelo mediador;\n\nIV - documento preparado unicamente para os fins do procedimento de mediação.\n\n§ 2º A prova apresentada em desacordo com o disposto neste artigo não será admitida em processo arbitral ou judicial.\n\n§ 3º Não está abrigada pela regra de confidencialidade a informação relativa à ocorrência de crime de ação pública.\n\n§ 4º A regra da confidencialidade não afasta o dever de as pessoas discriminadas no caput prestarem informações à administração tributária após o termo final da mediação, aplicando-se aos seus servidores a obrigação de manterem sigilo das informações compartilhadas nos termos do art. 198 da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2030.%20Toda%20e%20qualquer%20informa%C3%A7%C3%A3o%20relativa%20ao%20procedimento%20de%20media%C3%A7%C3%A3o%20ser%C3%A1%20confidencial%20em%20rela%C3%A7%C3%A3o%20a%20terceiros%2C%20n%C3%A3o%20podendo%20ser%20revelada%20sequer",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Será confidencial a informação prestada por uma parte em sessão privada, não podendo o mediador revelá-la às demais, exceto se expressamente autorizado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2031.%20Ser%C3%A1%20confidencial%20a%20informa%C3%A7%C3%A3o%20prestada%20por%20uma%20parte%20em%20sess%C3%A3o%20privada%2C%20n%C3%A3o%20podendo%20o%20mediador%20revel%C3%A1-la%20%C3%A0s%20demais%2C%20exceto%20se",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. A União, os Estados, o Distrito Federal e os Municípios poderão criar câmaras de prevenção e resolução administrativa de conflitos, no âmbito dos respectivos órgãos da Advocacia Pública, onde houver, com competência para:\n\nI - dirimir conflitos entre órgãos e entidades da administração pública;\n\nII - avaliar a admissibilidade dos pedidos de resolução de conflitos, por meio de composição, no caso de controvérsia entre particular e pessoa jurídica de direito público;\n\nIII - promover, quando couber, a celebração de termo de ajustamento de conduta.\n\n§ 1º O modo de composição e funcionamento das câmaras de que trata o caput será estabelecido em regulamento de cada ente federado.\n\n§ 2º A submissão do conflito às câmaras de que trata o caput é facultativa e será cabível apenas nos casos previstos no regulamento do respectivo ente federado.\n\n§ 3º Se houver consenso entre as partes, o acordo será reduzido a termo e constituirá título executivo extrajudicial.\n\n§ 4º Não se incluem na competência dos órgãos mencionados no caput deste artigo as controvérsias que somente possam ser resolvidas por atos ou concessão de direitos sujeitos a autorização do Poder Legislativo.\n\n§ 5º Compreendem-se na competência das câmaras de que trata o caput a prevenção e a resolução de conflitos que envolvam equilíbrio econômico-financeiro de contratos celebrados pela administração com particulares.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2032.%20A%20Uni%C3%A3o%2C%20os%20Estados%2C%20o%20Distrito%20Federal%20e%20os%20Munic%C3%ADpios%20poder%C3%A3o%20criar%20c%C3%A2maras%20de%20preven%C3%A7%C3%A3o%20e%20resolu%C3%A7%C3%A3o%20administrativa%20de%20conflitos%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Enquanto não forem criadas as câmaras de mediação, os conflitos poderão ser dirimidos nos termos do procedimento de mediação previsto na Subseção I da Seção III do Capítulo I desta Lei.\n\nParágrafo único. A Advocacia Pública da União, dos Estados, do Distrito Federal e dos Municípios, onde houver, poderá instaurar, de ofício ou mediante provocação, procedimento de mediação coletiva de conflitos relacionados à prestação de serviços públicos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2033.%20Enquanto%20n%C3%A3o%20forem%20criadas%20as%20c%C3%A2maras%20de%20media%C3%A7%C3%A3o%2C%20os%20conflitos%20poder%C3%A3o%20ser%20dirimidos%20nos%20termos%20do%20procedimento%20de%20media%C3%A7%C3%A3o%20previsto",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. A instauração de procedimento administrativo para a resolução consensual de conflito no âmbito da administração pública suspende a prescrição.\n\n§ 1º Considera-se instaurado o procedimento quando o órgão ou entidade pública emitir juízo de admissibilidade, retroagindo a suspensão da prescrição à data de formalização do pedido de resolução consensual do conflito.\n\n§ 2º Em se tratando de matéria tributária, a suspensão da prescrição deverá observar o disposto na Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2034.%20A%20instaura%C3%A7%C3%A3o%20de%20procedimento%20administrativo%20para%20a%20resolu%C3%A7%C3%A3o%20consensual%20de%20conflito%20no%20%C3%A2mbito%20da%20administra%C3%A7%C3%A3o%20p%C3%BAblica%20suspende%20a%20prescri%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. As controvérsias jurídicas que envolvam a administração pública federal direta, suas autarquias e fundações poderão ser objeto de transação por adesão, com fundamento em:\n\nI - autorização do Advogado-Geral da União, com base na jurisprudência pacífica do Supremo Tribunal Federal ou de tribunais superiores; ou\n\nII - parecer do Advogado-Geral da União, aprovado pelo Presidente da República.\n\n§ 1º Os requisitos e as condições da transação por adesão serão definidos em resolução administrativa própria.\n\n§ 2º Ao fazer o pedido de adesão, o interessado deverá juntar prova de atendimento aos requisitos e às condições estabelecidos na resolução administrativa.\n\n§ 3º A resolução administrativa terá efeitos gerais e será aplicada aos casos idênticos, tempestivamente habilitados mediante pedido de adesão, ainda que solucione apenas parte da controvérsia.\n\n§ 4º A adesão implicará renúncia do interessado ao direito sobre o qual se fundamenta a ação ou o recurso, eventualmente pendentes, de natureza administrativa ou judicial, no que tange aos pontos compreendidos pelo objeto da resolução administrativa.\n\n§ 5º Se o interessado for parte em processo judicial inaugurado por ação coletiva, a renúncia ao direito sobre o qual se fundamenta a ação deverá ser expressa, mediante petição dirigida ao juiz da causa.\n\n§ 6º A formalização de resolução administrativa destinada à transação por adesão não implica a renúncia tácita à prescrição nem sua interrupção ou suspensão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2035.%20As%20controv%C3%A9rsias%20jur%C3%ADdicas%20que%20envolvam%20a%20administra%C3%A7%C3%A3o%20p%C3%BAblica%20federal%20direta%2C%20suas%20autarquias%20e%20funda%C3%A7%C3%B5es%20poder%C3%A3o%20ser%20objeto%20de%20transa%C3%A7%C3%A3o%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. No caso de conflitos que envolvam controvérsia jurídica entre órgãos ou entidades de direito público que integram a administração pública federal, a Advocacia-Geral da União deverá realizar composição extrajudicial do conflito, observados os procedimentos previstos em ato do Advogado-Geral da União.\n\n§ 1º Na hipótese do caput , se não houver acordo quanto à controvérsia jurídica, caberá ao Advogado-Geral da União dirimi-la, com fundamento na legislação afeta.\n\n§ 2º Nos casos em que a resolução da controvérsia implicar o reconhecimento da existência de créditos da União, de suas autarquias e fundações em face de pessoas jurídicas de direito público federais, a Advocacia-Geral da União poderá solicitar ao Ministério do Planejamento, Orçamento e Gestão a adequação orçamentária para quitação das dívidas reconhecidas como legítimas.\n\n§ 3º A composição extrajudicial do conflito não afasta a apuração de responsabilidade do agente público que deu causa à dívida, sempre que se verificar que sua ação ou omissão constitui, em tese, infração disciplinar.\n\n§ 4º Nas hipóteses em que a matéria objeto do litígio esteja sendo discutida em ação de improbidade administrativa ou sobre ela haja decisão do Tribunal de Contas da União, a conciliação de que trata o caput dependerá da anuência expressa do juiz da causa ou do Ministro Relator.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2036.%20No%20caso%20de%20conflitos%20que%20envolvam%20controv%C3%A9rsia%20jur%C3%ADdica%20entre%20%C3%B3rg%C3%A3os%20ou%20entidades%20de%20direito%20p%C3%BAblico%20que%20integram%20a%20administra%C3%A7%C3%A3o%20p%C3%BAblica",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. É facultado aos Estados, ao Distrito Federal e aos Municípios, suas autarquias e fundações públicas, bem como às empresas públicas e sociedades de economia mista federais, submeter seus litígios com órgãos ou entidades da administração pública federal à Advocacia-Geral da União, para fins de composição extrajudicial do conflito.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2037.%20%C3%89%20facultado%20aos%20Estados%2C%20ao%20Distrito%20Federal%20e%20aos%20Munic%C3%ADpios%2C%20suas%20autarquias%20e%20funda%C3%A7%C3%B5es%20p%C3%BAblicas%2C%20bem%20como%20%C3%A0s%20empresas%20p%C3%BAblicas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Nos casos em que a controvérsia jurídica seja relativa a tributos administrados pela Secretaria da Receita Federal do Brasil ou a créditos inscritos em dívida ativa da União:\n\nI - não se aplicam as disposições dos incisos II e III do caput do art. 32;\n\nII - as empresas públicas, sociedades de economia mista e suas subsidiárias que explorem atividade econômica de produção ou comercialização de bens ou de prestação de serviços em regime de concorrência não poderão exercer a faculdade prevista no art. 37;\n\nIII - quando forem partes as pessoas a que alude o caput do art. 36:\n\na) a submissão do conflito à composição extrajudicial pela Advocacia-Geral da União implica renúncia do direito de recorrer ao Conselho Administrativo de Recursos Fiscais;\n\nb) a redução ou o cancelamento do crédito dependerá de manifestação conjunta do Advogado-Geral da União e do Ministro de Estado da Fazenda.\n\nParágrafo único. O disposto no inciso II e na alínea a do inciso III não afasta a competência do Advogado-Geral da União prevista nos incisos X e XI do art. 4º da Lei Complementar nº 73, de 10 de fevereiro de 1993 .\n\nParágrafo único. O disposto neste artigo não afasta a competência do Advogado-Geral da União prevista nos incisos VI , X e XI do art. 4º da Lei Complementar nº 73, de 10 de fevereiro de 1993 , e na Lei nº 9.469, de 10 de julho de 1997 . (Redação dada pela Lei nº 13.327, de 2016) (Produção de efeito)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2038.%20Nos%20casos%20em%20que%20a%20controv%C3%A9rsia%20jur%C3%ADdica%20seja%20relativa%20a%20tributos%20administrados%20pela%20Secretaria%20da%20Receita%20Federal%20do%20Brasil%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. A propositura de ação judicial em que figurem concomitantemente nos polos ativo e passivo órgãos ou entidades de direito público que integrem a administração pública federal deverá ser previamente autorizada pelo Advogado-Geral da União.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2039.%20A%20propositura%20de%20a%C3%A7%C3%A3o%20judicial%20em%20que%20figurem%20concomitantemente%20nos%20polos%20ativo%20e%20passivo%20%C3%B3rg%C3%A3os%20ou%20entidades%20de%20direito%20p%C3%BAblico",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. Os servidores e empregados públicos que participarem do processo de composição extrajudicial do conflito, somente poderão ser responsabilizados civil, administrativa ou criminalmente quando, mediante dolo ou fraude, receberem qualquer vantagem patrimonial indevida, permitirem ou facilitarem sua recepção por terceiro, ou para tal concorrerem.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2040.%20Os%20servidores%20e%20empregados%20p%C3%BAblicos%20que%20participarem%20do%20processo%20de%20composi%C3%A7%C3%A3o%20extrajudicial%20do%20conflito%2C%20somente%20poder%C3%A3o%20ser%20responsabilizados%20civil%2C%20administrativa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. A Escola Nacional de Mediação e Conciliação, no âmbito do Ministério da Justiça, poderá criar banco de dados sobre boas práticas em mediação, bem como manter relação de mediadores e de instituições de mediação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2041.%20A%20Escola%20Nacional%20de%20Media%C3%A7%C3%A3o%20e%20Concilia%C3%A7%C3%A3o%2C%20no%20%C3%A2mbito%20do%20Minist%C3%A9rio%20da%20Justi%C3%A7a%2C%20poder%C3%A1%20criar%20banco%20de%20dados%20sobre%20boas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. Aplica-se esta Lei, no que couber, às outras formas consensuais de resolução de conflitos, tais como mediações comunitárias e escolares, e àquelas levadas a efeito nas serventias extrajudiciais, desde que no âmbito de suas competências.\n\nParágrafo único. A mediação nas relações de trabalho será regulada por lei própria.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2042.%20Aplica-se%20esta%20Lei%2C%20no%20que%20couber%2C%20%C3%A0s%20outras%20formas%20consensuais%20de%20resolu%C3%A7%C3%A3o%20de%20conflitos%2C%20tais%20como%20media%C3%A7%C3%B5es%20comunit%C3%A1rias%20e%20escolares%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. Os órgãos e entidades da administração pública poderão criar câmaras para a resolução de conflitos entre particulares, que versem sobre atividades por eles reguladas ou supervisionadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2043.%20Os%20%C3%B3rg%C3%A3os%20e%20entidades%20da%20administra%C3%A7%C3%A3o%20p%C3%BAblica%20poder%C3%A3o%20criar%20c%C3%A2maras%20para%20a%20resolu%C3%A7%C3%A3o%20de%20conflitos%20entre%20particulares%2C%20que%20versem%20sobre",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. Os arts. 1º e 2º da Lei nº 9.469, de 10 de julho de 1997 , passam a vigorar com a seguinte redação:\n\n“Art. 1º O Advogado-Geral da União, diretamente ou mediante delegação, e os dirigentes máximos das empresas públicas federais, em conjunto com o dirigente estatutário da área afeta ao assunto, poderão autorizar a realização de acordos ou transações para prevenir ou terminar litígios, inclusive os judiciais.\n\n§ 1º Poderão ser criadas câmaras especializadas, compostas por servidores públicos ou empregados públicos efetivos, com o objetivo de analisar e formular propostas de acordos ou transações.\n\n§ 3º Regulamento disporá sobre a forma de composição das câmaras de que trata o § 1º, que deverão ter como integrante pelo menos um membro efetivo da Advocacia-Geral da União ou, no caso das empresas públicas, um assistente jurídico ou ocupante de função equivalente.\n\n§ 4º Quando o litígio envolver valores superiores aos fixados em regulamento, o acordo ou a transação, sob pena de nulidade, dependerá de prévia e expressa autorização do Advogado-Geral da União e do Ministro de Estado a cuja área de competência estiver afeto o assunto, ou ainda do Presidente da Câmara dos Deputados, do Senado Federal, do Tribunal de Contas da União, de Tribunal ou Conselho, ou do Procurador-Geral da República, no caso de interesse dos órgãos dos Poderes Legislativo e Judiciário ou do Ministério Público da União, excluídas as empresas públicas federais não dependentes, que necessitarão apenas de prévia e expressa autorização dos dirigentes de que trata o caput .\n\n§ 5º Na transação ou acordo celebrado diretamente pela parte ou por intermédio de procurador para extinguir ou encerrar processo judicial, inclusive os casos de extensão administrativa de pagamentos postulados em juízo, as partes poderão definir a responsabilidade de cada uma pelo pagamento dos honorários dos respectivos advogados.” (NR)\n\n“Art. 2º O Procurador-Geral da União, o Procurador-Geral Federal, o Procurador-Geral do Banco Central do Brasil e os dirigentes das empresas públicas federais mencionadas no caput do art. 1º poderão autorizar, diretamente ou mediante delegação, a realização de acordos para prevenir ou terminar, judicial ou extrajudicialmente, litígio que envolver valores inferiores aos fixados em regulamento.\n\n§ 1º No caso das empresas públicas federais, a delegação é restrita a órgão colegiado formalmente constituído, composto por pelo menos um dirigente estatutário.\n\n§ 2º O acordo de que trata o caput poderá consistir no pagamento do débito em parcelas mensais e sucessivas, até o limite máximo de sessenta.\n\n§ 3º O valor de cada prestação mensal, por ocasião do pagamento, será acrescido de juros equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia - SELIC para títulos federais, acumulada mensalmente, calculados a partir do mês subsequente ao da consolidação até o mês anterior ao do pagamento e de um por cento relativamente ao mês em que o pagamento estiver sendo efetuado.\n\n§ 4º Inadimplida qualquer parcela, após trinta dias, instaurar-se-á o processo de execução ou nele prosseguir-se-á, pelo saldo.” (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2044.%20Os%20arts.%201%C2%BA%20e%202%C2%BA%20da%20Lei%20n%C2%BA%209.469%2C%20de%2010%20de%20julho%20de%201997%20%2C%20passam%20a%20vigorar%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. O Decreto nº 70.235, de 6 de março de 1972 , passa a vigorar acrescido do seguinte art. 14-A:\n\n“Art. 14-A. No caso de determinação e exigência de créditos tributários da União cujo sujeito passivo seja órgão ou entidade de direito público da administração pública federal, a submissão do litígio à composição extrajudicial pela Advocacia-Geral da União é considerada reclamação, para fins do disposto no inciso III do art. 151 da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional.”",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2045.%20O%20Decreto%20n%C2%BA%2070.235%2C%20de%206%20de%20mar%C3%A7o%20de%201972%20%2C%20passa%20a%20vigorar%20acrescido%20do%20seguinte%20art.%2014-A%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. A mediação poderá ser feita pela internet ou por outro meio de comunicação que permita a transação à distância, desde que as partes estejam de acordo.\n\nParágrafo único. É facultado à parte domiciliada no exterior submeter-se à mediação segundo as regras estabelecidas nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2046.%20A%20media%C3%A7%C3%A3o%20poder%C3%A1%20ser%20feita%20pela%20internet%20ou%20por%20outro%20meio%20de%20comunica%C3%A7%C3%A3o%20que%20permita%20a%20transa%C3%A7%C3%A3o%20%C3%A0%20dist%C3%A2ncia%2C%20desde",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Esta Lei entra em vigor após decorridos cento e oitenta dias de sua publicação oficial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2047.%20Esta%20Lei%20entra%20em%20vigor%20ap%C3%B3s%20decorridos%20cento%20e%20oitenta%20dias%20de%20sua%20publica%C3%A7%C3%A3o%20oficial.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. Revoga-se o § 2º do art. 6º da Lei nº 9.469, de 10 de julho de 1997 .\n\nBrasília, 26 de junho de 2015; 194º da Independência e 127º da República.\n\nDILMA ROUSSEFF José Eduardo Cardozo Joaquim Vieira Ferreira Levy Nelson Barbosa Luís Inácio Lucena Adams\n\nEste texto não substitui o publicado no DOU de 29.6.2015\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm#:~:text=Art.%2048.%20Revoga-se%20o%20%C2%A7%202%C2%BA%20do%20art.%206%C2%BA%20da%20Lei%20n%C2%BA%209.469%2C%20de%2010%20de%20julho%20de%201997%20.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": null
+    }
+  }
+}

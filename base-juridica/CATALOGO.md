@@ -26,19 +26,19 @@ python3 ferramentas/manutencao/auditar_base_juridica.py --json
 
 | Acervo | Arquivos principais | Quantidade observada | Tamanho ou cobertura |
 |---|---:|---:|---|
-| Legislação | 198 | 17.312 registros | 198 diplomas |
+| Legislação | 222 | 18.608 registros | 222 diplomas |
 | Súmulas | 3 | 1.475 registros | STJ, STF e vinculantes do STF |
 | Jurisprudência em Teses | 1 | 3.508 teses | 283 edições do STJ |
 | Temas repetitivos | 1 | 1.462 temas | STJ |
 | Índices auxiliares | 2 exclusivos + índices embutidos | derivados | palavras-chave e termos de busca |
-| Total em JSON | 205 | — | 34.600.070 bytes, cerca de 35 MB |
+| Total em JSON | 229 | — | 36.503.662 bytes, cerca de 37 MB |
 
 Os números acima foram contados diretamente nos JSONs. `gerado_em` e `generatedAt`
 indicam geração do arquivo, não garantem a data de vigência do conteúdo.
 
 ## Legislação
 
-Todos os 17.312 registros legislativos possuem URL individual. Os metadados apontam
+Todos os 18.608 registros legislativos possuem URL individual. Os metadados apontam
 para páginas compiladas do Planalto.
 
 | Código | Diploma | Gerado em | Registros | Índice | Situação estrutural |
@@ -119,9 +119,10 @@ protocolo comum. O inventário por diploma sai de
 | `esparsas_imobiliario_agrario` | 10 | 614 | 2026-07-19 |
 | `esparsas_administrativo` | 23 | 1.295 | 2026-07-19 |
 | `esparsas_processual_constitucional` | 19 | 501 | 2026-07-19 |
+| `esparsas_consumidor_bancario` | 24 | 1.296 | 2026-07-19 |
 
-Grupos pendentes de materialização: decretos (1) e as três fatias de esparsas
-por macro-área restantes (72 normas). O Código Comercial de 1850 foi movido
+Grupos pendentes de materialização: decretos (1) e as duas fatias de esparsas
+por macro-área restantes (48 normas). O Código Comercial de 1850 foi movido
 para o grupo `pendentes_especiais` sem materialização: a página compilada
 mistura duas numerações (o corpo do Código, arts. 1 a 913, e o Título Único da
 administração da justiça comercial, com arts. 1 a 30 próprios), e a captura por
@@ -163,10 +164,10 @@ texto integral.
 
 | Superfície | Cobertura observada |
 |---|---|
-| Arquivos disponíveis | 133 diplomas: núcleo (11), piloto (8), estatutos (17), trabalhista (27), codificadas (7), penal (17), tributário (16), previdenciário (12), cível/família (18), eleitoral (13), imobiliário/agrário (10), administrativo (23) e processual/constitucional (19); a lista completa está no registro do motor e no manifesto da expansão |
-| Códigos declarados no TypeScript | exatamente os 198 arquivos disponíveis (expansão gerada entre marcadores) |
-| Busca com código específico | aceita os 198 códigos; valor desconhecido produz erro legível |
-| Busca `todos` | os 198 códigos do registro central |
+| Arquivos disponíveis | 133 diplomas: núcleo (11), piloto (8), estatutos (17), trabalhista (27), codificadas (7), penal (17), tributário (16), previdenciário (12), cível/família (18), eleitoral (13), imobiliário/agrário (10), administrativo (23), processual/constitucional (19) e consumidor/bancário (24); a lista completa está no registro do motor e no manifesto da expansão |
+| Códigos declarados no TypeScript | exatamente os 222 arquivos disponíveis (expansão gerada entre marcadores) |
+| Busca com código específico | aceita os 222 códigos; valor desconhecido produz erro legível |
+| Busca `todos` | os 222 códigos do registro central |
 | Esquema MCP e sua documentação | gerados a partir do mesmo registro central |
 
 Desde a conclusão de `BASE-002` e `BASE-003`:
@@ -316,7 +317,7 @@ proveniência e efeito jurídico. O vocabulário e as regras estão documentados
   a referência pública e o processo futuro já estejam documentados;
 - os rótulos reduzem inferências indevidas, mas não substituem o exame do inteiro teor,
   da vigência, da situação atual e da aplicabilidade ao caso;
-- a avaliação de recuperação cobre 66 consultas controladas e seis famílias; ela é um
+- a avaliação de recuperação cobre 69 consultas controladas e seis famílias; ela é um
   gate de regressão, não uma estimativa exaustiva para qualquer consulta jurídica.
 
 As métricas e limitações estão em

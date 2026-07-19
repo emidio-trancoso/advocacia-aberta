@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "codigo": "L6099",
+    "nome": "Arrendamento Mercantil (Leasing)",
+    "lei": "Lei 6.099/1974",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm",
+    "total_artigos": 26,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art 1º O tratamento tributário das operações de arrendamento mercantil reger-se-á pelas disposições desta Lei.\n\nParágrafo único. Considera-se arrendamento mercantil a operação realizada entre pessoas jurídicas, que tenha por objeto o arrendamento de bens adquiridos a terceiros pela arrendadora, para fins de uso próprio da arrendatária e que atendam às especificações desta.\n\nParágrafo único - Considera-se arrendamento mercantil, para os efeitos desta Lei, o negócio jurídico realizado entre pessoa jurídica, na qualidade de arrendadora, e pessoa física ou jurídica, na qualidade de arrendatária, e que tenha por objeto o arrendamento de bens adquiridos pela arrendadora, segundo especificações da arrendatária e para uso próprio desta. (Redação dada pela Lei nº 7.132, de 1983)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%201%C2%BA%20O%20tratamento%20tribut%C3%A1rio%20das%20opera%C3%A7%C3%B5es%20de%20arrendamento%20mercantil%20reger-se-%C3%A1%20pelas%20disposi%C3%A7%C3%B5es%20desta%20Lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "1-A"
+    },
+    "1-A": {
+      "numero": "1-A",
+      "texto": "Art. 1o-A. Considera-se operação de crédito, independentemente da nomenclatura que lhes for atribuída, as operações de arrendamento cujo somatório das contraprestações perfaz mais de setenta e cinco por cento do custo do bem. (Incluído pela Medida Provisória nº 449, de 2008) (Vigência)\n\nParágrafo único. No porcentual do caput inclui-se o valor residual garantido que tenha sido antecipado. (Incluído pela Medida Provisória nº 449, de 2008) (Vigência)\n\nParágrafo único - Considera-se arrendamento mercantil, para os efeitos desta Lei, o negócio jurídico realizado entre pessoa jurídica, na qualidade de arrendadora, e pessoa física ou jurídica, na qualidade de arrendatária, e que tenha por objeto o arrendamento de bens adquiridos pela arrendadora, segundo especificações da arrendatária e para uso próprio desta. (Redação dada pela Lei nº 7.132, de 1983)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art.%201o-A.%20Considera-se%20opera%C3%A7%C3%A3o%20de%20cr%C3%A9dito%2C%20independentemente%20da%20nomenclatura%20que%20lhes%20for%20atribu%C3%ADda%2C%20as%20opera%C3%A7%C3%B5es%20de%20arrendamento%20cujo%20somat%C3%B3rio%20das%20contrapresta%C3%A7%C3%B5es%20perfaz",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art 2º Não terá o tratamento previsto nesta Lei o arrendamento de bens contratado entre pessoas jurídicas direta ou indiretamente coligadas ou interdependentes, assim como o contratado com o próprio fabricante.\n\n§ 1º O Conselho Monetário Nacional especificará em regulamento os casos de coligação e interdependência.\n\n§ 2º Somente farão jus ao tratamento previsto nesta Lei as operações realizadas ou por empresas arrendadoras que fizerem dessa operação o objeto principal de sua atividade ou que centralizarem tais operações em um departamento especializado com escrituração própria.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%202%C2%BA%20N%C3%A3o%20ter%C3%A1%20o%20tratamento%20previsto%20nesta%20Lei%20o%20arrendamento%20de%20bens%20contratado%20entre%20pessoas%20jur%C3%ADdicas%20direta%20ou%20indiretamente%20coligadas%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1-A",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art 3º Serão escriturados em conta especial do ativo imobilizado da arrendadora os bens destinados a arrendamento mercantil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%203%C2%BA%20Ser%C3%A3o%20escriturados%20em%20conta%20especial%20do%20ativo%20imobilizado%20da%20arrendadora%20os%20bens%20destinados%20a%20arrendamento%20mercantil.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art 4º A pessoa jurídica arrendadora manterá registro individualizado que permita a verificação do fator determinante da receita e do tempo efetivo de arrendamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%204%C2%BA%20A%20pessoa%20jur%C3%ADdica%20arrendadora%20manter%C3%A1%20registro%20individualizado%20que%20permita%20a%20verifica%C3%A7%C3%A3o%20do%20fator%20determinante%20da%20receita%20e%20do%20tempo%20efetivo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art 5º Os contratos de arrendamento mercantil conterão as seguintes disposições:\n\na) prazo do contrato;\n\nb) valor de cada contraprestação por períodos determinados, não superiores a um semestre;\n\nc) opção de compra ou renovação de contrato, como faculdade do arrendatário;\n\nd) preço para opção de compra ou critério para sua fixação, quando for estipulada esta cláusula.\n\nParágrafo único - Poderá o Conselho Monetário Nacional, nas operações que venha a definir, estabelecer que as contraprestações sejam estipuladas por períodos superiores aos previstos na alínea b deste artigo. (Parágrafo incluído pela Lei nº 7.132, de 1983)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%205%C2%BA%20Os%20contratos%20de%20arrendamento%20mercantil%20conter%C3%A3o%20as%20seguintes%20disposi%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art 6º O Conselho Monetário Nacional poderá estabelecer índices máximos para a soma das contraprestações, acrescida do preço para exercício da opção da compra nas operações de arrendamento mercantil.\n\n§ 1º Ficam sujeitas à regra deste artigo as prorrogações do arrendamento nele referido.\n\n§ 2º Os índices de que trata este artigo serão fixados: considerando o custo do arrendamento em relação ao do funcionamento da compra e venda.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%206%C2%BA%20O%20Conselho%20Monet%C3%A1rio%20Nacional%20poder%C3%A1%20estabelecer%20%C3%ADndices%20m%C3%A1ximos%20para%20a%20soma%20das%20contrapresta%C3%A7%C3%B5es%2C%20acrescida%20do%20pre%C3%A7o%20para%20exerc%C3%ADcio%20da%20op%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art 7º Todas as operações de arrendamento mercantil subordinam-se ao controle e fiscalização do Banco Central do Brasil, segundo normas estabelecidas pelo Conselho Monetário Nacional, a elas se aplicando, no que couber, as disposições da Lei número 4.595, de 31 de dezembro de 1964, e legislação posterior relativa ao Sistema Financeiro Nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%207%C2%BA%20Todas%20as%20opera%C3%A7%C3%B5es%20de%20arrendamento%20mercantil%20subordinam-se%20ao%20controle%20e%20fiscaliza%C3%A7%C3%A3o%20do%20Banco%20Central%20do%20Brasil%2C%20segundo%20normas%20estabelecidas%20pelo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art 8º O Conselho Monetário Nacional poderá baixar resolução disciplinando as condições segundo as quais as instituições financeiras poderão financiar suas coligadas ou interdependentes, que se especializarem em operações de arrendamento mercantil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%208%C2%BA%20O%20Conselho%20Monet%C3%A1rio%20Nacional%20poder%C3%A1%20baixar%20resolu%C3%A7%C3%A3o%20disciplinando%20as%20condi%C3%A7%C3%B5es%20segundo%20as%20quais%20as%20institui%C3%A7%C3%B5es%20financeiras%20poder%C3%A3o%20financiar%20suas%20coligadas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art 9º As operações de arrendamento mercantil contratadas com o próprio vendedor do bem ou com pessoas jurídicas a ele vinculadas, mediante qualquer das relações previstas no artigo 2º desta Lei, poderão enquadrar-se no tratamento tributário previsto nesta Lei.\n\n§ 1º Serão privativas das instituições financeiras as operações de que trata este artigo.\n\n§ 2º O Conselho Monetário Nacional estabelecerá às condições para a realização das operações previstas neste artigo.\n\n§ 3º Nos casos deste artigo, não se admitirá a dedução do prejuízo decorrente da venda dos bens, quando da apuração do lucro tributável pelo imposto de renda.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%209%C2%BA%20As%20opera%C3%A7%C3%B5es%20de%20arrendamento%20mercantil%20contratadas%20com%20o%20pr%C3%B3prio%20vendedor%20do%20bem%20ou%20com%20pessoas%20jur%C3%ADdicas%20a%20ele%20vinculadas%2C%20mediante",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art 10. Somente poderão ser objeto de arrendamento mercantil os bens de produção estrangeira que forem enumerados pelo Conselho Monetário Nacional, que poderá, também, estabelecer condições para seu arrendamento a empresas cujo controle acionário pertencer a pessoas residentes no exterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%2010.%20Somente%20poder%C3%A3o%20ser%20objeto%20de%20arrendamento%20mercantil%20os%20bens%20de%20produ%C3%A7%C3%A3o%20estrangeira%20que%20forem%20enumerados%20pelo%20Conselho%20Monet%C3%A1rio%20Nacional%2C%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art 11. Serão consideradas como custo ou despesa operacional da pessoa jurídica arrendatária as contraprestações pagas ou creditadas por força do contrato de arrendamento mercantil.\n\n§ 1º A aquisição pelo arrendatário de bens arrendados em desacordo com as disposições desta Lei, será considerada operação de compra e venda a prestação.\n\n§ 2º O preço de compra e venda, no caso do parágrafo anterior, será o total das contraprestações pagas durante a vigência do arrendamento, acrescido da parcela paga a título de preço de aquisição.\n\n§ 3º Na hipótese prevista no parágrafo primeiro deste artigo, as importâncias já deduzidas, como custo ou despesa operacional pela adquirente, acrescerão ao lucro tributável pelo imposto de renda, no exercício correspondente à respectiva dedução.\n\n§ 4º O imposto não recolhido na hipótese do parágrafo anterior, será devido com acréscimo de juros e correção monetária, multa e demais penalidades legais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%2011.%20Ser%C3%A3o%20consideradas%20como%20custo%20ou%20despesa%20operacional%20da%20pessoa%20jur%C3%ADdica%20arrendat%C3%A1ria%20as%20contrapresta%C3%A7%C3%B5es%20pagas%20ou%20creditadas%20por%20for%C3%A7a%20do%20contrato",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art 12. Serão admitidas como custos das pessoas jurídicas arrendadoras as cotas de depreciação do preço de aquisição de bem arrendado, calculadas de acordo com a vida útil do bem.\n\n§ 1º Entende-se por vida útil do bem o prazo durante o qual se possa esperar a sua efetiva utilização econômica.\n\n§ 2º A Secretaria da Receita Federal publicará periodicamente o prazo de vida útil admissível, em condições normais, para cada espécie de bem.\n\n§ 3º Enquanto não forem publicados os prazos de vida útil de que trata o parágrafo anterior, a sua determinação se fará segundo as normas previstas pela legislação do imposto de renda para fixação da taxa de depreciação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%2012.%20Ser%C3%A3o%20admitidas%20como%20custos%20das%20pessoas%20jur%C3%ADdicas%20arrendadoras%20as%20cotas%20de%20deprecia%C3%A7%C3%A3o%20do%20pre%C3%A7o%20de%20aquisi%C3%A7%C3%A3o%20de%20bem%20arrendado%2C%20calculadas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art 13. Nos casos de operações de vendas de bens que tenham sido objeto de arrendamento mercantil, o saldo não depreciado será admitido como custo para efeito de apuração do lucro tributável pelo imposto de renda.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%2013.%20Nos%20casos%20de%20opera%C3%A7%C3%B5es%20de%20vendas%20de%20bens%20que%20tenham%20sido%20objeto%20de%20arrendamento%20mercantil%2C%20o%20saldo%20n%C3%A3o%20depreciado%20ser%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art 14. Não será dedutível, para fins de apuração do lucro tributável pelo imposto de renda, a diferença a menor entre o valor contábil residual do bem arrendado e o seu preço de venda, quando do exercício da opção de compra.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%2014.%20N%C3%A3o%20ser%C3%A1%20dedut%C3%ADvel%2C%20para%20fins%20de%20apura%C3%A7%C3%A3o%20do%20lucro%20tribut%C3%A1vel%20pelo%20imposto%20de%20renda%2C%20a%20diferen%C3%A7a%20a%20menor%20entre%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art 15. Exercida a opção de compra pelo arrendatário, o bem integrará o ativo fixo do adquirente pelo seu custo de aquisição. (Vide Medida Provisória nº 627, de 2013) (Vigência) (Revogado pela Lei nº 12.973, de 2014) (Vigência)\n\nParágrafo único. Entende-se como custo de aquisição para os fins deste artigo, o preço pago pelo arrendatário ao arrendador pelo exercício da opção de compra. (Revogado pela Lei nº 12.973, de 2014) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%2015.%20Exercida%20a%20op%C3%A7%C3%A3o%20de%20compra%20pelo%20arrendat%C3%A1rio%2C%20o%20bem%20integrar%C3%A1%20o%20ativo%20fixo%20do%20adquirente%20pelo%20seu%20custo%20de%20aquisi%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art 16. Os contratos de arrendamento mercantil celebrados com entidades com sede no exterior serão submetidos a registro no Banco Central do Brasil.\n\n§ 1º O Conselho Monetário Nacional estabelecerá as normas para a concessão do registro a que se refere este artigo observando as seguintes condições:\n\na) razoabilidade da contraprestação;\n\nb) critério para fixação da vida útil do bem objeto do arrendamento;\n\nc) compatibilidade do prazo de arrendamento do bem com a sua vida útil;\n\nd) relação entre o preço internacional de comercialização e o custo total do arrendamento;\n\ne) fixação do preço para a opção de compra;\n\nf) outras cautelas ditadas pela política econômica-financeira nacional.\n\n§ 2º É vedada a fixação de critérios condicionais na determinação do preço para opção de compra, quando a arrendadora for entidade com sede no exterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%2016.%20Os%20contratos%20de%20arrendamento%20mercantil%20celebrados%20com%20entidades%20com%20sede%20no%20exterior%20ser%C3%A3o%20submetidos%20a%20registro%20no%20Banco%20Central%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art 17. A entrada no território nacional dos bens objeto de arrendamento mercantil, contratado com entidades arrendadoras com sede no exterior, não se confunde com o regime da admissão temporária de que trata o Decreto-lei número 37, de 18 de novembro de 1966, e se sujeitará a todas as normas legais que regem a importação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%2017.%20A%20entrada%20no%20territ%C3%B3rio%20nacional%20dos%20bens%20objeto%20de%20arrendamento%20mercantil%2C%20contratado%20com%20entidades%20arrendadoras%20com%20sede%20no%20exterior%2C%20n%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art 18. A base de cálculo, para efeito do Imposto Sobre Produtos Industrializados, do fato gerador que ocorre por ocasião da remessa de bens importados ao estabelecimento da empresa arrendatária, corresponde ao preço por atacado desse bem na praça em que a empresa arrendadora estiver sediada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%2018.%20A%20base%20de%20c%C3%A1lculo%2C%20para%20efeito%20do%20Imposto%20Sobre%20Produtos%20Industrializados%2C%20do%20fato%20gerador%20que%20ocorre%20por%20ocasi%C3%A3o%20da%20remessa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art 19. Fica equiparada à exportação a compra e venda de bens no mercado interno, para o fim específico de arrendamento pelo comprador a arrendatário domiciliado no exterior. (Vide Decreto-Lei nº 2.397, de 1987) (Vide Decreto-Lei nº 2.413, de 1988)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%2019.%20Fica%20equiparada%20%C3%A0%20exporta%C3%A7%C3%A3o%20a%20compra%20e%20venda%20de%20bens%20no%20mercado%20interno%2C%20para%20o%20fim%20espec%C3%ADfico%20de%20arrendamento%20pelo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art 20. São assegurados ao vendedor dos bens de que trata o artigo anterior todos os benefícios fiscais concedidos por lei para incentivo a exportação, observadas as condições de qualidade da pessoa do vendedor e outras exigidas para os casos de exportação direta ou indireta. (Vide Decreto-Lei nº 2.397, de 1987) (Vide Decreto-Lei nº 2.413, de 1988)\n\n§ 1º Os benefícios fiscais de que trata este artigo serão concedidos sobre o equivalente em moeda nacional de garantia irrevogável do pagamento das contraprestações do arrendamento contratado, limitada a base de cálculo ao preço da compra e venda.\n\n§ 2º Para os fins do parágrafo anterior, a equivalência em moeda nacional será determinada pela maior taxa de câmbio do dia da utilização dos benefícios fiscais.\n\n§ 2o Para os fins do disposto no § 1o, a equivalência em moeda nacional será determinada pela maior taxa de câmbio do dia da utilização dos benefícios fiscais, quando o pagamento das contraprestações do arrendamento contratado for efetivado em moeda estrangeira de livre conversibilidade. (Redação dada pela Lei nº 12.024, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%2020.%20S%C3%A3o%20assegurados%20ao%20vendedor%20dos%20bens%20de%20que%20trata%20o%20artigo%20anterior%20todos%20os%20benef%C3%ADcios%20fiscais%20concedidos%20por%20lei%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art 21. O Ministro da Fazenda poderá estender aos arrendatários de máquinas, aparelhos e equipamentos de produção nacional, objeto de arrendamento mercantil, os benefícios de que trata o Decreto-lei nº 1.136, de 7 de dezembro de 1970.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%2021.%20O%20Ministro%20da%20Fazenda%20poder%C3%A1%20estender%20aos%20arrendat%C3%A1rios%20de%20m%C3%A1quinas%2C%20aparelhos%20e%20equipamentos%20de%20produ%C3%A7%C3%A3o%20nacional%2C%20objeto%20de%20arrendamento%20mercantil%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art 22. As pessoas jurídicas que estiverem operando com arrendamento de bens, e que se ajustarem as disposições desta lei dentro de 180 (cento e oitenta) dias, a contar da sua vigência, terão as suas operações regidas por este diploma legal, desde que ajustem convenientemente os seus contratos, mediante instrumentos de aditamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%2022.%20As%20pessoas%20jur%C3%ADdicas%20que%20estiverem%20operando%20com%20arrendamento%20de%20bens%2C%20e%20que%20se%20ajustarem%20as%20disposi%C3%A7%C3%B5es%20desta%20lei%20dentro%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art 23. Fica o Conselho Monetário Nacional autorizado a:\n\na) baixar normas que visem estabelecer mecanismos reguladores das atividades previstas nesta Lei, inclusive excluir modalidades de operações do tratamento nela previsto;\n\na) expedir normas que visem a estabelecer mecanismos reguladores das atividades previstas nesta Lei, inclusive excluir modalidades de operações do tratamento neIa previsto e limitar ou proibir sua prática por determinadas categorias de pessoas físicas ou jurídicas; (Redação dada pela Lei nº 7.132, de 1983)\n\nb) enumerar restritivamente os bens que não poderão ser objeto de arrendamento mercantil, tendo em vista a política econômica-financeira do País.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%2023.%20Fica%20o%20Conselho%20Monet%C3%A1rio%20Nacional%20autorizado%20a%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24 - A cessão do contrato de arrendamento mercantil a entidade domiciliada no exterior reger-se-á pelo disposto nesta Lei e dependerá de prévia autorização do Banco Central do Brasil, conforme normas expedidas pelo Conselho Monetário Nacional. (Incluído pela Lei nº 7.132, de 1983) (Revogado pela Lei nº 14.286, de 2021) (Vigência)\n\nParágrafo único - Observado o disposto neste artigo, poderão ser transferidos, exclusiva e independentemente da cessão do contrato, os direitos de crédito relativos às contraprestações devidas. (Incluído pela Lei nº 7.132, de 1983) (Revogado pela Lei nº 14.286, de 2021) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art.%2024%20-%20A%20cess%C3%A3o%20do%20contrato%20de%20arrendamento%20mercantil%20a%20entidade%20domiciliada%20no%20exterior%20reger-se-%C3%A1%20pelo%20disposto%20nesta%20Lei%20e%20depender%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art 25. Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário. (Artigo renumerado pela Lei nº 7.132, de 1983)\n\nBrasília, 12 de setembro de 1974; 153º da Independência e 86º da República.\n\nERNESTO GEISEL Mário Henrique Simonsen João Paulo dos Reis Velloso\n\nEste texto não substitui o publicado no DOU de 13.9.1974 e retificado em 20.9.1974\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%2025.%20Esta%20Lei%20entrar%C3%A1%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o%2C%20revogadas%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.%20%28Artigo%20renumerado%20pela%20Lei%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": null
+    }
+  }
+}

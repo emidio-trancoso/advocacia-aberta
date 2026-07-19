@@ -1,0 +1,159 @@
+{
+  "_meta": {
+    "codigo": "L10962",
+    "nome": "Exibição de Preços de Produtos e Serviços",
+    "lei": "Lei 10.962/2004",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.962.htm",
+    "total_artigos": 9,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Esta Lei regula as condições de oferta e afixação de preços de bens e serviços para o consumidor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.962.htm#:~:text=Art.%201%C2%BA%20Esta%20Lei%20regula%20as%20condi%C3%A7%C3%B5es%20de%20oferta%20e%20afixa%C3%A7%C3%A3o%20de%20pre%C3%A7os%20de%20bens%20e%20servi%C3%A7os%20para%20o%20consumidor.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º São admitidas as seguintes formas de afixação de preços em vendas a varejo para o consumidor:\n\nI – no comércio em geral, por meio de etiquetas ou similares afixados diretamente nos bens expostos à venda, e em vitrines, mediante divulgação do preço à vista em caracteres legíveis;\n\nII – em auto-serviços, supermercados, hipermercados, mercearias ou estabelecimentos comerciais onde o consumidor tenha acesso direto ao produto, sem intervenção do comerciante, mediante a impressão ou afixação do preço do produto na embalagem, ou a afixação de código referencial, ou ainda, com a afixação de código de barras.\n\nIII - no comércio eletrônico, mediante divulgação ostensiva do preço à vista, junto à imagem do produto ou descrição do serviço, em caracteres facilmente legíveis com tamanho de fonte não inferior a doze. (Incluído pela Lei nº 13.543, de 2017)\n\nParágrafo único. Nos casos de utilização de código referencial ou de barras, o comerciante deverá expor, de forma clara e legível, junto aos itens expostos, informação relativa ao preço à vista do produto, suas características e código.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.962.htm#:~:text=Art.%202%C2%BA%20S%C3%A3o%20admitidas%20as%20seguintes%20formas%20de%20afixa%C3%A7%C3%A3o%20de%20pre%C3%A7os%20em%20vendas%20a%20varejo%20para%20o%20consumidor%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "2-A"
+    },
+    "2-A": {
+      "numero": "2-A",
+      "texto": "Art. 2º-A Na venda a varejo de produtos fracionados em pequenas quantidades, o comerciante deverá informar, na etiqueta contendo o preço ou junto aos itens expostos, além do preço do produto à vista, o preço correspondente a uma das seguintes unidades fundamentais de medida: capacidade, massa, volume, comprimento ou área, de acordo com a forma habitual de comercialização de cada tipo de produto. (Incluído pela Lei nº 13.175, de 2015)\n\nParágrafo único. O disposto neste artigo não se aplica à comercialização de medicamentos. (Incluído pela Lei nº 13.175, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.962.htm#:~:text=Art.%202%C2%BA-A%20Na%20venda%20a%20varejo%20de%20produtos%20fracionados%20em%20pequenas%20quantidades%2C%20o%20comerciante%20dever%C3%A1%20informar%2C%20na%20etiqueta%20contendo%20o%20pre%C3%A7o%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Na impossibilidade de afixação de preços conforme disposto no art. 2º , é permitido o uso de relações de preços dos produtos expostos, bem como dos serviços oferecidos, de forma escrita, clara e acessível ao consumidor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.962.htm#:~:text=Art.%203%C2%BA%20Na%20impossibilidade%20de%20afixa%C3%A7%C3%A3o%20de%20pre%C3%A7os%20conforme%20disposto%20no%20art.%202%C2%BA%20%2C%20%C3%A9%20permitido%20o%20uso%20de%20rela%C3%A7%C3%B5es%20de%20pre%C3%A7os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2-A",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Nos estabelecimentos que utilizem código de barras para apreçamento, deverão ser oferecidos equipamentos de leitura ótica para consulta de preço pelo consumidor, localizados na área de vendas e em outras de fácil acesso.\n\n§ 1º O regulamento desta Lei definirá, observados, dentre outros critérios ou fatores, o tipo e o tamanho do estabelecimento e a quantidade e a diversidade dos itens de bens e serviços, a área máxima que deverá ser atendida por cada leitora ótica.\n\n§ 2º Para os fins desta Lei, considera-se área de vendas aquela na qual os consumidores têm acesso às mercadorias e serviços oferecidos para consumo no varejo, dentro do estabelecimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.962.htm#:~:text=Art.%204%C2%BA%20Nos%20estabelecimentos%20que%20utilizem%20c%C3%B3digo%20de%20barras%20para%20apre%C3%A7amento%2C%20dever%C3%A3o%20ser%20oferecidos%20equipamentos%20de%20leitura%20%C3%B3tica%20para%20consulta%20de%20pre%C3%A7o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º No caso de divergência de preços para o mesmo produto entre os sistemas de informação de preços utilizados pelo estabelecimento, o consumidor pagará o menor dentre eles.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.962.htm#:~:text=Art.%205%C2%BA%20No%20caso%20de%20diverg%C3%AAncia%20de%20pre%C3%A7os%20para%20o%20mesmo%20produto%20entre%20os%20sistemas%20de%20informa%C3%A7%C3%A3o%20de%20pre%C3%A7os%20utilizados%20pelo%20estabelecimento%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "5-A"
+    },
+    "5-A": {
+      "numero": "5-A",
+      "texto": "Art. 5º-A. O fornecedor deve informar, em local e formato visíveis ao consumidor, eventuais descontos oferecidos em função do prazo ou do instrumento de pagamento utilizado. (Incluído pela Lei nº 13.455, de 2017)\n\nParágrafo único. Aplicam-se às infrações a este artigo as sanções previstas na Lei nº 8.078, de 11 de setembro de 1990. (Incluído pela Lei nº 13.455, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.962.htm#:~:text=Art.%205%C2%BA-A.%20O%20fornecedor%20deve%20informar%2C%20em%20local%20e%20formato%20vis%C3%ADveis%20ao%20consumidor%2C%20eventuais%20descontos%20oferecidos%20em%20fun%C3%A7%C3%A3o%20do%20prazo%20ou%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.962.htm#:~:text=Art.%206%C2%BA%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5-A",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Esta Lei entra em vigor na data de sua publicação.\n\nBrasília, 11 de outubro de 2004; 183º da Independência e 116º da República.\n\nLUIZ INÁCIO LULA DA SILVA Márcio Thomaz Bastos\n\nEste texto não substitui o publicado no DOU de 13.10.2004\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.962.htm#:~:text=Art.%207%C2%BA%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": null
+    }
+  }
+}

@@ -1,0 +1,1055 @@
+{
+  "_meta": {
+    "codigo": "L4595",
+    "nome": "Sistema Financeiro Nacional",
+    "lei": "Lei 4.595/1964",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm",
+    "total_artigos": 65,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º O sistema Financeiro Nacional, estruturado e regulado pela presente Lei, será constituído:\n\nI - do Conselho Monetário Nacional;\n\nII - do Banco Central do Brasil; (Redação dada pelo Del nº 278, de 28/02/67)\n\nIII - do Banco do Brasil S. A.;\n\nIV - do Banco Nacional do Desenvolvimento Econômico;\n\nV - das demais instituições financeiras públicas e privadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%201%C2%BA%20O%20sistema%20Financeiro%20Nacional%2C%20estruturado%20e%20regulado%20pela%20presente%20Lei%2C%20ser%C3%A1%20constitu%C3%ADdo%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "Capítulo I Do Sistema Financeiro Nacional",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Fica extinto o Conselho da atual Superintendência da Moeda e do Crédito, e criado em substituição, o Conselho Monetário Nacional, com a finalidade de formular a política da moeda e do crédito como previsto nesta lei, objetivando o progresso econômico e social do País.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%202%C2%BA%20Fica%20extinto%20o%20Conselho%20da%20atual%20Superintend%C3%AAncia%20da%20Moeda%20e%20do%20Cr%C3%A9dito%2C%20e%20criado%20em%20substitui%C3%A7%C3%A3o%2C%20o%20Conselho%20Monet%C3%A1rio%20Nacional%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II Do Conselho Monetário Nacional",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º A política do Conselho Monetário Nacional objetivará:\n\nI - (Revogado Pela Lei Complementar nº 179, de 2021)\n\nII - (Revogado Pela Lei Complementar nº 179, de 2021)\n\nIII - (Revogado Pela Lei Complementar nº 179, de 2021)\n\nIV - Orientar a aplicação dos recursos das instituições financeiras, quer públicas, quer privadas; tendo em vista propiciar, nas diferentes regiões do País, condições favoráveis ao desenvolvimento harmônico da economia nacional;\n\nV - Propiciar o aperfeiçoamento das instituições e dos instrumentos financeiros, com vistas à maior eficiência do sistema de pagamentos e de mobilização de recursos;\n\nVI - Zelar pela liquidez e solvência das instituições financeiras;\n\nVII - Coordenar as políticas monetária, creditícia, orçamentária, fiscal e da dívida pública, interna e externa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%203%C2%BA%20A%20pol%C3%ADtica%20do%20Conselho%20Monet%C3%A1rio%20Nacional%20objetivar%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II Do Conselho Monetário Nacional",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Compete ao Conselho Monetário Nacional, segundo diretrizes estabelecidas pelo Presidente da República: (Redação dada pela Lei nº 6.045, de 15/05/74)\n\nI - (Revogado Pela Lei Complementar nº 179, de 2021)\n\nII - (Revogado Pela Lei Complementar nº 179, de 2021)\n\nIII - Aprovar os orçamentos monetários, preparados pelo Banco Central da República do Brasil, por meio dos quais se estimarão as necessidades globais de moeda e crédito;\n\nIV - Determinar as características gerais (Vetado) das cédulas e das moedas;\n\nV - Fixar as diretrizes e normas da política cambial, inclusive quanto a compra e venda de ouro e quaisquer operações em Direitos Especiais de Saque e em moeda estrangeira; (Redação dada pelo Del nº 581, de 14/05/69)\n\nVI - Disciplinar o crédito em todas as suas modalidades e as operações creditícias em todas as suas formas, inclusive aceites, avais e prestações de quaisquer garantias por parte das instituições financeiras;\n\nVII - Coordenar a política de que trata o art. 3º desta Lei com a de investimentos do Governo Federal;\n\nVIII - Regular a constituição, funcionamento e fiscalização dos que exercerem atividades subordinadas a esta lei, bem como a aplicação das penalidades previstas;\n\nIX - Limitar, sempre que necessário, as taxas de juros, descontos comissões e qualquer outra forma de remuneração de operações e serviços bancários ou financeiros, inclusive os prestados pelo Banco Central da República do Brasil, assegurando taxas favorecidas aos financiamentos que se destinem a promover:\n\n- recuperação e fertilização do solo;\n\n- reflorestamento;\n\n- combate a epizootias e pragas, nas atividades rurais;\n\n- eletrificação rural;\n\n- mecanização;\n\n- irrigação;\n\n- investimento indispensáveis às atividades agropecuárias;\n\nX - Determinar a percentagem máxima dos recursos que as instituições financeiras poderão emprestar a um mesmo cliente ou grupo de empresas;\n\nXI - Estipular índices e outras condições técnicas sobre encaixes, mobilizações e outras relações patrimoniais a serem observadas pelas instituições financeiras;\n\nXII - Expedir normas gerais de contabilidade e estatística a serem observadas pelas instituições financeiras;\n\nXIII - Delimitar, com periodicidade não inferior a dois anos o capital mínimo das instituições financeiras privadas, levando em conta sua natureza, bem como a localização de suas sedes e agências ou filiais;\n\nXIV - (Revogado Pela Lei Complementar nº 179, de 2021)\n\nXV - Estabelecer para as instituições financeiras públicas, a dedução dos depósitos de pessoas jurídicas de direito público que lhes detenham o controle acionário, bem como dos das respectivas autarquias e sociedades de economia mista, no cálculo a que se refere o inciso anterior;\n\nXVI - (Revogado Pela Lei Complementar nº 179, de 2021)\n\nXVII - (Revogado Pela Lei Complementar nº 179, de 2021)\n\nXVIII - Outorgar ao Banco Central da República do Brasil o monopólio das operações de câmbio quando ocorrer grave desequilíbrio no balanço de pagamentos ou houver sérias razões para prever a iminência de tal situação;\n\nXIX - (Revogado Pela Lei Complementar nº 179, de 2021)\n\nXX - Autoriza o Banco Central da República do Brasil e as instituições financeiras públicas federais a efetuar a subscrição, compra e venda de ações e outros papéis emitidos ou de responsabilidade das sociedades de economia mista e empresas do Estado;\n\nXXI - Disciplinar as atividades das Bolsas de Valores e dos corretores de fundos públicos;\n\nXXII - Estatuir normas para as operações das instituições financeiras públicas, para preservar sua solidez e adequar seu funcionamento aos objetivos desta lei;\n\nXXIII - Fixar, até quinze (15) vezes a soma do capital realizado e reservas livres, o limite além do qual os excedentes dos depósitos das instituições financeiras serão recolhidos ao Banco Central da República do Brasil ou aplicados de acordo com as normas que o Conselho estabelecer;\n\nXXIV - Decidir de sua própria organização; elaborando seu regimento interno no prazo máximo de trinta (30) dias;\n\nXXV - (Revogado Pela Lei Complementar nº 179, de 2021)\n\nXXVI - Conhecer dos recursos de decisões do Banco Central da República do Brasil; (Vide Lei nº 9.069, de 29.6.1995)\n\nXXVII - aprovar o regimento interno e as contas do Banco Central do Brasil e decidir sobre seu orçamento e sobre seus sistemas de contabilidade, bem como sobre a forma e prazo de transferência de seus resultados para o Tesouro Nacional, sem prejuízo da competência do Tribunal de Contas da União. (Redação dada pelo Decreto Lei nº 2.376, de 25.11.1987) (Vide art 10, inciso III)\n\nXXVIII - Aplicar aos bancos estrangeiros que funcionem no País as mesmas vedações ou restrições equivalentes, que vigorem nas praças de suas matrizes, em relação a bancos brasileiros ali instalados ou que nelas desejem estabelecer - se;\n\nXXIX - Colaborar com o Senado Federal, na instrução dos processos de empréstimos externos dos Estados, do Distrito Federal e dos Municípios, para cumprimento do disposto no art. 63, nº II, da Constituição Federal;\n\nXXX - Expedir normas e regulamentação para as designações e demais efeitos do art. 7º, desta lei. (Vide Lei nº 9.069, de 29.6.1995) (Vide Lei nº 9.069, de 29.6.1995)\n\nXXXI - (Revogado pela Lei nº 14.286, de 2021) (Vigência)\n\nXXXII - regular os depósitos a prazo de instituições financeiras e demais sociedades autorizadas a funcionar pelo Banco Central do Brasil, inclusive entre aquelas sujeitas ao mesmo controle acionário ou coligadas. (Redação dada pelo Decrto-lei nº 2.290, de 1986)\n\n§ 1º O Conselho Monetário Nacional, no exercício das atribuições previstas no inciso VIII deste artigo, poderá determinar que o Banco Central da República do Brasil recuse autorização para o funcionamento de novas instituições financeiras, em função de conveniências de ordem geral.\n\n§ 2º Competirá ao Banco Central da República do Brasil acompanhar a execução dos orçamentos monetários e relatar a matéria ao Conselho Monetário Nacional, apresentando as sugestões que considerar convenientes.\n\n§ 3º (Revogado Pela Lei Complementar nº 179, de 2021)\n\n§ 4º O Conselho Monetário nacional poderá convidar autoridades, pessoas ou entidades para prestar esclarecimentos considerados necessários.\n\n§ 5º Nas hipóteses do art. 4º, inciso I, e do § 6º, do art. 49, desta lei, se o Congresso Nacional negar homologação à emissão extraordinária efetuada, as autoridades responsáveis serão responsabilizadas nos termos da Lei nº 1059, de 10/04/1950.\n\n§ 6º O Conselho Monetário Nacional encaminhará ao Congresso Nacional, até 31 de março de cada ano, relatório da evolução da situação monetária e creditícia do País no ano anterior, no qual descreverá, minudentemente as providências adotadas para cumprimento dos objetivos estabelecidos nesta lei, justificando destacadamente os montantes das emissões de papel-moeda que tenham sido feitas para atendimento das atividades produtivas.\n\n§ 7º O Banco Nacional da Habitação é o principal instrumento de execução da política habitacional do Governo Federal e integra o sistema financeiro nacional, juntamente com as sociedades de crédito imobiliário, sob orientação, autorização, coordenação e fiscalização do Conselho Monetário Nacional e do Banco Central da República do Brasil, quanto à execução, nos termos desta lei, revogadas as disposições especiais em contrário. (Vide Lei nº 9.069, de 29.6.1995)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%204%C2%BA%20Compete%20ao%20Conselho%20Monet%C3%A1rio%20Nacional%2C%20segundo%20diretrizes%20estabelecidas%20pelo%20Presidente%20da%20Rep%C3%BAblica%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%206.045%2C%20de%2015%2F05%2F74%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II Do Conselho Monetário Nacional",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º As deliberações do Conselho Monetário Nacional entendem-se de responsabilidade de seu Presidente para os efeitos do art. 104, nº I, letra \"b\", da Constituição Federa e obrigarão também os órgãos oficiais, inclusive autarquias e sociedades de economia mista, nas atividades que afetem o mercado financeiro e o de capitais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%205%C2%BA%20As%20delibera%C3%A7%C3%B5es%20do%20Conselho%20Monet%C3%A1rio%20Nacional%20entendem-se%20de%20responsabilidade%20de%20seu%20Presidente%20para%20os%20efeitos%20do%20art.%20104%2C%20n%C2%BA%20I%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II Do Conselho Monetário Nacional",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º (Revogado Pela Lei Complementar nº 179, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%206%C2%BA%20%28Revogado%20Pela%20Lei%20Complementar%20n%C2%BA%20179%2C%20de%202021%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II Do Conselho Monetário Nacional",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º (Revogado Pela Lei Complementar nº 179, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%207%C2%BA%20%28Revogado%20Pela%20Lei%20Complementar%20n%C2%BA%20179%2C%20de%202021%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II Do Conselho Monetário Nacional",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º A atual Superintendência da Moeda e do Crédito é transformada em autarquia federal, tendo sede e foro na Capital da República, sob a denominação de Banco Central da República do Brasil, com personalidade jurídica e patrimônio próprios este constituído dos bens, direitos e valores que lhe são transferidos na forma desta Lei e ainda da apropriação dos juros e rendas resultantes, na data da vigência desta lei, do disposto no art. 9º do Decreto-Lei número 8495, de 28/12/1945, dispositivo que ora é expressamente revogado.\n\nParágrafo único. Os resultados obtidos pelo Banco Central do Brasil, consideradas as receitas e despesas de todas as suas operações, serão, a partir de 1º de janeiro de 1988, apurados pelo regime de competência e transferidos para o Tesouro Nacional, após compensados eventuais prejuízos de exercícios anteriores. (Redação dada pelo Del nº 2.376, de 25/11/87)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%208%C2%BA%20A%20atual%20Superintend%C3%AAncia%20da%20Moeda%20e%20do%20Cr%C3%A9dito%20%C3%A9%20transformada%20em%20autarquia%20federal%2C%20tendo%20sede%20e%20foro%20na%20Capital%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Do Banco Central da República do Brasil",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Compete ao Banco Central da República do Brasil cumprir e fazer cumprir as disposições que lhe são atribuídas pela legislação em vigor e as normas expedidas pelo Conselho Monetário Nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%209%C2%BA%20Compete%20ao%20Banco%20Central%20da%20Rep%C3%BAblica%20do%20Brasil%20cumprir%20e%20fazer%20cumprir%20as%20disposi%C3%A7%C3%B5es%20que%20lhe%20s%C3%A3o%20atribu%C3%ADdas%20pela%20legisla%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Do Banco Central da República do Brasil",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Compete privativamente ao Banco Central da República do Brasil:\n\nI - Emitir moeda-papel e moeda metálica, nas condições e limites autorizados pelo Conselho Monetário Nacional (Vetado)\n\nII - Executar os serviços do meio-circulante;\n\nIII - determinar o recolhimento de até cem por cento do total dos depósitos à vista e de até sessenta por cento de outros títulos contábeis das instituições financeiras, seja na forma de subscrição de Letras ou Obrigações do Tesouro Nacional ou compra de títulos da Dívida Pública Federal, seja através de recolhimento em espécie, em ambos os casos entregues ao Banco Central do Brasil, a forma e condições por ele determinadas, podendo: (Incluído pela Lei nº 7.730, de 31.1.1989)\n\na) adotar percentagens diferentes em função: (Incluído pela Lei nº 7.730, de 31.1.1989)\n\n1. das regiões geoeconômicas; (Incluído pela Lei nº 7.730, de 31.1.1989)\n\n2. das prioridades que atribuir às aplicações; (Incluído pela Lei nº 7.730, de 31.1.1989)\n\n3. da natureza das instituições financeiras; (Incluído pela Lei nº 7.730, de 31.1.1989)\n\nb) determinar percentuais que não serão recolhidos, desde que tenham sido reaplicados em financiamentos à agricultura, sob juros favorecidos e outras condições por ele fixadas. (Incluído pela Lei nº 7.730, de 31.1.1989)\n\nIV - receber os recolhimentos compulsórios de que trata o inciso anterior e, ainda, os depósitos voluntários à vista das instituições financeiras, nos termos do inciso III e § 2° do art. 19. (Redação dada pela Lei nº 7.730, de 31/01/89)\n\nV - realizar operações de redesconto e empréstimo com instituições financeiras públicas e privadas, consoante remuneração, limites, prazos, garantias, formas de negociação e outras condições estabelecidos em regulamentação por ele editada; (Redação dada pela Lei Complementar nº 179, de 2021)\n\nVI - Exercer o controle do crédito sob todas as suas formas; (Renumerado pela Lei nº 7.730, de 31/01/89)\n\nVII - Efetuar o controle dos capitais estrangeiros, nos termos da lei; (Renumerado pela Lei nº 7.730, de 31/01/89)\n\nVIII - Ser depositário das reservas oficiais de ouro e moeda estrangeira e de Direitos Especiais de Saque e fazer com estas últimas todas e quaisquer operações previstas no Convênio Constitutivo do Fundo Monetário Internacional; (Redação dada pelo Del nº 581, de 14/05/69) (Renumerado pela Lei nº 7.730, de 31/01/89)\n\nIX - Exercer a fiscalização das instituições financeiras e aplicar as penalidades previstas; (Renumerado pela Lei nº 7.730, de 31/01/89)\n\nX - Conceder autorização às instituições financeiras, a fim de que possam: (Renumerado pela Lei nº 7.730, de 31/01/89)\n\na) funcionar no País;\n\nb) instalar ou transferir suas sedes, ou dependências, inclusive no exterior;\n\nc) ser transformadas, fundidas, incorporadas ou encampadas;\n\nd) praticar operações de câmbio, crédito real e venda habitual de títulos da dívida pública federal, estadual ou municipal, ações Debêntures, letras hipotecárias e outros títulos de crédito ou mobiliários;\n\ne) ter prorrogados os prazos concedidos para funcionamento;\n\nf) alterar seus estatutos.\n\ng) alienar ou, por qualquer outra forma, transferir o seu controle acionário. (Incluído pelo Del nº 2.321, de 25/02/87)\n\nXI - Estabelecer condições para a posse e para o exercício de quaisquer cargos de administração de instituições financeiras privadas, assim como para o exercício de quaisquer funções em órgãos consultivos, fiscais e semelhantes, segundo normas que forem expedidas pelo Conselho Monetário Nacional; Renumerado pela Lei nº 7.730, de 31/01/89)\n\nXII - efetuar, como instrumento de política monetária, operações de compra e venda de títulos públicos federais, consoante remuneração, limites, prazos, formas de negociação e outras condições estabelecidos em regulamentação por ele editada, sem prejuízo do disposto no art. 39 da Lei Complementar nº 101, de 4 de maio de 2000; (Redação dada pela Lei Complementar nº 179, de 2021)\n\nXIII - Determinar que as matrizes das instituições financeiras registrem os cadastros das firmas que operam com suas agências há mais de um ano. (Renumerado pela Lei nº 7.730, de 31/01/89)\n\nXIV - aprovar seu regimento interno; (Incluído pela Lei Complementar nº 179, de 2021)\n\nXV - efetuar, como instrumento de política cambial, operações de compra e venda de moeda estrangeira e operações com instrumentos derivativos no mercado interno, consoante remuneração, limites, prazos, formas de negociação e outras condições estabelecidos em regulamentação por ele editada. (Incluído pela Lei Complementar nº 179, de 2021)\n\n§ 1º No exercício das atribuições a que se refere o inciso IX deste artigo, com base nas normas estabelecidas pelo Conselho Monetário Nacional, o Banco Central da República do Brasil, estudará os pedidos que lhe sejam formulados e resolverá conceder ou recusar a autorização pleiteada, podendo (Vetado) incluir as cláusulas que reputar convenientes ao interesse público.\n\n§ 2º Observado o disposto no parágrafo anterior, as instituições financeiras estrangeiras dependem de autorização do Poder Executivo, mediante decreto, para que possam funcionar no País (Vetado)\n\n§ 3º O Banco Central do Brasil informará previamente ao Conselho Monetário Nacional sobre o deferimento de operações na forma estabelecida no inciso V do caput deste artigo, sempre que identificar a possibilidade de impacto fiscal relevante. (Incluído pela Lei Complementar nº 179, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2010.%20Compete%20privativamente%20ao%20Banco%20Central%20da%20Rep%C3%BAblica%20do%20Brasil%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Do Banco Central da República do Brasil",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Compete ainda ao Banco Central da República do Brasil;\n\nI - Entender-se, em nome do Governo Brasileiro, com as instituições financeiras estrangeiras e internacionais;\n\nII - Promover, como agente do Governo Federal, a colocação de empréstimos internos ou externos, podendo, também, encarregar-se dos respectivos serviços;\n\nIII - Atuar no sentido do funcionamento regular do mercado cambial, da estabilidade relativa das taxas de câmbio e do equilíbrio no balanço de pagamentos, podendo para esse fim comprar e vender ouro e moeda estrangeira, bem como realizar operações de crédito no exterior, inclusive as referentes aos Direitos Especiais de Saque, e separar os mercados de câmbio financeiro e comercial; (Redação dada pelo Del nº 581, de 14/05/69)\n\nIV - (Revogado Pela Lei Complementar nº 179, de 2021)\n\nV - Emitir títulos de responsabilidade própria, de acordo com as condições estabelecidas pelo Conselho Monetário Nacional;\n\nVI - Regular a execução dos serviços de compensação de cheques e outros papéis;\n\nVII - Exercer permanente vigilância nos mercados financeiros e de capitais sobre empresas que, direta ou indiretamente, interfiram nesses mercados e em relação às modalidades ou processos operacionais que utilizem;\n\nVIII - Prover, sob controle do Conselho Monetário Nacional, os serviços de sua Secretaria.\n\n§ 1º No exercício das atribuições a que se refere o inciso VIII do artigo 10 desta lei, o Banco Central do Brasil poderá examinar os livros e documentos das pessoas naturais ou jurídicas que detenham o controle acionário de instituição financeira, ficando essas pessoas sujeitas ao disposto no artigo 44, § 8º, desta lei. (Incluído pelo Del nº 2.321, de 25/02/87)\n\n§ 2º O Banco Central da República do Brasil instalará delegacias, com autorização do Conselho Monetário Nacional, nas diferentes regiões geo-econômicas do País, tendo em vista a descentralização administrativa para distribuição e recolhimento da moeda e o cumprimento das decisões adotadas pelo mesmo Conselho ou prescritas em lei. (Renumerado pelo Del nº 2.321, de 25/02/87)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2011.%20Compete%20ainda%20ao%20Banco%20Central%20da%20Rep%C3%BAblica%20do%20Brasil%3B",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Do Banco Central da República do Brasil",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. O Banco Central da República do Brasil operará exclusivamente com instituições financeiras públicas e privadas, vedadas operações bancárias de qualquer natureza com outras pessoas de direito público ou privado, salvo as expressamente autorizadas por lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2012.%20O%20Banco%20Central%20da%20Rep%C3%BAblica%20do%20Brasil%20operar%C3%A1%20exclusivamente%20com%20institui%C3%A7%C3%B5es%20financeiras%20p%C3%BAblicas%20e%20privadas%2C%20vedadas%20opera%C3%A7%C3%B5es%20banc%C3%A1rias%20de%20qualquer",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Do Banco Central da República do Brasil",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Os encargos e serviços de competência do Banco Central, quando por ele não executados diretamente, serão contratados de preferência com o Banco do Brasil S. A., exceto nos casos especialmente autorizados pelo Conselho Monetário Nacional. (Redação dada pelo Del nº 278, de 28/02/67)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2013.%20Os%20encargos%20e%20servi%C3%A7os%20de%20compet%C3%AAncia%20do%20Banco%20Central%2C%20quando%20por%20ele%20n%C3%A3o%20executados%20diretamente%2C%20ser%C3%A3o%20contratados%20de%20prefer%C3%AAncia%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Do Banco Central da República do Brasil",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. (Revogado Pela Lei Complementar nº 179, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2014.%20%28Revogado%20Pela%20Lei%20Complementar%20n%C2%BA%20179%2C%20de%202021%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Do Banco Central da República do Brasil",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. O regimento interno do Banco Central da República do Brasil, a que se refere o inciso XXVII, do art. 4º, desta lei, prescreverá as atribuições do Presidente e dos Diretores e especificará os casos que dependerão de deliberação da Diretoria, a qual será tomada por maioria de votos, presentes no mínimo o Presidente ou seu substituto eventual e dois outros Diretores, cabendo ao Presidente também o voto de qualidade.\n\nParágrafo único. A Diretoria se reunirá, ordinariamente, uma vez por semana, e, extraordinariamente, sempre que necessário, por convocação do Presidente ou a requerimento de, pelo menos, dois de seus membros.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2015.%20O%20regimento%20interno%20do%20Banco%20Central%20da%20Rep%C3%BAblica%20do%20Brasil%2C%20a%20que%20se%20refere%20o%20inciso%20XXVII%2C%20do%20art.%204%C2%BA%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Do Banco Central da República do Brasil",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Constituem receita do Banco Central do Brasil as rendas: (Redação dada pelo Del nº 2.376, de 25/11/87)\n\nI - de operações financeiras e de outras aplicações de seus recursos; (Redação dada pelo Del nº 2.376, de 25/11/87)\n\nII - das operações de câmbio, de compra e venda de ouro e de quaisquer outras operações em moeda estrangeira; (Redação dada pelo Del nº 2.376, de 25/11/87)\n\nIII - eventuais, inclusive as derivadas de multas e de juros de mora aplicados por força do disposto na legislação em vigor. (Redação dada pelo Del nº 2.376, de 25/11/87)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2016.%20Constituem%20receita%20do%20Banco%20Central%20do%20Brasil%20as%20rendas%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pelo%20Del%20n%C2%BA%202.376%2C%20de%2025%2F11%2F87%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III Do Banco Central da República do Brasil",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Consideram-se instituições financeiras, para os efeitos da legislação em vigor, as pessoas jurídicas públicas ou privadas, que tenham como atividade principal ou acessória a coleta, intermediação ou aplicação de recursos financeiros próprios ou de terceiros, em moeda nacional ou estrangeira, e a custódia de valor de propriedade de terceiros.\n\nParágrafo único. Para os efeitos desta lei e da legislação em vigor, equiparam-se às instituições financeiras as pessoas físicas que exerçam qualquer das atividades referidas neste artigo, de forma permanente ou eventual.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2017.%20Consideram-se%20institui%C3%A7%C3%B5es%20financeiras%2C%20para%20os%20efeitos%20da%20legisla%C3%A7%C3%A3o%20em%20vigor%2C%20as%20pessoas%20jur%C3%ADdicas%20p%C3%BAblicas%20ou%20privadas%2C%20que%20tenham%20como%20atividade",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DAS INSTITUIÇÕES FINANCEIRAS",
+        "section": "I",
+        "section_name": "SEÇÃO I Da caracterização e subordinação"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. As instituições financeiras somente poderão funcionar no País mediante prévia autorização do Banco Central da República do Brasil ou decreto do Poder Executivo, quando forem estrangeiras.\n\n§ 1º Além dos estabelecimentos bancários oficiais ou privados, das sociedades de crédito, financiamento e investimentos, das caixas econômicas e das cooperativas de crédito ou a seção de crédito das cooperativas que a tenham, também se subordinam às disposições e disciplina desta lei no que for aplicável, as bolsas de valores, companhias de seguros e de capitalização, as sociedades que efetuam distribuição de prêmios em imóveis, mercadorias ou dinheiro, mediante sorteio de títulos de sua emissão ou por qualquer forma, e as pessoas físicas ou jurídicas que exerçam, por conta própria ou de terceiros, atividade relacionada com a compra e venda de ações e outros quaisquer títulos, realizando nos mercados financeiros e de capitais operações ou serviços de natureza dos executados pelas instituições financeiras.\n\n§ 2º O Banco Central da Republica do Brasil, no exercício da fiscalização que lhe compete, regulará as condições de concorrência entre instituições financeiras, coibindo-lhes os abusos com a aplicação da pena (Vetado) nos termos desta lei.\n\n§ 3º Dependerão de prévia autorização do Banco Central da República do Brasil as campanhas destinadas à coleta de recursos do público, praticadas por pessoas físicas ou jurídicas abrangidas neste artigo, salvo para subscrição pública de ações, nos termos da lei das sociedades por ações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2018.%20As%20institui%C3%A7%C3%B5es%20financeiras%20somente%20poder%C3%A3o%20funcionar%20no%20Pa%C3%ADs%20mediante%20pr%C3%A9via%20autoriza%C3%A7%C3%A3o%20do%20Banco%20Central%20da%20Rep%C3%BAblica%20do%20Brasil%20ou%20decreto",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DAS INSTITUIÇÕES FINANCEIRAS",
+        "section": "I",
+        "section_name": "SEÇÃO I Da caracterização e subordinação"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Ao Banco do Brasil S. A. competirá precipuamente, sob a supervisão do Conselho Monetário Nacional e como instrumento de execução da política creditícia e financeira do Governo Federal:\n\nI - na qualidade de Agente, Financeiro do Tesouro Nacional, sem prejuízo de outras funções que lhe venham a ser atribuídas e ressalvado o disposto no art. 8º, da Lei nº 1628, de 20 de junho de 1952:\n\na) receber, a crédito do Tesouro Nacional, as importâncias provenientes da arrecadação de tributos ou rendas federais e ainda o produto das operações de que trata o art. 49, desta lei;\n\nb) realizar os pagamentos e suprimentos necessários à execução do Orçamento Geral da União e leis complementares, de acordo com as autorizações que lhe forem transmitidas pelo Ministério da Fazenda, as quais não poderão exceder o montante global dos recursos a que se refere a letra anterior, vedada a concessão, pelo Banco, de créditos de qualquer natureza ao Tesouro Nacional;\n\nc) conceder aval, fiança e outras garantias, consoante expressa autorização legal;\n\nd) adquirir e financiar estoques de produção exportável;\n\ne) executar a política de preços mínimos dos produtos agropastoris;\n\nf) ser agente pagador e recebedor fora do País;\n\ng) executar o serviço da dívida pública consolidada;\n\nII - como principal executor dos serviços bancários de interesse do Governo Federal, inclusive suas autarquias, receber em depósito, com exclusividade, as disponibilidades de quaisquer entidades federais, compreendendo as repartições de todos os ministérios civis e militares, instituições de previdência e outras autarquias, comissões, departamentos, entidades em regime especial de administração e quaisquer pessoas físicas ou jurídicas responsáveis por adiantamentos, ressalvados o disposto no § 5º deste artigo, as exceções previstas em lei ou casos especiais, expressamente autorizados pelo Conselho Monetário Nacional, por proposta do Banco Central da República do Brasil;\n\nIII - arrecadar os depósitos voluntários, à vista, das instituições de que trata o inciso III, do art. 10, desta lei, escriturando as respectivas contas; (Redação dada pelo Decreto-lei nº 2.284, de 1986)\n\nIV - executar os serviços de compensação de cheques e outros papéis;\n\nV - receber, com exclusividade, os depósitos de que tratam os artigos 38, item 3º, do Decreto-lei nº 2.627, de 26 de setembro de 1940, e 1º do Decreto-lei nº 5.956, de 01/11/43, ressalvado o disposto no art. 27, desta lei;\n\nVI - realizar, por conta própria, operações de compra e venda de moeda estrangeira e, por conta do Banco Central da República do Brasil, nas condições estabelecidas pelo Conselho Monetário Nacional;\n\nVII - realizar recebimentos ou pagamentos e outros serviços de interesse do Banco Central da República do Brasil, mediante contratação na forma do art. 13, desta lei;\n\nVIII - dar execução à política de comércio exterior (Vetado)\n\nIX - financiar a aquisição e instalação da pequena e média propriedade rural, nos termos da legislação que regular a matéria;\n\nX - financiar as atividades industriais e rurais, estas com o favorecimento referido no art. 4º, inciso IX, e art. 53, desta lei;\n\nXI - difundir e orientar o crédito, inclusive às atividades comerciais suplementando a ação da rede bancária;\n\na) no financiamento das atividades econômicas, atendendo às necessidades creditícias das diferentes regiões do País;\n\nb) no financiamento das exportações e importações. (Vide Lei nº 8.490 de 19.11.1992)\n\n§ 1º - O Conselho Monetário Nacional assegurará recursos específicos que possibilitem ao Banco do Brasil S. A., sob adequada remuneração, o atendimento dos encargos previstos nesta lei.\n\n§ 2º - Do montante global dos depósitos arrecadados, na forma do inciso III deste artigo o Banco do Brasil S. A. Colocará à disposição do Banco Central da República do Brasil, observadas as normas que forem estabelecidas pelo Conselho Monetário Nacional, a parcela que exceder as necessidades normais de movimentação das contas respectivas, em função dos serviços aludidos no inciso IV deste artigo.\n\n§ 3º - Os encargos referidos no inciso I, deste artigo, serão objeto de contratação entre o Banco do Brasil S. A. e a União Federal, esta representada pelo Ministro da Fazenda.\n\n§ 4º - O Banco do Brasil S. A. prestará ao Banco Central da República do Brasil todas as informações por este julgadas necessárias para a exata execução desta lei.\n\n§ 5º - Os depósitos de que trata o inciso II deste artigo, também poderão ser feitos nas Caixas econômicas Federais, nos limites e condições fixadas pelo Conselho Monetário Nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2019.%20Ao%20Banco%20do%20Brasil%20S.%20A.%20competir%C3%A1%20precipuamente%2C%20sob%20a%20supervis%C3%A3o%20do%20Conselho%20Monet%C3%A1rio%20Nacional%20e%20como%20instrumento%20de%20execu%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DAS INSTITUIÇÕES FINANCEIRAS",
+        "section": "II",
+        "section_name": "SEÇÃO II DO BANCO DO BRASIL S. A."
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. O Banco do Brasil S. A. e o Banco Central da República do Brasil elaborarão, em conjunto, o programa global de aplicações e recursos do primeiro, para fins de inclusão nos orçamentos monetários de que trata o inciso III, do artigo 4º desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2020.%20O%20Banco%20do%20Brasil%20S.%20A.%20e%20o%20Banco%20Central%20da%20Rep%C3%BAblica%20do%20Brasil%20elaborar%C3%A3o%2C%20em%20conjunto%2C%20o%20programa%20global",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DAS INSTITUIÇÕES FINANCEIRAS",
+        "section": "II",
+        "section_name": "SEÇÃO II DO BANCO DO BRASIL S. A."
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. O Presidente e os Diretores do Banco do Brasil S. A. deverão ser pessoas de reputação ilibada e notória capacidade.\n\n§ 1º A nomeação do Presidente do Banco do Brasil S. A. será feita pelo Presidente da República, após aprovação do Senado Federal.\n\n§ 2º As substituições eventuais do Presidente do Banco do Brasil S. A. não poderão exceder o prazo de 30 (trinta) dias consecutivos, sem que o Presidente da República submeta ao Senado Federal o nome do substituto.\n\n§ 3º (Vetado)\n\n§ 4º (Vetado)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2021.%20O%20Presidente%20e%20os%20Diretores%20do%20Banco%20do%20Brasil%20S.%20A.%20dever%C3%A3o%20ser%20pessoas%20de%20reputa%C3%A7%C3%A3o%20ilibada%20e%20not%C3%B3ria%20capacidade.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DAS INSTITUIÇÕES FINANCEIRAS",
+        "section": "II",
+        "section_name": "SEÇÃO II DO BANCO DO BRASIL S. A."
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. As instituições financeiras públicas são órgãos auxiliares da execução da política de crédito do Governo Federal.\n\n§ 1º O Conselho Monetário Nacional regulará as atividades, capacidade e modalidade operacionais das instituições financeiras públicas federais, que deverão submeter à aprovação daquele órgão, com a prioridade por ele prescrita, seus programas de recursos e aplicações, de forma que se ajustem à política de crédito do Governo Federal.\n\n§ 2º A escolha dos Diretores ou Administradores das instituições financeiras públicas federais e a nomeação dos respectivos Presidentes e designação dos substitutos observarão o disposto no art. 21, parágrafos 1º e 2º, desta lei.\n\n§ 3º A atuação das instituições financeiras públicas será coordenada nos termos do art. 4º desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2022.%20As%20institui%C3%A7%C3%B5es%20financeiras%20p%C3%BAblicas%20s%C3%A3o%20%C3%B3rg%C3%A3os%20auxiliares%20da%20execu%C3%A7%C3%A3o%20da%20pol%C3%ADtica%20de%20cr%C3%A9dito%20do%20Governo%20Federal.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DAS INSTITUIÇÕES FINANCEIRAS",
+        "section": "III",
+        "section_name": "SEÇÃO III DAS INSTITUIÇÕES FINANCEIRAS PÚBLICAS"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. O Banco Nacional do Desenvolvimento Econômico é o principal instrumento de execução de política de investimentos do Governo Federal, nos termos das Leis números 1628, de 20/06/1952 e 2973, de 26/11/1956.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2023.%20O%20Banco%20Nacional%20do%20Desenvolvimento%20Econ%C3%B4mico%20%C3%A9%20o%20principal%20instrumento%20de%20execu%C3%A7%C3%A3o%20de%20pol%C3%ADtica%20de%20investimentos%20do%20Governo%20Federal%2C%20nos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DAS INSTITUIÇÕES FINANCEIRAS",
+        "section": "III",
+        "section_name": "SEÇÃO III DAS INSTITUIÇÕES FINANCEIRAS PÚBLICAS"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. As instituições financeiras públicas não federais ficam sujeitas às disposições relativas às instituições financeiras privadas, assegurada a forma de constituição das existentes na data da publicação desta lei.\n\nParágrafo único. As Caixas Econômicas Estaduais equiparam-se, no que couber, às Caixas Econômicas Federais, para os efeitos da legislação em vigor, estando isentas do recolhimento a que se refere o art. 4º, inciso XIV, e à taxa de fiscalização, mencionada no art. 16, desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2024.%20As%20institui%C3%A7%C3%B5es%20financeiras%20p%C3%BAblicas%20n%C3%A3o%20federais%20ficam%20sujeitas%20%C3%A0s%20disposi%C3%A7%C3%B5es%20relativas%20%C3%A0s%20institui%C3%A7%C3%B5es%20financeiras%20privadas%2C%20assegurada%20a%20forma%20de%20constitui%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DAS INSTITUIÇÕES FINANCEIRAS",
+        "section": "III",
+        "section_name": "SEÇÃO III DAS INSTITUIÇÕES FINANCEIRAS PÚBLICAS"
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. As instituições financeiras privadas, exceto as cooperativas de crédito, constituir-se-ão unicamente sob a forma de sociedade anônima, devendo a totalidade de seu capital com direito a voto ser representada por ações nominativas. (Redação dada pela Lei nº 5.710, de 07/10/71)\n\n§ 1º Observadas as normas fixadas pelo Conselho Monetário Nacional as instituições a que se refere este artigo poderão emitir até o limite de 50% de seu capital social em ações preferenciais, nas formas nominativas, e ao portador, sem direito a voto, às quais não se aplicará o disposto no parágrafo único do art. 81 do Decreto-lei nº 2.627, de 26 de setembro de 1940. (Incluído pela Lei nº 5.710, de 07/10/71)\n\n§ 2º A emissão de ações preferenciais ao portador, que poderá ser feita em virtude de aumento de capital, conversão de ações ordinárias ou de ações preferenciais nominativas, ficará sujeita a alterações prévias dos estatutos das sociedades, a fim de que sejam neles incluídas as declarações sobre: (Incluído pela Lei nº 5.710, de 07/10/71)\n\nI - as vantagens, preferenciais e restrições atribuídas a cada classe de ações preferenciais, de acordo com o Decreto-lei nº 2.627, de 26 de setembro de 1940; (Incluído pela Lei nº 5.710, de 07/10/71)\n\nII - as formas e prazos em que poderá ser autorizada a conversão das ações, vedada a conversão das ações preferenciais em outro tipo de ações com direito a voto. (Incluído pela Lei nº 5.710, de 07/10/71)\n\n§ 3º Os títulos e cautelas representativas das ações preferenciais, emitidos nos termos dos parágrafos anteriores, deverão conter expressamente as restrições ali especificadas. (Incluído pela Lei nº 5.710, de 07/10/71)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2025.%20As%20institui%C3%A7%C3%B5es%20financeiras%20privadas%2C%20exceto%20as%20cooperativas%20de%20cr%C3%A9dito%2C%20constituir-se-%C3%A3o%20unicamente%20sob%20a%20forma%20de%20sociedade%20an%C3%B4nima%2C%20devendo%20a%20totalidade",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DAS INSTITUIÇÕES FINANCEIRAS",
+        "section": "IV",
+        "section_name": "SEÇÃO IV DAS INSTITUIÇÕES FINANCEIRAS PRIVADAS"
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. O capital inicial das instituições financeiras públicas e privadas será sempre realizado em moeda corrente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2026.%20O%20capital%20inicial%20das%20institui%C3%A7%C3%B5es%20financeiras%20p%C3%BAblicas%20e%20privadas%20ser%C3%A1%20sempre%20realizado%20em%20moeda%20corrente.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DAS INSTITUIÇÕES FINANCEIRAS",
+        "section": "IV",
+        "section_name": "SEÇÃO IV DAS INSTITUIÇÕES FINANCEIRAS PRIVADAS"
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Na subscrição do capital inicial e na de seus aumentos em moeda corrente, será exigida no ato a realização de, pelo menos 50% (cinqüenta por cento) do montante subscrito.\n\n§ 1º As quantias recebidas dos subscritores de ações serão recolhidas no prazo de 5 (cinco) dias, contados do recebimento, ao Banco Central da República do Brasil, permanecendo indisponíveis até a solução do respectivo processo.\n\n§ 2º O remanescente do capital subscrito, inicial ou aumentado, em moeda corrente, deverá ser integralizado dentro de um ano da data da solução do respectivo processo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2027.%20Na%20subscri%C3%A7%C3%A3o%20do%20capital%20inicial%20e%20na%20de%20seus%20aumentos%20em%20moeda%20corrente%2C%20ser%C3%A1%20exigida%20no%20ato%20a%20realiza%C3%A7%C3%A3o%20de%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DAS INSTITUIÇÕES FINANCEIRAS",
+        "section": "IV",
+        "section_name": "SEÇÃO IV DAS INSTITUIÇÕES FINANCEIRAS PRIVADAS"
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Os aumentos de capital que não forem realizados em moeda corrente, poderão decorrer da incorporação de reservas, segundo normas expedidas pelo Conselho Monetário Nacional, e da reavaliação da parcela dos bens do ativo imobilizado, representado por imóveis de uso e instalações, aplicados no caso, como limite máximo, os índices fixados pelo Conselho Nacional de Economia.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2028.%20Os%20aumentos%20de%20capital%20que%20n%C3%A3o%20forem%20realizados%20em%20moeda%20corrente%2C%20poder%C3%A3o%20decorrer%20da%20incorpora%C3%A7%C3%A3o%20de%20reservas%2C%20segundo%20normas%20expedidas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DAS INSTITUIÇÕES FINANCEIRAS",
+        "section": "IV",
+        "section_name": "SEÇÃO IV DAS INSTITUIÇÕES FINANCEIRAS PRIVADAS"
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. As instituições financeiras privadas deverão aplicar, de preferência, não menos de 50% (cinqüenta por cento) dos depósitos do público que recolherem, na respectiva Unidade Federada ou Território.\n\n§ 1º O Conselho Monetário Nacional poderá, em casos especiais, admitir que o percentual referido neste artigo seja aplicado em cada Estado e Território isoladamente ou por grupos de Estados e Territórios componentes da mesma região geoeconômica.\n\n§ 2º (Revogado pelo Del nº 48, de 18/11/66)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2029.%20As%20institui%C3%A7%C3%B5es%20financeiras%20privadas%20dever%C3%A3o%20aplicar%2C%20de%20prefer%C3%AAncia%2C%20n%C3%A3o%20menos%20de%2050%25%20%28cinq%C3%BCenta%20por%20cento%29%20dos%20dep%C3%B3sitos%20do%20p%C3%BAblico%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DAS INSTITUIÇÕES FINANCEIRAS",
+        "section": "IV",
+        "section_name": "SEÇÃO IV DAS INSTITUIÇÕES FINANCEIRAS PRIVADAS"
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. As instituições financeiras de direito privado, exceto as de investimento, só poderão participar de capital de quaisquer sociedades com prévia autorização do Banco Central da República do Brasil, solicitada justificadamente e concedida expressamente, ressalvados os casos de garantia de subscrição, nas condições que forem estabelecidas, em caráter geral, pelo Conselho Monetário Nacional.\n\nParágrafo único (Vetado)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2030.%20As%20institui%C3%A7%C3%B5es%20financeiras%20de%20direito%20privado%2C%20exceto%20as%20de%20investimento%2C%20s%C3%B3%20poder%C3%A3o%20participar%20de%20capital%20de%20quaisquer%20sociedades%20com%20pr%C3%A9via",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DAS INSTITUIÇÕES FINANCEIRAS",
+        "section": "IV",
+        "section_name": "SEÇÃO IV DAS INSTITUIÇÕES FINANCEIRAS PRIVADAS"
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. As instituições financeiras levantarão balanços gerais a 30 de junho e 31 de dezembro de cada ano, obrigatoriamente, com observância das regras contábeis estabelecidas pelo Conselho Monetário Nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2031.%20As%20institui%C3%A7%C3%B5es%20financeiras%20levantar%C3%A3o%20balan%C3%A7os%20gerais%20a%2030%20de%20junho%20e%2031%20de%20dezembro%20de%20cada%20ano%2C%20obrigatoriamente%2C%20com%20observ%C3%A2ncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DAS INSTITUIÇÕES FINANCEIRAS",
+        "section": "IV",
+        "section_name": "SEÇÃO IV DAS INSTITUIÇÕES FINANCEIRAS PRIVADAS"
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. As instituições financeiras públicas deverão comunicar ao Banco Central da República do Brasil a nomeação ou a eleição de diretores e membros de órgãos consultivos, fiscais e semelhantes, no prazo de 15 dias da data de sua ocorrência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2032.%20As%20institui%C3%A7%C3%B5es%20financeiras%20p%C3%BAblicas%20dever%C3%A3o%20comunicar%20ao%20Banco%20Central%20da%20Rep%C3%BAblica%20do%20Brasil%20a%20nomea%C3%A7%C3%A3o%20ou%20a%20elei%C3%A7%C3%A3o%20de%20diretores",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DAS INSTITUIÇÕES FINANCEIRAS",
+        "section": "IV",
+        "section_name": "SEÇÃO IV DAS INSTITUIÇÕES FINANCEIRAS PRIVADAS"
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. As instituições financeiras privadas deverão comunicar ao Banco Central da República do Brasil os atos relativos à eleição de diretores e membros de órgão consultivos, fiscais e semelhantes, no prazo de 15 dias de sua ocorrência, de acordo com o estabelecido no art. 10, inciso X, desta lei.\n\n§ 1º O Banco Central da República do Brasil, no prazo máximo de 60 (sessenta) dias, decidirá aceitar ou recusar o nome do eleito, que não atender às condições a que se refere o artigo 10, inciso X, desta lei.\n\n§ 2º A posse do eleito dependerá da aceitação a que se refere o parágrafo anterior.\n\n§ 3º Oferecida integralmente a documentação prevista nas normas referidas no art. 10, inciso X, desta lei, e decorrido, sem manifestação do Banco Central da República do Brasil, o prazo mencionado no § 1º deste artigo, entender-se-á não ter havido recusa a posse.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2033.%20As%20institui%C3%A7%C3%B5es%20financeiras%20privadas%20dever%C3%A3o%20comunicar%20ao%20Banco%20Central%20da%20Rep%C3%BAblica%20do%20Brasil%20os%20atos%20relativos%20%C3%A0%20elei%C3%A7%C3%A3o%20de%20diretores",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DAS INSTITUIÇÕES FINANCEIRAS",
+        "section": "IV",
+        "section_name": "SEÇÃO IV DAS INSTITUIÇÕES FINANCEIRAS PRIVADAS"
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. É vedado às instituições financeiras realizar operação de crédito com a parte relacionada. (Redação dada pela Lei nº 13.506, de 2017)\n\nI - (revogado); (Redação dada pela Lei nº 13.506, de 2017)\n\nII - (revogado); (Redação dada pela Lei nº 13.506, de 2017)\n\nIII -(revogado); (Redação dada pela Lei nº 13.506, de 2017)\n\nIV - (revogado); (Redação dada pela Lei nº 13.506, de 2017)\n\nV - (revogado); (Redação dada pela Lei nº 13.506, de 2017)\n\n§ 1o (Revogado). (Redação dada pela Lei nº 13.506, de 2017)\n\n§ 2o (Revogado). (Redação dada pela Lei nº 13.506, de 2017)\n\n§ 3o Considera-se parte relacionada à instituição financeira, para efeitos deste artigo: (Incluído pela Lei nº 13.506, de 2017)\n\nI - seus controladores, pessoas físicas ou jurídicas, nos termos do art. 116 da Lei no 6.404, de 15 de dezembro de 1976; (Incluído pela Lei nº 13.506, de 2017)\n\nII - seus diretores e membros de órgãos estatutários ou contratuais; (Incluído pela Lei nº 13.506, de 2017)\n\nIII - o cônjuge, o companheiro e os parentes, consanguíneos ou afins, até o segundo grau, das pessoas mencionadas nos incisos I e II deste parágrafo; (Incluído pela Lei nº 13.506, de 2017)\n\nIV - as pessoas físicas com participação societária qualificada em seu capital; e (Incluído pela Lei nº 13.506, de 2017)\n\nV - as pessoas jurídicas: (Incluído pela Lei nº 13.506, de 2017)\n\na) com participação qualificada em seu capital; (Incluído pela Lei nº 13.506, de 2017)\n\nb) em cujo capital, direta ou indiretamente, haja participação societária qualificada; (Incluído pela Lei nº 13.506, de 2017)\n\nc) nas quais haja controle operacional efetivo ou preponderância nas deliberações, independentemente da participação societária; e (Incluído pela Lei nº 13.506, de 2017)\n\nd) que possuírem diretor ou membro de conselho de administração em comum. (Incluído pela Lei nº 13.506, de 2017)\n\n§ 4o Excetuam-se da vedação de que trata o caput deste artigo, respeitados os limites e as condições estabelecidos em regulamentação: (Incluído pela Lei nº 13.506, de 2017)\n\nI - as operações realizadas em condições compatíveis com as de mercado, inclusive quanto a limites, taxas de juros, carência, prazos, garantias requeridas e critérios para classificação de risco para fins de constituição de provisão para perdas prováveis e baixa como prejuízo, sem benefícios adicionais ou diferenciados comparativamente às operações deferidas aos demais clientes de mesmo perfil das respectivas instituições; (Incluído pela Lei nº 13.506, de 2017)\n\nII - as operações com empresas controladas pela União, no caso das instituições financeiras públicas federais; (Incluído pela Lei nº 13.506, de 2017)\n\nIII - as operações de crédito que tenham como contraparte instituição financeira integrante do mesmo conglomerado prudencial, desde que contenham cláusula contratual de subordinação, observado o disposto no inciso V do art. 10 desta Lei, no caso das instituições financeiras bancárias; (Incluído pela Lei nº 13.506, de 2017)\n\nIV - os depósitos interfinanceiros regulados na forma do inciso XXXII do caput do art. 4o desta Lei; (Incluído pela Lei nº 13.506, de 2017)\n\nV - as obrigações assumidas entre partes relacionadas em decorrência de responsabilidade imposta a membros de compensação e demais participantes de câmaras ou prestadores de serviços de compensação e de liquidação autorizados pelo Banco Central do Brasil ou pela Comissão de Valores Mobiliários e suas respectivas contrapartes em operações conduzidas no âmbito das referidas câmaras ou prestadores de serviços; e (Incluído pela Lei nº 13.506, de 2017)\n\nVI - os demais casos autorizados pelo Conselho Monetário Nacional. (Incluído pela Lei nº 13.506, de 2017)\n\n§ 5o Considera-se também realizada com parte relacionada qualquer operação que caracterize negócio indireto, simulado ou mediante interposição de terceiro, com o fim de realizar operação vedada nos termos deste artigo. (Incluído pela Lei nº 13.506, de 2017)\n\n§ 6o O Conselho Monetário Nacional disciplinará o disposto neste artigo, inclusive a definição de operação de crédito, de limites e de participação qualificada. (Incluído pela Lei nº 13.506, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2034.%20%C3%89%20vedado%20%C3%A0s%20institui%C3%A7%C3%B5es%20financeiras%20realizar%20opera%C3%A7%C3%A3o%20de%20cr%C3%A9dito%20com%20a%20parte%20relacionada.%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%2013.506%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DAS INSTITUIÇÕES FINANCEIRAS",
+        "section": "IV",
+        "section_name": "SEÇÃO IV DAS INSTITUIÇÕES FINANCEIRAS PRIVADAS"
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. (Revogado pela Lei nº 13.506, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2035.%20%28Revogado%20pela%20Lei%20n%C2%BA%2013.506%2C%20de%202017%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DAS INSTITUIÇÕES FINANCEIRAS",
+        "section": "IV",
+        "section_name": "SEÇÃO IV DAS INSTITUIÇÕES FINANCEIRAS PRIVADAS"
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. (Revogado pela Lei nº 13.506, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2036.%20%28Revogado%20pela%20Lei%20n%C2%BA%2013.506%2C%20de%202017%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DAS INSTITUIÇÕES FINANCEIRAS",
+        "section": "IV",
+        "section_name": "SEÇÃO IV DAS INSTITUIÇÕES FINANCEIRAS PRIVADAS"
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. As instituições financeiras, entidades e pessoas referidas nos artigos 17 e 18 desta lei, bem como os corretores de fundos públicos, ficam, obrigados a fornecer ao Banco Central da República do Brasil, na forma por ele determinada, os dados ou informes julgados necessários para o fiel desempenho de suas atribuições.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2037.%20As%20institui%C3%A7%C3%B5es%20financeiras%2C%20entidades%20e%20pessoas%20referidas%20nos%20artigos%2017%20e%2018%20desta%20lei%2C%20bem%20como%20os%20corretores%20de%20fundos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DAS INSTITUIÇÕES FINANCEIRAS",
+        "section": "IV",
+        "section_name": "SEÇÃO IV DAS INSTITUIÇÕES FINANCEIRAS PRIVADAS"
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. (Revogado pela Lei Complementar nº 105, de 10.1.2001) (Vide Lei nº Lei 6.385, de 1976)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2038.%20%28Revogado%20pela%20Lei%20Complementar%20n%C2%BA%20105%2C%20de%2010.1.2001%29%20%28Vide%20Lei%20n%C2%BA%20Lei%206.385%2C%20de%201976%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DAS INSTITUIÇÕES FINANCEIRAS",
+        "section": "IV",
+        "section_name": "SEÇÃO IV DAS INSTITUIÇÕES FINANCEIRAS PRIVADAS"
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. Aplicam-se às instituições financeiras estrangeiras, em funcionamento ou que venham a se instalar no País, as disposições da presente lei, sem prejuízo das que se contém na legislação vigente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2039.%20Aplicam-se%20%C3%A0s%20institui%C3%A7%C3%B5es%20financeiras%20estrangeiras%2C%20em%20funcionamento%20ou%20que%20venham%20a%20se%20instalar%20no%20Pa%C3%ADs%2C%20as%20disposi%C3%A7%C3%B5es%20da%20presente%20lei%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DAS INSTITUIÇÕES FINANCEIRAS",
+        "section": "IV",
+        "section_name": "SEÇÃO IV DAS INSTITUIÇÕES FINANCEIRAS PRIVADAS"
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. (Revogado pela Lei Complementar nº 130, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2040.%20%28Revogado%20pela%20Lei%20Complementar%20n%C2%BA%20130%2C%20de%202009%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DAS INSTITUIÇÕES FINANCEIRAS",
+        "section": "IV",
+        "section_name": "SEÇÃO IV DAS INSTITUIÇÕES FINANCEIRAS PRIVADAS"
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. (Revogado pela Lei Complementar nº 130, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2041.%20%28Revogado%20pela%20Lei%20Complementar%20n%C2%BA%20130%2C%20de%202009%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DAS INSTITUIÇÕES FINANCEIRAS",
+        "section": "IV",
+        "section_name": "SEÇÃO IV DAS INSTITUIÇÕES FINANCEIRAS PRIVADAS"
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. (Revogado pela Lei nº 13.506, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2042.%20%28Revogado%20pela%20Lei%20n%C2%BA%2013.506%2C%20de%202017%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DAS PENALIDADES",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. (Revogado pela Lei nº 13.506, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2043.%20%28Revogado%20pela%20Lei%20n%C2%BA%2013.506%2C%20de%202017%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DAS PENALIDADES",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. (Revogado pela Lei nº 13.506, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2044.%20%28Revogado%20pela%20Lei%20n%C2%BA%2013.506%2C%20de%202017%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DAS PENALIDADES",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. As instituições financeiras públicas não federais e as privadas estão sujeitas, nos termos da legislação vigente, à intervenção efetuada pelo Banco Central da República do Brasil ou à liquidação extrajudicial.\n\nParágrafo único. A partir da vigência desta lei, as instituições de que trata este artigo não poderão impetrar concordata.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2045.%20As%20institui%C3%A7%C3%B5es%20financeiras%20p%C3%BAblicas%20n%C3%A3o%20federais%20e%20as%20privadas%20est%C3%A3o%20sujeitas%2C%20nos%20termos%20da%20legisla%C3%A7%C3%A3o%20vigente%2C%20%C3%A0%20interven%C3%A7%C3%A3o%20efetuada%20pelo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DAS PENALIDADES",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. Ficam transferidas as atribuições legais e regulamentares do Ministério da Fazenda relativamente ao meio circulante inclusive as exercidas pela Caixa de Amortização para o Conselho Monetário Nacional, e (VETADO) para o Banco Central da República do Brasil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2046.%20Ficam%20transferidas%20as%20atribui%C3%A7%C3%B5es%20legais%20e%20regulamentares%20do%20Minist%C3%A9rio%20da%20Fazenda%20relativamente%20ao%20meio%20circulante%20inclusive%20as%20exercidas%20pela%20Caixa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DISPOSIÇÕES GERAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Será transferida à responsabilidade do Tesouro Nacional, mediante encampação, sendo definitivamente incorporado ao meio circulante o montante das emissões feitas por solicitação da Carteira de Redescontos do Banco do Brasil S.A. e da Caixa de Mobilização Bancária.\n\n§ 1º O valor correspondente à encampação será destinado à liquidação das responsabilidades financeiras do Tesouro Nacional no Banco do Brasil S. A., inclusive as decorrentes de operações de câmbio concluídas até a data da vigência desta lei, mediante aprovação especificado Poder Legislativo, ao qual será submetida a lista completa dos débitos assim amortizados.\n\n§ 2º Para a liquidação do saldo remanescente das responsabilidades do Tesouro Nacional, após a encampação das emissões atuais por solicitação da Carteira de Redescontos do Banco do Brasil S.A. e da Caixa de Mobilização Bancária, o Poder Executivo submeterá ao Poder Legislativo proposta específica, indicando os recursos e os meios necessários a esse fim.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2047.%20Ser%C3%A1%20transferida%20%C3%A0%20responsabilidade%20do%20Tesouro%20Nacional%2C%20mediante%20encampa%C3%A7%C3%A3o%2C%20sendo%20definitivamente%20incorporado%20ao%20meio%20circulante%20o%20montante%20das%20emiss%C3%B5es%20feitas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DISPOSIÇÕES GERAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. Concluídos os acertos financeiros previstos no artigo anterior, a responsabilidade da moeda em circulação passará a ser do Banco Central da República do Brasil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2048.%20Conclu%C3%ADdos%20os%20acertos%20financeiros%20previstos%20no%20artigo%20anterior%2C%20a%20responsabilidade%20da%20moeda%20em%20circula%C3%A7%C3%A3o%20passar%C3%A1%20a%20ser%20do%20Banco%20Central",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DISPOSIÇÕES GERAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. As operações de crédito da União, por antecipação de receita orçamentaria ou a qualquer outro título, dentro dos limites legalmente autorizados, somente serão realizadas mediante colocação de obrigações, apólices ou letras do Tesouro Nacional.\n\n§ 1º A lei de orçamento, nos termos do artigo 73, § 1º inciso II, da Constituição Federal, determinará quando for o caso, a parcela do déficit que poderá ser coberta pela venda de títulos do Tesouro Nacional diretamente ao Banco Central da República do Brasil.\n\n§ 2º O Banco Central da República do Brasil mediante autorização do Conselho Monetário Nacional baseada na lei orçamentaria do exercício, poderá adquirir diretamente letras do Tesouro Nacional, com emissão de papel-moeda.\n\n§ 3º O Conselho Monetário Nacional decidirá, a seu exclusivo critério, a política de sustentação em bolsa da cotação dos títulos de emissão do Tesouro Nacional.\n\n§ 4º No caso de despesas urgentes e inadiáveis do Governo Federal, a serem atendidas mediante créditos suplementares ou especiais, autorizados após a lei do orçamento, o Congresso Nacional determinará, especificamente, os recursos a serem utilizados na cobertura de tais despesas, estabelecendo, quando a situação do Tesouro Nacional for deficitária, a discriminação prevista neste artigo.\n\n§ 5º Na ocorrência das hipóteses citadas no parágrafo único, do artigo 75, da Constituição Federal, o Presidente da República poderá determinar que o Conselho Monetário Nacional, através do Banco Central da República do Brasil, faça a aquisição de letras do Tesouro Nacional com a emissão de papel-moeda até o montante do crédito extraordinário que tiver sido decretado.\n\n§ 6º O Presidente da República fará acompanhar a determinação ao Conselho Monetário Nacional, mencionada no parágrafo anterior, de cópia da mensagem que deverá dirigir ao Congresso Nacional, indicando os motivos que tornaram indispensável a emissão e solicitando a sua homologação.\n\n§ 7º As letras do Tesouro Nacional, colocadas por antecipação de receita, não poderão ter vencimentos posteriores a 120 (cento e vinte) dias do encerramento do exercício respectivo.\n\n§ 8º Até 15 de março do ano seguinte, o Poder Executivo enviará mensagem ao Poder Legislativo, propondo a forma de liquidação das letras do Tesouro Nacional emitidas no exercício anterior e não resgatadas.\n\n§ 9º É vedada a aquisição dos títulos mencionados neste artigo pelo Banco do Brasil S.A. e pelas instituições bancárias de que a União detenha a maioria das ações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2049.%20As%20opera%C3%A7%C3%B5es%20de%20cr%C3%A9dito%20da%20Uni%C3%A3o%2C%20por%20antecipa%C3%A7%C3%A3o%20de%20receita%20or%C3%A7amentaria%20ou%20a%20qualquer%20outro%20t%C3%ADtulo%2C%20dentro%20dos%20limites%20legalmente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DISPOSIÇÕES GERAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. O Conselho Monetário Nacional, o Banco Central da República do Brasil, o Banco Nacional do Desenvolvimento Econômico, o Banco do Brasil S.A., O Banco do Nordeste do Brasil S.A. e o Banco de Crédito da Amazônia S. A. gozarão dos favores, isenções e privilégios, inclusive fiscais, que são próprios da Fazenda Nacional, ressalvado quanto aos três, últimos, o regime especial de tributação do Imposto de Renda a que estão sujeitos, na forma da legislação em vigor.\n\nParágrafo único. São mantidos os favores, isenções e privilégios de que atualmente gozam as instituições financeiras.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2050.%20O%20Conselho%20Monet%C3%A1rio%20Nacional%2C%20o%20Banco%20Central%20da%20Rep%C3%BAblica%20do%20Brasil%2C%20o%20Banco%20Nacional%20do%20Desenvolvimento%20Econ%C3%B4mico%2C%20o%20Banco%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DISPOSIÇÕES GERAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. Ficam abolidas, após 3 (três) meses da data da vigência desta Lei, as exigências de \"visto\" em \"pedidos de licença\" para efeitos de exportação, excetuadas as referentes a armas, munições, entorpecentes, materiais estratégicos, objetos e obras de valor artístico, cultural ou histórico. (Vide Lei nº 5.025, de 1966)\n\nParágrafo único. Quando o interesse nacional exigir, o Conselho Monetário Nacional, criará o \"visto\" ou exigência equivalente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2051.%20Ficam%20abolidas%2C%20ap%C3%B3s%203%20%28tr%C3%AAs%29%20meses%20da%20data%20da%20vig%C3%AAncia%20desta%20Lei%2C%20as%20exig%C3%AAncias%20de%20%22visto%22%20em%20%22pedidos%20de%20licen%C3%A7a%22",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DISPOSIÇÕES GERAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. O quadro de pessoal do Banco Central da República do Brasil será constituído de: (Vide Lei nº 9.650, de 1998)\n\nI - Pessoal próprio, admitido mediante concurso público de provas ou de títulos e provas, sujeita á pena de nulidade a admissão que se processar com inobservância destas exigências;\n\nII - Pessoal requisitado ao Banco do Brasil S. A. e a outras instituições financeiras federais, de comum acordo com as respectivas administrações;\n\nIII - Pessoal requisitado a outras instituições e que venham prestando serviços à Superintendência da Moeda e do Crédito há mais de 1 (um) ano, contado da data da publicação desta lei.\n\n§ 1º O Banco Central da República do Brasil baixará dentro de 90 (noventa) dias da vigência desta lei, o Estatuto de seus funcionários e servidores, no qual serão garantidos os direitos legalmente atribuídos a seus atuais servidores e mantidos deveres e obrigações que lhes são inerentes.\n\n§ 2º Aos funcionários e servidores requisitados, na forma deste artigo as instituições de origem lhes assegurarão os direitos e vantagens que lhes cabem ou lhes venham a ser atribuídos, como se em efetivo exercício nelas estivessem.\n\n§ 3º Correrão por conta do Banco Central da República do Brasil todas as despesas decorrentes do cumprimento do disposto no parágrafo anterior, inclusive as de aposentadoria e pensão que sejam de responsabilidade das instituições de origem ali mencionadas, estas últimas rateadas proporcionalmente em função dos prazos de vigência da requisição.\n\n§ 4º Os funcionários do quadro de pessoal próprio permanecerão com seus direitos e garantias regidos pela legislação de proteção ao trabalho e de previdência social, incluídos na categoria profissional de bancários.\n\n§ 5º Durante o prazo de 10 (dez) anos, cotados da data da vigência desta lei, é facultado aos funcionários de que tratam os inciso II e III deste artigo, manifestarem opção para transferência para o Quadro do pessoal próprio do Banco Central da República do Brasil, desde que:\n\na) tenham sido admitidos nas respectivas instituições de origem, consoante determina o inciso I, deste artigo;\n\nb) estejam em exercício (Vetado) há mais de dois anos;\n\nc) seja a opção aceita pela Diretoria do Banco Central da República do Brasil, que sobre ela deverá pronunciar-se conclusivamente no prazo máximo de três meses, contados da entrega do respectivo requerimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2052.%20O%20quadro%20de%20pessoal%20do%20Banco%20Central%20da%20Rep%C3%BAblica%20do%20Brasil%20ser%C3%A1%20constitu%C3%ADdo%20de%3A%20%28Vide%20Lei%20n%C2%BA%209.650%2C%20de%201998%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DISPOSIÇÕES GERAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. (Revogado pela Lei nº 4.829, de 05/11/65)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2053.%20%28Revogado%20pela%20Lei%20n%C2%BA%204.829%2C%20de%2005%2F11%2F65%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DISPOSIÇÕES GERAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. O Poder Executivo, com base em proposta do Conselho Monetário Nacional, que deverá ser apresentada dentro de 90 (noventa) dias de sua instalação, submeterá ao Poder Legislativo projeto de lei que institucionalize o crédito rural, regule seu campo específico e caracterize as modalidades de aplicação, indicando as respectivas fontes de recurso.\n\nParágrafo único. A Comissão Consultiva do Crédito Rural dará assessoramento ao Conselho Monetário Nacional, na elaboração da proposta que estabelecerá a coordenação das instituições existentes ou que venham a ser cridas, com o objetivo de garantir sua melhor utilização e da rede bancária privada na difusão do crédito rural, inclusive com redução de seu custo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2054.%20O%20Poder%20Executivo%2C%20com%20base%20em%20proposta%20do%20Conselho%20Monet%C3%A1rio%20Nacional%2C%20que%20dever%C3%A1%20ser%20apresentada%20dentro%20de%2090%20%28noventa%29%20dias",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Disposições Transitórias",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. Ficam transferidas ao Banco Central da República do Brasil as atribuições cometidas por lei ao Ministério da Agricultura, no que concerne à autorização de funcionamento e fiscalização de cooperativas de crédito de qualquer tipo, bem assim da seção de crédito das cooperativas que a tenham.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2055.%20Ficam%20transferidas%20ao%20Banco%20Central%20da%20Rep%C3%BAblica%20do%20Brasil%20as%20atribui%C3%A7%C3%B5es%20cometidas%20por%20lei%20ao%20Minist%C3%A9rio%20da%20Agricultura%2C%20no%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Disposições Transitórias",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. Ficam extintas a Carteira de Redescontos do Banco do Brasil S. A. e a Caixa de Mobilização Bancária, incorporando-se seus bens direitos e obrigações ao Banco Central da República do Brasil.\n\nParágrafo único. As atribuições e prerrogativas legais da Caixa de Mobilização Bancária passam a ser exercidas pelo Banco Central da República do Brasil, sem solução de continuidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2056.%20Ficam%20extintas%20a%20Carteira%20de%20Redescontos%20do%20Banco%20do%20Brasil%20S.%20A.%20e%20a%20Caixa%20de%20Mobiliza%C3%A7%C3%A3o%20Banc%C3%A1ria%2C%20incorporando-se%20seus",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Disposições Transitórias",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. (Revogado pela Lei nº 14.286, de 2021) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2057.%20%28Revogado%20pela%20Lei%20n%C2%BA%2014.286%2C%20de%202021%29%20%28Vig%C3%AAncia%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Disposições Transitórias",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. Os prejuízos decorrentes das operações de câmbio concluídas e eventualmente não regularizadas nos termos desta lei bem como os das operações de câmbio contratadas e não concluídas até a data de vigência desta lei, pelo Banco do Brasil S.A., como mandatário do Governo Federal, serão na medida em que se efetivarem, transferidos ao Banco Central da República do Brasil, sendo neste registrados como responsabilidade do Tesouro Nacional.\n\n§ 1º Os débitos do Tesouro Nacional perante o Banco Central da República do Brasil, provenientes das transferências de que trata este artigo serão regularizados com recursos orçamentários da União.\n\n§ 2º O disposto neste artigo se aplica também aos prejuízos decorrentes de operações de câmbio que outras instituições financeiras federais, de natureza bancária, tenham realizado como mandatárias do Governo Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2058.%20Os%20preju%C3%ADzos%20decorrentes%20das%20opera%C3%A7%C3%B5es%20de%20c%C3%A2mbio%20conclu%C3%ADdas%20e%20eventualmente%20n%C3%A3o%20regularizadas%20nos%20termos%20desta%20lei%20bem%20como%20os%20das",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Disposições Transitórias",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. É mantida, no Banco do Brasil S.A., a Carteira de Comércio Exterior, criada nos termos da Lei nº 2.145, de 29 de dezembro de 1953, e regulamentada pelo Decreto nº 42.820, de 16 de dezembro de 1957, como órgão executor da política de comércio exterior, (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2059.%20%C3%89%20mantida%2C%20no%20Banco%20do%20Brasil%20S.A.%2C%20a%20Carteira%20de%20Com%C3%A9rcio%20Exterior%2C%20criada%20nos%20termos%20da%20Lei%20n%C2%BA%202.145%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Disposições Transitórias",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. O valor equivalente aos recursos financeiros que, nos termos desta lei, passarem a responsabilidade do Banco Central da República do Brasil, e estejam, na data de sua vigência em poder do Baco do Brasil S. A., será neste escriturado em conta em nome do primeiro, considerando-se como suprimento de recursos, nos termos do § 1º, do artigo 19, desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2060.%20O%20valor%20equivalente%20aos%20recursos%20financeiros%20que%2C%20nos%20termos%20desta%20lei%2C%20passarem%20a%20responsabilidade%20do%20Banco%20Central%20da%20Rep%C3%BAblica%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Disposições Transitórias",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. Para cumprir as disposições desta lei o Banco do Brasil S.A. tomará providências no sentido de que seja remodelada sua estrutura administrativa, a fim de que possa eficazmente exercer os encargos e executar os serviços que lhe estão reservados, como principal instrumento de execução da política de crédito do Governo Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2061.%20Para%20cumprir%20as%20disposi%C3%A7%C3%B5es%20desta%20lei%20o%20Banco%20do%20Brasil%20S.A.%20tomar%C3%A1%20provid%C3%AAncias%20no%20sentido%20de%20que%20seja%20remodelada%20sua",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Disposições Transitórias",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "60",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. O Conselho Monetário Nacional determinará providências no sentido de que a transferência de atribuições dos órgãos existentes para o Banco Central da República do Brasil se processe sem solução de continuidade dos serviços atingidos por esta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2062.%20O%20Conselho%20Monet%C3%A1rio%20Nacional%20determinar%C3%A1%20provid%C3%AAncias%20no%20sentido%20de%20que%20a%20transfer%C3%AAncia%20de%20atribui%C3%A7%C3%B5es%20dos%20%C3%B3rg%C3%A3os%20existentes%20para%20o%20Banco",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Disposições Transitórias",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "61",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. Os mandatos dos primeiros membros do Conselho Monetário Nacional, a que alude o inciso IV, do artigo 6º desta lei serão respectivamente de 6 (seis), 5 (cinco), 4 (quatro), 3 (três), 2 (dois) e 1 (um) anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2063.%20Os%20mandatos%20dos%20primeiros%20membros%20do%20Conselho%20Monet%C3%A1rio%20Nacional%2C%20a%20que%20alude%20o%20inciso%20IV%2C%20do%20artigo%206%C2%BA%20desta%20lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Disposições Transitórias",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "62",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. O Conselho Monetário Nacional fixará prazo de até 1 (um) ano da vigência desta lei para a adaptação das instituições financeiras às disposições desta lei.\n\n§ 1º Em casos excepcionais, o Conselho Monetário Nacional poderá prorrogar até mais 1 (um) ano o prazo para que seja complementada a adaptação a que se refere este artigo.\n\n§ 2º Será de um ano, prorrogável, nos termos do parágrafo anterior, o prazo para cumprimento do estabelecido por força do art. 30 desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2064.%20O%20Conselho%20Monet%C3%A1rio%20Nacional%20fixar%C3%A1%20prazo%20de%20at%C3%A9%201%20%28um%29%20ano%20da%20vig%C3%AAncia%20desta%20lei%20para%20a%20adapta%C3%A7%C3%A3o%20das%20institui%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Disposições Transitórias",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "63",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art. 65. Esta lei entrará em vigor 90 (noventa) dias após data de sua publicação, revogadas as disposições em contrário.\n\nBrasília, 31 de dezembro de 1964; 143º da Independência e 76º da República.\n\nH. CASTELO BRANCO Otávio Gouveia de Bulhões Daniel Farraco Roberto de Oliveira Campos\n\nEste texto não substitui o publicado no DOU de 31.1.1965\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595compilado.htm#:~:text=Art.%2065.%20Esta%20lei%20entrar%C3%A1%20em%20vigor%2090%20%28noventa%29%20dias%20ap%C3%B3s%20data%20de%20sua%20publica%C3%A7%C3%A3o%2C%20revogadas%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII Disposições Transitórias",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "64",
+      "next": null
+    }
+  }
+}

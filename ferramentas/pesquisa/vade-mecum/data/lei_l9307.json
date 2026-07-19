@@ -1,0 +1,767 @@
+{
+  "_meta": {
+    "codigo": "L9307",
+    "nome": "Arbitragem",
+    "lei": "Lei 9.307/1996",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm",
+    "total_artigos": 47,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º As pessoas capazes de contratar poderão valer-se da arbitragem para dirimir litígios relativos a direitos patrimoniais disponíveis.\n\n§ 1o A administração pública direta e indireta poderá utilizar-se da arbitragem para dirimir conflitos relativos a direitos patrimoniais disponíveis. (Incluído pela Lei nº 13.129, de 2015) (Vigência)\n\n§ 2o A autoridade ou o órgão competente da administração pública direta para a celebração de convenção de arbitragem é a mesma para a realização de acordos ou transações. (Incluído pela Lei nº 13.129, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%201%C2%BA%20As%20pessoas%20capazes%20de%20contratar%20poder%C3%A3o%20valer-se%20da%20arbitragem%20para%20dirimir%20lit%C3%ADgios%20relativos%20a%20direitos%20patrimoniais%20dispon%C3%ADveis.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "Capítulo I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º A arbitragem poderá ser de direito ou de eqüidade, a critério das partes.\n\n§ 1º Poderão as partes escolher, livremente, as regras de direito que serão aplicadas na arbitragem, desde que não haja violação aos bons costumes e à ordem pública.\n\n§ 2º Poderão, também, as partes convencionar que a arbitragem se realize com base nos princípios gerais de direito, nos usos e costumes e nas regras internacionais de comércio.\n\n§ 3o A arbitragem que envolva a administração pública será sempre de direito e respeitará o princípio da publicidade. (Incluído pela Lei nº 13.129, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%202%C2%BA%20A%20arbitragem%20poder%C3%A1%20ser%20de%20direito%20ou%20de%20eq%C3%BCidade%2C%20a%20crit%C3%A9rio%20das%20partes.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "Capítulo I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º As partes interessadas podem submeter a solução de seus litígios ao juízo arbitral mediante convenção de arbitragem, assim entendida a cláusula compromissória e o compromisso arbitral.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%203%C2%BA%20As%20partes%20interessadas%20podem%20submeter%20a%20solu%C3%A7%C3%A3o%20de%20seus%20lit%C3%ADgios%20ao%20ju%C3%ADzo%20arbitral%20mediante%20conven%C3%A7%C3%A3o%20de%20arbitragem%2C%20assim%20entendida%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º A cláusula compromissória é a convenção através da qual as partes em um contrato comprometem-se a submeter à arbitragem os litígios que possam vir a surgir, relativamente a tal contrato.\n\n§ 1º A cláusula compromissória deve ser estipulada por escrito, podendo estar inserta no próprio contrato ou em documento apartado que a ele se refira.\n\n§ 2º Nos contratos de adesão, a cláusula compromissória só terá eficácia se o aderente tomar a iniciativa de instituir a arbitragem ou concordar, expressamente, com a sua instituição, desde que por escrito em documento anexo ou em negrito, com a assinatura ou visto especialmente para essa cláusula.\n\n§ 3o (VETADO). (Incluído pela Lei nº 13.129, de 2015) (Vigência)\n\n§ 4o (VETADO). (Incluído pela Lei nº 13.129, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%204%C2%BA%20A%20cl%C3%A1usula%20compromiss%C3%B3ria%20%C3%A9%20a%20conven%C3%A7%C3%A3o%20atrav%C3%A9s%20da%20qual%20as%20partes%20em%20um%20contrato%20comprometem-se%20a%20submeter%20%C3%A0%20arbitragem%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Reportando-se as partes, na cláusula compromissória, às regras de algum órgão arbitral institucional ou entidade especializada, a arbitragem será instituída e processada de acordo com tais regras, podendo, igualmente, as partes estabelecer na própria cláusula, ou em outro documento, a forma convencionada para a instituição da arbitragem.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%205%C2%BA%20Reportando-se%20as%20partes%2C%20na%20cl%C3%A1usula%20compromiss%C3%B3ria%2C%20%C3%A0s%20regras%20de%20algum%20%C3%B3rg%C3%A3o%20arbitral%20institucional%20ou%20entidade%20especializada%2C%20a%20arbitragem%20ser%C3%A1%20institu%C3%ADda",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Não havendo acordo prévio sobre a forma de instituir a arbitragem, a parte interessada manifestará à outra parte sua intenção de dar início à arbitragem, por via postal ou por outro meio qualquer de comunicação, mediante comprovação de recebimento, convocando-a para, em dia, hora e local certos, firmar o compromisso arbitral.\n\nParágrafo único. Não comparecendo a parte convocada ou, comparecendo, recusar-se a firmar o compromisso arbitral, poderá a outra parte propor a demanda de que trata o art. 7º desta Lei, perante o órgão do Poder Judiciário a que, originariamente, tocaria o julgamento da causa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%206%C2%BA%20N%C3%A3o%20havendo%20acordo%20pr%C3%A9vio%20sobre%20a%20forma%20de%20instituir%20a%20arbitragem%2C%20a%20parte%20interessada%20manifestar%C3%A1%20%C3%A0%20outra%20parte%20sua%20inten%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Existindo cláusula compromissória e havendo resistência quanto à instituição da arbitragem, poderá a parte interessada requerer a citação da outra parte para comparecer em juízo a fim de lavrar-se o compromisso, designando o juiz audiência especial para tal fim.\n\n§ 1º O autor indicará, com precisão, o objeto da arbitragem, instruindo o pedido com o documento que contiver a cláusula compromissória.\n\n§ 2º Comparecendo as partes à audiência, o juiz tentará, previamente, a conciliação acerca do litígio. Não obtendo sucesso, tentará o juiz conduzir as partes à celebração, de comum acordo, do compromisso arbitral.\n\n§ 3º Não concordando as partes sobre os termos do compromisso, decidirá o juiz, após ouvir o réu, sobre seu conteúdo, na própria audiência ou no prazo de dez dias, respeitadas as disposições da cláusula compromissória e atendendo ao disposto nos arts. 10 e 21, § 2º, desta Lei.\n\n§ 4º Se a cláusula compromissória nada dispuser sobre a nomeação de árbitros, caberá ao juiz, ouvidas as partes, estatuir a respeito, podendo nomear árbitro único para a solução do litígio.\n\n§ 5º A ausência do autor, sem justo motivo, à audiência designada para a lavratura do compromisso arbitral, importará a extinção do processo sem julgamento de mérito.\n\n§ 6º Não comparecendo o réu à audiência, caberá ao juiz, ouvido o autor, estatuir a respeito do conteúdo do compromisso, nomeando árbitro único.\n\n§ 7º A sentença que julgar procedente o pedido valerá como compromisso arbitral.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%207%C2%BA%20Existindo%20cl%C3%A1usula%20compromiss%C3%B3ria%20e%20havendo%20resist%C3%AAncia%20quanto%20%C3%A0%20institui%C3%A7%C3%A3o%20da%20arbitragem%2C%20poder%C3%A1%20a%20parte%20interessada%20requerer%20a%20cita%C3%A7%C3%A3o%20da%20outra",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º A cláusula compromissória é autônoma em relação ao contrato em que estiver inserta, de tal sorte que a nulidade deste não implica, necessariamente, a nulidade da cláusula compromissória.\n\nParágrafo único. Caberá ao árbitro decidir de ofício, ou por provocação das partes, as questões acerca da existência, validade e eficácia da convenção de arbitragem e do contrato que contenha a cláusula compromissória.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%208%C2%BA%20A%20cl%C3%A1usula%20compromiss%C3%B3ria%20%C3%A9%20aut%C3%B4noma%20em%20rela%C3%A7%C3%A3o%20ao%20contrato%20em%20que%20estiver%20inserta%2C%20de%20tal%20sorte%20que%20a%20nulidade%20deste",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º O compromisso arbitral é a convenção através da qual as partes submetem um litígio à arbitragem de uma ou mais pessoas, podendo ser judicial ou extrajudicial.\n\n§ 1º O compromisso arbitral judicial celebrar-se-á por termo nos autos, perante o juízo ou tribunal, onde tem curso a demanda.\n\n§ 2º O compromisso arbitral extrajudicial será celebrado por escrito particular, assinado por duas testemunhas, ou por instrumento público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%209%C2%BA%20O%20compromisso%20arbitral%20%C3%A9%20a%20conven%C3%A7%C3%A3o%20atrav%C3%A9s%20da%20qual%20as%20partes%20submetem%20um%20lit%C3%ADgio%20%C3%A0%20arbitragem%20de%20uma%20ou%20mais",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Constará, obrigatoriamente, do compromisso arbitral:\n\nI - o nome, profissão, estado civil e domicílio das partes;\n\nII - o nome, profissão e domicílio do árbitro, ou dos árbitros, ou, se for o caso, a identificação da entidade à qual as partes delegaram a indicação de árbitros;\n\nIII - a matéria que será objeto da arbitragem; e\n\nIV - o lugar em que será proferida a sentença arbitral.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2010.%20Constar%C3%A1%2C%20obrigatoriamente%2C%20do%20compromisso%20arbitral%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Poderá, ainda, o compromisso arbitral conter:\n\nI - local, ou locais, onde se desenvolverá a arbitragem;\n\nII - a autorização para que o árbitro ou os árbitros julguem por eqüidade, se assim for convencionado pelas partes;\n\nIII - o prazo para apresentação da sentença arbitral;\n\nIV - a indicação da lei nacional ou das regras corporativas aplicáveis à arbitragem, quando assim convencionarem as partes;\n\nV - a declaração da responsabilidade pelo pagamento dos honorários e das despesas com a arbitragem; e\n\nVI - a fixação dos honorários do árbitro, ou dos árbitros.\n\nParágrafo único. Fixando as partes os honorários do árbitro, ou dos árbitros, no compromisso arbitral, este constituirá título executivo extrajudicial; não havendo tal estipulação, o árbitro requererá ao órgão do Poder Judiciário que seria competente para julgar, originariamente, a causa que os fixe por sentença.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2011.%20Poder%C3%A1%2C%20ainda%2C%20o%20compromisso%20arbitral%20conter%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Extingue-se o compromisso arbitral:\n\nI - escusando-se qualquer dos árbitros, antes de aceitar a nomeação, desde que as partes tenham declarado, expressamente, não aceitar substituto;\n\nII - falecendo ou ficando impossibilitado de dar seu voto algum dos árbitros, desde que as partes declarem, expressamente, não aceitar substituto; e\n\nIII - tendo expirado o prazo a que se refere o art. 11, inciso III, desde que a parte interessada tenha notificado o árbitro, ou o presidente do tribunal arbitral, concedendo-lhe o prazo de dez dias para a prolação e apresentação da sentença arbitral.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2012.%20Extingue-se%20o%20compromisso%20arbitral%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Pode ser árbitro qualquer pessoa capaz e que tenha a confiança das partes.\n\n§ 1º As partes nomearão um ou mais árbitros, sempre em número ímpar, podendo nomear, também, os respectivos suplentes.\n\n§ 2º Quando as partes nomearem árbitros em número par, estes estão autorizados, desde logo, a nomear mais um árbitro. Não havendo acordo, requererão as partes ao órgão do Poder Judiciário a que tocaria, originariamente, o julgamento da causa a nomeação do árbitro, aplicável, no que couber, o procedimento previsto no art. 7º desta Lei.\n\n§ 3º As partes poderão, de comum acordo, estabelecer o processo de escolha dos árbitros, ou adotar as regras de um órgão arbitral institucional ou entidade especializada.\n\n§ 4º Sendo nomeados vários árbitros, estes, por maioria, elegerão o presidente do tribunal arbitral. Não havendo consenso, será designado presidente o mais idoso.\n\n§ 4o As partes, de comum acordo, poderão afastar a aplicação de dispositivo do regulamento do órgão arbitral institucional ou entidade especializada que limite a escolha do árbitro único, coárbitro ou presidente do tribunal à respectiva lista de árbitros, autorizado o controle da escolha pelos órgãos competentes da instituição, sendo que, nos casos de impasse e arbitragem multiparte, deverá ser observado o que dispuser o regulamento aplicável. (Redação dada pela Lei nº 13.129, de 2015) (Vigência)\n\n§ 5º O árbitro ou o presidente do tribunal designará, se julgar conveniente, um secretário, que poderá ser um dos árbitros.\n\n§ 6º No desempenho de sua função, o árbitro deverá proceder com imparcialidade, independência, competência, diligência e discrição.\n\n§ 7º Poderá o árbitro ou o tribunal arbitral determinar às partes o adiantamento de verbas para despesas e diligências que julgar necessárias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2013.%20Pode%20ser%20%C3%A1rbitro%20qualquer%20pessoa%20capaz%20e%20que%20tenha%20a%20confian%C3%A7a%20das%20partes.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Estão impedidos de funcionar como árbitros as pessoas que tenham, com as partes ou com o litígio que lhes for submetido, algumas das relações que caracterizam os casos de impedimento ou suspeição de juízes, aplicando-se-lhes, no que couber, os mesmos deveres e responsabilidades, conforme previsto no Código de Processo Civil.\n\n§ 1º As pessoas indicadas para funcionar como árbitro têm o dever de revelar, antes da aceitação da função, qualquer fato que denote dúvida justificada quanto à sua imparcialidade e independência.\n\n§ 2º O árbitro somente poderá ser recusado por motivo ocorrido após sua nomeação. Poderá, entretanto, ser recusado por motivo anterior à sua nomeação, quando:\n\na) não for nomeado, diretamente, pela parte; ou\n\nb) o motivo para a recusa do árbitro for conhecido posteriormente à sua nomeação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2014.%20Est%C3%A3o%20impedidos%20de%20funcionar%20como%20%C3%A1rbitros%20as%20pessoas%20que%20tenham%2C%20com%20as%20partes%20ou%20com%20o%20lit%C3%ADgio%20que%20lhes%20for",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. A parte interessada em argüir a recusa do árbitro apresentará, nos termos do art. 20, a respectiva exceção, diretamente ao árbitro ou ao presidente do tribunal arbitral, deduzindo suas razões e apresentando as provas pertinentes.\n\nParágrafo único. Acolhida a exceção, será afastado o árbitro suspeito ou impedido, que será substituído, na forma do art. 16 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2015.%20A%20parte%20interessada%20em%20arg%C3%BCir%20a%20recusa%20do%20%C3%A1rbitro%20apresentar%C3%A1%2C%20nos%20termos%20do%20art.%2020%2C%20a%20respectiva%20exce%C3%A7%C3%A3o%2C%20diretamente%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Se o árbitro escusar-se antes da aceitação da nomeação, ou, após a aceitação, vier a falecer, tornar-se impossibilitado para o exercício da função, ou for recusado, assumirá seu lugar o substituto indicado no compromisso, se houver.\n\n§ 1º Não havendo substituto indicado para o árbitro, aplicar-se-ão as regras do órgão arbitral institucional ou entidade especializada, se as partes as tiverem invocado na convenção de arbitragem.\n\n§ 2º Nada dispondo a convenção de arbitragem e não chegando as partes a um acordo sobre a nomeação do árbitro a ser substituído, procederá a parte interessada da forma prevista no art. 7º desta Lei, a menos que as partes tenham declarado, expressamente, na convenção de arbitragem, não aceitar substituto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2016.%20Se%20o%20%C3%A1rbitro%20escusar-se%20antes%20da%20aceita%C3%A7%C3%A3o%20da%20nomea%C3%A7%C3%A3o%2C%20ou%2C%20ap%C3%B3s%20a%20aceita%C3%A7%C3%A3o%2C%20vier%20a%20falecer%2C%20tornar-se%20impossibilitado%20para%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Os árbitros, quando no exercício de suas funções ou em razão delas, ficam equiparados aos funcionários públicos, para os efeitos da legislação penal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2017.%20Os%20%C3%A1rbitros%2C%20quando%20no%20exerc%C3%ADcio%20de%20suas%20fun%C3%A7%C3%B5es%20ou%20em%20raz%C3%A3o%20delas%2C%20ficam%20equiparados%20aos%20funcion%C3%A1rios%20p%C3%BAblicos%2C%20para%20os%20efeitos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. O árbitro é juiz de fato e de direito, e a sentença que proferir não fica sujeita a recurso ou a homologação pelo Poder Judiciário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2018.%20O%20%C3%A1rbitro%20%C3%A9%20juiz%20de%20fato%20e%20de%20direito%2C%20e%20a%20senten%C3%A7a%20que%20proferir%20n%C3%A3o%20fica%20sujeita%20a%20recurso%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "Capítulo III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Considera-se instituída a arbitragem quando aceita a nomeação pelo árbitro, se for único, ou por todos, se forem vários.\n\nParágrafo único. Instituída a arbitragem e entendendo o árbitro ou o tribunal arbitral que há necessidade de explicitar alguma questão disposta na convenção de arbitragem, será elaborado, juntamente com as partes, um adendo, firmado por todos, que passará a fazer parte integrante da convenção de arbitragem\n\n§ 1o Instituída a arbitragem e entendendo o árbitro ou o tribunal arbitral que há necessidade de explicitar questão disposta na convenção de arbitragem, será elaborado, juntamente com as partes, adendo firmado por todos, que passará a fazer parte integrante da convenção de arbitragem. (Incluído pela Lei nº 13.129, de 2015) (Vigência)\n\n§ 2o A instituição da arbitragem interrompe a prescrição, retroagindo à data do requerimento de sua instauração, ainda que extinta a arbitragem por ausência de jurisdição. (Incluído pela Lei nº 13.129, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2019.%20Considera-se%20institu%C3%ADda%20a%20arbitragem%20quando%20aceita%20a%20nomea%C3%A7%C3%A3o%20pelo%20%C3%A1rbitro%2C%20se%20for%20%C3%BAnico%2C%20ou%20por%20todos%2C%20se%20forem%20v%C3%A1rios.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "Capítulo IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. A parte que pretender argüir questões relativas à competência, suspeição ou impedimento do árbitro ou dos árbitros, bem como nulidade, invalidade ou ineficácia da convenção de arbitragem, deverá fazê-lo na primeira oportunidade que tiver de se manifestar, após a instituição da arbitragem.\n\n§ 1º Acolhida a argüição de suspeição ou impedimento, será o árbitro substituído nos termos do art. 16 desta Lei, reconhecida a incompetência do árbitro ou do tribunal arbitral, bem como a nulidade, invalidade ou ineficácia da convenção de arbitragem, serão as partes remetidas ao órgão do Poder Judiciário competente para julgar a causa.\n\n§ 2º Não sendo acolhida a argüição, terá normal prosseguimento a arbitragem, sem prejuízo de vir a ser examinada a decisão pelo órgão do Poder Judiciário competente, quando da eventual propositura da demanda de que trata o art. 33 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2020.%20A%20parte%20que%20pretender%20arg%C3%BCir%20quest%C3%B5es%20relativas%20%C3%A0%20compet%C3%AAncia%2C%20suspei%C3%A7%C3%A3o%20ou%20impedimento%20do%20%C3%A1rbitro%20ou%20dos%20%C3%A1rbitros%2C%20bem%20como%20nulidade%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "Capítulo IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. A arbitragem obedecerá ao procedimento estabelecido pelas partes na convenção de arbitragem, que poderá reportar-se às regras de um órgão arbitral institucional ou entidade especializada, facultando-se, ainda, às partes delegar ao próprio árbitro, ou ao tribunal arbitral, regular o procedimento.\n\n§ 1º Não havendo estipulação acerca do procedimento, caberá ao árbitro ou ao tribunal arbitral discipliná-lo.\n\n§ 2º Serão, sempre, respeitados no procedimento arbitral os princípios do contraditório, da igualdade das partes, da imparcialidade do árbitro e de seu livre convencimento.\n\n§ 3º As partes poderão postular por intermédio de advogado, respeitada, sempre, a faculdade de designar quem as represente ou assista no procedimento arbitral.\n\n§ 4º Competirá ao árbitro ou ao tribunal arbitral, no início do procedimento, tentar a conciliação das partes, aplicando-se, no que couber, o art. 28 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2021.%20A%20arbitragem%20obedecer%C3%A1%20ao%20procedimento%20estabelecido%20pelas%20partes%20na%20conven%C3%A7%C3%A3o%20de%20arbitragem%2C%20que%20poder%C3%A1%20reportar-se%20%C3%A0s%20regras%20de%20um%20%C3%B3rg%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "Capítulo IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Poderá o árbitro ou o tribunal arbitral tomar o depoimento das partes, ouvir testemunhas e determinar a realização de perícias ou outras provas que julgar necessárias, mediante requerimento das partes ou de ofício.\n\n§ 1º O depoimento das partes e das testemunhas será tomado em local, dia e hora previamente comunicados, por escrito, e reduzido a termo, assinado pelo depoente, ou a seu rogo, e pelos árbitros.\n\n§ 2º Em caso de desatendimento, sem justa causa, da convocação para prestar depoimento pessoal, o árbitro ou o tribunal arbitral levará em consideração o comportamento da parte faltosa, ao proferir sua sentença; se a ausência for de testemunha, nas mesmas circunstâncias, poderá o árbitro ou o presidente do tribunal arbitral requerer à autoridade judiciária que conduza a testemunha renitente, comprovando a existência da convenção de arbitragem.\n\n§ 3º A revelia da parte não impedirá que seja proferida a sentença arbitral.\n\n§ 4º Ressalvado o disposto no § 2º, havendo necessidade de medidas coercitivas ou cautelares, os árbitros poderão solicitá-las ao órgão do Poder Judiciário que seria, originariamente, competente para julgar a causa. (Revogado pela Lei nº 13.129, de 2015) (Vigência)\n\n§ 5º Se, durante o procedimento arbitral, um árbitro vier a ser substituído fica a critério do substituto repetir as provas já produzidas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2022.%20Poder%C3%A1%20o%20%C3%A1rbitro%20ou%20o%20tribunal%20arbitral%20tomar%20o%20depoimento%20das%20partes%2C%20ouvir%20testemunhas%20e%20determinar%20a%20realiza%C3%A7%C3%A3o%20de%20per%C3%ADcias",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "Capítulo IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "22-A"
+    },
+    "22-A": {
+      "numero": "22-A",
+      "texto": "Art. 22-A. Antes de instituída a arbitragem, as partes poderão recorrer ao Poder Judiciário para a concessão de medida cautelar ou de urgência. (Incluído pela Lei nº 13.129, de 2015) (Vigência)\n\nParágrafo único. Cessa a eficácia da medida cautelar ou de urgência se a parte interessada não requerer a instituição da arbitragem no prazo de 30 (trinta) dias, contado da data de efetivação da respectiva decisão. (Incluído pela Lei nº 13.129, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2022-A.%20Antes%20de%20institu%C3%ADda%20a%20arbitragem%2C%20as%20partes%20poder%C3%A3o%20recorrer%20ao%20Poder%20Judici%C3%A1rio%20para%20a%20concess%C3%A3o%20de%20medida%20cautelar%20ou%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV-A (Incluído pela Lei nº 13.129, de 2015) (Vigência)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "22-B"
+    },
+    "22-B": {
+      "numero": "22-B",
+      "texto": "Art. 22-B. Instituída a arbitragem, caberá aos árbitros manter, modificar ou revogar a medida cautelar ou de urgência concedida pelo Poder Judiciário. (Incluído pela Lei nº 13.129, de 2015) (Vigência)\n\nParágrafo único. Estando já instituída a arbitragem, a medida cautelar ou de urgência será requerida diretamente aos árbitros. (Incluído pela Lei nº 13.129, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2022-B.%20Institu%C3%ADda%20a%20arbitragem%2C%20caber%C3%A1%20aos%20%C3%A1rbitros%20manter%2C%20modificar%20ou%20revogar%20a%20medida%20cautelar%20ou%20de%20urg%C3%AAncia%20concedida%20pelo%20Poder%20Judici%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV-A (Incluído pela Lei nº 13.129, de 2015) (Vigência)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22-A",
+      "next": "22-C"
+    },
+    "22-C": {
+      "numero": "22-C",
+      "texto": "Art. 22-C. O árbitro ou o tribunal arbitral poderá expedir carta arbitral para que o órgão jurisdicional nacional pratique ou determine o cumprimento, na área de sua competência territorial, de ato solicitado pelo árbitro. (Incluído pela Lei nº 13.129, de 2015) (Vigência)\n\nParágrafo único. No cumprimento da carta arbitral será observado o segredo de justiça, desde que comprovada a confidencialidade estipulada na arbitragem. (Incluído pela Lei nº 13.129, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2022-C.%20O%20%C3%A1rbitro%20ou%20o%20tribunal%20arbitral%20poder%C3%A1%20expedir%20carta%20arbitral%20para%20que%20o%20%C3%B3rg%C3%A3o%20jurisdicional%20nacional%20pratique%20ou%20determine%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV-B (Incluído pela Lei nº 13.129, de 2015) (Vigência)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22-B",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. A sentença arbitral será proferida no prazo estipulado pelas partes. Nada tendo sido convencionado, o prazo para a apresentação da sentença é de seis meses, contado da instituição da arbitragem ou da substituição do árbitro.\n\nParágrafo único. As partes e os árbitros, de comum acordo, poderão prorrogar o prazo estipulado.\n\n§ 1o Os árbitros poderão proferir sentenças parciais. (Incluído pela Lei nº 13.129, de 2015) (Vigência)\n\n§ 2o As partes e os árbitros, de comum acordo, poderão prorrogar o prazo para proferir a sentença final. (Incluído pela Lei nº 13.129, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2023.%20A%20senten%C3%A7a%20arbitral%20ser%C3%A1%20proferida%20no%20prazo%20estipulado%20pelas%20partes.%20Nada%20tendo%20sido%20convencionado%2C%20o%20prazo%20para%20a%20apresenta%C3%A7%C3%A3o%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22-C",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. A decisão do árbitro ou dos árbitros será expressa em documento escrito.\n\n§ 1º Quando forem vários os árbitros, a decisão será tomada por maioria. Se não houver acordo majoritário, prevalecerá o voto do presidente do tribunal arbitral.\n\n§ 2º O árbitro que divergir da maioria poderá, querendo, declarar seu voto em separado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2024.%20A%20decis%C3%A3o%20do%20%C3%A1rbitro%20ou%20dos%20%C3%A1rbitros%20ser%C3%A1%20expressa%20em%20documento%20escrito.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Sobrevindo no curso da arbitragem controvérsia acerca de direitos indisponíveis e verificando-se que de sua existência, ou não, dependerá o julgamento, o árbitro ou o tribunal arbitral remeterá as partes à autoridade competente do Poder Judiciário, suspendendo o procedimento arbitral. (Revogado pela Lei nº 13.129, de 2015) (Vigência)\n\nParágrafo único. Resolvida a questão prejudicial e juntada aos autos a sentença ou acórdão transitados em julgado, terá normal seguimento a arbitragem. (Revogado pela Lei nº 13.129, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2025.%20Sobrevindo%20no%20curso%20da%20arbitragem%20controv%C3%A9rsia%20acerca%20de%20direitos%20indispon%C3%ADveis%20e%20verificando-se%20que%20de%20sua%20exist%C3%AAncia%2C%20ou%20n%C3%A3o%2C%20depender%C3%A1%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. São requisitos obrigatórios da sentença arbitral:\n\nI - o relatório, que conterá os nomes das partes e um resumo do litígio;\n\nII - os fundamentos da decisão, onde serão analisadas as questões de fato e de direito, mencionando-se, expressamente, se os árbitros julgaram por eqüidade;\n\nIII - o dispositivo, em que os árbitros resolverão as questões que lhes forem submetidas e estabelecerão o prazo para o cumprimento da decisão, se for o caso; e\n\nIV - a data e o lugar em que foi proferida.\n\nParágrafo único. A sentença arbitral será assinada pelo árbitro ou por todos os árbitros. Caberá ao presidente do tribunal arbitral, na hipótese de um ou alguns dos árbitros não poder ou não querer assinar a sentença, certificar tal fato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2026.%20S%C3%A3o%20requisitos%20obrigat%C3%B3rios%20da%20senten%C3%A7a%20arbitral%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. A sentença arbitral decidirá sobre a responsabilidade das partes acerca das custas e despesas com a arbitragem, bem como sobre verba decorrente de litigância de má-fé, se for o caso, respeitadas as disposições da convenção de arbitragem, se houver.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2027.%20A%20senten%C3%A7a%20arbitral%20decidir%C3%A1%20sobre%20a%20responsabilidade%20das%20partes%20acerca%20das%20custas%20e%20despesas%20com%20a%20arbitragem%2C%20bem%20como%20sobre",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Se, no decurso da arbitragem, as partes chegarem a acordo quanto ao litígio, o árbitro ou o tribunal arbitral poderá, a pedido das partes, declarar tal fato mediante sentença arbitral, que conterá os requisitos do art. 26 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2028.%20Se%2C%20no%20decurso%20da%20arbitragem%2C%20as%20partes%20chegarem%20a%20acordo%20quanto%20ao%20lit%C3%ADgio%2C%20o%20%C3%A1rbitro%20ou%20o%20tribunal%20arbitral%20poder%C3%A1%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Proferida a sentença arbitral, dá-se por finda a arbitragem, devendo o árbitro, ou o presidente do tribunal arbitral, enviar cópia da decisão às partes, por via postal ou por outro meio qualquer de comunicação, mediante comprovação de recebimento, ou, ainda, entregando-a diretamente às partes, mediante recibo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2029.%20Proferida%20a%20senten%C3%A7a%20arbitral%2C%20d%C3%A1-se%20por%20finda%20a%20arbitragem%2C%20devendo%20o%20%C3%A1rbitro%2C%20ou%20o%20presidente%20do%20tribunal%20arbitral%2C%20enviar%20c%C3%B3pia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. No prazo de cinco dias, a contar do recebimento da notificação ou da ciência pessoal da sentença arbitral, a parte interessada, mediante comunicação à outra parte, poderá solicitar ao árbitro ou ao tribunal arbitral que:",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2030.%20No%20prazo%20de%20cinco%20dias%2C%20a%20contar%20do%20recebimento%20da%20notifica%C3%A7%C3%A3o%20ou%20da%20ci%C3%AAncia%20pessoal%20da%20senten%C3%A7a%20arbitral%2C%20a%20parte",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. A sentença arbitral produz, entre as partes e seus sucessores, os mesmos efeitos da sentença proferida pelos órgãos do Poder Judiciário e, sendo condenatória, constitui título executivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2031.%20A%20senten%C3%A7a%20arbitral%20produz%2C%20entre%20as%20partes%20e%20seus%20sucessores%2C%20os%20mesmos%20efeitos%20da%20senten%C3%A7a%20proferida%20pelos%20%C3%B3rg%C3%A3os%20do%20Poder",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. É nula a sentença arbitral se:\n\nI - for nulo o compromisso;\n\nI - for nula a convenção de arbitragem; (Redação dada pela Lei nº 13.129, de 2015) (Vigência)\n\nII - emanou de quem não podia ser árbitro;\n\nIII - não contiver os requisitos do art. 26 desta Lei;\n\nIV - for proferida fora dos limites da convenção de arbitragem;\n\nV - não decidir todo o litígio submetido à arbitragem; (Revogado pela Lei nº 13.129, de 2015) (Vigência)\n\nVI - comprovado que foi proferida por prevaricação, concussão ou corrupção passiva;\n\nVII - proferida fora do prazo, respeitado o disposto no art. 12, inciso III, desta Lei; e\n\nVIII - forem desrespeitados os princípios de que trata o art. 21, § 2º, desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2032.%20%C3%89%20nula%20a%20senten%C3%A7a%20arbitral%20se%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. A parte interessada poderá pleitear ao órgão do Poder Judiciário competente a decretação da nulidade da sentença arbitral, nos casos previstos nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2033.%20A%20parte%20interessada%20poder%C3%A1%20pleitear%20ao%20%C3%B3rg%C3%A3o%20do%20Poder%20Judici%C3%A1rio%20competente%20a%20decreta%C3%A7%C3%A3o%20da%20nulidade%20da%20senten%C3%A7a%20arbitral%2C%20nos%20casos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. A sentença arbitral estrangeira será reconhecida ou executada no Brasil de conformidade com os tratados internacionais com eficácia no ordenamento interno e, na sua ausência, estritamente de acordo com os termos desta Lei.\n\nParágrafo único. Considera-se sentença arbitral estrangeira a que tenha sido proferida fora do território nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2034.%20A%20senten%C3%A7a%20arbitral%20estrangeira%20ser%C3%A1%20reconhecida%20ou%20executada%20no%20Brasil%20de%20conformidade%20com%20os%20tratados%20internacionais%20com%20efic%C3%A1cia%20no%20ordenamento",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Para ser reconhecida ou executada no Brasil, a sentença arbitral estrangeira está sujeita, unicamente, à homologação do Supremo Tribunal Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2035.%20Para%20ser%20reconhecida%20ou%20executada%20no%20Brasil%2C%20a%20senten%C3%A7a%20arbitral%20estrangeira%20est%C3%A1%20sujeita%2C%20unicamente%2C%20%C3%A0%20homologa%C3%A7%C3%A3o%20do%20Supremo%20Tribunal%20Federal.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Aplica-se à homologação para reconhecimento ou execução de sentença arbitral estrangeira, no que couber, o disposto nos arts. 483 e 484 do Código de Processo Civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2036.%20Aplica-se%20%C3%A0%20homologa%C3%A7%C3%A3o%20para%20reconhecimento%20ou%20execu%C3%A7%C3%A3o%20de%20senten%C3%A7a%20arbitral%20estrangeira%2C%20no%20que%20couber%2C%20o%20disposto%20nos%20arts.%20483%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. A homologação de sentença arbitral estrangeira será requerida pela parte interessada, devendo a petição inicial conter as indicações da lei processual, conforme o art. 282 do Código de Processo Civil, e ser instruída, necessariamente, com:\n\nI - o original da sentença arbitral ou uma cópia devidamente certificada, autenticada pelo consulado brasileiro e acompanhada de tradução oficial;\n\nII - o original da convenção de arbitragem ou cópia devidamente certificada, acompanhada de tradução oficial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2037.%20A%20homologa%C3%A7%C3%A3o%20de%20senten%C3%A7a%20arbitral%20estrangeira%20ser%C3%A1%20requerida%20pela%20parte%20interessada%2C%20devendo%20a%20peti%C3%A7%C3%A3o%20inicial%20conter%20as%20indica%C3%A7%C3%B5es%20da%20lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Somente poderá ser negada a homologação para o reconhecimento ou execução de sentença arbitral estrangeira, quando o réu demonstrar que:\n\nI - as partes na convenção de arbitragem eram incapazes;\n\nII - a convenção de arbitragem não era válida segundo a lei à qual as partes a submeteram, ou, na falta de indicação, em virtude da lei do país onde a sentença arbitral foi proferida;\n\nIII - não foi notificado da designação do árbitro ou do procedimento de arbitragem, ou tenha sido violado o princípio do contraditório, impossibilitando a ampla defesa;\n\nIV - a sentença arbitral foi proferida fora dos limites da convenção de arbitragem, e não foi possível separar a parte excedente daquela submetida à arbitragem;\n\nV - a instituição da arbitragem não está de acordo com o compromisso arbitral ou cláusula compromissória;\n\nVI - a sentença arbitral não se tenha, ainda, tornado obrigatória para as partes, tenha sido anulada, ou, ainda, tenha sido suspensa por órgão judicial do país onde a sentença arbitral for prolatada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2038.%20Somente%20poder%C3%A1%20ser%20negada%20a%20homologa%C3%A7%C3%A3o%20para%20o%20reconhecimento%20ou%20execu%C3%A7%C3%A3o%20de%20senten%C3%A7a%20arbitral%20estrangeira%2C%20quando%20o%20r%C3%A9u%20demonstrar%20que%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. Também será denegada a homologação para o reconhecimento ou execução da sentença arbitral estrangeira, se o Supremo Tribunal Federal constatar que:",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2039.%20Tamb%C3%A9m%20ser%C3%A1%20denegada%20a%20homologa%C3%A7%C3%A3o%20para%20o%20reconhecimento%20ou%20execu%C3%A7%C3%A3o%20da%20senten%C3%A7a%20arbitral%20estrangeira%2C%20se%20o%20Supremo%20Tribunal%20Federal%20constatar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. A denegação da homologação para reconhecimento ou execução de sentença arbitral estrangeira por vícios formais, não obsta que a parte interessada renove o pedido, uma vez sanados os vícios apresentados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2040.%20A%20denega%C3%A7%C3%A3o%20da%20homologa%C3%A7%C3%A3o%20para%20reconhecimento%20ou%20execu%C3%A7%C3%A3o%20de%20senten%C3%A7a%20arbitral%20estrangeira%20por%20v%C3%ADcios%20formais%2C%20n%C3%A3o%20obsta%20que%20a%20parte",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. Os arts. 267, inciso VII; 301, inciso IX; e 584, inciso III, do Código de Processo Civil passam a ter a seguinte redação:\n\n\"Art. 267.........................................................................\n\nVII - pela convenção de arbitragem;\"\n\n\"Art. 301.........................................................................\n\nIX - convenção de arbitragem;\"\n\n\"Art. 584...........................................................................\n\nIII - a sentença arbitral e a sentença homologatória de transação ou de conciliação;\"",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2041.%20Os%20arts.%20267%2C%20inciso%20VII%3B%20301%2C%20inciso%20IX%3B%20e%20584%2C%20inciso%20III%2C%20do%20C%C3%B3digo%20de%20Processo%20Civil%20passam%20a%20ter",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "Capítulo VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. O art. 520 do Código de Processo Civil passa a ter mais um inciso, com a seguinte redação:\n\n\"Art. 520...........................................................................\n\nVI - julgar procedente o pedido de instituição de arbitragem.\"",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2042.%20O%20art.%20520%20do%20C%C3%B3digo%20de%20Processo%20Civil%20passa%20a%20ter%20mais%20um%20inciso%2C%20com%20a%20seguinte%20reda%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "Capítulo VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. Esta Lei entrará em vigor sessenta dias após a data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2043.%20Esta%20Lei%20entrar%C3%A1%20em%20vigor%20sessenta%20dias%20ap%C3%B3s%20a%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "Capítulo VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. Ficam revogados os arts. 1.037 a 1.048 da Lei nº 3.071, de 1º de janeiro de 1916, Código Civil Brasileiro; os arts. 101 e 1.072 a 1.102 da Lei nº 5.869, de 11 de janeiro de 1973, Código de Processo Civil; e demais disposições em contrário.\n\nBrasília, 23 de setembro de 1996; 175º da Independência e 108º da República.\n\nFERNANDO HENRIQUE CARDOSO Nelson A. Jobim\n\nEste texto não substitui o publicado no DOU de 24.9.1996\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9307.htm#:~:text=Art.%2044.%20Ficam%20revogados%20os%20arts.%201.037%20a%201.048%20da%20Lei%20n%C2%BA%203.071%2C%20de%201%C2%BA%20de%20janeiro%20de%201916%2C%20C%C3%B3digo%20Civil%20Brasileiro%3B",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "Capítulo VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": null
+    }
+  }
+}

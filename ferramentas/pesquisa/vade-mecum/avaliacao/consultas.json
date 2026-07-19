@@ -1200,6 +1200,59 @@
     "L11417:3"
    ],
    "justificativa": "O art. 2º fixa os pressupostos da edição, revisão e cancelamento do enunciado; o art. 3º os legitimados; o art. 1º delimita o objeto; o art. 5º trata da revogação da lei de base; o art. 6º do efeito da proposta sobre os processos."
+  },
+  {
+   "id": "l9307-clausula-compromissoria",
+   "grupo": "legislacao",
+   "consulta": "cláusula compromissória convenção de arbitragem",
+   "filtro": {
+    "codigo": "L9307"
+   },
+   "relevantes": [
+    "L9307:4",
+    "L9307:3",
+    "L9307:8",
+    "L9307:5"
+   ],
+   "obrigatorios": [
+    "L9307:4"
+   ],
+   "justificativa": "O art. 4º define a cláusula compromissória; o art. 3º a convenção de arbitragem como gênero; o art. 8º a autonomia da cláusula; o art. 5º a remissão a regras institucionais. O art. 38 (homologação de sentença estrangeira) não responde à consulta."
+  },
+  {
+   "id": "lsa-acionista-controlador",
+   "grupo": "legislacao",
+   "consulta": "acionista controlador abuso de poder responsabilidade",
+   "filtro": {
+    "codigo": "LSA"
+   },
+   "relevantes": [
+    "LSA:116",
+    "LSA:117",
+    "LSA:238"
+   ],
+   "obrigatorios": [
+    "LSA:116",
+    "LSA:117"
+   ],
+   "justificativa": "O art. 116 define o acionista controlador e seus deveres; o art. 117 fixa a responsabilidade por abuso de poder e o rol exemplificativo; o art. 238 estende deveres e responsabilidades ao controlador da economia mista. Os arts. 157 (administrador) e 4º (companhia aberta) não foram julgados relevantes."
+  },
+  {
+   "id": "l9656-plano-referencia",
+   "grupo": "legislacao",
+   "consulta": "plano-referência de assistência à saúde cobertura mínima",
+   "filtro": {
+    "codigo": "L9656"
+   },
+   "relevantes": [
+    "L9656:10",
+    "L9656:12",
+    "L9656:1"
+   ],
+   "obrigatorios": [
+    "L9656:10"
+   ],
+   "justificativa": "O art. 10 institui o plano-referência e sua cobertura; o art. 12 fixa as exigências mínimas por segmentação; o art. 1º delimita o âmbito da lei. Os arts. 5º e 6º (estrutura regulatória na redação original) não respondem à consulta."
   }
  ]
 }

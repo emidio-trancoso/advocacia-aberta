@@ -1,0 +1,1295 @@
+{
+  "_meta": {
+    "codigo": "D2181",
+    "nome": "Sistema Nacional de Defesa do Consumidor e Sanções Administrativas",
+    "lei": "Decreto 2.181/1997",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm",
+    "total_artigos": 80,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Fica organizado o Sistema Nacional de Defesa do Consumidor - SNDC e estabelecidas as normas gerais de aplicação das sanções administrativas, nos termos da Lei nº 8.078, de 11 de setembro de 1990.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%201%C2%BA%20Fica%20organizado%20o%20Sistema%20Nacional%20de%20Defesa%20do%20Consumidor%20-%20SNDC%20e%20estabelecidas%20as%20normas%20gerais%20de%20aplica%C3%A7%C3%A3o%20das%20san%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Integram o SNDC a Secretaria de Direito Econômico do Ministério da Justiça SDE, por meio do seu Departamento de Proteção e Defesa do Consumidor - DPDC, e os demais órgãos federais, estaduais, do Distrito Federal, municipais e as entidades civis de defesa do consumidor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%202%C2%BA%20Integram%20o%20SNDC%20a%20Secretaria%20de%20Direito%20Econ%C3%B4mico%20do%20Minist%C3%A9rio%20da%20Justi%C3%A7a%20SDE%2C%20por%20meio%20do%20seu%20Departamento%20de%20Prote%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Compete ao DPDC, a coordenação da política do Sistema Nacional de Defesa do Consumidor, cabendo-lhe:",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%203%C2%BA%20Compete%20ao%20DPDC%2C%20a%20coordena%C3%A7%C3%A3o%20da%20pol%C3%ADtica%20do%20Sistema%20Nacional%20de%20Defesa%20do%20Consumidor%2C%20cabendo-lhe%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º No âmbito de sua jurisdição e competência, caberá ao órgão estadual, do Distrito Federal e municipal de proteção e defesa do consumidor, criado, na forma da lei, especificamente para este fim, exercitar as atividades contidas nos incisos II a XII do art. 3º deste Decreto e, ainda:\n\nI - planejar, elaborar, propor, coordenar e executar a política estadual, do Distrito Federal e municipal de proteção e defesa do consumidor, nas suas respectivas áreas de atuação;\n\nII - dar atendimento aos consumidores, processando, regularmente, as reclamações fundamentadas;\n\nIII - fiscalizar as relações de consumo;\n\nIV - funcionar, no processo administrativo, como instância de instrução e julgamento, no âmbito de sua competência, dentro das regras fixadas pela Lei nº 8.078, de 1990, pela legislação complementar e por este Decreto;\n\nV - elaborar e divulgar anualmente, no âmbito de sua competência, o cadastro de reclamações fundamentadas contra fornecedores de produtos e serviços, de que trata o art. 44 da Lei nº 8.078, de 1990, e remeter cópia ao DPDC;\n\nV - elaborar e divulgar anualmente, no âmbito de sua competência, o cadastro de reclamações fundamentadas contra fornecedores de produtos e serviços, de que trata o art. 44 da Lei no 8.078, de 1990 e remeter cópia à Secretaria Nacional do Consumidor do Ministério da Justiça; (Redação dada pelo Decreto nº 7.738, de 2012).\n\nVI - desenvolver outras atividades compatíveis com suas finalidades.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%204%C2%BA%20No%20%C3%A2mbito%20de%20sua%20jurisdi%C3%A7%C3%A3o%20e%20compet%C3%AAncia%2C%20caber%C3%A1%20ao%20%C3%B3rg%C3%A3o%20estadual%2C%20do%20Distrito%20Federal%20e%20municipal%20de%20prote%C3%A7%C3%A3o%20e%20defesa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Qualquer entidade ou órgão da Administração Pública, federal, estadual e municipal, destinado à defesa dos interesses e direitos do consumidor, tem, no âmbito de suas respectivas competências, atribuição para apurar e punir infrações a este Decreto e à legislação das relações de consumo.\n\nParágrafo único. Se instaurado mais de um processo administrativo por pessoas jurídicas de direito público distintas, para apuração de infração decorrente de um mesmo fato imputado ao mesmo fornecedor, eventual conflito de competência será dirimido pelo DPDC, que poderá ouvir a Comissão Nacional Permanente de Defesa do Consumidor - CNPDC, levando sempre em consideração a competência federativa para legislar sobre a respectiva atividade econômica.\n\nParágrafo único. Se instaurado mais de um processo administrativo por pessoas jurídicas de direito público distintas, para apuração de infração decorrente de um mesmo fato imputado ao mesmo fornecedor, eventual conflito de competência será dirimido pela Secretaria Nacional do Consumidor, que poderá ouvir a Comissão Nacional Permanente de Defesa do Consumidor - CNPDC, levando sempre em consideração a competência federativa para legislar sobre a respectiva atividade econômica. (Redação dada pelo Decreto nº 7.738, de 2012).\n\nParágrafo único. Se instaurado mais de um processo administrativo por pessoas jurídicas de direito público distintas, para apuração de infração decorrente de um mesmo fato imputado ao mesmo fornecedor, eventual conflito de competência será dirimido pela Secretaria Nacional do Consumidor do Ministério da Justiça e Segurança Pública, que poderá ouvir o Conselho Nacional de Defesa do Consumidor, considerada a competência federativa para legislar sobre a respectiva atividade econômica. (Redação dada pelo Decreto nº 10.417, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%205%C2%BA%20Qualquer%20entidade%20ou%20%C3%B3rg%C3%A3o%20da%20Administra%C3%A7%C3%A3o%20P%C3%BAblica%2C%20federal%2C%20estadual%20e%20municipal%2C%20destinado%20%C3%A0%20defesa%20dos%20interesses%20e%20direitos%20do%20consumidor%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º As entidades e órgãos da Administração Pública destinados à defesa dos interesses e direitos protegidos pelo Código de Defesa do Consumidor poderão celebrar compromissos de ajustamento de conduta às exigências legais, nos termos do § 6º do art. 5º da Lei nº 7.347, de 1985, na órbita de suas respectivas competências.\n\n§ 1º A celebração de termo de ajustamento de conduta não impede que outro, desde que mais vantajoso para o consumidor, seja lavrado por quaisquer das pessoas jurídicas de direito público integrantes do SNDC.\n\n§ 2º A qualquer tempo, o órgão subscritor poderá, diante de novas informações ou se assim as circunstâncias o exigirem, retificar ou complementar o acordo firmado, determinando outras providências que se fizerem necessárias, sob pena de invalidade imediata do ato, dando-se seguimento ao procedimento administrativo eventualmente arquivado.\n\n§ 3º O compromisso de ajustamento conterá, entre outras, cláusulas que estipulem condições sobre:\n\nI - obrigação do fornecedor de adequar sua conduta às exigências legais, no prazo ajustado\n\nII - pena pecuniária, diária, pelo descumprimento do ajustado, levando-se em conta os seguintes critérios:\n\na) o valor global da operação investigada;\n\nb) o valor do produto ou serviço em questão;\n\nc) os antecedentes do infrator;\n\nd) a situação econômica do infrator;\n\nIII - ressarcimento das despesas de investigação da infração e instrução do procedimento administrativo.\n\n§ 4º A celebração do compromisso de ajustamento suspenderá o curso do processo administrativo, se instaurado, que somente será arquivado após atendidas todas as condições estabelecidas no respectivo termo.\n\n§ 5º O descumprimento do termo de ajustamento de conduta acarretará a perda dos benefícios concedidos ao compromissário, sem prejuízo da pena pecuniária diária a que se refere o inciso II do caput do § 3º. (Incluído pelo Decreto nº 10.887, de 2021)\n\n§ 6º Os recursos provenientes de termo de ajustamento de conduta deverão ser utilizados nos termos do disposto no art. 13 da Lei nº 7.347, de 1985. (Incluído pelo Decreto nº 10.887, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%206%C2%BA%20As%20entidades%20e%20%C3%B3rg%C3%A3os%20da%20Administra%C3%A7%C3%A3o%20P%C3%BAblica%20destinados%20%C3%A0%20defesa%20dos%20interesses%20e%20direitos%20protegidos%20pelo%20C%C3%B3digo%20de%20Defesa%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "6-A"
+    },
+    "6-A": {
+      "numero": "6-A",
+      "texto": "Art. 6º-A O termo de ajustamento de conduta poderá estipular obrigações de fazer ou compensatórias a serem cumpridas pelo compromissário. (Incluído pelo Decreto nº 10.887, de 2021)\n\nParágrafo único. As obrigações de que trata o caput deverão ser estimadas, preferencialmente, em valor monetário. (Incluído pelo Decreto nº 10.887, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%206%C2%BA-A%20O%20termo%20de%20ajustamento%20de%20conduta%20poder%C3%A1%20estipular%20obriga%C3%A7%C3%B5es%20de%20fazer%20ou%20compensat%C3%B3rias%20a%20serem%20cumpridas%20pelo%20compromiss%C3%A1rio.%20%28Inclu%C3%ADdo%20pelo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Compete aos demais órgãos públicos federais, estaduais, do Distrito Federal e municipais que passarem a integrar o SNDC fiscalizar as relações de consumo, no âmbito de sua competência, e autuar, na forma da legislação, os responsáveis por práticas que violem os direitos do consumidor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%207%C2%BA%20Compete%20aos%20demais%20%C3%B3rg%C3%A3os%20p%C3%BAblicos%20federais%2C%20estaduais%2C%20do%20Distrito%20Federal%20e%20municipais%20que%20passarem%20a%20integrar%20o%20SNDC%20fiscalizar%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6-A",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º As entidades civis de proteção e defesa do consumidor, legalmente constituídas, poderão:\n\nI - encaminhar denúncias aos órgãos públicos de proteção e defesa do consumidor, para as providências legais cabíveis;\n\nIl - representar o consumidor em juízo, observado o disposto no inciso IV do art. 82 da Lei nº 8.078, de 1990;\n\nIII - exercer outras atividades correlatas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%208%C2%BA%20As%20entidades%20civis%20de%20prote%C3%A7%C3%A3o%20e%20defesa%20do%20consumidor%2C%20legalmente%20constitu%C3%ADdas%2C%20poder%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º A fiscalização das relações de consumo de que tratam a Lei nº 8.078, de 1990, este Decreto e as demais normas de defesa do consumidor será exercida em todo o território nacional pela Secretaria de Direito Econômico do Ministério da Justiça, por meio do DPDC, pelos órgãos federais integrantes do SNDC, pelos órgãos conveniados com a Secretaria e pelos órgãos de proteção e defesa do consumidor criados pelos Estados, Distrito Federal e Municípios, em suas respectivas áreas de atuação e competência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%209%C2%BA%20A%20fiscaliza%C3%A7%C3%A3o%20das%20rela%C3%A7%C3%B5es%20de%20consumo%20de%20que%20tratam%20a%20Lei%20n%C2%BA%208.078%2C%20de%201990%2C%20este%20Decreto%20e%20as%20demais",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A fiscalização de que trata este Decreto será efetuada por agentes fiscais, oficialmente designados, vinculados aos respectivos órgãos de proteção e defesa do consumidor, no âmbito federal, estadual, do Distrito Federal e municipal, devidamente credenciados mediante Cédula de Identificação Fiscal, admitida a delegação mediante convênio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2010.%20A%20fiscaliza%C3%A7%C3%A3o%20de%20que%20trata%20este%20Decreto%20ser%C3%A1%20efetuada%20por%20agentes%20fiscais%2C%20oficialmente%20designados%2C%20vinculados%20aos%20respectivos%20%C3%B3rg%C3%A3os%20de%20prote%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Sem exclusão da responsabilidade dos órgãos que compõem o SNDC, os agentes de que trata o artigo anterior responderão pelos atos que praticarem quando investidos da ação fiscalizadora.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2011.%20Sem%20exclus%C3%A3o%20da%20responsabilidade%20dos%20%C3%B3rg%C3%A3os%20que%20comp%C3%B5em%20o%20SNDC%2C%20os%20agentes%20de%20que%20trata%20o%20artigo%20anterior%20responder%C3%A3o%20pelos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. São consideradas práticas infrativa:\n\nI - condicionar o fornecimento de produto ou serviço ao fornecimento de outro produto ou serviço, bem como, sem justa causa, a limites quantitativos;\n\nII - recusar atendimento às demandas dos consumidores na exata medida de sua disponibilidade de estoque e, ainda, de conformidade com os usos e costumes;\n\nIll - recusar, sem motivo justificado, atendimento à demanda dos consumidores de serviços;\n\nIV - enviar ou entregar ao consumidor qualquer produto ou fornecer qualquer serviço, sem solicitação prévia;\n\nV - prevalecer-se da fraqueza ou ignorância do consumidor, tendo em vista sua idade, saúde, conhecimento ou condição social, para impingir-lhe seus produtos ou serviços;\n\nVI - exigir do consumidor vantagem manifestamente excessiva;\n\nVII - executar serviços sem a prévia elaboração de orçamento e auto consumidor. ressalvadas as decorrentes de práticas anteriores entre as partes;\n\nVIII - repassar informação depreciativa referente a ato praticado pelo consumidor no exercício de seus direitos;\n\nIX - colocar, no mercado de consumo, qualquer produto ou serviço:\n\na) em desacordo com as normas expedidas pelos órgãos oficiais competentes, ou, se normas específicas não existirem, pela Associação Brasileira de Normas Técnicas - ABNT ou outra entidade credenciada pelo Conselho Nacional de Metrologia, Normalização e Qualidade Industrial - CONMETRO;\n\na) em desacordo com as normas expedidas pelos órgãos oficiais competentes ou, se normas específicas não existirem, pela Associação Brasileira de Normas Técnicas - ABNT ou outra entidade credenciada pelo Conselho Nacional de Metrologia, Normalização e Qualidade Industrial - Conmetro, observado o disposto no inciso VI do caput do art. 3º da Lei nº 13.874, de 20 de setembro de 2019; (Redação dada pelo Decreto nº 10.887, de 2021)\n\nb) que acarrete riscos à saúde ou à segurança dos consumidores e sem informações ostensivas e adequadas;\n\nb) que acarrete riscos à saúde ou à segurança dos consumidores e sem informações ostensivas e adequadas, inclusive no caso de oferta ou de aquisição de produto ou serviço por meio de provedor de aplicação; (Redação dada pelo Decreto nº 10.887, de 2021)\n\nc) em desacordo com as indicações constantes do recipiente, da embalagem, da rotulagem ou mensagem publicitária, respeitadas as variações decorrentes de sua natureza;\n\nd) impróprio ou inadequado ao consumo a que se destina ou que lhe diminua o valor;\n\nX - deixar de reexecutar os serviços, quando cabível, sem custo adicional;\n\nXI - deixar de estipular prazo para o cumprimento de sua obrigação ou deixar a fixação ou variação de seu termo inicial a seu exclusivo critério.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2012.%20S%C3%A3o%20consideradas%20pr%C3%A1ticas%20infrativa%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Serão consideradas, ainda, práticas infrativas, na forma dos dispositivos da Lei nº 8.078, de 1990:\n\nI - ofertar produtos ou serviços sem as informações corretas, claras, precisa e ostensivas, em língua portuguesa, sobre suas características, qualidade, quantidade, composição, preço, condições de pagamento, juros, encargos, garantia, prazos de validade e origem, entre outros dados relevantes;\n\nII - deixar de comunicar à autoridade competente a periculosidade do produto ou serviço, quando do lançamento dos mesmos no mercado de consumo, ou quando da verificação posterior da existência do risco;\n\nIII - deixar de comunicar aos consumidores, por meio de anúncios publicitários, a periculosidade do produto ou serviço, quando do lançamento dos mesmos no mercado de consumo, ou quando da verificação posterior da existência do risco;\n\nIV - deixar de reparar os danos causados aos consumidores por defeitos decorrentes de projetos, fabricação, construção, montagem, manipulação, apresentação ou acondicionamento de seus produtos ou serviços, ou por informações insuficientes ou inadequadas sobre a sua utilização e risco;\n\nV - deixar de empregar componentes de reposição originais, adequados e novos, ou que mantenham as especificações técnicas do fabricante, salvo se existir autorização em contrário do consumidor;\n\nVI - deixar de cumprir a oferta, publicitária ou não, suficientemente precisa, ressalvada a incorreção retificada em tempo hábil ou exclusivamente atribuível ao veículo de comunicação, sem prejuízo, inclusive nessas duas hipóteses, do cumprimento forçado do anunciado ou do ressarcimento de perdas e danos sofridos pelo consumidor, assegurado o direito de regresso do anunciante contra seu segurador ou responsável direto;\n\nVII - omitir, nas ofertas ou vendas eletrônicas, por telefone ou reembolso postal, o nome e endereço do fabricante ou do importador na embalagem, na publicidade e nos impressos utilizados na transação comercial;\n\nVIII - deixar de cumprir, no caso de fornecimento de produtos e serviços, o regime de preços tabelados, congelados, administrados, fixados ou controlados pelo Poder Público;\n\nIX - submeter o consumidor inadimplente a ridículo ou a qualquer tipo de constrangimento ou ameaça;\n\nX - impedir ou dificultar o acesso gratuito do consumidor às informações existentes em cadastros, fichas, registros de dados pessoais e de consumo, arquivados sobre ele, bem como sobre as respectivas fontes;\n\nXI - elaborar cadastros de consumo com dados irreais ou imprecisos;\n\nXII - manter cadastros e dados de consumidores com informações negativas, divergentes da proteção legal;\n\nXIIII - deixar de comunicar, por escrito, ao consumidor a abertura de cadastro, ficha, registro de dados pessoais e de consumo, quando não solicitada por ele;\n\nXIV - deixar de corrigir, imediata e gratuitamente, a inexatidão de dados e cadastros, quando solicitado pelo consumidor;\n\nXV - deixar de comunicar ao consumidor, no prazo de cinco dias úteis, as correções cadastrais por ele solicitadas;\n\nXVI - impedir, dificultar ou negar, sem justa causa, o cumprimento das declarações constantes de escritos particulares, recibos e pré-contratos concernentes às relações de consumo;\n\nXVII - omitir em impressos, catálogos ou comunicações, impedir, dificultar ou negar a desistência contratual, no prazo de até sete dias a contar da assinatura do contrato ou do ato de recebimento do produto ou serviço, sempre que a contratação ocorrer fora do estabelecimento comercial, especialmente por telefone ou a domicílio;\n\nXVIII - impedir, dificultar ou negar a devolução dos valores pagos, monetariamente atualizados, durante o prazo de reflexão, em caso de desistência do contrato pelo consumidor;\n\nXIX - deixar de entregar o termo de garantia, devidamente preenchido com as informações previstas no parágrafo único do art. 50 da Lei nº 8.078, de 1990;\n\nXX - deixar, em contratos que envolvam vendas a prazo ou com cartão de crédito, de informar por escrito ao consumidor, prévia e adequadamente, inclusive nas comunicações publicitárias, o preço do produto ou do serviço em moeda corrente nacional, o montante dos juros de mora e da taxa efetiva anual de juros, os acréscimos legal e contratualmente previstos, o número e a periodicidade das prestações e, com igual destaque, a soma total a pagar, com ou sem financiamento;\n\nXXI - deixar de assegurar a oferta de componentes e peças de reposição, enquanto não cessar a fabricação ou importação do produto, e, caso cessadas, de manter a oferta de componentes e peças de reposição por período razoável de tempo, nunca inferior à vida útil do produto ou serviço;\n\nXXII - propor ou aplicar índices ou formas de reajuste alternativos, bem como fazê-lo em desacordo com aquele que seja legal ou contratualmente permitido;\n\nXXIII - recusar a venda de produto ou a prestação de serviços, publicamente ofertados, diretamente a quem se dispõe a adquiri-los mediante pronto pagamento, ressalvados os casos regulados em leis especiais;\n\nXXIV - deixar de trocar o produto impróprio, inadequado, ou de valor diminuído, por outro da mesma espécie, em perfeitas condições de uso, ou de restituir imediatamente a quantia paga, devidamente corrigida, ou fazer abatimento proporcional do preço, a critério do consumidor.\n\nParágrafo único. Aplica-se o disposto nos incisos I, II, III e VII do caput à oferta e à aquisição de produto ou de serviço por meio de provedor de aplicação. (Incluído pelo Decreto nº 10.887, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2013.%20Ser%C3%A3o%20consideradas%2C%20ainda%2C%20pr%C3%A1ticas%20infrativas%2C%20na%20forma%20dos%20dispositivos%20da%20Lei%20n%C2%BA%208.078%2C%20de%201990%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. É enganosa qualquer modalidade de informação ou comunicação de caráter publicitário inteira ou parcialmente falsa, ou, por qualquer outro modo, esmo por omissão, capaz de induzir a erro o consumidor a respeito da natureza, características, qualidade, quantidade, propriedade, origem, preço e de quaisquer outros dados sobre produtos ou serviços.\n\n§ 1º É enganosa, por omissão, a publicidade que deixar de informar sobre dado essencial do produto ou serviço a ser colocado à disposição dos consumidores.\n\n§ 2º É abusiva, entre outras, a publicidade discriminatória de qualquer natureza, que incite à violência, explore o medo ou a superstição, se aproveite da deficiência de julgamento e da inexperiência da criança, desrespeite valores ambientais, seja capaz de induzir o consumidor a se comportar de forma prejudicial ou perigosa à sua saúde ou segurança, ou que viole normas legais ou regulamentares de controle da publicidade.\n\n§ 3º O ônus da prova da veracidade (não-enganosidade) e da correção (não-abusividade) da informação ou comunicação publicitária cabe a quem as patrocina.\n\n§ 4º Para fins do disposto neste artigo, entende-se por publicidade a veiculação de mensagem, em meio analógico ou digital, inclusive por meio de provedor de aplicação, que vise a promover a oferta ou a aquisição de produto ou de serviço disponibilizado no mercado de consumo. (Incluído pelo Decreto nº 10.887, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2014.%20%C3%89%20enganosa%20qualquer%20modalidade%20de%20informa%C3%A7%C3%A3o%20ou%20comunica%C3%A7%C3%A3o%20de%20car%C3%A1ter%20publicit%C3%A1rio%20inteira%20ou%20parcialmente%20falsa%2C%20ou%2C%20por%20qualquer%20outro%20modo%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "13",
+      "next": "14-A"
+    },
+    "14-A": {
+      "numero": "14-A",
+      "texto": "Art. 14-A. Para fins do disposto no art. 14, o órgão de proteção e defesa do consumidor deverá considerar as práticas de autorregulação adotadas pelo mercado de publicidade em geral. (Incluído pelo Decreto nº 10.887, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2014-A.%20Para%20fins%20do%20disposto%20no%20art.%2014%2C%20o%20%C3%B3rg%C3%A3o%20de%20prote%C3%A7%C3%A3o%20e%20defesa%20do%20consumidor%20dever%C3%A1%20considerar%20as%20pr%C3%A1ticas%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "14",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Estando a mesma empresa sendo acionada em mais de um Estado federado pelo mesmo fato gerador de prática infrativa, a autoridade máxima do sistema estadual poderá remeter o processo ao órgão coordenador do SNDC, que apurará o fato e aplicará as sanções respectivas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2015.%20Estando%20a%20mesma%20empresa%20sendo%20acionada%20em%20mais%20de%20um%20Estado%20federado%20pelo%20mesmo%20fato%20gerador%20de%20pr%C3%A1tica%20infrativa%2C%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "14-A",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Nos casos de processos administrativos tramitando em mais de um Estado, que envolvam interesses difusos ou coletivos, o DPDC poderá avocá-los, ouvida a Comissão Nacional Permanente de Defesa do Consumidor, bem como as autoridades máximas dos sistemas estaduais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2016.%20Nos%20casos%20de%20processos%20administrativos%20tramitando%20em%20mais%20de%20um%20Estado%2C%20que%20envolvam%20interesses%20difusos%20ou%20coletivos%2C%20o%20DPDC%20poder%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. As práticas infrativas classificam-se em:\n\nI - leves: aquelas em que forem verificadas somente circunstâncias atenuantes;\n\nII - graves: aquelas em que forem verificadas circunstâncias agravantes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2017.%20As%20pr%C3%A1ticas%20infrativas%20classificam-se%20em%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. A inobservância das normas contidas na Lei nº 8.078, de 1990, e das demais normas de defesa do consumidor constituirá prática infrativa e sujeitará o fornecedor às seguintes penalidades, que poderão ser aplicadas isolada ou cumulativamente, inclusive de forma cautelar, antecedente ou incidente no processo administrativo, sem prejuízo das de natureza cível, penal e das definidas em normas específicas:\n\nI - multa;\n\nII - apreensão do produto;\n\nIll - inutilização do produto;\n\nIV - cassação do registro do produto junto ao órgão competente;\n\nV - proibição de fabricação do produto;\n\nVI - suspensão de fornecimento de produtos ou serviços;\n\nVII - suspensão temporária de atividade;\n\nVIII - revogação de concessão ou permissão de uso;\n\nIX - cassação de licença do estabelecimento ou de atividade;\n\nX - interdição, total ou parcial, de estabelecimento, de obra ou de atividade;\n\nXI - intervenção administrativa;\n\nXII - imposição de contrapropaganda.\n\n§ 1º Responderá pela prática infrativa, sujeitando-se às sanções administrativas previstas neste Decreto, quem por ação ou omissão lhe der causa, concorrer para sua prática ou dela se beneficiar.\n\n§ 2º As penalidades previstas neste artigo serão aplicadas pelos órgãos oficiais integrantes do SNDC, sem prejuízo das atribuições do órgão normativo ou regulador da atividade, na forma da legislação vigente.\n\n§ 3º As penalidades previstas nos incisos III a XI deste artigo sujeitam-se a posterior confirmação pelo órgão normativo ou regulador da atividade, nos limites de sua competência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2018.%20A%20inobserv%C3%A2ncia%20das%20normas%20contidas%20na%20Lei%20n%C2%BA%208.078%2C%20de%201990%2C%20e%20das%20demais%20normas%20de%20defesa%20do%20consumidor%20constituir%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Toda pessoa física ou jurídica que fizer ou promover publicidade enganosa ou abusiva ficará sujeita à pena de multa, cumulada com aquelas previstas no artigo anterior, sem prejuízo da competência de outros órgãos administrativos.\n\nParágrafo único. Incide também nas penas deste artigo o fornecedor que:\n\na) deixar de organizar ou negar aos legítimos interessados os dados fáticos, técnicos e científicos que dão sustentação à mensagem publicitária;\n\nb) veicular publicidade de forma que o consumidor não possa, fácil e imediatamente, identificá-la como tal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2019.%20Toda%20pessoa%20f%C3%ADsica%20ou%20jur%C3%ADdica%20que%20fizer%20ou%20promover%20publicidade%20enganosa%20ou%20abusiva%20ficar%C3%A1%20sujeita%20%C3%A0%20pena%20de%20multa%2C%20cumulada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Sujeitam-se à pena de multa os órgãos públicos que, por si ou suas empresas concessionárias, permissionárias ou sob qualquer outra forma de empreendimento, deixarem de fornecer serviços adequados, eficientes, seguros e, quanto aos essenciais, contínuos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2020.%20Sujeitam-se%20%C3%A0%20pena%20de%20multa%20os%20%C3%B3rg%C3%A3os%20p%C3%BAblicos%20que%2C%20por%20si%20ou%20suas%20empresas%20concession%C3%A1rias%2C%20permission%C3%A1rias%20ou%20sob%20qualquer%20outra",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. A aplicação da sanção prevista no inciso II do art. 18 terá lugar quando os produtos forem comercializados em desacordo com as especificações técnicas estabelecidas em legislação própria, na Lei nº 8.078, de 1990, e neste Decreto.\n\n§ 1º Os bens apreendidos, a critério da autoridade, poderão ficar sob a guarda do proprietário, responsável, preposto ou empregado que responda pelo gerenciamento do negócio, nomeado fiel depositário, mediante termo próprio, proibida a venda, utilização, substituição, subtração ou remoção, total ou parcial, dos referidos bens.\n\n§ 2º A retirada de produto por parte da autoridade fiscalizadora não poderá incidir sobre quantidade superior àquela necessária à realização da análise pericial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2021.%20A%20aplica%C3%A7%C3%A3o%20da%20san%C3%A7%C3%A3o%20prevista%20no%20inciso%20II%20do%20art.%2018%20ter%C3%A1%20lugar%20quando%20os%20produtos%20forem%20comercializados%20em%20desacordo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Será aplicada multa ao fornecedor de produtos ou serviços que, direta ou indiretamente, inserir, fizer circular ou utilizar-se de cláusula abusiva, qualquer que seja a modalidade do contrato de consumo, inclusive nas operações securitárias, bancárias, de crédito direto ao consumidor, depósito, poupança, mútuo ou financiamento, e especialmente quando:\n\nI - impossibilitar, exonerar ou atenuar a responsabilidade do fornecedor por vícios de qualquer natureza dos produtos e serviços ou implicar renúncia ou disposição de direito do consumidor;\n\nII - deixar de reembolsar ao consumidor a quantia já paga, nos casos previstos na Lei nº 8.078, de 1990;\n\nIII - transferir responsabilidades a terceiros;\n\nIV - estabelecer obrigações consideradas iníquas ou abusivas, que coloquem o consumidor em desvantagem exagerada, incompatíveis com a boa-fé ou a eqüidade;\n\nV - estabelecer inversão do ônus da prova em prejuízo do consumidor;\n\nVI - determinar a utilização compulsória de arbitragem;\n\nVII - impuser representante para concluir ou realizar outro negócio jurídico pelo consumidor;\n\nVIII - deixar ao fornecedor a opção de concluir ou não o contrato, embora obrigando o consumidor;\n\nIX - permitir ao fornecedor, direta ou indiretamente, variação unilateral do preço, juros, encargos, forma de pagamento ou atualização monetária;\n\nX - autorizar o fornecedor a cancelar o contrato unilateralmente, sem que igual direito seja conferido ao consumidor, ou permitir, nos contratos de longa duração ou de trato sucessivo, o cancelamento sem justa causa e motivação, mesmo que dada ao consumidor a mesma opção;\n\nXI - obrigar o consumidor a ressarcir os custos de cobrança de sua obrigação, sem que igual direito lhe seja conferido contra o fornecedor;\n\nXII - autorizar o fornecedor a modificar unilateralmente o conteúdo ou a qualidade do contrato após sua celebração;\n\nXIII - infringir normas ambientais ou possibilitar sua violação;\n\nXIV - possibilitar a renúncia ao direito de indenização por benfeitorias necessárias;\n\nXV - restringir direitos ou obrigações fundamentais à natureza do contrato, de tal modo a ameaçar o seu objeto ou o equilíbrio contratual;\n\nXVI - onerar excessivamente o consumidor, considerando-se a natureza e o conteúdo do contrato, o interesse das partes e outras circunstâncias peculiares à espécie;\n\nXVII - determinar, nos contratos de compra e venda mediante pagamento em prestações, ou nas alienações fiduciárias em garantia, a perda total das prestações pagas, em beneficio do credor que, em razão do inadimplemento, pleitear a resilição do contrato e a retomada do produto alienado, ressalvada a cobrança judicial de perdas e danos comprovadamente sofridos;\n\nXVIII - anunciar, oferecer ou estipular pagamento em moeda estrangeira, salvo nos casos previstos em lei;\n\nXIX - cobrar multas de mora superiores a dois por cento, decorrentes do inadimplemento de obrigação no seu termo, conforme o disposto no § 1º do art. 52 da Lei nº 8.078, de 1990, com a redação dada pela Lei nº 9.298, de 1º de agosto de 1996;\n\nXX - impedir, dificultar ou negar ao consumidor a liquidação antecipada do débito, total ou parcialmente, mediante redução proporcional dos juros, encargos e demais acréscimos, inclusive seguro;\n\nXXI - fizer constar do contrato alguma das cláusulas abusivas a que se refere o art. 56 deste Decreto;\n\nXXII - elaborar contrato, inclusive o de adesão, sem utilizar termos claros, caracteres ostensivos e legíveis, que permitam sua imediata e fácil compreensão, destacando-se as cláusulas que impliquem obrigação ou limitação dos direitos contratuais do consumidor, inclusive com a utilização de tipos de letra e cores diferenciados, entre outros recursos gráficos e visuais;\n\nXXIII - que impeça a troca de produto impróprio, inadequado, ou de valor diminuído, por outro da mesma espécie, em perfeitas condições de uso, ou a restituição imediata da quantia paga, devidamente corrigido, ou fazer abatimento proporcional do preço, a critério do consumidor.\n\nParágrafo único. Dependendo da gravidade da infração prevista nos incisos dos arts. 12, 13 e deste artigo, a pena de multa poderá ser cumulada com as demais previstas no art. 18, sem prejuízo da competência de outros órgãos administrativos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2022.%20Ser%C3%A1%20aplicada%20multa%20ao%20fornecedor%20de%20produtos%20ou%20servi%C3%A7os%20que%2C%20direta%20ou%20indiretamente%2C%20inserir%2C%20fizer%20circular%20ou%20utilizar-se%20de%20cl%C3%A1usula",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Os serviços prestados e os produtos remetidos ou entregues ao consumidor, na hipótese prevista no inciso IV do art. 12 deste Decreto, equiparam-se às amostras grátis, inexistindo obrigação de pagamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2023.%20Os%20servi%C3%A7os%20prestados%20e%20os%20produtos%20remetidos%20ou%20entregues%20ao%20consumidor%2C%20na%20hip%C3%B3tese%20prevista%20no%20inciso%20IV%20do%20art.%2012",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Para a imposição da pena e sua gradação, serão considerados:\n\nI - as circunstâncias atenuantes e agravantes;\n\nII - os antecedentes do infrator, nos termos do art. 28 deste Decreto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2024.%20Para%20a%20imposi%C3%A7%C3%A3o%20da%20pena%20e%20sua%20grada%C3%A7%C3%A3o%2C%20ser%C3%A3o%20considerados%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Consideram-se circunstâncias atenuantes:\n\nI - a ação do infrator não ter sido fundamental para a consecução do fato;\n\nII - ser o infrator primário;\n\nIII - ter o infrator adotado as providências pertinentes para minimizar ou de imediato reparar os efeitos do ato lesivo.\n\nIII - ter o infrator adotado as providências pertinentes para minimizar ou de imediato reparar os efeitos do ato lesivo; (Redação dada pelo Decreto nº 10.887, de 2021)\n\nIV - a confissão do infrator; (Incluído pelo Decreto nº 10.887, de 2021)\n\nV - a participação regular do infrator em projetos e ações de capacitação e treinamento oferecidos pelos órgãos integrantes do SNDC; e (Incluído pelo Decreto nº 10.887, de 2021)\n\nVI - ter o fornecedor aderido à plataforma Consumidor.gov.br, de que trata o Decreto nº 8.573, de 19 de novembro de 2015. (Incluído pelo Decreto nº 10.887, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2025.%20Consideram-se%20circunst%C3%A2ncias%20atenuantes%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Consideram-se circunstâncias agravantes:\n\nI - ser o infrator reincidente;\n\nII - ter o infrator, comprovadamente, cometido a prática infrativa para obter vantagens indevidas;\n\nIII - trazer a prática infrativa conseqüências danosas à saúde ou à segurança do consumidor;\n\nIV - deixar o infrator, tendo conhecimento do ato lesivo, de tomar as providências para evitar ou mitigar suas conseqüências;\n\nV - ter o infrator agido com dolo;\n\nVI - ocasionar a prática infrativa dano coletivo ou ter caráter repetitivo;\n\nVII - ter a prática infrativa ocorrido em detrimento de menor de dezoito ou maior de sessenta anos ou de pessoas portadoras de deficiência física, mental ou sensorial, interditadas ou não;\n\nVIII - dissimular-se a natureza ilícita do ato ou atividade;\n\nIX - ser a conduta infrativa praticada aproveitando-se o infrator de grave crise econômica ou da condição cultural, social ou econômica da vítima, ou, ainda, por ocasião de calamidade.\n\nParágrafo único. Para fins de reconhecimento da circunstância agravante de que trata o inciso VI do caput, a Secretaria Nacional do Consumidor do Ministério da Justiça e Segurança Pública manterá e regulamentará banco de dados, garantido o acesso dos demais órgãos e entidades federais, estaduais, distritais e municipais de defesa do consumidor, com vistas a subsidiar a atuação no âmbito dos processos administrativos sancionadores. (Incluído pelo Decreto nº 10.887, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2026.%20Consideram-se%20circunst%C3%A2ncias%20agravantes%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "25",
+      "next": "26-A"
+    },
+    "26-A": {
+      "numero": "26-A",
+      "texto": "Art. 26-A. As circunstâncias agravantes e atenuantes, de que tratam os art. 25 e art. 26, têm natureza taxativa e não comportam ampliação por meio de ato dos órgãos de proteção e defesa do consumidor. (Incluído pelo Decreto nº 10.887, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2026-A.%20As%20circunst%C3%A2ncias%20agravantes%20e%20atenuantes%2C%20de%20que%20tratam%20os%20art.%2025%20e%20art.%2026%2C%20t%C3%AAm%20natureza%20taxativa%20e%20n%C3%A3o%20comportam",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "26",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Considera-se reincidência a repetição de prática infrativa, de qualquer natureza, às normas de defesa do consumidor, punida por decisão administrativa irrecorrível.\n\nParágrafo único. Para efeito de reincidência, não prevalece a sanção anterior, se entre a data da decisão administrativa definitiva e aquela da prática posterior houver decorrido período de tempo superior a cinco anos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2027.%20Considera-se%20reincid%C3%AAncia%20a%20repeti%C3%A7%C3%A3o%20de%20pr%C3%A1tica%20infrativa%2C%20de%20qualquer%20natureza%2C%20%C3%A0s%20normas%20de%20defesa%20do%20consumidor%2C%20punida%20por%20decis%C3%A3o%20administrativa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "26-A",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Observado o disposto no art. 24 deste Decreto pela autoridade competente, a pena de multa será fixada considerando-se a gravidade da prática infrativa, a extensão do dano causado aos consumidores, a vantagem auferida com o ato infrativo e a condição econômica do infrator, respeitados os parâmetros estabelecidos no parágrafo único do art. 57 da Lei nº 8.078, de 1990.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2028.%20Observado%20o%20disposto%20no%20art.%2024%20deste%20Decreto%20pela%20autoridade%20competente%2C%20a%20pena%20de%20multa%20ser%C3%A1%20fixada%20considerando-se%20a%20gravidade",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "27",
+      "next": "28-A"
+    },
+    "28-A": {
+      "numero": "28-A",
+      "texto": "Art. 28-A. Na fixação da pena de multa, os elementos que forem utilizados para a fixação da pena-base não poderão ser valorados novamente como circunstâncias agravantes ou atenuantes. (Incluído pelo Decreto nº 10.887, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2028-A.%20Na%20fixa%C3%A7%C3%A3o%20da%20pena%20de%20multa%2C%20os%20elementos%20que%20forem%20utilizados%20para%20a%20fixa%C3%A7%C3%A3o%20da%20pena-base%20n%C3%A3o%20poder%C3%A3o%20ser%20valorados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "28",
+      "next": "28-B"
+    },
+    "28-B": {
+      "numero": "28-B",
+      "texto": "Art. 28-B. Ato do Secretário Nacional do Consumidor do Ministério da Justiça e Segurança Pública poderá estabelecer critérios gerais para: (Incluído pelo Decreto nº 10.887, de 2021)\n\nI - a valoração das circunstâncias agravantes e atenuantes, de que tratam os art. 25 e art. 26; e (Incluído pelo Decreto nº 10.887, de 2021)\n\nII - a fixação da pena-base para a aplicação da pena de multa. (Incluído pelo Decreto nº 10.887, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2028-B.%20Ato%20do%20Secret%C3%A1rio%20Nacional%20do%20Consumidor%20do%20Minist%C3%A9rio%20da%20Justi%C3%A7a%20e%20Seguran%C3%A7a%20P%C3%BAblica%20poder%C3%A1%20estabelecer%20crit%C3%A9rios%20gerais%20para%3A%20%28Inclu%C3%ADdo%20pelo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "28-A",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. A multa de que trata o inciso I do art. 56 e caput do art. 57 da Lei nº 8.078, de 1990, reverterá para o Fundo pertinente à pessoa jurídica de direito público que impuser a sanção, gerido pelo respectivo Conselho Gestor.\n\nParágrafo único. As multas arrecadadas pela União e órgãos federais reverterão para o Fundo de Direitos Difusos de que tratam a Lei nº 7.347, de 1985, e Lei nº 9.008, de 21 de março de 1995, gerido pelo Conselho Federal Gestor do Fundo de Defesa dos Direitos Difusos - CFDD.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2029.%20A%20multa%20de%20que%20trata%20o%20inciso%20I%20do%20art.%2056%20e%20caput%20do%20art.%2057%20da%20Lei%20n%C2%BA%208.078%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28-B",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. As multas arrecadadas serão destinadas ao financiamento de projetos relacionados com os objetivos da Política Nacional de Relações de Consumo, com a defesa dos direitos básicos do consumidor e com a modernização administrativa dos órgãos públicos de defesa do consumidor, após aprovação pelo respectivo Conselho Gestor, em cada unidade federativa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2030.%20As%20multas%20arrecadadas%20ser%C3%A3o%20destinadas%20ao%20financiamento%20de%20projetos%20relacionados%20com%20os%20objetivos%20da%20Pol%C3%ADtica%20Nacional%20de%20Rela%C3%A7%C3%B5es%20de%20Consumo%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Na ausência de Fundos municipais, os recursos serão depositados no Fundo do respectivo Estado e, faltando este, no Fundo federal.\n\nParágrafo único. O Conselho Federal Gestor do Fundo de Defesa dos Direitos, Difusos poderá apreciar e autorizar recursos para projetos especiais de órgãos e entidades federais, estaduais e municipais de defesa do consumidor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2031.%20Na%20aus%C3%AAncia%20de%20Fundos%20municipais%2C%20os%20recursos%20ser%C3%A3o%20depositados%20no%20Fundo%20do%20respectivo%20Estado%20e%2C%20faltando%20este%2C%20no%20Fundo%20federal.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. Na hipótese de multa aplicada pelo órgão coordenador do SNDC nos casos previstos pelo art. 15 deste Decreto, o Conselho Federal Gestor do FDD restituirá aos fundos dos Estados envolvidos o percentual de até oitenta por cento do valor arrecadado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2032.%20Na%20hip%C3%B3tese%20de%20multa%20aplicada%20pelo%20%C3%B3rg%C3%A3o%20coordenador%20do%20SNDC%20nos%20casos%20previstos%20pelo%20art.%2015%20deste%20Decreto%2C%20o%20Conselho",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. As práticas infrativas às normas de proteção e defesa do consumidor serão apuradas em processo administrativo, que terá início mediante:",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2033.%20As%20pr%C3%A1ticas%20infrativas%20%C3%A0s%20normas%20de%20prote%C3%A7%C3%A3o%20e%20defesa%20do%20consumidor%20ser%C3%A3o%20apuradas%20em%20processo%20administrativo%2C%20que%20ter%C3%A1%20in%C3%ADcio%20mediante%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "32",
+      "next": "33-A"
+    },
+    "33-A": {
+      "numero": "33-A",
+      "texto": "Art. 33-A. A averiguação preliminar é o procedimento investigatório de natureza inquisitorial, instaurado pela autoridade competente de proteção e defesa do consumidor, quando os indícios ainda não forem suficientes para a instauração imediata de processo administrativo sancionador. (Incluído pelo Decreto nº 10.887, de 2021)\n\n§ 1º Na averiguação preliminar, a autoridade competente poderá exercer quaisquer competências instrutórias legalmente previstas, inclusive requerer esclarecimentos do representado ou de terceiros, por escrito ou pessoalmente. (Incluído pelo Decreto nº 10.887, de 2021)\n\n§ 2º Da averiguação preliminar poderá resultar: (Incluído pelo Decreto nº 10.887, de 2021)\n\nI - a instauração de processo administrativo sancionador; ou (Incluído pelo Decreto nº 10.887, de 2021)\n\nII - o arquivamento do caso. (Incluído pelo Decreto nº 10.887, de 2021)\n\n§ 3º A averiguação preliminar poderá ser desmembrada, quando conveniente para a instrução do caso. (Incluído pelo Decreto nº 10.887, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2033-A.%20A%20averigua%C3%A7%C3%A3o%20preliminar%20%C3%A9%20o%20procedimento%20investigat%C3%B3rio%20de%20natureza%20inquisitorial%2C%20instaurado%20pela%20autoridade%20competente%20de%20prote%C3%A7%C3%A3o%20e%20defesa%20do%20consumidor%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "SEÇÃO I-A"
+      },
+      "prev": "33",
+      "next": "33-B"
+    },
+    "33-B": {
+      "numero": "33-B",
+      "texto": "Art. 33-B. No prazo de até vinte dias após a publicação oficial da decisão que resultar no arquivamento da averiguação preliminar, o superior hierárquico do órgão prolator da decisão poderá avocar o processo, de ofício ou mediante provocação. (Incluído pelo Decreto nº 10.887, de 2021)\n\nParágrafo único. A autoridade responsável por avocar a averiguação preliminar poderá: (Incluído pelo Decreto nº 10.887, de 2021)\n\nI - ratificar a decisão de arquivamento; ou (Incluído pelo Decreto nº 10.887, de 2021)\n\nII - determinar o retorno dos autos à autoridade competente para a continuidade da averiguação preliminar ou para a instauração de processo administrativo sancionatório, conforme o caso. (Incluído pelo Decreto nº 10.887, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2033-B.%20No%20prazo%20de%20at%C3%A9%20vinte%20dias%20ap%C3%B3s%20a%20publica%C3%A7%C3%A3o%20oficial%20da%20decis%C3%A3o%20que%20resultar%20no%20arquivamento%20da%20averigua%C3%A7%C3%A3o%20preliminar%2C%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "I",
+        "section_name": "SEÇÃO I-A"
+      },
+      "prev": "33-A",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. O consumidor poderá apresentar sua reclamação pessoalmente, ou por telegrama carta, telex, fac-símile ou qualquer outro meio de comunicação, a quaisquer dos órgãos oficiais de proteção e defesa do consumidor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2034.%20O%20consumidor%20poder%C3%A1%20apresentar%20sua%20reclama%C3%A7%C3%A3o%20pessoalmente%2C%20ou%20por%20telegrama%20carta%2C%20telex%2C%20fac-s%C3%ADmile%20ou%20qualquer%20outro%20meio%20de%20comunica%C3%A7%C3%A3o%2C%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "33-B",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Os Autos de infração, de Apreensão e o Termo de Depósito deverão ser impressos, numerados em série e preenchidos de forma clara e precisa, sem entrelinhas, rasuras ou emendas, mencionando:\n\nI - o Auto de Infração:\n\na) o local, a data e a hora da lavratura;\n\nb) o nome, o endereço e a qualificação do autuado;\n\nc) a descrição do fato ou do ato constitutivo da infração;\n\nd) o dispositivo legal infringido;\n\ne) a determinação da exigência e a intimação para cumpri-la ou impugná-la no prazo de dez dias;\n\ne) a determinação da exigência e a intimação para cumpri-la ou impugná-la no prazo estabelecido no caput do art. 42; (Redação dada pelo Decreto nº 10.887, de 2021)\n\nf) a identificação do agente autuante, sua assinatura, a indicação do seu cargo ou função e o número de sua matrícula;\n\ng) a designação do órgão julgador e o respectivo endereço;\n\nh) a assinatura do autuado;\n\ni) a cientificação do autuado para apresentar defesa no prazo estabelecido no caput do art. 42 e especificar as provas que pretende produzir, de modo a declinar, se for o caso, a qualificação completa de até três testemunhas, mediante fornecimento do motivo para o seu arrolamento e sempre que possível: (Incluído pelo Decreto nº 10.887, de 2021)\n\n1. do nome; (Incluído pelo Decreto nº 10.887, de 2021)\n\n2. da profissão; (Incluído pelo Decreto nº 10.887, de 2021)\n\n3. do estado civil; (Incluído pelo Decreto nº 10.887, de 2021)\n\n4. da idade; (Incluído pelo Decreto nº 10.887, de 2021)\n\n5. do número de inscrição no Cadastro de Pessoas Físicas; (Incluído pelo Decreto nº 10.887, de 2021)\n\n6. do número de registro da identidade; e (Incluído pelo Decreto nº 10.887, de 2021)\n\n7. do endereço completo da residência e do local de trabalho; (Incluído pelo Decreto nº 10.887, de 2021)\n\nII - o Auto de Apreensão e o Termo de Depósito:\n\na) o local, a data e a hora da lavratura;\n\nb) o nome, o endereço e a qualificação do depositário;\n\nc) a descrição e a quantidade dos produtos apreendidos;\n\nd) as razões e os fundamentos da apreensão;\n\ne) o local onde o produto ficará armazenado;\n\nf) a quantidade de amostra colhida para análise;\n\ng) a identificação do agente autuante, sua assinatura, a indicação do seu cargo ou função e o número de sua matrícula;\n\nh) a assinatura do depositário;\n\ni) as proibições contidas no § 1º do art. 21 deste Decreto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2035.%20Os%20Autos%20de%20infra%C3%A7%C3%A3o%2C%20de%20Apreens%C3%A3o%20e%20o%20Termo%20de%20Dep%C3%B3sito%20dever%C3%A3o%20ser%20impressos%2C%20numerados%20em%20s%C3%A9rie%20e%20preenchidos%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Os Autos de Infração, de Apreensão e o Termo de Depósito serão lavrados pelo agente autuante que houver verificado a prática infrativa, preferencialmente no local onde foi comprovada a irregularidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2036.%20Os%20Autos%20de%20Infra%C3%A7%C3%A3o%2C%20de%20Apreens%C3%A3o%20e%20o%20Termo%20de%20Dep%C3%B3sito%20ser%C3%A3o%20lavrados%20pelo%20agente%20autuante%20que%20houver%20verificado%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Os Autos de Infração, de Apreensão e o Termo de Depósito serão lavrados em impresso próprio, composto de três vias, numeradas tipograficamente.\n\n§ 1º Quando necessário, para comprovação de infração, os Autos serão acompanhados de laudo pericial.\n\n§ 2º Quando a verificação do defeito ou vício relativo à qualidade, oferta e apresentação de produtos não depender de perícia, o agente competente consignará o fato no respectivo Auto.\n\n§ 3º Os autos de infração, de apreensão e o termo de depósito poderão ser formalizados, comunicados e transmitidos em meio eletrônico, observado o disposto na legislação aplicável. (Incluído pelo Decreto nº 10.887, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2037.%20Os%20Autos%20de%20Infra%C3%A7%C3%A3o%2C%20de%20Apreens%C3%A3o%20e%20o%20Termo%20de%20Dep%C3%B3sito%20ser%C3%A3o%20lavrados%20em%20impresso%20pr%C3%B3prio%2C%20composto%20de%20tr%C3%AAs%20vias%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. A assinatura nos Autos de Infração, de Apreensão e no Termo de Depósito, por parte do autuado, ao receber cópias dos mesmos, constitui notificação, sem implicar confissão, para os fins do art. 44 do presente Decreto.\n\nParágrafo único. Em caso de recusa do autuado em assinar os Autos de Infração, de Apreensão e o Termo de Depósito, o Agente competente consignará o fato nos Autos e no Termo, remetendo-os ao autuado por via postal, com Aviso de Recebimento (AR) ou outro procedimento equivalente, tendo os mesmos efeitos do caput deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2038.%20A%20assinatura%20nos%20Autos%20de%20Infra%C3%A7%C3%A3o%2C%20de%20Apreens%C3%A3o%20e%20no%20Termo%20de%20Dep%C3%B3sito%2C%20por%20parte%20do%20autuado%2C%20ao%20receber%20c%C3%B3pias",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "37",
+      "next": "38-A"
+    },
+    "38-A": {
+      "numero": "38-A",
+      "texto": "Art. 38-A. A fiscalização, no âmbito das relações de consumo, deverá ser prioritariamente orientadora, quando a atividade econômica for classificada como de risco leve, irrelevante ou inexistente, nos termos do disposto na Lei nº 13.874, de 2019. (Incluído pelo Decreto nº 10.887, de 2021)\n\n§ 1º Para fins do disposto no caput, o critério de dupla visita para lavratura de auto de infração será observado, exceto na hipótese de ocorrência de reincidência, fraude, resistência ou embaraço à fiscalização. (Incluído pelo Decreto nº 10.887, de 2021)\n\n§ 2º A inobservância do critério de dupla visita, nos termos do disposto no § 1º, implica nulidade do auto de infração, independentemente da natureza da obrigação. (Incluído pelo Decreto nº 10.887, de 2021)\n\n§ 3º Os órgãos e as entidades da administração pública federal, estadual, distrital e municipal deverão observar o princípio do tratamento diferenciado, simplificado e favorecido previsto na Lei Complementar nº 123, de 14 de dezembro de 2006, na fixação de valores decorrentes de multas e demais sanções administrativas. (Incluído pelo Decreto nº 10.887, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2038-A.%20A%20fiscaliza%C3%A7%C3%A3o%2C%20no%20%C3%A2mbito%20das%20rela%C3%A7%C3%B5es%20de%20consumo%2C%20dever%C3%A1%20ser%20prioritariamente%20orientadora%2C%20quando%20a%20atividade%20econ%C3%B4mica%20for%20classificada%20como%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "38",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. O processo administrativo de que trata o art. 33 deste Decreto poderá ser instaurado mediante reclamação do interessado ou por iniciativa da própria autoridade competente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2039.%20O%20processo%20administrativo%20de%20que%20trata%20o%20art.%2033%20deste%20Decreto%20poder%C3%A1%20ser%20instaurado%20mediante%20reclama%C3%A7%C3%A3o%20do%20interessado%20ou%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "IV",
+        "section_name": "SEÇÃO IV"
+      },
+      "prev": "38-A",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. O processo administrativo, na forma deste Decreto, deverá, obrigatoriamente, conter:",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2040.%20O%20processo%20administrativo%2C%20na%20forma%20deste%20Decreto%2C%20dever%C3%A1%2C%20obrigatoriamente%2C%20conter%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "IV",
+        "section_name": "SEÇÃO IV"
+      },
+      "prev": "39",
+      "next": "40-A"
+    },
+    "40-A": {
+      "numero": "40-A",
+      "texto": "Art. 40-A. A critério da autoridade processante e por meio de despacho fundamentado, o processo administrativo poderá ser desmembrado quando: (Incluído pelo Decreto nº 10.887, de 2021)\n\nI - as infrações tiverem sido praticadas em circunstâncias de tempo ou de lugar diferentes; (Incluído pelo Decreto nº 10.887, de 2021)\n\nII - houver número de representados excessivo, para não comprometer a duração razoável do processo ou dificultar a defesa; (Incluído pelo Decreto nº 10.887, de 2021)\n\nIII - houver dificuldade de notificar um ou mais dos representados; ou (Incluído pelo Decreto nº 10.887, de 2021)\n\nIV - houver outro motivo considerado relevante pela autoridade processante. (Incluído pelo Decreto nº 10.887, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2040-A.%20A%20crit%C3%A9rio%20da%20autoridade%20processante%20e%20por%20meio%20de%20despacho%20fundamentado%2C%20o%20processo%20administrativo%20poder%C3%A1%20ser%20desmembrado%20quando%3A%20%28Inclu%C3%ADdo%20pelo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "IV",
+        "section_name": "SEÇÃO IV"
+      },
+      "prev": "40",
+      "next": "40-B"
+    },
+    "40-B": {
+      "numero": "40-B",
+      "texto": "Art. 40-B. Na hipótese de haver conexão temática entre os processos administrativos e as infrações terem sido praticadas em circunstâncias de tempo ou de lugar similares, a autoridade processante poderá proceder à juntada de processos administrativos diferentes com vistas à racionalização dos recursos. (Incluído pelo Decreto nº 10.887, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2040-B.%20Na%20hip%C3%B3tese%20de%20haver%20conex%C3%A3o%20tem%C3%A1tica%20entre%20os%20processos%20administrativos%20e%20as%20infra%C3%A7%C3%B5es%20terem%20sido%20praticadas%20em%20circunst%C3%A2ncias%20de%20tempo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "IV",
+        "section_name": "SEÇÃO IV"
+      },
+      "prev": "40-A",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. A autoridade administrativa poderá determinar, na forma de ato próprio, constatação preliminar da ocorrência de prática presumida.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2041.%20A%20autoridade%20administrativa%20poder%C3%A1%20determinar%2C%20na%20forma%20de%20ato%20pr%C3%B3prio%2C%20constata%C3%A7%C3%A3o%20preliminar%20da%20ocorr%C3%AAncia%20de%20pr%C3%A1tica%20presumida.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "IV",
+        "section_name": "SEÇÃO IV"
+      },
+      "prev": "40-B",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. A autoridade competente expedirá notificação ao infrator, fixando o prazo de dez dias, a contar da data de seu recebimento, para apresentar defesa, na forma do art. 44 deste Decreto.\n\n§ 1º A notificação, acompanhada de cópia da inicial do processo administrativo a que se refere o art. 40, far-se-á:\n\nI - pessoalmente ao infrator, seu mandatário ou preposto;\n\nII - por carta registrada ao infrator, seu mandatário ou preposto, com Aviso de Recebimento (AR).\n\n§ 2º Quando o infrator, seu mandatário ou preposto não puder ser notificado, pessoalmente ou por via postal, será feita a notificação por edital, a ser afixado nas dependências do órgão respectivo, em lugar público, pelo prazo de dez dias, ou divulgado, pelo menos uma vez, na imprensa oficial ou em jornal de circulação local.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2042.%20A%20autoridade%20competente%20expedir%C3%A1%20notifica%C3%A7%C3%A3o%20ao%20infrator%2C%20fixando%20o%20prazo%20de%20dez%20dias%2C%20a%20contar%20da%20data%20de%20seu%20recebimento%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "V",
+        "section_name": "SEÇÃO V"
+      },
+      "prev": "41",
+      "next": "42-A"
+    },
+    "42-A": {
+      "numero": "42-A",
+      "texto": "Art. 42-A. A intimação dos demais atos processuais será feita por meio de: (Incluído pelo Decreto nº 10.887, de 2021)\n\nI - carta registrada ao representado, ou ao seu mandatário ou preposto, com aviso de recebimento); (Incluído pelo Decreto nº 10.887, de 2021)\n\nII - publicação oficial, da qual constarão os nomes do representado e de seu procurador, se houver; ou (Incluído pelo Decreto nº 10.887, de 2021)\n\nIII - por outro meio, físico ou eletrônico, que assegure a certeza da ciência do representado. (Incluído pelo Decreto nº 10.887, de 2021)\n\n§ 1º O representado arguirá a nulidade da intimação em capítulo preliminar do próprio ato que lhe caiba praticar, o qual será tido por tempestivo caso o vício seja reconhecido. (Incluído pelo Decreto nº 10.887, de 2021)\n\n§ 2º Na hipótese de não ser possível a prática imediata do ato diante da necessidade de acesso prévio aos autos, ao representado será limitado arguir a nulidade da intimação, caso em que o prazo será contado da data da intimação da decisão que a reconheça. (Incluído pelo Decreto nº 10.887, de 2021)\n\n§ 3º As intimações dirigidas ao endereço constante dos autos serão presumidas válidas, ainda que não sejam recebidas pessoalmente pelo interessado, caso a modificação temporária ou definitiva do endereço não tenha sido comunicada ao órgão processante. (Incluído pelo Decreto nº 10.887, de 2021)\n\n§ 4º As disposições deste artigo aplicam-se aos fornecedores que ofereçam produtos ou serviços, por meio de aplicação de internet, desde que o uso ou a fruição do bem adquirido se dê no território nacional. (Incluído pelo Decreto nº 10.887, de 2021)\n\n“SEÇÃO V-A\n\nDo Amicus Curiae\n\n(Incluído pelo Decreto nº 10.887, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2042-A.%20A%20intima%C3%A7%C3%A3o%20dos%20demais%20atos%20processuais%20ser%C3%A1%20feita%20por%20meio%20de%3A%20%28Inclu%C3%ADdo%20pelo%20Decreto%20n%C2%BA%2010.887%2C%20de%202021%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "V",
+        "section_name": "SEÇÃO V"
+      },
+      "prev": "42",
+      "next": "42-B"
+    },
+    "42-B": {
+      "numero": "42-B",
+      "texto": "Art. 42-B. Considerada a relevância da matéria, a especificidade do tema ou a repercussão social da demanda, a autoridade competente poderá, de ofício, a requerimento das partes ou de quem pretenda se manifestar, solicitar ou admitir a participação de pessoa natural ou jurídica, órgão ou entidade especializada, com representatividade adequada, na condição de amicus curiae, no prazo de quinze dias, contado da data de intimação. (Incluído pelo Decreto nº 10.887, de 2021)\n\nParágrafo único. A intervenção de que trata o caput não: (Incluído pelo Decreto nº 10.887, de 2021)\n\nI - implicará alteração de competência; ou (Incluído pelo Decreto nº 10.887, de 2021)\n\nII - autorizará a interposição de recursos. (Incluído pelo Decreto nº 10.887, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2042-B.%20Considerada%20a%20relev%C3%A2ncia%20da%20mat%C3%A9ria%2C%20a%20especificidade%20do%20tema%20ou%20a%20repercuss%C3%A3o%20social%20da%20demanda%2C%20a%20autoridade%20competente%20poder%C3%A1%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "V",
+        "section_name": "SEÇÃO V"
+      },
+      "prev": "42-A",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. O processo administrativo decorrente de Auto de Infração, de ato de oficio de autoridade competente, ou de reclamação será instruído e julgado na esfera de atribuição do órgão que o tiver instaurado. (Revogado pelo Decreto nº 10.887, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2043.%20O%20processo%20administrativo%20decorrente%20de%20Auto%20de%20Infra%C3%A7%C3%A3o%2C%20de%20ato%20de%20oficio%20de%20autoridade%20competente%2C%20ou%20de%20reclama%C3%A7%C3%A3o%20ser%C3%A1%20instru%C3%ADdo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "42-B",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. O infrator poderá impugnar o processo administrativo, no prazo de dez dias, contados processualmente de sua notificação, indicando em sua defesa:",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2044.%20O%20infrator%20poder%C3%A1%20impugnar%20o%20processo%20administrativo%2C%20no%20prazo%20de%20dez%20dias%2C%20contados%20processualmente%20de%20sua%20notifica%C3%A7%C3%A3o%2C%20indicando%20em%20sua",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. Decorrido o prazo da impugnação, o órgão julgador determinará as diligências cabíveis, podendo dispensar as meramente protelatórias ou irrelevantes, sendo-lhe facultado requisitar do infrator, de quaisquer pessoas físicas ou jurídicas, órgãos ou entidades públicas as necessárias informações, esclarecimentos ou documentos, a serem apresentados no prazo estabelecido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2045.%20Decorrido%20o%20prazo%20da%20impugna%C3%A7%C3%A3o%2C%20o%20%C3%B3rg%C3%A3o%20julgador%20determinar%C3%A1%20as%20dilig%C3%AAncias%20cab%C3%ADveis%2C%20podendo%20dispensar%20as%20meramente%20protelat%C3%B3rias%20ou%20irrelevantes%2C%20sendo-lhe",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. A decisão administrativa conterá relatório dos fatos, o respectivo enquadramento legal e, se condenatória, a natureza e gradação da pena.\n\n§ 1º A autoridade administrativa competente, antes de julgar o feito, apreciará a defesa e as provas produzidas pelas partes, não estando vinculada ao relatório de sua consultoria jurídica ou órgão similar, se houver.\n\n§ 2º Julgado o processo e fixada a multa, será o infrator notificado para efetuar seu recolhimento no prazo de dez dias ou apresentar recurso.\n\n§ 3º Em caso de provimento do recurso, os valores recolhidos serão devolvidos ao recorrente na forma estabelecida pelo Conselho Gestor do Fundo. (Revogado pelo Decreto nº 10.887, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2046.%20A%20decis%C3%A3o%20administrativa%20conter%C3%A1%20relat%C3%B3rio%20dos%20fatos%2C%20o%20respectivo%20enquadramento%20legal%20e%2C%20se%20condenat%C3%B3ria%2C%20a%20natureza%20e%20grada%C3%A7%C3%A3o%20da%20pena.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Quando a cominação prevista for a contrapropaganda, o processo poderá ser instruído com indicações técnico-publicitárias, das quais se intimará o autuado, obedecidas, na execução da respectiva decisão, as condições constantes do § 1º do art. 60 da Lei nº 8.078, de 1990.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2047.%20Quando%20a%20comina%C3%A7%C3%A3o%20prevista%20for%20a%20contrapropaganda%2C%20o%20processo%20poder%C3%A1%20ser%20instru%C3%ADdo%20com%20indica%C3%A7%C3%B5es%20t%C3%A9cnico-publicit%C3%A1rias%2C%20das%20quais%20se%20intimar%C3%A1%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. A inobservância de forma não acarretará a nulidade do ato, se não houver prejuízo para a defesa.\n\nParágrafo único. A nulidade prejudica somente os atos posteriores ao ato declarado nulo e dele diretamente dependentes ou de que sejam conseqüência, cabendo à autoridade que a declarar indicar tais atos e determinar o adequado procedimento saneador, se for o caso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2048.%20A%20inobserv%C3%A2ncia%20de%20forma%20n%C3%A3o%20acarretar%C3%A1%20a%20nulidade%20do%20ato%2C%20se%20n%C3%A3o%20houver%20preju%C3%ADzo%20para%20a%20defesa.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VII",
+        "section_name": "SEÇÃO VII"
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. Das decisões da autoridade competente do órgão público que aplicou a sanção caberá recurso, sem efeito suspensivo, no prazo de dez dias, contados da data da intimação da decisão, a seu superior hierárquico, que proferirá decisão definitiva.\n\nParágrafo único. No caso de aplicação de multas, o recurso será recebido, com efeito suspensivo, pela autoridade superior. (Revogado pelo Decreto nº 10.887, de 2021)\n\n§ 1º Na hipótese de aplicação de multas, o recurso será recebido, com efeito suspensivo, pela autoridade superior. (Incluído pelo Decreto nº 10.887, de 2021)\n\n§ 2º A decisão recorrida pode ser confirmada, total ou parcialmente, pelos seus próprios fundamentos. (Incluído pelo Decreto nº 10.887, de 2021)\n\n§ 3º Na hipótese prevista no §2º, a autoridade competente poderá apenas fazer remissão à própria decisão anterior, no caso de confirmação integral, ou ao trecho confirmado, no caso de confirmação parcial, desde que tenham sido confrontados todos os argumentos deduzidos no recurso capazes, em tese, de infirmar a conclusão adotada na decisão recorrida. (Incluído pelo Decreto nº 10.887, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2049.%20Das%20decis%C3%B5es%20da%20autoridade%20competente%20do%20%C3%B3rg%C3%A3o%20p%C3%BAblico%20que%20aplicou%20a%20san%C3%A7%C3%A3o%20caber%C3%A1%20recurso%2C%20sem%20efeito%20suspensivo%2C%20no%20prazo%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VIII",
+        "section_name": "SEÇÃO VIII"
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. Quando o processo tramitar no âmbito do DPDC, o julgamento do feito será de responsabilidade do Diretor daquele órgão, cabendo recurso ao titular da Secretaria de Direito Econômico, no prazo de dez dias, contados da data da intimação da decisão, como segunda e última instância recursal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2050.%20Quando%20o%20processo%20tramitar%20no%20%C3%A2mbito%20do%20DPDC%2C%20o%20julgamento%20do%20feito%20ser%C3%A1%20de%20responsabilidade%20do%20Diretor%20daquele%20%C3%B3rg%C3%A3o%2C%20cabendo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VIII",
+        "section_name": "SEÇÃO VIII"
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. Não será conhecido o recurso interposto fora dos prazos e condições estabelecidos neste Decreto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2051.%20N%C3%A3o%20ser%C3%A1%20conhecido%20o%20recurso%20interposto%20fora%20dos%20prazos%20e%20condi%C3%A7%C3%B5es%20estabelecidos%20neste%20Decreto.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VIII",
+        "section_name": "SEÇÃO VIII"
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. Sendo julgada insubsistente a infração, a autoridade julgadora recorrerá à autoridade imediatamente superior, nos termos fixados nesta Seção, mediante declaração na própria decisão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2052.%20Sendo%20julgada%20insubsistente%20a%20infra%C3%A7%C3%A3o%2C%20a%20autoridade%20julgadora%20recorrer%C3%A1%20%C3%A0%20autoridade%20imediatamente%20superior%2C%20nos%20termos%20fixados%20nesta%20Se%C3%A7%C3%A3o%2C%20mediante%20declara%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VIII",
+        "section_name": "SEÇÃO VIII"
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. A decisão é definitiva quando não mais couber recurso, seja de ordem formal ou material.\n\nParágrafo único. Na hipótese de não caber mais recursos em relação à aplicação da pena de multa, o infrator será notificado para efetuar o recolhimento no prazo de dez dias, nos termos do disposto nos art. 29 a art. 32. (Incluído pelo Decreto nº 10.887, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2053.%20A%20decis%C3%A3o%20%C3%A9%20definitiva%20quando%20n%C3%A3o%20mais%20couber%20recurso%2C%20seja%20de%20ordem%20formal%20ou%20material.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VIII",
+        "section_name": "SEÇÃO VIII"
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. Todos os prazos referidos nesta Seção são preclusivos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2054.%20Todos%20os%20prazos%20referidos%20nesta%20Se%C3%A7%C3%A3o%20s%C3%A3o%20preclusivos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "VIII",
+        "section_name": "SEÇÃO VIII"
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. Não sendo recolhido o valor da multa em trinta dias, será o débito inscrito em dívida ativa do órgão que houver aplicado a sanção, para subseqüente cobrança executiva.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2055.%20N%C3%A3o%20sendo%20recolhido%20o%20valor%20da%20multa%20em%20trinta%20dias%2C%20ser%C3%A1%20o%20d%C3%A9bito%20inscrito%20em%20d%C3%ADvida%20ativa%20do%20%C3%B3rg%C3%A3o%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": "IX",
+        "section_name": "SEÇÃO IX"
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. Na forma do art. 51 da Lei nº 8.078, de 1990, e com o objetivo de orientar o Sistema Nacional de Defesa do Consumidor, a Secretaria de Direito Econômico divulgará, anualmente, elenco complementar de cláusulas contratuais consideradas abusivas, notadamente para o fim de aplicação do disposto no inciso IV do art. 22 deste Decreto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2056.%20Na%20forma%20do%20art.%2051%20da%20Lei%20n%C2%BA%208.078%2C%20de%201990%2C%20e%20com%20o%20objetivo%20de%20orientar%20o%20Sistema%20Nacional",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. Os cadastros de reclamações fundamentadas contra fornecedores constituem instrumento essencial de defesa e orientação dos consumidores, devendo os órgãos públicos competentes assegurar sua publicidade, contabilidade e continuidade, nos termos do art. 44 da Lei nº 8.078, de 1990.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2057.%20Os%20cadastros%20de%20reclama%C3%A7%C3%B5es%20fundamentadas%20contra%20fornecedores%20constituem%20instrumento%20essencial%20de%20defesa%20e%20orienta%C3%A7%C3%A3o%20dos%20consumidores%2C%20devendo%20os%20%C3%B3rg%C3%A3os%20p%C3%BAblicos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. Para os fins deste Decreto, considera-se:\n\nI - cadastro: o resultado dos registros feitos pelos órgãos públicos de defesa do consumidor de todas as reclamações fundamentadas contra fornecedores;\n\nII - reclamação fundamentada: a notícia de lesão ou ameaça a direito de consumidor analisada por órgão público de defesa do consumidor, a requerimento ou de ofício, considerada procedente, por decisão definitiva.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2058.%20Para%20os%20fins%20deste%20Decreto%2C%20considera-se%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. Os órgãos públicos de defesa do consumidor devem providenciar a divulgação periódica dos cadastros atualizados de reclamações fundamentadas contra fornecedores.\n\n§ 1º O cadastro referido no caput deste artigo será publicado, obrigatoriamente, no órgão de imprensa oficial local, devendo a entidade responsável dar-lhe a maior publicidade possível por meio dos órgãos de comunicação, inclusive eletrônica.\n\n§ 2º O cadastro será divulgado anualmente, podendo o órgão responsável fazê-lo em período menor, sempre que julgue necessário, e conterá informações objetivas, claras e verdadeiras sobre o objeto da reclamação, a identificação do fornecedor e o atendimento ou não da reclamação pelo fornecedor.\n\n§ 3º Os cadastros deverão ser atualizados permanentemente, por meio das devidas anotações, não podendo conter informações negativas sobre fornecedores, referentes a período superior a cinco anos, contado da data da intimação da decisão definitiva.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2059.%20Os%20%C3%B3rg%C3%A3os%20p%C3%BAblicos%20de%20defesa%20do%20consumidor%20devem%20providenciar%20a%20divulga%C3%A7%C3%A3o%20peri%C3%B3dica%20dos%20cadastros%20atualizados%20de%20reclama%C3%A7%C3%B5es%20fundamentadas%20contra%20fornecedores.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. Os cadastros de reclamações fundamentadas contra fornecedores são considerados arquivos públicos, sendo informações e fontes a todos acessíveis, gratuitamente, vedada a utilização abusiva ou, por qualquer outro modo, estranha à defesa e orientação dos consumidores, ressalvada a hipótese de publicidade comparativa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2060.%20Os%20cadastros%20de%20reclama%C3%A7%C3%B5es%20fundamentadas%20contra%20fornecedores%20s%C3%A3o%20considerados%20arquivos%20p%C3%BAblicos%2C%20sendo%20informa%C3%A7%C3%B5es%20e%20fontes%20a%20todos%20acess%C3%ADveis%2C%20gratuitamente%2C%20vedada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. O consumidor ou fornecedor poderá requerer em cinco dias a contar da divulgação do cadastro e mediante petição fundamentada, a retificação de informação inexata que nele conste, bem como a inclusão de informação omitida, devendo a autoridade competente, no prazo de dez dias úteis, pronunciar-se, motivadamente, pela procedência ou improcedência do pedido.\n\nParágrafo único: No caso de acolhimento do pedido, a autoridade competente providenciará, no prazo deste artigo, a retificação ou inclusão de informação e sua divulgação, nos termos do § 1º do art. 59 deste Decreto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2061.%20O%20consumidor%20ou%20fornecedor%20poder%C3%A1%20requerer%20em%20cinco%20dias%20a%20contar%20da%20divulga%C3%A7%C3%A3o%20do%20cadastro%20e%20mediante%20peti%C3%A7%C3%A3o%20fundamentada%2C%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "60",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. Os cadastros específicos de cada órgão público de defesa do consumidor serão consolidados em cadastros gerais, nos âmbitos federal e estadual, aos quais se aplica o disposto nos artigos desta Seção.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2062.%20Os%20cadastros%20espec%C3%ADficos%20de%20cada%20%C3%B3rg%C3%A3o%20p%C3%BAblico%20de%20defesa%20do%20consumidor%20ser%C3%A3o%20consolidados%20em%20cadastros%20gerais%2C%20nos%20%C3%A2mbitos%20federal%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "61",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. Com base na Lei nº 8.078, de 1990, e legislação complementar, a Secretaria de Direito Econômico poderá expedir atos administrativos, visando à fiel observância das normas de proteção e defesa do consumidor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2063.%20Com%20base%20na%20Lei%20n%C2%BA%208.078%2C%20de%201990%2C%20e%20legisla%C3%A7%C3%A3o%20complementar%2C%20a%20Secretaria%20de%20Direito%20Econ%C3%B4mico%20poder%C3%A1%20expedir%20atos%20administrativos%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "62",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. Poderão ser lavrados Autos de Comprovação ou Constatação, a fim de estabelecer a situação real de mercado, em determinado lugar e momento, obedecido o procedimento adequado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2064.%20Poder%C3%A3o%20ser%20lavrados%20Autos%20de%20Comprova%C3%A7%C3%A3o%20ou%20Constata%C3%A7%C3%A3o%2C%20a%20fim%20de%20estabelecer%20a%20situa%C3%A7%C3%A3o%20real%20de%20mercado%2C%20em%20determinado%20lugar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "63",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art. 65. Em caso de impedimento à aplicação do presente Decreto, ficam as autoridades competentes autorizadas a requisitar o emprego de força policial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2065.%20Em%20caso%20de%20impedimento%20%C3%A0%20aplica%C3%A7%C3%A3o%20do%20presente%20Decreto%2C%20ficam%20as%20autoridades%20competentes%20autorizadas%20a%20requisitar%20o%20emprego%20de%20for%C3%A7a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "64",
+      "next": "65-A"
+    },
+    "65-A": {
+      "numero": "65-A",
+      "texto": "Art. 65-A. As normas procedimentais estabelecidas pela Lei nº 9.784, de 29 de janeiro de 1999, e pela Lei nº 13.105, de 16 de março de 2015 - Código de Processo Civil, aplicam-se subsidiariamente e supletivamente a este Decreto. (Incluído pelo Decreto nº 10.887, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2065-A.%20As%20normas%20procedimentais%20estabelecidas%20pela%20Lei%20n%C2%BA%209.784%2C%20de%2029%20de%20janeiro%20de%201999%2C%20e%20pela%20Lei%20n%C2%BA%2013.105%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "65",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art. 66. Este Decreto entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2066.%20Este%20Decreto%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "65-A",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art. 67. Fica revogado o Decreto nº 861, de 9 de julho de 1993.\n\nBrasília, 20 de março de 1997; 176º da Independência e 109º da República.\n\nFERNANDO HENRIQUE CARDOSO Nelson A. Jobim\n\nEste texto não substitui o publicado no DOU de 21.3.197\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm#:~:text=Art.%2067.%20Fica%20revogado%20o%20Decreto%20n%C2%BA%20861%2C%20de%209%20de%20julho%20de%201993.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "66",
+      "next": null
+    }
+  }
+}

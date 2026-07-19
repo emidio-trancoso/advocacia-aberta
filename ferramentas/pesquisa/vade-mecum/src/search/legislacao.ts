@@ -131,6 +131,14 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_cppm.json",
     rotulo: "Código de Processo Penal Militar (Decreto-Lei 1.002/1969)",
   },
+  D11034: {
+    arquivo: "../../data/lei_d11034.json",
+    rotulo: "Serviço de Atendimento ao Consumidor (SAC) (Decreto 11.034/2022)",
+  },
+  D2181: {
+    arquivo: "../../data/lei_d2181.json",
+    rotulo: "Sistema Nacional de Defesa do Consumidor e Sanções Administrativas (Decreto 2.181/1997)",
+  },
   D3413: {
     arquivo: "../../data/lei_d3413.json",
     rotulo: "Convenção de Haia – Sequestro Internacional de Crianças (promulgação) (Decreto 3.413/2000)",
@@ -166,6 +174,14 @@ const REGISTRO_CODIGOS = {
   DL3365: {
     arquivo: "../../data/lei_dl3365.json",
     rotulo: "Desapropriação por utilidade pública (Decreto-Lei 3.365/1941)",
+  },
+  DL73: {
+    arquivo: "../../data/lei_dl73.json",
+    rotulo: "Seguros Privados (Decreto-Lei 73/1966)",
+  },
+  DL911: {
+    arquivo: "../../data/lei_dl911.json",
+    rotulo: "Busca e Apreensão Fiduciária (veículos) (Decreto-Lei 911/1969)",
   },
   ECID: {
     arquivo: "../../data/lei_ecid.json",
@@ -235,6 +251,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l10101.json",
     rotulo: "Participação nos Lucros ou Resultados (PLR) (Lei 10.101/2000)",
   },
+  L10185: {
+    arquivo: "../../data/lei_l10185.json",
+    rotulo: "Seguro Saúde (Lei 10.185/2001)",
+  },
   L10259: {
     arquivo: "../../data/lei_l10259.json",
     rotulo: "Juizados Especiais Federais (JEFs) (Lei 10.259/2001)",
@@ -259,6 +279,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l10779.json",
     rotulo: "Seguro-Defeso do Pescador Artesanal (Lei 10.779/2003)",
   },
+  L10820: {
+    arquivo: "../../data/lei_l10820.json",
+    rotulo: "Consignado (Lei 10.820/2003)",
+  },
   L10833: {
     arquivo: "../../data/lei_l10833.json",
     rotulo: "COFINS (não cumulativa) (Lei 10.833/2003)",
@@ -270,6 +294,14 @@ const REGISTRO_CODIGOS = {
   L10887: {
     arquivo: "../../data/lei_l10887.json",
     rotulo: "Cálculo/Contribuição de Servidor Federal (RPPS União) (Lei 10.887/2004)",
+  },
+  L10931: {
+    arquivo: "../../data/lei_l10931.json",
+    rotulo: "Cédula de Crédito Bancário (Lei 10.931/2004)",
+  },
+  L10962: {
+    arquivo: "../../data/lei_l10962.json",
+    rotulo: "Exibição de Preços de Produtos e Serviços (Lei 10.962/2004)",
   },
   L11079: {
     arquivo: "../../data/lei_l11079.json",
@@ -303,6 +335,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l11788.json",
     rotulo: "Lei do Estágio (Lei 11.788/2008)",
   },
+  L11795: {
+    arquivo: "../../data/lei_l11795.json",
+    rotulo: "Consórcios (Lei 11.795/2008)",
+  },
   L11804: {
     arquivo: "../../data/lei_l11804.json",
     rotulo: "Alimentos Gravídicos (Lei 11.804/2008)",
@@ -331,6 +367,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l12318.json",
     rotulo: "Alienação Parental (Lei 12.318/2010)",
   },
+  L12414: {
+    arquivo: "../../data/lei_l12414.json",
+    rotulo: "SPC/SERASA (Lei 12.414/2011)",
+  },
   L12506: {
     arquivo: "../../data/lei_l12506.json",
     rotulo: "Aviso Prévio Proporcional (Lei 12.506/2011)",
@@ -338,6 +378,10 @@ const REGISTRO_CODIGOS = {
   L12618: {
     arquivo: "../../data/lei_l12618.json",
     rotulo: "Funpresp / Regime de Previdência Complementar do Servidor (Lei 12.618/2012)",
+  },
+  L12741: {
+    arquivo: "../../data/lei_l12741.json",
+    rotulo: "Transparência de Tributos na Nota Fiscal (Lei 12.741/2012)",
   },
   L12815: {
     arquivo: "../../data/lei_l12815.json",
@@ -358,6 +402,10 @@ const REGISTRO_CODIGOS = {
   L13103: {
     arquivo: "../../data/lei_l13103.json",
     rotulo: "Motorista Profissional (Lei 13.103/2015)",
+  },
+  L13140: {
+    arquivo: "../../data/lei_l13140.json",
+    rotulo: "Lei da Mediação (Lei 13.140/2015)",
   },
   L13165: {
     arquivo: "../../data/lei_l13165.json",
@@ -382,6 +430,10 @@ const REGISTRO_CODIGOS = {
   L13431: {
     arquivo: "../../data/lei_l13431.json",
     rotulo: "Sistema de Garantia – Escuta e Depoimento Especial (Lei 13.431/2017)",
+  },
+  L13455: {
+    arquivo: "../../data/lei_l13455.json",
+    rotulo: "Preço Diferenciado por Forma de Pagamento (Lei 13.455/2017)",
   },
   L13460: {
     arquivo: "../../data/lei_l13460.json",
@@ -435,6 +487,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l14129.json",
     rotulo: "Governo Digital e Eficiência Pública (Lei 14.129/2021)",
   },
+  L14181: {
+    arquivo: "../../data/lei_l14181.json",
+    rotulo: "Superendividamento (Lei 14.181/2021)",
+  },
   L14192: {
     arquivo: "../../data/lei_l14192.json",
     rotulo: "Violência Política contra a Mulher (Lei 14.192/2021)",
@@ -463,6 +519,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l14611.json",
     rotulo: "Igualdade Salarial por Gênero (Lei 14.611/2023)",
   },
+  L14711: {
+    arquivo: "../../data/lei_l14711.json",
+    rotulo: "Marco Legal das Garantias (Lei 14.711/2023)",
+  },
   L1521: {
     arquivo: "../../data/lei_l1521.json",
     rotulo: "Crimes contra Economia Popular (Lei 1.521/1951)",
@@ -478,6 +538,10 @@ const REGISTRO_CODIGOS = {
   L4591: {
     arquivo: "../../data/lei_l4591.json",
     rotulo: "Incorporação Imobiliária (Lei 4.591/1964)",
+  },
+  L4595: {
+    arquivo: "../../data/lei_l4595.json",
+    rotulo: "Sistema Financeiro Nacional (Lei 4.595/1964)",
   },
   L4717: {
     arquivo: "../../data/lei_l4717.json",
@@ -499,6 +563,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l5584.json",
     rotulo: "Normas do Processo do Trabalho (Lei 5.584/1970)",
   },
+  L5764: {
+    arquivo: "../../data/lei_l5764.json",
+    rotulo: "Cooperativismo (Lei 5.764/1971)",
+  },
   L5889: {
     arquivo: "../../data/lei_l5889.json",
     rotulo: "Trabalho Rural (Lei 5.889/1973)",
@@ -514,6 +582,10 @@ const REGISTRO_CODIGOS = {
   L6091: {
     arquivo: "../../data/lei_l6091.json",
     rotulo: "Transporte de Eleitores em Zona Rural (Lei 6.091/1974)",
+  },
+  L6099: {
+    arquivo: "../../data/lei_l6099.json",
+    rotulo: "Arrendamento Mercantil (Leasing) (Lei 6.099/1974)",
   },
   L6321: {
     arquivo: "../../data/lei_l6321.json",
@@ -546,6 +618,10 @@ const REGISTRO_CODIGOS = {
   L7064: {
     arquivo: "../../data/lei_l7064.json",
     rotulo: "Trabalho no Exterior (brasileiros) (Lei 7.064/1982)",
+  },
+  L7357: {
+    arquivo: "../../data/lei_l7357.json",
+    rotulo: "Cheque (Lei 7.357/1985)",
   },
   L7418: {
     arquivo: "../../data/lei_l7418.json",
@@ -663,6 +739,14 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l9296.json",
     rotulo: "Interceptação Telefônica (Lei 9.296/1996)",
   },
+  L9307: {
+    arquivo: "../../data/lei_l9307.json",
+    rotulo: "Arbitragem (Lei 9.307/1996)",
+  },
+  L9427: {
+    arquivo: "../../data/lei_l9427.json",
+    rotulo: "Agência Nacional de Energia Elétrica (ANEEL) (Lei 9.427/1996)",
+  },
   L9430: {
     arquivo: "../../data/lei_l9430.json",
     rotulo: "Legislação Tributária Federal (IRPJ, compensação etc.) (Lei 9.430/1996)",
@@ -699,6 +783,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l9613.json",
     rotulo: "Lavagem de Dinheiro (Lei 9.613/1998)",
   },
+  L9656: {
+    arquivo: "../../data/lei_l9656.json",
+    rotulo: "Planos e Seguros Privados de Assistência à Saúde (Lei 9.656/1998)",
+  },
   L9709: {
     arquivo: "../../data/lei_l9709.json",
     rotulo: "Plebiscito, Referendo e Iniciativa Popular (Lei 9.709/1998)",
@@ -710,6 +798,10 @@ const REGISTRO_CODIGOS = {
   L9784: {
     arquivo: "../../data/lei_l9784.json",
     rotulo: "Processo Administrativo Federal (PAF) (Lei 9.784/1999)",
+  },
+  L9790: {
+    arquivo: "../../data/lei_l9790.json",
+    rotulo: "OSCIPs (Lei 9.790/1999)",
   },
   L9796: {
     arquivo: "../../data/lei_l9796.json",
@@ -818,6 +910,10 @@ const REGISTRO_CODIGOS = {
   LRP: {
     arquivo: "../../data/lei_lrp.json",
     rotulo: "Registros Públicos (Lei 6.015/1973)",
+  },
+  LSA: {
+    arquivo: "../../data/lei_lsa.json",
+    rotulo: "Lei das S.A. (Lei 6.404/1976)",
   },
   // [expansao:fim]
 } as const;

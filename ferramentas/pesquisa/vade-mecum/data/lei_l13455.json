@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "codigo": "L13455",
+    "nome": "Preço Diferenciado por Forma de Pagamento",
+    "lei": "Lei 13.455/2017",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13455.htm",
+    "total_artigos": 3,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Fica autorizada a diferenciação de preços de bens e serviços oferecidos ao público em função do prazo ou do instrumento de pagamento utilizado.\n\nParágrafo único. É nula a cláusula contratual, estabelecida no âmbito de arranjos de pagamento ou de outros acordos para prestação de serviço de pagamento, que proíba ou restrinja a diferenciação de preços facultada no caput deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13455.htm#:~:text=Art.%201%C2%BA%20Fica%20autorizada%20a%20diferencia%C3%A7%C3%A3o%20de%20pre%C3%A7os%20de%20bens%20e%20servi%C3%A7os%20oferecidos%20ao%20p%C3%BAblico%20em%20fun%C3%A7%C3%A3o%20do%20prazo%20ou%20do%20instrumento",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º A Lei nº 10.962, de 11 de outubro de 2004 , passa a vigorar acrescida do seguinte art. 5º -A:\n\n“ Art. 5º-A. O fornecedor deve informar, em local e formato visíveis ao consumidor, eventuais descontos oferecidos em função do prazo ou do instrumento de pagamento utilizado.\n\nParágrafo único. Aplicam-se às infrações a este artigo as sanções previstas na Lei nº 8.078, de 11 de setembro de 1990 .”",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13455.htm#:~:text=Art.%202%C2%BA%20A%20Lei%20n%C2%BA%2010.962%2C%20de%2011%20de%20outubro%20de%202004%20%2C%20passa%20a%20vigorar%20acrescida%20do%20seguinte%20art.%205%C2%BA%20-A%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\n\nBrasília, 26 de junho de 2017; 196º da Independência e 129º da República.\n\nMICHEL TEMER Henrique Meirelles Ilan Goldfajn\n\nEste texto não substitui o publicado no DOU de 27.6.2017\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13455.htm#:~:text=Art.%203%C2%BA%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": null
+    }
+  }
+}

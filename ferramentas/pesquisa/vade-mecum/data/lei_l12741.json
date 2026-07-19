@@ -1,0 +1,111 @@
+{
+  "_meta": {
+    "codigo": "L12741",
+    "nome": "Transparência de Tributos na Nota Fiscal",
+    "lei": "Lei 12.741/2012",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12741.htm",
+    "total_artigos": 6,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Emitidos por ocasião da venda ao consumidor de mercadorias e serviços, em todo território nacional, deverá constar, dos documentos fiscais ou equivalentes, a informação do valor aproximado correspondente à totalidade dos tributos federais, estaduais e municipais, cuja incidência influi na formação dos respectivos preços de venda.\n\n§ 1º A apuração do valor dos tributos incidentes deverá ser feita em relação a cada mercadoria ou serviço, separadamente, inclusive nas hipóteses de regimes jurídicos tributários diferenciados dos respectivos fabricantes, varejistas e prestadores de serviços, quando couber.\n\n§ 2º A informação de que trata este artigo poderá constar de painel afixado em local visível do estabelecimento, ou por qualquer outro meio eletrônico ou impresso, de forma a demonstrar o valor ou percentual, ambos aproximados, dos tributos incidentes sobre todas as mercadorias ou serviços postos à venda.\n\n§ 3º Na hipótese do § 2º , as informações a serem prestadas serão elaboradas em termos de percentuais sobre o preço a ser pago, quando se tratar de tributo com alíquota ad valorem, ou em valores monetários (no caso de alíquota específica); no caso de se utilizar meio eletrônico, este deverá estar disponível ao consumidor no âmbito do estabelecimento comercial.\n\n§ 4º ( VETADO).\n\n§ 5º Os tributos que deverão ser computados são os seguintes:\n\nI - Imposto sobre Operações relativas a Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS);\n\nII - Imposto sobre Serviços de Qualquer Natureza (ISS);\n\nIII - Imposto sobre Produtos Industrializados (IPI);\n\nIV - Imposto sobre Operações de Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários (IOF);\n\nV - (VETADO);\n\nVI - (VETADO);\n\nVII - Contribuição Social para o Programa de Integração Social (PIS) e para o Programa de Formação do Patrimônio do Servidor Público (Pasep) - (PIS/Pasep);\n\nVIII - Contribuição para o Financiamento da Seguridade Social (Cofins);\n\nIX - Contribuição de Intervenção no Domínio Econômico, incidente sobre a importação e a comercialização de petróleo e seus derivados, gás natural e seus derivados, e álcool etílico combustível (Cide).\n\n§ 6º Serão informados ainda os valores referentes ao imposto de importação, PIS/Pasep/Importação e Cofins/Importação, na hipótese de produtos cujos insumos ou componentes sejam oriundos de operações de comércio exterior e representem percentual superior a 20% (vinte por cento) do preço de venda.\n\n§ 7º Na hipótese de incidência do imposto sobre a importação, nos termos do § 6o, bem como da incidência do Imposto sobre Produtos Industrializados - IPI, todos os fornecedores constantes das diversas cadeias produtivas deverão fornecer aos adquirentes, em meio magnético, os valores dos 2 (dois) tributos individualizados por item comercializado.\n\n§ 8º Em relação aos serviços de natureza financeira, quando não seja legalmente prevista a emissão de documento fiscal, as informações de que trata este artigo deverão ser feitas em tabelas afixadas nos respectivos estabelecimentos.\n\n§ 9º ( VETADO).\n\n§ 10. A indicação relativa ao IOF (prevista no inciso IV do § 5º ) restringe-se aos produtos financeiros sobre os quais incida diretamente aquele tributo.\n\n§ 11. A indicação relativa ao PIS e à Cofins (incisos VII e VIII do § 5º ), limitar-se-á à tributação incidente sobre a operação de venda ao consumidor.\n\n§ 12. Sempre que o pagamento de pessoal constituir item de custo direto do serviço ou produto fornecido ao consumidor, deve ser divulgada, ainda, a contribuição previdenciária dos empregados e dos empregadores incidente, alocada ao serviço ou produto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12741.htm#:~:text=Art.%201%C2%BA%20Emitidos%20por%20ocasi%C3%A3o%20da%20venda%20ao%20consumidor%20de%20mercadorias%20e%20servi%C3%A7os%2C%20em%20todo%20territ%C3%B3rio%20nacional%2C%20dever%C3%A1%20constar%2C%20dos%20documentos%20fiscais",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Os valores aproximados de que trata o art. 1º serão apurados sobre cada operação, e poderão, a critério das empresas vendedoras, ser calculados e fornecidos, semestralmente, por instituição de âmbito nacional reconhecidamente idônea, voltada primordialmente à apuração e análise de dados econômicos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12741.htm#:~:text=Art.%202%C2%BA%20Os%20valores%20aproximados%20de%20que%20trata%20o%20art.%201%C2%BA%20ser%C3%A3o%20apurados%20sobre%20cada%20opera%C3%A7%C3%A3o%2C%20e%20poder%C3%A3o%2C%20a%20crit%C3%A9rio%20das%20empresas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º O inciso III do art 6º da Lei nº 8.078, de 11 de setembro de 1990, passa a vigorar com a seguinte redação:\n\n\"Art. 6º .......................................................................................................................\n\n....................................................................................................................................\n\nIII - a informação adequada e clara sobre os diferentes produtos e serviços, com especificação correta de quantidade, características, composição, qualidade, tributos incidentes e preço, bem como sobre os riscos que apresentem;\"\n\n.....................................................................................................................................(NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12741.htm#:~:text=Art.%203%C2%BA%20O%20inciso%20III%20do%20art%206%C2%BA%20da%20Lei%20n%C2%BA%208.078%2C%20de%2011%20de%20setembro%20de%201990%2C%20passa%20a%20vigorar%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º ( VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12741.htm#:~:text=Art.%204%C2%BA%20%28%20VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º O descumprimento do disposto nesta Lei sujeitará o infrator às sanções previstas no Capítulo VII do Título I da Lei nº 8.078, de 1990.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12741.htm#:~:text=Art.%205%C2%BA%20O%20descumprimento%20do%20disposto%20nesta%20Lei%20sujeitar%C3%A1%20o%20infrator%20%C3%A0s%20san%C3%A7%C3%B5es%20previstas%20no%20Cap%C3%ADtulo%20VII%20do%20T%C3%ADtulo%20I%20da%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Esta Lei entra em vigor 6 (seis) meses após a data de sua publicação.\n\nBrasília, 8 de dezembro de 2012; 191º da Independência e 124º da República.\n\nDILMA ROUSSEFF José Eduardo Cardozo Guido Mantega\n\nEste texto não substitui o publicado no DOU de 10.12.2012\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12741.htm#:~:text=Art.%206%C2%BA%20Esta%20Lei%20entra%20em%20vigor%206%20%28seis%29%20meses%20ap%C3%B3s%20a%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": null
+    }
+  }
+}

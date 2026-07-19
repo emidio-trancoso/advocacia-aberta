@@ -1,0 +1,303 @@
+{
+  "_meta": {
+    "codigo": "D11034",
+    "nome": "Serviço de Atendimento ao Consumidor (SAC)",
+    "lei": "Decreto 11.034/2022",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm",
+    "total_artigos": 18,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Este Decreto regulamenta a Lei nº 8.078, de 11 de setembro de 1990 - Código de Defesa do Consumidor, para estabelecer diretrizes e normas sobre o Serviço de Atendimento ao Consumidor - SAC, no âmbito dos fornecedores dos serviços regulados pelo Poder Executivo federal, com vistas a garantir o direito do consumidor:\n\nI - à obtenção de informação adequada sobre os serviços contratados; e\n\nII - ao tratamento de suas demandas.\n\nParágrafo único. Para fins do disposto neste Decreto, os órgãos ou as entidades reguladoras considerarão o porte do fornecedor do serviço regulado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm#:~:text=Art.%201%C2%BA%20Este%20Decreto%20regulamenta%20a%20Lei%20n%C2%BA%208.078%2C%20de%2011%20de%20setembro%20de%201990%20-%20C%C3%B3digo%20de%20Defesa%20do%20Consumidor%2C%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Para fins do disposto neste Decreto, considera-se Serviço de Atendimento ao Consumidor - SAC o serviço de atendimento realizado por diversos canais integrados dos fornecedores de serviços regulados com a finalidade de dar tratamento às demandas dos consumidores, tais como informação, dúvida, reclamação, contestação, suspensão ou cancelamento de contratos e de serviços.\n\nParágrafo único. O disposto neste Decreto não se aplica à oferta e à contratação de produtos e serviços.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm#:~:text=Art.%202%C2%BA%20Para%20fins%20do%20disposto%20neste%20Decreto%2C%20considera-se%20Servi%C3%A7o%20de%20Atendimento%20ao%20Consumidor%20-%20SAC%20o%20servi%C3%A7o%20de%20atendimento%20realizado%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º O acesso ao SAC será gratuito e o atendimento das demandas não acarretará ônus para o consumidor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm#:~:text=Art.%203%C2%BA%20O%20acesso%20ao%20SAC%20ser%C3%A1%20gratuito%20e%20o%20atendimento%20das%20demandas%20n%C3%A3o%20acarretar%C3%A1%20%C3%B4nus%20para%20o%20consumidor.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º O acesso ao SAC estará disponível, ininterruptamente, durante vinte e quatro horas por dia, sete dias por semana.\n\n§ 1º O acesso de que trata o caput será garantido por meio de, no mínimo, um dos canais de atendimento integrados, cujo funcionamento será amplamente divulgado.\n\n§ 2º O acesso ao SAC prestado por atendimento telefônico será obrigatório, nos termos do disposto no art. 5º.\n\n§ 3º Na hipótese de o serviço ofertado não estar disponível para fruição ou contratação nos termos do disposto no caput, o acesso ao SAC poderá ser interrompido, observada a regulamentação dos órgãos ou das entidades reguladoras competentes.\n\n§ 4º O acesso inicial ao atendente não será condicionado ao fornecimento prévio de dados pelo consumidor.\n\n§ 5º É vedada a veiculação de mensagens publicitárias durante o tempo de espera para o atendimento, exceto se houver consentimento prévio do consumidor.\n\n§ 6º Sem prejuízo do disposto no § 5º, é admitida a veiculação de mensagens de caráter informativo durante o tempo de espera, desde que tratem dos direitos e deveres dos consumidores ou dos outros canais de atendimento disponíveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm#:~:text=Art.%204%C2%BA%20O%20acesso%20ao%20SAC%20estar%C3%A1%20dispon%C3%ADvel%2C%20ininterruptamente%2C%20durante%20vinte%20e%20quatro%20horas%20por%20dia%2C%20sete%20dias%20por%20semana.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Os órgãos ou as entidades reguladoras competentes observarão as seguintes condições mínimas para o atendimento telefônico do consumidor:\n\nI - horário de atendimento não inferior a oito horas diárias, com disponibilização de atendimento por humano;\n\nII - opções mínimas constantes do primeiro menu, incluídas, obrigatoriamente, as opções de reclamação e de cancelamento de contratos e serviços; e\n\nIII - tempo máximo de espera para:\n\na) o contato direto com o atendente, quando essa opção for selecionada; e\n\nb) a transferência ao setor competente para atendimento definitivo da demanda, quando o primeiro atendente não tiver essa atribuição.\n\nParágrafo único. Os órgãos ou as entidades reguladoras competentes poderão estabelecer, para o setor regulado, horário de atendimento telefônico por humano superior ao previsto no inciso I do caput.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm#:~:text=Art.%205%C2%BA%20Os%20%C3%B3rg%C3%A3os%20ou%20as%20entidades%20reguladoras%20competentes%20observar%C3%A3o%20as%20seguintes%20condi%C3%A7%C3%B5es%20m%C3%ADnimas%20para%20o%20atendimento%20telef%C3%B4nico%20do%20consumidor%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º É obrigatória a acessibilidade em canais do SAC mantidos pelos fornecedores de que trata este Decreto, para uso da pessoa com deficiência, garantido o acesso pleno para atendimento de suas demandas.\n\nParágrafo único. Ato da Secretaria Nacional do Consumidor do Ministério da Justiça e Segurança Pública disporá sobre a acessibilidade de canais de SAC, consideradas as especificidades das deficiências.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm#:~:text=Art.%206%C2%BA%20%C3%89%20obrigat%C3%B3ria%20a%20acessibilidade%20em%20canais%20do%20SAC%20mantidos%20pelos%20fornecedores%20de%20que%20trata%20este%20Decreto%2C%20para%20uso%20da%20pessoa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º As opções de acesso ao SAC constarão de maneira clara:\n\nI - em todos os documentos e materiais impressos entregues ao consumidor na contratação do serviço e durante o seu fornecimento; e\n\nII - nos canais eletrônicos do fornecedor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm#:~:text=Art.%207%C2%BA%20As%20op%C3%A7%C3%B5es%20de%20acesso%20ao%20SAC%20constar%C3%A3o%20de%20maneira%20clara%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º No tratamento das demandas, o SAC garantirá a:\n\nI - tempestividade;\n\nII - segurança;\n\nIII - privacidade; e\n\nIV - resolutividade da demanda.\n\nParágrafo único. No tratamento das demandas serão observados ainda os princípios da:\n\nI - dignidade;\n\nII - boa-fé;\n\nIII - transparência;\n\nIV - eficiência;\n\nV - eficácia;\n\nVI - celeridade; e\n\nVII - cordialidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm#:~:text=Art.%208%C2%BA%20No%20tratamento%20das%20demandas%2C%20o%20SAC%20garantir%C3%A1%20a%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Os dados pessoais do consumidor serão coletados, armazenados, tratados, transferidos e utilizados exclusivamente nos termos do disposto na Lei nº 13.709, de 14 de agosto de 2018.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm#:~:text=Art.%209%C2%BA%20Os%20dados%20pessoais%20do%20consumidor%20ser%C3%A3o%20coletados%2C%20armazenados%2C%20tratados%2C%20transferidos%20e%20utilizados%20exclusivamente%20nos%20termos%20do%20disposto%20na%20Lei%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. É vedado solicitar a repetição da demanda do consumidor após o seu registro no primeiro atendimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm#:~:text=Art.%2010.%20%C3%89%20vedado%20solicitar%20a%20repeti%C3%A7%C3%A3o%20da%20demanda%20do%20consumidor%20ap%C3%B3s%20o%20seu%20registro%20no%20primeiro%20atendimento.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Caso a chamada telefônica seja finalizada pelo fornecedor antes da conclusão do atendimento, o fornecedor deverá:\n\nI - retornar a chamada ao consumidor;\n\nII - informar o registro numérico de que trata o art. 12; e\n\nIII - concluir o atendimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm#:~:text=Art.%2011.%20Caso%20a%20chamada%20telef%C3%B4nica%20seja%20finalizada%20pelo%20fornecedor%20antes%20da%20conclus%C3%A3o%20do%20atendimento%2C%20o%20fornecedor%20dever%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. É direito do consumidor acompanhar, nos diversos canais de atendimento integrados, todas as suas demandas, por meio de registro numérico ou outro tipo de procedimento eletrônico.\n\n§ 1º O consumidor terá o direito de acesso ao histórico de suas demandas, sem ônus.\n\n§ 2º O histórico das demandas a que se refere o § 1º:\n\nI - será enviado ao consumidor, mediante solicitação, no prazo de cinco dias corridos, contado da data da solicitação, por correspondência ou por meio eletrônico, a critério do consumidor; e\n\nII - conterá todas as informações relacionadas à demanda, incluído o conteúdo da resposta do fornecedor, observado o disposto no § 2º do art. 13.\n\n§ 3º Quando se tratar de chamada telefônica, a manutenção da gravação da chamada efetuada para o SAC é obrigatória, pelo prazo mínimo de noventa dias, contado da data do atendimento.\n\n§ 4º Durante o prazo de que trata o § 3º, o consumidor poderá requerer acesso ao conteúdo da chamada efetuada.\n\n§ 5º O registro do atendimento será mantido à disposição do consumidor e do órgão ou da entidade fiscalizadora pelo prazo mínimo de dois anos, contado da data de resolução da demanda.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm#:~:text=Art.%2012.%20%C3%89%20direito%20do%20consumidor%20acompanhar%2C%20nos%20diversos%20canais%20de%20atendimento%20integrados%2C%20todas%20as%20suas%20demandas%2C%20por%20meio%20de%20registro%20num%C3%A9rico",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. As demandas do consumidor serão respondidas no prazo de sete dias corridos, contado da data de seu registro.\n\n§ 1º O consumidor será informado sobre a conclusão do tratamento de sua demanda e, mediante solicitação, receberá do fornecedor a comprovação pertinente por correspondência ou por meio eletrônico, a critério do consumidor.\n\n§ 2º A resposta do fornecedor:\n\nI - será clara, objetiva e conclusiva; e\n\nII - abordará todos os pontos da demanda do consumidor.\n\n§ 3º Quando a demanda tratar de serviço não solicitado ou de cobrança indevida, o fornecedor adotará imediatamente as medidas necessárias à suspensão da cobrança.\n\n§ 4º Os órgãos ou as entidades reguladoras competentes poderão estabelecer, no setor regulado, prazo para resolução das demandas no SAC.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm#:~:text=Art.%2013.%20As%20demandas%20do%20consumidor%20ser%C3%A3o%20respondidas%20no%20prazo%20de%20sete%20dias%20corridos%2C%20contado%20da%20data%20de%20seu%20registro.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. O recebimento e o processamento imediato do pedido de cancelamento de serviço feito pelo consumidor, por meio do SAC, observará as seguintes diretrizes:\n\nI - o pedido de cancelamento será permitido e assegurado ao consumidor por todos os meios disponíveis para a contratação do serviço, observadas as condições aplicáveis à rescisão e as multas decorrentes de cláusulas contratuais;\n\nII - os efeitos do pedido de cancelamento serão imediatos, independentemente do adimplemento contratual, exceto quando for necessário o processamento técnico da demanda;\n\nIII - será assegurada ao consumidor a informação sobre eventuais condições aplicáveis à rescisão e as multas incidentes por descumprimento de cláusulas contratuais de permanência mínima, quando cabíveis;\n\nIV - o comprovante do pedido de cancelamento será encaminhado por correspondência ou por meio eletrônico, a critério do consumidor; e\n\nV - poderá ser oferecida a opção para cancelamento programado, sujeita à anuência do consumidor.\n\nParágrafo único. Os órgãos ou as entidades reguladoras competentes fixarão prazo para a conclusão do processamento técnico da demanda de que trata o inciso II do caput.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm#:~:text=Art.%2014.%20O%20recebimento%20e%20o%20processamento%20imediato%20do%20pedido%20de%20cancelamento%20de%20servi%C3%A7o%20feito%20pelo%20consumidor%2C%20por%20meio%20do%20SAC%2C%20observar%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. À Secretaria Nacional do Consumidor do Ministério da Justiça e Segurança Pública competirá desenvolver a metodologia e implementar a ferramenta de acompanhamento da efetividade dos SAC, ouvidos os órgãos e as entidades reguladoras, os integrantes do Sistema Nacional de Defesa do Consumidor e os representantes de prestadores de serviços de relacionamento com consumidores.\n\n§ 1º No desenvolvimento da metodologia e na implementação da ferramenta de que trata o caput, serão considerados, no mínimo, os seguintes parâmetros:\n\nI - quantidade de reclamações referentes ao SAC, ponderada por quantidade de clientes ou de unidades de produção;\n\nII - taxa de resolução das demandas, sob a ótica do consumidor;\n\nIII - índice de reclamações junto aos órgãos de defesa do consumidor, principalmente no Sistema Nacional de Informações de Defesa do Consumidor e no sítio eletrônico do consumidor.gov.br, ou nas plataformas que venham a substituí-los;\n\nIV - índice de reclamações no órgão ou na entidade reguladora setorial; e\n\nV - grau de satisfação do consumidor.\n\n§ 2º A Secretaria Nacional do Consumidor do Ministério da Justiça e Segurança Pública dará transparência à metodologia e à ferramenta de acompanhamento da efetividade dos SAC de que trata o caput, divulgados, no mínimo, uma vez ao ano, os resultados da implementação da ferramenta.\n\n§ 3º A Secretaria Nacional do Consumidor do Ministério da Justiça e Segurança Pública poderá solicitar dados e informações aos fornecedores, observadas as hipóteses legais de sigilo, com vistas ao acompanhamento da efetividade dos SAC.\n\n§ 4º Os dados e as informações de que trata o § 3º poderão ser compartilhados com os órgãos ou as entidades reguladoras competentes, nos termos do disposto no Decreto nº 10.046, de 9 de outubro de 2019.\n\n§ 5º Com base na ferramenta de que trata o caput, a Secretaria Nacional do Consumidor do Ministério da Justiça e Segurança Pública poderá, ao averiguar a baixa efetividade dos SAC de determinados fornecedores, estabelecer horário de atendimento telefônico por humano superior ao previsto no inciso I do caput do art. 5º.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm#:~:text=Art.%2015.%20%C3%80%20Secretaria%20Nacional%20do%20Consumidor%20do%20Minist%C3%A9rio%20da%20Justi%C3%A7a%20e%20Seguran%C3%A7a%20P%C3%BAblica%20competir%C3%A1%20desenvolver%20a%20metodologia%20e%20implementar%20a%20ferramenta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. A inobservância ao disposto neste Decreto acarretará a aplicação das sanções estabelecidas no art. 56 da Lei nº 8.078, de 1990 - Código de Defesa do Consumidor, sem prejuízo da aplicação das sanções constantes dos regulamentos específicos dos órgãos e das entidades reguladoras.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm#:~:text=Art.%2016.%20A%20inobserv%C3%A2ncia%20ao%20disposto%20neste%20Decreto%20acarretar%C3%A1%20a%20aplica%C3%A7%C3%A3o%20das%20san%C3%A7%C3%B5es%20estabelecidas%20no%20art.%2056%20da%20Lei%20n%C2%BA%208.078%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Fica revogado o Decreto nº 6.523, de 31 de julho de 2008.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm#:~:text=Art.%2017.%20Fica%20revogado%20o%20Decreto%20n%C2%BA%206.523%2C%20de%2031%20de%20julho%20de%202008.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Este Decreto entra em vigor cento e oitenta dias após a data de sua publicação.\n\nBrasília, 5 de abril de 2022; 201º da Independência e 134º da República.\n\nJAIR MESSIAS BOLSONARO\n\nAnderson Gustavo Torres\n\nEste texto não substitui o publicado no DOU de 6.4.2022.\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm#:~:text=Art.%2018.%20Este%20Decreto%20entra%20em%20vigor%20cento%20e%20oitenta%20dias%20ap%C3%B3s%20a%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": null
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "_meta": {
+    "codigo": "L10185",
+    "nome": "Seguro Saúde",
+    "lei": "Lei 10.185/2001",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10185.htm",
+    "total_artigos": 5,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o As sociedades seguradoras poderão operar o seguro enquadrado no art. 1o, inciso I e § 1o, da Lei no 9.656, de 3 de junho de 1998, desde que estejam constituídas como seguradoras especializadas nesse seguro, devendo seu estatuto social vedar a atuação em quaisquer outros ramos ou modalidades.\n\n§ 1o As sociedades seguradoras que já operam o seguro de que trata o caput deste artigo, conjuntamente com outros ramos de seguro, deverão providenciar a sua especialização até 1o de julho de 2001, a ser processada junto à Superintendência de Seguros Privados - SUSEP, mediante cisão ou outro ato societário pertinente.\n\n§ 2o As sociedades seguradoras especializadas, nos termos deste artigo, ficam subordinadas às normas e à fiscalização da Agência Nacional de Saúde - ANS, que poderá aplicar-lhes, em caso de infringência à legislação que regula os planos privados de assistência à saúde, as penalidades previstas na Lei no 9.656, de 1998, e na Lei no 9.961, de 28 de janeiro de 2000.\n\n§ 3o Caberá, exclusivamente, ao Conselho de Saúde Complementar - CONSU, nos termos da Lei no 9.656, de 1998, e à ANS, nos termos da Lei no 9.961, de 2000, disciplinar o seguro de que trata este artigo quanto às matérias previstas nos incisos I e IV do art. 35-A da referida Lei no 9.656, de 1998, bem como quanto à autorização de funcionamento e à operação das sociedades seguradoras especializadas.\n\n§ 3o Caberá, exclusivamente, ao Conselho de Saúde Suplementar - CONSU, nos termos da Lei no 9.656, de 1998, e à ANS, nos termos da Lei no 9.961, de 2000, disciplinar o seguro de que trata este artigo quanto às matérias previstas nos incisos I e IV do art. 35-A da referida Lei no 9.656, de 1998, e no art. 4o da Lei no 9.961, de 2000, bem como quanto à autorização de funcionamento e à operação das sociedades seguradoras especializadas. (Redação dada pela Medida Provisória nº 2.177-44, de 2001)\n\n§ 4o Enquanto as sociedades seguradoras não promoverem a sua especialização em saúde, nos termos deste artigo, ficarão sujeitas à fiscalização da SUSEP e da ANS, no âmbito de suas respectivas competências.\n\n§ 5o As sociedades seguradoras especializadas em seguro saúde, nos termos deste artigo, continuarão subordinadas às normas sobre as aplicações dos ativos garantidores das provisões técnicas expedidas pelo Conselho Monetário Nacional - CMN.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10185.htm#:~:text=Art.%201o%20As%20sociedades%20seguradoras%20poder%C3%A3o%20operar%20o%20seguro%20enquadrado%20no%20art.%201o%2C%20inciso%20I%20e%20%C2%A7%201o%2C%20da%20Lei%20no%209.656%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o Para efeito da Lei no 9.656, de 1998, e da Lei no 9.961, de 2000, enquadra-se o seguro saúde como plano privado de assistência à saúde e a sociedade seguradora especializada em saúde como operadora de plano de assistência à saúde.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10185.htm#:~:text=Art.%202o%20Para%20efeito%20da%20Lei%20no%209.656%2C%20de%201998%2C%20e%20da%20Lei%20no%209.961%2C%20de%202000%2C%20enquadra-se%20o%20seguro%20sa%C3%BAde%20como",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o A sociedade seguradora que não se adaptar ao disposto nesta Lei fica obrigada a transferir sua carteira de saúde para sociedade seguradora especializada já estabelecida ou para operadora de planos privados de assistência à saúde, que venha a apresentar o plano de sucessão segundo as normas fixadas pela ANS.\n\nParágrafo único. Deverá ser observado o prazo limite de 1o de julho de 2001 para a transferência da carteira de saúde de que trata o caput deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10185.htm#:~:text=Art.%203o%20A%20sociedade%20seguradora%20que%20n%C3%A3o%20se%20adaptar%20ao%20disposto%20nesta%20Lei%20fica%20obrigada%20a%20transferir%20sua%20carteira%20de%20sa%C3%BAde%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o Ficam convalidados os atos praticados com base na Medida Provisória no 2.122-1, de 27 de dezembro de 2000.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10185.htm#:~:text=Art.%204o%20Ficam%20convalidados%20os%20atos%20praticados%20com%20base%20na%20Medida%20Provis%C3%B3ria%20no%202.122-1%2C%20de%2027%20de%20dezembro%20de%202000.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o Esta Lei entra em vigor na data de sua publicação.\n\nCongresso Nacional, em 12 de fevereiro de 2001; 180o da Independência e 113o da República\n\nSenador ANTONIO CARLOS MAGALHÃES Presidente\n\nEste texto não substitui o publicado no DOU de 14.2.2001\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10185.htm#:~:text=Art.%205o%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": null
+    }
+  }
+}

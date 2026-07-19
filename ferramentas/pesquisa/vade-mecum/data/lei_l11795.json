@@ -1,0 +1,799 @@
+{
+  "_meta": {
+    "codigo": "L11795",
+    "nome": "Consórcios",
+    "lei": "Lei 11.795/2008",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm",
+    "total_artigos": 49,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o O Sistema de Consórcios, instrumento de progresso social que se destina a propiciar o acesso ao consumo de bens e serviços, constituído por administradoras de consórcio e grupos de consórcio, será regulado por esta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%201o%20O%20Sistema%20de%20Cons%C3%B3rcios%2C%20instrumento%20de%20progresso%20social%20que%20se%20destina%20a%20propiciar%20o%20acesso%20ao%20consumo%20de%20bens%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I DO SISTEMA DE CONSÓRCIOS",
+        "section": "I",
+        "section_name": "Seção I Dos Conceitos Fundamentais"
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o Consórcio é a reunião de pessoas naturais e jurídicas em grupo, com prazo de duração e número de cotas previamente determinados, promovida por administradora de consórcio, com a finalidade de propiciar a seus integrantes, de forma isonômica, a aquisição de bens ou serviços, por meio de autofinanciamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%202o%20Cons%C3%B3rcio%20%C3%A9%20a%20reuni%C3%A3o%20de%20pessoas%20naturais%20e%20jur%C3%ADdicas%20em%20grupo%2C%20com%20prazo%20de%20dura%C3%A7%C3%A3o%20e%20n%C3%BAmero%20de%20cotas%20previamente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I DO SISTEMA DE CONSÓRCIOS",
+        "section": "I",
+        "section_name": "Seção I Dos Conceitos Fundamentais"
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o Grupo de consórcio é uma sociedade não personificada constituída por consorciados para os fins estabelecidos no art. 2o.\n\n§ 1o O grupo de consórcio será representado por sua administradora, em caráter irrevogável e irretratável, ativa ou passivamente, em juízo ou fora dele, na defesa dos direitos e interesses coletivamente considerados e para a execução do contrato de participação em grupo de consórcio, por adesão.\n\n§ 2o O interesse do grupo de consórcio prevalece sobre o interesse individual do consorciado.\n\n§ 3o O grupo de consórcio é autônomo em relação aos demais e possui patrimônio próprio, que não se confunde com o de outro grupo, nem com o da própria administradora.\n\n§ 4o Os recursos dos grupos geridos pela administradora de consórcio serão contabilizados separadamente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%203o%20Grupo%20de%20cons%C3%B3rcio%20%C3%A9%20uma%20sociedade%20n%C3%A3o%20personificada%20constitu%C3%ADda%20por%20consorciados%20para%20os%20fins%20estabelecidos%20no%20art.%202o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I DO SISTEMA DE CONSÓRCIOS",
+        "section": "I",
+        "section_name": "Seção I Dos Conceitos Fundamentais"
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o Consorciado é a pessoa natural ou jurídica que integra o grupo e assume a obrigação de contribuir para o cumprimento integral de seus objetivos, observado o disposto no art. 2o.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%204o%20Consorciado%20%C3%A9%20a%20pessoa%20natural%20ou%20jur%C3%ADdica%20que%20integra%20o%20grupo%20e%20assume%20a%20obriga%C3%A7%C3%A3o%20de%20contribuir%20para%20o%20cumprimento",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I DO SISTEMA DE CONSÓRCIOS",
+        "section": "I",
+        "section_name": "Seção I Dos Conceitos Fundamentais"
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o A administradora de consórcios é a pessoa jurídica prestadora de serviços com objeto social principal voltado à administração de grupos de consórcio, constituída sob a forma de sociedade limitada ou sociedade anônima, nos termos do art. 7o, inciso I.\n\n§ 1o A administradora de consórcio deve figurar no contrato de participação em grupo de consórcio, por adesão, na qualidade de gestora dos negócios dos grupos e de mandatária de seus interesses e direitos.\n\n§ 2o Os diretores, gerentes, prepostos e sócios com função de gestão na administradora de consórcio são depositários, para todos os efeitos, das quantias que a administradora receber dos consorciados na sua gestão, até o cumprimento da obrigação assumida no contrato de participação em grupo de consórcio, por adesão, respondendo pessoal e solidariamente, independentemente da verificação de culpa, pelas obrigações perante os consorciados.\n\n§ 3o A administradora de consórcio tem direito à taxa de administração, a título de remuneração pela formação, organização e administração do grupo de consórcio até o encerramento deste, conforme o art. 32, bem como o recebimento de outros valores, expressamente previstos no contrato de participação em grupo de consórcio, por adesão, observados ainda os arts. 28 e 35.\n\n§ 4o (VETADO)\n\n§ 5o Os bens e direitos adquiridos pela administradora em nome do grupo de consórcio, inclusive os decorrentes de garantia, bem como seus frutos e rendimentos, não se comunicam com o seu patrimônio, observado que:\n\nI – não integram o ativo da administradora;\n\nII – não respondem direta ou indiretamente por qualquer obrigação da administradora;\n\nIII – não compõem o elenco de bens e direitos da administradora, para efeito de liquidação judicial ou extrajudicial;\n\nIV – não podem ser dados em garantia de débito da administradora.\n\n§ 6o A administradora estará desobrigada de apresentar certidão negativa de débitos, expedida pelo Instituto Nacional da Seguridade Social, e Certidão Negativa de Tributos e Contribuições, expedida pela Secretaria da Receita Federal, relativamente à própria empresa, quando alienar imóvel integrante do patrimônio do grupo de consórcio.\n\n§ 7o No caso de o bem recebido ser um imóvel, as restrições enumeradas nos incisos II a IV do § 5o deste artigo deverão ser averbadas no registro de imóveis competente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%205o%20A%20administradora%20de%20cons%C3%B3rcios%20%C3%A9%20a%20pessoa%20jur%C3%ADdica%20prestadora%20de%20servi%C3%A7os%20com%20objeto%20social%20principal%20voltado%20%C3%A0%20administra%C3%A7%C3%A3o%20de%20grupos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I DO SISTEMA DE CONSÓRCIOS",
+        "section": "II",
+        "section_name": "Seção II Da Administração de Consórcios"
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o A normatização, coordenação, supervisão, fiscalização e controle das atividades do sistema de consórcios serão realizados pelo Banco Central do Brasil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%206o%20A%20normatiza%C3%A7%C3%A3o%2C%20coordena%C3%A7%C3%A3o%2C%20supervis%C3%A3o%2C%20fiscaliza%C3%A7%C3%A3o%20e%20controle%20das%20atividades%20do%20sistema%20de%20cons%C3%B3rcios%20ser%C3%A3o%20realizados%20pelo%20Banco%20Central%20do%20Brasil.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I DO SISTEMA DE CONSÓRCIOS",
+        "section": "III",
+        "section_name": "Seção III Do Órgão Regulador e Fiscalizador"
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o Compete ao Banco Central do Brasil:\n\nI – conceder autorização para funcionamento, transferência do controle societário e reorganização da sociedade e cancelar a autorização para funcionar das administradoras de consórcio, segundo abrangência e condições que fixar;\n\nII – aprovar atos administrativos ou societários das administradoras de consórcio, segundo abrangência e condições que fixar;\n\nIII – baixar normas disciplinando as operações de consórcio, inclusive no que refere à supervisão prudencial, à contabilização, ao oferecimento de garantias, à aplicação financeira dos recursos dos grupos de consórcio, às condições mínimas que devem constar do contrato de participação em grupo de consórcio, por adesão, à prestação de contas e ao encerramento do grupo de consórcio;\n\nIV – fixar condições para aplicação das penalidades em face da gravidade da infração praticada e da culpa ou dolo verificados, inclusive no que se refere à gradação das multas previstas nos incisos V e VI do art. 42; (Revogado pela Medida Provisória nº 784, de 2017) Vigência encerrada (Revogado pela Lei nº 13.506, de 2017)\n\nV – fiscalizar as operações de consórcio, as administradoras de consórcio e os atos dos respectivos administradores e aplicar as sanções;\n\nVI – estabelecer os procedimentos relativos ao processo administrativo e o julgamento das infrações a esta Lei, às normas infralegais e aos termos dos contratos de participação em grupo de consórcio, por adesão, formalizados;\n\nVII – intervir nas administradoras de consórcio e decretar sua liquidação extrajudicial na forma e condições previstas na legislação especial aplicável às instituições financeiras.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%207o%20Compete%20ao%20Banco%20Central%20do%20Brasil%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I DO SISTEMA DE CONSÓRCIOS",
+        "section": "III",
+        "section_name": "Seção III Do Órgão Regulador e Fiscalizador"
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o No exercício da fiscalização prevista no art. 7o, o Banco Central do Brasil poderá exigir das administradoras de consórcio, bem como de seus administradores, a exibição a funcionários seus, expressamente credenciados, de documentos, papéis, livros de escrituração e acesso aos dados armazenados nos sistemas eletrônicos, considerando-se a negativa de atendimento como embaraço à fiscalização, sujeita às penalidades previstas nesta Lei, sem prejuízo de outras medidas e sanções cabíveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%208o%20No%20exerc%C3%ADcio%20da%20fiscaliza%C3%A7%C3%A3o%20prevista%20no%20art.%207o%2C%20o%20Banco%20Central%20do%20Brasil%20poder%C3%A1%20exigir%20das%20administradoras%20de%20cons%C3%B3rcio%2C%20bem",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I DO SISTEMA DE CONSÓRCIOS",
+        "section": "III",
+        "section_name": "Seção III Do Órgão Regulador e Fiscalizador"
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%209o%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I DO SISTEMA DE CONSÓRCIOS",
+        "section": "III",
+        "section_name": "Seção III Do Órgão Regulador e Fiscalizador"
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. O contrato de participação em grupo de consórcio, por adesão, é o instrumento plurilateral de natureza associativa cujo escopo é a constituição de fundo pecuniário para as finalidades previstas no art. 2o.\n\n§ 1o O contrato de participação em grupo de consórcio, por adesão, criará vínculos obrigacionais entre os consorciados, e destes com a administradora, para proporcionar a todos igual condição de acesso ao mercado de consumo de bens ou serviços.\n\n§ 2o (VETADO)\n\n§ 3o A proposta de participação é o instrumento pelo qual o interessado formaliza seu pedido de participação no grupo de consórcio, que se converterá no contrato, observada a disposição constante do § 4o, se aprovada pela administradora.\n\n§ 4o O contrato de participação em grupo de consórcio aperfeiçoar-se-á na data de constituição do grupo, observado o art. 16.\n\n§ 5o É facultada a estipulação de multa pecuniária em virtude de descumprimento de obrigação contratual, que a parte que lhe der causa pagará à outra.\n\n§ 6o O contrato de participação em grupo de consórcio, por adesão, de consorciado contemplado é título executivo extrajudicial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2010.%20O%20contrato%20de%20participa%C3%A7%C3%A3o%20em%20grupo%20de%20cons%C3%B3rcio%2C%20por%20ades%C3%A3o%2C%20%C3%A9%20o%20instrumento%20plurilateral%20de%20natureza%20associativa%20cujo%20escopo%20%C3%A9",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DO CONTRATO DE CONSÓRCIO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. O contrato de participação em grupo de consórcio, por adesão, implicará atribuição de uma cota de participação no grupo, numericamente identificada, nela caracterizada o bem ou serviço.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2011.%20O%20contrato%20de%20participa%C3%A7%C3%A3o%20em%20grupo%20de%20cons%C3%B3rcio%2C%20por%20ades%C3%A3o%2C%20implicar%C3%A1%20atribui%C3%A7%C3%A3o%20de%20uma%20cota%20de%20participa%C3%A7%C3%A3o%20no%20grupo%2C%20numericamente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DO CONTRATO DE CONSÓRCIO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. O contrato de participação em grupo de consórcio, por adesão, poderá ter como referência bem móvel, imóvel ou serviço de qualquer natureza.\n\nParágrafo único. O contrato de grupo para a aquisição de bem imóvel poderá estabelecer a aquisição de imóvel em empreendimento imobiliário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2012.%20O%20contrato%20de%20participa%C3%A7%C3%A3o%20em%20grupo%20de%20cons%C3%B3rcio%2C%20por%20ades%C3%A3o%2C%20poder%C3%A1%20ter%20como%20refer%C3%AAncia%20bem%20m%C3%B3vel%2C%20im%C3%B3vel%20ou%20servi%C3%A7o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DO CONTRATO DE CONSÓRCIO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Os direitos e obrigações decorrentes do contrato de participação em grupo de consórcio, por adesão, poderão ser transferidos a terceiros, mediante prévia anuência da administradora.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2013.%20Os%20direitos%20e%20obriga%C3%A7%C3%B5es%20decorrentes%20do%20contrato%20de%20participa%C3%A7%C3%A3o%20em%20grupo%20de%20cons%C3%B3rcio%2C%20por%20ades%C3%A3o%2C%20poder%C3%A3o%20ser%20transferidos%20a%20terceiros%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DO CONTRATO DE CONSÓRCIO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. No contrato de participação em grupo de consórcio, por adesão, devem estar previstas, de forma clara, as garantias que serão exigidas do consorciado para utilizar o crédito.\n\n§ 1o As garantias iniciais em favor do grupo devem recair sobre o bem adquirido por meio do consórcio.\n\n§ 2o No caso de consórcio de bem imóvel, é facultado à administradora aceitar em garantia outro imóvel de valor suficiente para assegurar o cumprimento das obrigações pecuniárias do contemplado em face do grupo.\n\n§ 3o Admitem-se garantias reais ou pessoais, sem vinculação ao bem referenciado, no caso de consórcio de serviço de qualquer natureza, ou quando, na data de utilização do crédito, o bem estiver sob produção, incorporação ou situação análoga definida pelo Banco Central do Brasil.\n\n§ 4o A administradora pode exigir garantias complementares proporcionais ao valor das prestações vincendas.\n\n§ 5o A administradora deve indenizar o grupo na ocorrência de eventuais prejuízos decorrentes:\n\nI – de aprovação de garantias insuficientes, inclusive no caso de substituição de garantias dadas na forma dos §§ 1o, 2o e 3o;\n\nII – de liberação de garantias enquanto o consorciado não tiver quitado sua participação no grupo.\n\n§ 6o Para os fins do disposto neste artigo, o oferecedor de garantia por meio de alienação fiduciária de imóvel ficará responsável pelo pagamento integral das obrigações pecuniárias estabelecidas no contrato de participação em grupo de consórcio, por adesão, inclusive da parte que remanescer após a execução dessa garantia.\n\n§ 7o A anotação da alienação fiduciária de veículo automotor ofertado em garantia ao grupo de consórcio no certificado de registro a que se refere o Código de Trânsito Brasileiro, Lei no 9.503, de 23 de setembro de 1997, produz efeitos probatórios contra terceiros, dispensado qualquer outro registro público.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2014.%20No%20contrato%20de%20participa%C3%A7%C3%A3o%20em%20grupo%20de%20cons%C3%B3rcio%2C%20por%20ades%C3%A3o%2C%20devem%20estar%20previstas%2C%20de%20forma%20clara%2C%20as%20garantias%20que%20ser%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DO CONTRATO DE CONSÓRCIO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. A participação de um mesmo consorciado em um grupo de consórcio, para os grupos constituídos a partir da edição desta Lei, fica limitada ao percentual de cotas, a ser fixado pelo Banco Central do Brasil.\n\n§ 1o A administradora de consórcio pode adquirir cotas de grupo de consórcio, inclusive sob sua administração.\n\n§ 2o A administradora de consórcio, em qualquer hipótese, somente poderá concorrer a sorteio ou lance após a contemplação de todos os demais consorciados.\n\n§ 3o O disposto nos §§ 1o e 2o aplica-se, inclusive:\n\nI – aos administradores e pessoas com função de gestão na administradora;\n\nII – aos administradores e pessoas com função de gestão em empresas coligadas, controladas ou controladoras da administradora;\n\nIII – às empresas coligadas, controladas ou controladoras da administradora.\n\n§ 4o O percentual referido no caput aplica-se cumulativamente às pessoas relacionadas nos §§ 1o a 3o.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2015.%20A%20participa%C3%A7%C3%A3o%20de%20um%20mesmo%20consorciado%20em%20um%20grupo%20de%20cons%C3%B3rcio%2C%20para%20os%20grupos%20constitu%C3%ADdos%20a%20partir%20da%20edi%C3%A7%C3%A3o%20desta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II DO CONTRATO DE CONSÓRCIO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Considera-se constituído o grupo de consórcio com a realização da primeira assembléia, que será designada pela administradora de consórcio quando houver adesões em número e condições suficientes para assegurar a viabilidade econômico-financeira do empreendimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2016.%20Considera-se%20constitu%C3%ADdo%20o%20grupo%20de%20cons%C3%B3rcio%20com%20a%20realiza%C3%A7%C3%A3o%20da%20primeira%20assembl%C3%A9ia%2C%20que%20ser%C3%A1%20designada%20pela%20administradora%20de%20cons%C3%B3rcio%20quando",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DO FUNCIONAMENTO DO GRUPO",
+        "section": "I",
+        "section_name": "Seção I Da Constituição"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. O grupo deve escolher, na primeira assembléia geral ordinária, até 3 (três) consorciados, que o representarão perante a administradora com a finalidade de acompanhar a regularidade de sua gestão, com mandato igual à duração do grupo, facultada a substituição por decisão da maioria dos consorciados em assembléia geral.\n\nParágrafo único. No exercício de sua função, os representantes terão, a qualquer tempo, acesso a todos os documentos e demonstrativos pertinentes às operações do grupo, podendo solicitar informações e representar contra a administradora na defesa dos interesses do grupo, perante o órgão regulador e fiscalizador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2017.%20O%20grupo%20deve%20escolher%2C%20na%20primeira%20assembl%C3%A9ia%20geral%20ordin%C3%A1ria%2C%20at%C3%A9%203%20%28tr%C3%AAs%29%20consorciados%2C%20que%20o%20representar%C3%A3o%20perante%20a%20administradora%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DO FUNCIONAMENTO DO GRUPO",
+        "section": "I",
+        "section_name": "Seção I Da Constituição"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. A assembléia geral ordinária será realizada na periodicidade prevista no contrato de participação em grupo de consórcio, por adesão, e destina-se a apreciação de contas prestadas pela administradora e a realização de contemplações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2018.%20A%20assembl%C3%A9ia%20geral%20ordin%C3%A1ria%20ser%C3%A1%20realizada%20na%20periodicidade%20prevista%20no%20contrato%20de%20participa%C3%A7%C3%A3o%20em%20grupo%20de%20cons%C3%B3rcio%2C%20por%20ades%C3%A3o%2C%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DO FUNCIONAMENTO DO GRUPO",
+        "section": "II",
+        "section_name": "Seção II Das Assembléias"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. A assembléia geral extraordinária será convocada pela administradora, por iniciativa própria ou por solicitação de 30% (trinta por cento) dos consorciados ativos do grupo, para deliberar sobre quaisquer outros assuntos que não os afetos à assembléia geral ordinária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2019.%20A%20assembl%C3%A9ia%20geral%20extraordin%C3%A1ria%20ser%C3%A1%20convocada%20pela%20administradora%2C%20por%20iniciativa%20pr%C3%B3pria%20ou%20por%20solicita%C3%A7%C3%A3o%20de%2030%25%20%28trinta%20por%20cento%29%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DO FUNCIONAMENTO DO GRUPO",
+        "section": "II",
+        "section_name": "Seção II Das Assembléias"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. A cada cota de consorciado ativo corresponderá um voto nas deliberações das assembléias gerais ordinárias e extraordinárias, que serão tomadas por maioria simples.\n\n§ 1o A representação do ausente pela administradora na assembléia geral ordinária dar-se-á com a outorga de poderes, desde que prevista no contrato de participação em grupo de consórcio, por adesão.\n\n§ 2o A representação de ausentes nas assembléias gerais extraordinárias dar-se-á com a outorga de poderes específicos, inclusive à administradora, constando obrigatoriamente informações relativas ao dia, hora e local e assuntos a serem deliberados.\n\n§ 3o Somente o consorciado ativo não contemplado participará da tomada de decisões em assembléia geral extraordinária convocada para deliberar sobre:\n\nI – suspensão ou retirada de produção do bem ou extinção do serviço objeto do contrato;\n\nII – extinção do índice de atualização do valor do crédito e das parcelas, indicado no contrato;\n\nIII – encerramento antecipado do grupo;\n\nIV – assuntos de seus interesses exclusivos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2020.%20A%20cada%20cota%20de%20consorciado%20ativo%20corresponder%C3%A1%20um%20voto%20nas%20delibera%C3%A7%C3%B5es%20das%20assembl%C3%A9ias%20gerais%20ordin%C3%A1rias%20e%20extraordin%C3%A1rias%2C%20que%20ser%C3%A3o%20tomadas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DO FUNCIONAMENTO DO GRUPO",
+        "section": "II",
+        "section_name": "Seção II Das Assembléias"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Para os fins do disposto nos arts. 19 e 20, é consorciado ativo aquele que mantém vínculo obrigacional com o grupo, excetuado o participante inadimplente não contemplado e o excluído, conforme definição do art. 29.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2021.%20Para%20os%20fins%20do%20disposto%20nos%20arts.%2019%20e%2020%2C%20%C3%A9%20consorciado%20ativo%20aquele%20que%20mant%C3%A9m%20v%C3%ADnculo%20obrigacional%20com%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DO FUNCIONAMENTO DO GRUPO",
+        "section": "II",
+        "section_name": "Seção II Das Assembléias"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. A contemplação é a atribuição ao consorciado do crédito para a aquisição de bem ou serviço, bem como para a restituição das parcelas pagas, no caso dos consorciados excluídos, nos termos do art. 30.\n\n§ 1o A contemplação ocorre por meio de sorteio ou de lance, na forma prevista no contrato de participação em grupo de consórcio, por adesão.\n\n§ 2o Somente concorrerá à contemplação o consorciado ativo, de que trata o art. 21, e os excluídos, para efeito de restituição dos valores pagos, na forma do art. 30.\n\n§ 3o O contemplado poderá destinar o crédito para a quitação total de financiamento de sua titularidade, sujeita à prévia anuência da administradora e ao atendimento de condições estabelecidas no contrato de consórcio de participação em grupo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2022.%20A%20contempla%C3%A7%C3%A3o%20%C3%A9%20a%20atribui%C3%A7%C3%A3o%20ao%20consorciado%20do%20cr%C3%A9dito%20para%20a%20aquisi%C3%A7%C3%A3o%20de%20bem%20ou%20servi%C3%A7o%2C%20bem%20como%20para%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DO FUNCIONAMENTO DO GRUPO",
+        "section": "III",
+        "section_name": "Seção III Das Contemplações"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. A contemplação está condicionada à existência de recursos suficientes no grupo para a aquisição do bem, conjunto de bens ou serviços em que o grupo esteja referenciado e para a restituição aos excluídos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2023.%20A%20contempla%C3%A7%C3%A3o%20est%C3%A1%20condicionada%20%C3%A0%20exist%C3%AAncia%20de%20recursos%20suficientes%20no%20grupo%20para%20a%20aquisi%C3%A7%C3%A3o%20do%20bem%2C%20conjunto%20de%20bens%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DO FUNCIONAMENTO DO GRUPO",
+        "section": "III",
+        "section_name": "Seção III Das Contemplações"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. O crédito a que faz jus o consorciado contemplado será o valor equivalente ao do bem ou serviço indicado no contrato, vigente na data da assembléia geral ordinária de contemplação.\n\n§ 1o O crédito de que trata este artigo será acrescido dos rendimentos líquidos financeiros proporcionais ao período que ficar aplicado, compreendido entre a data em que colocado à disposição até a sua utilização pelo consorciado contemplado.\n\n§ 2o Nos casos em que o objeto do contrato não possa ser perfeitamente identificado, o valor do crédito e a sua atualização deverão estar previstos no contrato, sem prejuízo do acréscimo dos rendimentos líquidos de que trata o § 1o.\n\n§ 3o A restituição ao consorciado excluído, calculada nos termos do art. 30, será considerada crédito parcial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2024.%20O%20cr%C3%A9dito%20a%20que%20faz%20jus%20o%20consorciado%20contemplado%20ser%C3%A1%20o%20valor%20equivalente%20ao%20do%20bem%20ou%20servi%C3%A7o%20indicado%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DO FUNCIONAMENTO DO GRUPO",
+        "section": "III",
+        "section_name": "Seção III Das Contemplações"
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Considera-se fundo comum, para os fins desta Lei, os recursos do grupo destinados à atribuição de crédito aos consorciados contemplados para aquisição do bem ou serviço e à restituição aos consorciados excluídos dos respectivos grupos, bem como para outros pagamentos previstos no contrato de participação em grupo de consórcio, por adesão.\n\nParágrafo único. O fundo comum é constituído pelo montante de recursos representados por prestações pagas pelos consorciados para esse fim e por valores correspondentes a multas e juros moratórios destinados ao grupo de consórcio, bem como pelos rendimentos provenientes de sua aplicação financeira.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2025.%20Considera-se%20fundo%20comum%2C%20para%20os%20fins%20desta%20Lei%2C%20os%20recursos%20do%20grupo%20destinados%20%C3%A0%20atribui%C3%A7%C3%A3o%20de%20cr%C3%A9dito%20aos%20consorciados%20contemplados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DO FUNCIONAMENTO DO GRUPO",
+        "section": "IV",
+        "section_name": "Seção IV Dos Recursos do Grupo e das Obrigações Financeiras do Consorciado"
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Os recursos dos grupos de consórcio, coletados pela administradora, a qualquer tempo, serão depositados em instituição financeira e devem ser aplicados na forma estabelecida pelo Banco Central do Brasil, desde a sua disponibilidade e enquanto não utilizados para as finalidades previstas no contrato de participação em grupo de consórcio, por adesão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2026.%20Os%20recursos%20dos%20grupos%20de%20cons%C3%B3rcio%2C%20coletados%20pela%20administradora%2C%20a%20qualquer%20tempo%2C%20ser%C3%A3o%20depositados%20em%20institui%C3%A7%C3%A3o%20financeira%20e%20devem%20ser",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DO FUNCIONAMENTO DO GRUPO",
+        "section": "IV",
+        "section_name": "Seção IV Dos Recursos do Grupo e das Obrigações Financeiras do Consorciado"
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. O consorciado obriga-se a pagar prestação cujo valor corresponde à soma das importâncias referentes à parcela destinada ao fundo comum do grupo, à taxa de administração e às demais obrigações pecuniárias que forem estabelecidas expressamente no contrato de participação em grupo de consórcio, por adesão.\n\n§ 1o As obrigações e os direitos do consorciado que tiverem expressão pecuniária são identificados em percentual do preço do bem ou serviço referenciado no contrato de participação em grupo de consórcio, por adesão.\n\n§ 2o O fundo de reserva, se estabelecido no grupo de consórcio, somente poderá ser utilizado para as finalidades previstas no contrato de participação, inclusive para restituição a consorciado excluído.\n\n§ 3o É facultado estipular no contrato de participação em grupo de consórcio, por adesão, a cobrança de valor a título de antecipação de taxa de administração, destinado ao pagamento de despesas imediatas vinculadas à venda de cotas de grupo de consórcio e remuneração de representantes e corretores, devendo ser:\n\nI – destacado do valor da taxa de administração que compõe a prestação, sendo exigível apenas no ato da assinatura do contrato de participação em grupo de consórcio, por adesão;\n\nII – deduzido do valor total da taxa de administração durante o prazo de duração do grupo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2027.%20O%20consorciado%20obriga-se%20a%20pagar%20presta%C3%A7%C3%A3o%20cujo%20valor%20corresponde%20%C3%A0%20soma%20das%20import%C3%A2ncias%20referentes%20%C3%A0%20parcela%20destinada%20ao%20fundo%20comum",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DO FUNCIONAMENTO DO GRUPO",
+        "section": "IV",
+        "section_name": "Seção IV Dos Recursos do Grupo e das Obrigações Financeiras do Consorciado"
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. O valor da multa e de juros moratórios a cargo do consorciado, se previstos no contrato de participação em grupo de consórcio, por adesão, será destinado ao grupo e à administradora, não podendo o contrato estipular para o grupo percentual inferior a 50% (cinqüenta por cento).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2028.%20O%20valor%20da%20multa%20e%20de%20juros%20morat%C3%B3rios%20a%20cargo%20do%20consorciado%2C%20se%20previstos%20no%20contrato%20de%20participa%C3%A7%C3%A3o%20em%20grupo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DO FUNCIONAMENTO DO GRUPO",
+        "section": "IV",
+        "section_name": "Seção IV Dos Recursos do Grupo e das Obrigações Financeiras do Consorciado"
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2029.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DO FUNCIONAMENTO DO GRUPO",
+        "section": "V",
+        "section_name": "Seção V Da Exclusão do Grupo"
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. O consorciado excluído não contemplado terá direito à restituição da importância paga ao fundo comum do grupo, cujo valor deve ser calculado com base no percentual amortizado do valor do bem ou serviço vigente na data da assembléia de contemplação, acrescido dos rendimentos da aplicação financeira a que estão sujeitos os recursos dos consorciados enquanto não utilizados pelo participante, na forma do art. 24, § 1o.\n\n§ 1o (VETADO)\n\n§ 2o (VETADO)\n\n§ 3o (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2030.%20O%20consorciado%20exclu%C3%ADdo%20n%C3%A3o%20contemplado%20ter%C3%A1%20direito%20%C3%A0%20restitui%C3%A7%C3%A3o%20da%20import%C3%A2ncia%20paga%20ao%20fundo%20comum%20do%20grupo%2C%20cujo%20valor%20deve",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III DO FUNCIONAMENTO DO GRUPO",
+        "section": "V",
+        "section_name": "Seção V Da Exclusão do Grupo"
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Dentro de 60 (sessenta) dias, contados da data da realização da última assembléia de contemplação do grupo de consórcio, a administradora deverá comunicar:\n\nI – aos consorciados que não tenham utilizado os respectivos créditos, que os mesmos estão à disposição para recebimento em espécie;\n\nII – (VETADO)\n\nIII – (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2031.%20Dentro%20de%2060%20%28sessenta%29%20dias%2C%20contados%20da%20data%20da%20realiza%C3%A7%C3%A3o%20da%20%C3%BAltima%20assembl%C3%A9ia%20de%20contempla%C3%A7%C3%A3o%20do%20grupo%20de%20cons%C3%B3rcio%2C%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DO ENCERRAMENTO DO GRUPO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. O encerramento do grupo deve ocorrer no prazo máximo de 120 (cento e vinte) dias, contado da data da realização da última assembléia de contemplação do grupo de consórcio e desde que decorridos, no mínimo, 30 (trinta) dias da comunicação de que trata o art. 31, ocasião em que se deve proceder à definitiva prestação de contas do grupo, discriminando-se:\n\nI – as disponibilidades remanescentes dos respectivos consorciados e participantes excluídos;\n\nII – os valores pendentes de recebimento, objeto de cobrança judicial.\n\n§ 1o Os valores pendentes de recebimento, uma vez recuperados, devem ser rateados proporcionalmente entre os beneficiários, devendo a administradora, até 120 (cento e vinte) dias após o seu recebimento, comunicar-lhes que os respectivos saldos estão à disposição para devolução em espécie.\n\n§ 2o Prescreverá em 5 (cinco) anos a pretensão do consorciado ou do excluído contra o grupo ou a administradora, e destes contra aqueles, a contar da data referida no caput.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2032.%20O%20encerramento%20do%20grupo%20deve%20ocorrer%20no%20prazo%20m%C3%A1ximo%20de%20120%20%28cento%20e%20vinte%29%20dias%2C%20contado%20da%20data%20da%20realiza%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV DO ENCERRAMENTO DO GRUPO",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. As disponibilidades financeiras remanescentes na data do encerramento do grupo são consideradas recursos não procurados pelos respectivos consorciados e participantes excluídos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2033.%20As%20disponibilidades%20financeiras%20remanescentes%20na%20data%20do%20encerramento%20do%20grupo%20s%C3%A3o%20consideradas%20recursos%20n%C3%A3o%20procurados%20pelos%20respectivos%20consorciados%20e%20participantes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DOS RECURSOS NÃO PROCURADOS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. A administradora de consórcio assumirá a condição de gestora dos recursos não procurados, os quais devem ser aplicados e remunerados em conformidade com os recursos de grupos de consórcio em andamento, nos termos estabelecidos no art. 26.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2034.%20A%20administradora%20de%20cons%C3%B3rcio%20assumir%C3%A1%20a%20condi%C3%A7%C3%A3o%20de%20gestora%20dos%20recursos%20n%C3%A3o%20procurados%2C%20os%20quais%20devem%20ser%20aplicados%20e%20remunerados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DOS RECURSOS NÃO PROCURADOS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. É facultada a cobrança de taxa de permanência sobre o saldo de recursos não procurados pelos respectivos consorciados e participantes excluídos, apresentado ao final de cada mês, oriundos de contratos firmados a partir da vigência desta Lei, nos termos do contrato de participação em grupo de consórcio, por adesão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2035.%20%C3%89%20facultada%20a%20cobran%C3%A7a%20de%20taxa%20de%20perman%C3%AAncia%20sobre%20o%20saldo%20de%20recursos%20n%C3%A3o%20procurados%20pelos%20respectivos%20consorciados%20e%20participantes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DOS RECURSOS NÃO PROCURADOS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. As administradoras de consórcio deverão providenciar o pagamento no prazo máximo de 30 (trinta) dias corridos a contar do comparecimento do consorciado com direito a recursos não procurados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2036.%20As%20administradoras%20de%20cons%C3%B3rcio%20dever%C3%A3o%20providenciar%20o%20pagamento%20no%20prazo%20m%C3%A1ximo%20de%2030%20%28trinta%29%20dias%20corridos%20a%20contar%20do%20comparecimento",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DOS RECURSOS NÃO PROCURADOS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2037.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DOS RECURSOS NÃO PROCURADOS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Os recursos não procurados, independentemente de sua origem, devem ter tratamento contábil específico, de maneira independente dos registros contábeis da administradora de consórcio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2038.%20Os%20recursos%20n%C3%A3o%20procurados%2C%20independentemente%20de%20sua%20origem%2C%20devem%20ter%20tratamento%20cont%C3%A1bil%20espec%C3%ADfico%2C%20de%20maneira%20independente%20dos%20registros%20cont%C3%A1beis%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V DOS RECURSOS NÃO PROCURADOS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. A administração especial e a liquidação extrajudicial de administradora de consórcio são regidas pela Lei no 6.024, de 13 de março de 1974, pelo Decreto-Lei no 2.321, de 25 de fevereiro de 1987, pela Lei no 9.447, de 14 de março de 1997, e por legislação superveniente aplicável às instituições financeiras, observado o disposto nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2039.%20A%20administra%C3%A7%C3%A3o%20especial%20e%20a%20liquida%C3%A7%C3%A3o%20extrajudicial%20de%20administradora%20de%20cons%C3%B3rcio%20s%C3%A3o%20regidas%20pela%20Lei%20no%206.024%2C%20de%2013%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DA ADMINISTRAÇÃO ESPECIAL E LIQUIDAÇÃO EXTRAJUDICIAL",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. A decretação da administração especial temporária ou da liquidação extrajudicial da administradora de consórcio não prejudicará a continuidade das operações dos grupos por ela administrados, devendo o conselho diretor ou o liquidante dar prioridade ao funcionamento regular dos grupos.\n\n§ 1o No caso de administração especial, o conselho diretor poderá convocar assembléia geral extraordinária para propor ao grupo as medidas que atendam a seus interesses, inclusive a de transferir sua administração.\n\n§ 2o No caso de liquidação extrajudicial, o liquidante, de posse do relatório da situação financeira de cada grupo, publicará edital, em que constarão os requisitos necessários à habilitação de administradoras de consórcio interessadas na administração dos grupos.\n\n§ 3o Expirado o prazo para a habilitação, o liquidante convocará assembléia geral extraordinária do grupo, a fim de deliberar sobre as propostas recebidas.\n\n§ 4o Os recursos pertencentes aos grupos de consórcio, administrados por empresa submetida aos regimes especial temporário ou de liquidação extrajudicial, serão obrigatória e exclusivamente destinados ao atendimento dos objetivos dos contratos de participação em grupo de consórcio, por adesão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2040.%20A%20decreta%C3%A7%C3%A3o%20da%20administra%C3%A7%C3%A3o%20especial%20tempor%C3%A1ria%20ou%20da%20liquida%C3%A7%C3%A3o%20extrajudicial%20da%20administradora%20de%20cons%C3%B3rcio%20n%C3%A3o%20prejudicar%C3%A1%20a%20continuidade%20das%20opera%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI DA ADMINISTRAÇÃO ESPECIAL E LIQUIDAÇÃO EXTRAJUDICIAL",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2041.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DAS PENALIDADES",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. As infrações aos dispositivos desta Lei, às normas infralegais e aos termos dos contratos de participação em grupo de consórcio, por adesão, formalizados sujeitam as administradoras de consórcio, bem como seus administradores às seguintes sanções, no que couber, sem prejuízo de outras medidas e sanções cabíveis:\n\nI – advertência;\n\nII – suspensão do exercício do cargo;\n\nIII – inabilitação por prazo determinado para o exercício de cargos de administração e de conselheiro fiscal em administradora de consórcio ou instituição financeira e demais autorizadas a funcionar pelo Banco Central do Brasil;\n\nIV – regime especial de fiscalização;\n\nV – multa de até 100% (cem por cento) das importâncias recebidas ou a receber, previstas nos contratos a título de despesa ou taxa de administração, elevada ao dobro em caso de reincidência;\n\nVI – multa de até R$ 500.000,00 (quinhentos mil reais), elevada ao dobro em caso de reincidência;\n\nVII – suspensão cautelar imediata de realizar novas operações, se configurado riscos ao público consumidor, durante o prazo de até 2 (dois) anos;\n\nVIII – cassação de autorização para funcionamento ou para administração de grupos de consórcio.\n\nParágrafo único. Considera-se reincidência a prática de nova infração de um mesmo dispositivo legal ou regulamentar, dentro de 5 (cinco) anos em que houver sido julgada procedente a primeira decisão administrativa referente à infração anterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2042.%20As%20infra%C3%A7%C3%B5es%20aos%20dispositivos%20desta%20Lei%2C%20%C3%A0s%20normas%20infralegais%20e%20aos%20termos%20dos%20contratos%20de%20participa%C3%A7%C3%A3o%20em%20grupo%20de%20cons%C3%B3rcio%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DAS PENALIDADES",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. A aplicação das penalidades previstas nesta Lei, separada ou cumulativamente, não exclui a responsabilidade e as sanções de natureza civil e penal, nos termos das respectivas legislações. (Revogado pela Medida Provisória nº 784, de 2017) Vigência encerrada (Revogado pela Lei nº 13.506, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2043.%20A%20aplica%C3%A7%C3%A3o%20das%20penalidades%20previstas%20nesta%20Lei%2C%20separada%20ou%20cumulativamente%2C%20n%C3%A3o%20exclui%20a%20responsabilidade%20e%20as%20san%C3%A7%C3%B5es%20de%20natureza%20civil",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DAS PENALIDADES",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. As multas previstas no art. 42, incisos V e VI, aplicadas à administradora de consórcio e aos seus administradores, serão graduadas em função da gravidade da violação. (Revogado pela Medida Provisória nº 784, de 2017) Vigência encerrada (Revogado pela Lei nº 13.506, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2044.%20As%20multas%20previstas%20no%20art.%2042%2C%20incisos%20V%20e%20VI%2C%20aplicadas%20%C3%A0%20administradora%20de%20cons%C3%B3rcio%20e%20aos%20seus%20administradores%2C%20ser%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII DAS PENALIDADES",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. O registro e a averbação referentes à aquisição de imóvel por meio do Sistema de Consórcios serão considerados, para efeito de cálculo de taxas, emolumentos e custas, como um único ato.\n\nParágrafo único. O contrato de compra e venda de imóvel por meio do Sistema de Consórcios poderá ser celebrado por instrumento particular.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2045.%20O%20registro%20e%20a%20averba%C3%A7%C3%A3o%20referentes%20%C3%A0%20aquisi%C3%A7%C3%A3o%20de%20im%C3%B3vel%20por%20meio%20do%20Sistema%20de%20Cons%C3%B3rcios%20ser%C3%A3o%20considerados%2C%20para%20efeito",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS DISPOSIÇÕES FINAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. Ficam convalidadas as autorizações para administrar grupos de consórcio concedidas até a data da publicação desta Lei às administradoras e às associações e entidades sem fins lucrativos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2046.%20Ficam%20convalidadas%20as%20autoriza%C3%A7%C3%B5es%20para%20administrar%20grupos%20de%20cons%C3%B3rcio%20concedidas%20at%C3%A9%20a%20data%20da%20publica%C3%A7%C3%A3o%20desta%20Lei%20%C3%A0s%20administradoras%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS DISPOSIÇÕES FINAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2047.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS DISPOSIÇÕES FINAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. Revogam-se os incisos I e V do art. 7o da Lei no 5.768, de 20 de dezembro de 1971, os incisos I e V do art. 31 do Decreto no 70.951, de 9 de agosto de 1972, o Decreto no 97.384, de 22 de dezembro de 1988, o art. 10 da Lei no 7.691, de 15 de dezembro de 1988, e o art. 33 da Lei no 8.177, de 1o de março de 1991.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2048.%20Revogam-se%20os%20incisos%20I%20e%20V%20do%20art.%207o%20da%20Lei%20no%205.768%2C%20de%2020%20de%20dezembro%20de%201971%2C%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS DISPOSIÇÕES FINAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. Esta Lei entra em vigor após decorridos 120 (cento e vinte) dias de sua publicação.\n\nBrasília, 8 de outubro de 2008; 187o da Independência e 120o da República.\n\nLUIZ INÁCIO LULA DA SILVA Tarso Genro Guido Mantega Carlos LupiMiguel Jorge\n\nEste texto não substitui o publicado no DOU de 9.10.2008\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm#:~:text=Art.%2049.%20Esta%20Lei%20entra%20em%20vigor%20ap%C3%B3s%20decorridos%20120%20%28cento%20e%20vinte%29%20dias%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII DAS DISPOSIÇÕES FINAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": null
+    }
+  }
+}

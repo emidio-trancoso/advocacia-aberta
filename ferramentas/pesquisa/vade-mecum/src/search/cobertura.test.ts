@@ -40,7 +40,7 @@ describe("cobertura declarada pelo motor", () => {
     const legislacoes = listarLegislacaoDisponivel();
     expect(legislacoes).toHaveLength(11);
     expect(legislacoes.reduce((total, item) => total + item.registros, 0)).toBe(
-      6803,
+      6999,
     );
     for (const item of legislacoes) {
       expect(item.registros).toBeGreaterThan(0);

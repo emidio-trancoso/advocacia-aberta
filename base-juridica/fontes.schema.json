@@ -48,7 +48,11 @@
                 "id": { "type": "string" },
                 "resource_id": { "type": "string" },
                 "url": { "type": "string", "pattern": "^https://" },
-                "arquivo_bruto": { "type": "string" }
+                "arquivo_bruto": { "type": "string" },
+                "inicio_apos": {
+                  "type": "string",
+                  "description": "Parágrafo-marcador: a extração de artigos começa após a última ocorrência exata deste texto (ex.: corpo anexado a um decreto de promulgação)."
+                }
               }
             }
           }

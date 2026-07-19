@@ -53,7 +53,8 @@
           "codigo": "CLT",
           "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
           "arquivo_bruto": "clt.html",
-          "destino": "lei_clt.json"
+          "destino": "lei_clt.json",
+          "inicio_apos": "CONSOLIDAÇÃO DAS LEIS DO TRABALHO"
         },
         {
           "id": "cp",

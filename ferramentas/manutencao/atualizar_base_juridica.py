@@ -126,6 +126,8 @@ class Elemento:
 
 class ArvoreHTML(HTMLParser):
     VAZIOS = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "meta", "param", "source", "track", "wbr"}
+    BLOCOS = {"blockquote", "body", "div", "documento", "html", "li", "ol", "p", "table", "tbody", "td", "th", "tr", "ul"}
+    INLINE = {"a", "b", "del", "em", "font", "i", "s", "small", "span", "strike", "strong", "sub", "sup", "u"}
 
     def __init__(self) -> None:
         super().__init__(convert_charrefs=True)
@@ -135,6 +137,15 @@ class ArvoreHTML(HTMLParser):
     def handle_starttag(
         self, tag: str, attrs: list[tuple[str, str | None]]
     ) -> None:
+        if tag.lower() == "p":
+            # Um novo <p> fecha implicitamente o <p> anterior não fechado,
+            # como no HTML5; o Planalto publica parágrafos sem </p>.
+            for indice in range(len(self.pilha) - 1, 0, -1):
+                if self.pilha[indice].tag == "p":
+                    del self.pilha[indice:]
+                    break
+                if self.pilha[indice].tag in self.BLOCOS:
+                    break
         elemento = Elemento(
             tag.lower(), {chave: valor or "" for chave, valor in attrs}, self.pilha[-1]
         )
@@ -154,6 +165,10 @@ class ArvoreHTML(HTMLParser):
         for indice in range(len(self.pilha) - 1, 0, -1):
             if self.pilha[indice].tag == tag:
                 del self.pilha[indice:]
+                return
+            if tag in self.INLINE and self.pilha[indice].tag in self.BLOCOS:
+                # Fechamento órfão de tag inline (comum no HTML do Planalto)
+                # não pode derrubar o bloco que contém o texto.
                 return
 
     def handle_data(self, data: str) -> None:
@@ -509,6 +524,19 @@ def transformar_legislacao(
                 if codigo == "CF"
                 else paragrafos[marcador_adct + 1 :]
             )
+        inicio_apos = fonte.get("inicio_apos")
+        if inicio_apos:
+            alvo = texto_normalizado(inicio_apos).upper()
+            posicoes = [
+                indice
+                for indice, no in enumerate(paragrafos)
+                if texto_normalizado(texto_elemento(no)).upper() == alvo
+            ]
+            if not posicoes:
+                raise ValueError(
+                    f"{codigo}: marcador de início não encontrado: {inicio_apos}"
+                )
+            paragrafos = paragrafos[posicoes[-1] + 1 :]
         titulo = capitulo = secao = None
         titulo_nome = capitulo_nome = secao_nome = None
         ocorrencias: dict[str, tuple[bool, dict[str, Any]]] = {}
@@ -607,8 +635,12 @@ def transformar_legislacao(
                 "registros_retidos_sem_correspondencia": retidos,
             }
         )
+        objeto: dict[str, Any] = {"_meta": meta, "artigos": artigos}
+        indices = atual.get("indexes")
+        if indices:
+            objeto["indexes"] = indices
         saida = candidatos / destino
-        salvar_json(saida, {"_meta": meta, "artigos": artigos})
+        salvar_json(saida, objeto)
         saidas.append(saida)
     return saidas
 

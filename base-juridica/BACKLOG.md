@@ -43,6 +43,7 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 | `BASE-016` | Endurecer coleta e promoção do pipeline | Allowlist cobre URL inicial e redirecionada; tipo de conteúdo, volume, re-promoção e estados não ativos têm gates e testes | **concluído em 2026-07-17** |
 | `BASE-017` | Não existe detecção de mudança nem agendamento; a atualização depende de alguém lembrar | Comando barato responde "a fonte mudou?" por família, sem preparar candidatos; execução agendada publica o resultado; a promoção continua humana | **concluído em 2026-07-18** |
 | `BASE-018` | O adaptador de legislação captura `title_name` genérico ("TÍTULO I") onde o snapshot legado tinha o nome real ("DOS PRINCÍPIOS FUNDAMENTAIS") | O adaptador extrai os nomes reais de títulos e capítulos das páginas do Planalto, com teste; o motor não consome o campo hoje, então o item é de qualidade do dado | aberto |
+| `BASE-019` | O índice invertido de legislação (`indexes.keywords`) e os `keywords` por artigo são enriquecimentos legados sem processo reproduzível; a transformação os preserva do arquivo publicado, e artigos novos ficam fora do índice (invisíveis à busca textual quando o índice existe) | Gerador determinístico versionado cobre todos os artigos publicados, como o `BASE-010` fez para súmulas; teste garante cobertura 1:1 | aberto |
 
 ## Itens concluídos
 
@@ -204,7 +205,9 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 
 1. `BASE-011`, ampliando validações de esquema e integridade.
 2. `BASE-013`, versionando snapshots e diferenças.
-3. `BASE-018`, recuperando os nomes reais de títulos e capítulos no adaptador de
+3. `BASE-019`, tornando reproduzíveis os índices de busca da legislação (artigos
+   novos hoje ficam fora do índice preservado).
+4. `BASE-018`, recuperando os nomes reais de títulos e capítulos no adaptador de
    legislação.
 
 ## Regra de encerramento

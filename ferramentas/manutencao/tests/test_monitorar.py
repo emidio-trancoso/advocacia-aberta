@@ -240,6 +240,155 @@ class MonitorarConjuntosTest(unittest.TestCase):
         self.assertFalse(hasattr(args, "execucao"))
 
 
+class ArvoreHTMLTest(unittest.TestCase):
+    def test_fechamento_orfao_de_inline_nao_derruba_o_paragrafo(self) -> None:
+        html = (
+            "<font><p>Art. 1º Início do artigo. </font>"
+            "<font>Continuação após tag órfã.</font></p></font>"
+        )
+        arvore = pipeline.analisar_html(html)
+        paragrafos = list(pipeline.buscar(arvore, tag="p"))
+        self.assertEqual(len(paragrafos), 1)
+        texto = pipeline.texto_elemento(paragrafos[0])
+        self.assertIn("Continuação após tag órfã", texto)
+
+    def test_paragrafo_sem_fechamento_nao_engole_o_seguinte(self) -> None:
+        html = "<p>§ 3º Texto do parágrafo.<p>Art. 2º Seguinte.</p>"
+        arvore = pipeline.analisar_html(html)
+        textos = [
+            pipeline.texto_elemento(no) for no in pipeline.buscar(arvore, tag="p")
+        ]
+        self.assertEqual(textos, ["§ 3º Texto do parágrafo.", "Art. 2º Seguinte."])
+
+    def test_fechamento_de_bloco_continua_funcionando(self) -> None:
+        html = "<div><p>um</p><p>dois</p></div><p>três</p>"
+        arvore = pipeline.analisar_html(html)
+        textos = [
+            pipeline.texto_elemento(no) for no in pipeline.buscar(arvore, tag="p")
+        ]
+        self.assertEqual(textos, ["um", "dois", "três"])
+
+
+class TransformarLegislacaoIndicesTest(unittest.TestCase):
+    def test_preserva_o_indice_invertido_publicado(self) -> None:
+        with tempfile.TemporaryDirectory() as temp:
+            raiz = Path(temp)
+            bruto = raiz / "bruto"
+            publicados = raiz / "publicados"
+            candidatos = raiz / "candidatos"
+            for pasta in (bruto, publicados, candidatos):
+                pasta.mkdir()
+            (bruto / "teste.html").write_text(
+                "<html><body><p>Art. 1º Texto do artigo.</p></body></html>",
+                encoding="utf-8",
+            )
+            indice = {"keywords": {"texto": ["1"]}}
+            (publicados / "lei_teste.json").write_text(
+                json.dumps(
+                    {
+                        "_meta": {},
+                        "artigos": {
+                            "1": {
+                                "numero": "1",
+                                "texto": "Texto antigo",
+                                "url": "https://www.planalto.gov.br/x.htm",
+                                "keywords": ["texto"],
+                            }
+                        },
+                        "indexes": indice,
+                    }
+                ),
+                encoding="utf-8",
+            )
+            config = {
+                "fontes": [
+                    {
+                        "codigo": "TESTE",
+                        "url": "https://www.planalto.gov.br/x.htm",
+                        "arquivo_bruto": "teste.html",
+                        "destino": "lei_teste.json",
+                    }
+                ]
+            }
+            saidas = pipeline.transformar_legislacao(
+                config, bruto, publicados, candidatos
+            )
+            objeto = json.loads(saidas[0].read_text(encoding="utf-8"))
+        self.assertEqual(objeto.get("indexes"), indice)
+        self.assertEqual(objeto["artigos"]["1"]["keywords"], ["texto"])
+
+
+class TransformarLegislacaoInicioAposTest(unittest.TestCase):
+    def test_corpo_anexado_prevalece_sobre_o_decreto_de_promulgacao(self) -> None:
+        with tempfile.TemporaryDirectory() as temp:
+            raiz = Path(temp)
+            bruto = raiz / "bruto"
+            publicados = raiz / "publicados"
+            candidatos = raiz / "candidatos"
+            for pasta in (bruto, publicados, candidatos):
+                pasta.mkdir()
+            (bruto / "teste.html").write_text(
+                "<html><body>"
+                "<p>Art. 1º Fica aprovada a Consolidação anexa.</p>"
+                "<p>Art. 2º Este decreto-lei entrará em vigor.</p>"
+                "<p>CONSOLIDAÇÃO DAS LEIS DO TRABALHO</p>"
+                "<p>Art. 1º Esta Consolidação estatui as normas.</p>"
+                "<p>Art. 2º Considera-se empregador a empresa.</p>"
+                "</body></html>",
+                encoding="utf-8",
+            )
+            (publicados / "lei_teste.json").write_text(
+                json.dumps({"_meta": {}, "artigos": {}}), encoding="utf-8"
+            )
+            config = {
+                "fontes": [
+                    {
+                        "codigo": "TESTE",
+                        "url": "https://www.planalto.gov.br/x.htm",
+                        "arquivo_bruto": "teste.html",
+                        "destino": "lei_teste.json",
+                        "inicio_apos": "CONSOLIDAÇÃO DAS LEIS DO TRABALHO",
+                    }
+                ]
+            }
+            saidas = pipeline.transformar_legislacao(
+                config, bruto, publicados, candidatos
+            )
+            artigos = json.loads(saidas[0].read_text(encoding="utf-8"))["artigos"]
+        self.assertIn("Esta Consolidação estatui", artigos["1"]["texto"])
+        self.assertIn("Considera-se empregador", artigos["2"]["texto"])
+
+    def test_marcador_ausente_encerra_a_transformacao(self) -> None:
+        with tempfile.TemporaryDirectory() as temp:
+            raiz = Path(temp)
+            bruto = raiz / "bruto"
+            publicados = raiz / "publicados"
+            candidatos = raiz / "candidatos"
+            for pasta in (bruto, publicados, candidatos):
+                pasta.mkdir()
+            (bruto / "teste.html").write_text(
+                "<html><body><p>Art. 1º Texto.</p></body></html>", encoding="utf-8"
+            )
+            (publicados / "lei_teste.json").write_text(
+                json.dumps({"_meta": {}, "artigos": {}}), encoding="utf-8"
+            )
+            config = {
+                "fontes": [
+                    {
+                        "codigo": "TESTE",
+                        "url": "https://www.planalto.gov.br/x.htm",
+                        "arquivo_bruto": "teste.html",
+                        "destino": "lei_teste.json",
+                        "inicio_apos": "MARCADOR INEXISTENTE",
+                    }
+                ]
+            }
+            with self.assertRaises(ValueError):
+                pipeline.transformar_legislacao(
+                    config, bruto, publicados, candidatos
+                )
+
+
 class InstanteUtcTest(unittest.TestCase):
     def test_normaliza_sufixo_z_e_ingenuo(self) -> None:
         com_z = pipeline.instante_utc("2026-01-07T14:45:51.152Z")

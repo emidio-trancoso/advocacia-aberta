@@ -47,13 +47,18 @@ o bom desempenho de um conjunto compense silenciosamente uma regressão em outro
 
 | Escopo | Precisão@5 | Recall julgado@5 | Cobertura | Obrigatórios | MRR |
 |---|---:|---:|---:|---:|---:|
-| Global | 0,7944 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
+| Global | 0,7850 | 0,9767 | 1,0000 | 1,0000 | 1,0000 |
 | Súmulas STJ | 0,6667 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 | Súmulas STF | 0,5714 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 | Súmulas vinculantes | 0,6000 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
-| Jurisprudência em Teses | 0,9500 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
+| Jurisprudência em Teses | 0,9000 | 0,9000 | 1,0000 | 1,0000 | 1,0000 |
 | Temas repetitivos | 0,8667 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 | Legislação | 0,8571 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
+
+Linha de base medida em 19 de julho de 2026 (UTC), após a atualização integral dos
+snapshots. O caso `jt-trafico-dosimetria` teve os julgamentos revisados com
+justificativa registrada no corpus: a atualização oficial da edição 45 reescreveu a
+tese 4, que deixou de versar diretamente sobre aplicação da pena.
 
 Os valores são uma linha de base operacional, não uma alegação de precisão geral para
 qualquer consulta jurídica.

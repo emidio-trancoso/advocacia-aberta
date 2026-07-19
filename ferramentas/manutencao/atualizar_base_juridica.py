@@ -1052,18 +1052,21 @@ def transformar_temas(
             "generatedAt": agora_utc(),
             "totalTemas": len(temas),
             "source": {
+                "provenanceStatus": "reproducible_pipeline",
                 "dataset": "Precedentes qualificados — Portal de Dados Abertos do STJ",
-                "catalog": config["fontes"][0]["url"],
-                "packageId": config["package_id"],
-                "joinKey": config["join_key"],
-                "resources": {
-                    "temas": {
-                        "id": config["fontes"][1]["resource_id"],
-                        "url": config["fontes"][1]["url"],
-                    },
-                    "processos": {
-                        "id": config["fontes"][2]["resource_id"],
-                        "url": config["fontes"][2]["url"],
+                "officialPublicReference": {
+                    "catalog": config["fontes"][0]["url"],
+                    "packageId": config["package_id"],
+                    "joinKey": config["join_key"],
+                    "resources": {
+                        "temas": {
+                            "id": config["fontes"][1]["resource_id"],
+                            "url": config["fontes"][1]["url"],
+                        },
+                        "processos": {
+                            "id": config["fontes"][2]["resource_id"],
+                            "url": config["fontes"][2]["url"],
+                        },
                     },
                 },
                 "method": (

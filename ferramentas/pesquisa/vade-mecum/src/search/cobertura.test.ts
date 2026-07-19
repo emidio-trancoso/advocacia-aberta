@@ -54,8 +54,8 @@ describe("cobertura declarada pelo motor", () => {
       STF: 736,
       vinculantes: 63,
     });
-    expect(TOTAL_TESES_STJ).toBe(3371);
-    expect(TOTAL_EDICOES_JT).toBe(269);
+    expect(TOTAL_TESES_STJ).toBe(3508);
+    expect(TOTAL_EDICOES_JT).toBe(283);
     expect(TOTAL_TEMAS_STJ).toBe(1462);
   });
 });

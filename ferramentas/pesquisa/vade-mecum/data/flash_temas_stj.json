@@ -1,26 +1,29 @@
 {
   "_meta": {
     "version": "2.0",
-    "generatedAt": "2026-07-19T00:21:34+00:00",
+    "generatedAt": "2026-07-19T00:29:27+00:00",
     "totalTemas": 1462,
     "source": {
+      "provenanceStatus": "reproducible_pipeline",
       "dataset": "Precedentes qualificados — Portal de Dados Abertos do STJ",
-      "catalog": "https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados",
-      "packageId": "4238da2f-c07b-4c1a-b345-4402accacdcf",
-      "joinKey": "sequencialPrecedente",
-      "resources": {
-        "temas": {
-          "id": "df29da13-7d6b-41ba-ad96-cd1a5bbd191c",
-          "url": "https://dadosabertos.web.stj.jus.br/dataset/4238da2f-c07b-4c1a-b345-4402accacdcf/resource/df29da13-7d6b-41ba-ad96-cd1a5bbd191c/download/temas.csv"
-        },
-        "processos": {
-          "id": "7ed21202-0049-4fcb-aa7c-48d810d3c499",
-          "url": "https://dadosabertos.web.stj.jus.br/dataset/4238da2f-c07b-4c1a-b345-4402accacdcf/resource/7ed21202-0049-4fcb-aa7c-48d810d3c499/download/processos.csv"
+      "officialPublicReference": {
+        "catalog": "https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados",
+        "packageId": "4238da2f-c07b-4c1a-b345-4402accacdcf",
+        "joinKey": "sequencialPrecedente",
+        "resources": {
+          "temas": {
+            "id": "df29da13-7d6b-41ba-ad96-cd1a5bbd191c",
+            "url": "https://dadosabertos.web.stj.jus.br/dataset/4238da2f-c07b-4c1a-b345-4402accacdcf/resource/df29da13-7d6b-41ba-ad96-cd1a5bbd191c/download/temas.csv"
+          },
+          "processos": {
+            "id": "7ed21202-0049-4fcb-aa7c-48d810d3c499",
+            "url": "https://dadosabertos.web.stj.jus.br/dataset/4238da2f-c07b-4c1a-b345-4402accacdcf/resource/7ed21202-0049-4fcb-aa7c-48d810d3c499/download/processos.csv"
+          }
         }
       },
       "method": "Junção determinística de Temas.csv e Processos.csv por sequencialPrecedente; seleção preferencial do leading case.",
       "metadata_sha256": "58d7279c2fc2b741b90ab482b20132924f9cd4966a365e94f0583796d8c27111",
-      "collectedAt": "2026-07-19T00:21:34+00:00"
+      "collectedAt": "2026-07-19T00:29:27+00:00"
     },
     "transformacao": "temas_stj_csv_v1"
   },

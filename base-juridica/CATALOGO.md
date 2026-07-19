@@ -2,7 +2,7 @@
 
 | Campo | Valor |
 |---|---|
-| Auditoria estrutural | 17 de julho de 2026 |
+| Auditoria estrutural | 19 de julho de 2026 (UTC) |
 | Local atual dos dados | `ferramentas/pesquisa/vade-mecum/data/` |
 | Escopo | inventário, metadados, cobertura do motor e rastreabilidade interna |
 
@@ -26,12 +26,12 @@ python3 ferramentas/manutencao/auditar_base_juridica.py --json
 
 | Acervo | Arquivos principais | Quantidade observada | Tamanho ou cobertura |
 |---|---:|---:|---|
-| Legislação | 11 | 6.803 registros | 11 diplomas |
+| Legislação | 11 | 6.999 registros | 11 diplomas |
 | Súmulas | 3 | 1.475 registros | STJ, STF e vinculantes do STF |
-| Jurisprudência em Teses | 1 | 3.371 teses | 269 edições do STJ |
-| Temas repetitivos | 1 | 1.405 temas | STJ |
+| Jurisprudência em Teses | 1 | 3.508 teses | 283 edições do STJ |
+| Temas repetitivos | 1 | 1.462 temas | STJ |
 | Índices auxiliares | 2 exclusivos + índices embutidos | derivados | palavras-chave e termos de busca |
-| Total em JSON | 18 | — | 20.720.739 bytes, cerca de 20 MB |
+| Total em JSON | 18 | — | 19.676.210 bytes, cerca de 20 MB |
 
 Os números acima foram contados diretamente nos JSONs. `gerado_em` e `generatedAt`
 indicam geração do arquivo, não garantem a data de vigência do conteúdo.
@@ -43,21 +43,25 @@ para páginas compiladas do Planalto.
 
 | Código | Diploma | Gerado em | Registros | Índice | Situação estrutural |
 |---|---|---:|---:|---|---|
-| `ADCT` | Ato das Disposições Constitucionais Transitórias | 2026-01-20 | 148 | pré-computado | coerente |
-| `CC` | Código Civil — Lei 10.406/2002 | 2026-01-21 | 2.028 | pré-computado | coerente |
-| `CDC` | Código de Defesa do Consumidor — Lei 8.078/1990 | 2026-01-30 | 131 | palavras-chave por registro | coerente |
-| `CE` | Código Eleitoral — Lei 4.737/1965 | 2026-01-30 | 382 | palavras-chave por registro | coerente |
-| `CF` | Constituição Federal de 1988 | 2026-01-20 | 276 | pré-computado | coerente |
-| `CLT` | Consolidação das Leis do Trabalho | 2026-01-21 | 920 | pré-computado | coerente; 804 registros têm palavras-chave próprias |
-| `CP` | Código Penal — Decreto-Lei 2.848/1940 | 2026-01-20 | 430 | pré-computado | coerente |
-| `CPC` | Código de Processo Civil — Lei 13.105/2015 | 2026-01-20 | 1.072 | pré-computado | coerente |
-| `CPP` | Código de Processo Penal — Decreto-Lei 3.689/1941 | 2026-01-20 | 822 | pré-computado | coerente |
-| `CTB` | Código de Trânsito Brasileiro — Lei 9.503/1997 | 2026-01-30; correção pontual em 2026-07-17 | 390 | 389 com palavras-chave; art. 326-C sem índice derivado | coerente |
-| `CTN` | Código Tributário Nacional — Lei 5.172/1966 | 2026-01-30 | 204 | pré-computado | coerente |
+| `ADCT` | Ato das Disposições Constitucionais Transitórias | 2026-07-19 | 148 | pré-computado preservado | coerente |
+| `CC` | Código Civil — Lei 10.406/2002 | 2026-07-19 | 2.083 | pré-computado preservado | coerente |
+| `CDC` | Código de Defesa do Consumidor — Lei 8.078/1990 | 2026-07-19 | 131 | palavras-chave por registro | coerente |
+| `CE` | Código Eleitoral — Lei 4.737/1965 | 2026-07-19 | 387 | palavras-chave por registro | coerente |
+| `CF` | Constituição Federal de 1988 | 2026-07-19 | 276 | pré-computado preservado | coerente |
+| `CLT` | Consolidação das Leis do Trabalho | 2026-07-19 | 1.027 | pré-computado preservado | coerente |
+| `CP` | Código Penal — Decreto-Lei 2.848/1940 | 2026-07-19 | 432 | pré-computado preservado | coerente |
+| `CPC` | Código de Processo Civil — Lei 13.105/2015 | 2026-07-19 | 1.073 | pré-computado preservado | coerente |
+| `CPP` | Código de Processo Penal — Decreto-Lei 3.689/1941 | 2026-07-19 | 843 | pré-computado preservado | coerente |
+| `CTB` | Código de Trânsito Brasileiro — Lei 9.503/1997 | 2026-07-19 | 390 | pré-computado preservado | coerente |
+| `CTN` | Código Tributário Nacional — Lei 5.172/1966 | 2026-07-19 | 209 | pré-computado preservado | coerente |
 
-A soma dos metadados e a contagem real são 6.803. O `BASE-005` incluiu pontualmente o
-art. 326-C do CTB, acrescentado pela Lei nº 15.452/2026. O restante do candidato
-integral de julho não foi promovido sem revisão das diferenças.
+A soma dos metadados e a contagem real são 6.999. O snapshot de 2026-07-19 foi o
+primeiro produzido integralmente pelo pipeline reproduzível: o ganho de 196
+registros vem principalmente de artigos revogados retidos que o processo legado
+omitia, além de dispositivos novos como o art. 121-B e o art. 147-C do CP e o
+art. 699-A do CPC. Os índices invertidos pré-computados são enriquecimentos
+legados preservados na transformação; artigos acrescentados depois deles ficam
+fora do índice até o `BASE-019` tornar a geração reproduzível.
 
 ### Cobertura real do motor legislativo
 
@@ -79,9 +83,9 @@ Desde a conclusão de `BASE-002` e `BASE-003`:
 
 | Conjunto | Gerado em | Registros | Estado dos registros | URLs oficiais |
 |---|---:|---:|---|---:|
-| STJ | 2025-12-17 | 676 | 649 ativas; 27 canceladas | 676 |
-| STF não vinculantes | 2026-01-13 | 736 | 724 ativas; 10 canceladas; 1 alterada; 1 superada | 736 |
-| STF vinculantes | 2026-01-14 | 63 | 62 aprovadas; 1 cancelada | 63 |
+| STJ | 2026-07-19 | 676 | 647 ativas; 29 canceladas | 676 |
+| STF não vinculantes | 2026-07-19 | 736 | 724 ativas; 10 canceladas; 1 alterada; 1 superada | 736 |
+| STF vinculantes | 2026-07-19 | 63 | 62 aprovadas; 1 cancelada | 63 |
 
 As contagens, os estados e a presença de URLs são coerentes com os metadados. A
 auditoria não comparou os enunciados nem os estados atuais com os portais dos
@@ -91,8 +95,8 @@ tribunais.
 
 | Arquivo | Cobertura | Gerado em | Processo declarado |
 |---|---:|---:|---|
-| `sumulas_keywords.json` | 676 súmulas STJ; 9.417 tokens | 2026-07-17 | `tokens-significativos-v1` local |
-| `sumulas_stf_keywords.json` | 736 súmulas STF; 9.385 tokens | 2026-07-17 | `tokens-significativos-v1` local |
+| `sumulas_keywords.json` | 676 súmulas STJ | 2026-07-19 | `tokens-significativos-v1` local, regenerado após a atualização das súmulas |
+| `sumulas_stf_keywords.json` | 736 súmulas STF | 2026-07-19 | `tokens-significativos-v1` local, regenerado após a atualização das súmulas |
 
 São dados derivados para recuperação, não fontes jurídicas. Desde o `BASE-010`, o
 repositório contém gerador, manifesto, parâmetros, checksums das fontes e testes de
@@ -105,36 +109,42 @@ está documentada em [`indices-derivados.json`](indices-derivados.json).
 | Campo | Valor observado |
 |---|---:|
 | Arquivo | `jt_stj.json` |
-| Gerado em | 2026-02-17 |
-| Edições distintas | 269 |
-| Teses | 3.371 |
-| Teses com URL do STJ | 3.371 |
-| Teses marcadas como rito especial | 154 |
+| Gerado em | 2026-07-19 |
+| Edições distintas | 283 |
+| Teses | 3.508 |
+| Edições retidas sem correspondência na coleta | 147, 153 e 165 |
 
 Os totais por ramo do Direito conferem com os metadados. O `BASE-006` removeu
 `JT_179_T19`: a edição oficial possui apenas as teses 1 a 10, e o registro vazio era
-um artefato de extração. Desde `BASE-008`, a descrição do servidor MCP deriva
-automaticamente dos dados carregados: 3.371 teses em 269 edições.
+um artefato de extração. Na atualização de 2026-07-19, a página oficial das edições
+147, 153 e 165 devolveu resultado vazio; suas teses publicadas foram retidas e a
+retenção está registrada em `edicoes_retidas_sem_correspondencia`. `JT_020_T13` foi
+removida porque a edição 20 oficial passou a listar 12 teses, e enunciados foram
+atualizados conforme as revisões do STJ (ex.: a tese 4 da edição 45 substituiu a
+referência à Súmula 512, cancelada, pelo Tema 600). Desde `BASE-008`, a descrição do
+servidor MCP deriva automaticamente dos dados carregados: 3.508 teses em 283
+edições.
 
 ## Temas repetitivos do STJ
 
 | Campo | Valor observado |
 |---|---:|
 | Arquivo | `flash_temas_stj.json` |
-| Gerado em | 2026-01-07 |
-| Temas | 1.405 |
-| Temas com questão submetida | 1.405 |
-| Temas com página oficial do STJ | 1.405 |
-| Temas sem tese firmada preenchida | 331 |
+| Gerado em | 2026-07-19 |
+| Temas | 1.462 |
 
-A ausência de tese em 331 registros aparece associada principalmente a temas afetados,
-cancelados ou ainda em julgamento; ela não foi classificada automaticamente como erro.
+A ausência de tese firmada em parte dos registros aparece associada principalmente a
+temas afetados, cancelados ou ainda em julgamento; ela não foi classificada
+automaticamente como erro.
 
 Desde a conclusão do `BASE-007`, `_meta.source` registra o pacote e os recursos
-oficiais do Portal de Dados Abertos do STJ, a chave de relacionamento e o adaptador de
-reprodução futura. O metadado também preserva a limitação histórica: os artefatos
-brutos usados no snapshot de janeiro não foram versionados. Os 1.405 registros não
-foram alterados nessa correção.
+oficiais do Portal de Dados Abertos do STJ e a chave de relacionamento. O snapshot de
+2026-07-19 foi produzido pelo pipeline reproduzível a partir dos CSVs oficiais
+(`provenanceStatus: reproducible_pipeline`), superando a limitação histórica do
+snapshot legado de janeiro, cujos brutos não haviam sido versionados. Os índices
+`keywords` e `terms` consumidos pelo motor são enriquecimentos legados preservados
+na transformação; temas acrescentados depois deles ficam fora do índice até o
+`BASE-019`.
 
 ## Rastreabilidade entregue pelo motor
 

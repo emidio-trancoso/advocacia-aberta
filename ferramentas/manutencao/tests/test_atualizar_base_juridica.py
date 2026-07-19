@@ -106,9 +106,7 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
         serializado = json.dumps(source, ensure_ascii=False)
         self.assertNotIn("/Users/", serializado)
         self.assertNotIn("Downloads", serializado)
-        self.assertEqual(
-            source["provenanceStatus"], "legacy_not_fully_reproducible"
-        )
+        self.assertEqual(source["provenanceStatus"], "reproducible_pipeline")
         self.assertEqual(
             referencia["packageId"], "4238da2f-c07b-4c1a-b345-4402accacdcf"
         )
@@ -435,9 +433,10 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
         self.assertEqual(tema["orgaoJulgador"], "Corte Especial")
         self.assertEqual(objeto["_meta"]["totalTemas"], 1)
         source = objeto["_meta"]["source"]
-        self.assertEqual(source["joinKey"], "sequencialPrecedente")
+        referencia = source["officialPublicReference"]
+        self.assertEqual(referencia["joinKey"], "sequencialPrecedente")
         self.assertEqual(
-            source["resources"]["temas"]["id"],
+            referencia["resources"]["temas"]["id"],
             "df29da13-7d6b-41ba-ad96-cd1a5bbd191c",
         )
 

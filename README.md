@@ -20,10 +20,10 @@ O projeto nasce de ativos operacionais, não apenas de uma proposta:
 
 | Camada | Ativo atual |
 |---|---|
-| Base jurídica | 11 conjuntos de legislação, com 6.803 registros de dispositivos |
+| Base jurídica | 11 conjuntos de legislação, com 6.999 registros de dispositivos |
 | Súmulas | 1.475 registros de STJ, STF e súmulas vinculantes |
-| Teses | 3.371 registros de Jurisprudência em Teses do STJ, em 269 edições |
-| Temas | 1.405 registros de temas repetitivos do STJ |
+| Teses | 3.508 registros de Jurisprudência em Teses do STJ, em 283 edições |
+| Temas | 1.462 registros de temas repetitivos do STJ |
 | Protocolos | 10 skills para organizar, transcrever, diagnosticar, pesquisar, redigir, revisar e diagramar |
 | Motores | Vade Mecum para busca jurídica local, busca no TJPR, transcrição e processamento de documentos |
 | Adaptadores | Compatibilidade com Claude Code e Codex, sem duplicar a regra jurídica |

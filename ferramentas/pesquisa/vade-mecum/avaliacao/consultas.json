@@ -23,90 +23,167 @@
       "id": "stj-cadastro-negativacao",
       "grupo": "sumulas_stj",
       "consulta": "dano moral cadastro negativação",
-      "filtro": { "tribunal": "STJ" },
-      "relevantes": ["STJ:385"],
-      "obrigatorios": ["STJ:385"],
+      "filtro": {
+        "tribunal": "STJ"
+      },
+      "relevantes": [
+        "STJ:385"
+      ],
+      "obrigatorios": [
+        "STJ:385"
+      ],
       "justificativa": "A Súmula 385 trata diretamente do dano moral decorrente de anotação irregular quando existe inscrição legítima preexistente."
     },
     {
       "id": "stj-plano-saude",
       "grupo": "sumulas_stj",
       "consulta": "plano de saúde cobertura",
-      "filtro": { "tribunal": "STJ" },
-      "relevantes": ["STJ:609", "STJ:302", "STJ:469", "STJ:597", "STJ:608"],
-      "obrigatorios": ["STJ:609", "STJ:302"],
+      "filtro": {
+        "tribunal": "STJ"
+      },
+      "relevantes": [
+        "STJ:609",
+        "STJ:302",
+        "STJ:469",
+        "STJ:597",
+        "STJ:608"
+      ],
+      "obrigatorios": [
+        "STJ:609",
+        "STJ:302"
+      ],
       "justificativa": "Os enunciados julgados tratam de cobertura, relação de consumo ou obrigações associadas a planos de saúde."
     },
     {
       "id": "stj-execucao-fiscal-prescricao",
       "grupo": "sumulas_stj",
       "consulta": "execução fiscal prescrição intercorrente",
-      "filtro": { "tribunal": "STJ" },
-      "relevantes": ["STJ:314", "STJ:409", "STJ:653"],
-      "obrigatorios": ["STJ:314", "STJ:409", "STJ:653"],
+      "filtro": {
+        "tribunal": "STJ"
+      },
+      "relevantes": [
+        "STJ:314",
+        "STJ:409",
+        "STJ:653"
+      ],
+      "obrigatorios": [
+        "STJ:314",
+        "STJ:409",
+        "STJ:653"
+      ],
       "justificativa": "As três súmulas julgadas relacionam execução fiscal e prescrição; resultados apenas sobre execução fiscal não foram marcados como relevantes."
     },
     {
       "id": "stj-paternidade-alimentos",
       "grupo": "sumulas_stj",
       "consulta": "investigação de paternidade alimentos",
-      "filtro": { "tribunal": "STJ" },
-      "relevantes": ["STJ:1", "STJ:277", "STJ:301"],
-      "obrigatorios": ["STJ:277"],
+      "filtro": {
+        "tribunal": "STJ"
+      },
+      "relevantes": [
+        "STJ:1",
+        "STJ:277",
+        "STJ:301"
+      ],
+      "obrigatorios": [
+        "STJ:277"
+      ],
       "justificativa": "Os enunciados cobrem competência, efeitos alimentares e prova em investigação de paternidade."
     },
     {
       "id": "stf-extradicao-familia",
       "grupo": "sumulas_stf",
       "consulta": "extradição estrangeiro filho brasileiro",
-      "filtro": { "tribunal": "STF" },
-      "relevantes": ["STF:421", "STF:1"],
-      "obrigatorios": ["STF:421"],
+      "filtro": {
+        "tribunal": "STF"
+      },
+      "relevantes": [
+        "STF:421",
+        "STF:1"
+      ],
+      "obrigatorios": [
+        "STF:421"
+      ],
       "justificativa": "Os enunciados julgados tratam da influência de vínculo familiar brasileiro sobre expulsão ou extradição."
     },
     {
       "id": "stf-seguro-maritimo",
       "grupo": "sumulas_stf",
       "consulta": "competência justiça federal seguro marítimo",
-      "filtro": { "tribunal": "STF" },
-      "relevantes": ["STF:504"],
-      "obrigatorios": ["STF:504"],
+      "filtro": {
+        "tribunal": "STF"
+      },
+      "relevantes": [
+        "STF:504"
+      ],
+      "obrigatorios": [
+        "STF:504"
+      ],
       "justificativa": "A Súmula 504 responde diretamente à competência para causas de seguro marítimo."
     },
     {
       "id": "stf-servidor-aposentadoria",
       "grupo": "sumulas_stf",
       "consulta": "servidor aposentadoria gratificação",
-      "filtro": { "tribunal": "STF" },
-      "relevantes": ["STF:26", "STF:10", "STF:36", "STF:38", "STF:371"],
-      "obrigatorios": ["STF:26", "STF:10"],
+      "filtro": {
+        "tribunal": "STF"
+      },
+      "relevantes": [
+        "STF:26",
+        "STF:10",
+        "STF:36",
+        "STF:38",
+        "STF:371"
+      ],
+      "obrigatorios": [
+        "STF:26",
+        "STF:10"
+      ],
       "justificativa": "Os cinco enunciados julgados relacionam aposentadoria de servidor e gratificações, vantagens ou proventos."
     },
     {
       "id": "sv-nepotismo",
       "grupo": "sumulas_vinculantes",
       "consulta": "nepotismo administração pública",
-      "filtro": { "tribunal": "vinculante" },
-      "relevantes": ["SV:13"],
-      "obrigatorios": ["SV:13"],
+      "filtro": {
+        "tribunal": "vinculante"
+      },
+      "relevantes": [
+        "SV:13"
+      ],
+      "obrigatorios": [
+        "SV:13"
+      ],
       "justificativa": "A Súmula Vinculante 13 disciplina diretamente o nepotismo."
     },
     {
       "id": "sv-algemas",
       "grupo": "sumulas_vinculantes",
       "consulta": "uso de algemas",
-      "filtro": { "tribunal": "vinculante" },
-      "relevantes": ["SV:11"],
-      "obrigatorios": ["SV:11"],
+      "filtro": {
+        "tribunal": "vinculante"
+      },
+      "relevantes": [
+        "SV:11"
+      ],
+      "obrigatorios": [
+        "SV:11"
+      ],
       "justificativa": "A Súmula Vinculante 11 disciplina diretamente o uso de algemas."
     },
     {
       "id": "sv-depositario-infiel",
       "grupo": "sumulas_vinculantes",
       "consulta": "depositário infiel prisão civil",
-      "filtro": { "tribunal": "vinculante" },
-      "relevantes": ["SV:25"],
-      "obrigatorios": ["SV:25"],
+      "filtro": {
+        "tribunal": "vinculante"
+      },
+      "relevantes": [
+        "SV:25"
+      ],
+      "obrigatorios": [
+        "SV:25"
+      ],
       "justificativa": "A Súmula Vinculante 25 declara ilícita a prisão civil do depositário infiel."
     },
     {
@@ -114,8 +191,17 @@
       "grupo": "jurisprudencia_teses",
       "consulta": "plano de saúde cobertura",
       "filtro": {},
-      "relevantes": ["JT_002_T04", "JT_002_T05", "JT_002_T06", "JT_002_T07", "JT_002_T09"],
-      "obrigatorios": ["JT_002_T04", "JT_002_T05"],
+      "relevantes": [
+        "JT_002_T04",
+        "JT_002_T05",
+        "JT_002_T06",
+        "JT_002_T07",
+        "JT_002_T09"
+      ],
+      "obrigatorios": [
+        "JT_002_T04",
+        "JT_002_T05"
+      ],
       "justificativa": "As teses julgadas integram a edição sobre planos de saúde e tratam de cobertura ou obrigações correlatas."
     },
     {
@@ -123,8 +209,15 @@
       "grupo": "jurisprudencia_teses",
       "consulta": "processo administrativo disciplinar defesa técnica",
       "filtro": {},
-      "relevantes": ["JT_001_T01", "JT_145_T05", "JT_154_T25", "JT_007_T04"],
-      "obrigatorios": ["JT_001_T01"],
+      "relevantes": [
+        "JT_001_T01",
+        "JT_145_T05",
+        "JT_154_T25",
+        "JT_007_T04"
+      ],
+      "obrigatorios": [
+        "JT_001_T01"
+      ],
       "justificativa": "As teses julgadas tratam de defesa, advogado ou garantia técnica em processo administrativo disciplinar."
     },
     {
@@ -132,17 +225,35 @@
       "grupo": "jurisprudencia_teses",
       "consulta": "tráfico de drogas dosimetria pena",
       "filtro": {},
-      "relevantes": ["JT_045_T04", "JT_045_T05", "JT_045_T07", "JT_060_T10", "JT_060_T11"],
-      "obrigatorios": ["JT_045_T04", "JT_045_T05"],
-      "justificativa": "As teses julgadas abordam dosimetria ou consequências penais no tráfico de drogas."
+      "relevantes": [
+        "JT_045_T05",
+        "JT_045_T07",
+        "JT_045_T13",
+        "JT_060_T03",
+        "JT_060_T10",
+        "JT_060_T11"
+      ],
+      "obrigatorios": [
+        "JT_045_T05",
+        "JT_060_T03"
+      ],
+      "justificativa": "As teses julgadas abordam dosimetria ou consequências penais no tráfico de drogas: causa de diminuição do § 4º do art. 33 (45/5 e 60/3), regime inicial (45/7), livramento condicional (45/13) e majorantes do art. 40 (60/10 e 60/11). Revisão de 2026-07-18: a atualização oficial da edição 45 reescreveu a tese 4, que passou a tratar da não equiparação do tráfico privilegiado a hediondo (Tema 600, substituindo a referência à Súmula 512, cancelada) e deixou de versar diretamente sobre aplicação da pena; ela saiu do conjunto relevante desta consulta."
     },
     {
       "id": "jt-dano-moral-financeira",
       "grupo": "jurisprudencia_teses",
       "consulta": "dano moral instituição financeira",
       "filtro": {},
-      "relevantes": ["JT_240_T04", "JT_042_T14", "JT_062_T12", "JT_161_T02", "JT_162_T04"],
-      "obrigatorios": ["JT_240_T04"],
+      "relevantes": [
+        "JT_240_T04",
+        "JT_042_T14",
+        "JT_062_T12",
+        "JT_161_T02",
+        "JT_162_T04"
+      ],
+      "obrigatorios": [
+        "JT_240_T04"
+      ],
       "justificativa": "As teses julgadas relacionam dano moral e responsabilidade de banco ou instituição financeira."
     },
     {
@@ -150,8 +261,17 @@
       "grupo": "temas_repetitivos",
       "consulta": "honorários fazenda pública",
       "filtro": {},
-      "relevantes": ["TEMA:421", "TEMA:433", "TEMA:510", "TEMA:587", "TEMA:721"],
-      "obrigatorios": ["TEMA:421", "TEMA:433"],
+      "relevantes": [
+        "TEMA:421",
+        "TEMA:433",
+        "TEMA:510",
+        "TEMA:587",
+        "TEMA:721"
+      ],
+      "obrigatorios": [
+        "TEMA:421",
+        "TEMA:433"
+      ],
       "justificativa": "Os temas julgados abordam honorários em relações processuais com a Fazenda Pública."
     },
     {
@@ -159,8 +279,17 @@
       "grupo": "temas_repetitivos",
       "consulta": "dano moral cadastro crédito",
       "filtro": {},
-      "relevantes": ["TEMA:41", "TEMA:710", "TEMA:40", "TEMA:793", "TEMA:806"],
-      "obrigatorios": ["TEMA:41", "TEMA:710"],
+      "relevantes": [
+        "TEMA:41",
+        "TEMA:710",
+        "TEMA:40",
+        "TEMA:793",
+        "TEMA:806"
+      ],
+      "obrigatorios": [
+        "TEMA:41",
+        "TEMA:710"
+      ],
       "justificativa": "Os temas julgados tratam de dano moral ou responsabilidade por registros e informações de crédito."
     },
     {
@@ -168,71 +297,145 @@
       "grupo": "temas_repetitivos",
       "consulta": "tráfico drogas quantidade pena",
       "filtro": {},
-      "relevantes": ["TEMA:1262", "TEMA:1241", "TEMA:1154"],
-      "obrigatorios": ["TEMA:1262", "TEMA:1241"],
+      "relevantes": [
+        "TEMA:1262",
+        "TEMA:1241",
+        "TEMA:1154"
+      ],
+      "obrigatorios": [
+        "TEMA:1262",
+        "TEMA:1241"
+      ],
       "justificativa": "Os temas julgados relacionam quantidade ou natureza da droga à pena; temas apenas sobre multa ou hediondez foram excluídos."
     },
     {
       "id": "cc-ilicito-reparacao",
       "grupo": "legislacao",
       "consulta": "ato ilícito reparar dano",
-      "filtro": { "codigo": "CC" },
-      "relevantes": ["CC:933", "CC:927", "CC:932", "CC:953", "CC:943"],
-      "obrigatorios": ["CC:927"],
+      "filtro": {
+        "codigo": "CC"
+      },
+      "relevantes": [
+        "CC:933",
+        "CC:927",
+        "CC:932",
+        "CC:953",
+        "CC:943"
+      ],
+      "obrigatorios": [
+        "CC:927"
+      ],
       "justificativa": "Os dispositivos julgados integram o regime civil de ato ilícito, responsabilidade e reparação."
     },
     {
       "id": "cdc-reparacao-danos",
       "grupo": "legislacao",
       "consulta": "direito básico reparação danos",
-      "filtro": { "codigo": "CDC" },
-      "relevantes": ["CDC:6", "CDC:7", "CDC:12", "CDC:13"],
-      "obrigatorios": ["CDC:6"],
+      "filtro": {
+        "codigo": "CDC"
+      },
+      "relevantes": [
+        "CDC:6",
+        "CDC:7",
+        "CDC:12",
+        "CDC:13"
+      ],
+      "obrigatorios": [
+        "CDC:6"
+      ],
       "justificativa": "Os dispositivos julgados estabelecem reparação ou responsabilidade por danos nas relações de consumo."
     },
     {
       "id": "cpc-prescricao-intercorrente",
       "grupo": "legislacao",
       "consulta": "suspende execução prescrição intercorrente",
-      "filtro": { "codigo": "CPC" },
-      "relevantes": ["CPC:924", "CPC:921", "CPC:802", "CPC:922"],
-      "obrigatorios": ["CPC:921", "CPC:924"],
+      "filtro": {
+        "codigo": "CPC"
+      },
+      "relevantes": [
+        "CPC:924",
+        "CPC:921",
+        "CPC:802",
+        "CPC:922"
+      ],
+      "obrigatorios": [
+        "CPC:921",
+        "CPC:924"
+      ],
       "justificativa": "Os dispositivos julgados tratam de suspensão, prescrição ou extinção da execução."
     },
     {
       "id": "ctb-alcool-direcao",
       "grupo": "legislacao",
       "consulta": "dirigir influência álcool",
-      "filtro": { "codigo": "CTB" },
-      "relevantes": ["CTB:165", "CTB:302", "CTB:303", "CTB:306", "CTB:165-A"],
-      "obrigatorios": ["CTB:165", "CTB:306"],
+      "filtro": {
+        "codigo": "CTB"
+      },
+      "relevantes": [
+        "CTB:165",
+        "CTB:302",
+        "CTB:303",
+        "CTB:306",
+        "CTB:165-A"
+      ],
+      "obrigatorios": [
+        "CTB:165",
+        "CTB:306"
+      ],
       "justificativa": "Os dispositivos julgados tratam de álcool na direção, recusa ao teste ou consequências penais associadas."
     },
     {
       "id": "cf-dignidade-humana",
       "grupo": "legislacao",
       "consulta": "dignidade pessoa humana",
-      "filtro": { "codigo": "CF" },
-      "relevantes": ["CF:1", "CF:226", "CF:227", "CF:17"],
-      "obrigatorios": ["CF:1"],
+      "filtro": {
+        "codigo": "CF"
+      },
+      "relevantes": [
+        "CF:1",
+        "CF:226",
+        "CF:227",
+        "CF:17"
+      ],
+      "obrigatorios": [
+        "CF:1"
+      ],
       "justificativa": "Os dispositivos julgados mencionam a dignidade da pessoa humana ou sua proteção constitucional direta."
     },
     {
       "id": "cp-homicidio",
       "grupo": "legislacao",
       "consulta": "matar alguém",
-      "filtro": { "codigo": "CP" },
-      "relevantes": ["CP:121", "CP:121-A", "CP:123"],
-      "obrigatorios": ["CP:121"],
+      "filtro": {
+        "codigo": "CP"
+      },
+      "relevantes": [
+        "CP:121",
+        "CP:121-A",
+        "CP:123"
+      ],
+      "obrigatorios": [
+        "CP:121"
+      ],
       "justificativa": "Os dispositivos julgados tipificam modalidades de homicídio; resultados apenas incidentais foram excluídos."
     },
     {
       "id": "cpp-prisao-preventiva",
       "grupo": "legislacao",
       "consulta": "prisão preventiva ordem pública",
-      "filtro": { "codigo": "CPP" },
-      "relevantes": ["CPP:312", "CPP:283", "CPP:310", "CPP:311", "CPP:314"],
-      "obrigatorios": ["CPP:312"],
+      "filtro": {
+        "codigo": "CPP"
+      },
+      "relevantes": [
+        "CPP:312",
+        "CPP:283",
+        "CPP:310",
+        "CPP:311",
+        "CPP:314"
+      ],
+      "obrigatorios": [
+        "CPP:312"
+      ],
       "justificativa": "Os dispositivos julgados disciplinam prisão preventiva, requisitos, decretação ou controle da custódia."
     }
   ]

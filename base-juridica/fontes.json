@@ -624,6 +624,125 @@
         }
       ]
     },
+    "legislacao_esparsas_tributario": {
+      "familia": "legislacao",
+      "adaptador": "planalto_html_v1",
+      "chave_colecao": "artigos",
+      "fontes": [
+        {
+          "id": "d70235",
+          "codigo": "D70235",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto/d70235compilado.htm",
+          "arquivo_bruto": "d70235.html",
+          "destino": "lei_d70235.json"
+        },
+        {
+          "id": "dl1598",
+          "codigo": "DL1598",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1598.htm",
+          "arquivo_bruto": "dl1598.html",
+          "destino": "lei_dl1598.json"
+        },
+        {
+          "id": "l10522",
+          "codigo": "L10522",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm",
+          "arquivo_bruto": "l10522.html",
+          "destino": "lei_l10522.json"
+        },
+        {
+          "id": "l10637",
+          "codigo": "L10637",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10637compilado.htm",
+          "arquivo_bruto": "l10637.html",
+          "destino": "lei_l10637.json"
+        },
+        {
+          "id": "l10684",
+          "codigo": "L10684",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm",
+          "arquivo_bruto": "l10684.html",
+          "destino": "lei_l10684.json"
+        },
+        {
+          "id": "l10833",
+          "codigo": "L10833",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.833compilado.htm",
+          "arquivo_bruto": "l10833.html",
+          "destino": "lei_l10833.json"
+        },
+        {
+          "id": "l10865",
+          "codigo": "L10865",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm",
+          "arquivo_bruto": "l10865.html",
+          "destino": "lei_l10865.json"
+        },
+        {
+          "id": "l13988",
+          "codigo": "L13988",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm",
+          "arquivo_bruto": "l13988.html",
+          "destino": "lei_l13988.json"
+        },
+        {
+          "id": "l7689",
+          "codigo": "L7689",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l7689.htm",
+          "arquivo_bruto": "l7689.html",
+          "destino": "lei_l7689.json"
+        },
+        {
+          "id": "l7713",
+          "codigo": "L7713",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm",
+          "arquivo_bruto": "l7713.html",
+          "destino": "lei_l7713.json"
+        },
+        {
+          "id": "l8989",
+          "codigo": "L8989",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8989compilado.htm",
+          "arquivo_bruto": "l8989.html",
+          "destino": "lei_l8989.json"
+        },
+        {
+          "id": "l9249",
+          "codigo": "L9249",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm",
+          "arquivo_bruto": "l9249.html",
+          "destino": "lei_l9249.json"
+        },
+        {
+          "id": "l9430",
+          "codigo": "L9430",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9430compilada.htm",
+          "arquivo_bruto": "l9430.html",
+          "destino": "lei_l9430.json"
+        },
+        {
+          "id": "lc116",
+          "codigo": "LC116",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp116.htm",
+          "arquivo_bruto": "lc116.html",
+          "destino": "lei_lc116.json"
+        },
+        {
+          "id": "lc87",
+          "codigo": "LC87",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm",
+          "arquivo_bruto": "lc87.html",
+          "destino": "lei_lc87.json"
+        },
+        {
+          "id": "lef",
+          "codigo": "LEF",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm",
+          "arquivo_bruto": "lef.html",
+          "destino": "lei_lef.json"
+        }
+      ]
+    },
     "legislacao_estatutos": {
       "familia": "legislacao",
       "adaptador": "planalto_html_v1",

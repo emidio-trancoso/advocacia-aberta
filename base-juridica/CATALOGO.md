@@ -26,19 +26,19 @@ python3 ferramentas/manutencao/auditar_base_juridica.py --json
 
 | Acervo | Arquivos principais | Quantidade observada | Tamanho ou cobertura |
 |---|---:|---:|---|
-| Legislação | 87 | 12.565 registros | 87 diplomas |
+| Legislação | 103 | 13.368 registros | 103 diplomas |
 | Súmulas | 3 | 1.475 registros | STJ, STF e vinculantes do STF |
 | Jurisprudência em Teses | 1 | 3.508 teses | 283 edições do STJ |
 | Temas repetitivos | 1 | 1.462 temas | STJ |
 | Índices auxiliares | 2 exclusivos + índices embutidos | derivados | palavras-chave e termos de busca |
-| Total em JSON | 94 | — | 27.034.462 bytes, cerca de 27 MB |
+| Total em JSON | 110 | — | 28.540.853 bytes, cerca de 29 MB |
 
 Os números acima foram contados diretamente nos JSONs. `gerado_em` e `generatedAt`
 indicam geração do arquivo, não garantem a data de vigência do conteúdo.
 
 ## Legislação
 
-Todos os 12.565 registros legislativos possuem URL individual. Os metadados apontam
+Todos os 13.368 registros legislativos possuem URL individual. Os metadados apontam
 para páginas compiladas do Planalto.
 
 | Código | Diploma | Gerado em | Registros | Índice | Situação estrutural |
@@ -112,9 +112,10 @@ protocolo comum. O inventário por diploma sai de
 | `esparsas_trabalhista` | 27 | 540 | 2026-07-19 |
 | `codificadas` | 7 | 1.953 | 2026-07-19 |
 | `esparsas_penal` | 17 | 508 | 2026-07-19 |
+| `esparsas_tributario` | 16 | 803 | 2026-07-19 |
 
-Grupos pendentes de materialização: decretos (1) e as dez fatias de esparsas
-por macro-área restantes (167 normas). O Código Comercial de 1850 foi movido
+Grupos pendentes de materialização: decretos (1) e as nove fatias de esparsas
+por macro-área restantes (151 normas). O Código Comercial de 1850 foi movido
 para o grupo `pendentes_especiais` sem materialização: a página compilada
 mistura duas numerações (o corpo do Código, arts. 1 a 913, e o Título Único da
 administração da justiça comercial, com arts. 1 a 30 próprios), e a captura por
@@ -128,16 +129,20 @@ fonte com rótulo tipográfico defeituoso ("Art 1º"/"Art . 1º") e passaram a s
 capturados. Nas codificadas, o CBA, o CBT e o CPPM apresentam revogações em
 faixa numa linha única da página oficial (ex.: "Art. 77 a 85. Revogado"),
 registradas no primeiro número da faixa, e a página do CPM tem árvore HTML com
-profundidade ~1.700 por tags nunca fechadas, tolerada pelo parser.
+profundidade ~1.700 por tags nunca fechadas, tolerada pelo parser. Na fatia
+tributária, os arts. 42 e 43 da Lei 10.637/2002 aparecem na página apenas como
+citação pontilhada de lei alterada, e artigos isolados (DL 1.598 art. 66; Lei
+7.713 arts. 28 e 29; Lei 10.637 arts. 39 e 40) são omitidos pela própria página
+oficial.
 
 ### Cobertura real do motor legislativo
 
 | Superfície | Cobertura observada |
 |---|---|
-| Arquivos disponíveis | 87 diplomas: núcleo (11), piloto (8), estatutos (17), trabalhista (27), codificadas (7) e penal (17); a lista completa está no registro do motor e no manifesto da expansão |
-| Códigos declarados no TypeScript | exatamente os 87 arquivos disponíveis (expansão gerada entre marcadores) |
-| Busca com código específico | aceita os 87 códigos; valor desconhecido produz erro legível |
-| Busca `todos` | os 87 códigos do registro central |
+| Arquivos disponíveis | 103 diplomas: núcleo (11), piloto (8), estatutos (17), trabalhista (27), codificadas (7), penal (17) e tributário (16); a lista completa está no registro do motor e no manifesto da expansão |
+| Códigos declarados no TypeScript | exatamente os 103 arquivos disponíveis (expansão gerada entre marcadores) |
+| Busca com código específico | aceita os 103 códigos; valor desconhecido produz erro legível |
+| Busca `todos` | os 103 códigos do registro central |
 | Esquema MCP e sua documentação | gerados a partir do mesmo registro central |
 
 Desde a conclusão de `BASE-002` e `BASE-003`:
@@ -287,7 +292,7 @@ proveniência e efeito jurídico. O vocabulário e as regras estão documentados
   a referência pública e o processo futuro já estejam documentados;
 - os rótulos reduzem inferências indevidas, mas não substituem o exame do inteiro teor,
   da vigência, da situação atual e da aplicabilidade ao caso;
-- a avaliação de recuperação cobre 46 consultas controladas e seis famílias; ela é um
+- a avaliação de recuperação cobre 49 consultas controladas e seis famílias; ela é um
   gate de regressão, não uma estimativa exaustiva para qualquer consulta jurídica.
 
 As métricas e limitações estão em

@@ -1,0 +1,655 @@
+{
+  "_meta": {
+    "codigo": "LC87",
+    "nome": "ICMS – Normas Gerais (Lei Kandir)",
+    "lei": "Lei Complementar 87/1996",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm",
+    "total_artigos": 40,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Compete aos Estados e ao Distrito Federal instituir o imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, ainda que as operações e as prestações se iniciem no exterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%201%C2%BA%20Compete%20aos%20Estados%20e%20ao%20Distrito%20Federal%20instituir%20o%20imposto%20sobre%20opera%C3%A7%C3%B5es%20relativas%20%C3%A0%20circula%C3%A7%C3%A3o%20de%20mercadorias%20e%20sobre%20presta%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2° O imposto incide sobre:\n\nI - operações relativas à circulação de mercadorias, inclusive o fornecimento de alimentação e bebidas em bares, restaurantes e estabelecimentos similares;\n\nII - prestações de serviços de transporte interestadual e intermunicipal, por qualquer via, de pessoas, bens, mercadorias ou valores;\n\nIII - prestações onerosas de serviços de comunicação, por qualquer meio, inclusive a geração, a emissão, a recepção, a transmissão, a retransmissão, a repetição e a ampliação de comunicação de qualquer natureza;\n\nIV - fornecimento de mercadorias com prestação de serviços não compreendidos na competência tributária dos Municípios;\n\nV - fornecimento de mercadorias com prestação de serviços sujeitos ao imposto sobre serviços, de competência dos Municípios, quando a lei complementar aplicável expressamente o sujeitar à incidência do imposto estadual.\n\n§ 1º O imposto incide também:\n\nI - sobre a entrada de mercadoria importada do exterior, por pessoa física ou jurídica, ainda quando se tratar de bem destinado a consumo ou ativo permanente do estabelecimento;\n\nI – sobre a entrada de mercadoria ou bem importados do exterior, por pessoa física ou jurídica, ainda que não seja contribuinte habitual do imposto, qualquer que seja a sua finalidade; (Redação dada pela Lcp 114, de 16.12.2002)\n\nII - sobre o serviço prestado no exterior ou cuja prestação se tenha iniciado no exterior;\n\nIII - sobre a entrada, no território do Estado destinatário, de petróleo, inclusive lubrificantes e combustíveis líquidos e gasosos dele derivados, e de energia elétrica, quando não destinados à comercialização ou à industrialização, decorrentes de operações interestaduais, cabendo o imposto ao Estado onde estiver localizado o adquirente.\n\n§ 2º A caracterização do fato gerador independe da natureza jurídica da operação que o constitua.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%202%C2%B0%20O%20imposto%20incide%20sobre%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º O imposto não incide sobre:\n\nI - operações com livros, jornais, periódicos e o papel destinado a sua impressão;\n\nII - operações e prestações que destinem ao exterior mercadorias, inclusive produtos primários e produtos industrializados semi-elaborados, ou serviços; (Vide Lei Complementar nº 102, de 2000) (Vide Lei Complementar nº 102, de 2000)\n\nIII - operações interestaduais relativas a energia elétrica e petróleo, inclusive lubrificantes e combustíveis líquidos e gasosos dele derivados, quando destinados à industrialização ou à comercialização;\n\nIV - operações com ouro, quando definido em lei como ativo financeiro ou instrumento cambial;\n\nV - operações relativas a mercadorias que tenham sido ou que se destinem a ser utilizadas na prestação, pelo próprio autor da saída, de serviço de qualquer natureza definido em lei complementar como sujeito ao imposto sobre serviços, de competência dos Municípios, ressalvadas as hipóteses previstas na mesma lei complementar;\n\nVI - operações de qualquer natureza de que decorra a transferência de propriedade de estabelecimento industrial, comercial ou de outra espécie;\n\nVII - operações decorrentes de alienação fiduciária em garantia, inclusive a operação efetuada pelo credor em decorrência do inadimplemento do devedor;\n\nVIII - operações de arrendamento mercantil, não compreendida a venda do bem arrendado ao arrendatário;\n\nIX - operações de qualquer natureza de que decorra a transferência de bens móveis salvados de sinistro para companhias seguradoras.\n\nIX - operações de qualquer natureza de que decorra a transferência de bens móveis salvados de sinistro para companhias seguradoras; e (Redação dada pela Lei Complementar nº 194, de 2022)\n\nX - serviços de transmissão e distribuição e encargos setoriais vinculados às operações com energia elétrica. (Incluído pela Lei Complementar nº 194, de 2022)\n\nParágrafo único. Equipara-se às operações de que trata o inciso II a saída de mercadoria realizada com o fim específico de exportação para o exterior, destinada a:\n\nI - empresa comercial exportadora, inclusive tradings ou outro estabelecimento da mesma empresa;\n\nII - armazém alfandegado ou entreposto aduaneiro.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%203%C2%BA%20O%20imposto%20n%C3%A3o%20incide%20sobre%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Contribuinte é qualquer pessoa, física ou jurídica, que realize, com habitualidade ou em volume que caracterize intuito comercial, operações de circulação de mercadoria ou prestações de serviços de transporte interestadual e intermunicipal e de comunicação, ainda que as operações e as prestações se iniciem no exterior.\n\nParágrafo único. É também contribuinte a pessoa física ou jurídica que, mesmo sem habitualidade:\n\nParágrafo único. É também contribuinte a pessoa física ou jurídica que, mesmo sem habitualidade ou intuito comercial: (Redação dada pela Lcp 114, de 16.12.2002)\n\n§ 1º É também contribuinte a pessoa física ou jurídica que, mesmo sem habitualidade ou intuito comercial: (Transformado do parágrafo único pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\nI - importe mercadorias do exterior, ainda que as destine a consumo ou ao ativo permanente do estabelecimento;\n\nI – importe mercadorias ou bens do exterior, qualquer que seja a sua finalidade; (Redação dada pela Lcp 114, de 16.12.2002)\n\nII - seja destinatária de serviço prestado no exterior ou cuja prestação se tenha iniciado no exterior;\n\nIII - adquira em licitação de mercadorias apreendidas ou abandonadas;\n\nIII – adquira em licitação mercadorias ou bens apreendidos ou abandonados; (Redação dada pela Lcp 114, de 16.12.2002)\n\nIV - adquira lubrificantes e combustíveis líquidos e gasosos derivados de petróleo oriundos de outro Estado, quando não destinados à comercialização.\n\nIV – adquira lubrificantes e combustíveis líquidos e gasosos derivados de petróleo e energia elétrica oriundos de outro Estado, quando não destinados à comercialização ou à industrialização. (Redação dada pela LCP nº 102, de 11.7.2000)\n\n§ 2º É ainda contribuinte do imposto nas operações ou prestações que destinem mercadorias, bens e serviços a consumidor final domiciliado ou estabelecido em outro Estado, em relação à diferença entre a alíquota interna do Estado de destino e a alíquota interestadual: (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\nI - o destinatário da mercadoria, bem ou serviço, na hipótese de contribuinte do imposto; (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\nII - o remetente da mercadoria ou bem ou o prestador de serviço, na hipótese de o destinatário não ser contribuinte do imposto. (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%204%C2%BA%20Contribuinte%20%C3%A9%20qualquer%20pessoa%2C%20f%C3%ADsica%20ou%20jur%C3%ADdica%2C%20que%20realize%2C%20com%20habitualidade%20ou%20em%20volume%20que%20caracterize%20intuito%20comercial%2C%20opera%C3%A7%C3%B5es%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Lei poderá atribuir a terceiros a responsabilidade pelo pagamento do imposto e acréscimos devidos pelo contribuinte ou responsável, quando os atos ou omissões daqueles concorrerem para o não recolhimento do tributo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%205%C2%BA%20Lei%20poder%C3%A1%20atribuir%20a%20terceiros%20a%20responsabilidade%20pelo%20pagamento%20do%20imposto%20e%20acr%C3%A9scimos%20devidos%20pelo%20contribuinte%20ou%20respons%C3%A1vel%2C%20quando%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Lei estadual poderá atribuir a contribuinte do imposto ou a depositário a qualquer título a responsabilidade pelo seu pagamento, hipótese em que o contribuinte assumirá a condição de substituto tributário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%206%C2%BA%20Lei%20estadual%20poder%C3%A1%20atribuir%20a%20contribuinte%20do%20imposto%20ou%20a%20deposit%C3%A1rio%20a%20qualquer%20t%C3%ADtulo%20a%20responsabilidade%20pelo%20seu%20pagamento%2C%20hip%C3%B3tese",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Para efeito de exigência do imposto por substituição tributária, inclui-se, também, como fato gerador do imposto, a entrada de mercadoria ou bem no estabelecimento do adquirente ou em outro por ele indicado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%207%C2%BA%20Para%20efeito%20de%20exig%C3%AAncia%20do%20imposto%20por%20substitui%C3%A7%C3%A3o%20tribut%C3%A1ria%2C%20inclui-se%2C%20tamb%C3%A9m%2C%20como%20fato%20gerador%20do%20imposto%2C%20a%20entrada%20de%20mercadoria",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º A base de cálculo, para fins de substituição tributária, será:\n\nI - em relação às operações ou prestações antecedentes ou concomitantes, o valor da operação ou prestação praticado pelo contribuinte substituído;\n\nII - em relação às operações ou prestações subseqüentes, obtida pelo somatório das parcelas seguintes:\n\na) o valor da operação ou prestação própria realizada pelo substituto tributário ou pelo substituído intermediário;\n\nb) o montante dos valores de seguro, de frete e de outros encargos cobrados ou transferíveis aos adquirentes ou tomadores de serviço;\n\nc) a margem de valor agregado, inclusive lucro, relativa às operações ou prestações subseqüentes.\n\n§ 1º Na hipótese de responsabilidade tributária em relação às operações ou prestações antecedentes, o imposto devido pelas referidas operações ou prestações será pago pelo responsável, quando:\n\nI - da entrada ou recebimento da mercadoria ou do serviço;\n\nI – da entrada ou recebimento da mercadoria, do bem ou do serviço; (Redação dada pela Lcp 114, de 16.12.2002)\n\nII - da saída subseqüente por ele promovida, ainda que isenta ou não tributada;\n\nIII - ocorrer qualquer saída ou evento que impossibilite a ocorrência do fato determinante do pagamento do imposto.\n\n§ 2º Tratando-se de mercadoria ou serviço cujo preço final a consumidor, único ou máximo, seja fixado por órgão público competente, a base de cálculo do imposto, para fins de substituição tributária, é o referido preço por ele estabelecido.\n\n§ 3º Existindo preço final a consumidor sugerido pelo fabricante ou importador, poderá a lei estabelecer como base de cálculo este preço.\n\n§ 4º A margem a que se refere a alínea c do inciso II do caput será estabelecida com base em preços usualmente praticados no mercado considerado, obtidos por levantamento, ainda que por amostragem ou através de informações e outros elementos fornecidos por entidades representativas dos respectivos setores, adotando-se a média ponderada dos preços coletados, devendo os critérios para sua fixação ser previstos em lei.\n\n§ 5º O imposto a ser pago por substituição tributária, na hipótese do inciso II do caput, corresponderá à diferença entre o valor resultante da aplicação da alíquota prevista para as operações ou prestações internas do Estado de destino sobre a respectiva base de cálculo e o valor do imposto devido pela operação ou prestação própria do substituto.\n\n§ 6o Em substituição ao disposto no inciso II do caput, a base de cálculo em relação às operações ou prestações subseqüentes poderá ser o preço a consumidor final usualmente praticado no mercado considerado, relativamente ao serviço, à mercadoria ou sua similar, em condições de livre concorrência, adotando-se para sua apuração as regras estabelecidas no § 4o deste artigo. (Redação dada pela Lcp 114, de 16.12.2002)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%208%C2%BA%20A%20base%20de%20c%C3%A1lculo%2C%20para%20fins%20de%20substitui%C3%A7%C3%A3o%20tribut%C3%A1ria%2C%20ser%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º A adoção do regime de substituição tributária em operações interestaduais dependerá de acordo específico celebrado pelos Estados interessados.\n\n§ 1º A responsabilidade a que se refere o art. 6º poderá ser atribuída:\n\nI - ao contribuinte que realizar operação interestadual com petróleo, inclusive lubrificantes, combustíveis líquidos e gasosos dele derivados, em relação às operações subseqüentes;\n\nII - às empresas geradoras ou distribuidoras de energia elétrica, nas operações internas e interestaduais, na condição de contribuinte ou de substituto tributário, pelo pagamento do imposto, desde a produção ou importação até a última operação, sendo seu cálculo efetuado sobre o preço praticado na operação final, assegurado seu recolhimento ao Estado onde deva ocorrer essa operação.\n\n§ 2º Nas operações interestaduais com as mercadorias de que tratam os incisos I e II do parágrafo anterior, que tenham como destinatário consumidor final, o imposto incidente na operação será devido ao Estado onde estiver localizado o adquirente e será pago pelo remetente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%209%C2%BA%20A%20ado%C3%A7%C3%A3o%20do%20regime%20de%20substitui%C3%A7%C3%A3o%20tribut%C3%A1ria%20em%20opera%C3%A7%C3%B5es%20interestaduais%20depender%C3%A1%20de%20acordo%20espec%C3%ADfico%20celebrado%20pelos%20Estados%20interessados.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. É assegurado ao contribuinte substituído o direito à restituição do valor do imposto pago por força da substituição tributária, correspondente ao fato gerador presumido que não se realizar.\n\n§ 1º Formulado o pedido de restituição e não havendo deliberação no prazo de noventa dias, o contribuinte substituído poderá se creditar, em sua escrita fiscal, do valor objeto do pedido, devidamente atualizado segundo os mesmos critérios aplicáveis ao tributo.\n\n§ 2º Na hipótese do parágrafo anterior, sobrevindo decisão contrária irrecorrível, o contribuinte substituído, no prazo de quinze dias da respectiva notificação, procederá ao estorno dos créditos lançados, também devidamente atualizados, com o pagamento dos acréscimos legais cabíveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2010.%20%C3%89%20assegurado%20ao%20contribuinte%20substitu%C3%ADdo%20o%20direito%20%C3%A0%20restitui%C3%A7%C3%A3o%20do%20valor%20do%20imposto%20pago%20por%20for%C3%A7a%20da%20substitui%C3%A7%C3%A3o%20tribut%C3%A1ria%2C%20correspondente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. O local da operação ou da prestação, para os efeitos da cobrança do imposto e definição do estabelecimento responsável, é:\n\nI - tratando-se de mercadoria ou bem:\n\na) o do estabelecimento onde se encontre, no momento da ocorrência do fato gerador;\n\nb) onde se encontre, quando em situação irregular pela falta de documentação fiscal ou quando acompanhado de documentação inidônea, como dispuser a legislação tributária;\n\nc) o do estabelecimento que transfira a propriedade, ou o título que a represente, de mercadoria por ele adquirida no País e que por ele não tenha transitado;\n\nd) importado do exterior, o do estabelecimento onde ocorrer a entrada física;\n\ne) importado do exterior, o do domicílio do adquirente, quando não estabelecido;\n\nf) aquele onde seja realizada a licitação, no caso de arrematação de mercadoria importada do exterior e apreendida;\n\nf) aquele onde seja realizada a licitação, no caso de arrematação de mercadoria ou bem importados do exterior e apreendidos ou abandonados; (Redação dada pela Lcp 114, de 16.12.2002)\n\ng) o do Estado onde estiver localizado o adquirente, inclusive consumidor final, nas operações interestaduais com energia elétrica e petróleo, lubrificantes e combustíveis dele derivados, quando não destinados à industrialização ou à comercialização;\n\nh) o do Estado de onde o ouro tenha sido extraído, quando não considerado como ativo financeiro ou instrumento cambial;\n\ni) o de desembarque do produto, na hipótese de captura de peixes, crustáceos e moluscos;\n\nII - tratando-se de prestação de serviço de transporte:\n\na) onde tenha início a prestação;\n\nb) onde se encontre o transportador, quando em situação irregular pela falta de documentação fiscal ou quando acompanhada de documentação inidônea, como dispuser a legislação tributária;\n\nc) o do estabelecimento destinatário do serviço, na hipótese do inciso XIII do art. 12 e para os efeitos do § 3º do art. 13;\n\nc) (revogada); (Redação dada pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\nIII - tratando-se de prestação onerosa de serviço de comunicação:\n\na) o da prestação do serviço de radiodifusão sonora e de som e imagem, assim entendido o da geração, emissão, transmissão e retransmissão, repetição, ampliação e recepção;\n\nb) o do estabelecimento da concessionária ou da permissionária que forneça ficha, cartão, ou assemelhados com que o serviço é pago;\n\nc) o do estabelecimento destinatário do serviço, na hipótese e para os efeitos do inciso XIII do art. 12;\n\nc-1) o do estabelecimento ou domicílio do tomador do serviço, quando prestado por meio de satélite; (Alínea incluída pela LCP nº 102, de 11.7.2000)\n\nd) onde seja cobrado o serviço, nos demais casos;\n\nIV - tratando-se de serviços prestados ou iniciados no exterior, o do estabelecimento ou do domicílio do destinatário.\n\nV - tratando-se de operações ou prestações interestaduais destinadas a consumidor final, em relação à diferença entre a alíquota interna do Estado de destino e a alíquota interestadual: (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\na) o do estabelecimento do destinatário, quando o destinatário ou o tomador for contribuinte do imposto; (Incluída pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\nb) o do estabelecimento do remetente ou onde tiver início a prestação, quando o destinatário ou tomador não for contribuinte do imposto. (Incluída pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\n§ 1º O disposto na alínea c do inciso I não se aplica às mercadorias recebidas em regime de depósito de contribuinte de Estado que não o do depositário.\n\n§ 2º Para os efeitos da alínea h do inciso I, o ouro, quando definido como ativo financeiro ou instrumento cambial, deve ter sua origem identificada.\n\n§ 3º Para efeito desta Lei Complementar, estabelecimento é o local, privado ou público, edificado ou não, próprio ou de terceiro, onde pessoas físicas ou jurídicas exerçam suas atividades em caráter temporário ou permanente, bem como onde se encontrem armazenadas mercadorias, observado, ainda, o seguinte:\n\nI - na impossibilidade de determinação do estabelecimento, considera-se como tal o local em que tenha sido efetuada a operação ou prestação, encontrada a mercadoria ou constatada a prestação;\n\nII - é autônomo cada estabelecimento do mesmo titular; (Vide ADC 49)\n\nIII - considera-se também estabelecimento autônomo o veículo usado no comércio ambulante e na captura de pescado;\n\nIV - respondem pelo crédito tributário todos os estabelecimentos do mesmo titular.\n\n§ 4º (VETADO)\n\n§ 5º Quando a mercadoria for remetida para armazém geral ou para depósito fechado do próprio contribuinte, no mesmo Estado, a posterior saída considerar-se-á ocorrida no estabelecimento do depositante, salvo se para retornar ao estabelecimento remetente.\n\n§ 6o Na hipótese do inciso III do caput deste artigo, tratando-se de serviços não medidos, que envolvam localidades situadas em diferentes unidades da Federação e cujo preço seja cobrado por períodos definidos, o imposto devido será recolhido em partes iguais para as unidades da Federação onde estiverem localizados o prestador e o tomador. (Incluído pela LCP nº 102, de 11.7.2000)\n\n§ 7º Na hipótese da alínea “b” do inciso V do caput deste artigo, quando o destino final da mercadoria, bem ou serviço ocorrer em Estado diferente daquele em que estiver domiciliado ou estabelecido o adquirente ou o tomador, o imposto correspondente à diferença entre a alíquota interna e a interestadual será devido ao Estado no qual efetivamente ocorrer a entrada física da mercadoria ou bem ou o fim da prestação do serviço. (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\n§ 8º Na hipótese de serviço de transporte interestadual de passageiros cujo tomador não seja contribuinte do imposto: (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\nI - o passageiro será considerado o consumidor final do serviço, e o fato gerador considerar-se-á ocorrido no Estado referido nas alíneas “a” ou “b” do inciso II do caput deste artigo, conforme o caso, não se aplicando o disposto no inciso V do caput e no § 7º deste artigo; e (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\nII - o destinatário do serviço considerar-se-á localizado no Estado da ocorrência do fato gerador, e a prestação ficará sujeita à tributação pela sua alíquota interna. (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2011.%20O%20local%20da%20opera%C3%A7%C3%A3o%20ou%20da%20presta%C3%A7%C3%A3o%2C%20para%20os%20efeitos%20da%20cobran%C3%A7a%20do%20imposto%20e%20defini%C3%A7%C3%A3o%20do%20estabelecimento%20respons%C3%A1vel%2C%20%C3%A9%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Considera-se ocorrido o fato gerador do imposto no momento:\n\nI - da saída de mercadoria de estabelecimento de contribuinte, ainda que para outro estabelecimento do mesmo titular; (Vide ADC 49)\n\nI - da saída de mercadoria de estabelecimento de contribuinte; (Redação dada pela Lei Complementar nº 204, de 2023) Vigência\n\nII - do fornecimento de alimentação, bebidas e outras mercadorias por qualquer estabelecimento;\n\nIII - da transmissão a terceiro de mercadoria depositada em armazém geral ou em depósito fechado, no Estado do transmitente;\n\nIV - da transmissão de propriedade de mercadoria, ou de título que a represente, quando a mercadoria não tiver transitado pelo estabelecimento transmitente;\n\nV - do início da prestação de serviços de transporte interestadual e intermunicipal, de qualquer natureza;\n\nVI - do ato final do transporte iniciado no exterior;\n\nVII - das prestações onerosas de serviços de comunicação, feita por qualquer meio, inclusive a geração, a emissão, a recepção, a transmissão, a retransmissão, a repetição e a ampliação de comunicação de qualquer natureza;\n\nVIII - do fornecimento de mercadoria com prestação de serviços:\n\na) não compreendidos na competência tributária dos Municípios;\n\nb) compreendidos na competência tributária dos Municípios e com indicação expressa de incidência do imposto de competência estadual, como definido na lei complementar aplicável;\n\nIX - do desembaraço aduaneiro das mercadorias importadas do exterior;\n\nIX – do desembaraço aduaneiro de mercadorias ou bens importados do exterior; (Redação dada pela Lcp 114, de 16.12.2002)\n\nX - do recebimento, pelo destinatário, de serviço prestado no exterior;\n\nXI - da aquisição em licitação pública de mercadorias importadas do exterior apreendidas ou abandonadas;\n\nXI – da aquisição em licitação pública de mercadorias ou bens importados do exterior e apreendidos ou abandonados; (Redação dada pela Lcp 114, de 16.12.2002)\n\nXII - da entrada no território do Estado de lubrificantes e combustíveis líquidos e gasosos derivados de petróleo oriundos de outro Estado, quando não destinados à comercialização;\n\nXII – da entrada no território do Estado de lubrificantes e combustíveis líquidos e gasosos derivados de petróleo e energia elétrica oriundos de outro Estado, quando não destinados à comercialização ou à industrialização; (Redação dada pela LCP nº 102, de 11.7.2000)\n\nXIII - da utilização, por contribuinte, de serviço cuja prestação se tenha iniciado em outro Estado e não esteja vinculada a operação ou prestação subseqüente.\n\nXIV - do início da prestação de serviço de transporte interestadual, nas prestações não vinculadas a operação ou prestação subsequente, cujo tomador não seja contribuinte do imposto domiciliado ou estabelecido no Estado de destino; (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\nXV - da entrada no território do Estado de bem ou mercadoria oriundos de outro Estado adquiridos por contribuinte do imposto e destinados ao seu uso ou consumo ou à integração ao seu ativo imobilizado; (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\nXVI - da saída, de estabelecimento de contribuinte, de bem ou mercadoria destinados a consumidor final não contribuinte do imposto domiciliado ou estabelecido em outro Estado. (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\n§ 1º Na hipótese do inciso VII, quando o serviço for prestado mediante pagamento em ficha, cartão ou assemelhados, considera-se ocorrido o fato gerador do imposto quando do fornecimento desses instrumentos ao usuário.\n\n§ 2º Na hipótese do inciso IX, após o desembaraço aduaneiro, a entrega, pelo depositário, de mercadoria ou bem importados do exterior deverá ser autorizada pelo órgão responsável pelo seu desembaraço, que somente se fará mediante a exibição do comprovante de pagamento do imposto incidente no ato do despacho aduaneiro, salvo disposição em contrário.\n\n§ 3o Na hipótese de entrega de mercadoria ou bem importados do exterior antes do desembaraço aduaneiro, considera-se ocorrido o fato gerador neste momento, devendo a autoridade responsável, salvo disposição em contrário, exigir a comprovação do pagamento do imposto. (Incluído pela Lcp 114, de 16.12.2002)\n\n§ 4º Não se considera ocorrido o fato gerador do imposto na saída de mercadoria de estabelecimento para outro de mesma titularidade, mantendo-se o crédito relativo às operações e prestações anteriores em favor do contribuinte, inclusive nas hipóteses de transferências interestaduais em que os créditos serão assegurados: (Incluído pela Lei Complementar nº 204, de 2023) Vigência\n\nI - pela unidade federada de destino, por meio de transferência de crédito, limitados aos percentuais estabelecidos nos termos do inciso IV do § 2º do art. 155 da Constituição Federal, aplicados sobre o valor atribuído à operação de transferência realizada; (Incluído pela Lei Complementar nº 204, de 2023) Vigência\n\nII - pela unidade federada de origem, em caso de diferença positiva entre os créditos pertinentes às operações e prestações anteriores e o transferido na forma do inciso I deste parágrafo. (Incluído pela Lei Complementar nº 204, de 2023) Vigência\n\n§ 5º Alternativamente ao disposto no § 4º deste artigo, por opção do contribuinte, a transferência de mercadoria para estabelecimento pertencente ao mesmo titular poderá ser equiparada a operação sujeita à ocorrência do fato gerador de imposto, hipótese em que serão observadas: (Incluído pela Lei Complementar nº 204, de 2023) Vigência\n\nI - nas operações internas, as alíquotas estabelecidas na legislação; (Incluído pela Lei Complementar nº 204, de 2023) Vigência\n\nII - nas operações interestaduais, as alíquotas fixadas nos termos do inciso IV do § 2º do art. 155 da Constituição Federal. (Incluído pela Lei Complementar nº 204, de 2023) Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2012.%20Considera-se%20ocorrido%20o%20fato%20gerador%20do%20imposto%20no%20momento%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. A base de cálculo do imposto é:\n\nI - na saída de mercadoria prevista nos incisos I, III e IV do art. 12, o valor da operação;\n\nII - na hipótese do inciso II do art. 12, o valor da operação, compreendendo mercadoria e serviço;\n\nIII - na prestação de serviço de transporte interestadual e intermunicipal e de comunicação, o preço do serviço;\n\nIV - no fornecimento de que trata o inciso VIII do art. 12;\n\na) o valor da operação, na hipótese da alínea a;\n\nb) o preço corrente da mercadoria fornecida ou empregada, na hipótese da alínea b;\n\nV - na hipótese do inciso IX do art. 12, a soma das seguintes parcelas:\n\na) o valor da mercadoria ou bem constante dos documentos de importação, observado o disposto no art. 14;\n\nb) imposto de importação;\n\nc) imposto sobre produtos industrializados;\n\nd) imposto sobre operações de câmbio;\n\ne) quaisquer despesas aduaneiras;\n\ne) quaisquer outros impostos, taxas, contribuições e despesas aduaneiras; (Redação dada pela Lcp 114, de 16.12.2002)\n\nVI - na hipótese do inciso X do art. 12, o valor da prestação do serviço, acrescido, se for o caso, de todos os encargos relacionados com a sua utilização;\n\nVII - no caso do inciso XI do art. 12, o valor da operação acrescido do valor dos impostos de importação e sobre produtos industrializados e de todas as despesas cobradas ou debitadas ao adquirente;\n\nVIII - na hipótese do inciso XII do art. 12, o valor da operação de que decorrer a entrada;\n\nIX - na hipótese do inciso XIII do art. 12, o valor da prestação no Estado de origem.\n\nIX - nas hipóteses dos incisos XIII e XV do caput do art. 12 desta Lei Complementar: (Redação dada pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\na) o valor da operação ou prestação no Estado de origem, para o cálculo do imposto devido a esse Estado; (Incluída pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\nb) o valor da operação ou prestação no Estado de destino, para o cálculo do imposto devido a esse Estado; (Incluída pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\nX - nas hipóteses dos incisos XIV e XVI do caput do art. 12 desta Lei Complementar, o valor da operação ou o preço do serviço, para o cálculo do imposto devido ao Estado de origem e ao de destino. (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\n§ 1º Integra a base de cálculo do imposto:\n\n§ 1o Integra a base de cálculo do imposto, inclusive na hipótese do inciso V do caput deste artigo: (Redação dada pela Lcp 114, de 16.12.2002)\n\n§ 1º Integra a base de cálculo do imposto, inclusive nas hipóteses dos incisos V, IX e X do caput deste artigo: (Redação dada pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\nI - o montante do próprio imposto, constituindo o respectivo destaque mera indicação para fins de controle;\n\nII - o valor correspondente a:\n\na) seguros, juros e demais importâncias pagas, recebidas ou debitadas, bem como descontos concedidos sob condição;\n\nb) frete, caso o transporte seja efetuado pelo próprio remetente ou por sua conta e ordem e seja cobrado em separado.\n\nIII - a partir de 1º de janeiro de 2027, o valor correspondente ao Imposto Seletivo a que se refere o inciso VIII do caput do art. 153 da Constituição Federal. (Incluído pela Lei Complementar nº 227, de 2026)\n\n2º Não integra a base de cálculo do imposto o montante do Imposto sobre Produtos Industrializados, quando a operação, realizada entre contribuintes e relativa a produto destinado à industrialização ou à comercialização, configurar fato gerador de ambos os impostos.\n\n§ 3º No caso do inciso IX, o imposto a pagar será o valor resultante da aplicação do percentual equivalente à diferença entre a alíquota interna e a interestadual, sobre o valor ali previsto.\n\n§ 3º No caso da alínea “b” do inciso IX e do inciso X do caput deste artigo, o imposto a pagar ao Estado de destino será o valor correspondente à diferença entre a alíquota interna do Estado de destino e a interestadual. (Redação dada pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\n§ 4º Na saída de mercadoria para estabelecimento localizado em outro Estado, pertencente ao mesmo titular, a base de cálculo do imposto é: (Vide ADC 49) (Revogado pela Lei Complementar nº 204, de 2023) Vigência\n\nI - o valor correspondente à entrada mais recente da mercadoria; (Revogado pela Lei Complementar nº 204, de 2023) Vigência\n\nII - o custo da mercadoria produzida, assim entendida a soma do custo da matéria-prima, material secundário, mão-de-obra e acondicionamento; (Revogado pela Lei Complementar nº 204, de 2023) Vigência\n\nIII - tratando-se de mercadorias não industrializadas, o seu preço corrente no mercado atacadista do estabelecimento remetente. (Revogado pela Lei Complementar nº 204, de 2023) Vigência\n\n§ 5º Nas operações e prestações interestaduais entre estabelecimentos de contribuintes diferentes, caso haja reajuste do valor depois da remessa ou da prestação, a diferença fica sujeita ao imposto no estabelecimento do remetente ou do prestador.\n\n§ 6º Utilizar-se-á, para os efeitos do inciso IX do caput deste artigo: (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\nI - a alíquota prevista para a operação ou prestação interestadual, para estabelecer a base de cálculo da operação ou prestação no Estado de origem; (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\nII - a alíquota prevista para a operação ou prestação interna, para estabelecer a base de cálculo da operação ou prestação no Estado de destino. (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\n§ 7º Utilizar-se-á, para os efeitos do inciso X do caput deste artigo, a alíquota prevista para a operação ou prestação interna no Estado de destino para estabelecer a base de cálculo da operação ou prestação. (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2013.%20A%20base%20de%20c%C3%A1lculo%20do%20imposto%20%C3%A9%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. O preço de importação expresso em moeda estrangeira será convertido em moeda nacional pela mesma taxa de câmbio utilizada no cálculo do imposto de importação, sem qualquer acréscimo ou devolução posterior se houver variação da taxa de câmbio até o pagamento efetivo do preço.\n\nParágrafo único. O valor fixado pela autoridade aduaneira para base de cálculo do imposto de importação, nos termos da lei aplicável, substituirá o preço declarado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2014.%20O%20pre%C3%A7o%20de%20importa%C3%A7%C3%A3o%20expresso%20em%20moeda%20estrangeira%20ser%C3%A1%20convertido%20em%20moeda%20nacional%20pela%20mesma%20taxa%20de%20c%C3%A2mbio%20utilizada%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Na falta do valor a que se referem os incisos I e VIII do art. 13, a base de cálculo do imposto é:\n\nI - o preço corrente da mercadoria, ou de seu similar, no mercado atacadista do local da operação ou, na sua falta, no mercado atacadista regional, caso o remetente seja produtor, extrator ou gerador, inclusive de energia;\n\nII - o preço FOB estabelecimento industrial à vista, caso o remetente seja industrial;\n\nIII - o preço FOB estabelecimento comercial à vista, na venda a outros comerciantes ou industriais, caso o remetente seja comerciante.\n\n§ 1º Para aplicação dos incisos II e III do caput, adotar-se-á sucessivamente:\n\nI - o preço efetivamente cobrado pelo estabelecimento remetente na operação mais recente;\n\nII - caso o remetente não tenha efetuado venda de mercadoria, o preço corrente da mercadoria ou de seu similar no mercado atacadista do local da operação ou, na falta deste, no mercado atacadista regional.\n\n§ 2º Na hipótese do inciso III do caput, se o estabelecimento remetente não efetue vendas a outros comerciantes ou industriais ou, em qualquer caso, se não houver mercadoria similar, a base de cálculo será equivalente a setenta e cinco por cento do preço de venda corrente no varejo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2015.%20Na%20falta%20do%20valor%20a%20que%20se%20referem%20os%20incisos%20I%20e%20VIII%20do%20art.%2013%2C%20a%20base%20de%20c%C3%A1lculo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Nas prestações sem preço determinado, a base de cálculo do imposto é o valor corrente do serviço, no local da prestação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2016.%20Nas%20presta%C3%A7%C3%B5es%20sem%20pre%C3%A7o%20determinado%2C%20a%20base%20de%20c%C3%A1lculo%20do%20imposto%20%C3%A9%20o%20valor%20corrente%20do%20servi%C3%A7o%2C%20no%20local%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Quando o valor do frete, cobrado por estabelecimento pertencente ao mesmo titular da mercadoria ou por outro estabelecimento de empresa que com aquele mantenha relação de interdependência, exceder os níveis normais de preços em vigor, no mercado local, para serviço semelhante, constantes de tabelas elaboradas pelos órgãos competentes, o valor excedente será havido como parte do preço da mercadoria.\n\nParágrafo único. Considerar-se-ão interdependentes duas empresas quando:\n\nI - uma delas, por si, seus sócios ou acionistas, e respectivos cônjuges ou filhos menores, for titular de mais de cinqüenta por cento do capital da outra;\n\nII - uma mesma pessoa fizer parte de ambas, na qualidade de diretor, ou sócio com funções de gerência, ainda que exercidas sob outra denominação;\n\nIII - uma delas locar ou transferir a outra, a qualquer título, veículo destinado ao transporte de mercadorias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2017.%20Quando%20o%20valor%20do%20frete%2C%20cobrado%20por%20estabelecimento%20pertencente%20ao%20mesmo%20titular%20da%20mercadoria%20ou%20por%20outro%20estabelecimento%20de%20empresa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Quando o cálculo do tributo tenha por base, ou tome em consideração, o valor ou o preço de mercadorias, bens, serviços ou direitos, a autoridade lançadora, mediante processo regular, arbitrará aquele valor ou preço, sempre que sejam omissos ou não mereçam fé as declarações ou os esclarecimentos prestados, ou os documentos expedidos pelo sujeito passivo ou pelo terceiro legalmente obrigado, ressalvada, em caso de contestação, avaliação contraditória, administrativa ou judicial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2018.%20Quando%20o%20c%C3%A1lculo%20do%20tributo%20tenha%20por%20base%2C%20ou%20tome%20em%20considera%C3%A7%C3%A3o%2C%20o%20valor%20ou%20o%20pre%C3%A7o%20de%20mercadorias%2C%20bens%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. O imposto é não-cumulativo, compensando-se o que for devido em cada operação relativa à circulação de mercadorias ou prestação de serviços de transporte interestadual e intermunicipal e de comunicação com o montante cobrado nas anteriores pelo mesmo ou por outro Estado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2019.%20O%20imposto%20%C3%A9%20n%C3%A3o-cumulativo%2C%20compensando-se%20o%20que%20for%20devido%20em%20cada%20opera%C3%A7%C3%A3o%20relativa%20%C3%A0%20circula%C3%A7%C3%A3o%20de%20mercadorias%20ou%20presta%C3%A7%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Para a compensação a que se refere o artigo anterior, é assegurado ao sujeito passivo o direito de creditar-se do imposto anteriormente cobrado em operações de que tenha resultado a entrada de mercadoria, real ou simbólica, no estabelecimento, inclusive a destinada ao seu uso ou consumo ou ao ativo permanente, ou o recebimento de serviços de transporte interestadual e intermunicipal ou de comunicação.\n\n§ 1º Não dão direito a crédito as entradas de mercadorias ou utilização de serviços resultantes de operações ou prestações isentas ou não tributadas, ou que se refiram a mercadorias ou serviços alheios à atividade do estabelecimento.\n\n§ 2º Salvo prova em contrário, presumem-se alheios à atividade do estabelecimento os veículos de transporte pessoal.\n\n§ 3º É vedado o crédito relativo a mercadoria entrada no estabelecimento ou a prestação de serviços a ele feita:\n\nI - para integração ou consumo em processo de industrialização ou produção rural, quando a saída do produto resultante não for tributada ou estiver isenta do imposto, exceto se tratar-se de saída para o exterior;\n\nII - para comercialização ou prestação de serviço, quando a saída ou a prestação subseqüente não forem tributadas ou estiverem isentas do imposto, exceto as destinadas ao exterior.\n\n§ 4º Deliberação dos Estados, na forma do art. 28, poderá dispor que não se aplique, no todo ou em parte, a vedação prevista no parágrafo anterior.\n\n§ 5º Além do lançamento em conjunto com os demais créditos, para efeito da compensação prevista neste artigo e no anterior, os créditos resultantes de operações de que decorra entrada de mercadorias destinadas ao ativo permanente serão objeto de outro lançamento, em livro próprio ou de outra forma que a legislação determinar, para aplicação do disposto no art. 21, §§ 5º, 6º e 7º.\n\n§ 5o Para efeito do disposto no caput deste artigo, relativamente aos créditos decorrentes de entrada de mercadorias no estabelecimento destinadas ao ativo permanente, deverá ser observado: (Redação dada pela LCP nº 102, de 11.7.2000) (Vide Lei Complementar nº 102, de 2000) (Vide Lei Complementar nº 102, de 2000)\n\nI – a apropriação será feita à razão de um quarenta e oito avos por mês, devendo a primeira fração ser apropriada no mês em que ocorrer a entrada no estabelecimento; (Inciso Incluído pela LCP nº 102, de 11.7.2000)\n\nII – em cada período de apuração do imposto, não será admitido o creditamento de que trata o inciso I, em relação à proporção das operações de saídas ou prestações isentas ou não tributadas sobre o total das operações de saídas ou prestações efetuadas no mesmo período; (Inciso Incluído pela LCP nº 102, de 11.7.2000)\n\nIII – para aplicação do disposto nos incisos I e II, o montante do crédito a ser apropriado será o obtido multiplicando-se o valor total do respectivo crédito pelo fator igual a um quarenta e oito avos da relação entre o valor das operações de saídas e prestações tributadas e o total das operações de saídas e prestações do período, equiparando-se às tributadas, para fins deste inciso, as saídas e prestações com destino ao exterior; (Inciso Incluído pela LCP nº 102, de 11.7.2000)\n\nIII – para aplicação do disposto nos incisos I e II deste parágrafo, o montante do crédito a ser apropriado será obtido multiplicando-se o valor total do respectivo crédito pelo fator igual a 1/48 (um quarenta e oito avos) da relação entre o valor das operações de saídas e prestações tributadas e o total das operações de saídas e prestações do período, equiparando-se às tributadas, para fins deste inciso, as saídas e prestações com destino ao exterior ou as saídas de papel destinado à impressão de livros, jornais e periódicos; (Redação dada pela Lei Complementar nº 120, de 2005)\n\nIV – o quociente de um quarenta e oito avos será proporcionalmente aumentado ou diminuído, pro rata die, caso o período de apuração seja superior ou inferior a um mês; (Inciso Incluído pela LCP nº 102, de 11.7.2000)\n\nV – na hipótese de alienação dos bens do ativo permanente, antes de decorrido o prazo de quatro anos contado da data de sua aquisição, não será admitido, a partir da data da alienação, o creditamento de que trata este parágrafo em relação à fração que corresponderia ao restante do quadriênio; (Inciso Incluído pela LCP nº 102, de 11.7.2000)\n\nVI – serão objeto de outro lançamento, além do lançamento em conjunto com os demais créditos, para efeito da compensação prevista neste artigo e no art. 19, em livro próprio ou de outra forma que a legislação determinar, para aplicação do disposto nos incisos I a V deste parágrafo; e (Inciso Incluído pela LCP nº 102, de 11.7.2000)\n\nVII – ao final do quadragésimo oitavo mês contado da data da entrada do bem no estabelecimento, o saldo remanescente do crédito será cancelado. (Inciso Incluído pela LCP nº 102, de 11.7.2000)\n\n§ 6º Operações tributadas, posteriores a saídas de que trata o § 3º, dão ao estabelecimento que as praticar direito a creditar-se do imposto cobrado nas operações anteriores às isentas ou não tributadas sempre que a saída isenta ou não tributada seja relativa a:\n\nI - produtos agropecuários;\n\nII - quando autorizado em lei estadual, outras mercadorias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2020.%20Para%20a%20compensa%C3%A7%C3%A3o%20a%20que%20se%20refere%20o%20artigo%20anterior%2C%20%C3%A9%20assegurado%20ao%20sujeito%20passivo%20o%20direito%20de%20creditar-se%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "20-A"
+    },
+    "20-A": {
+      "numero": "20-A",
+      "texto": "Art. 20-A. Nas hipóteses dos incisos XIV e XVI do caput do art. 12 desta Lei Complementar, o crédito relativo às operações e prestações anteriores deve ser deduzido apenas do débito correspondente ao imposto devido à unidade federada de origem. (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2020-A.%20Nas%20hip%C3%B3teses%20dos%20incisos%20XIV%20e%20XVI%20do%20caput%20do%20art.%2012%20desta%20Lei%20Complementar%2C%20o%20cr%C3%A9dito%20relativo%20%C3%A0s%20opera%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. O sujeito passivo deverá efetuar o estorno do imposto de que se tiver creditado sempre que o serviço tomado ou a mercadoria entrada no estabelecimento:\n\nI - for objeto de saída ou prestação de serviço não tributada ou isenta, sendo esta circunstância imprevisível na data da entrada da mercadoria ou da utilização do serviço;\n\nII - for integrada ou consumida em processo de industrialização, quando a saída do produto resultante não for tributada ou estiver isenta do imposto;\n\nIII - vier a ser utilizada em fim alheio à atividade do estabelecimento;\n\nIV - vier a perecer, deteriorar-se ou extraviar-se.\n\n§ 1º Devem ser também estornados os créditos referentes a bens do ativo permanente alienados antes de decorrido o prazo de cinco anos contado da data da sua aquisição, hipótese em que o estorno será de vinte por cento por ano ou fração que faltar para completar o qüinqüênio. (Revogado pela Lcp nº 102, de 11.7.2000)\n\n§ 2º Não se estornam créditos referentes a mercadorias e serviços que venham a ser objeto de operações ou prestações destinadas ao exterior.\n\n§ 2o Não se estornam créditos referentes a mercadorias e serviços que venham a ser objeto de operações ou prestações destinadas ao exterior ou de operações com o papel destinado à impressão de livros, jornais e periódicos. (Redação dada pela Lei Complementar nº 120, de 2005)\n\n§ 3º O não creditamento ou o estorno a que se referem o § 3º do art. 20 e o caput deste artigo, não impedem a utilização dos mesmos créditos em operações posteriores, sujeitas ao imposto, com a mesma mercadoria.\n\n§ 4º Em qualquer período de apuração do imposto, se bens do ativo permanente forem utilizados para produção de mercadorias cuja saída resulte de operações isentas ou não tributadas ou para prestação de serviços isentos ou não tributados, haverá estorno dos créditos escriturados conforme o § 5º do art. 20. (Revogado pela Lcp nº 102, de 11.7.2000)\n\n§ 5º Em cada período, o montante do estorno previsto no parágrafo anterior será o que se obtiver multiplicando-se o respectivo crédito pelo fator igual a um sessenta avos da relação entre a soma das saídas e prestações isentas e não tributadas e o total das saídas e prestações no mesmo período. Para este efeito, as saídas e prestações com destino ao exterior equiparam-se às tributadas. (Revogado pela Lcp nº 102, de 11.7.2000)\n\n§ 6º O quociente de um sessenta avos será proporcionalmente aumentado ou diminuído, pro rata die, caso o período de apuração for superior ou inferior a um mês. (Revogado pela Lcp nº 102, de 11.7.2000)\n\n§ 7º O montante que resultar da aplicação dos §§ 4º, 5º e 6º deste artigo será lançado no livro próprio como estorno de crédito. (Revogado pela Lcp nº 102, de 11.7.2000)\n\n§ 8º Ao fim do quinto ano contado da data do lançamento a que se refere o § 5º do art. 20, o saldo remanescente do crédito será cancelado de modo a não mais ocasionar estornos. (Revogado pela Lcp nº 102, de 11.7.2000)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2021.%20O%20sujeito%20passivo%20dever%C3%A1%20efetuar%20o%20estorno%20do%20imposto%20de%20que%20se%20tiver%20creditado%20sempre%20que%20o%20servi%C3%A7o%20tomado%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20-A",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2022.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. O direito de crédito, para efeito de compensação com débito do imposto, reconhecido ao estabelecimento que tenha recebido as mercadorias ou para o qual tenham sido prestados os serviços, está condicionado à idoneidade da documentação e, se for o caso, à escrituração nos prazos e condições estabelecidos na legislação.\n\nParágrafo único. O direito de utilizar o crédito extingue-se depois de decorridos cinco anos contados da data de emissão do documento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2023.%20O%20direito%20de%20cr%C3%A9dito%2C%20para%20efeito%20de%20compensa%C3%A7%C3%A3o%20com%20d%C3%A9bito%20do%20imposto%2C%20reconhecido%20ao%20estabelecimento%20que%20tenha%20recebido%20as%20mercadorias",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. A legislação tributária estadual disporá sobre o período de apuração do imposto. As obrigações consideram-se vencidas na data em que termina o período de apuração e são liquidadas por compensação ou mediante pagamento em dinheiro como disposto neste artigo:\n\nI - as obrigações consideram-se liquidadas por compensação até o montante dos créditos escriturados no mesmo período mais o saldo credor de período ou períodos anteriores, se for o caso;\n\nII - se o montante dos débitos do período superar o dos créditos, a diferença será liquidada dentro do prazo fixado pelo Estado;\n\nIII - se o montante dos créditos superar os dos débitos, a diferença será transportada para o período seguinte.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2024.%20A%20legisla%C3%A7%C3%A3o%20tribut%C3%A1ria%20estadual%20dispor%C3%A1%20sobre%20o%20per%C3%ADodo%20de%20apura%C3%A7%C3%A3o%20do%20imposto.%20As%20obriga%C3%A7%C3%B5es%20consideram-se%20vencidas%20na%20data%20em%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "24-A"
+    },
+    "24-A": {
+      "numero": "24-A",
+      "texto": "Art. 24-A. Os Estados e o Distrito Federal divulgarão, em portal próprio, as informações necessárias ao cumprimento das obrigações tributárias, principais e acessórias, nas operações e prestações interestaduais, conforme o tipo. (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\n§ 1º O portal de que trata o caput deste artigo deverá conter, inclusive: (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\nI - a legislação aplicável à operação ou prestação específica, incluídas soluções de consulta e decisões em processo administrativo fiscal de caráter vinculante; (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\nII - as alíquotas interestadual e interna aplicáveis à operação ou prestação; (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\nIII - as informações sobre benefícios fiscais ou financeiros e regimes especiais que possam alterar o valor a ser recolhido do imposto; e (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\nIV - as obrigações acessórias a serem cumpridas em razão da operação ou prestação realizada. (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\n§ 2º O portal referido no caput deste artigo conterá ferramenta que permita a apuração centralizada do imposto pelo contribuinte definido no inciso II do § 2º do art. 4º desta Lei Complementar, e a emissão das guias de recolhimento, para cada ente da Federação, da diferença entre a alíquota interna do Estado de destino e a alíquota interestadual da operação. (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\n§ 3º Para o cumprimento da obrigação principal e da acessória disposta no § 2º deste artigo, os Estados e o Distrito Federal definirão em conjunto os critérios técnicos necessários para a integração e a unificação dos portais das respectivas secretarias de fazenda dos Estados e do Distrito Federal. (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\n§ 4º Para a adaptação tecnológica do contribuinte, o inciso II do § 2º do art. 4º, a alínea “b” do inciso V do caput do art. 11 e o inciso XVI do caput do art. 12 desta Lei Complementar somente produzirão efeito no primeiro dia útil do terceiro mês subsequente ao da disponibilização do portal de que trata o caput deste artigo. (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)\n\n§ 5º A apuração e o recolhimento do imposto devido nas operações e prestações interestaduais de que trata a alínea “b” do inciso V do caput do art. 11 desta Lei Complementar observarão o definido em convênio celebrado nos termos da Lei Complementar nº 24, de 7 de janeiro de 1975, e, naquilo que não lhe for contrário, nas respectivas legislações tributárias estaduais. (Incluído pela Lei Complementar nº 190, de 2022) (Produção de efeitos)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2024-A.%20Os%20Estados%20e%20o%20Distrito%20Federal%20divulgar%C3%A3o%2C%20em%20portal%20pr%C3%B3prio%2C%20as%20informa%C3%A7%C3%B5es%20necess%C3%A1rias%20ao%20cumprimento%20das%20obriga%C3%A7%C3%B5es%20tribut%C3%A1rias%2C%20principais%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Para efeito de aplicação do art. 24, os débitos e créditos devem ser apurados em cada estabelecimento do sujeito passivo. Para este mesmo efeito, a lei estadual poderá determinar que se leve em conta o conjunto dos débitos e créditos de todos os estabelecimentos do sujeito passivo no Estado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2025.%20Para%20efeito%20de%20aplica%C3%A7%C3%A3o%20do%20art.%2024%2C%20os%20d%C3%A9bitos%20e%20cr%C3%A9ditos%20devem%20ser%20apurados%20em%20cada%20estabelecimento%20do%20sujeito%20passivo.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24-A",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Em substituição ao regime de apuração mencionado nos arts. 24 e 25, a lei estadual poderá estabelecer:\n\nI - que o cotejo entre créditos e débitos se faça por mercadoria ou serviço dentro de determinado período;\n\nII - que o cotejo entre créditos e débitos se faça por mercadoria ou serviço em cada operação;\n\nIII - que, em função do porte ou da atividade do estabelecimento, o imposto seja pago em parcelas periódicas e calculado por estimativa, para um determinado período, assegurado ao sujeito passivo o direito de impugná-la e instaurar processo contraditório.\n\n§ 1º Na hipótese do inciso III, ao fim do período, será feito o ajuste com base na escrituração regular do contribuinte, que pagará a diferença apurada, se positiva; caso contrário, a diferença será compensada com o pagamento referente ao período ou períodos imediatamente seguintes.\n\n§ 2º A inclusão de estabelecimento no regime de que trata o inciso III não dispensa o sujeito passivo do cumprimento de obrigações acessórias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2026.%20Em%20substitui%C3%A7%C3%A3o%20ao%20regime%20de%20apura%C3%A7%C3%A3o%20mencionado%20nos%20arts.%2024%20e%2025%2C%20a%20lei%20estadual%20poder%C3%A1%20estabelecer%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2027.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28.(VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2028.%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2029.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30.(VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2030.%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Até o exercício financeiro de 2.002, inclusive, a União entregará mensalmente recursos aos Estados e seus Municípios, obedecidos os limites, os critérios, os prazos e as demais condições fixados no Anexo desta Lei Complementar, com base no produto da arrecadação estadual efetivamente realizada do imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação no período julho de 1995 a junho de 1996, inclusive.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2031.%20At%C3%A9%20o%20exerc%C3%ADcio%20financeiro%20de%202.002%2C%20inclusive%2C%20a%20Uni%C3%A3o%20entregar%C3%A1%20mensalmente%20recursos%20aos%20Estados%20e%20seus%20Munic%C3%ADpios%2C%20obedecidos%20os%20limites%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "31-A"
+    },
+    "31-A": {
+      "numero": "31-A",
+      "texto": "Art. 31-A. Em relação aos fatos geradores ocorridos de 1º de janeiro de 2029 a 31 de dezembro de 2032, as alíquotas do imposto serão reduzidas nas seguintes proporções das alíquotas previstas nas legislações dos Estados ou do Distrito Federal, vigentes em 31 de dezembro de 2028: (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\nI - 10% (dez por cento), em 2029; (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\nII - 20% (vinte por cento), em 2030; (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\nIII - 30% (trinta por cento), em 2031; e (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\nIV - 40% (quarenta por cento), em 2032. (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 1º O disposto no caput aplica-se a todas as operações e prestações tributadas pelo imposto, inclusive: (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\nI - aos combustíveis sobre os quais a incidência ocorre uma única vez, a que se refere a Lei Complementar nº 192, de 11 de março de 2022; (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\nII - às alíquotas estabelecidas na Resolução nº 22, de 19 de maio de 1989, e na Resolução nº 13, de 25 de abril de 2012, ambas do Senado Federal. (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 2º No período de que trata o caput, os benefícios ou os incentivos fiscais ou financeiros relativos ao imposto serão reduzidos na mesma proporção da redução das alíquotas prevista nos incisos do caput. (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 3º Para os fins da aplicação do disposto no § 2º, os percentuais e outros parâmetros utilizados para calcular os benefícios ou incentivos fiscais ou financeiros relativos ao imposto serão reduzidos na mesma proporção da redução das alíquotas, em decorrência do disposto no caput deste artigo. (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 4º O disposto no § 3º não se aplica caso os benefícios ou os incentivos fiscais ou financeiros relativos ao imposto já tenham sido reduzidos proporcionalmente por força da redução das alíquotas em decorrência do disposto nos termos do caput deste artigo. (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 5º Compete ao Conselho Nacional de Política Fazendária (Confaz) estabelecer a disciplina a ser observada na hipótese a que se refere o § 3º. (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 6º Para fins do disposto no § 5º, as deliberações serão aprovadas por maioria simples dos votos. (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 7º Os benefícios e incentivos fiscais ou financeiros referidos no art. 3º da Lei Complementar nº 160, de 7 de agosto de 2017, serão reduzidos na forma deste artigo, não se aplicando a redução prevista no § 2º-A do art. 3º da referida Lei Complementar. (Incluído pela Lei Complementar nº 214, de 2025) Produção de efeitos",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2031-A.%20Em%20rela%C3%A7%C3%A3o%20aos%20fatos%20geradores%20ocorridos%20de%201%C2%BA%20de%20janeiro%20de%202029%20a%2031%20de%20dezembro%20de%202032%2C%20as%20al%C3%ADquotas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. A partir da data de publicação desta Lei Complementar:\n\nI - o imposto não incidirá sobre operações que destinem ao exterior mercadorias, inclusive produtos primários e produtos industrializados semi-elaborados, bem como sobre prestações de serviços para o exterior;\n\nII - darão direito de crédito, que não será objeto de estorno, as mercadorias entradas no estabelecimento para integração ou consumo em processo de produção de mercadorias industrializadas, inclusive semi-elaboradas, destinadas ao exterior;\n\nIII - entra em vigor o disposto no Anexo integrante desta Lei Complementar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2032.%20A%20partir%20da%20data%20de%20publica%C3%A7%C3%A3o%20desta%20Lei%20Complementar%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31-A",
+      "next": "32-A"
+    },
+    "32-A": {
+      "numero": "32-A",
+      "texto": "Art. 32-A. As operações relativas aos combustíveis, ao gás natural, à energia elétrica, às comunicações e ao transporte coletivo, para fins de incidência de imposto de que trata esta Lei Complementar, são consideradas operações de bens e serviços essenciais e indispensáveis, que não podem ser tratados como supérfluos. (Incluído pela Lei Complementar nº 194, de 2022)\n\n§ 1º Para efeito do disposto neste artigo: (Incluído pela Lei Complementar nº 194, de 2022)\n\nI - é vedada a fixação de alíquotas sobre as operações referidas no caput deste artigo em patamar superior ao das operações em geral, considerada a essencialidade dos bens e serviços; (Incluído pela Lei Complementar nº 194, de 2022)\n\nII - é facultada ao ente federativo competente a aplicação de alíquotas reduzidas em relação aos bens referidos no caput deste artigo, como forma de beneficiar os consumidores em geral; e (Incluído pela Lei Complementar nº 194, de 2022)\n\nIII - é vedada a fixação de alíquotas reduzidas de que trata o inciso II deste parágrafo, para os combustíveis, a energia elétrica e o gás natural, em percentual superior ao da alíquota vigente por ocasião da publicação deste artigo. (Incluído pela Lei Complementar nº 194, de 2022) (Revogado pela Lei Complementar nº 201, de 2023)\n\n§ 2º No que se refere aos combustíveis, a alíquota definida conforme o disposto no § 1º deste artigo servirá como limite máximo para a definição das alíquotas específicas (ad rem) a que se refere a alínea b do inciso V do caput do art. 3º da Lei Complementar nº 192, de 11 de março de 2022. (Incluído pela Lei Complementar nº 194, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2032-A.%20As%20opera%C3%A7%C3%B5es%20relativas%20aos%20combust%C3%ADveis%2C%20ao%20g%C3%A1s%20natural%2C%20%C3%A0%20energia%20el%C3%A9trica%2C%20%C3%A0s%20comunica%C3%A7%C3%B5es%20e%20ao%20transporte%20coletivo%2C%20para%20fins%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Na aplicação do art. 20 observar-se-á o seguinte:\n\nI - somente darão direito de crédito as mercadorias destinadas ao uso ou consumo do estabelecimento, nele entradas a partir de 1º de janeiro de 1998;\n\nI - somente darão direito de crédito as mercadorias destinadas ao uso ou consumo do estabelecimento, nele entradas a partir de 1º de janeiro de 2000; (Redação dada pela LCP nº 92, de 23.12.1997)\n\nI - somente darão direito de crédito as mercadorias destinadas ao uso ou consumo do estabelecimento, nele entradas a partir de 1o de janeiro de 2003; (Redação dada pela LCP nº 99, de 20.12.1999)\n\nI – somente darão direito de crédito as mercadorias destinadas ao uso ou consumo do estabelecimento, nele entradas a partir de 1o de janeiro de 2007; (Redação dada pela Lcp 114, de 16.12.2002)\n\nI - somente darão direito de crédito as mercadorias destinadas ao uso ou consumo do estabelecimento nele entradas a partir de 1o de janeiro de 2011; (Redação dada pela Lcp nº 122, de 2006)\n\nI – somente darão direito de crédito as mercadorias destinadas ao uso ou consumo do estabelecimento nele entradas a partir de 1o de janeiro de 2020; (Redação dada pela Lcp nº 138, de 2010)\n\nI – somente darão direito de crédito as mercadorias destinadas ao uso ou consumo do estabelecimento nele entradas a partir de 1º de janeiro de 2033; (Redação dada pela Lei Complementar nº 171, de 2019)\n\nII - a energia elétrica usada ou consumida no estabelecimento dará direito de crédito a partir da data da entrada desta Lei Complementar em vigor;\n\nII – somente dará direito a crédito a entrada de energia elétrica no estabelecimento: (Redação dada pela LCP nº 102, de 11.7.2000)\n\na) quando for objeto de operação de saída de energia elétrica; (Incluída pela LCP nº 102, de 11.7.2000)\n\nb) quando consumida no processo de industrialização; (Incluída pela LCP nº 102, de 11.7.2000)\n\nc) quando seu consumo resultar em operação de saída ou prestação para o exterior, na proporção destas sobre as saídas ou prestações totais; e (Incluída pela LCP nº 102, de 11.7.2000)\n\nd) a partir de 1o de janeiro de 2003, nas demais hipóteses; (Incluída pela LCP nº 102, de 11.7.2000)\n\nd) a partir de 1o de janeiro de 2007, nas demais hipóteses; (Redação dada pela Lcp 114, de 16.12.2002)\n\nd) a partir de 1o de janeiro de 2011, nas demais hipóteses; (Redação dada pela Lcp nº 122, de 2006)\n\nd) a partir de 1o de janeiro de 2020 nas demais hipóteses; (Redação dada pela Lcp nº 138, de 2010)\n\nd) a partir de 1º de janeiro de 2033, nas demais hipóteses; (Redação dada pela Lei Complementar nº 171, de 2019)\n\nIII - somente darão direito de crédito as mercadorias destinadas ao ativo permanente do estabelecimento, nele entradas a partir da data da entrada desta Lei Complementar em vigor.\n\nIV – somente dará direito a crédito o recebimento de serviços de comunicação utilizados pelo estabelecimento: (Incluído pela LCP nº 102, de 11.7.2000)\n\na) ao qual tenham sido prestados na execução de serviços da mesma natureza; (Incluída pela LCP nº 102, de 11.7.2000)\n\nb) quando sua utilização resultar em operação de saída ou prestação para o exterior, na proporção desta sobre as saídas ou prestações totais; e (Incluída pela LCP nº 102, de 11.7.2000)\n\nc) a partir de 1o de janeiro de 2003, nas demais hipóteses. (Incluída pela LCP nº 102, de 11.7.2000)\n\nc) a partir de 1o de janeiro de 2007, nas demais hipóteses. (Redação dada pela Lcp 114, de 16.12.2002)\n\nc) a partir de 1o de janeiro de 2011, nas demais hipóteses. (Redação dada pela Lcp nº 122, de 2006)\n\nc) a partir de 1o de janeiro de 2020 nas demais hipóteses. (Redação dada pela Lcp nº 138, de 2010)\n\nc) a partir de 1º de janeiro de 2033, nas demais hipóteses. (Redação dada pela Lei Complementar nº 171, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2033.%20Na%20aplica%C3%A7%C3%A3o%20do%20art.%2020%20observar-se-%C3%A1%20o%20seguinte%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32-A",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2034.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. As referências feitas aos Estados nesta Lei Complementar entendem-se feitas também ao Distrito Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2035.%20As%20refer%C3%AAncias%20feitas%20aos%20Estados%20nesta%20Lei%20Complementar%20entendem-se%20feitas%20tamb%C3%A9m%20ao%20Distrito%20Federal.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Esta Lei Complementar entra em vigor no primeiro dia do segundo mês seguinte ao da sua publicação, observado o disposto nos arts. 32 e 33 e no Anexo integrante desta Lei Complementar.\n\nBrasília, 13 de setembro de 1996; 175º da Independência e 108º da República.\n\nFERNANDO HENRIQUE CARDOSO Pedro Malan\n\nEste texto não substitui o publicado no DOU de 16.9.1996\n\nANEXO\n\n(LEI COMPLEMENTAR Nº 87, DE 13 DE SETEMBRO DE 1996.)\n\n1. A União entregará recursos aos Estados e seus Municípios, atendidos limites, critérios, prazos e demais condições fixados neste Anexo, com base no produto da arrecadação do imposto estadual sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação (ICMS), efetivamente realizada no período julho de 1995 a junho de 1996, inclusive.\n\n1.1. Do montante dos recursos que cabe a cada Estado, a União entregará, diretamente:\n\n1.1.1. ao próprio Estado, 75% (setenta e cinco por cento);\n\n1.1.2. aos seus Municípios, 25% (vinte e cinco por cento), distribuídos segundo os mesmos critérios de rateio aplicados às parcelas de receita que lhes cabem do ICMS.\n\n2. A entrega dos recursos, apurada nos termos deste Anexo, será efetuada até o exercício financeiro de 2.002, inclusive.\n\n2.1. Excepcionalmente, o prazo poderá ser estendido no caso de Estado cuja razão entre o respectivo valor previsto da entrega anual de recursos (VPE), aplicado a partir do exercício de 1998, fixado no subitem 5.8.2. e sujeito a revisão nos termos do subitem 5.8.3., e o produto de sua arrecadação de ICMS entre julho de 1995 a junho de 1996, ambos expressos a preços médios deste período, seja: (Vide LCP nº 92, de 23.12.1997) (Vide Lei nº LCP nº 99, de 1999)\n\n2.1.1. superior a 0,10 (dez centésimos) e inferior ou igual a 0,12 (doze centésimos), até o exercício financeiro de 2.003, inclusive;\n\n2.1.2. superior a 0,12 (doze centésimos) e inferior ou igual a 0,14 (quatorze centésimos), até o exercício financeiro de 2.004, inclusive;\n\n2.1.3. superior a 0,14 (quatorze centésimos) e inferior ou igual a 0,16 (dezesseis centésimos), até o exercício financeiro de 2.005, inclusive;\n\n2.1.4. superior a 0,16 (dezesseis centésimos), até o exercício financeiro de 2.006, inclusive.\n\n2.2. Fica autorizada, desde já, a adequação do disposto nas leis das diretrizes orçamentárias da União para os exercícios financeiros de 1996 e de 1997, no que couber, para que sejam financiadas e atendidas as despesas da União necessárias ao atendimento do disposto no art. 31 desta Lei Complementar, observados os limites e condições fixados neste Anexo.\n\n2.3. O Poder Executivo Federal enviará ao Congresso Nacional, no prazo de até cinco dias após publicada esta Lei Complementar, projeto de lei de abertura de crédito especial para atender as despesas com o adiantamento de que trata o item 4 e os demais recursos a serem entregues ainda no exercício financeiro de 1996.\n\n3. A periodicidade da entrega dos recursos é mensal.\n\n3.1. A apuração do montante dos recursos a serem entregues será feita mensalmente. Período de competência é o mês da apuração.\n\n3.2. A entrega de recursos a cada Unidade Federada será efetuada até o final do segundo mês subseqüente ao período de competência.\n\n3.3. O primeiro período de competência é o mês em que for publicada esta Lei Complementar.\n\n4. Até trinta dias após a data da publicação desta Lei Complementar, a União entregará ao conjunto dos Estados, a título de adiantamento, o montante de R$ 500.000.000,00 (quinhentos milhões de reais), proporcionalmente aos respectivos valores previstos da entrega anual de recursos (VPE), fixados no subitem 5.8.1. para aplicação no exercício financeiro de 1996. (Vide Lei Complementar nº 102, de 2000)\n\n4.1. Do valor do adiantamento que cabe a cada Estado, a União entregará, diretamente, 75% (setenta e cinco por cento) ao próprio Estado e 25% (vinte e cinco por cento) aos seus Municípios, nos termos do subitem 1.1.\n\n4.2. Nos primeiros doze períodos de competência, será descontado dos recursos a serem entregues mensalmente a cada Estado e a cada Município, antes de aplicado o disposto no item 9, um doze avos do respectivo valor do adiantamento, atualizado pela variação do Índice Geral de Preços, conceito Disponibilidade Interna, até o mês do período de competência. Eventual saldo remanescente será deduzido, integralmente, dos recursos a serem entregues a Unidade Federada no período ou períodos de competência imediatamente seguintes, até que seja anulado.\n\n5. A cada período de competência, o valor a ser entregue ao Estado (VE), que inclui a parcela de seus Municípios, será apurado da seguinte forma:\n\nVE = (ICMS[SF1]b x P x A) - ICMSr\n\nN\n\nsujeito a: VE < VME,\n\nsendo: VME = VPE x P x A x T\n\n12\n\n5.1. VE é o valor apurado da entrega, referente a cada período de competência.\n\n5.2. ICMSb é o produto da arrecadação do ICMS no período base, este indicado pelo subscrito b, observado que:\n\n5.2.1. nos primeiros doze períodos de competência, o período base é:\n\n5.2.1.1. no primeiro período de competência, o mesmo mês do período julho de 1995 a junho de 1996;\n\n5.2.1.2. a partir do segundo período de competência, igual ao período base anterior acrescido do mês seguinte do período julho de 1995 a junho de 1996, sendo que, no período de competência imediatamente seguinte àquele em que o mês de junho de 1996 estiver contido no período base, será incluído o mês de julho de 1995;\n\n5.2.2. a partir do décimo terceiro período de competência, o período base é julho de 1995 a junho de 1996.\n\n5.3. P é o fator de atualização, igual à razão entre o índice de preços médio do período de referência e o índice de preços médio do período base, adotando-se o Índice Geral de Preços, conceito Disponibilidade Interna (IGP-DI), apurado pela Fundação Getúlio Vargas, ou, na sua ausência, outro índice de preços de caráter nacional.\n\n5.4. A é o fator de ampliação, que será igual a 1,03 (um inteiro e três centésimos) nos exercícios financeiros de 1996 e 1997 e, nos exercícios financeiros seguintes, igual ao valor apurado da seguinte forma:\n\nA = C x E\n\n5.4.1. C é o fator de crescimento, igual a:\n\n5.4.1.1. no exercício financeiro de 1998, 1,0506 (um inteiro e quinhentos e seis décimos de milésimo);\n\n5.4.1.2. nos exercícios financeiros de 1999 e seguintes, 1,0716 (um inteiro e setecentos e dezesseis décimos de milésimo);\n\n5.4.2. E é o fator de eficiência relativa, igual a:\n\nE = 1 + DR\n\nou\n\nE = 1 + DU,\n\no que for maior\n\n5.4.2.1. DR é uma medida do desempenho da arrecadação relativamente ao dos demais Estados, cujo valor será o resultante da aplicação da seguinte fórmula:\n\nICMS/UFv ICMS/BRv\n\nICMS/UFp ICMS/BRp\n\n5.4.2.2. DU é uma medida do desempenho da arrecadação relativamente ao da União, cujo valor será o resultante da aplicação da seguinte fórmula:\n\nICMS/UFv ATU/UFv\n\nICMS/UFp ATU/UFp\n\n5.4.2.3. ICMS/UF é o produto da arrecadação de ICMS do Estado;\n\n5.4.2.4. ICMS/BR é o produto da arrecadação de ICMS do conjunto dos demais Estados;\n\n5.4.2.5. ATU/UF é o produto da arrecadação da União no Estado, abrangendo as receitas tributária e de contribuições, inclusive as vinculadas à seguridade social, e excluídas as receitas do imposto sobre operações de crédito, câmbio e seguro e, quando incidentes sobre instituições financeiras, do imposto de renda sobre pessoas jurídicas e da contribuição social sobre o lucro líquido, bem como do imposto de renda retido na fonte sobre rendimentos de capital e remessas para o exterior, da contribuição provisória sobre movimentação financeira e de outros tributos de caráter provisório que venham a ser instituídos;\n\n5.4.2.6. o período de avaliação, indicado pelo subscrito v, é:\n\n5.4.2.6.1. no período de competência janeiro de 1998, o próprio mês;\n\n5.4.2.6.2. nos demais períodos de competência do exercício de 1998, igual ao período de avaliação imediatamente anterior acrescido do mês subseqüente;\n\n5.4.2.6.3. a partir do exercício de 1999, igual ao período de competência acrescido dos onze meses imediatamente anteriores;\n\n5.4.2.7. o período padrão para a comparação, indicado pelo subscritop, é aquele formado pelos mesmos meses que compõem o período de avaliação, um ano antes deste último;\n\n5.4.2.8. os valores relativos ao período padrão para comparação (ICMS/UFp, ICMS/BRp e ATU/UFp) serão atualizados para preços médios do período de avaliação, pela variação do Índice Geral de Preços, conceito Disponibilidade Interna, da Fundação Getúlio Vargas, ou, na sua ausência, por outro índice de preços de caráter nacional.\n\n5.5. ICMSr é o produto da arrecadação do ICMS no período de referência, indicado pelo subscritor, observado que:\n\n5.5.1. nos primeiros doze períodos de competência, o período de referência é:\n\n5.5.1.1. no primeiro período de competência, o mesmo mês;\n\n5.5.1.2. a partir do segundo período de competência, igual ao período de referência imediatamente anterior acrescido do mês seguinte;\n\n5.5.2. a partir do décimo terceiro período de competência, o período de referência é igual ao período de competência acrescido dos onze meses imediatamente anteriores.\n\n5.6. T é o fator de transição, cujo valor é igual:\n\n5.6.1. a 1 (um) nos exercícios financeiros de 1996, 1997 e 1998;\n\n5.6.2. a 0,900 (novecentos milésimos), 0,775 (setecentos e setenta e cinco milésimos), 0,625 (seiscentos e vinte e cinco milésimos), 0,450 (quatrocentos e cinqüenta milésimos), respectivamente, nos exercícios financeiros de 1999, 2000, 2001 e 2002, ressalvados os casos dos Estados enquadrados no disposto:\n\n5.6.2.1. no subitem 2.1.1., em que o valor é igual a 0,900 (novecentos milésimos), 0,775 (setecentos e setenta e cinco milésimos), 0,625 (seiscentos e vinte e cinco milésimos), 0,450 (quatrocentos e cinqüenta milésimos) e 1/6 (um sexto), respectivamente, nos exercícios de 1999, 2000, 2001, 2002 e 2003;\n\n5.6.2.2. no subitem 2.1.2., em que o valor é igual a 0,900 (novecentos milésimos), 0,775 (setecentos e setenta e cinco milésimos), 0,625 (seiscentos e vinte e cinco milésimos), 0,450 (quatrocentos e cinqüenta milésimos), 2/7 (dois sétimos) e 1/7 (um sétimo), respectivamente, nos exercícios de 1999, 2000, 2001, 2002, 2003 e 2004;\n\n5.6.2.3. no subitem 2.1.3., em que o valor é igual a 0,900 (novecentos milésimos), 0,775 (setecentos e setenta e cinco milésimos), 5/8 (cinco oitavos), 4/8 (quatro oitavos), 3/8 (três oitavos), 2/8 (dois oitavos) e 1/8 (um oitavo), respectivamente, nos exercícios de 1999, 2000, 2001, 2002, 2003, 2004 e 2005;\n\n5.6.2.4. no subitem 2.1.4., caso em que o valor é igual a 0,900 (novecentos milésimos), 7/9 (sete nonos), 6/9 (seis nonos), 5/9 (cinco nonos), 4/9 (quatro nonos), 3/9 (três nonos), 2/9 (dois nonos) e 1/9 (um nono), respectivamente, nos exercícios de 1999, 2000, 2001, 2002, 2003, 2004, 2005 e 2006.\n\n5.7. N é o número de meses que compõem o período de referência.\n\n5.8. VME é o valor máximo da entrega de recursos a cada Estado, incluída a parcela de seus Municípios, resultante da multiplicação do valor previsto da entrega anual de cada Estado (VPE), dividido por doze, pelos valores dos fatores de atualização (P), ampliação (A) e transição (T), atendido o seguinte:\n\n5.8.1. nos exercícios financeiros de 1996 e 1997, o valor previsto da entrega anual de recursos (VPE), expresso a preços médios do período julho de 1995 a junho de 1996, ao conjunto das Unidades Federadas, é igual a R$ 3.600.000.000,00 (três bilhões e seiscentos milhões de reais), e o de cada Estado, incluídas as parcelas de seus Municípios, é: (Vide LCP nº 92, de 23.12.1997) (Vide LCP nº 99, de 20.12.1999)\n\nAcre\n\nR$ 5.331.274,73\n\nAlagoas\n\nR$ 48.598.880,81\n\nAmapá\n\nR$ 20.719.213,10\n\nAmazonas\n\nR$ 34.023.345,57\n\nBahia\n\nR$ 129.014.673,83\n\nCeará\n\nR$ 66.400.645,01\n\nDistrito Federal\n\nR$ 47.432.892,61\n\nEspírito Santo\n\nR$ 148.862.799,15\n\nGoiás\n\nR$ 73.335.579,92\n\nMaranhão\n\nR$ 59.783.744,19\n\nMato Grosso\n\nR$ 82.804.150,57\n\nMato Grosso do Sul\n\nR$ 62.528.891,22\n\nMinas Gerais\n\nR$ 432.956.072,19\n\nPará\n\nR$ 158.924.710,50\n\nParaíba\n\nR$ 16.818.496,99\n\nParaná\n\nR$ 352.141.201,59\n\nPernambuco\n\nR$ 81.223.637,38\n\nPiauí\n\nR$ 14.593.845,83\n\nRio Grande do Norte\n\nR$ 21.213.050,05\n\nRio Grande do Sul\n\nR$ 313.652.856,27\n\nRio de Janeiro\n\nR$ 291.799.979,19\n\nRondônia\n\nR$ 14.608.957,22\n\nRoraima\n\nR$ 2.237.772,73\n\nSanta Catarina\n\nR$ 116.297.618,94\n\nSão Paulo\n\nR$ 985.414.322,57\n\nSergipe\n\nR$ 14.670.108,64\n\nTocantins\n\nR$ 4.611.279,20;\n\n5.8.2. nos exercícios financeiros de 1998 e seguintes, o valor previsto da entrega anual de recursos (VPE), expresso a preços médios do período julho de 1995 a junho de 1996, ao conjunto das Unidades Federadas, é igual a R$ 4.400.000.000,00 (quatro bilhões e quatrocentos milhões de reais), e o de cada Estado, incluídas as parcelas de seus Municípios, é: (Vide LCP nº 92, de 23.12.1997) (Vide LCP nº 99, de 1999)\n\nAcre\n\nR$ 5.972.742,49\n\nAlagoas\n\nR$ 53.413.686,32\n\nAmapá\n\nR$ 21.516.418,81\n\nAmazonas\n\nR$ 50.234.403,21\n\nBahia\n\nR$ 165.826.967,44\n\nCeará\n\nR$ 82.950.622,96\n\nDistrito Federal\n\nR$ 58.559.486,64\n\nEspírito Santo\n\nR$ 169.650.089,02\n\nGoiás\n\nR$ 93.108.148,77\n\nMaranhão\n\nR$ 65.646.646,51\n\nMato Grosso\n\nR$ 93.328.929,22\n\nMato Grosso do Sul\n\nR$ 71.501.907,89\n\nMinas Gerais\n\nR$ 509.553.128,12\n\nPará\n\nR$ 169.977.837,01\n\nParaíba\n\nR$ 23.041.487,41\n\nParaná\n\nR$ 394.411.651,45\n\nPernambuco\n\nR$ 101.621.401,92\n\nPiauí\n\nR$ 18.568.105,75\n\nRio Grande do Norte\n\nR$ 26.396.605,37\n\nRio Grande do Sul\n\nR$ 372.052.391,48\n\nRio de Janeiro\n\nR$ 368.969.789,87\n\nRondônia\n\nR$ 17.881.807,93\n\nRoraima\n\nR$ 2.872.885,44\n\nSanta Catarina\n\nR$ 144.198.422,18\n\nSão Paulo\n\nR$ 1.293.240.592,06\n\nSergipe\n\nR$ 19.101.069,13\n\nTocantins\n\nR$ 6.402.775,60;\n\n5.8.3. o valor previsto da entrega anual de recursos (VPE) de cada Estado, fixado no subitem anterior, será revisto com base nos resultados de apuração especial a ser realizada pelo CONFAZ, conjuntamente com os Ministérios da Fazenda e do Planejamento e Orçamento, que avaliará o impacto efetivo dos créditos relativos a bens de uso e consumo próprio do estabelecimento, concedidos a partir daquele exercício, sobre o produto da arrecadação do ICMS no primeiro semestre de 1998, observado o seguinte: (Vide LCP nº 92, de 23.12.1997) (Vide LCP nº 99, de 1999)\n\n5.8.3.1. para efeito da apuração nos períodos de competência de fevereiro a agosto de 1998, o VPE correspondente ao exercício financeiro de 1998 será temporariamente elevado em 30% (trinta por cento); (Vide LCP nº 92, de 23.12.1997) (Vide LCP nº 99, de 1999)\n\n5.8.3.2. as reduções de receitas verificadas pela apuração especial serão comparadas ao produto da arrecadação efetiva de ICMS do mesmo período e os percentuais de redução aplicados à receita do imposto no período julho de 1995 a junho de 1996, obtendo-se valores que serão acrescidos ao VPE de cada Estado, relativo aos exercícios financeiros de 1996 e 1997, fixado no subitem 5.8.1.; (Vide LCP nº 92, de 23.12.1997) (Vide LCP nº 99, de 1999)\n\n5.8.3.3. o resultado do cálculo previsto no subitem anterior substituirá o VPE de cada Estado e o VPE global, de que trata o subitem 5.8.2., e será utilizado nas apurações relativas aos exercícios financeiros de 1998 e seguintes, inclusive aplicado retroativamente desde o período de competência fevereiro de 1998, sendo as diferenças apuradas acrescidas ou diminuídas dos valores a serem entregues no período ou períodos imediatamente seguintes ao final do processo de revisão. (Vide LCP nº 92, de 23.12.1997) (Vide LCP nº 99, de 1999)\n\n5.9. Respeitados os limites globais e condições estabelecidos pelo Senado Federal, fica autorizada, desde já, a emissão de títulos de responsabilidade do Tesouro Nacional e a inclusão de dotações no orçamento fiscal da União até o montante equivalente ao valor máximo anual da entrega de recursos para o conjunto das Unidades Federadas, apurado nos termos deste item para cada exercício financeiro.\n\n6. Até trinta dias após a publicação desta Lei Complementar, cada Estado poderá optar, em caráter irretratável, pela seguinte modalidade de cálculo do valor do fator de ampliação (A), relativo aos exercícios financeiros de 1998 e seguintes:\n\nA = C + F\n\n6.1. C é o fator de crescimento, fixado no subitem 5.4.1.\n\n6.2. F é o fator de estímulo ao esforço de arrecadação, apurado no primeiro período de competência de cada trimestre civil da seguinte forma:\n\nse DPIB/BR < 0 ou DICMS < (1,75 x DPIB/BR),\n\nF = 0 (zero);\n\ncaso contrário,\n\nF = (DICMS/UF) - 1,75 x (DPIB/BR)\n\n6.2.1. DPIB/BR é a taxa de variação real do Produto Interno Bruto do País, estimada e divulgada trimestralmente pela Fundação Instituto Brasileiro de Geografia e Estatística, comparando-se com igual período um ano antes:\n\n6.2.1.1. em janeiro de 1998, o valor referente ao quarto trimestre de 1997;\n\n6.2.1.2. em abril de 1998, o valor referente ao primeiro trimestre de 1998;\n\n6.2.1.3. em julho de 1998, o valor referente ao primeiro semestre de 1998;\n\n6.2.1.4. em outubro de 1998, o valor referente aos três primeiros trimestres de 1998;\n\n6.2.1.5. em janeiro de 1999, o valor referente ao ano de 1998;\n\n6.2.1.6. a partir de abril de 1999, o valor referente ao período de doze meses imediatamente anterior ao período de competência considerado;\n\n6.2.2. DICMS/UF é a taxa de variação do produto da arrecadação do ICMS do Estado entre o período de avaliação e igual período um ano antes, este expresso a preços médios do período de avaliação, mediante atualização pela variação do Índice Geral de Preços, conceito Disponibilidade Interna, da Fundação Getúlio Vargas, ou, na sua ausência, por outro índice de caráter nacional;\n\n6.2.2.2. o período de avaliação é:\n\n6.2.2.2.1. em janeiro de 1998, o mesmo mês;\n\n6.2.2.2.2. em abril de 1998, o período fevereiro a abril de 1998;\n\n6.2.2.2.3. em julho de 1998, o período fevereiro a julho de 1998;\n\n6.2.2.2.4. em outubro de 1998, o período fevereiro a outubro de 1998;\n\n6.2.2.2.5. em janeiro de 1999, o período fevereiro de 1998 a janeiro de 1999;\n\n6.2.2.2.6. a partir de abril de 1999, o período de competência considerado acrescido dos onze meses imediatamente anteriores;\n\n6.3. o valor do fator de estímulo (F) apurado no primeiro período de competência de cada trimestre aplica-se aos três períodos de competência daquele trimestre;\n\n6.4. A opção de que trata este item será comunicada pelo Poder Executivo Estadual, no devido prazo, ao Ministério da Fazenda, que a fará publicar no Diário Oficial da União.\n\n7. A cada período de competência, se o montante de recursos a ser entregue ao conjunto dos Estados, incluídas as parcelas de seus Municípios, for inferior ao valor previsto da entrega anual (VPE) global do País, fixado nos subitens 5.8.1. e 5.8.2. e sujeito à revisão de que trata o subitem 5.8.3., dividido por 12 (doze) e multiplicado pelos valores dos fatores de atualização (P) e de transição (T), a diferença poderá ser utilizada para elevar o valor máximo de entrega de recursos (VME) no caso de Estados cujos valores que seriam entregues (VE), apurados pela fórmula de cálculo prevista no item 5, superarem o seu VME.\n\n7.1. O valor global a ser utilizado na elevação dos VME dos Estados será distribuído proporcionalmente à diferença a maior em cada Estado, entre o VE, apurado pela fórmula de cálculo, e o seu VME. Fica limitado o montante de recurso a ser acrescido ao VME de cada Estado ao menor dos seguintes valores:\n\n7.1.1. 30% (trinta por cento) do correspondente VPE, fixado nos subitens 5.8.1. e 5.8.2., dividido por 12 (doze) e multiplicado pelo fator P; ou\n\n7.1.2. a diferença a maior entre VE e VME.\n\n7.2. Após definido o rateio entre os Estados do valor global a ser utilizado na elevação dos respectivos VME, a entrega dos recursos adicionais ao Estado, inclusive da parcela de seus Municípios, só ocorrerá se atendidas, cumulativamente, as seguintes condições:\n\n7.2.1. o Estado esteja enquadrado em uma das situações excepcionais previstas no subitem 2.1; e\n\n7.2.2. o Estado apresente fator de eficiência relativa (E) igual ou superior a 1 (um) no período de competência considerado, ainda que tenha optado pela aplicação da modalidade de cálculo prevista no item 6.\n\n8. Caberá ao Ministério da Fazenda processar as informações recebidas e apurar, nos termos deste Anexo, o montante a ser entregue a cada Estado, bem como os recursos a serem destinados, respectivamente, ao Governo do Estado e aos Governos dos Municípios do mesmo.\n\n8.1. Antes do início de cada exercício financeiro, o Estado comunicará ao Ministério da Fazenda os índices de participação dos respectivos Municípios no rateio da parcela do ICMS a serem aplicados no correspondente exercício, observado, ainda, o seguinte:\n\n8.1.1. os coeficientes de participação dos Municípios a serem respeitados no exercício de 1996, inclusive para efeito da destinação de parcela do adiantamento, serão comunicados pelo Estado até dez dias após a data da publicação desta Lei Complementar;\n\n8.1.2. o atraso na comunicação dos coeficientes acarretará a suspensão da entrega dos recursos ao Estado e aos respectivos Municípios, até que seja regularizada a entrega das informações.\n\n8.2. Para apuração dos valores a serem entregues a cada período de competência, o Estado enviará ao Ministério da Fazenda, até o décimo dia útil do segundo mês seguinte ao período de competência, balancete contábil mensal ou relatório resumido da execução orçamentária mensal, devidamente publicado, que deverá especificar o produto da arrecadação do ICMS, incluindo o da respectiva cota-parte municipal. (Vide Lei Complementar nº 102, de 2000)\n\n8.3. Os valores entregues pela União ao Estado, bem como aos seus Municípios, a cada exercício financeiro, serão revistos e compatibilizados com base no respectivo balanço anual, a ser enviado no prazo de até dez dias após sua publicação. Eventual diferença, após divulgada no Diário Oficial da União, será acrescida ou descontada dos recursos a serem entregues no período, ou períodos, de competência imediatamente seguintes. (Vide Lei Complementar nº 102, de 2000)\n\n8.4. O atraso na apresentação pelo Estado dos seus balancetes ou relatórios mensais, bem como do balanço anual, acarretará postecipação da entrega dos recursos para a data em que for efetuada a entrega do período de competência seguinte, desde que regularizado o fluxo de informações.\n\n8.5. Exclusivamente para efeito de apuração do valor a ser entregue aos outros Estados, fica o Ministério da Fazenda autorizado a estimar o produto da arrecadação do ICMS do Estado que não tenha enviado no devido prazo seu balancete ou relatório mensal, inclusive com base em informações levantadas pelo CONFAZ.\n\n8.6. Respeitados os mesmos prazos concedidos aos Estados, o Ministério da Fazenda deverá apurar e publicar no Diário Oficial da União a arrecadação tributária da União realizada em cada Estado, que deverá ser compatível e consistente com a arrecadação global no País constante de seus balancetes periódicos e do balanço anual.\n\n8.7. Fica o Ministério da Fazenda obrigado a publicar no Diário Oficial da União, até cinco dias úteis antes da data prevista para a efetiva entrega dos recursos, o resultado do cálculo do montante a ser entregue a cada Estado e os procedimentos utilizados na sua apuração, os quais, juntamente com o detalhamento da memória de cálculo, serão remetidos, no mesmo prazo, ao Tribunal de Contas da União, para seu conhecimento e controle.\n\n9. A forma de entrega dos recursos a cada Estado e a cada Município observará o disposto neste item.\n\n9.1. O Ministério da Fazenda informará, no mesmo prazo e condição previstos no subitem 8.7, o respectivo montante da dívida da administração direta e indireta da Unidade Federada, apurado de acordo com o definido nos subitens 9.2. e 9.3., que será deduzido do valor a ser entregue à respectiva Unidade em uma das duas formas previstas no subitem 9.4.\n\n9.2. Para efeito de entrega dos recursos à Unidade Federada, em cada período de competência e por uma das duas formas previstas no subitem 9.4., serão obrigatoriamente considerados, pela ordem e até o montante total da entrega apurada no respectivo período, os valores das seguintes dívidas:\n\n9.2.1. contraídas junto ao Tesouro Nacional pela Unidade Federada, vencidas e não pagas, computadas primeiro as da administração direta e depois as da administração indireta;\n\n9.2.2. contraídas junto ao Tesouro Nacional pela Unidade Federada, vincendas no mês seguinte àquele em que serão entregues os recursos, computadas primeiro as da administração direta e depois as da administração indireta;\n\n9.2.3. contraídas pela Unidade Federada com garantia da União, inclusive dívida externa, primeiro, as vencidas e não pagas e, depois, as vincendas no mês seguinte àquele em que serão entregues os recursos, sempre computadas inicialmente as da administração direta e posteriormente as da administração indireta;\n\n9.2.4. contraídas pela Unidade Federada junto aos demais entes da administração federal, direta e indireta, primeiro, as vencidas e não pagas e, depois, as vincendas no mês seguinte àquele em que serão entregues os recursos, sempre computadas inicialmente as da administração direta e posteriormente as da administração indireta.\n\n9.3. Para efeito do disposto no subitem 9.2.4., ato do Poder Executivo Federal poderá autorizar:\n\n9.3.1. a inclusão, como mais uma opção para efeito da entrega dos recursos, e na ordem que determinar, do valor correspondente a título da respectiva Unidade Federada na carteira da União, inclusive entes de sua administração indireta, primeiro relativamente aos valores vencidos e não pagos e, depois, aos vincendos no mês seguinte àquele em que serão entregues os recursos;\n\n9.3.2. a suspensão temporária da dedução de dívida compreendida pelo dispositivo, quando não estiverem disponíveis, no prazo devido, as necessárias informações.\n\n9.4. Os recursos a serem entregues à Unidade Federada, em cada período de competência, equivalentes ao montante das dívidas apurado na forma do subitem 9.2. e do anterior, serão satisfeitos pela União por uma das seguintes formas:\n\n9.4.1. entrega de obrigações do Tesouro Nacional, de série especial, inalienáveis, com vencimento não inferior a dez anos, remunerados por taxa igual ao custo médio das dívidas da respectiva Unidade Federada junto ao Tesouro Nacional, com poder liberatório para pagamento das referidas dívidas; ou\n\n9.4.2. correspondente compensação.\n\n9.5. Os recursos a serem entregues à Unidade Federada, em cada período de competência, equivalentes a diferença positiva entre o valor total que lhe cabe e o valor da dívida apurada nos termos dos subitens 9.2. e 9.3. e liquidada na forma do subitem anterior, serão satisfeitos através de crédito, em moeda corrente, à conta bancária do beneficiário.\n\n10. Os parâmetros utilizados no cálculo da entrega dos recursos a cada Estado de que trata este Anexo serão considerados, no que couber, para efeito da renegociação ou do refinanciamento de dívidas junto ao Tesouro Nacional.\n\n11. As referências feitas aos Estados neste Anexo entendem-se também feitas ao Distrito Federal.\n\nA N E X O (Redação dada pela LCP nº 115, de 26.12.2000)\n\n1. A entrega de recursos a que se refere o art. 31 da Lei Complementar no 87, de 13 de setembro de 1996, será realizada da seguinte forma:\n\n1.1. a União entregará aos Estados e aos seus Municípios, no exercício financeiro de 2003, o valor de até R$ 3.900.000.000,00 (três bilhões e novecentos milhões de reais), desde que respeitada a dotação consignada da Lei Orçamentária Anual da União de 2003 e eventuais créditos adicionais;\n\n1.2. nos exercícios financeiros de 2004 a 2006, a União entregará aos Estados e aos seus Municípios os montantes consignados a essa finalidade nas correspondentes Leis Orçamentárias Anuais da União;\n\n1.3. a cada mês, o valor a ser entregue aos Estados e aos seus Municípios corresponderá ao montante do saldo orçamentário existente no dia 1o, dividido pelo número de meses remanescentes no ano;\n\n1.3.1. nos meses de janeiro e fevereiro de 2003, o saldo orçamentário, para efeito do cálculo da parcela pertencente a cada Estado e a seus Municípios, segundo os coeficientes individuais de participação definidos no item 1.5 deste Anexo, corresponderá ao montante remanescente após a dedução dos valores de entrega mencionados no art. 3o desta Lei Complementar;\n\n1.3.1.1. nesses meses, a parcela pertencente aos Estados que fizerem jus ao disposto no art. 3o desta Lei Complementar corresponderá ao somatório dos montantes derivados da aplicação do referido artigo e dos coeficientes individuais de participação definidos no item 1.5 deste Anexo;\n\n1.3.2. no mês de dezembro, o valor de entrega corresponderá ao saldo orçamentário existente no dia 15.\n\n1.4. Os recursos serão entregues aos Estados e aos seus respectivos Municípios no último dia útil de cada mês.\n\n1.5. A parcela pertencente a cada Estado, incluídas as parcelas de seus Municípios, será proporcional aos seguintes coeficientes individuais de participação:\n\nAC\n\n0,09104%\n\nPB\n\n0,28750%\n\nAL\n\n0,84022%\n\nPR\n\n10,08256%\n\nAP\n\n0,40648%\n\nPE\n\n1,48565%\n\nAM\n\n1,00788%\n\nPI\n\n0,30165%\n\nBA\n\n3,71666%\n\nRJ\n\n5,86503%\n\nCE\n\n1,62881%\n\nRN\n\n0,36214%\n\nDF\n\n0,80975%\n\nRS\n\n10,04446%\n\nES\n\n4,26332%\n\nRO\n\n0,24939%\n\nGO\n\n1,33472%\n\nRR\n\n0,03824%\n\nMA\n\n1,67880%\n\nSC\n\n3,59131%\n\nMT\n\n1,94087%\n\nSP\n\n31,14180%\n\nMS\n\n1,23465%\n\nSE\n\n0,25049%\n\nMG\n\n12,90414%\n\nTO\n\n0,07873%\n\nPA\n\n4,36371%\n\nTOTAL\n\n100,00000%\n\n2. Caberá ao Ministério da Fazenda apurar o montante mensal a ser entregue aos Estados e aos seus Municípios.\n\n2.1. O Ministério da Fazenda publicará no Diário Oficial da União, até cinco dias úteis antes da data prevista para a efetiva entrega dos recursos, o resultado do cálculo do montante a ser entregue aos Estados e aos seus Municípios, o qual, juntamente com o detalhamento da memória de cálculo, será remetido, no mesmo prazo, ao Tribunal de Contas da União.\n\n2.2. Do montante dos recursos que cabe a cada Estado, a União entregará, diretamente ao próprio Estado, setenta e cinco por cento, e aos seus Municípios, vinte e cinco por cento, distribuídos segundo os mesmos critérios de rateio aplicados às parcelas de receita que lhes cabem do ICMS.\n\n2.3. Antes do início de cada exercício financeiro, o Estado comunicará ao Ministério da Fazenda os coeficientes de participação dos respectivos Municípios no rateio da parcela do ICMS a serem aplicados no correspondente exercício, observado o seguinte:\n\n2.3.1. o atraso na comunicação dos coeficientes acarretará a suspensão da transferência dos recursos ao Estado e aos respectivos Municípios até que seja regularizada a entrega das informações;\n\n2.3.1.1. os recursos em atraso e os do mês em que ocorrer o fornecimento das informações serão entregues no último dia útil do mês seguinte à regularização, se esta ocorrer após o décimo quinto dia; caso contrário, a entrega dos recursos ocorrerá no último dia útil do próprio mês da regularização.\n\n3. A forma de entrega dos recursos a cada Estado e a cada Município observará o disposto neste item.\n\n3.1. Para efeito de entrega dos recursos à unidade federada e por uma das duas formas previstas no subitem 3.3 serão obrigatoriamente considerados, pela ordem e até o montante total da entrega apurado no respectivo período, os valores das seguintes dívidas:\n\n3.1.1. contraídas junto ao Tesouro Nacional pela unidade federada vencidas e não pagas, computadas primeiro as da administração direta e depois as da administração indireta;\n\n3.1.2. contraídas pela unidade federada com garantia da União, inclusive dívida externa, vencidas e não pagas, sempre computadas inicialmente as da administração direta e posteriormente as da administração indireta;\n\n3.1.3. contraídas pela unidade federada junto aos demais entes da administração federal, direta e indireta, vencidas e não pagas, sempre computadas inicialmente as da administração direta e posteriormente as da administração indireta.\n\n3.2. Para efeito do disposto no subitem 3.1.3, ato do Poder Executivo Federal poderá autorizar:\n\n3.2.1. a inclusão, como mais uma opção para efeito da entrega dos recursos, e na ordem que determinar, do valor correspondente a título da respectiva unidade federada na carteira da União, inclusive entes de sua administração indireta, primeiro relativamente aos valores vencidos e não pagos e, depois, aos vincendos no mês seguinte àquele em que serão entregues os recursos;\n\n3.2.2. a suspensão temporária da dedução de dívida compreendida pelo subitem 3.1.3, quando não estiverem disponíveis, no prazo devido, as necessárias informações.\n\n3.3. Os recursos a serem entregues mensalmente à unidade federada, equivalentes ao montante das dívidas apurado na forma do subitem 3.1, e do anterior, serão satisfeitos pela União por uma das seguintes formas:\n\n3.3.1. entrega de obrigações do Tesouro Nacional, de série especial, inalienáveis, com vencimento não inferior a dez anos, remunerados por taxa igual ao custo médio das dívidas da respectiva unidade federada junto ao Tesouro Nacional, com poder liberatório para pagamento das referidas dívidas; ou\n\n3.3.2. correspondente compensação.\n\n3.4. Os recursos a serem entregues mensalmente à unidade federada equivalentes à diferença positiva entre o valor total que lhe cabe e o valor da dívida apurada nos termos dos subitens 3.1 e 3.2, e liquidada na forma do subitem anterior, serão satisfeitos por meio de crédito, em moeda corrente, à conta bancária do beneficiário.\n\n4. As referências deste Anexo feitas aos Estados entendem-se também feitas ao Distrito Federal.\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm#:~:text=Art.%2036.%20Esta%20Lei%20Complementar%20entra%20em%20vigor%20no%20primeiro%20dia%20do%20segundo%20m%C3%AAs%20seguinte%20ao%20da%20sua%20publica%C3%A7%C3%A3o%2C%20observado%20o%20disposto",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": null
+    }
+  }
+}

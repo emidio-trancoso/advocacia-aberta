@@ -1,0 +1,687 @@
+{
+  "_meta": {
+    "codigo": "LEF",
+    "nome": "Execução Fiscal (LEF)",
+    "lei": "Lei 6.830/1980",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm",
+    "total_artigos": 42,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º - A execução judicial para cobrança da Dívida Ativa da União, dos Estados, do Distrito Federal, dos Municípios e respectivas autarquias será regida por esta Lei e, subsidiariamente, pelo Código de Processo Civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%201%C2%BA%20-%20A%20execu%C3%A7%C3%A3o%20judicial%20para%20cobran%C3%A7a%20da%20D%C3%ADvida%20Ativa%20da%20Uni%C3%A3o%2C%20dos%20Estados%2C%20do%20Distrito%20Federal%2C%20dos%20Munic%C3%ADpios%20e%20respectivas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º - Constitui Dívida Ativa da Fazenda Pública aquela definida como tributária ou não tributária na Lei nº 4.320, de 17 de março de 1964, com as alterações posteriores, que estatui normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal.\n\n§ 1º - Qualquer valor, cuja cobrança seja atribuída por lei às entidades de que trata o artigo 1º, será considerado Dívida Ativa da Fazenda Pública.\n\n§ 2º - A Dívida Ativa da Fazenda Pública, compreendendo a tributária e a não tributária, abrange atualização monetária, juros e multa de mora e demais encargos previstos em lei ou contrato.\n\n§ 3º - A inscrição, que se constitui no ato de controle administrativo da legalidade, será feita pelo órgão competente para apurar a liquidez e certeza do crédito e suspenderá a prescrição, para todos os efeitos de direito, por 180 dias, ou até a distribuição da execução fiscal, se esta ocorrer antes de findo aquele prazo.\n\n§ 4º - A Dívida Ativa da União será apurada e inscrita na Procuradoria da Fazenda Nacional.\n\n§ 5º - O Termo de Inscrição de Dívida Ativa deverá conter:\n\nI - o nome do devedor, dos co-responsáveis e, sempre que conhecido, o domicílio ou residência de um e de outros;\n\nII - o valor originário da dívida, bem como o termo inicial e a forma de calcular os juros de mora e demais encargos previstos em lei ou contrato;\n\nIII - a origem, a natureza e o fundamento legal ou contratual da dívida;\n\nIV - a indicação, se for o caso, de estar a dívida sujeita à atualização monetária, bem como o respectivo fundamento legal e o termo inicial para o cálculo;\n\nV - a data e o número da inscrição, no Registro de Dívida Ativa; e\n\nVI - o número do processo administrativo ou do auto de infração, se neles estiver apurado o valor da dívida.\n\n§ 6º - A Certidão de Dívida Ativa conterá os mesmos elementos do Termo de Inscrição e será autenticada pela autoridade competente.\n\n§ 7º - O Termo de Inscrição e a Certidão de Dívida Ativa poderão ser preparados e numerados por processo manual, mecânico ou eletrônico.\n\n§ 8º - Até a decisão de primeira instância, a Certidão de Dívida Ativa poderá ser emendada ou substituída, assegurada ao executado a devolução do prazo para embargos.\n\n§ 9º - O prazo para a cobrança das contribuições previdenciárias continua a ser o estabelecido no artigo 144 da Lei nº 3.807, de 26 de agosto de 1960.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%202%C2%BA%20-%20Constitui%20D%C3%ADvida%20Ativa%20da%20Fazenda%20P%C3%BAblica%20aquela%20definida%20como%20tribut%C3%A1ria%20ou%20n%C3%A3o%20tribut%C3%A1ria%20na%20Lei%20n%C2%BA%204.320%2C%20de%2017",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º - A Dívida Ativa regularmente inscrita goza da presunção de certeza e liquidez.\n\nParágrafo Único - A presunção a que se refere este artigo é relativa e pode ser ilidida por prova inequívoca, a cargo do executado ou de terceiro, a quem aproveite.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%203%C2%BA%20-%20A%20D%C3%ADvida%20Ativa%20regularmente%20inscrita%20goza%20da%20presun%C3%A7%C3%A3o%20de%20certeza%20e%20liquidez.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º - A execução fiscal poderá ser promovida contra:\n\nI - o devedor;\n\nII - o fiador;\n\nIII - o espólio;\n\nIV - a massa;\n\nV - o responsável, nos termos da lei, por dívidas, tributárias ou não, de pessoas físicas ou pessoas jurídicas de direito privado; e\n\nVI - os sucessores a qualquer título.\n\n§ 1º - Ressalvado o disposto no artigo 31, o síndico, o comissário, o liquidante, o inventariante e o administrador, nos casos de falência, concordata, liquidação, inventário, insolvência ou concurso de credores, se, antes de garantidos os créditos da Fazenda Pública, alienarem ou derem em garantia quaisquer dos bens administrados, respondem, solidariamente, pelo valor desses bens.\n\n§ 2º - À Dívida Ativa da Fazenda Pública, de qualquer natureza, aplicam-se as normas relativas à responsabilidade prevista na legislação tributária, civil e comercial.\n\n§ 3º - Os responsáveis, inclusive as pessoas indicadas no § 1º deste artigo, poderão nomear bens livres e desembaraçados do devedor, tantos quantos bastem para pagar a dívida. Os bens dos responsáveis ficarão, porém, sujeitos à execução, se os do devedor forem insuficientes à satisfação da dívida.\n\n§ 4º - Aplica-se à Dívida Ativa da Fazenda Pública de natureza não tributária o disposto nos artigos 186 e 188 a 192 do Código Tributário Nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%204%C2%BA%20-%20A%20execu%C3%A7%C3%A3o%20fiscal%20poder%C3%A1%20ser%20promovida%20contra%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º - A competência para processar e julgar a execução da Dívida Ativa da Fazenda Pública exclui a de qualquer outro Juízo, inclusive o da falência, da concordata, da liquidação, da insolvência ou do inventário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%205%C2%BA%20-%20A%20compet%C3%AAncia%20para%20processar%20e%20julgar%20a%20execu%C3%A7%C3%A3o%20da%20D%C3%ADvida%20Ativa%20da%20Fazenda%20P%C3%BAblica%20exclui%20a%20de%20qualquer%20outro",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º - A petição inicial indicará apenas:\n\nI - o Juiz a quem é dirigida;\n\nII - o pedido; e\n\nIII - o requerimento para a citação.\n\n§ 1º - A petição inicial será instruída com a Certidão da Dívida Ativa, que dela fará parte integrante, como se estivesse transcrita.\n\n§ 2º - A petição inicial e a Certidão de Dívida Ativa poderão constituir um único documento, preparado inclusive por processo eletrônico.\n\n§ 3º - A produção de provas pela Fazenda Pública independe de requerimento na petição inicial.\n\n§ 4º - O valor da causa será o da dívida constante da certidão, com os encargos legais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%206%C2%BA%20-%20A%20peti%C3%A7%C3%A3o%20inicial%20indicar%C3%A1%20apenas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º - O despacho do Juiz que deferir a inicial importa em ordem para:\n\nI - citação, pelas sucessivas modalidades previstas no artigo 8º;\n\nII - penhora, se não for paga a dívida, nem garantida a execução, por meio de depósito ou fiança;\n\nII - penhora, se não for paga a dívida, nem garantida a execução, por meio de depósito, fiança ou seguro garantia; (Redação dada pela Lei nº 13.043, de 2014)\n\nIII - arresto, se o executado não tiver domicílio ou dele se ocultar;\n\nIV - registro da penhora ou do arresto, independentemente do pagamento de custas ou outras despesas, observado o disposto no artigo 14; e\n\nV - avaliação dos bens penhorados ou arrestados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%207%C2%BA%20-%20O%20despacho%20do%20Juiz%20que%20deferir%20a%20inicial%20importa%20em%20ordem%20para%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º - O executado será citado para, no prazo de 5 (cinco) dias, pagar a dívida com os juros e multa de mora e encargos indicados na Certidão de Dívida Ativa, ou garantir a execução, observadas as seguintes normas:\n\nI - a citação será feita pelo correio, com aviso de recepção, se a Fazenda Pública não a requerer por outra forma;\n\nII - a citação pelo correio considera-se feita na data da entrega da carta no endereço do executado, ou, se a data for omitida, no aviso de recepção, 10 (dez) dias após a entrega da carta à agência postal;\n\nIII - se o aviso de recepção não retornar no prazo de 15 (quinze) dias da entrega da carta à agência postal, a citação será feita por Oficial de Justiça ou por edital;\n\nIV - o edital de citação será afixado na sede do Juízo, publicado uma só vez no órgão oficial, gratuitamente, como expediente judiciário, com o prazo de 30 (trinta) dias, e conterá, apenas, a indicação da exeqüente, o nome do devedor e dos co-responsáveis, a quantia devida, a natureza da dívida, a data e o número da inscrição no Registro da Dívida Ativa, o prazo e o endereço da sede do Juízo.\n\n§ 1º - O executado ausente do País será citado por edital, com prazo de 60 (sessenta) dias.\n\n§ 2º - O despacho do Juiz, que ordenar a citação, interrompe a prescrição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%208%C2%BA%20-%20O%20executado%20ser%C3%A1%20citado%20para%2C%20no%20prazo%20de%205%20%28cinco%29%20dias%2C%20pagar%20a%20d%C3%ADvida%20com%20os%20juros%20e%20multa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º - Em garantia da execução, pelo valor da dívida, juros e multa de mora e encargos indicados na Certidão de Dívida Ativa, o executado poderá:\n\nI - efetuar depósito em dinheiro, à ordem do Juízo em estabelecimento oficial de crédito, que assegure atualização monetária;\n\nII - oferecer fiança bancária;\n\nII - oferecer fiança bancária ou seguro garantia; (Redação dada pela Lei nº 13.043, de 2014)\n\nIII - nomear bens à penhora, observada a ordem do artigo 11; ou\n\nIV - indicar à penhora bens oferecidos por terceiros e aceitos pela Fazenda Pública.\n\n§ 1º - O executado só poderá indicar e o terceiro oferecer bem imóvel à penhora com o consentimento expresso do respectivo cônjuge.\n\n§ 2º - Juntar-se-á aos autos a prova do depósito, da fiança bancária ou da penhora dos bens do executado ou de terceiros.\n\n§ 2o Juntar-se-á aos autos a prova do depósito, da fiança bancária, do seguro garantia ou da penhora dos bens do executado ou de terceiros. (Redação dada pela Lei nº 13.043, de 2014)\n\n§ 3º - A garantia da execução, por meio de depósito em dinheiro ou fiança bancária, produz os mesmos efeitos da penhora.\n\n§ 3o A garantia da execução, por meio de depósito em dinheiro, fiança bancária ou seguro garantia, produz os mesmos efeitos da penhora. (Redação dada pela Lei nº 13.043, de 2014)\n\n§ 4º - Somente o depósito em dinheiro, na forma do artigo 32, faz cessar a responsabilidade pela atualização monetária e juros de mora.\n\n§ 5º - A fiança bancária prevista no inciso II obedecerá às condições pré-estabelecidas pelo Conselho Monetário Nacional.\n\n§ 6º - O executado poderá pagar parcela da dívida, que julgar incontroversa, e garantir a execução do saldo devedor.\n\n§ 7º As garantias apresentadas na forma do inciso II do caput deste artigo somente serão liquidadas, no todo ou parcialmente, após o trânsito em julgado de decisão de mérito em desfavor do contribuinte, vedada a sua liquidação antecipada. (Incluído pela Lei nº 14.689, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%209%C2%BA%20-%20Em%20garantia%20da%20execu%C3%A7%C3%A3o%2C%20pelo%20valor%20da%20d%C3%ADvida%2C%20juros%20e%20multa%20de%20mora%20e%20encargos%20indicados%20na%20Certid%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10 - Não ocorrendo o pagamento, nem a garantia da execução de que trata o artigo 9º, a penhora poderá recair em qualquer bem do executado, exceto os que a lei declare absolutamente impenhoráveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2010%20-%20N%C3%A3o%20ocorrendo%20o%20pagamento%2C%20nem%20a%20garantia%20da%20execu%C3%A7%C3%A3o%20de%20que%20trata%20o%20artigo%209%C2%BA%2C%20a%20penhora%20poder%C3%A1%20recair",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11 - A penhora ou arresto de bens obedecerá à seguinte ordem:\n\nI - dinheiro;\n\nII - título da dívida pública, bem como título de crédito, que tenham cotação em bolsa;\n\nIII - pedras e metais preciosos;\n\nIV - imóveis;\n\nV - navios e aeronaves;\n\nVI - veículos;\n\nVII - móveis ou semoventes; e\n\nVIII - direitos e ações.\n\n§ 1º - Excepcionalmente, a penhora poderá recair sobre estabelecimento comercial, industrial ou agrícola, bem como em plantações ou edifícios em construção.\n\n§ 2º - A penhora efetuada em dinheiro será convertida no depósito de que trata o inciso I do artigo 9º.\n\n§ 3º - O Juiz ordenará a remoção do bem penhorado para depósito judicial, particular ou da Fazenda Pública exeqüente, sempre que esta o requerer, em qualquer fase do processo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2011%20-%20A%20penhora%20ou%20arresto%20de%20bens%20obedecer%C3%A1%20%C3%A0%20seguinte%20ordem%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12 - Na execução fiscal, far-se-á a intimação da penhora ao executado, mediante publicação, no órgão oficial, do ato de juntada do termo ou do auto de penhora.\n\n§ 1º - Nas Comarcas do interior dos Estados, a intimação poderá ser feita pela remessa de cópia do termo ou do auto de penhora, pelo correio, na forma estabelecida no artigo 8º, incisos I e II, para a citação.\n\n§ 2º - Se a penhora recair sobre imóvel, far-se-á a intimação ao cônjuge, observadas as normas previstas para a citação.\n\n§ 3º - Far-se-á a intimação da penhora pessoalmente ao executado se, na citação feita pelo correio, o aviso de recepção não contiver a assinatura do próprio executado, ou de seu representante legal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2012%20-%20Na%20execu%C3%A7%C3%A3o%20fiscal%2C%20far-se-%C3%A1%20a%20intima%C3%A7%C3%A3o%20da%20penhora%20ao%20executado%2C%20mediante%20publica%C3%A7%C3%A3o%2C%20no%20%C3%B3rg%C3%A3o%20oficial%2C%20do%20ato%20de%20juntada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13 - 0 termo ou auto de penhora conterá, também, a avaliação dos bens penhorados, efetuada por quem o lavrar.\n\n§ 1º - Impugnada a avaliação, pelo executado, ou pela Fazenda Pública, antes de publicado o edital de leilão, o Juiz, ouvida a outra parte, nomeará avaliador oficial para proceder a nova avaliação dos bens penhorados.\n\n§ 2º - Se não houver, na Comarca, avaliador oficial ou este não puder apresentar o laudo de avaliação no prazo de 15 (quinze) dias, será nomeada pessoa ou entidade habilitada a critério do Juiz.\n\n§ 3º - Apresentado o laudo, o Juiz decidirá de plano sobre a avaliação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2013%20-%200%20termo%20ou%20auto%20de%20penhora%20conter%C3%A1%2C%20tamb%C3%A9m%2C%20a%20avalia%C3%A7%C3%A3o%20dos%20bens%20penhorados%2C%20efetuada%20por%20quem%20o%20lavrar.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14 - 0 Oficial de Justiça entregará contrafé e cópia do termo ou do auto de penhora ou arresto, com a ordem de registro de que trata o artigo 7º, inciso IV:\n\nI - no Ofício próprio, se o bem for imóvel ou a ele equiparado;\n\nII - na repartição competente para emissão de certificado de registro, se for veículo;\n\nIII - na Junta Comercial, na Bolsa de Valores, e na sociedade comercial, se forem ações, debênture, parte beneficiária, cota ou qualquer outro título, crédito ou direito societário nominativo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2014%20-%200%20Oficial%20de%20Justi%C3%A7a%20entregar%C3%A1%20contraf%C3%A9%20e%20c%C3%B3pia%20do%20termo%20ou%20do%20auto%20de%20penhora%20ou%20arresto%2C%20com%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15 - Em qualquer fase do processo, será deferida pelo Juiz:\n\nI - ao executado, a substituição da penhora por depósito em dinheiro ou fiança bancária; e\n\nI - ao executado, a substituição da penhora por depósito em dinheiro, fiança bancária ou seguro garantia; e (Redação dada pela Lei nº 13.043, de 2014)\n\nII - à Fazenda Pública, a substituição dos bens penhorados por outros, independentemente da ordem enumerada no artigo 11, bem como o reforço da penhora insuficiente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2015%20-%20Em%20qualquer%20fase%20do%20processo%2C%20ser%C3%A1%20deferida%20pelo%20Juiz%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16 - O executado oferecerá embargos, no prazo de 30 (trinta) dias, contados:\n\nI - do depósito;\n\nII - da juntada da prova da fiança bancária;\n\nII - da juntada da prova da fiança bancária ou do seguro garantia; (Redação dada pela Lei nº 13.043, de 2014)\n\nIII - da intimação da penhora.\n\n§ 1º - Não são admissíveis embargos do executado antes de garantida a execução.\n\n§ 2º - No prazo dos embargos, o executado deverá alegar toda matéria útil à defesa, requerer provas e juntar aos autos os documentos e rol de testemunhas, até três, ou, a critério do juiz, até o dobro desse limite.\n\n§ 3º - Não será admitida reconvenção, nem compensação, e as exceções, salvo as de suspeição, incompetência e impedimentos, serão argüidas como matéria preliminar e serão processadas e julgadas com os embargos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2016%20-%20O%20executado%20oferecer%C3%A1%20embargos%2C%20no%20prazo%20de%2030%20%28trinta%29%20dias%2C%20contados%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17 - Recebidos os embargos, o Juiz mandará intimar a Fazenda, para impugná-los no prazo de 30 (trinta) dias, designando, em seguida, audiência de instrução e julgamento.\n\nParágrafo Único - Não se realizará audiência, se os embargos versarem sobre matéria de direito, ou, sendo de direito e de fato, a prova for exclusivamente documental, caso em que o Juiz proferirá a sentença no prazo de 30 (trinta) dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2017%20-%20Recebidos%20os%20embargos%2C%20o%20Juiz%20mandar%C3%A1%20intimar%20a%20Fazenda%2C%20para%20impugn%C3%A1-los%20no%20prazo%20de%2030%20%28trinta%29%20dias%2C%20designando%2C%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18 - Caso não sejam oferecidos os embargos, a Fazenda Pública manifestar-se-á sobre a garantia da execução.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2018%20-%20Caso%20n%C3%A3o%20sejam%20oferecidos%20os%20embargos%2C%20a%20Fazenda%20P%C3%BAblica%20manifestar-se-%C3%A1%20sobre%20a%20garantia%20da%20execu%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19 - Não sendo embargada a execução ou sendo rejeitados os embargos, no caso de garantia prestada por terceiro, será este intimado, sob pena de contra ele prosseguir a execução nos próprios autos, para, no prazo de 15 (quinze) dias:\n\nI - remir o bem, se a garantia for real; ou\n\nII - pagar o valor da dívida, juros e multa de mora e demais encargos, indicados na Certidão de Divida Ativa pelos quais se obrigou se a garantia for fidejussória.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2019%20-%20N%C3%A3o%20sendo%20embargada%20a%20execu%C3%A7%C3%A3o%20ou%20sendo%20rejeitados%20os%20embargos%2C%20no%20caso%20de%20garantia%20prestada%20por%20terceiro%2C%20ser%C3%A1%20este",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20 - Na execução por carta, os embargos do executado serão oferecidos no Juízo deprecado, que os remeterá ao Juízo deprecante, para instrução e julgamento.\n\nParágrafo Único - Quando os embargos tiverem por objeto vícios ou irregularidades de atos do próprio Juízo deprecado, caber-lhe -á unicamente o julgamento dessa matéria.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2020%20-%20Na%20execu%C3%A7%C3%A3o%20por%20carta%2C%20os%20embargos%20do%20executado%20ser%C3%A3o%20oferecidos%20no%20Ju%C3%ADzo%20deprecado%2C%20que%20os%20remeter%C3%A1%20ao%20Ju%C3%ADzo%20deprecante%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21 - Na hipótese de alienação antecipada dos bens penhorados, o produto será depositado em garantia da execução, nos termos previstos no artigo 9º, inciso I.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2021%20-%20Na%20hip%C3%B3tese%20de%20aliena%C3%A7%C3%A3o%20antecipada%20dos%20bens%20penhorados%2C%20o%20produto%20ser%C3%A1%20depositado%20em%20garantia%20da%20execu%C3%A7%C3%A3o%2C%20nos%20termos%20previstos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22 - A arrematação será precedida de edital, afixado no local de costume, na sede do Juízo, e publicado em resumo, uma só vez, gratuitamente, como expediente judiciário, no órgão oficial.\n\n§ 1º - O prazo entre as datas de publicação do edital e do leilão não poderá ser superior a 30 (trinta), nem inferior a 10 (dez) dias.\n\n§ 2º - O representante judicial da Fazenda Pública, será intimado, pessoalmente, da realização do leilão, com a antecedência prevista no parágrafo anterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2022%20-%20A%20arremata%C3%A7%C3%A3o%20ser%C3%A1%20precedida%20de%20edital%2C%20afixado%20no%20local%20de%20costume%2C%20na%20sede%20do%20Ju%C3%ADzo%2C%20e%20publicado%20em%20resumo%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23 - A alienação de quaisquer bens penhorados será feita em leilão público, no lugar designado pelo Juiz.\n\n§ 1º - A Fazenda Pública e o executado poderão requerer que os bens sejam leiloados englobadamente ou em lotes que indicarem.\n\n§ 2º - Cabe ao arrematante o pagamento da comissão do leiloeiro e demais despesas indicadas no edital.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2023%20-%20A%20aliena%C3%A7%C3%A3o%20de%20quaisquer%20bens%20penhorados%20ser%C3%A1%20feita%20em%20leil%C3%A3o%20p%C3%BAblico%2C%20no%20lugar%20designado%20pelo%20Juiz.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24 - A Fazenda Pública poderá adjudicar os bens penhorados:\n\nI - antes do leilão, pelo preço da avaliação, se a execução não for embargada ou se rejeitados os embargos;\n\nII - findo o leilão:\n\na) se não houver licitante, pelo preço da avaliação;\n\nb) havendo licitantes, com preferência, em igualdade de condições com a melhor oferta, no prazo de 30 (trinta) dias.\n\nParágrafo Único - Se o preço da avaliação ou o valor da melhor oferta for superior ao dos créditos da Fazenda Pública, a adjudicação somente será deferida pelo Juiz se a diferença for depositada, pela exeqüente, à ordem do Juízo, no prazo de 30 (trinta) dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2024%20-%20A%20Fazenda%20P%C3%BAblica%20poder%C3%A1%20adjudicar%20os%20bens%20penhorados%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25 - Na execução fiscal, qualquer intimação ao representante judicial da Fazenda Pública será feita pessoalmente.\n\nParágrafo Único - A intimação de que trata este artigo poderá ser feita mediante vista dos autos, com imediata remessa ao representante judicial da Fazenda Pública, pelo cartório ou secretaria.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2025%20-%20Na%20execu%C3%A7%C3%A3o%20fiscal%2C%20qualquer%20intima%C3%A7%C3%A3o%20ao%20representante%20judicial%20da%20Fazenda%20P%C3%BAblica%20ser%C3%A1%20feita%20pessoalmente.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26 - Se, antes da decisão de primeira instância, a inscrição de Divida Ativa for, a qualquer título, cancelada, a execução fiscal será extinta, sem qualquer ônus para as partes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2026%20-%20Se%2C%20antes%20da%20decis%C3%A3o%20de%20primeira%20inst%C3%A2ncia%2C%20a%20inscri%C3%A7%C3%A3o%20de%20Divida%20Ativa%20for%2C%20a%20qualquer%20t%C3%ADtulo%2C%20cancelada%2C%20a%20execu%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27 - As publicações de atos processuais poderão ser feitas resumidamente ou reunir num só texto os de diferentes processos.\n\nParágrafo Único - As publicações farão sempre referência ao número do processo no respectivo Juízo e ao número da correspondente inscrição de Dívida Ativa, bem como ao nome das partes e de seus advogados, suficientes para a sua identificação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2027%20-%20As%20publica%C3%A7%C3%B5es%20de%20atos%20processuais%20poder%C3%A3o%20ser%20feitas%20resumidamente%20ou%20reunir%20num%20s%C3%B3%20texto%20os%20de%20diferentes%20processos.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28 - O Juiz, a requerimento das partes, poderá, por conveniência da unidade da garantia da execução, ordenar a reunião de processos contra o mesmo devedor.\n\nParágrafo Único - Na hipótese deste artigo, os processos serão redistribuídos ao Juízo da primeira distribuição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2028%20-%20O%20Juiz%2C%20a%20requerimento%20das%20partes%2C%20poder%C3%A1%2C%20por%20conveni%C3%AAncia%20da%20unidade%20da%20garantia%20da%20execu%C3%A7%C3%A3o%2C%20ordenar%20a%20reuni%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29 - A cobrança judicial da Dívida Ativa da Fazenda Pública não é sujeita a concurso de credores ou habilitação em falência, concordata, liquidação, inventário ou arrolamento. (Vide ADPF 357)\n\nParágrafo Único - O concurso de preferência somente se verifica entre pessoas jurídicas de direito público, na seguinte ordem: (Vide ADPF 357)\n\nI - União e suas autarquias; (Vide ADPF 357)\n\nII - Estados, Distrito Federal e Territórios e suas autarquias, conjuntamente e pro rata; (Vide ADPF 357)\n\nIII - Municípios e suas autarquias, conjuntamente e pro rata. (Vide ADPF 357)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2029%20-%20A%20cobran%C3%A7a%20judicial%20da%20D%C3%ADvida%20Ativa%20da%20Fazenda%20P%C3%BAblica%20n%C3%A3o%20%C3%A9%20sujeita%20a%20concurso%20de%20credores%20ou%20habilita%C3%A7%C3%A3o%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30 - Sem prejuízo dos privilégios especiais sobre determinados bens, que sejam previstos em lei, responde pelo pagamento da Divida Ativa da Fazenda Pública a totalidade dos bens e das rendas, de qualquer origem ou natureza, do sujeito passivo, seu espólio ou sua massa, inclusive os gravados por ônus real ou cláusula de inalienabilidade ou impenhorabilidade, seja qual for a data da constituição do ônus ou da cláusula, excetuados unicamente os bens e rendas que a lei declara absolutamente impenhoráveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2030%20-%20Sem%20preju%C3%ADzo%20dos%20privil%C3%A9gios%20especiais%20sobre%20determinados%20bens%2C%20que%20sejam%20previstos%20em%20lei%2C%20responde%20pelo%20pagamento%20da%20Divida%20Ativa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31 - Nos processos de falência, concordata, liquidação, inventário, arrolamento ou concurso de credores, nenhuma alienação será judicialmente autorizada sem a prova de quitação da Dívida Ativa ou a concordância da Fazenda Pública.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2031%20-%20Nos%20processos%20de%20fal%C3%AAncia%2C%20concordata%2C%20liquida%C3%A7%C3%A3o%2C%20invent%C3%A1rio%2C%20arrolamento%20ou%20concurso%20de%20credores%2C%20nenhuma%20aliena%C3%A7%C3%A3o%20ser%C3%A1%20judicialmente%20autorizada%20sem%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32 - Os depósitos judiciais em dinheiro serão obrigatoriamente feitos:\n\nI - na Caixa Econômica Federal, de acordo com o Decreto-lei nº 1.737, de 20 de dezembro de 1979, quando relacionados com a execução fiscal proposta pela União ou suas autarquias;\n\nII - na Caixa Econômica ou no banco oficial da unidade federativa ou, à sua falta, na Caixa Econômica Federal, quando relacionados com execução fiscal proposta pelo Estado, Distrito Federal, Municípios e suas autarquias.\n\n§ 1º - Os depósitos de que trata este artigo estão sujeitos à atualização monetária, segundo os índices estabelecidos para os débitos tributários federais.\n\n§ 2º - Após o trânsito em julgado da decisão, o depósito, monetariamente atualizado, será devolvido ao depositante ou entregue à Fazenda Pública, mediante ordem do Juízo competente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2032%20-%20Os%20dep%C3%B3sitos%20judiciais%20em%20dinheiro%20ser%C3%A3o%20obrigatoriamente%20feitos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33 - O Juízo, do Oficio, comunicará à repartição competente da Fazenda Pública, para fins de averbação no Registro da Dívida Ativa, a decisão final, transitada em julgado, que der por improcedente a execução, total ou parcialmente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2033%20-%20O%20Ju%C3%ADzo%2C%20do%20Oficio%2C%20comunicar%C3%A1%20%C3%A0%20reparti%C3%A7%C3%A3o%20competente%20da%20Fazenda%20P%C3%BAblica%2C%20para%20fins%20de%20averba%C3%A7%C3%A3o%20no%20Registro%20da%20D%C3%ADvida",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34 - Das sentenças de primeira instância proferidas em execuções de valor igual ou inferior a 50 (cinqüenta) Obrigações Reajustáveis do Tesouro Nacional - ORTN, só se admitirão embargos infringentes e de declaração.\n\n§ 1º - Para os efeitos deste artigo considerar-se-á o valor da dívida monetariamente atualizado e acrescido de multa e juros de mora e de mais encargos legais, na data da distribuição.\n\n§ 2º - Os embargos infringentes, instruídos, ou não, com documentos novos, serão deduzidos, no prazo de 10 (dez) dias perante o mesmo Juízo, em petição fundamentada.\n\n§ 3º - Ouvido o embargado, no prazo de 10 (dez) dias, serão os autos conclusos ao Juiz, que, dentro de 20 (vinte) dias, os rejeitará ou reformará a sentença.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2034%20-%20Das%20senten%C3%A7as%20de%20primeira%20inst%C3%A2ncia%20proferidas%20em%20execu%C3%A7%C3%B5es%20de%20valor%20igual%20ou%20inferior%20a%2050%20%28cinq%C3%BCenta%29%20Obriga%C3%A7%C3%B5es%20Reajust%C3%A1veis%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35 - Nos processos regulados por esta Lei, poderá ser dispensada a audiência de revisor, no julgamento das apelações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2035%20-%20Nos%20processos%20regulados%20por%20esta%20Lei%2C%20poder%C3%A1%20ser%20dispensada%20a%20audi%C3%AAncia%20de%20revisor%2C%20no%20julgamento%20das%20apela%C3%A7%C3%B5es.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36 - Compete à Fazenda Pública baixar normas sobre o recolhimento da Dívida Ativa respectiva, em Juízo ou fora dele, e aprovar, inclusive, os modelos de documentos de arrecadação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2036%20-%20Compete%20%C3%A0%20Fazenda%20P%C3%BAblica%20baixar%20normas%20sobre%20o%20recolhimento%20da%20D%C3%ADvida%20Ativa%20respectiva%2C%20em%20Ju%C3%ADzo%20ou%20fora%20dele%2C%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37 - O Auxiliar de Justiça que, por ação ou omissão, culposa ou dolosa, prejudicar a execução, será responsabilizado, civil, penal e administrativamente.\n\nParágrafo Único - O Oficial de Justiça deverá efetuar, em 10 (dez) dias, as diligências que lhe forem ordenadas, salvo motivo de força maior devidamente justificado perante o Juízo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2037%20-%20O%20Auxiliar%20de%20Justi%C3%A7a%20que%2C%20por%20a%C3%A7%C3%A3o%20ou%20omiss%C3%A3o%2C%20culposa%20ou%20dolosa%2C%20prejudicar%20a%20execu%C3%A7%C3%A3o%2C%20ser%C3%A1%20responsabilizado%2C%20civil%2C%20penal",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38 - A discussão judicial da Dívida Ativa da Fazenda Pública só é admissível em execução, na forma desta Lei, salvo as hipóteses de mandado de segurança, ação de repetição do indébito ou ação anulatória do ato declarativo da dívida, esta precedida do depósito preparatório do valor do débito, monetariamente corrigido e acrescido dos juros e multa de mora e demais encargos.\n\nParágrafo Único - A propositura, pelo contribuinte, da ação prevista neste artigo importa em renúncia ao poder de recorrer na esfera administrativa e desistência do recurso acaso interposto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2038%20-%20A%20discuss%C3%A3o%20judicial%20da%20D%C3%ADvida%20Ativa%20da%20Fazenda%20P%C3%BAblica%20s%C3%B3%20%C3%A9%20admiss%C3%ADvel%20em%20execu%C3%A7%C3%A3o%2C%20na%20forma%20desta%20Lei%2C%20salvo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39 - A Fazenda Pública não está sujeita ao pagamento de custas e emolumentos. A prática dos atos judiciais de seu interesse independerá de preparo ou de prévio depósito.\n\nParágrafo Único - Se vencida, a Fazenda Pública ressarcirá o valor das despesas feitas pela parte contrária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2039%20-%20A%20Fazenda%20P%C3%BAblica%20n%C3%A3o%20est%C3%A1%20sujeita%20ao%20pagamento%20de%20custas%20e%20emolumentos.%20A%20pr%C3%A1tica%20dos%20atos%20judiciais%20de%20seu",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40 - O Juiz suspenderá o curso da execução, enquanto não for localizado o devedor ou encontrados bens sobre os quais possa recair a penhora, e, nesses casos, não correrá o prazo de prescrição.\n\n§ 1º - Suspenso o curso da execução, será aberta vista dos autos ao representante judicial da Fazenda Pública.\n\n§ 2º - Decorrido o prazo máximo de 1 (um) ano, sem que seja localizado o devedor ou encontrados bens penhoráveis, o Juiz ordenará o arquivamento dos autos.\n\n§ 3º - Encontrados que sejam, a qualquer tempo, o devedor ou os bens, serão desarquivados os autos para prosseguimento da execução.\n\n§ 4o Se da decisão que ordenar o arquivamento tiver decorrido o prazo prescricional, o juiz, depois de ouvida a Fazenda Pública, poderá, de ofício, reconhecer a prescrição intercorrente e decretá-la de imediato. (Incluído pela Lei nº 11.051, de 2004)\n\n§ 5o A manifestação prévia da Fazenda Pública prevista no § 4o deste artigo será dispensada no caso de cobranças judiciais cujo valor seja inferior ao mínimo fixado por ato do Ministro de Estado da Fazenda. (Incluído pela Lei nº 11.960, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2040%20-%20O%20Juiz%20suspender%C3%A1%20o%20curso%20da%20execu%C3%A7%C3%A3o%2C%20enquanto%20n%C3%A3o%20for%20localizado%20o%20devedor%20ou%20encontrados%20bens%20sobre%20os%20quais",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41 - O processo administrativo correspondente à inscrição de Dívida Ativa, à execução fiscal ou à ação proposta contra a Fazenda Pública será mantido na repartição competente, dele se extraindo as cópias autenticadas ou certidões, que forem requeridas pelas partes ou requisitadas pelo Juiz ou pelo Ministério Público.\n\nParágrafo Único - Mediante requisição do Juiz à repartição competente, com dia e hora previamente marcados, poderá o processo administrativo ser exibido na sede do Juízo, pelo funcionário para esse fim designado, lavrando o serventuário termo da ocorrência, com indicação, se for o caso, das peças a serem trasladadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2041%20-%20O%20processo%20administrativo%20correspondente%20%C3%A0%20inscri%C3%A7%C3%A3o%20de%20D%C3%ADvida%20Ativa%2C%20%C3%A0%20execu%C3%A7%C3%A3o%20fiscal%20ou%20%C3%A0%20a%C3%A7%C3%A3o%20proposta%20contra%20a%20Fazenda",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42 - Revogadas as disposições em contrário, esta Lei entrará em vigor 90 (noventa) dias após a data de sua publicação.\n\nBrasília, 22 de setembro de 1980; 159º da Independência e 92º da República.\n\nJOÃO FIGUEIREDO Ibrahim Abi-Ackel Ernane Galvêas Hélio Beltrão\n\nEste texto não substitui o publicado no DOU de 24.9.1980\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm#:~:text=Art.%2042%20-%20Revogadas%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio%2C%20esta%20Lei%20entrar%C3%A1%20em%20vigor%2090%20%28noventa%29%20dias%20ap%C3%B3s%20a%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": null
+    }
+  }
+}

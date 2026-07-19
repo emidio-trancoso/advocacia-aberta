@@ -1,0 +1,1071 @@
+{
+  "_meta": {
+    "codigo": "L10522",
+    "nome": "CADIN – Cadastro Informativo de Créditos não Quitados",
+    "lei": "Lei 10.522/2002",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm",
+    "total_artigos": 66,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o O Cadastro Informativo de créditos não quitados do setor público federal (Cadin) passa a ser regulado por esta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%201o%20O%20Cadastro%20Informativo%20de%20cr%C3%A9ditos%20n%C3%A3o%20quitados%20do%20setor%20p%C3%BAblico%20federal%20%28Cadin%29%20passa%20a%20ser%20regulado%20por%20esta%20Lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o O Cadin conterá relação das pessoas físicas e jurídicas que:\n\nI - sejam responsáveis por obrigações pecuniárias vencidas e não pagas, para com órgãos e entidadesda Administração Pública Federal, direta e indireta;\n\nII - estejam com a inscrição nos cadastros indicados, do Ministério da Fazenda, em uma das seguintes situações:\n\na) cancelada no Cadastro de Pessoas Físicas – CPF; (Redação dada pela Lei nº 11.941, de 2009)\n\nb) declarada inapta perante o Cadastro Geral de Contribuintes – CGC.\n\nIII – estejam inscritas na dívida dos Estados, do Distrito Federal e dos Municípios, conforme convênio firmado com a União, representada pela Procuradoria-Geral da Fazenda Nacional, nesse sentido; (Incluído pela Lei nº 14.973, de 2024)\n\nIV – estejam inscritas na dívida ativa de autarquias profissionais e conselhos de classe; (Incluído pela Lei nº 14.973, de 2024)\n\nV – estejam irregulares perante o Fundo de Garantia do Tempo de Serviço (FGTS). (Incluído pela Lei nº 14.973, de 2024)\n\nVI - sejam enquadradas como devedores contumazes, na forma da legislação específica. (Incluído pela Lei Complementar nº 225, de 2026)\n\n§ 1o Os órgãos e as entidades a que se refere o inciso I procederão, segundo normas próprias e sob sua exclusiva responsabilidade, às inclusões no Cadin, de pessoas físicas ou jurídicas que se enquadrem nas hipóteses previstas neste artigo.\n\n§ 2º A inclusão no Cadin far-se-á em até 30 (trinta) dias após a comunicação ao devedor da existência do débito passível de inscrição naquele Cadastro, fornecendo-se todas as informações pertinentes ao débito. (Redação dada pela Lei nº 14.973, de 2024)\n\n§ 3o Tratando-se de comunicação expedida por via postal ou telegráfica, para o endereço indicado no instrumento que deu origem ao débito, considerar-se-á entregue após 15 (quinze) dias da respectiva expedição.\n\n§ 4o A notificação expedida pela Secretaria da Receita Federal do Brasil, pela Procuradoria-Geral da Fazenda Nacional ou pela Procuradoria-Geral Federal, dando conhecimento ao devedor da existência do débito ou da sua inscrição em Dívida Ativa atenderá ao disposto no § 2o deste artigo. (Redação dada pela Lei nº 11.941, de 2009)\n\n§ 5o Comprovado ter sido regularizada a situação que deu causa à inclusão no Cadin, o órgão ou a entidade responsável pelo registro procederá, no prazo de 5 (cinco) dias úteis, à respectiva baixa.\n\n§ 6o Na impossibilidade de a baixa ser efetuada no prazo indicado no § 5o, o órgão ou a entidade credora fornecerá a certidão de regularidade do débito, caso não haja outros pendentes de regularização.\n\n§ 7o A inclusão no Cadin sem a expedição da comunicação ou da notificação de que tratam os §§ 2o e 4o, ou a não exclusão, nas condições e no prazo previstos no § 5o, sujeitará o responsável às penalidades cominadas pela Lei no 8.112, de 11 de dezembro de 1990, e pelo Decreto-Lei no 5.452, de 1o de maio de 1943 (Consolidação das Leis do Trabalho).\n\n§ 8o O disposto neste artigo não se aplica aos débitos referentes a preços de serviços públicos ou a operações financeiras que não envolvam recursos orçamentários.\n\n§ 9º Convênio entre a União, representada pela Procuradoria-Geral da Fazenda Nacional, e os titulares dos créditos previstos nos incisos III e IV do caput deste artigo poderá estabelecer regras de cooperação que favoreçam a recuperação desses ativos. (Incluído pela Lei nº 14.973, de 2024)\n\n§ 10. Os Estados, o Distrito Federal e os Municípios informarão ao Ministério da Fazenda a inclusão e a exclusão do contribuinte da condição de devedor contumaz, para fins de registro da informação no Cadin. (Incluído pela Lei Complementar nº 225, de 2026)\n\n§ 11. A União adotará ações com vistas a garantir a integração, a sincronização e o compartilhamento obrigatório, gratuito e tempestivo dos dados de que trata o § 10 deste artigo. (Incluído pela Lei Complementar nº 225, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%202o%20O%20Cadin%20conter%C3%A1%20rela%C3%A7%C3%A3o%20das%20pessoas%20f%C3%ADsicas%20e%20jur%C3%ADdicas%20que%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º As informações fornecidas pelos órgãos e pelas entidades integrantes do Cadin serão centralizadas em um sistema de informações gerido pela Procuradoria-Geral da Fazenda Nacional, e será de sua atribuição a expedição de orientações de natureza normativa, inclusive quanto ao disciplinamento das respectivas inclusões e exclusões no sistema. (Redação dada pela Lei nº 14.195, de 2021)\n\nParágrafo único. As pessoas físicas e jurídicas incluídas no Cadin terão acesso às informações a elas referentes, diretamente junto ao órgão ou entidade responsável pelo registro, ou, mediante autorização, por intermédio de qualquer outro órgão ou entidade integrante do Cadin",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%203%C2%BA%20As%20informa%C3%A7%C3%B5es%20fornecidas%20pelos%20%C3%B3rg%C3%A3os%20e%20pelas%20entidades%20integrantes%20do%20Cadin%20ser%C3%A3o%20centralizadas%20em%20um%20sistema%20de%20informa%C3%A7%C3%B5es%20gerido%20pela",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o A inexistência de registro no Cadin não implica reconhecimento de regularidade de situação, nem elide a apresentação dos documentos exigidos em lei, decreto ou demais atos normativos.\n\n§ 1o No caso de operações de crédito contratadas por instituições financeiras, no âmbito de programas oficiais de apoio à microempresa e empresa de pequeno porte, ficam as mutuárias, no caso de não estarem inscritas no Cadin, dispensadas da apresentação, inclusive aos cartórios, quando do registro dos instrumentos de crédito e respectivas garantias, de quaisquer certidões exigidas em lei, decreto ou demais atos normativos, comprobatórias da quitação de quaisquer tributos e contribuições federais.\n\n§ 2º O disposto no § 1º deste artigo aplica-se: (Redação dada pela Lei nº 14.690, de 2023)\n\nI - aos mini e pequenos produtores rurais; (Incluído pela Lei nº 14.690, de 2023)\n\nII - aos agricultores familiares, aos empreendedores familiares rurais e aos demais beneficiários da Política Nacional da Agricultura Familiar e Empreendimentos Familiares Rurais, bem como às cooperativas e associações da agricultura familiar de que trata o § 4º do art. 3º da Lei nº 11.326, de 24 de julho de 2006; e (Incluído pela Lei nº 14.690, de 2023)\n\nIII - às pessoas naturais que exerçam atividade econômica e que aufiram, em cada ano-calendário, receita ou renda bruta igual ou inferior à máxima permitida para enquadramento como empresas de pequeno porte nos termos do inciso II do caput do art. 3º da Lei Complementar nº 123, de 14 de dezembro de 2006. (Incluído pela Lei nº 14.690, de 2023)\n\n§ 3º A dispensa de que trata o § 1º deste artigo terá validade de 60 (sessenta) dias contados da data da consulta de inexistência de registro no Cadin. (Redação dada pela Lei nº 14.973, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%204o%20A%20inexist%C3%AAncia%20de%20registro%20no%20Cadin%20n%C3%A3o%20implica%20reconhecimento%20de%20regularidade%20de%20situa%C3%A7%C3%A3o%2C%20nem%20elide%20a%20apresenta%C3%A7%C3%A3o%20dos%20documentos%20exigidos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o O Cadin conterá as seguintes informações:\n\nI - nome e número de inscrição no Cadastro Geral de Contribuintes – CGC ou no Cadastro de Pessoas Físicas – CPF, do responsável pelas obrigações de que trata o art. 2o, inciso I;\n\nII - nome e outros dados identificadores das pessoas jurídicas ou físicas que estejam na situação prevista no art. 2o, inciso II, inclusive a indicação do número da inscrição suspensa ou cancelada;\n\nIII - nome e número de inscrição no Cadastro Geral de Contribuintes – CGC, endereço e telefone do respectivo credor ou do órgão responsável pela inclusão;\n\nIV - data do registro.\n\nParágrafo único. Cada órgão ou entidade a que se refere o inciso I do art. 2o manterá, sob sua responsabilidade, cadastro contendo informações detalhadas sobre as operações ou situações que tenham registrado no Cadin, inclusive para atender ao que dispõe o parágrafo único do art. 3o.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%205o%20O%20Cadin%20conter%C3%A1%20as%20seguintes%20informa%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o É obrigatória a consulta prévia ao Cadin, pelos órgãos e entidades da Administração Pública Federal, direta e indireta, para: (Vide Medida Provisória nº 958, de 2020) (Vide Lei nº 13.999, de 2020) (Vide Medida Provisória nº 975, de 2020). (Vide Medida Provisória nº 1.028, de 2021). (Vide Lei nº 14.179, de 2021) (Vide Lei nº 14.690, de 2023) (Vide Medida Provisória nº 1.259, de 2024)\n\nI - realização de operações de crédito que envolvam a utilização de recursos públicos;\n\nII - concessão de incentivos fiscais e financeiros;\n\nIII - celebração de convênios, acordos, ajustes ou contratos que envolvam desembolso, a qualquer título, de recursos públicos, e respectivos aditamentos.\n\nParágrafo único. O disposto neste artigo não se aplica:\n\nI - à concessão de auxílios a Municípios atingidos por calamidade pública reconhecida pelo Governo Federal;\n\nII - às operações destinadas à composição e regularização dos créditos e obrigações objeto de registro no Cadin, sem desembolso de recursos por parte do órgão ou entidade credora;\n\nIII - às operações relativas ao crédito educativo e ao penhor civil de bens de uso pessoal ou doméstico.\n\nArt. 6º-A. A existência de registro no Cadin, quando da consulta prévia de que trata o art. 6º, constitui fator impeditivo para a realização de qualquer dos atos previstos nos incisos I, II e III do caput do art. 6º. (Incluído pela Lei nº 14.973, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%206o%20%C3%89%20obrigat%C3%B3ria%20a%20consulta%20pr%C3%A9via%20ao%20Cadin%2C%20pelos%20%C3%B3rg%C3%A3os%20e%20entidades%20da%20Administra%C3%A7%C3%A3o%20P%C3%BAblica%20Federal%2C%20direta%20e%20indireta%2C%20para%3A%20%28Vide",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o Será suspenso o registro no Cadin quando o devedor comprove que:\n\nI - tenha ajuizado ação, com o objetivo de discutir a natureza da obrigação ou o seu valor, com o oferecimento de garantia idônea e suficiente ao Juízo, na forma da lei;\n\nII - esteja suspensa a exigibilidade do crédito objeto do registro, nos termos da lei.\n\nArt. 7º-A. No caso de estado de calamidade pública reconhecido pelo governo federal, o Procurador-Geral da Fazenda Nacional e o Procurador-Geral Federal, nos limites de suas competências, poderão, em favor das pessoas físicas e jurídicas domiciliadas em área atingida: (Incluído pela Lei nº 14.973, de 2024)\n\nI – suspender os prazos de inclusão de novos registros no Cadin; (Incluído pela Lei nº 14.973, de 2024)\n\nII – prorrogar a dispensa de que trata o § 3º do art. 4º; (Incluído pela Lei nº 14.973, de 2024)\n\nIII – dispensar, nos termos do art. 6º, a consulta prévia ao Cadin em relação a auxílios e financiamentos relacionados aos esforços de superação da crise. (Incluído pela Lei nº 14.973, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%207o%20Ser%C3%A1%20suspenso%20o%20registro%20no%20Cadin%20quando%20o%20devedor%20comprove%20que%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o A não-observância do disposto no § 1o do art. 2o e nos arts. 6o e 7o desta Lei sujeita os responsáveis às sanções da Lei no 8.112, de 1990, e do Decreto-Lei no 5.452, de 1943.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%208o%20A%20n%C3%A3o-observ%C3%A2ncia%20do%20disposto%20no%20%C2%A7%201o%20do%20art.%202o%20e%20nos%20arts.%206o%20e%207o%20desta%20Lei%20sujeita%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o Fica suspensa, até 31 de dezembro de 1999, a aplicação do disposto no caput do art. 22, e no seu § 2o, do Decreto-Lei no 147, de 3 de fevereiro de 1967, na redação que lhes deram o art. 4o do Decreto-Lei no 1.687, de 18 de julho de 1979, e o art. 10 do Decreto-Lei no 2.163, de 19 de setembro de 1984.\n\nParágrafo único. O Ministro de Estado da Fazenda estabelecerá cronograma, prioridades e condições para a remessa, às unidades da Procuradoria-Geral da Fazenda Nacional, dos débitos passíveis de inscrição em Dívida Ativa da União e cobrança judicial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%209o%20Fica%20suspensa%2C%20at%C3%A9%2031%20de%20dezembro%20de%201999%2C%20a%20aplica%C3%A7%C3%A3o%20do%20disposto%20no%20caput%20do%20art.%2022%2C%20e%20no%20seu",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Os débitos de qualquer natureza para com a Fazenda Nacional poderão ser parcelados em até sessenta parcelas mensais, a exclusivo critério da autoridade fazendária, na forma e condições previstas nesta Lei. (Redação dada pela Lei nº 10.637, de 30.12.2002)\n\nParágrafo único. (Revogado pela Lei nº 11.941, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2010.%20Os%20d%C3%A9bitos%20de%20qualquer%20natureza%20para%20com%20a%20Fazenda%20Nacional%20poder%C3%A3o%20ser%20parcelados%20em%20at%C3%A9%20sessenta%20parcelas%20mensais%2C%20a%20exclusivo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "10-A"
+    },
+    "10-A": {
+      "numero": "10-A",
+      "texto": "Art. 10-A. O empresário ou a sociedade empresária que pleitear ou tiver deferido o processamento da recuperação judicial, nos termos dos arts. 51, 52 e 70 da Lei nº 11.101, de 9 de fevereiro de 2005, poderá liquidar os seus débitos para com a Fazenda Nacional existentes, ainda que não vencidos até a data do protocolo da petição inicial da recuperação judicial, de natureza tributária ou não tributária, constituídos ou não, inscritos ou não em dívida ativa, mediante a opção por uma das seguintes modalidades: (Redação dada pela Lei nº 14.112, de 2020)\n\nI - (revogado); (Redação dada pela Lei nº 14.112, de 2020)\n\nII - (revogado); (Redação dada pela Lei nº 14.112, de 2020)\n\nIII - (revogado); (Redação dada pela Lei nº 14.112, de 2020)\n\nIV - (revogado); (Redação dada pela Lei nº 14.112, de 2020)\n\nV - parcelamento da dívida consolidada em até 120 (cento e vinte) prestações mensais e sucessivas, calculadas de modo a observar os seguintes percentuais mínimos, aplicados sobre o valor da dívida consolidada no parcelamento: (Incluído pela Lei nº 14.112, de 2020)\n\na) da primeira à décima segunda prestação: 0,5% (cinco décimos por cento); (Incluído pela Lei nº 14.112, de 2020)\n\nb) da décima terceira à vigésima quarta prestação: 0,6% (seis décimos por cento); (Incluído pela Lei nº 14.112, de 2020)\n\nc) da vigésima quinta prestação em diante: percentual correspondente ao saldo remanescente, em até 96 (noventa e seis) prestações mensais e sucessivas; ou (Incluído pela Lei nº 14.112, de 2020)\n\nVI - em relação aos débitos administrados pela Secretaria Especial da Receita Federal do Brasil, liquidação de até 30% (trinta por cento) da dívida consolidada no parcelamento com a utilização de créditos decorrentes de prejuízo fiscal e de base de cálculo negativa da Contribuição Social sobre o Lucro Líquido (CSLL) ou com outros créditos próprios relativos aos tributos administrados pela Secretaria Especial da Receita Federal do Brasil, hipótese em que o restante poderá ser parcelado em até 84 (oitenta e quatro) parcelas, calculadas de modo a observar os seguintes percentuais mínimos, aplicados sobre o saldo da dívida consolidada: (Incluído pela Lei nº 14.112, de 2020)\n\na) da primeira à décima segunda prestação: 0,5% (cinco décimos por cento); (Incluído pela Lei nº 14.112, de 2020)\n\nb) da décima terceira à vigésima quarta prestação: 0,6% (seis décimos por cento); (Incluído pela Lei nº 14.112, de 2020)\n\nc) da vigésima quinta prestação em diante: percentual correspondente ao saldo remanescente, em até 60 (sessenta) prestações mensais e sucessivas. (Incluído pela Lei nº 14.112, de 2020)\n\n§ 1º (Revogado). (Redação dada pela Lei nº 14.112, de 2020)\n\n§ 1º-A. As opções previstas nos incisos V e VI do caput deste artigo não impedem que o empresário ou a sociedade empresária que pleitear ou tiver deferido o processamento da recuperação judicial, nos termos estabelecidos nos arts. 51, 52 e 70 da Lei nº 11.101, de 9 de fevereiro de 2005, opte por liquidar os referidos débitos para com a Fazenda Nacional por meio de outra modalidade de parcelamento instituído por lei federal, desde que atendidas as condições previstas na lei, hipótese em que será firmado ou mantido o termo de compromisso a que se refere o § 2º-A deste artigo, sob pena de indeferimento ou de exclusão do parcelamento, conforme o caso. (Incluído pela Lei nº 14.112, de 2020)\n\n§ 1º-B. O valor do crédito de que trata o inciso VI do caput deste artigo, decorrente de prejuízo fiscal e de base de cálculo negativa da CSLL, será determinado por meio da aplicação das seguintes alíquotas: (Incluído pela Lei nº 14.112, de 2020)\n\nI - 25% (vinte e cinco por cento) sobre o montante do prejuízo fiscal; (Incluído pela Lei nº 14.112, de 2020)\n\nII - 20% (vinte por cento) sobre a base de cálculo negativa da CSLL, no caso das pessoas jurídicas de seguros privados, das pessoas jurídicas de capitalização e das pessoas jurídicas referidas nos incisos I, II, III, IV, V, VI, VII e X do § 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001; (Incluído pela Lei nº 14.112, de 2020)\n\nIII - 17% (dezessete por cento) sobre a base de cálculo negativa da CSLL, no caso das pessoas jurídicas referidas no inciso IX do § 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001; (Incluído pela Lei nº 14.112, de 2020)\n\nIV - 9% (nove por cento) sobre a base de cálculo negativa da CSLL, no caso das demais pessoas jurídicas. (Incluído pela Lei nº 14.112, de 2020)\n\n§ 1º-C. A adesão ao parcelamento abrangerá a totalidade dos débitos exigíveis em nome do sujeito passivo, observadas as seguintes condições e ressalvas: (Incluído pela Lei nº 14.112, de 2020)\n\nI - os débitos sujeitos a outros parcelamentos ou que comprovadamente sejam objeto de discussão judicial poderão ser excluídos, estes últimos mediante: (Incluído pela Lei nº 14.112, de 2020)\n\na) o oferecimento de garantia idônea e suficiente, aceita pela Fazenda Nacional em juízo; ou (Incluído pela Lei nº 14.112, de 2020)\n\nb) a apresentação de decisão judicial em vigor e eficaz que determine a suspensão de sua exigibilidade; (Incluído pela Lei nº 14.112, de 2020)\n\nII - a garantia prevista na alínea “a” do inciso I deste parágrafo não poderá ser incluída no plano de recuperação judicial, permitida a sua execução regular, inclusive por meio da expropriação, se não houver a suspensão da exigibilidade ou a extinção do crédito em discussão judicial; (Incluído pela Lei nº 14.112, de 2020)\n\nIII - o disposto no inciso II deste § 1º-C também se aplica aos depósitos judiciais regidos pela Lei nº 9.703, de 17 de novembro de 1998, e pela Lei nº 12.099, de 27 de novembro de 2009. (Incluído pela Lei nº 14.112, de 2020)\n\n§ 2º Na hipótese de o sujeito passivo optar pela inclusão, no parcelamento de que trata este artigo, de débitos que se encontrem sob discussão administrativa ou judicial, submetidos ou não a causa legal de suspensão de exigibilidade, deverá ele comprovar que desistiu expressamente e de forma irrevogável da impugnação ou do recurso interposto, ou da ação judicial e, cumulativamente, que renunciou às alegações de direito sobre as quais se fundam a ação judicial e o recurso administrativo. (Redação dada pela Lei nº 14.112, de 2020)\n\n§ 2º-A. Para aderir ao parcelamento de que trata este artigo, o sujeito passivo firmará termo de compromisso, no qual estará previsto: (Incluído pela Lei nº 14.112, de 2020)\n\nI - o fornecimento à Secretaria Especial da Receita Federal do Brasil e à Procuradoria-Geral da Fazenda Nacional de informações bancárias, incluídas aquelas sobre extratos de fundos ou aplicações financeiras e sobre eventual comprometimento de recebíveis e demais ativos futuros; (Incluído pela Lei nº 14.112, de 2020)\n\nII - o dever de amortizar o saldo devedor do parcelamento de que trata este artigo com percentual do produto de cada alienação de bens e direitos integrantes do ativo não circulante realizada durante o período de vigência do plano de recuperação judicial, sem prejuízo do disposto no inciso III do § 4º deste artigo; (Incluído pela Lei nº 14.112, de 2020)\n\nIII - o dever de manter a regularidade fiscal; (Incluído pela Lei nº 14.112, de 2020)\n\nIV - o cumprimento regular das obrigações para com o Fundo de Garantia do Tempo de Serviço (FGTS). (Incluído pela Lei nº 14.112, de 2020)\n\n§ 2º-B. Para fins do disposto no inciso II do § 2º-A deste artigo: (Incluído pela Lei nº 14.112, de 2020)\n\nI - a amortização do saldo devedor implicará redução proporcional da quantidade de parcelas vincendas; (Incluído pela Lei nº 14.112, de 2020)\n\nII - observado o limite máximo de 30% (trinta por cento) do produto da alienação, o percentual a ser destinado para a amortização do parcelamento corresponderá à razão entre o valor total do passivo fiscal e o valor total de dívidas do devedor, na data do pedido de recuperação judicial. (Incluído pela Lei nº 14.112, de 2020)\n\n§ 3º O empresário ou a sociedade empresária poderá, a seu critério, desistir dos parcelamentos em curso, independentemente da modalidade, e solicitar o parcelamento nos termos estabelecidos neste artigo. (Redação dada pela Lei nº 14.112, de 2020)\n\n§ 4º Implicará a exclusão do sujeito passivo do parcelamento: (Redação dada pela Lei nº 14.112, de 2020)\n\nI - a falta de pagamento de 6 (seis) parcelas consecutivas ou de 9 (nove) parcelas alternadas; (Incluído pela Lei nº 14.112, de 2020)\n\nII - a falta de pagamento de 1 (uma) até 5 (cinco) parcelas, conforme o caso, se todas as demais estiverem pagas; (Incluído pela Lei nº 14.112, de 2020)\n\nIII - a constatação, pela Secretaria Especial da Receita Federal do Brasil ou pela Procuradoria-Geral da Fazenda Nacional, de qualquer ato tendente ao esvaziamento patrimonial do sujeito passivo como forma de fraudar o cumprimento do parcelamento, observado, no que couber, o disposto no inciso II do § 2º-A deste artigo; (Incluído pela Lei nº 14.112, de 2020)\n\nIV - a decretação de falência ou extinção, pela liquidação, da pessoa jurídica optante; (Incluído pela Lei nº 14.112, de 2020)\n\nV - a concessão de medida cautelar fiscal, nos termos da Lei nº 8.397, de 6 de janeiro de 1992; (Incluído pela Lei nº 14.112, de 2020)\n\nVI - a declaração de inaptidão da inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ), nos termos dos arts. 80 e 81 da Lei nº 9.430, de 27 de dezembro de 1996; (Incluído pela Lei nº 14.112, de 2020)\n\nVII - a extinção sem resolução do mérito ou a não concessão da recuperação judicial, bem como a convolação desta em falência; ou (Incluído pela Lei nº 14.112, de 2020)\n\nVIII - o descumprimento de quaisquer das condições previstas neste artigo, inclusive quanto ao disposto no § 2º-A deste artigo. (Incluído pela Lei nº 14.112, de 2020)\n\n§ 4º-A. São consequências da exclusão prevista no § 4º deste artigo: (Incluído pela Lei nº 14.112, de 2020)\n\nI - a exigibilidade imediata da totalidade do débito confessado e ainda não pago, com o prosseguimento das execuções fiscais relacionadas aos créditos cuja exigibilidade estava suspensa, inclusive com a possibilidade de prática de atos de constrição e de alienação pelos juízos que as processam, ressalvada a hipótese prevista no inciso IV deste parágrafo; (Incluído pela Lei nº 14.112, de 2020)\n\nII - a execução automática das garantias; (Incluído pela Lei nº 14.112, de 2020)\n\nIII - o restabelecimento em cobrança dos valores liquidados com os créditos, na hipótese de parcelamento na modalidade prevista no inciso VI do caput deste artigo; (Incluído pela Lei nº 14.112, de 2020)\n\nIV - a faculdade de a Fazenda Nacional requerer a convolação da recuperação judicial em falência. (Incluído pela Lei nº 14.112, de 2020)\n\n§ 5º O empresário ou a sociedade empresária poderá ter apenas 1 (um) parcelamento perante a Fazenda Nacional, cujos débitos constituídos, inscritos ou não em dívida ativa da União, poderão ser incluídos até a data do pedido de parcelamento. (Redação dada pela Lei nº 14.112, de 2020)\n\n§ 6º A concessão do parcelamento não implica a liberação dos bens e dos direitos do devedor ou de seus responsáveis que tenham sido constituídos em garantia dos créditos. (Redação dada pela Lei nº 14.112, de 2020)\n\n§ 7º O parcelamento referido nos incisos V e VI do caput deste artigo observará as demais condições previstas nesta Lei, ressalvado o disposto nos seguintes dispositivos: (Redação dada pela Lei nº 14.112, de 2020)\n\nI - § 1º do art. 11; (Incluído pela Lei nº 14.112, de 2020)\n\nII - inciso II do § 1º do art. 12; (Incluído pela Lei nº 14.112, de 2020)\n\nIII - inciso VIII do caput do art. 14; (Incluído pela Lei nº 14.112, de 2020)\n\nIV - § 2º do art. 14-A. (Incluído pela Lei nº 14.112, de 2020)\n\n§ 7º-A. As microempresas e as empresas de pequeno porte farão jus a prazos 20% (vinte por cento) superiores àqueles regularmente concedidos às demais empresas. (Incluído pela Lei nº 14.112, de 2020)\n\n§ 8º O disposto neste artigo aplica-se, no que couber, aos créditos de qualquer natureza das autarquias e das fundações públicas federais, ressalvada a modalidade de parcelamento de que trata o inciso VI do caput deste artigo. (Redação dada pela Lei nº 14.112, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2010-A.%20O%20empres%C3%A1rio%20ou%20a%20sociedade%20empres%C3%A1ria%20que%20pleitear%20ou%20tiver%20deferido%20o%20processamento%20da%20recupera%C3%A7%C3%A3o%20judicial%2C%20nos%20termos%20dos%20arts.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "10-B"
+    },
+    "10-B": {
+      "numero": "10-B",
+      "texto": "Art. 10-B. O empresário ou a sociedade empresária que pleitear ou tiver deferido o processamento da recuperação judicial, nos termos dos arts. 51, 52 e 70 da Lei nº 11.101, de 9 de fevereiro de 2005, poderá parcelar os seus débitos para com a Fazenda Nacional existentes, ainda que não vencidos até a data do protocolo da petição inicial da recuperação judicial, relativos aos tributos previstos nos incisos I e II do caput do art. 14 desta Lei, constituídos ou não, inscritos ou não em dívida ativa, em até 24 (vinte e quatro) parcelas mensais e consecutivas, calculadas de modo a observar os seguintes percentuais mínimos, aplicados sobre o valor da dívida consolidada: (Incluído pela Lei nº 14.112, de 2020)\n\nI - da primeira à sexta prestação: 3% (três por cento); (Incluído pela Lei nº 14.112, de 2020)\n\nII - da sétima à décima segunda prestação: 6% (seis por cento); (Incluído pela Lei nº 14.112, de 2020)\n\nIII - da décima terceira prestação em diante: percentual correspondente ao saldo remanescente, em até 12 (doze) prestações mensais e sucessivas. (Incluído pela Lei nº 14.112, de 2020)\n\n§ 1º O disposto no art. 10-A desta Lei, exceto quanto aos incisos V e VI do caput, ao § 1º-B e ao inciso III do § 4º-A, aplica-se ao parcelamento de que trata este artigo. (Incluído pela Lei nº 14.112, de 2020)\n\n§ 2º As microempresas e as empresas de pequeno porte farão jus a prazos 20% (vinte por cento) superiores àqueles regularmente concedidos às demais empresas. (Incluído pela Lei nº 14.112, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2010-B.%20O%20empres%C3%A1rio%20ou%20a%20sociedade%20empres%C3%A1ria%20que%20pleitear%20ou%20tiver%20deferido%20o%20processamento%20da%20recupera%C3%A7%C3%A3o%20judicial%2C%20nos%20termos%20dos%20arts.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10-A",
+      "next": "10-C"
+    },
+    "10-C": {
+      "numero": "10-C",
+      "texto": "Art. 10-C. Alternativamente ao parcelamento de que trata o art. 10-A desta Lei e às demais modalidades de parcelamento instituídas por lei federal porventura aplicáveis, o empresário ou a sociedade empresária que tiver o processamento da recuperação judicial deferido poderá, até o momento referido no art. 57 da Lei nº 11.101, de 9 de fevereiro de 2005, submeter à Procuradoria-Geral da Fazenda Nacional proposta de transação relativa a créditos inscritos em dívida ativa da União, nos termos da Lei nº 13.988, de 14 de abril de 2020, observado que: (Incluído pela Lei nº 14.112, de 2020)\n\nI - o prazo máximo para quitação será de até 120 (cento e vinte) meses, observado, no que couber, o disposto no § 3º do art. 11 da Lei nº 13.988, de 14 de abril de 2020; (Incluído pela Lei nº 14.112, de 2020)\n\nII - o limite máximo para reduções será de até 70% (setenta por cento); (Incluído pela Lei nº 14.112, de 2020)\n\nIII - a apresentação de proposta ou a análise de proposta de transação formulada pelo devedor caberá à Procuradoria-Geral da Fazenda Nacional, em juízo de conveniência e oportunidade, obedecidos os requisitos previstos nesta Lei e em atos regulamentares, de forma motivada, observados o interesse público e os princípios da isonomia, da capacidade contributiva, da transparência, da moralidade, da livre concorrência, da preservação da atividade empresarial, da razoável duração dos processos e da eficiência, e utilizados como parâmetros, entre outros: (Incluído pela Lei nº 14.112, de 2020)\n\na) a recuperabilidade do crédito, inclusive considerando eventual prognóstico em caso de falência; (Incluído pela Lei nº 14.112, de 2020)\n\nb) a proporção entre o passivo fiscal e o restante das dívidas do sujeito passivo; e (Incluído pela Lei nº 14.112, de 2020)\n\nc) o porte e a quantidade de vínculos empregatícios mantidos pela pessoa jurídica; (Incluído pela Lei nº 14.112, de 2020)\n\nIV - a cópia integral do processo administrativo de análise da proposta de transação, ainda que esta tenha sido rejeitada, será encaminhada ao juízo da recuperação judicial; (Incluído pela Lei nº 14.112, de 2020)\n\nV - os seguintes compromissos adicionais serão exigidos do proponente, sem prejuízo do disposto no art. 3º da Lei nº 13.988, de 14 de abril de 2020:\n\na) fornecer à Procuradoria-Geral da Fazenda Nacional informações bancárias e empresariais, incluídas aquelas sobre extratos de fundos ou aplicações financeiras e sobre eventual comprometimento de recebíveis e demais ativos futuros; (Incluído pela Lei nº 14.112, de 2020)\n\nb) manter regularidade fiscal perante a União; (Incluído pela Lei nº 14.112, de 2020)\n\nc) manter o Certificado de Regularidade do FGTS; (Incluído pela Lei nº 14.112, de 2020)\n\nd) demonstrar a ausência de prejuízo decorrente do cumprimento das obrigações contraídas com a celebração da transação em caso de alienação ou de oneração de bens ou direitos integrantes do respectivo ativo não circulante; (Incluído pela Lei nº 14.112, de 2020)\n\nVI - a apresentação da proposta de transação suspenderá o andamento das execuções fiscais, salvo oposição justificada por parte da Procuradoria-Geral da Fazenda Nacional, a ser apreciada pelo respectivo juízo; e (Incluído pela Lei nº 14.112, de 2020)\n\nVII - a rescisão da transação por inadimplemento de parcelas somente ocorrerá nas seguintes hipóteses: (Incluído pela Lei nº 14.112, de 2020)\n\na) falta de pagamento de 6 (seis) parcelas consecutivas ou de 9 (nove) parcelas alternadas; e (Incluído pela Lei nº 14.112, de 2020)\n\nb) falta de pagamento de 1 (uma) até 5 (cinco) parcelas, conforme o caso, se todas as demais estiverem pagas. (Incluído pela Lei nº 14.112, de 2020)\n\n§ 1º O limite de que trata o inciso I do caput deste artigo poderá ser ampliado em até 12 (doze) meses adicionais quando constatado que o devedor em recuperação judicial desenvolve projetos sociais, nos termos da regulamentação a que se refere a Lei nº 13.988, de 14 de abril de 2020. (Incluído pela Lei nº 14.112, de 2020)\n\n§ 2º O disposto neste artigo aplica-se, no que couber, aos créditos de qualquer natureza das autarquias e das fundações públicas federais. (Incluído pela Lei nº 14.112, de 2020)\n\n§ 3º Na hipótese de os créditos referidos no § 2º deste artigo consistirem em multa decorrente do exercício de poder de polícia, não será aplicável o disposto no inciso I do § 2º do art. 11 da Lei nº 13.988, de 14 de abril de 2020. (Incluído pela Lei nº 14.112, de 2020)\n\n§ 4º Os Estados, o Distrito Federal e os Municípios poderão, por lei de iniciativa própria, autorizar que o disposto neste artigo seja aplicado a seus créditos. (Incluído pela Lei nº 14.112, de 2020)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2010-C.%20Alternativamente%20ao%20parcelamento%20de%20que%20trata%20o%20art.%2010-A%20desta%20Lei%20e%20%C3%A0s%20demais%20modalidades%20de%20parcelamento%20institu%C3%ADdas%20por%20lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10-B",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. O parcelamento terá sua formalização condicionada ao prévio pagamento da primeira prestação, conforme o montante do débito e o prazo solicitado, observado o disposto no § 1o do art. 13 desta Lei. (Redação dada pela Lei nº 11.941, de 2009) (Vide Medida Provisória nº 766, de 2017)\n\n§ 1o Observados os limites e as condições estabelecidos em portaria do Ministro de Estado da Fazenda, em se tratando de débitos inscritos em Dívida Ativa, a concessão do parcelamento fica condicionada à apresentação, pelo devedor, de garantia real ou fidejussória, inclusive fiança bancária, idônea e suficiente para o pagamento do débito, exceto quando se tratar de microempresas e empresas de pequeno porte optantes pela inscrição no Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte – Simples, de que trata a Lei no 9.317, de 5 de dezembro de 1996.\n\n§ 2o Enquanto não deferido o pedido, o devedor fica obrigado a recolher, a cada mês, como antecipação, valor correspondente a uma parcela. (Vide Medida Provisória nº 766, de 2017)\n\n§ 3o O não-cumprimento do disposto neste artigo implicará o indeferimento do pedido. (Vide Medida Provisória nº 766, de 2017)\n\n§ 4o (Revogado). (Redação dada pela Lei nº 11.941, de 2009)\n\n§ 5o (Revogado). (Redação dada pela Lei nº 11.941, de 2009)\n\n§ 6o (Revogado). (Redação dada pela Lei nº 11.941, de 2009)\n\n§ 7o (Revogado). (Redação dada pela Lei nº 11.941, de 2009)\n\n§ 8o (Revogado). (Redação dada pela Lei nº 11.941, de 2009)\n\n§ 9o (Revogado). (Redação dada pela Lei nº 11.941, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2011.%20O%20parcelamento%20ter%C3%A1%20sua%20formaliza%C3%A7%C3%A3o%20condicionada%20ao%20pr%C3%A9vio%20pagamento%20da%20primeira%20presta%C3%A7%C3%A3o%2C%20conforme%20o%20montante%20do%20d%C3%A9bito%20e%20o%20prazo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10-C",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. O pedido de parcelamento deferido constitui confissão de dívida e instrumento hábil e suficiente para a exigência do crédito tributário, podendo a exatidão dos valores parcelados ser objeto de verificação. (Redação dada pela Lei nº 11.941, de 2009) (Vide Medida Provisória nº 766, de 2017)\n\n§ 1o Cumpridas as condições estabelecidas no art. 11 desta Lei, o parcelamento será: (incluído pela Lei nº 11.941, de 2009)\n\nI – consolidado na data do pedido; e (incluído pela Lei nº 11.941, de 2009)\n\nII – considerado automaticamente deferido quando decorrido o prazo de 90 (noventa) dias, contado da data do pedido de parcelamento sem que a Fazenda Nacional tenha se pronunciado. (incluído pela Lei nº 11.941, de 2009)\n\n§ 2o Enquanto não deferido o pedido, o devedor fica obrigado a recolher, a cada mês, como antecipação, valor correspondente a uma parcela. (incluído pela Lei nº 11.941, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2012.%20O%20pedido%20de%20parcelamento%20deferido%20constitui%20confiss%C3%A3o%20de%20d%C3%ADvida%20e%20instrumento%20h%C3%A1bil%20e%20suficiente%20para%20a%20exig%C3%AAncia%20do%20cr%C3%A9dito%20tribut%C3%A1rio%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. O valor de cada prestação mensal, por ocasião do pagamento, será acrescido de juros equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia – SELIC para títulos federais, acumulada mensalmente, calculados a partir do mês subsequente ao da consolidação até o mês anterior ao do pagamento, e de 1% (um por cento) relativamente ao mês em que o pagamento estiver sendo efetuado. (Redação dada pela Lei nº 11.941, de 2009)\n\n§ 1o O valor mínimo de cada prestação será fixado em ato conjunto do Secretário da Receita Federal do Brasil e do Procurador-Geral da Fazenda Nacional. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 2o No caso de parcelamento de débito inscrito em Dívida Ativa da União, o devedor pagará custas, emolumentos e demais encargos legais. (Incluído pela Lei nº 11.941, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2013.%20O%20valor%20de%20cada%20presta%C3%A7%C3%A3o%20mensal%2C%20por%20ocasi%C3%A3o%20do%20pagamento%2C%20ser%C3%A1%20acrescido%20de%20juros%20equivalentes%20%C3%A0%20taxa%20referencial%20do%20Sistema",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "13-A"
+    },
+    "13-A": {
+      "numero": "13-A",
+      "texto": "Art. 13-A. O parcelamento dos débitos decorrentes das contribuições sociais instituídas pelos arts. 1o e 2o da Lei Complementar no 110, de 29 de junho de 2001, será requerido perante a Caixa Econômica Federal, aplicando-se-lhe o disposto no caput do art. 10, nos arts. 11 e 12, no § 2o do art. 13 e nos arts. 14 e 14-B desta Lei. (Redação dada pela Lei nº 11.941, de 2009)\n\n§ 1o O valor da parcela será determinado pela divisão do montante do débito consolidado pelo número de parcelas. (Incluído pela Lei nº 11.345, de 2006)\n\n§ 2o Para fins do disposto no § 1o deste artigo, o montante do débito será atualizado e acrescido dos encargos previstos na Lei no 8.036, de 11 de maio de 1990, e, se for o caso, no Decreto-Lei no 1.025, de 21 de outubro de 1969. (Incluído pela Lei nº 11.345, de 2006)\n\n§ 3o O Ministro de Estado da Fazenda poderá, nos limites do disposto neste artigo, delegar competência para regulamentar e autorizar o parcelamento dos débitos não inscritos em dívida ativa da União. (Incluído pela Lei nº 11.345, de 2006)\n\n§ 4o A concessão do parcelamento dos débitos a que se refere este artigo inscritos em dívida ativa da União compete privativamente à Procuradoria-Geral da Fazenda Nacional. (Incluído pela Lei nº 11.345, de 2006)\n\n§ 5o É vedado o reparcelamento de débitos a que se refere o caput, exceto quando inscritos em Dívida Ativa da União. (Incluído pela Lei nº 11.941, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2013-A.%20O%20parcelamento%20dos%20d%C3%A9bitos%20decorrentes%20das%20contribui%C3%A7%C3%B5es%20sociais%20institu%C3%ADdas%20pelos%20arts.%201o%20e%202o%20da%20Lei%20Complementar%20no%20110%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. É vedada a concessão de parcelamento de débitos relativos a: (Vide Medida Provisória nº 766, de 2017)\n\nI – tributos passíveis de retenção na fonte, de desconto de terceiros ou de sub-rogação; (Redação dada pela Lei nº 11.941, de 2009)\n\nII - Imposto sobre Operações de Crédito, Câmbio e Seguro e sobre Operações relativas a Títulos e Valores Mobiliários – IOF, retido e não recolhido ao Tesouro Nacional;\n\nIII - valores recebidos pelos agentes arrecadadores não recolhidos aos cofres públicos.\n\nIV – tributos devidos no registro da Declaração de Importação; (Incluído pela Lei nº 11.941, de 2009)\n\nV – incentivos fiscais devidos ao Fundo de Investimento do Nordeste – FINOR, Fundo de Investimento da Amazônia – FINAM e Fundo de Recuperação do Estado do Espírito Santo – FUNRES; (Incluído pela Lei nº 11.941, de 2009)\n\nVI – pagamento mensal por estimativa do Imposto sobre a Renda da Pessoa Jurídica – IRPJ e da Contribuição Social sobre o Lucro Líquido – CSLL, na forma do art. 2o da Lei no 9.430, de 27 de dezembro de 1996; (Incluído pela Lei nº 11.941, de 2009)\n\nVII – recolhimento mensal obrigatório da pessoa física relativo a rendimentos de que trata o art. 8o da Lei no 7.713, de 22 de dezembro de 1988; (Incluído pela Lei nº 11.941, de 2009)\n\nVIII – tributo ou outra exação qualquer, enquanto não integralmente pago parcelamento anterior relativo ao mesmo tributo ou exação, salvo nas hipóteses previstas no art. 14-A desta Lei; (Incluído pela Lei nº 11.941, de 2009)\n\nIX – tributos devidos por pessoa jurídica com falência decretada ou por pessoa física com insolvência civil decretada; e (Incluído pela Lei nº 11.941, de 2009) (Vide Medida Provisória nº 766, de 2017)\n\nX – créditos tributários devidos na forma do art. 4o da Lei no 10.931, de 2 de agosto de 2004, pela incorporadora optante do Regime Especial Tributário do Patrimônio de Afetação. (Incluído pela Lei nº 11.941, de 2009)\n\nParágrafo único. (Revogado). (Redação dada pela Lei nº 11.941, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2014.%20%C3%89%20vedada%20a%20concess%C3%A3o%20de%20parcelamento%20de%20d%C3%A9bitos%20relativos%20a%3A%20%28Vide%20Medida%20Provis%C3%B3ria%20n%C2%BA%20766%2C%20de%202017%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13-A",
+      "next": "14-A"
+    },
+    "14-A": {
+      "numero": "14-A",
+      "texto": "Art. 14-A. Observadas as condições previstas neste artigo, será admitido reparcelamento de débitos constantes de parcelamento em andamento ou que tenha sido rescindido. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 1o No reparcelamento de que trata o caput deste artigo poderão ser incluídos novos débitos. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 2o A formalização do pedido de reparcelamento previsto neste artigo fica condicionada ao recolhimento da primeira parcela em valor correspondente a: (Incluído pela Lei nº 11.941, de 2009)\n\nI – 10% (dez por cento) do total dos débitos consolidados; ou (Incluído pela Lei nº 11.941, de 2009)\n\nII – 20% (vinte por cento) do total dos débitos consolidados, caso haja débito com histórico de reparcelamento anterior. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 3o Aplicam-se subsidiariamente aos pedidos de que trata este artigo as demais disposições relativas ao parcelamento previstas nesta Lei. (Incluído pela Lei nº 11.941, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2014-A.%20Observadas%20as%20condi%C3%A7%C3%B5es%20previstas%20neste%20artigo%2C%20ser%C3%A1%20admitido%20reparcelamento%20de%20d%C3%A9bitos%20constantes%20de%20parcelamento%20em%20andamento%20ou%20que%20tenha%20sido",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "14-B"
+    },
+    "14-B": {
+      "numero": "14-B",
+      "texto": "Art. 14-B. Implicará imediata rescisão do parcelamento e remessa do débito para inscrição em Dívida Ativa da União ou prosseguimento da execução, conforme o caso, a falta de pagamento: (Incluído pela Lei nº 11.941, de 2009)\n\nI – de 3 (três) parcelas, consecutivas ou não; ou (Incluído pela Lei nº 11.941, de 2009)\n\nII – de 1 (uma) parcela, estando pagas todas as demais. (Incluído pela Lei nº 11.941, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2014-B.%20Implicar%C3%A1%20imediata%20rescis%C3%A3o%20do%20parcelamento%20e%20remessa%20do%20d%C3%A9bito%20para%20inscri%C3%A7%C3%A3o%20em%20D%C3%ADvida%20Ativa%20da%20Uni%C3%A3o%20ou%20prosseguimento%20da%20execu%C3%A7%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14-A",
+      "next": "14-C"
+    },
+    "14-C": {
+      "numero": "14-C",
+      "texto": "Art. 14-C. Poderá ser concedido, de ofício ou a pedido, parcelamento simplificado, importando o pagamento da primeira prestação em confissão de dívida e instrumento hábil e suficiente para a exigência do crédito tributário. (Incluído pela Lei nº 11.941, de 2009)\n\nParágrafo único. Ao parcelamento de que trata o caput deste artigo não se aplicam as vedações estabelecidas no art. 14 desta Lei. (Incluído pela Lei nº 11.941, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2014-C.%20Poder%C3%A1%20ser%20concedido%2C%20de%20of%C3%ADcio%20ou%20a%20pedido%2C%20parcelamento%20simplificado%2C%20importando%20o%20pagamento%20da%20primeira%20presta%C3%A7%C3%A3o%20em%20confiss%C3%A3o%20de%20d%C3%ADvida",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14-B",
+      "next": "14-D"
+    },
+    "14-D": {
+      "numero": "14-D",
+      "texto": "Art. 14-D. Os parcelamentos concedidos a Estados, Distrito Federal ou Municípios conterão cláusulas em que estes autorizem a retenção do Fundo de Participação dos Estados – FPE ou do Fundo de Participação dos Municípios – FPM. (Incluído pela Lei nº 11.941, de 2009)\n\nParágrafo único. O valor mensal das obrigações previdenciárias correntes, para efeito deste artigo, será apurado com base na respectiva Guia de Recolhimento do Fundo de Garantia do Tempo de Serviço e de Informações à Previdência Social – GFIP ou, no caso de sua não-apresentação no prazo legal, estimado, utilizando-se a média das últimas 12 (doze) competências recolhidas anteriores ao mês da retenção prevista no caput deste artigo, sem prejuízo da cobrança ou restituição ou compensação de eventuais diferenças. (Incluído pela Lei nº 11.941, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2014-D.%20Os%20parcelamentos%20concedidos%20a%20Estados%2C%20Distrito%20Federal%20ou%20Munic%C3%ADpios%20conter%C3%A3o%20cl%C3%A1usulas%20em%20que%20estes%20autorizem%20a%20reten%C3%A7%C3%A3o%20do%20Fundo%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14-C",
+      "next": "14-E"
+    },
+    "14-E": {
+      "numero": "14-E",
+      "texto": "Art. 14-E. Mensalmente, a Secretaria da Receita Federal do Brasil e a Procuradoria-Geral da Fazenda Nacional divulgarão, em seus sítios na internet, demonstrativos dos parcelamentos concedidos no âmbito de suas competências. (Incluído pela Lei nº 11.941, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2014-E.%20Mensalmente%2C%20a%20Secretaria%20da%20Receita%20Federal%20do%20Brasil%20e%20a%20Procuradoria-Geral%20da%20Fazenda%20Nacional%20divulgar%C3%A3o%2C%20em%20seus%20s%C3%ADtios%20na%20internet%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14-D",
+      "next": "14-F"
+    },
+    "14-F": {
+      "numero": "14-F",
+      "texto": "Art. 14-F. A Secretaria da Receita Federal do Brasil e a Procuradoria-Geral da Fazenda Nacional, no âmbito de suas competências, editarão atos necessários à execução do parcelamento de que trata esta Lei. (Incluído pela Lei nº 11.941, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2014-F.%20A%20Secretaria%20da%20Receita%20Federal%20do%20Brasil%20e%20a%20Procuradoria-Geral%20da%20Fazenda%20Nacional%2C%20no%20%C3%A2mbito%20de%20suas%20compet%C3%AAncias%2C%20editar%C3%A3o%20atos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14-E",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Observados os requisitos e as condições estabelecidos nesta Lei, os parcelamentos de débitos vencidos até 31 de julho de 1998 poderão ser efetuados em até:\n\nI - 96 (noventa e seis) prestações, se solicitados até 31 de outubro de 1998;\n\nII - 72 (setenta e duas) prestações, se solicitados até 30 de novembro de 1998;\n\nIII - 60 (sessenta) prestações, se solicitados até 31 de dezembro de 1998.\n\n§ 1o O disposto neste artigo aplica-se aos débitos de qualquer natureza para com a Fazenda Nacional, inscritos ou não como Dívida Ativa, mesmo em fase de execução fiscal já ajuizada, ou que tenham sido objeto de parcelamento anterior, não integralmente quitado, ainda que cancelado por falta de pagamento.\n\n§ 2o A vedação de que trata o art. 14, na hipótese a que se refere este artigo, não se aplica a entidades esportivas e entidades assistenciais, sem fins lucrativos.\n\n§ 3o Ao parcelamento previsto neste artigo, inclusive os requeridos e já concedidos, a partir de 29 de junho de 1998, aplicam-se os juros de que trata o art. 13.\n\n§ 4o Constitui condição para o deferimento do pedido de parcelamento e sua manutenção a inexistência de débitos em situação irregular, de tributos e contribuições federais de responsabilidade do sujeito passivo, vencidos posteriormente a 31 de dezembro de 1997.\n\n§ 5o O Ministro de Estado da Fazenda fixará requisitos e condições especiais para o parcelamento previsto no caput deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2015.%20Observados%20os%20requisitos%20e%20as%20condi%C3%A7%C3%B5es%20estabelecidos%20nesta%20Lei%2C%20os%20parcelamentos%20de%20d%C3%A9bitos%20vencidos%20at%C3%A9%2031%20de%20julho%20de%201998",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14-F",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Os débitos para com a Fazenda Nacional, decorrentes de avais e outras garantias honradas em operações externas e internas e os de natureza financeira transferidos à União por força da extinção de entidades públicas federais, existentes em 30 de setembro de 1996, incluindo eventuais repactuações, poderão ser parcelados com prazo de até 72 (setenta e dois) meses, desde que os pedidos de parcelamento sejam protocolizados até 15 de abril de 1997, obedecidos aos requisitos e demais condições estabelecidos nesta Lei.\n\n§ 1o O saldo devedor da dívida será atualizado no primeiro dia útil de cada mês, de acordo com a variação da Taxa Referencial – TR, ocorrida no mês anterior, acrescida de 12% a.a. (doze por cento ao ano), mais 0,5% a.a. (cinco décimos por cento ao ano) sobre o saldo devedor destinado à administração do crédito pelo agente financeiro.\n\n§ 2o O parcelamento será formalizado, mediante a celebração de contrato de confissão, consolidação e parcelamento de dívida, sem implicar novação, junto ao Banco do Brasil S.A., na qualidade de agente financeiro do Tesouro Nacional.\n\n§ 3o Os contratos de parcelamento das dívidas decorrentes de honra de aval em operações externas incluirão, obrigatoriamente, cláusula que autorize o bloqueio de recursos na rede bancária, à falta de pagamento de qualquer parcela, decorridos 30 (trinta) dias do vencimento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2016.%20Os%20d%C3%A9bitos%20para%20com%20a%20Fazenda%20Nacional%2C%20decorrentes%20de%20avais%20e%20outras%20garantias%20honradas%20em%20opera%C3%A7%C3%B5es%20externas%20e%20internas%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Fica acrescentado o seguinte parágrafo ao art. 84 da Lei no 8.981, de 20 de janeiro de 1995:\n\n\"Art. 84. .........................................................\n\n§ 8o O disposto neste artigo aplica-se aos demais créditos da Fazenda Nacional, cuja inscrição e cobrança como Dívida Ativa da União seja de competência da Procuradoria-Geral da Fazenda Nacional.\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2017.%20Fica%20acrescentado%20o%20seguinte%20par%C3%A1grafo%20ao%20art.%2084%20da%20Lei%20no%208.981%2C%20de%2020%20de%20janeiro%20de%201995%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Ficam dispensados a constituição de créditos da Fazenda Nacional, a inscrição como Dívida Ativa da União, o ajuizamento da respectiva execução fiscal, bem assim cancelados o lançamento e a inscrição, relativamente:\n\nI - à contribuição de que trata a Lei no 7.689, de 15 de dezembro de 1988, incidente sobre o resultado apurado no período-base encerrado em 31 de dezembro de 1988;\n\nII - ao empréstimo compulsório instituído pelo Decreto-Lei no 2.288, de 23 de julho de 1986, sobre a aquisição de veículos automotores e de combustível;\n\nIII - à contribuição ao Fundo de Investimento Social – Finsocial, exigida das empresas exclusivamente vendedoras de mercadorias e mistas, com fundamento no art. 9o da Lei no 7.689, de 1988, na alíquota superior a 0,5% (cinco décimos por cento), conforme Leis nos 7.787, de 30 de junho de 1989, 7.894, de 24 de novembro de 1989, e 8.147, de 28 de dezembro de 1990, acrescida do adicional de 0,1% (um décimo por cento) sobre os fatos geradores relativos ao exercício de 1988, nos termos do art. 22 do Decreto-Lei no 2.397, de 21 de dezembro de 1987;\n\nIV - ao imposto provisório sobre a movimentação ou a transmissão de valores e de créditos e direitos de natureza financeira – IPMF, instituído pela Lei Complementar no 77, de 13 de julho de 1993, relativo ao ano-base 1993, e às imunidades previstas no art. 150, inciso VI, alíneas \"a\", \"b\", \"c\" e \"d\", da Constituição;\n\nV - à taxa de licenciamento de importação, exigida nos termos do art. 10 da Lei no 2.145, de 29 de dezembro de 1953, com a redação da Lei no 7.690, de 15 de dezembro de 1988;\n\nVI - à sobretarifa ao Fundo Nacional de Telecomunicações;\n\nVII – ao adicional de tarifa portuária, salvo em se tratando de operações de importação e exportação de mercadorias quando objeto de comércio de navegação de longo curso;\n\nVIII - à parcela da contribuição ao Programa de Integração Social exigida na forma do Decreto-Lei no 2.445, de 29 de junho de 1988, e do Decreto-Lei no 2.449, de 21 de julho de 1988, na parte que exceda o valor devido com fulcro na Lei Complementar no 7, de 7 de setembro de 1970, e alterações posteriores;\n\nIX - à contribuição para o financiamento da seguridade social – Cofins, nos termos do art. 7o da Lei Complementar no 70, de 30 de dezembro de 1991, com a redação dada pelo art. 1o da Lei Complementar no 85, de 15 de fevereiro de 1996.\n\nX – à Cota de Contribuição revigorada pelo art. 2o do Decreto-Lei no 2.295, de 21 de novembro de 1986. (Incluído pela Lei nº 11.051, de 2004)\n\n§ 1o Ficam cancelados os débitos inscritos em Dívida Ativa da União, de valor consolidado igual ou inferior a R$ 100,00 (cem reais).\n\n§ 2o Os autos das execuções fiscais dos débitos de que trata este artigo serão arquivados mediante despacho do juiz, ciente o Procurador da Fazenda Nacional, salvo a existência de valor remanescente relativo a débitos legalmente exigíveis.\n\n§ 3o O disposto neste artigo não implicará restituição ex officio de quantia paga.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2018.%20Ficam%20dispensados%20a%20constitui%C3%A7%C3%A3o%20de%20cr%C3%A9ditos%20da%20Fazenda%20Nacional%2C%20a%20inscri%C3%A7%C3%A3o%20como%20D%C3%ADvida%20Ativa%20da%20Uni%C3%A3o%2C%20o%20ajuizamento%20da%20respectiva",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "18-A"
+    },
+    "18-A": {
+      "numero": "18-A",
+      "texto": "Art. 18-A. Comitê formado de integrantes do Conselho Administrativo de Recursos Fiscais, da Secretaria Especial da Receita Federal do Brasil do Ministério da Economia e da Procuradoria-Geral da Fazenda Nacional editará enunciados de súmula da administração tributária federal, conforme o disposto em ato do Ministro de Estado da Economia, que deverão ser observados nos atos administrativos, normativos e decisórios praticados pelos referidos órgãos. (Incluído pela Lei nº 13.874, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2018-A.%20Comit%C3%AA%20formado%20de%20integrantes%20do%20Conselho%20Administrativo%20de%20Recursos%20Fiscais%2C%20da%20Secretaria%20Especial%20da%20Receita%20Federal%20do%20Brasil%20do%20Minist%C3%A9rio",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Fica a Procuradoria-Geral da Fazenda Nacional dispensada de contestar, de oferecer contrarrazões e de interpor recursos, e fica autorizada a desistir de recursos já interpostos, desde que inexista outro fundamento relevante, na hipótese em que a ação ou a decisão judicial ou administrativa versar sobre: (Redação dada pela Lei nº 13.874, de 2019)\n\nI - matérias de que trata o art. 18;\n\nII - tema que seja objeto de parecer, vigente e aprovado, pelo Procurador-Geral da Fazenda Nacional, que conclua no mesmo sentido do pleito do particular; (Redação dada pela Lei nº 13.874, de 2019)\n\nIII - (VETADO). (Incluído pela Lei nº 12.788, de 2013)\n\nIV - tema sobre o qual exista súmula ou parecer do Advogado-Geral da União que conclua no mesmo sentido do pleito do particular; (Redação dada pela Lei nº 13.874, de 2019)\n\nV - tema fundado em dispositivo legal que tenha sido declarado inconstitucional pelo Supremo Tribunal Federal em sede de controle difuso e tenha tido sua execução suspensa por resolução do Senado Federal, ou tema sobre o qual exista enunciado de súmula vinculante ou que tenha sido definido pelo Supremo Tribunal Federal em sentido desfavorável à Fazenda Nacional em sede de controle concentrado de constitucionalidade; (Redação dada pela Lei nº 13.874, de 2019)\n\nVI - tema decidido pelo Supremo Tribunal Federal, em matéria constitucional, ou pelo Superior Tribunal de Justiça, pelo Tribunal Superior do Trabalho, pelo Tribunal Superior Eleitoral ou pela Turma Nacional de Uniformização de Jurisprudência, no âmbito de suas competências, quando: (Incluído pela Lei nº 13.874, de 2019)\n\na) for definido em sede de repercussão geral ou recurso repetitivo; ou (Incluída pela Lei nº 13.874, de 2019)\n\nb) não houver viabilidade de reversão da tese firmada em sentido desfavorável à Fazenda Nacional, conforme critérios definidos em ato do Procurador-Geral da Fazenda Nacional; e (Incluída pela Lei nº 13.874, de 2019)\n\nVII - tema que seja objeto de súmula da administração tributária federal de que trata o art. 18-A desta Lei. (Incluído pela Lei nº 13.874, de 2019)\n\n§ 1o Nas matérias de que trata este artigo, o Procurador da Fazenda Nacional que atuar no feito deverá, expressamente: (Redação dada pela Lei nº 12.844, de 2013)\n\nI - reconhecer a procedência do pedido, quando citado para apresentar resposta, inclusive em embargos à execução fiscal e exceções de pré-executividade, hipóteses em que não haverá condenação em honorários; ou (Incluído pela Lei nº 12.844, de 2013)\n\nII - manifestar o seu desinteresse em recorrer, quando intimado da decisão judicial. (Incluído pela Lei nº 12.844, de 2013)\n\n§ 2o A sentença, ocorrendo a hipótese do § 1o, não se subordinará ao duplo grau de jurisdição obrigatório.\n\n§ 3º (Revogado); (Redação dada pela Lei nº 13.874, de 2019)\n\n§ 4º (Revogado); (Redação dada pela Lei nº 13.874, de 2019)\n\n§ 5º (Revogado); (Redação dada pela Lei nº 13.874, de 2019)\n\n§ 6o - (VETADO). (Incluído pela Lei nº 12.788, de 2013)\n\n§ 7º (Revogado). (Redação dada pela Lei nº 13.874, de 2019)\n\n§ 8º O parecer da Procuradoria-Geral da Fazenda Nacional que examina a juridicidade de proposições normativas não se enquadra no disposto no inciso II do caput deste artigo. (Redação dada pela Lei nº 13.874, de 2019)\n\n§ 9º A dispensa de que tratam os incisos V e VI do caput deste artigo poderá ser estendida a tema não abrangido pelo julgado, quando a ele forem aplicáveis os fundamentos determinantes extraídos do julgamento paradigma ou da jurisprudência consolidada, desde que inexista outro fundamento relevante que justifique a impugnação em juízo. (Incluído pela Lei nº 13.874, de 2019)\n\n§ 10. O disposto neste artigo estende-se, no que couber, aos demais meios de impugnação às decisões judiciais. (Incluído pela Lei nº 13.874, de 2019)\n\n§ 11. O disposto neste artigo aplica-se a todas as causas em que as unidades da Procuradoria-Geral da Fazenda Nacional devam atuar na qualidade de representante judicial ou de autoridade coatora. (Incluído pela Lei nº 13.874, de 2019)\n\n§ 12. Os órgãos do Poder Judiciário e as unidades da Procuradoria-Geral da Fazenda Nacional poderão, de comum acordo, realizar mutirões para análise do enquadramento de processos ou de recursos nas hipóteses previstas neste artigo e celebrar negócios processuais com fundamento no disposto no art. 190 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil). (Incluído pela Lei nº 13.874, de 2019) (Vide Lei nº 14.057, de 2020)\n\n§ 13. Sem prejuízo do disposto no § 12 deste artigo, a Procuradoria-Geral da Fazenda Nacional regulamentará a celebração de negócios jurídicos processuais em seu âmbito de atuação, inclusive na cobrança administrativa ou judicial da dívida ativa da União. (Incluído pela Lei nº 13.874, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2019.%20Fica%20a%20Procuradoria-Geral%20da%20Fazenda%20Nacional%20dispensada%20de%20contestar%2C%20de%20oferecer%20contrarraz%C3%B5es%20e%20de%20interpor%20recursos%2C%20e%20fica%20autorizada%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18-A",
+      "next": "19-A"
+    },
+    "19-A": {
+      "numero": "19-A",
+      "texto": "Art. 19-A. Os Auditores-Fiscais da Secretaria Especial da Receita Federal do Brasil não constituirão os créditos tributários relativos aos temas de que trata o art. 19 desta Lei, observado: (Incluído pela Lei nº 13.874, de 2019)\n\nI - o disposto no parecer a que se refere o inciso II do caput do art. 19 desta Lei, que será aprovado na forma do art. 42 da Lei Complementar nº 73, de 10 de fevereiro de 1993, ou que terá concordância com a sua aplicação pela Secretaria Especial da Receita Federal do Brasil do Ministério da Economia; (Incluído pela Lei nº 13.874, de 2019)\n\nII - o parecer a que se refere o inciso IV do caput do art. 19 desta Lei, que será aprovado na forma do disposto no art. 40 da Lei Complementar nº 73, de 10 de fevereiro de 1993, ou que, quando não aprovado por despacho do Presidente da República, terá concordância com a sua aplicação pelo Ministro de Estado da Economia; ou (Incluído pela Lei nº 13.874, de 2019)\n\nIII - nas hipóteses de que tratam o inciso VI do caput e o § 9º do art. 19 desta Lei, a Procuradoria-Geral da Fazenda Nacional deverá manifestar-se sobre as matérias abrangidas por esses dispositivos. (Incluído pela Lei nº 13.874, de 2019)\n\n§ 1º Os Auditores-Fiscais da Secretaria Especial da Receita Federal do Brasil do Ministério da Economia adotarão, em suas decisões, o entendimento a que estiverem vinculados, inclusive para fins de revisão de ofício do lançamento e de repetição de indébito administrativa. (Incluído pela Lei nº 13.874, de 2019)\n\n§ 2º O disposto neste artigo aplica-se, no que couber, aos responsáveis pela retenção de tributos e, ao emitirem laudos periciais para atestar a existência de condições que gerem isenção de tributos, aos serviços médicos oficiais. (Incluído pela Lei nº 13.874, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2019-A.%20Os%20Auditores-Fiscais%20da%20Secretaria%20Especial%20da%20Receita%20Federal%20do%20Brasil%20n%C3%A3o%20constituir%C3%A3o%20os%20cr%C3%A9ditos%20tribut%C3%A1rios%20relativos%20aos%20temas%20de%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "19-B"
+    },
+    "19-B": {
+      "numero": "19-B",
+      "texto": "Art. 19-B. Os demais órgãos da administração pública que administrem créditos tributários e não tributários passíveis de inscrição e de cobrança pela Procuradoria-Geral da Fazenda Nacional encontram-se dispensados de constituir e de promover a cobrança com fundamento nas hipóteses de dispensa de que trata o art. 19 desta Lei. (Incluído pela Lei nº 13.874, de 2019)\n\nParágrafo único. A aplicação do disposto no caput deste artigo observará, no que couber, as disposições do art. 19-A desta Lei. (Incluído pela Lei nº 13.874, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2019-B.%20Os%20demais%20%C3%B3rg%C3%A3os%20da%20administra%C3%A7%C3%A3o%20p%C3%BAblica%20que%20administrem%20cr%C3%A9ditos%20tribut%C3%A1rios%20e%20n%C3%A3o%20tribut%C3%A1rios%20pass%C3%ADveis%20de%20inscri%C3%A7%C3%A3o%20e%20de%20cobran%C3%A7a%20pela",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-A",
+      "next": "19-C"
+    },
+    "19-C": {
+      "numero": "19-C",
+      "texto": "Art. 19-C. A Procuradoria-Geral da Fazenda Nacional poderá dispensar a prática de atos processuais, inclusive poderá desistir de recursos interpostos, e autorizar a realização de acordos em fase de cumprimento de sentença, a fim de atender a critérios de racionalidade, de economicidade e de eficiência. (Redação dada pela Lei nº 14.195, de 2021)\n\n§ 1º O disposto no caput deste artigo inclui o estabelecimento de parâmetros de valor para a dispensa da prática de atos processuais. (Incluído pela Lei nº 13.874, de 2019)\n\n§ 2º A aplicação do disposto neste artigo não implicará o reconhecimento da procedência do pedido formulado pelo autor. (Incluído pela Lei nº 13.874, de 2019)\n\n§ 3º O disposto neste artigo aplica-se, inclusive, à atuação da Procuradoria-Geral da Fazenda Nacional no âmbito do contencioso administrativo fiscal. (Incluído pela Lei nº 13.874, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2019-C.%20A%20Procuradoria-Geral%20da%20Fazenda%20Nacional%20poder%C3%A1%20dispensar%20a%20pr%C3%A1tica%20de%20atos%20processuais%2C%20inclusive%20poder%C3%A1%20desistir%20de%20recursos%20interpostos%2C%20e%20autorizar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-B",
+      "next": "19-D"
+    },
+    "19-D": {
+      "numero": "19-D",
+      "texto": "Art. 19-D. O disposto nos arts. 19, 19-B, 19-C, 19-F, 20-A, 20-B, 20-C e 20-D desta Lei e nos arts. 17 e 18 da Lei nº 14.195, de 26 de agosto de 2021, aplica-se, no que couber, à Procuradoria-Geral da União, à Procuradoria-Geral Federal e à Procuradoria-Geral do Banco Central do Brasil, sem prejuízo do disposto na Lei nº 9.469, de 10 de julho de 1997. (Redação dada pela Lei nº 14.375, de 2022)\n\n§ 1º Aos órgãos da administração pública federal direta, representados pela Procuradoria-Geral da União, e às autarquias e fundações públicas, representadas pela Procuradoria-Geral Federal ou pela Procuradoria-Geral do Banco Central do Brasil, aplica-se, no que couber, o disposto no art. 19-B desta Lei. (Incluído pela Lei nº 13.874, de 2019)\n\n§ 2º Ato do Advogado-Geral da União disciplinará o disposto neste artigo. (Incluído pela Lei nº 13.874, de 2019)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2019-D.%20O%20disposto%20nos%20arts.%2019%2C%2019-B%2C%2019-C%2C%2019-F%2C%2020-A%2C%2020-B%2C%2020-C%20e%2020-D%20desta%20Lei%20e%20nos%20arts.%2017%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-C",
+      "next": "19-E"
+    },
+    "19-E": {
+      "numero": "19-E",
+      "texto": "Art. 19-E. (Revogado pela Lei nº 14.689, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2019-E.%20%28Revogado%20pela%20Lei%20n%C2%BA%2014.689%2C%20de%202023%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-D",
+      "next": "19-F"
+    },
+    "19-F": {
+      "numero": "19-F",
+      "texto": "Art. 19-F. A Procuradoria-Geral da Fazenda Nacional poderá contratar, por meio de processo licitatório ou credenciamento, serviços de terceiros para auxiliar sua atividade de cobrança. (Incluído pela Lei nº 14.195, de 2021)\n\n§ 1º Os serviços referidos no caput deste artigo restringem-se à execução de atos relacionados à cobrança administrativa da dívida ativa que prescindam da utilização de informações protegidas por sigilo fiscal, tais como o contato com os devedores por via telefônica ou por meios digitais, e à administração de bens oferecidos em garantia administrativa ou judicial ou penhorados em execuções fiscais, incluídas atividades de depósito, de guarda, de transporte, de conservação e de alienação desses bens. (Incluído pela Lei nº 14.195, de 2021)\n\n§ 2º O órgão responsável, no âmbito de suas competências, deverá regulamentar o disposto neste artigo e definir os requisitos para contratação ou credenciamento, os critérios para seleção das dívidas, o valor máximo admissível e a forma de remuneração do contratado, que poderá ser por taxa de êxito, desde que demonstrada a sua maior adequação ao interesse público e às práticas usuais de mercado. (Incluído pela Lei nº 14.195, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2019-F.%20A%20Procuradoria-Geral%20da%20Fazenda%20Nacional%20poder%C3%A1%20contratar%2C%20por%20meio%20de%20processo%20licitat%C3%B3rio%20ou%20credenciamento%2C%20servi%C3%A7os%20de%20terceiros%20para%20auxiliar%20sua",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-E",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Serão arquivados, sem baixa na distribuição, por meio de requerimento do Procurador da Fazenda Nacional, os autos das execuções fiscais de débitos inscritos em dívida ativa da União pela Procuradoria-Geral da Fazenda Nacional ou por ela cobrados, de valor consolidado igual ou inferior àquele estabelecido em ato do Procurador-Geral da Fazenda Nacional. (Redação dada pela Lei nº 13.874, de 2019)\n\n§ 1o Os autos de execução a que se refere este artigo serão reativados quando os valores dos débitos ultrapassarem os limites indicados.\n\n§ 2o Serão extintas, mediante requerimento do Procurador da Fazenda Nacional, as execuções que versem exclusivamente sobre honorários devidos à Fazenda Nacional de valor igual ou inferior a R$ 1.000,00 (mil reais). (Redação dada pela Lei nº 11.033, de 2004)\n\n§ 3o (Revogado pela Lei nº 13.043, de 2014)\n\n§ 4o No caso de reunião de processos contra o mesmo devedor, na forma do art. 28 da Lei no 6.830, de 22 de setembro de 1980, para os fins de que trata o limite indicado no caput deste artigo, será considerada a soma dos débitos consolidados das inscrições reunidas. (Incluído pela Lei nº 11.033, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2020.%20Ser%C3%A3o%20arquivados%2C%20sem%20baixa%20na%20distribui%C3%A7%C3%A3o%2C%20por%20meio%20de%20requerimento%20do%20Procurador%20da%20Fazenda%20Nacional%2C%20os%20autos%20das%20execu%C3%A7%C3%B5es%20fiscais",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-F",
+      "next": "20-A"
+    },
+    "20-A": {
+      "numero": "20-A",
+      "texto": "Art. 20-A. Nos casos de execução contra a Fazenda Nacional, é a Procuradoria-Geral da Fazenda Nacional autorizada a não opor embargos, quando o valor pleiteado pelo exequente for inferior àquele fixado em ato do Ministro da Fazenda. (Incluído pela Lei nº 12.649, de 2012)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2020-A.%20Nos%20casos%20de%20execu%C3%A7%C3%A3o%20contra%20a%20Fazenda%20Nacional%2C%20%C3%A9%20a%20Procuradoria-Geral%20da%20Fazenda%20Nacional%20autorizada%20a%20n%C3%A3o%20opor%20embargos%2C%20quando",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "20-B"
+    },
+    "20-B": {
+      "numero": "20-B",
+      "texto": "Art. 20-B. Inscrito o crédito em dívida ativa da União, o devedor será notificado para, em até cinco dias, efetuar o pagamento do valor atualizado monetariamente, acrescido de juros, multa e demais encargos nela indicados (Incluído pela Lei nº 13.606, de 2018) (Vide ADIN 5881) (Vide ADIN 5886) (Vide ADIN 5890) (Vide ADIN 5925) (Vide ADIN 5931) (Vide ADIN 5932)\n\n§ 1o A notificação será expedida por via eletrônica ou postal para o endereço do devedor e será considerada entregue depois de decorridos quinze dias da respectiva expedição. (Incluído pela Lei nº 13.606, de 2018)\n\n§ 2o Presume-se válida a notificação expedida para o endereço informado pelo contribuinte ou responsável à Fazenda Pública. (Incluído pela Lei nº 13.606, de 2018)\n\n§ 3o Não pago o débito no prazo fixado no caput deste artigo, a Fazenda Pública poderá: (Incluído pela Lei nº 13.606, de 2018) (Vide ADIN 5881) (Vide ADIN 5886) (Vide ADIN 5890) (Vide ADIN 5925) (Vide ADIN 5931) (Vide ADIN 5932)\n\nI - comunicar a inscrição em dívida ativa aos órgãos que operam bancos de dados e cadastros relativos a consumidores e aos serviços de proteção ao crédito e congêneres; e (Incluído pela Lei nº 13.606, de 2018)\n\nII - averbar, inclusive por meio eletrônico, a certidão de dívida ativa nos órgãos de registro de bens e direitos sujeitos a arresto ou penhora, tornando-os indisponíveis. (Incluído pela Lei nº 13.606, de 2018) (Vide ADIN 5881) (Vide ADIN 5886) (Vide ADIN 5890) (Vide ADIN 5925) (Vide ADIN 5931) (Vide ADIN 5932)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2020-B.%20Inscrito%20o%20cr%C3%A9dito%20em%20d%C3%ADvida%20ativa%20da%20Uni%C3%A3o%2C%20o%20devedor%20ser%C3%A1%20notificado%20para%2C%20em%20at%C3%A9%20cinco%20dias%2C%20efetuar%20o%20pagamento",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20-A",
+      "next": "20-C"
+    },
+    "20-C": {
+      "numero": "20-C",
+      "texto": "Art. 20-C. A Procuradoria-Geral da Fazenda Nacional poderá condicionar o ajuizamento de execuções fiscais à verificação de indícios de bens, direitos ou atividade econômica dos devedores ou corresponsáveis, desde que úteis à satisfação integral ou parcial dos débitos a serem executados. (Incluído pela Lei nº 13.606, de 2018)\n\nParágrafo único. Compete ao Procurador-Geral da Fazenda Nacional definir os limites, critérios e parâmetros para o ajuizamento da ação de que trata o caput deste artigo, observados os critérios de racionalidade, economicidade e eficiência. (Incluído pela Lei nº 13.606, de 2018)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2020-C.%20A%20Procuradoria-Geral%20da%20Fazenda%20Nacional%20poder%C3%A1%20condicionar%20o%20ajuizamento%20de%20execu%C3%A7%C3%B5es%20fiscais%20%C3%A0%20verifica%C3%A7%C3%A3o%20de%20ind%C3%ADcios%20de%20bens%2C%20direitos%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20-B",
+      "next": "20-D"
+    },
+    "20-D": {
+      "numero": "20-D",
+      "texto": "Art. 20-D. Sem prejuízo da utilização das medidas judicias para recuperação e acautelamento dos créditos inscritos, se houver indícios da prática de ato ilícito previsto na legislação tributária, civil e empresarial como causa de responsabilidade de terceiros por parte do contribuinte, sócios, administradores, pessoas relacionadas e demais responsáveis, a Procuradoria-Geral da Fazenda Nacional poderá, a critério exclusivo da autoridade fazendária: (Incluído pela Lei nº 13.606, de 2018)\n\nI - notificar as pessoas de que trata o caput deste artigo ou terceiros para prestar depoimentos ou esclarecimentos; (Incluído pela Lei nº 13.606, de 2018)\n\nII - requisitar informações, exames periciais e documentos de autoridades federais, estaduais e municipais, bem como dos órgãos e entidades da Administração Pública direta, indireta ou fundacional, de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios; (Incluído pela Lei nº 13.606, de 2018)\n\nIII - instaurar procedimento administrativo para apuração de responsabilidade por débito inscrito em dívida ativa da União, ajuizado ou não, observadas, no que couber, as disposições da Lei no 9.784, de 29 de janeiro de 1999. (Incluído pela Lei nº 13.606, de 2018)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2020-D.%20Sem%20preju%C3%ADzo%20da%20utiliza%C3%A7%C3%A3o%20das%20medidas%20judicias%20para%20recupera%C3%A7%C3%A3o%20e%20acautelamento%20dos%20cr%C3%A9ditos%20inscritos%2C%20se%20houver%20ind%C3%ADcios%20da%20pr%C3%A1tica%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20-C",
+      "next": "20-E"
+    },
+    "20-E": {
+      "numero": "20-E",
+      "texto": "Art. 20-E. A Procuradoria-Geral da Fazenda Nacional editará atos complementares para o fiel cumprimento do disposto nos arts. 20-B, 20-C e 20-D desta Lei. (Incluído pela Lei nº 13.606, de 2018) (Vide ADIN 5881) (Vide ADIN 5886) (Vide ADIN 5890) (Vide ADIN 5925) (Vide ADIN 5931) (Vide ADIN 5932)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2020-E.%20A%20Procuradoria-Geral%20da%20Fazenda%20Nacional%20editar%C3%A1%20atos%20complementares%20para%20o%20fiel%20cumprimento%20do%20disposto%20nos%20arts.%2020-B%2C%2020-C%20e%2020-D",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20-D",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Fica isento do pagamento dos honorários de sucumbência o autor da demanda de natureza tributária, proposta contra a União (Fazenda Nacional), que desistir da ação e renunciar ao direito sobre que ela se funda, desde que:\n\nI - a decisão proferida no processo de conhecimento não tenha transitado em julgado;\n\nII - a renúncia e o pedido de conversão dos depósitos judiciais em renda da União sejam protocolizados até 15 de setembro de 1997.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2021.%20Fica%20isento%20do%20pagamento%20dos%20honor%C3%A1rios%20de%20sucumb%C3%AAncia%20o%20autor%20da%20demanda%20de%20natureza%20tribut%C3%A1ria%2C%20proposta%20contra%20a%20Uni%C3%A3o%20%28Fazenda",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20-E",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. O pedido poderá ser homologado pelo juiz, pelo relator do recurso, ou pelo presidente do tribunal, ficando extinto o crédito tributário, até o limite dos depósitos convertidos.\n\n§ 1o Na hipótese de a homologação ser da competência do relator ou do presidente do tribunal, incumbirá ao autor peticionar ao juiz de primeiro grau que houver apreciado o feito, informando a homologação da renúncia para que este determine, de imediato, a conversão dos depósitos em renda da União, independentemente do retorno dos autos do processo ou da respectiva ação cautelar à vara de origem.\n\n§ 2o A petição de que trata o § 1o deverá conter o número da conta a que os depósitos estejam vinculados e virá acompanhada de cópia da página do órgão oficial onde tiver sido publicado o ato homologatório.\n\n§ 3o Com a renúncia da ação principal deverão ser extintas todas as ações cautelares a ela vinculadas, nas quais não será devida verba de sucumbência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2022.%20O%20pedido%20poder%C3%A1%20ser%20homologado%20pelo%20juiz%2C%20pelo%20relator%20do%20recurso%2C%20ou%20pelo%20presidente%20do%20tribunal%2C%20ficando%20extinto%20o%20cr%C3%A9dito",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. O ofício para que o depositário proceda à conversão de depósito em renda deverá ser expedido no prazo máximo de 15 (quinze) dias, contado da data do despacho judicial que acolher a petição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2023.%20O%20of%C3%ADcio%20para%20que%20o%20deposit%C3%A1rio%20proceda%20%C3%A0%20convers%C3%A3o%20de%20dep%C3%B3sito%20em%20renda%20dever%C3%A1%20ser%20expedido%20no%20prazo%20m%C3%A1ximo%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. As pessoas jurídicas de direito público são dispensadas de autenticar as cópias reprográficas de quaisquer documentos que apresentem em juízo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2024.%20As%20pessoas%20jur%C3%ADdicas%20de%20direito%20p%C3%BAblico%20s%C3%A3o%20dispensadas%20de%20autenticar%20as%20c%C3%B3pias%20reprogr%C3%A1ficas%20de%20quaisquer%20documentos%20que%20apresentem%20em%20ju%C3%ADzo.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. O termo de inscrição em Dívida Ativa da União, bem como o das autarquias e fundações públicas federais, a Certidão de Dívida Ativa dele extraída e a petição inicial em processo de execução fiscal poderão ser subscritos manualmente, ou por chancela mecânica ou eletrônica, observadas as disposições legais. (Redação dada pela Lei nº 11.941, de 2009)\n\nParágrafo único. O disposto no caput deste artigo aplica-se, também, à inscrição em Dívida Ativa e à cobrança judicial da contribuição, multas e demais encargos previstos na legislação respectiva, relativos ao Fundo de Garantia do Tempo de Serviço.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2025.%20O%20termo%20de%20inscri%C3%A7%C3%A3o%20em%20D%C3%ADvida%20Ativa%20da%20Uni%C3%A3o%2C%20bem%20como%20o%20das%20autarquias%20e%20funda%C3%A7%C3%B5es%20p%C3%BAblicas%20federais%2C%20a%20Certid%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Fica suspensa a restrição para transferência de recursos federais a Estados, Distrito Federal e Municípios destinados à execução de ações sociais ou ações em faixa de fronteira, em decorrência de inadimplementos objetos de registro no Cadin e no Sistema Integrado de Administração Financeira do Governo Federal - SIAFI. (Redação dada pela Lei nº 12.810, de 2013)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2026.%20Fica%20suspensa%20a%20restri%C3%A7%C3%A3o%20para%20transfer%C3%AAncia%20de%20recursos%20federais%20a%20Estados%2C%20Distrito%20Federal%20e%20Munic%C3%ADpios%20destinados%20%C3%A0%20execu%C3%A7%C3%A3o%20de%20a%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "26-A"
+    },
+    "26-A": {
+      "numero": "26-A",
+      "texto": "Art. 26-A. O órgão ou entidade que receber recursos para execução de convênios, contratos de repasse e termos de parcerias na forma estabelecida pela legislação federal estará sujeito a prestar contas da sua boa e regular aplicação, observando-se o disposto nos §§ 1o a 10 deste artigo. (Incluído pela Lei nº 12.810, de 2013)\n\n§ 1o Norma específica disporá sobre o prazo para prestação de contas e instauração de tomada de contas especial, se for o caso. (Incluído pela Lei nº 12.810, de 2013)\n\n§ 2o Quando a prestação de contas não for encaminhada no prazo estabelecido, será concedido o prazo máximo de 30 (trinta) dias para sua apresentação, ou recolhimento dos recursos, incluídos os rendimentos da aplicação no mercado financeiro, atualizados monetariamente e acrescidos de juros de mora, na forma da lei. (Incluído pela Lei nº 12.810, de 2013)\n\n§ 3o Para os convênios em que não tenha havido qualquer execução física nem utilização dos recursos, o recolhimento à conta única do Tesouro deverá ocorrer sem a incidência de juros de mora, mas com os rendimentos da aplicação financeira. (Incluído pela Lei nº 12.810, de 2013)\n\n§ 4o Apresentada a prestação de contas, o concedente deverá apreciá-la aprovando ou rejeitando, total ou parcialmente, as contas, de forma motivada. (Incluído pela Lei nº 12.810, de 2013)\n\n§ 5o Na ocorrência de uma das hipóteses de inadimplência previstas nos §§ 1o a 4o, ou no caso de as contas prestadas serem rejeitadas total ou parcialmente, o concedente registrará a inadimplência no sistema de gestão do instrumento e comunicará o fato ao órgão de contabilidade analítica a que estiver vinculado, para fins de instauração de tomada de contas especial, ou outro procedimento de apuração no qual sejam garantidos oportunizados o contraditório e a ampla defesa das partes envolvidas. (Incluído pela Lei nº 12.810, de 2013)\n\n§ 6o Confirmada a existência de prejuízo ao erário ou desvio dos recursos na forma do § 5o, serão implementadas medidas administrativas ou judiciais para recuperação dos valores, sob pena de responsabilização solidária. (Incluído pela Lei nº 12.810, de 2013)\n\n§ 7o Cabe ao prefeito e ao governador sucessores prestarem contas dos recursos provenientes de convênios, contratos de repasse e termos de parcerias firmados pelos seus antecessores. (Incluído pela Lei nº 12.810, de 2013)\n\n§ 8o Na impossibilidade de atender ao disposto no § 7o, deverão ser apresentadas ao concedente justificativas que demonstrem o impedimento de prestar contas e solicitação de instauração de tomada de contas especial. (Incluído pela Lei nº 12.810, de 2013)\n\n§ 9o Adotada a providência prevista no § 8o, o registro de inadimplência do órgão ou entidade será suspenso, no prazo de até 48 (quarenta e oito) horas, pelo concedente. (Incluído pela Lei nº 12.810, de 2013)\n\n§ 10. Norma específica disporá sobre o prazo para registro de inadimplência no sistema de gestão do instrumento e a forma de notificação prévia com os referidos prazos. (Incluído pela Lei nº 12.810, de 2013)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2026-A.%20O%20%C3%B3rg%C3%A3o%20ou%20entidade%20que%20receber%20recursos%20para%20execu%C3%A7%C3%A3o%20de%20conv%C3%AAnios%2C%20contratos%20de%20repasse%20e%20termos%20de%20parcerias%20na%20forma",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Não cabe recurso de ofício das decisões prolatadas pela Secretaria da Receita Federal do Brasil, em processos relativos a tributos administrados por esse órgão: (Redação dada pela Lei nº 12.788, de 2013)\n\nI - quando se tratar de pedido de restituição de tributos; (Incluído pela Lei nº 12.788, de 2013)\n\nII - quando se tratar de ressarcimento de créditos do Imposto sobre Produtos Industrializados - IPI, da Contribuição para o PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social - COFINS; (Incluído pela Lei nº 12.788, de 2013)\n\nIII - quando se tratar de reembolso do salário-família e do salário-maternidade; (Incluído pela Lei nº 12.788, de 2013)\n\nIV - quando se tratar de homologação de compensação; (Incluído pela Lei nº 12.788, de 2013)\n\nV - nos casos de redução de penalidade por retroatividade benigna; e (Incluído pela Lei nº 12.788, de 2013)\n\nVI - nas hipóteses em que a decisão estiver fundamentada em decisão proferida em ação direta de inconstitucionalidade, em súmula vinculante proferida pelo Supremo Tribunal Federal e no disposto no § 6o do art. 19. (Incluído pela Lei nº 12.788, de 2013)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2027.%20N%C3%A3o%20cabe%20recurso%20de%20of%C3%ADcio%20das%20decis%C3%B5es%20prolatadas%20pela%20Secretaria%20da%20Receita%20Federal%20do%20Brasil%2C%20em%20processos%20relativos%20a%20tributos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26-A",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. O inciso II do art. 3o da Lei no 8.748, de 9 de dezembro de 1993, passa a ter a seguinte redação:\n\n\"II - julgar recurso voluntário de decisão de primeira instância nos processos relativos a restituição de impostos e contribuições e a ressarcimento de créditos do Imposto sobre Produtos Industrializados.\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2028.%20O%20inciso%20II%20do%20art.%203o%20da%20Lei%20no%208.748%2C%20de%209%20de%20dezembro%20de%201993%2C%20passa%20a%20ter%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Os débitos de qualquer natureza para com a Fazenda Nacional e os decorrentes de contribuições arrecadadas pela União, constituídos ou não, cujos fatos geradores tenham ocorrido até 31 de dezembro de 1994, que não hajam sido objeto de parcelamento requerido até 31 de agosto de 1995, expressos em quantidade de Ufir, serão reconvertidos para real, com base no valor daquela fixado para 1o de janeiro de 1997.\n\n§ 1o A partir de 1o de janeiro de 1997, os créditos apurados serão lançados em reais.\n\n§ 2o Para fins de inscrição dos débitos referidos neste artigo em Dívida Ativa da União, deverá ser informado à Procuradoria-Geral da Fazenda Nacional o valor originário dos mesmos, na moeda vigente à época da ocorrência do fato gerador da obrigação.\n\n§ 3o Observado o disposto neste artigo, bem assim a atualização efetuada para o ano de 2000, nos termos do art. 75 da Lei no 9.430, de 27 de dezembro de 1996, fica extinta a Unidade de Referência Fiscal – Ufir, instituída pelo art. 1o da Lei no 8.383, de 30 de dezembro de 1991.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2029.%20Os%20d%C3%A9bitos%20de%20qualquer%20natureza%20para%20com%20a%20Fazenda%20Nacional%20e%20os%20decorrentes%20de%20contribui%C3%A7%C3%B5es%20arrecadadas%20pela%20Uni%C3%A3o%2C%20constitu%C3%ADdos%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Em relação aos débitos referidos no art. 29, bem como aos inscritos em Dívida Ativa da União, passam a incidir, a partir de 1o de janeiro de 1997, juros de mora equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia – Selic para títulos federais, acumulada mensalmente, até o último dia do mês anterior ao do pagamento, e de 1% (um por cento) no mês de pagamento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2030.%20Em%20rela%C3%A7%C3%A3o%20aos%20d%C3%A9bitos%20referidos%20no%20art.%2029%2C%20bem%20como%20aos%20inscritos%20em%20D%C3%ADvida%20Ativa%20da%20Uni%C3%A3o%2C%20passam%20a%20incidir%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Ficam dispensados a constituição de créditos da Comissão de Valores Mobiliários – CVM, a inscrição na sua Dívida Ativa e o ajuizamento da respectiva execução fiscal, bem assim cancelados o lançamento e a inscrição relativamente:\n\nI - à taxa de fiscalização e seus acréscimos, de que trata a Lei no 7.940, de 20 de dezembro de 1989, devida a partir de 1o de janeiro de 1990 àquela autarquia, pelas companhias fechadas beneficiárias de incentivos fiscais;\n\nII - às multas cominatórias que tiverem sido aplicadas a essas companhias nos termos da Instrução CVM no 92, de 8 de dezembro de 1988.\n\n§ 1o O disposto neste artigo somente se aplica àquelas companhias que tenham patrimônio líquido igual ou inferior a R$ 10.000.000,00 (dez milhões de reais), conforme demonstrações financeiras do último exercício social, devidamente auditadas por auditor independente registrado na CVM e procedam ao cancelamento do seu registro na CVM, mediante oferta pública de aquisição da totalidade desses títulos, nos termos do art. 20 e seguintes da Instrução CVM no 265, de 18 de julho de 1997, caso tenham ações disseminadas no mercado, em 31 de outubro de 1997.\n\n§ 2o Os autos das execuções fiscais dos débitos de que trata este artigo serão arquivados mediante despacho do juiz, ciente o Procurador da CVM, salvo a existência de valor remanescente relativo a débitos legalmente exigíveis.\n\n§ 3o O disposto neste artigo não implicará restituição de quantias pagas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2031.%20Ficam%20dispensados%20a%20constitui%C3%A7%C3%A3o%20de%20cr%C3%A9ditos%20da%20Comiss%C3%A3o%20de%20Valores%20Mobili%C3%A1rios%20%E2%80%93%20CVM%2C%20a%20inscri%C3%A7%C3%A3o%20na%20sua%20D%C3%ADvida%20Ativa%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. O art. 33 do Decreto no 70.235, de 6 de março de 1972, que, por delegação do Decreto-Lei no 822, de 5 de setembro de 1969, regula o processo administrativo de determinação e exigência de créditos tributários da União, passa a vigorar com a seguinte alteração:\n\n\"Art. 33...................................................\n\n§ 1o No caso de provimento a recurso de ofício, o prazo para interposição de recurso voluntário começará a fluir da ciência, pelo sujeito passivo, da decisão proferida no julgamento do recurso de ofício.\n\n§ 2o (Vide Adin nº 1.976-7)\n\n§ 3o O arrolamento de que trata o § 2o será realizado preferencialmente sobre bens imóveis.\n\n§ 4o O Poder Executivo editará as normas regulamentares necessárias à operacionalização do arrolamento previsto no § 2o.\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2032.%20O%20art.%2033%20do%20Decreto%20no%2070.235%2C%20de%206%20de%20mar%C3%A7o%20de%201972%2C%20que%2C%20por%20delega%C3%A7%C3%A3o%20do%20Decreto-Lei%20no%20822%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2033.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. Fica acrescentado o seguinte parágrafo ao art. 98 da Lei no 8.212, de 24 de julho de 1991:\n\n\"§ 11. O disposto neste artigo aplica-se às execuções fiscais da Dívida Ativa da União.\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2034.%20Fica%20acrescentado%20o%20seguinte%20par%C3%A1grafo%20ao%20art.%2098%20da%20Lei%20no%208.212%2C%20de%2024%20de%20julho%20de%201991%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. As certidões expedidas pelos órgãos da administração fiscal e tributária poderão ser emitidas pela internet (rede mundial de computadores) com as seguintes características:\n\nI - serão válidas independentemente de assinatura ou chancela de servidor dos órgãos emissores;\n\nII - serão instituídas pelo órgão emissor mediante ato específico publicado no Diário Oficial da União onde conste o modelo do documento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2035.%20As%20certid%C3%B5es%20expedidas%20pelos%20%C3%B3rg%C3%A3os%20da%20administra%C3%A7%C3%A3o%20fiscal%20e%20tribut%C3%A1ria%20poder%C3%A3o%20ser%20emitidas%20pela%20internet%20%28rede%20mundial%20de%20computadores%29%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. O inciso II do art. 11 da Lei no 9.641, de 25 de maio de 1998, passa a vigorar com a seguinte redação:\n\n\"II – o pagamento da gratificação será devido até que seja definida e implementada a estrutura de apoio administrativo da Procuradoria-Geral da Fazenda Nacional.\"\n\n...................................................................\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2036.%20O%20inciso%20II%20do%20art.%2011%20da%20Lei%20no%209.641%2C%20de%2025%20de%20maio%20de%201998%2C%20passa%20a%20vigorar%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Os créditos do Banco Central do Brasil passíveis de inscrição e cobrança como Dívida Ativa e não pagos nos prazos previstos serão acrescidos de: (Redação dada pela Lei nº 12.548, de 2011)\n\nI – juros de mora, contados do primeiro dia do mês subsequente ao do vencimento, equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia – SELIC para os títulos federais, acumulada mensalmente, até o último dia do mês anterior ao do pagamento, e de 1% (um por cento) no mês do pagamento; (Redação dada pela Lei nº 12.548, de 2011)\n\nII – multa de mora de 2% (dois por cento), a partir do primeiro dia após o vencimento do débito, acrescida, a cada 30 (trinta) dias, de igual percentual, até o limite de 20% (vinte por cento), incidente sobre o valor atualizado na forma do inciso I do caput deste artigo. (Redação dada pela Lei nº 12.548, de 2011)\n\n§ 1o Os juros de mora incidentes sobre os créditos provenientes de multas impostas em processo administrativo punitivo que, em razão de recurso, tenham sido confirmadas pela instância superior contam-se do primeiro dia do mês subsequente ao do vencimento, previsto na intimação da decisão de primeira instância. (Redação dada pela Lei nº 12.548, de 2011)\n\n§ 2o Os créditos referidos no caput deste artigo poderão ser parcelados em até 30 (trinta) parcelas mensais, a exclusivo critério do Banco Central do Brasil, na forma e condições por ele estabelecidas, incidindo sobre cada parcela a pagar os juros de mora previstos neste artigo. (Redação dada pela Lei nº 12.548, de 2011)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2037.%20Os%20cr%C3%A9ditos%20do%20Banco%20Central%20do%20Brasil%20pass%C3%ADveis%20de%20inscri%C3%A7%C3%A3o%20e%20cobran%C3%A7a%20como%20D%C3%ADvida%20Ativa%20e%20n%C3%A3o%20pagos%20nos%20prazos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "37-A"
+    },
+    "37-A": {
+      "numero": "37-A",
+      "texto": "Art. 37-A. Os créditos das autarquias e fundações públicas federais, de qualquer natureza, não pagos nos prazos previstos na legislação, serão acrescidos de juros e multa de mora, calculados nos termos e na forma da legislação aplicável aos tributos federais. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 1o Os créditos inscritos em Dívida Ativa serão acrescidos de encargo legal, substitutivo da condenação do devedor em honorários advocatícios, calculado nos termos e na forma da legislação aplicável à Dívida Ativa da União. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 2o O disposto neste artigo não se aplica aos créditos do Banco Central do Brasil. (Incluído pela Lei nº 11.941, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2037-A.%20Os%20cr%C3%A9ditos%20das%20autarquias%20e%20funda%C3%A7%C3%B5es%20p%C3%BAblicas%20federais%2C%20de%20qualquer%20natureza%2C%20n%C3%A3o%20pagos%20nos%20prazos%20previstos%20na%20legisla%C3%A7%C3%A3o%2C%20ser%C3%A3o%20acrescidos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "37-B"
+    },
+    "37-B": {
+      "numero": "37-B",
+      "texto": "Art. 37-B. Os créditos das autarquias e fundações públicas federais, de qualquer natureza, poderão ser parcelados em até 60 (sessenta) prestações mensais. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 1o O disposto neste artigo somente se aplica aos créditos inscritos em Dívida Ativa e centralizados nas Procuradorias Regionais Federais, Procuradorias Federais nos Estados e Procuradorias Seccionais Federais, nos termos dos §§ 11 e 12 do art. 10 da Lei no 10.480, de 2 de julho de 2002, e do art. 22 da Lei no 11.457, de 16 de março de 2007. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 2o O parcelamento terá sua formalização condicionada ao prévio pagamento da primeira prestação, conforme o montante do débito e o prazo solicitado, observado o disposto no § 9o deste artigo. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 3o Enquanto não deferido o pedido, o devedor fica obrigado a recolher, a cada mês, o valor correspondente a uma prestação. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 4o O não cumprimento do disposto neste artigo implicará o indeferimento do pedido. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 5o Considerar-se-á automaticamente deferido o parcelamento, em caso de não manifestação da autoridade competente no prazo de 90 (noventa) dias, contado da data da protocolização do pedido. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 6o O pedido de parcelamento deferido constitui confissão de dívida e instrumento hábil e suficiente para exigência do crédito, podendo a exatidão dos valores parcelados ser objeto de verificação. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 7o O débito objeto de parcelamento será consolidado na data do pedido. (Incluído pela Lei nº 11.941, de 2009) (Vide Lei nº 12.973, de 2014)\n\n§ 8o O devedor pagará as custas, emolumentos e demais encargos legais. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 9o O valor mínimo de cada prestação mensal será definido por ato do Procurador-Geral Federal. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 10. O valor de cada prestação mensal, por ocasião do pagamento, será acrescido de juros equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia – SELIC para títulos federais, acumulada mensalmente, calculados a partir do mês subsequente ao da consolidação até o mês anterior ao do pagamento, e de 1% (um por cento) relativamente ao mês em que o pagamento estiver sendo efetuado. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 11. A falta de pagamento de 3 (três) parcelas, consecutivas ou não, ou de uma parcela, estando pagas todas as demais, implicará a imediata rescisão do parcelamento e, conforme o caso, o prosseguimento da cobrança. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 12. Atendendo ao princípio da economicidade, observados os termos, os limites e as condições estabelecidos em ato do Procurador-Geral Federal, poderá ser concedido, de ofício ou a pedido, parcelamento simplificado, importando o pagamento da primeira prestação em confissão de dívida e instrumento hábil e suficiente para a exigência do crédito. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 13. Observadas as condições previstas neste artigo, será admitido reparcelamento dos débitos, inscritos em Dívida Ativa das autarquias e fundações públicas federais, constantes de parcelamento em andamento ou que tenha sido rescindido. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 14. A formalização do pedido de reparcelamento fica condicionada ao recolhimento da primeira parcela em valor correspondente a: (Incluído pela Lei nº 11.941, de 2009)\n\nI – 10% (dez por cento) do total dos débitos consolidados; ou (Incluído pela Lei nº 11.941, de 2009)\n\nII – 20% (vinte por cento) do total dos débitos consolidados, caso haja débito com histórico de reparcelamento anterior. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 15. Aplicam-se subsidiariamente aos pedidos de reparcelamento, naquilo que não os contrariar, as demais disposições relativas ao parcelamento previstas neste artigo. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 16. O parcelamento de que trata este artigo será requerido exclusivamente perante as Procuradorias Regionais Federais, as Procuradorias Federais nos Estados e as Procuradorias Seccionais Federais. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 17. A concessão do parcelamento dos débitos a que se refere este artigo compete privativamente às Procuradorias Regionais Federais, às Procuradorias Federais nos Estados e às Procuradorias Seccionais Federais. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 18. A Procuradoria-Geral Federal editará atos necessários à execução do parcelamento de que trata este artigo. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 19. Mensalmente, a Procuradoria-Geral Federal divulgará, no sítio da Advocacia-Geral da União, demonstrativos dos parcelamentos concedidos no âmbito de sua competência. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 20. Ao disposto neste artigo aplicam-se subsidiariamente as regras previstas nesta Lei para o parcelamento dos créditos da Fazenda Nacional. (Incluído pela Lei nº 11.941, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2037-B.%20Os%20cr%C3%A9ditos%20das%20autarquias%20e%20funda%C3%A7%C3%B5es%20p%C3%BAblicas%20federais%2C%20de%20qualquer%20natureza%2C%20poder%C3%A3o%20ser%20parcelados%20em%20at%C3%A9%2060%20%28sessenta%29%20presta%C3%A7%C3%B5es%20mensais.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37-A",
+      "next": "37-C"
+    },
+    "37-C": {
+      "numero": "37-C",
+      "texto": "Art. 37-C. A Advocacia-Geral da União poderá celebrar os convênios de que trata o art. 46 da Lei no 11.457, de 16 de março de 2007, em relação às informações de pessoas físicas ou jurídicas que tenham débito inscrito em Dívida Ativa das autarquias e fundações públicas federais. (Incluído pela Lei nº 11.941, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2037-C.%20A%20Advocacia-Geral%20da%20Uni%C3%A3o%20poder%C3%A1%20celebrar%20os%20conv%C3%AAnios%20de%20que%20trata%20o%20art.%2046%20da%20Lei%20no%2011.457%2C%20de%2016",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37-B",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Ficam convalidados os atos praticados com base na Medida Provisória no 2.176-79, de 23 de agosto de 2001.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2038.%20Ficam%20convalidados%20os%20atos%20praticados%20com%20base%20na%20Medida%20Provis%C3%B3ria%20no%202.176-79%2C%20de%2023%20de%20agosto%20de%202001.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37-C",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. Ficam revogados o art. 11 do Decreto-Lei no 352, de 17 de junho de 1968, e alterações posteriores; o art. 10 do Decreto-Lei no 2.049, de 1o de agosto de 1983; o art. 11 do Decreto-Lei no 2.052, de 3 de agosto de 1983; o art. 11 do Decreto-Lei no 2.163, de 19 de setembro de 1984; os arts. 91, 93 e 94 da Lei no 8.981, de 20 de janeiro de 1995.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2039.%20Ficam%20revogados%20o%20art.%2011%20do%20Decreto-Lei%20no%20352%2C%20de%2017%20de%20junho%20de%201968%2C%20e%20altera%C3%A7%C3%B5es%20posteriores%3B%20o%20art.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. Esta Lei entra em vigor na data de sua publicação.\n\nBrasília, 19 de julho de 2002; 181o da Independência e 114o da República.\n\nFERNANDO HENRIQUE CARDOSO Pedro Malan\n\nEste texto não substitui o publicado no D.O.U. de 22.7.2002",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10522compilado.htm#:~:text=Art.%2040.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": null
+    }
+  }
+}

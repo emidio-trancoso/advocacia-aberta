@@ -1,0 +1,479 @@
+{
+  "_meta": {
+    "codigo": "L10684",
+    "nome": "Parcelamento Especial – PAES",
+    "lei": "Lei 10.684/2003",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm",
+    "total_artigos": 29,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1o Os débitos junto à Secretaria da Receita Federal ou à Procuradoria-Geral da Fazenda Nacional, com vencimento até 28 de fevereiro de 2003, poderão ser parcelados em até cento e oitenta prestações mensais e sucessivas.\n\n§ 1o O disposto neste artigo aplica-se aos débitos constituídos ou não, inscritos ou não como Dívida Ativa, mesmo em fase de execução fiscal já ajuizada, ou que tenham sido objeto de parcelamento anterior, não integralmente quitado, ainda que cancelado por falta de pagamento.\n\n§ 2o Os débitos ainda não constituídos deverão ser confessados, de forma irretratável e irrevogável.\n\n§ 3o O débito objeto do parcelamento será consolidado no mês do pedido e será dividido pelo número de prestações, sendo que o montante de cada parcela mensal não poderá ser inferior a:\n\nI – um inteiro e cinco décimos por cento da receita bruta auferida, pela pessoa jurídica, no mês imediatamente anterior ao do vencimento da parcela, exceto em relação às optantes pelo Sistema Simplificado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte - SIMPLES, instituído pela Lei no 9.317, de 5 de dezembro de 1996, e às microempresas e empresas de pequeno porte enquadradas no disposto no art. 2o da Lei no 9.841, de 5 de outubro de 1999, observado o disposto no art. 8o desta Lei, salvo na hipótese do inciso II deste parágrafo, o prazo mínimo de cento e vinte meses;\n\nII – dois mil reais, considerado cumulativamente com o limite estabelecido no inciso I, no caso das pessoas jurídicas ali referidas;\n\nIII – cinqüenta reais, no caso de pessoas físicas.\n\n§ 4o Relativamente às pessoas jurídicas optantes pelo SIMPLES e às microempresas e empresas de pequeno porte, enquadradas no disposto no art. 2o da Lei no 9.841, de 5 de outubro de 1999, o valor da parcela mínima mensal corresponderá a um cento e oitenta avos do total do débito ou a três décimos por cento da receita bruta auferida no mês imediatamente anterior ao do vencimento da parcela, o que for menor, não podendo ser inferior a:\n\nI – cem reais, se enquadrada na condição de microempresa;\n\nII – duzentos reais, se enquadrada na condição de empresa de pequeno porte.\n\n§ 5o Aplica-se o disposto no § 4o às pessoas jurídicas que foram excluídas ou impedidas de ingressar no SIMPLES exclusivamente em decorrência do disposto no inciso XV do art. 9o da Lei no 9.317, de 5 de dezembro de 1996, desde que a pessoa jurídica exerça a opção pelo SIMPLES até o último dia útil de 2003, com efeitos a partir de 1o de janeiro de 2004, nos termos e condições definidos pela Secretaria da Receita Federal.\n\n§ 6o O valor de cada uma das parcelas, determinado na forma dos §§ 3o e 4o, será acrescido de juros correspondentes à variação mensal da Taxa de Juros de Longo Prazo – TJLP, a partir do mês subseqüente ao da consolidação, até o mês do pagamento.\n\n§ 7o Para os fins da consolidação referida no § 3o, os valores correspondentes à multa, de mora ou de ofício, serão reduzidos em cinqüenta por cento.\n\n§ 8o A redução prevista no § 7o não será cumulativa com qualquer outra redução admitida em lei, ressalvado o disposto no § 11.\n\n§ 9o Na hipótese de anterior concessão de redução de multa em percentual diverso de cinqüenta por cento, prevalecerá o percentual referido no § 7o, determinado sobre o valor original da multa.\n\n§ 10. A opção pelo parcelamento de que trata este artigo exclui a concessão de qualquer outro, extinguindo os parcelamentos anteriormente concedidos, admitida a transferência de seus saldos para a modalidade desta Lei. (Vide Lei nº 12.688, de 2012) (Vide Lei nº 13.043, de 2014) (Vide Medida Provisória nº 766, de 2017) (Vide Lei nº 13.496, de 2017)\n\n§ 11. O sujeito passivo fará jus a redução adicional da multa, após a redução referida no § 7o, à razão de vinte e cinco centésimos por cento sobre o valor remanescente para cada ponto percentual do saldo do débito que for liquidado até a data prevista para o requerimento do parcelamento referido neste artigo, após deduzida a primeira parcela determinada nos termos do § 3o ou 4o.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%201o%20Os%20d%C3%A9bitos%20junto%20%C3%A0%20Secretaria%20da%20Receita%20Federal%20ou%20%C3%A0%20Procuradoria-Geral%20da%20Fazenda%20Nacional%2C%20com%20vencimento%20at%C3%A9%2028%20de%20fevereiro",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2o Os débitos incluídos no Programa de Recuperação Fiscal – REFIS, de que trata a Lei no 9.964, de 10 de abril de 2000, ou no parcelamento a ele alternativo, poderão, a critério da pessoa jurídica, ser parcelados nas condições previstas no art. 1o, nos termos a serem estabelecidos pelo Comitê Gestor do mencionado Programa.\n\nParágrafo único. Na hipótese deste artigo:\n\nI – a opção pelo parcelamento na forma deste artigo implica desistência compulsória e definitiva do REFIS ou do parcelamento a ele alternativo;\n\nII – as contribuições arrecadadas pelo Instituto Nacional do Seguro Social - INSS retornarão à administração daquele órgão, sujeitando-se à legislação específica a elas aplicável;\n\nIII - será objeto do parcelamento nos termos do art. 1o o saldo devedor dos débitos relativos aos tributos administrados pela Secretaria da Receita Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%202o%20Os%20d%C3%A9bitos%20inclu%C3%ADdos%20no%20Programa%20de%20Recupera%C3%A7%C3%A3o%20Fiscal%20%E2%80%93%20REFIS%2C%20de%20que%20trata%20a%20Lei%20no%209.964%2C%20de%2010%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3o Ressalvado o disposto no art. 2o, não será concedido o parcelamento de que trata o art. 1o na hipótese de existência de parcelamentos concedidos sob outras modalidades, admitida a transferência dos saldos remanescentes para a modalidade prevista nesta Lei, mediante requerimento do sujeito passivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%203o%20Ressalvado%20o%20disposto%20no%20art.%202o%2C%20n%C3%A3o%20ser%C3%A1%20concedido%20o%20parcelamento%20de%20que%20trata%20o%20art.%201o%20na%20hip%C3%B3tese%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o O parcelamento a que se refere o art. 1o:\n\nI - deverá ser requerido, inclusive na hipótese de transferência de que tratam os arts. 2o e 3o, até o último dia útil do segundo mês subseqüente ao da publicação desta Lei, perante a unidade da Secretaria da Receita Federal ou da Procuradoria-Geral da Fazenda Nacional, responsável pela cobrança do respectivo débito; (Vide Lei nº 10.743, de 9.10.2003)\n\nII – somente alcançará débitos que se encontrarem com exigibilidade suspensa por força dos incisos III a V do art. 151 da Lei no 5.172, de 25 de outubro de 1966, no caso de o sujeito passivo desistir expressamente e de forma irrevogável da impugnação ou do recurso interposto, ou da ação judicial proposta, e renunciar a quaisquer alegações de direito sobre as quais se fundam os referidos processos administrativos e ações judiciais, relativamente à matéria cujo respectivo débito queira parcelar;\n\nIII – reger-se-á pelas disposições da Lei no 10.522, de 19 de julho de 2002, ressalvado o disposto no seu art. 14;\n\nIV – aplica-se, inclusive, à totalidade dos débitos apurados segundo o SIMPLES;\n\nV – independerá de apresentação de garantia ou de arrolamento de bens, mantidas aquelas decorrentes de débitos transferidos de outras modalidades de parcelamento ou de execução fiscal.\n\nParágrafo único. Na hipótese do inciso II, o valor da verba de sucumbência será de um por cento do valor do débito consolidado decorrente da desistência da respectiva ação judicial.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%204o%20O%20parcelamento%20a%20que%20se%20refere%20o%20art.%201o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5o Os débitos junto ao Instituto Nacional do Seguro Social - INSS, oriundos de contribuições patronais, com vencimento até 28 de fevereiro de 2003, serão objeto de acordo para pagamento parcelado em até cento e oitenta prestações mensais, observadas as condições fixadas neste artigo, desde que requerido até o último dia útil do segundo mês subseqüente ao da publicação desta Lei. (Vide Lei nº 10.743, de 9.10.2003)\n\n§ 1o Aplica-se ao parcelamento de que trata este artigo o disposto nos §§ 1o a 11 do art. 1o, observado o disposto no art. 8o.\n\n§ 2o (VETADO)\n\n§ 3o A concessão do parcelamento independerá de apresentação de garantias ou de arrolamento de bens, mantidas aquelas decorrentes de débitos transferidos de outras modalidades de parcelamento ou de execução fiscal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%205o%20Os%20d%C3%A9bitos%20junto%20ao%20Instituto%20Nacional%20do%20Seguro%20Social%20-%20INSS%2C%20oriundos%20de%20contribui%C3%A7%C3%B5es%20patronais%2C%20com%20vencimento%20at%C3%A9%2028%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6o Os depósitos existentes, vinculados aos débitos a serem parcelados nos termos dos arts. 1o e 5o, serão automaticamente convertidos em renda da União ou da Seguridade Social ou do Instituto Nacional do Seguro Social - INSS, conforme o caso, concedendo-se o parcelamento sobre o saldo remanescente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%206o%20Os%20dep%C3%B3sitos%20existentes%2C%20vinculados%20aos%20d%C3%A9bitos%20a%20serem%20parcelados%20nos%20termos%20dos%20arts.%201o%20e%205o%2C%20ser%C3%A3o%20automaticamente%20convertidos%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7o O sujeito passivo será excluído dos parcelamentos a que se refere esta Lei na hipótese de inadimplência, por três meses consecutivos ou seis meses alternados, o que primeiro ocorrer, relativamente a qualquer dos tributos e das contribuições referidos nos arts. 1o e 5o, inclusive os com vencimento após 28 de fevereiro de 2003.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%207o%20O%20sujeito%20passivo%20ser%C3%A1%20exclu%C3%ADdo%20dos%20parcelamentos%20a%20que%20se%20refere%20esta%20Lei%20na%20hip%C3%B3tese%20de%20inadimpl%C3%AAncia%2C%20por%20tr%C3%AAs%20meses",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8o Na hipótese de a pessoa jurídica manter parcelamentos de débitos com base no art. 1o e no art. 5o, simultaneamente, o percentual a que se refere o inciso I do § 3o do art. 1o será reduzido para setenta e cinco centésimos por cento.\n\n§ 1o Caberá à pessoa jurídica requerer a redução referida no caput até o prazo fixado no inciso I do art. 4o e no caput do art. 5o.\n\n§ 2o Ocorrendo liquidação, rescisão ou extinção de um dos parcelamentos, inclusive por exclusão do sujeito passivo, nos termos do art. 7o, aplica-se o percentual fixado no inciso I do § 3o do art. 1o ao parcelamento remanescente, a partir do mês subseqüente ao da ocorrência da liquidação, extinção ou rescisão do parcelamento obtido junto ao outro órgão.\n\n§ 3o A pessoa jurídica deverá informar a liquidação, rescisão ou extinção do parcelamento ao órgão responsável pelo parcelamento remanescente, até o último dia útil do mês subseqüente ao da ocorrência do evento, bem como efetuar o recolhimento da parcela referente àquele mês observando o percentual fixado no inciso I do § 3o do art. 1o.\n\n§ 4o O desatendimento do disposto nos parágrafos anteriores implicará a exclusão do sujeito passivo do parcelamento remanescente e a aplicação do disposto no art. 11.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%208o%20Na%20hip%C3%B3tese%20de%20a%20pessoa%20jur%C3%ADdica%20manter%20parcelamentos%20de%20d%C3%A9bitos%20com%20base%20no%20art.%201o%20e%20no%20art.%205o%2C%20simultaneamente%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9o É suspensa a pretensão punitiva do Estado, referente aos crimes previstos nos arts. 1o e 2o da Lei no 8.137, de 27 de dezembro de 1990, e nos arts. 168A e 337A do Decreto-Lei no 2.848, de 7 de dezembro de 1940 – Código Penal, durante o período em que a pessoa jurídica relacionada com o agente dos aludidos crimes estiver incluída no regime de parcelamento.\n\n§ 1o A prescrição criminal não corre durante o período de suspensão da pretensão punitiva.\n\n§ 2o Extingue-se a punibilidade dos crimes referidos neste artigo quando a pessoa jurídica relacionada com o agente efetuar o pagamento integral dos débitos oriundos de tributos e contribuições sociais, inclusive acessórios.\n\n§ 3º O disposto neste artigo não se aplica ao agente declarado devedor contumaz em decisão administrativa definitiva e inscrito no Cadastro Informativo dos créditos não quitados do setor público federal (Cadin), previsto na Lei nº 10.522, de 19 de julho de 2002. (Incluído pela Lei Complementar nº 225, de 2026)\n\n§ 4º O fato de o agente deixar de ser considerado devedor contumaz não afasta o disposto no § 3º deste artigo em relação aos atos praticados no período em que era assim considerado. (Incluído pela Lei Complementar nº 225, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%209o%20%C3%89%20suspensa%20a%20pretens%C3%A3o%20punitiva%20do%20Estado%2C%20referente%20aos%20crimes%20previstos%20nos%20arts.%201o%20e%202o%20da%20Lei%20no%208.137%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A Secretaria da Receita Federal, a Procuradoria-Geral da Fazenda Nacional e o Instituto Nacional do Seguro Social - INSS expedirão, no âmbito de suas respectivas competências, os atos necessários à execução desta Lei.\n\nParágrafo único. Serão consolidados, por sujeito passivo, os débitos perante a Secretaria da Receita Federal e a Procuradoria-Geral da Fazenda Nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%2010.%20A%20Secretaria%20da%20Receita%20Federal%2C%20a%20Procuradoria-Geral%20da%20Fazenda%20Nacional%20e%20o%20Instituto%20Nacional%20do%20Seguro%20Social%20-%20INSS%20expedir%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Ao sujeito passivo que, optando por parcelamento a que se referem os arts. 1o e 5o, dele for excluído, será vedada a concessão de qualquer outra modalidade de parcelamento até 31 de dezembro de 2006.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%2011.%20Ao%20sujeito%20passivo%20que%2C%20optando%20por%20parcelamento%20a%20que%20se%20referem%20os%20arts.%201o%20e%205o%2C%20dele%20for%20exclu%C3%ADdo%2C%20ser%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. A exclusão do sujeito passivo do parcelamento a que se refere esta Lei, inclusive a prevista no § 4o do art. 8o, independerá de notificação prévia e implicará exigibilidade imediata da totalidade do crédito confessado e ainda não pago e automática execução da garantia prestada, quando existente, restabelecendo-se, em relação ao montante não pago, os acréscimos legais na forma da legislação aplicável à época da ocorrência dos respectivos fatos geradores.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%2012.%20A%20exclus%C3%A3o%20do%20sujeito%20passivo%20do%20parcelamento%20a%20que%20se%20refere%20esta%20Lei%2C%20inclusive%20a%20prevista%20no%20%C2%A7%204o%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Os débitos relativos à contribuição para o Programa de Formação do Patrimônio do Servidor Público (PASEP) dos Estados, do Distrito Federal e dos Municípios, bem como de suas autarquias e fundações públicas, com vencimento até 31 de dezembro de 2002, poderão ser pagos mediante regime especial de parcelamento, por opção da pessoa jurídica de direito público interno devedora.\n\nParágrafo único. A opção referida no caput deverá ser formalizada até o último dia útil do segundo mês subseqüente ao da publicação desta Lei, nos termos e condições estabelecidos pela Secretaria da Receita Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%2013.%20Os%20d%C3%A9bitos%20relativos%20%C3%A0%20contribui%C3%A7%C3%A3o%20para%20o%20Programa%20de%20Forma%C3%A7%C3%A3o%20do%20Patrim%C3%B4nio%20do%20Servidor%20P%C3%BAblico%20%28PASEP%29%20dos%20Estados%2C%20do%20Distrito",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. O regime especial de parcelamento referido no art. 13 implica a consolidação dos débitos na data da opção e abrangerá a totalidade dos débitos existentes em nome do optante, constituídos ou não, inclusive os juros de mora incidentes até a data de opção.\n\nParágrafo único. O débito consolidado na forma deste artigo:\n\nI - sujeitar-se-á, a partir da data da consolidação, a juros equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia - SELIC para títulos federais, acumulada mensalmente, calculados a partir da data de deferimento do pedido até o mês anterior ao do pagamento, e adicionados de um por cento relativamente ao mês em que o pagamento estiver sendo feito;\n\nII - será pago mensalmente, até o último dia útil da primeira quinzena de cada mês, no valor equivalente a, no mínimo, um cento e vinte avos do total do débito consolidado;\n\nIII – o valor de cada parcela não poderá ser inferior a dois mil reais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%2014.%20O%20regime%20especial%20de%20parcelamento%20referido%20no%20art.%2013%20implica%20a%20consolida%C3%A7%C3%A3o%20dos%20d%C3%A9bitos%20na%20data%20da%20op%C3%A7%C3%A3o%20e%20abranger%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. A opção pelo regime especial de parcelamento referido no art. 13 sujeita a pessoa jurídica optante:\n\nI - à confissão irrevogável e irretratável dos débitos referidos no art. 14;\n\nII - ao pagamento regular das parcelas do débito consolidado, bem como dos valores devidos relativos ao PASEP com vencimento após dezembro de 2002.\n\nParágrafo único. A opção pelo regime especial exclui qualquer outra forma de parcelamento de débitos relativos ao PASEP.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%2015.%20A%20op%C3%A7%C3%A3o%20pelo%20regime%20especial%20de%20parcelamento%20referido%20no%20art.%2013%20sujeita%20a%20pessoa%20jur%C3%ADdica%20optante%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. A pessoa jurídica optante pelo regime especial de parcelamento referido no art. 13 será dele excluída nas seguintes hipóteses:\n\nI - inobservância da exigência estabelecida no art. 15;\n\nII - inadimplência, por dois meses consecutivos ou seis alternados, relativamente ao PASEP, inclusive aqueles com vencimento após dezembro de 2002.\n\n§ 1o A exclusão da pessoa jurídica do regime especial implicará exigibilidade imediata da totalidade do crédito confessado e ainda não pago.\n\n§ 2o A exclusão será formalizada por meio de ato da Secretaria da Receita Federal e produzirá efeitos a partir do mês subseqüente àquele em que a pessoa jurídica optante for cientificada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%2016.%20A%20pessoa%20jur%C3%ADdica%20optante%20pelo%20regime%20especial%20de%20parcelamento%20referido%20no%20art.%2013%20ser%C3%A1%20dele%20exclu%C3%ADda%20nas%20seguintes%20hip%C3%B3teses%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Sem prejuízo do disposto no art. 15 da Medida Provisória no 2.158-35, de 24 de agosto de 2001, e no art. 1o da Medida Provisória no 101, de 30 de dezembro de 2002, as sociedades cooperativas de produção agropecuária e de eletrificação rural poderão excluir da base de cálculo da contribuição para o Programa de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP e da Contribuição Social para o Financiamento da Seguridade Social – COFINS os custos agregados ao produto agropecuário dos associados, quando da sua comercialização e os valores dos serviços prestados pelas cooperativas de eletrificação rural a seus associados. (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\nParágrafo único. O disposto neste artigo alcança os fatos geradores ocorridos a partir da vigência da Medida Provisória no 1.858-10, de 26 de outubro de 1999.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%2017.%20Sem%20preju%C3%ADzo%20do%20disposto%20no%20art.%2015%20da%20Medida%20Provis%C3%B3ria%20no%202.158-35%2C%20de%2024%20de%20agosto%20de%202001%2C%20e%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Fica elevada para quatro por cento a alíquota da Contribuição para o Financiamento da Seguridade Social – COFINS devida pelas pessoas jurídicas referidas nos §§ 6o e 8o do art. 3o da Lei no 9.718, de 27 de novembro de 1998. (Vide Lei Complementar nº 214, de 2025) Produção de efeitos",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%2018.%20Fica%20elevada%20para%20quatro%20por%20cento%20a%20al%C3%ADquota%20da%20Contribui%C3%A7%C3%A3o%20para%20o%20Financiamento%20da%20Seguridade%20Social%20%E2%80%93%20COFINS%20devida%20pelas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. O art. 22A da Lei no 8.212, de 24 de julho de 1991, introduzido pela Lei no 10.256, de 9 de julho de 2001, passa a vigorar com a seguinte redação:\n\n\"Art. 22A. ..........................................................................\n\n..........................................................................\n\n§ 6o Não se aplica o regime substitutivo de que trata este artigo à pessoa jurídica que, relativamente à atividade rural, se dedique apenas ao florestamento e reflorestamento como fonte de matéria-prima para industrialização própria mediante a utilização de processo industrial que modifique a natureza química da madeira ou a transforme em pasta celulósica.\n\n§ 7o Aplica-se o disposto no § 6o ainda que a pessoa jurídica comercialize resíduos vegetais ou sobras ou partes da produção, desde que a receita bruta decorrente dessa comercialização represente menos de um por cento de sua receita bruta proveniente da comercialização da produção.\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%2019.%20O%20art.%2022A%20da%20Lei%20no%208.212%2C%20de%2024%20de%20julho%20de%201991%2C%20introduzido%20pela%20Lei%20no%2010.256%2C%20de%209",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. O § 1o do art. 126 da Lei no 8.213, de 24 de julho de 1991, passa a vigorar com a seguinte redação:\n\n\"Art. 126. ..........................................................................\n\n§ 1o Em se tratando de processo que tenha por objeto a discussão de crédito previdenciário, o recurso de que trata este artigo somente terá seguimento se o recorrente, pessoa jurídica ou sócio desta, instruí-lo com prova de depósito, em favor do Instituto Nacional do Seguro Social - INSS, de valor correspondente a trinta por cento da exigência fiscal definida na decisão.\n\n..........................................................................\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%2020.%20O%20%C2%A7%201o%20do%20art.%20126%20da%20Lei%20no%208.213%2C%20de%2024%20de%20julho%20de%201991%2C%20passa%20a%20vigorar%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. O art. 18 da Lei no 8.742, de 7 de dezembro de 1993, passa a vigorar acrescido do seguinte parágrafo único: (Revogado pela Medida Provisória nº 446, de 2008) Rejeitada\n\n\"Art. 18. .......................................................................... Parágrafo único. Das decisões finais do Conselho Nacional de Assistência Social, vinculado ao Ministério da Assistência e Promoção Social, relativas à concessão ou renovação do Certificado de Entidade Beneficente de Assistência Social, caberá recurso ao Ministro de Estado da Previdência Social, no prazo de trinta dias, contados da data da publicação do ato no Diário Oficial da União, por parte da entidade interessada, do Instituto Nacional do Seguro Social - INSS ou da Secretaria da Receita Federal do Ministério da Fazenda.\" (NR) (Revogado pela Medida Provisória nº 446, de 2008) Rejeitada",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%2021.%20O%20art.%2018%20da%20Lei%20no%208.742%2C%20de%207%20de%20dezembro%20de%201993%2C%20passa%20a%20vigorar%20acrescido%20do%20seguinte%20par%C3%A1grafo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. O art. 20 da Lei no 9.249, de 26 de dezembro de 1995, passa a vigorar com a seguinte redação: (Vigência)\n\n\"Art. 20. A base de cálculo da contribuição social sobre o lucro líquido, devida pelas pessoas jurídicas que efetuarem o pagamento mensal a que se referem os arts. 27 e 29 a 34 da Lei no 8.981, de 20 de janeiro de 1995, e pelas pessoas jurídicas desobrigadas de escrituração contábil, corresponderá a doze por cento da receita bruta, na forma definida na legislação vigente, auferida em cada mês do ano-calendário, exceto para as pessoas jurídicas que exerçam as atividades a que se refere o inciso III do § 1o do art. 15, cujo percentual corresponderá a trinta e dois por cento.\n\nParágrafo único. A pessoa jurídica submetida ao lucro presumido poderá, excepcionalmente, em relação ao quarto trimestre-calendário de 2003, optar pelo lucro real, sendo definitiva a tributação pelo lucro presumido relativa aos três primeiros trimestres.\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%2022.%20O%20art.%2020%20da%20Lei%20no%209.249%2C%20de%2026%20de%20dezembro%20de%201995%2C%20passa%20a%20vigorar%20com%20a%20seguinte%20reda%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. O art. 9o da Lei no 9.317, de 5 de dezembro de 1996, passa a vigorar acrescido do seguinte parágrafo:\n\n\"Art. 9o ..........................................................................\n\n..........................................................................\n\n§ 5o A vedação a que se referem os incisos IX e XIV do caput não se aplica na hipótese de participação no capital de cooperativa de crédito.\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%2023.%20O%20art.%209o%20da%20Lei%20no%209.317%2C%20de%205%20de%20dezembro%20de%201996%2C%20passa%20a%20vigorar%20acrescido%20do%20seguinte%20par%C3%A1grafo%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Os arts. 1o e 2o da Lei no 10.034, de 24 de outubro de 2000, passam a vigorar com a seguinte redação:\n\n\"Art. 1o Ficam excetuadas da restrição de que trata o inciso XIII do art. 9o da Lei no 9.317, de 5 de dezembro de 1996, as pessoas jurídicas que se dediquem exclusivamente às seguintes atividades:\n\nI – creches e pré-escolas;\n\nII – estabelecimentos de ensino fundamental;\n\nIII – centros de formação de condutores de veículos automotores de transporte terrestre de passageiros e de carga;\n\nIV – agências lotéricas;\n\nV – agências terceirizadas de correios;\n\nVI – (VETADO)\n\nVII – (VETADO)\" (NR)\n\n\"Art. 2o Ficam acrescidos de cinqüenta por cento os percentuais referidos no art. 5o da Lei no 9.317, de 5 de dezembro de 1996, alterado pela Lei no 9.732, de 11 de dezembro de 1998, em relação às atividades relacionadas nos incisos II a V do art. 1o desta Lei e às pessoas jurídicas que aufiram receita bruta decorrente da prestação de serviços em montante igual ou superior a trinta por cento da receita bruta total.\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%2024.%20Os%20arts.%201o%20e%202o%20da%20Lei%20no%2010.034%2C%20de%2024%20de%20outubro%20de%202000%2C%20passam%20a%20vigorar%20com%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. A Lei nº 10.637, de 30 de dezembro de 2002, passa a vigorar acrescida do seguinte art. 5º A e com as seguintes Alterações dos arts. 1o, 3o, 8o, 11 e 29:\n\n\"Art. 1o ..........................................................................\n\n..........................................................................\n\n§ 3o ..........................................................................\n\n..........................................................................\n\nVI – não operacionais, decorrentes da venda de ativo imobilizado.\" (NR)\n\n\"Art. 3o ..........................................................................\n\n..........................................................................\n\nII – bens e serviços utilizados como insumo na fabricação de produtos destinados à venda ou na prestação de serviços, inclusive combustíveis e lubrificantes;\n\n..........................................................................\n\nV – despesas financeiras decorrentes de empréstimos, financiamentos e contraprestações de operações de arrendamento mercantil de pessoas jurídicas, exceto de optante pelo Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte – SIMPLES;\n\n..........................................................................\n\nIX - energia elétrica consumida nos estabelecimentos da pessoa jurídica.\n\n§ 1o ..........................................................................\n\n..........................................................................\n\nII - dos itens mencionados nos incisos IV, V e IX do caput, incorridos no mês;\n\n..........................................................................\n\n§ 10. Sem prejuízo do aproveitamento dos créditos apurados na forma deste artigo, as pessoas jurídicas que produzam mercadorias de origem animal ou vegetal, classificadas nos capítulos 2 a 4, 8 a 12 e 23, e nos códigos 01.03, 01.05, 0504.00, 0701.90.00, 0702.00.00, 0706.10.00, 07.08, 0709.90, 07.10, 07.12 a 07.14, 15.07 a 15.14, 1515.2, 1516.20.00, 15.17, 1701.11.00, 1701.99.00, 1702.90.00, 18.03, 1804.00.00, 1805.00.00, 20.09, 2101.11.10 e 2209.00.00, todos da Nomenclatura Comum do Mercosul, destinados à alimentação humana ou animal poderão deduzir da contribuição para o PIS/Pasep, devida em cada período de apuração, crédito presumido, calculado sobre o valor dos bens e serviços referidos no inciso II do caput deste artigo, adquiridos, no mesmo período, de pessoas físicas residentes no País.\n\n§ 11. Relativamente ao crédito presumido referido no § 10:\n\nI - seu montante será determinado mediante aplicação, sobre o valor das mencionadas aquisições, de alíquota correspondente a setenta por cento daquela constante do art. 2o ;\n\nII - o valor das aquisições não poderá ser superior ao que vier a ser fixado, por espécie de bem ou serviço, pela Secretaria da Receita Federal.\" (NR)\n\n\"Art. 5o A - Ficam isentas da contribuição para o PIS/Pasep e da COFINS as receitas decorrentes da comercialização de matérias-primas, produtos intermediários e materiais de embalagem, produzidos na Zona Franca de Manaus para emprego em processo de industrialização por estabelecimentos industriais ali instalados e consoante projetos aprovados pelo Conselho de Administração da Superintendência da Zona Franca de Manaus – SUFRAMA.\"\n\n\"Art. 8o ..........................................................................\n\n..........................................................................\n\nX - as sociedades cooperativas;\n\nXI - as receitas decorrentes de prestação de serviços das empresas jornalísticas e de radiodifusão sonora e de sons e imagens.\" (NR)\n\n\"Art. 11. ..........................................................................\n\n..........................................................................\n\n§ 4o O disposto no caput aplica-se também aos estoques de produtos acabados e em elaboração.\" (NR)\n\n\"Art. 29. As matérias-primas, os produtos intermediários e os materiais de embalagem, destinados a estabelecimento que se dedique, preponderantemente, à elaboração de produtos classificados nos Capítulos 2, 3, 4, 7, 8, 9, 10, 11, 12, 15, 16, 17, 18, 19, 20, 23 (exceto códigos 2309.10.00 e 2309.90.30 e Ex-01 no código 2309.90.90), 28, 29, 30, 31 e 64, no código 2209.00.00 e 2501.00.00, e nas posições 21.01 a 21.05.00, da Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, inclusive aqueles a que corresponde a notação NT (não tributados), sairão do estabelecimento industrial com suspensão do referido imposto.\n\n..........................................................................\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%2025.%20A%20Lei%20n%C2%BA%2010.637%2C%20de%2030%20de%20dezembro%20de%202002%2C%20passa%20a%20vigorar%20acrescida%20do%20seguinte%20art.%205%C2%BA%20A%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. O art. 1o da Lei no 9.074, de 7 de julho de 1995, passa a vigorar acrescido dos seguintes parágrafos, renumerando-se o parágrafo único para § 1o:\n\n\" Art. 1o ..........................................................................\n\n..........................................................................\n\n§ 2o O prazo das concessões e permissões de que trata o inciso VI deste artigo será de vinte e cinco anos, podendo ser prorrogado por dez anos.\n\n§ 3o Ao término do prazo, as atuais concessões e permissões, mencionadas no § 2o, incluídas as anteriores à Lei no 8.987, de 13 de fevereiro de 1995, serão prorrogadas pelo prazo previsto no § 2o.\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%2026.%20O%20art.%201o%20da%20Lei%20no%209.074%2C%20de%207%20de%20julho%20de%201995%2C%20passa%20a%20vigorar%20acrescido%20dos%20seguintes%20par%C3%A1grafos%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%2027.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Fica o Poder Executivo autorizado a emitir títulos da dívida pública atualizados de acordo com as disposições do inciso I do § 4o do art. 2o da Lei no 9.964, de 10 de abril de 2000, com prazo de vencimento determinado em função do prazo médio estimado da carteira de recebíveis do Programa de Recuperação Fiscal – REFIS, instituído pela referida Lei, os quais terão poder liberatório perante a Secretaria da Receita Federal e o Instituto Nacional do Seguro Social quanto as dívidas inscritas no referido programa, diferindo-se os efeitos tributários de sua utilização, em função do prazo médio da dívida do contribuinte.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%2028.%20Fica%20o%20Poder%20Executivo%20autorizado%20a%20emitir%20t%C3%ADtulos%20da%20d%C3%ADvida%20p%C3%BAblica%20atualizados%20de%20acordo%20com%20as%20disposi%C3%A7%C3%B5es%20do%20inciso%20I",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Esta Lei entra em vigor na data de sua publicação, produzindo efeitos:\n\nI – em relação ao art. 17, a partir de 1o de janeiro de 2003;\n\nII – em relação ao art. 25, a partir de 1o de fevereiro de 2003;\n\nIII - em relação aos arts. 18, 19, 20 e 22, a partir do mês subseqüente ao do termo final do prazo nonagesimal, a que refere o § 6o do art. 195 da Constituição Federal.\n\nBrasília, 30 de maio de 2003; 182o da Independência e 115o da República.\n\nLUIZ INÁCIO LULA DA SILVA Antonio Palocci Filho Ricardo José Ribeiro Berzoini\n\nEste texto não substitui o publicado no D.O.U. de 31.5.2003 (Edição extra)\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm#:~:text=Art.%2029.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o%2C%20produzindo%20efeitos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": null
+    }
+  }
+}

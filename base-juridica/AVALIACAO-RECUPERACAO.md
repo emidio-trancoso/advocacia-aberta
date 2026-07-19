@@ -8,10 +8,10 @@ não confirma vigência, força jurídica, aplicabilidade ao caso ou completude 
 
 O arquivo
 [`consultas.json`](../ferramentas/pesquisa/vade-mecum/avaliacao/consultas.json)
-contém 46 consultas, avaliadas em 17 de julho de 2026 e ampliadas em 19 de julho de
-2026 com dez casos do piloto de expansão (8 diplomas), três casos da fatia de
-estatutos (17 diplomas), três casos da fatia trabalhista (27 diplomas), três
-casos da fatia de codificadas (7 diplomas) e três casos da fatia penal (17 leis):
+contém 49 consultas: as 24 avaliadas em 17 de julho de 2026 e as demais
+acrescentadas em 19 de julho de 2026 pela expansão da legislação — dez casos do
+piloto e dois a três casos julgados por fatia promovida (estatutos,
+trabalhista, codificadas, penal e tributária):
 
 | Família | Consultas |
 |---|---:|
@@ -20,7 +20,7 @@ casos da fatia de codificadas (7 diplomas) e três casos da fatia penal (17 leis
 | Súmulas vinculantes | 3 |
 | Jurisprudência em Teses STJ | 4 |
 | Temas repetitivos STJ | 3 |
-| Legislação | 29 |
+| Legislação | 32 |
 
 Cada caso registra consulta, filtro, justificativa, conjunto de resultados relevantes
 e resultados canônicos obrigatórios. Os julgamentos foram feitos sobre o conteúdo do
@@ -50,17 +50,17 @@ o bom desempenho de um conjunto compense silenciosamente uma regressão em outro
 
 | Escopo | Precisão@5 | Recall julgado@5 | Cobertura | Obrigatórios | MRR |
 |---|---:|---:|---:|---:|---:|
-| Global | 0,8259 | 0,9881 | 1,0000 | 1,0000 | 1,0000 |
+| Global | 0,8160 | 0,9886 | 1,0000 | 1,0000 | 1,0000 |
 | Súmulas STJ | 0,6667 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 | Súmulas STF | 0,5714 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 | Súmulas vinculantes | 0,6000 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 | Jurisprudência em Teses | 0,9000 | 0,9000 | 1,0000 | 1,0000 | 1,0000 |
 | Temas repetitivos | 0,8667 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
-| Legislação | 0,8682 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
+| Legislação | 0,8500 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 
 Linha de base medida em 19 de julho de 2026 (UTC), após a atualização integral dos
 snapshots e a incorporação dos diplomas da expansão (piloto de 8 leis e fatias de
-estatutos, trabalhista, codificadas e penal). O caso
+estatutos, trabalhista, codificadas, penal e tributária). O caso
 `jt-trafico-dosimetria` teve os julgamentos revisados com justificativa registrada
 no corpus: a atualização oficial da edição 45 reescreveu a tese 4, que deixou de
 versar diretamente sobre aplicação da pena. Os dez casos dos diplomas novos foram

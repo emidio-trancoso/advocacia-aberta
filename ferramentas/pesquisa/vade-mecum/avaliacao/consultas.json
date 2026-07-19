@@ -836,6 +836,55 @@
     "L9296:2"
    ],
    "justificativa": "O art. 2º fixa os requisitos negativos da interceptação (indícios razoáveis de autoria, impossibilidade de prova por outros meios, pena de reclusão); o art. 1º exige ordem judicial para a prova em investigação; o art. 8º disciplina a documentação da interceptação em autos apartados."
+  },
+  {
+   "id": "lef-garantia-penhora",
+   "grupo": "legislacao",
+   "consulta": "penhora garantia execução dívida ativa",
+   "filtro": {
+    "codigo": "LEF"
+   },
+   "relevantes": [
+    "LEF:9",
+    "LEF:7",
+    "LEF:19",
+    "LEF:1"
+   ],
+   "obrigatorios": [
+    "LEF:9"
+   ],
+   "justificativa": "O art. 9º disciplina as formas de garantia da execução fiscal; o art. 7º inclui a penhora entre as ordens do despacho inicial; o art. 19 trata da execução da garantia prestada por terceiro; o art. 1º delimita o rito da cobrança da dívida ativa. O art. 4º (legitimados passivos), também recuperado, não versa sobre penhora ou garantia."
+  },
+  {
+   "id": "lc116-local-prestacao",
+   "grupo": "legislacao",
+   "consulta": "serviço considera-se prestado local do estabelecimento prestador",
+   "filtro": {
+    "codigo": "LC116"
+   },
+   "relevantes": [
+    "LC116:3",
+    "LC116:4"
+   ],
+   "obrigatorios": [
+    "LC116:3"
+   ],
+   "justificativa": "O art. 3º fixa o local em que o serviço se considera prestado e o ISS devido; o art. 4º define estabelecimento prestador. Os arts. 6º (responsabilidade tributária), 8º (alíquotas máximas) e 10 (revogações), também recuperados, não respondem à consulta."
+  },
+  {
+   "id": "l9249-jcp",
+   "grupo": "legislacao",
+   "consulta": "juros remuneração do capital próprio TJLP",
+   "filtro": {
+    "codigo": "L9249"
+   },
+   "relevantes": [
+    "L9249:9"
+   ],
+   "obrigatorios": [
+    "L9249:9"
+   ],
+   "justificativa": "O art. 9º da Lei 9.249/1995 é a sede legal dos juros sobre o capital próprio: dedução na apuração do lucro real, calculados sobre as contas do patrimônio líquido à TJLP."
   }
  ]
 }

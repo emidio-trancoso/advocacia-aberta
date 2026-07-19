@@ -131,6 +131,14 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_cppm.json",
     rotulo: "Código de Processo Penal Militar (Decreto-Lei 1.002/1969)",
   },
+  D70235: {
+    arquivo: "../../data/lei_d70235.json",
+    rotulo: "Processo Administrativo Fiscal (PAF) Federal (Decreto 70.235/1972)",
+  },
+  DL1598: {
+    arquivo: "../../data/lei_dl1598.json",
+    rotulo: "IRPJ – Normas Gerais (conceitos e apuração) (Decreto-Lei 1.598/1977)",
+  },
   ECID: {
     arquivo: "../../data/lei_ecid.json",
     rotulo: "Estatuto da Cidade (Lei 10.257/2001)",
@@ -199,6 +207,26 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l10101.json",
     rotulo: "Participação nos Lucros ou Resultados (PLR) (Lei 10.101/2000)",
   },
+  L10522: {
+    arquivo: "../../data/lei_l10522.json",
+    rotulo: "CADIN – Cadastro Informativo de Créditos não Quitados (Lei 10.522/2002)",
+  },
+  L10637: {
+    arquivo: "../../data/lei_l10637.json",
+    rotulo: "PIS (não cumulativo) (Lei 10.637/2002)",
+  },
+  L10684: {
+    arquivo: "../../data/lei_l10684.json",
+    rotulo: "Parcelamento Especial – PAES (Lei 10.684/2003)",
+  },
+  L10833: {
+    arquivo: "../../data/lei_l10833.json",
+    rotulo: "COFINS (não cumulativa) (Lei 10.833/2003)",
+  },
+  L10865: {
+    arquivo: "../../data/lei_l10865.json",
+    rotulo: "PIS/COFINS na Importação (Lei 10.865/2004)",
+  },
   L11770: {
     arquivo: "../../data/lei_l11770.json",
     rotulo: "Programa Empresa Cidadã (licenças) (Lei 11.770/2008)",
@@ -230,6 +258,10 @@ const REGISTRO_CODIGOS = {
   L13869: {
     arquivo: "../../data/lei_l13869.json",
     rotulo: "Abuso de Autoridade (Lei 13.869/2019)",
+  },
+  L13988: {
+    arquivo: "../../data/lei_l13988.json",
+    rotulo: "Transação no Contencioso Tributário Federal (Lei 13.988/2020)",
   },
   L14344: {
     arquivo: "../../data/lei_l14344.json",
@@ -303,6 +335,14 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l7492.json",
     rotulo: "Crimes contra o Sistema Financeiro (Lei 7.492/1986)",
   },
+  L7689: {
+    arquivo: "../../data/lei_l7689.json",
+    rotulo: "CSLL – Contribuição Social sobre o Lucro Líquido (instituidora) (Lei 7.689/1988)",
+  },
+  L7713: {
+    arquivo: "../../data/lei_l7713.json",
+    rotulo: "Imposto de Renda da Pessoa Física (IRPF) (Lei 7.713/1988)",
+  },
   L7716: {
     arquivo: "../../data/lei_l7716.json",
     rotulo: "Racismo (Lei 7.716/1989)",
@@ -327,13 +367,25 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l8137.json",
     rotulo: "Crimes contra Ordem Tributária (Lei 8.137/1990)",
   },
+  L8989: {
+    arquivo: "../../data/lei_l8989.json",
+    rotulo: "IPI – Isenção para PcD (automóveis) (Lei 8.989/1995)",
+  },
   L9029: {
     arquivo: "../../data/lei_l9029.json",
     rotulo: "Antidiscriminação nas Relações de Trabalho (Lei 9.029/1995)",
   },
+  L9249: {
+    arquivo: "../../data/lei_l9249.json",
+    rotulo: "IRPJ/CSLL – Regras centrais (JCP, bases e limites) (Lei 9.249/1995)",
+  },
   L9296: {
     arquivo: "../../data/lei_l9296.json",
     rotulo: "Interceptação Telefônica (Lei 9.296/1996)",
+  },
+  L9430: {
+    arquivo: "../../data/lei_l9430.json",
+    rotulo: "Legislação Tributária Federal (IRPJ, compensação etc.) (Lei 9.430/1996)",
   },
   L9455: {
     arquivo: "../../data/lei_l9455.json",
@@ -359,6 +411,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_lc105.json",
     rotulo: "Quebra Sigilo Bancário (Lei Complementar 105/2001)",
   },
+  LC116: {
+    arquivo: "../../data/lei_lc116.json",
+    rotulo: "ISS – Normas Gerais e Lista de Serviços (Lei Complementar 116/2003)",
+  },
   LC123: {
     arquivo: "../../data/lei_lc123.json",
     rotulo: "Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte (Lei Complementar 123/2006)",
@@ -367,9 +423,17 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_lc150.json",
     rotulo: "Empregado Doméstico (Lei Complementar 150/2015)",
   },
+  LC87: {
+    arquivo: "../../data/lei_lc87.json",
+    rotulo: "ICMS – Normas Gerais (Lei Kandir) (Lei Complementar 87/1996)",
+  },
   LCP: {
     arquivo: "../../data/lei_lcp.json",
     rotulo: "Contravenções Penais (Decreto-Lei 3.688/1941)",
+  },
+  LEF: {
+    arquivo: "../../data/lei_lef.json",
+    rotulo: "Execução Fiscal (LEF) (Lei 6.830/1980)",
   },
   LMIG: {
     arquivo: "../../data/lei_lmig.json",

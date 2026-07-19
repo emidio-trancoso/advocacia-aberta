@@ -1,0 +1,943 @@
+{
+  "_meta": {
+    "codigo": "L7713",
+    "nome": "Imposto de Renda da Pessoa Física (IRPF)",
+    "lei": "Lei 7.713/1988",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm",
+    "total_artigos": 58,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Os rendimentos e ganhos de capital percebidos a partir de 1º de janeiro de 1989, por pessoas físicas residentes ou domiciliados no Brasil, serão tributados pelo imposto de renda na forma da legislação vigente, com as modificações introduzidas por esta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%201%C2%BA%20Os%20rendimentos%20e%20ganhos%20de%20capital%20percebidos%20a%20partir%20de%201%C2%BA%20de%20janeiro%20de%201989%2C%20por%20pessoas%20f%C3%ADsicas%20residentes%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º O imposto de renda das pessoas físicas será devido, mensalmente, à medida em que os rendimentos e ganhos de capital forem percebidos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%202%C2%BA%20O%20imposto%20de%20renda%20das%20pessoas%20f%C3%ADsicas%20ser%C3%A1%20devido%2C%20mensalmente%2C%20%C3%A0%20medida%20em%20que%20os%20rendimentos%20e%20ganhos%20de%20capital",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º O imposto incidirá sobre o rendimento bruto, sem qualquer dedução, ressalvado o disposto nos arts. 9º a 14 desta Lei. (Vide Lei 8.023, de 12.4.90) (Vide ADIN 5422)\n\n§ 1º Constituem rendimento bruto todo o produto do capital, do trabalho ou da combinação de ambos, os alimentos e pensões percebidos em dinheiro, e ainda os proventos de qualquer natureza, assim também entendidos os acréscimos patrimoniais não correspondentes aos rendimentos declarados. (Vide ADIN 5422)\n\n§ 2º Integrará o rendimento bruto, como ganho de capital, o resultado da soma dos ganhos auferidos no mês, decorrentes de alienação de bens ou direitos de qualquer natureza, considerando-se como ganho a diferença positiva entre o valor de transmissão do bem ou direito e o respectivo custo de aquisição corrigido monetariamente, observado o disposto nos arts. 15 a 22 desta Lei.\n\n§ 3º Na apuração do ganho de capital serão consideradas as operações que importem alienação, a qualquer título, de bens ou direitos ou cessão ou promessa de cessão de direitos à sua aquisição, tais como as realizadas por compra e venda, permuta, adjudicação, desapropriação, dação em pagamento, doação, procuração em causa própria, promessa de compra e venda, cessão de direitos ou promessa de cessão de direitos e contratos afins.\n\n§ 4º A tributação independe da denominação dos rendimentos, títulos ou direitos, da localização, condição jurídica ou nacionalidade da fonte, da origem dos bens produtores da renda, e da forma de percepção das rendas ou proventos, bastando, para a incidência do imposto, o benefício do contribuinte por qualquer forma e a qualquer título.\n\n§ 5º Ficam revogados todos os dispositivos legais concessivos de isenção ou exclusão, da base de cálculo do imposto de renda das pessoas físicas, de rendimentos e proventos de qualquer natureza, bem como os que autorizam redução do imposto por investimento de interesse econômico ou social.\n\n§ 6º Ficam revogados todos os dispositivos legais que autorizam deduções cedulares ou abatimentos da renda bruta do contribuinte, para efeito de incidência do imposto de renda.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%203%C2%BA%20O%20imposto%20incidir%C3%A1%20sobre%20o%20rendimento%20bruto%2C%20sem%20qualquer%20dedu%C3%A7%C3%A3o%2C%20ressalvado%20o%20disposto%20nos%20arts.%209%C2%BA%20a%2014%20desta%20Lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Fica suprimida a classificação por cédulas dos rendimentos e ganhos de capital percebidos pelas pessoas físicas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%204%C2%BA%20Fica%20suprimida%20a%20classifica%C3%A7%C3%A3o%20por%20c%C3%A9dulas%20dos%20rendimentos%20e%20ganhos%20de%20capital%20percebidos%20pelas%20pessoas%20f%C3%ADsicas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Salvo disposição em contrário, o imposto retido na fonte sobre rendimentos e ganhos de capital percebidos por pessoas físicas será considerado redução do apurado na forma dos arts. 23 e 24 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%205%C2%BA%20Salvo%20disposi%C3%A7%C3%A3o%20em%20contr%C3%A1rio%2C%20o%20imposto%20retido%20na%20fonte%20sobre%20rendimentos%20e%20ganhos%20de%20capital%20percebidos%20por%20pessoas%20f%C3%ADsicas%20ser%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Ficam isentos do imposto de renda os seguinte rendimentos percebidos por pessoas físicas:\n\nI - a alimentação, o transporte e os uniformes ou vestimentas especiais de trabalho, fornecidos gratuitamente pelo empregador a seus empregados, ou a diferença entre o preço cobrado e o valor de mercado;\n\nII - as diárias destinadas, exclusivamente, ao pagamento de despesas de alimentação e pousada, por serviço eventual realizado em município diferente do da sede de trabalho;\n\nIII - o valor locativo do prédio construído, quando ocupado por seu proprietário ou cedido gratuitamente para uso do cônjuge ou de parentes de primeiro grau;\n\nIV - as indenizações por acidentes de trabalho;\n\nV - a indenização e o aviso prévio pagos por despedida ou rescisão de contrato de trabalho, até o limite garantido por lei, bem como o montante recebido pelos empregados e diretores, ou respectivos beneficiários, referente aos depósitos, juros e correção monetária creditados em contas vinculadas, nos termos da legislação do Fundo de Garantia do Tempo de Serviço;\n\nVI - o montante dos depósitos, juros, correção monetária e quotas-partes creditados em contas individuais pelo Programa de Integração Social e pelo Programa de Formação do Patrimônio do Servidor Público;\n\nVII - os seguros recebidos de entidades de previdência privada decorrentes de morte ou invalidez permanente do participante. (Redação dada pela Lei nº 9.250, de 1995)\n\nVIII - as contribuições pagas pelos empregadores relativas a programas de previdência privada em favor de seus empregados e dirigentes;\n\nIX - os valores resgatados dos Planos de Poupança e Investimento - PAIT, de que trata o Decreto-Lei nº 2.292, de 21 de novembro de 1986, relativamente à parcela correspondente às contribuições efetuadas pelo participante; (Vide Medida Provisória nº 1.303, de 2025) Produção de efeitos Vigência encerrada\n\nX - as contribuições empresariais a Plano de Poupança e Investimento - PAIT, a que se refere o art. 5º, § 2º, do Decreto-Lei nº 2.292, de 21 de novembro de 1986; (Vide Medida Provisória nº 1.303, de 2025) Produção de efeitos Vigência encerrada\n\nXI - o pecúlio recebido pelos aposentados que voltam a trabalhar em atividade sujeita ao regime previdenciário, quando dela se afastarem, e pelos trabalhadores que ingressarem nesse regime após completarem sessenta anos de idade, pago pelo Instituto Nacional de Previdência Social ao segurado ou a seus dependentes, após sua morte, nos termos do art. 1º da Lei nº 6.243, de 24 de setembro de 1975;\n\nXII - as pensões e os proventos concedidos de acordo com os Decretos-Leis, nºs 8.794 e 8.795, de 23 de janeiro de 1946, e Lei nº 2.579, de 23 de agosto de 1955, e art. 30 da Lei nº 4.242, de 17 de julho de 1963, em decorrência de reforma ou falecimento de ex-combatente da Força Expedicionária Brasileira;\n\nXIII - capital das apólices de seguro ou pecúlio pago por morte do segurado, bem como os prêmios de seguro restituídos em qualquer caso, inclusive no de renúncia do contrato;\n\nXIV – os proventos de aposentadoria ou reforma motivada por acidente em serviço e os percebidos pelos portadores de moléstia profissional, tuberculose ativa, alienação mental, esclerose múltipla, neoplasia maligna, cegueira, hanseníase, paralisia irreversível e incapacitante, cardiopatia grave, doença de Parkinson, espondiloartrose anquilosante, nefropatia grave, hepatopatia grave, estados avançados da doença de Paget (osteíte deformante), contaminação por radiação, síndrome da imunodeficiência adquirida, com base em conclusão da medicina especializada, mesmo que a doença tenha sido contraída depois da aposentadoria ou reforma; (Redação dada pela Lei nº 11.052, de 2004) (Vide Lei nº 13.105, de 2015) (Vigência) (Vide ADIN 6025)\n\nXV - os rendimentos provenientes de aposentadoria e pensão, de transferência para a reserva remunerada ou de reforma pagos pela Previdência Social da União, dos Estados, do Distrito Federal e dos Municípios, por qualquer pessoa jurídica de direito público interno ou por entidade de previdência privada, a partir do mês em que o contribuinte completar 65 (sessenta e cinco) anos de idade, sem prejuízo da parcela isenta prevista na tabela de incidência mensal do imposto, até o valor de: (Redação dada pela Lei nº 11.482, de 2007)\n\na) R$ 1.313,69 (mil, trezentos e treze reais e sessenta e nove centavos), por mês, para o ano-calendário de 2007; (Incluído pela Lei nº 11.482, de 2007)\n\nb) R$ 1.372,81 (mil, trezentos e setenta e dois reais e oitenta e um centavos), por mês, para o ano-calendário de 2008; (Incluído pela Lei nº 11.482, de 2007)\n\nc) R$ 1.434,59 (mil, quatrocentos e trinta e quatro reais e cinqüenta e nove centavos), por mês, para o ano-calendário de 2009; (Incluído pela Lei nº 11.482, de 2007)\n\nd) R$ 1.499,15 (mil, quatrocentos e noventa e nove reais e quinze centavos), por mês, para o ano-calendário de 2010; (Redação dada pela Lei nº 12.469, de 2011)\n\ne) R$ 1.566,61 (mil, quinhentos e sessenta e seis reais e sessenta e um centavos), por mês, para o ano-calendário de 2011; (Incluída pela Lei nº 12.469, de 2011)\n\nf) R$ 1.637,11 (mil, seiscentos e trinta e sete reais e onze centavos), por mês, para o ano-calendário de 2012; (Incluída pela Lei nº 12.469, de 2011)\n\ng) R$ 1.710,78 (mil, setecentos e dez reais e setenta e oito centavos), por mês, para o ano-calendário de 2013; (Incluída pela Lei nº 12.469, de 2011)\n\nh) R$ 1.787,77 (mil, setecentos e oitenta e sete reais e setenta e sete centavos), por mês, para o ano-calendário de 2014 e nos meses de janeiro a março do ano-calendário de 2015; e (Redação dada pela Lei nº 13.149, de 2015)\n\ni) R$ 1.903,98 (mil, novecentos e três reais e noventa e oito centavos), por mês, a partir do mês de abril do ano-calendário de 2015; (Redação dada pela Lei nº 13.149, de 2015)\n\nXVI - o valor dos bens adquiridos por doação ou herança;\n\nXVII - os valores decorrentes de aumento de capital:\n\na) mediante a incorporação de reservas ou lucros que tenham sido tributados na forma do art. 36 desta Lei;\n\nb) efetuado com observância do disposto no art. 63 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, relativamente aos lucros apurados em períodos-base encerrados anteriormente à vigência desta Lei;\n\nXVIII - a correção monetária de investimentos, calculada aos mesmos índices aprovados para os Bônus do Tesouro Nacional - BTN, e desde que seu pagamento ou crédito ocorra em intervalos não inferiores a trinta dias; (Redação dada pela Lei nº 7.799, de 1989)\n\nXIX - a diferença entre o valor de aplicação e o de resgate de quotas de fundos de aplicações de curto prazo;\n\nXX - ajuda de custo destinada a atender às despesas com transporte, frete e locomoção do beneficiado e seus familiares, em caso de remoção de um município para outro, sujeita à comprovação posterior pelo contribuinte.\n\nXXI - os valores recebidos a título de pensão quando o beneficiário desse rendimento for portador das doenças relacionadas no inciso XIV deste artigo, exceto as decorrentes de moléstia profissional, com base em conclusão da medicina especializada, mesmo que a doença tenha sido contraída após a concessão da pensão. (Incluído pela Lei nº 8.541, de 1992) (Vide Lei 9.250, de 1995)\n\nXXII - os valores pagos em espécie pelos Estados, Distrito Federal e Municípios, relativos ao Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS e ao Imposto sobre Serviços de Qualquer Natureza - ISS, no âmbito de programas de concessão de crédito voltados ao estímulo à solicitação de documento fiscal na aquisição de mercadorias e serviços. (Incluído pela Lei nº 11.945, de 2009). (Produção de efeitos).\n\nXXIII - o valor recebido a título de vale-cultura. (Incluído pela Lei nº 12.761, de 2012)\n\nXXIV - (Incluído pela Medida Provisória nº 1.251, de 2024) Vigência encerrada\n\nParágrafo único. O disposto no inciso XXII do caput deste artigo não se aplica aos prêmios recebidos por meio de sorteios, em espécie, bens ou serviços, no âmbito dos referidos programas. (Incluído pela Lei nº 11.945, de 2009). (Produção de efeitos).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%206%C2%BA%20Ficam%20isentos%20do%20imposto%20de%20renda%20os%20seguinte%20rendimentos%20percebidos%20por%20pessoas%20f%C3%ADsicas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Ficam sujeito à incidência do imposto de renda na fonte, calculado de acordo com o disposto no art. 25 desta Lei: (Vide: Lei nº 8.134, de 1990, Lei nº 8.383, de 1991, Lei nº 8.848, de 1994, Lei nº 9.250, de 1995 )\n\nI - os rendimentos do trabalho assalariado, pagos ou creditados por pessoas físicas ou jurídicas; (Vide Lei complementar nº 150, de 2015)\n\nII - os demais rendimentos percebidos por pessoas físicas, que não estejam sujeitos à tributação exclusiva na fonte, pagos ou creditados por pessoas jurídicas.\n\n§ 1º O imposto a que se refere este artigo será retido por ocasião de cada pagamento ou crédito e, se houver mais de um pagamento ou crédito, pela mesma fonte pagadora, aplicar-se-á a alíquota correspondente à soma dos rendimentos pagos ou creditados à pessoa física no mês, a qualquer título.\n\n§ 2º - (Revogado pela Lei nº 8.218, de 1991)\n\n§ 3º (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%207%C2%BA%20Ficam%20sujeito%20%C3%A0%20incid%C3%AAncia%20do%20imposto%20de%20renda%20na%20fonte%2C%20calculado%20de%20acordo%20com%20o%20disposto%20no%20art.%2025%20desta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Fica sujeito ao pagamento do imposto de renda, calculado de acordo com o disposto no art. 25 desta Lei, a pessoa física que receber de outra pessoa física, ou de fontes situadas no exterior, rendimentos e ganhos de capital que não tenham sido tributados na fonte, no País. (Vide: Lei nº 8.012, de 1990, Lei nº 8.134, de 1990, Lei nº 8.383, de 1991, e Lei nº 8.848, de 1994, Lei nº 9.250, de 1995 )\n\n§ 1º O disposto neste artigo se aplica, também, aos emolumentos e custas dos serventuários da justiça, como tabeliães, notários, oficiais públicos e outros, quando não forem remunerados exclusivamente pelos cofres públicos.\n\n§ 2º O imposto de que trata este artigo deverá ser pago até o último dia útil da primeira quinzena do mês subseqüente ao da percepção dos rendimentos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%208%C2%BA%20Fica%20sujeito%20ao%20pagamento%20do%20imposto%20de%20renda%2C%20calculado%20de%20acordo%20com%20o%20disposto%20no%20art.%2025%20desta%20Lei%2C%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Quando o contribuinte auferir rendimentos da prestação de serviços de transporte, em veículo próprio locado, ou adquirido com reservas de domínio ou alienação fiduciária, o imposto de renda incidirá sobre:\n\nI - 10% (dez por cento) do rendimento bruto, decorrente do transporte de carga; (Redação dada pela lei nº 12.794, de 2013)\n\nII - sessenta por cento do rendimento bruto, decorrente do transporte de passageiros.\n\nParágrafo único. O percentual referido no item I deste artigo aplica-se também sobre o rendimento bruto da prestação de serviços com trator, máquina de terraplenagem, colheitadeira e assemelhados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%209%C2%BA%20Quando%20o%20contribuinte%20auferir%20rendimentos%20da%20presta%C3%A7%C3%A3o%20de%20servi%C3%A7os%20de%20transporte%2C%20em%20ve%C3%ADculo%20pr%C3%B3prio%20locado%2C%20ou%20adquirido%20com%20reservas%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. O imposto incidirá sobre dez por cento do rendimento bruto auferido pelos garimpeiros matriculados nos termos do art. 73 do Decreto-Lei nº 227, de 28 de fevereiro de 1967, remunerado pelo art. 2º do Decreto-Lei nº. 318, de 14 de março de 1967, na venda a empresas legalmente habilitadas de metais preciosos, pedras preciosas e semipreciosas por eles extraídos.\n\nParágrafo único. A prova de origem dos rendimentos de que trata este artigo far-se-á com base na via da nota de aquisição destinada ao garimpeiro pela empresa compradora.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2010.%20O%20imposto%20incidir%C3%A1%20sobre%20dez%20por%20cento%20do%20rendimento%20bruto%20auferido%20pelos%20garimpeiros%20matriculados%20nos%20termos%20do%20art.%2073%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11 Os titulares dos serviços notariais e de registro a que se refere o art. 236 da Constituição da República, desde que mantenham escrituração das receitas e das despesas, poderão deduzir dos emolumentos recebidos, para efeito da incidência do imposto:\n\nI - a remuneração paga a terceiros, desde que com vínculo empregatício, inclusive encargos trabalhistas e previdenciários;\n\nII - os emolumentos pagos a terceiros;\n\nIII - as despesas de custeio necessárias à manutenção dos serviços notariais e de registro.\n\n§ 1º Fica ainda assegurada aos odontólogos a faculdade de deduzir, da receita decorrente do exercício da respectiva profissão, as despesas com a aquisição do material odontológico por eles aplicadas nos serviços prestados aos seus pacientes, assim como as despesas com o pagamento dos profissionais dedicados à prótese e à anestesia, eventualmente utilizados na prestação dos serviços, desde que, em qualquer caso, mantenham escrituração das receitas e despesas realizadas. (Incluído pela Lei nº 7.975, de 1989)\n\n§ 2º (Vetado) (Incluído pela Lei nº 7.975, de 1989)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2011%20Os%20titulares%20dos%20servi%C3%A7os%20notariais%20e%20de%20registro%20a%20que%20se%20refere%20o%20art.%20236%20da%20Constitui%C3%A7%C3%A3o%20da%20Rep%C3%BAblica%2C%20desde",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. (Revogado pela Lei nº 13.149, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2012.%20%28Revogado%20pela%20Lei%20n%C2%BA%2013.149%2C%20de%202015%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "12-A"
+    },
+    "12-A": {
+      "numero": "12-A",
+      "texto": "Art. 12-A. Os rendimentos recebidos acumuladamente e submetidos à incidência do imposto sobre a renda com base na tabela progressiva, quando correspondentes a anos-calendário anteriores ao do recebimento, serão tributados exclusivamente na fonte, no mês do recebimento ou crédito, em separado dos demais rendimentos recebidos no mês. (Redação dada pela Lei nº 13.149, de 2015)\n\n§ 1o O imposto será retido pela pessoa física ou jurídica obrigada ao pagamento ou pela instituição financeira depositária do crédito e calculado sobre o montante dos rendimentos pagos, mediante a utilização de tabela progressiva resultante da multiplicação da quantidade de meses a que se refiram os rendimentos pelos valores constantes da tabela progressiva mensal correspondente ao mês do recebimento ou crédito. (Incluído pela Lei nº 12.350, de 2010)\n\n§ 2o Poderão ser excluídas as despesas, relativas ao montante dos rendimentos tributáveis, com ação judicial necessárias ao seu recebimento, inclusive de advogados, se tiverem sido pagas pelo contribuinte, sem indenização. (Incluído pela Lei nº 12.350, de 2010)\n\n§ 3o A base de cálculo será determinada mediante a dedução das seguintes despesas relativas ao montante dos rendimentos tributáveis: (Incluído pela Lei nº 12.350, de 2010)\n\nI – importâncias pagas em dinheiro a título de pensão alimentícia em face das normas do Direito de Família, quando em cumprimento de decisão judicial, de acordo homologado judicialmente ou de separação ou divórcio consensual realizado por escritura pública; e (Incluído pela Lei nº 12.350, de 2010)\n\nII – contribuições para a Previdência Social da União, dos Estados, do Distrito Federal e dos Municípios. (Incluído pela Lei nº 12.350, de 2010)\n\n§ 4o Não se aplica ao disposto neste artigo o constante no art. 27 da Lei no 10.833, de 29 de dezembro de 2003, salvo o previsto nos seus §§ 1o e 3o. (Incluído pela Lei nº 12.350, de 2010)\n\n§ 5o O total dos rendimentos de que trata o caput, observado o disposto no § 2o, poderá integrar a base de cálculo do Imposto sobre a Renda na Declaração de Ajuste Anual do ano-calendário do recebimento, à opção irretratável do contribuinte. (Incluído pela Lei nº 12.350, de 2010)\n\n§ 6o Na hipótese do § 5o, o Imposto sobre a Renda Retido na Fonte será considerado antecipação do imposto devido apurado na Declaração de Ajuste Anual. (Incluído pela Lei nº 12.350, de 2010)\n\n§ 7o Os rendimentos de que trata o caput, recebidos entre 1o de janeiro de 2010 e o dia anterior ao de publicação da Lei resultante da conversão da Medida Provisória no 497, de 27 de julho de 2010, poderão ser tributados na forma deste artigo, devendo ser informados na Declaração de Ajuste Anual referente ao ano-calendário de 2010. (Incluído pela Lei nº 12.350, de 2010)\n\n§ 8o (VETADO) (Incluído pela Lei nº 12.350, de 2010)\n\n§ 9o A Secretaria da Receita Federal do Brasil disciplinará o disposto neste artigo. (Incluído pela Lei nº 12.350, de 2010)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2012-A.%20Os%20rendimentos%20recebidos%20acumuladamente%20e%20submetidos%20%C3%A0%20incid%C3%AAncia%20do%20imposto%20sobre%20a%20renda%20com%20base%20na%20tabela%20progressiva%2C%20quando%20correspondentes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "12-B"
+    },
+    "12-B": {
+      "numero": "12-B",
+      "texto": "Art. 12-B. Os rendimentos recebidos acumuladamente, quando correspondentes ao ano-calendário em curso, serão tributados, no mês do recebimento ou crédito, sobre o total dos rendimentos, diminuídos do valor das despesas com ação judicial necessárias ao seu recebimento, inclusive de advogados, se tiverem sido pagas pelo contribuinte, sem indenização. (Incluído pela Lei nº 13.149, de 2015)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2012-B.%20Os%20rendimentos%20recebidos%20acumuladamente%2C%20quando%20correspondentes%20ao%20ano-calend%C3%A1rio%20em%20curso%2C%20ser%C3%A3o%20tributados%2C%20no%20m%C3%AAs%20do%20recebimento%20ou%20cr%C3%A9dito%2C%20sobre%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12-A",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13 (Revogado pela Lei nº 8.383, de 1991)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2013%20%28Revogado%20pela%20Lei%20n%C2%BA%208.383%2C%20de%201991%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12-B",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14 (Revogado pela Lei nº 8.383, de 1991)\n\nI - (Revogado pela Lei nº 8.134, de 1990)\n\nII - (Revogado pela Lei nº 8.383, de 1991)\n\n§§ 1º a 7º - (Revogados pela Lei nº 8.134, de 1990)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2014%20%28Revogado%20pela%20Lei%20n%C2%BA%208.383%2C%20de%201991%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. (Revogado pela Lei nº 7.774, de 1989)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2015.%20%28Revogado%20pela%20Lei%20n%C2%BA%207.774%2C%20de%201989%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. O custo de aquisição dos bens e direitos será o preço ou valor pago, e, na ausência deste, conforme o caso:\n\nI - o valor atribuído para efeito de pagamento do imposto de transmissão;\n\nII - o valor que tenha servido de base para o cálculo do Imposto de Importação acrescido do valor dos tributos e das despesas de desembaraço aduaneiro;\n\nIII - o valor da avaliação do inventário ou arrolamento;\n\nIV - o valor de transmissão, utilizado na aquisição, para cálculo do ganho de capital do alienante;\n\nV - seu valor corrente, na data da aquisição.\n\n§ 1º O valor da contribuição de melhoria integra o custo do imóvel.\n\n§ 2º O custo de aquisição de títulos e valores mobiliários, de quotas de capital e dos bens fungíveis será a média ponderada dos custos unitários, por espécie, desses bens.\n\n§ 3º No caso de participação societária resultantes de aumento de capital por incorporação de lucros e reservas, que tenham sido tributados na forma do art. 36 desta Lei, o custo de aquisição é igual à parcela do lucro ou reserva capitalizado, que corresponder ao sócio ou acionista beneficiário. (Vide Medida Provisória nº 1.303, de 2025) Produção de efeitos Vigência encerrada\n\n§ 4º O custo é considerado igual a zero no caso das participações societárias resultantes de aumento de capital por incorporação de lucros e reservas, no caso de partes beneficiárias adquiridas gratuitamente, assim como de qualquer bem cujo valor não possa ser determinado nos termos previsto neste artigo. (Vide Medida Provisória nº 1.303, de 2025) Produção de efeitos Vigência encerrada",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2016.%20O%20custo%20de%20aquisi%C3%A7%C3%A3o%20dos%20bens%20e%20direitos%20ser%C3%A1%20o%20pre%C3%A7o%20ou%20valor%20pago%2C%20e%2C%20na%20aus%C3%AAncia%20deste%2C%20conforme%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. O valor de aquisição de cada bem ou direito, expresso em cruzados novos, apurado de acordo com o artigo anterior, deverá ser corrigido monetariamente, a partir da data do pagamento, da seguinte forma: (Redação dada pela Lei nº 7.959, de 1989)\n\nI - até janeiro de 1989, pela variação da OTN; (Incluído pela Lei nº 7.959, de 1989)\n\nII - nos meses de fevereiro a abril de 1989, pelas seguintes variações: em fevereiro, 31,2025%; em março, 30,5774%; e em abril, 9,2415%; (Incluído pela Lei nº 7.959, de 1989)\n\nIII - a partir de maio de 1989, pela variação do BTN. (Incluído pela Lei nº 7.959, de 1989)\n\n§ 1° Na falta de documento que comprove a data do pagamento, no caso de bens e direitos adquiridos até 31 de dezembro de 1988, a conversão poderá ser feita pelo valor da OTN no mês de dezembro do ano em que este tiver constado pela primeira vez na declaração de bens. (Redação dada pela Lei nº 7.799, de 1989)\n\n§ 2º Os bens ou direitos da mesma espécie, pagos em datas diferentes, mas que constem agrupadamente na declaração de bens, poderão ser convertidos na forma do parágrafo anterior, desde que tomados isoladamente em relação ao ano da aquisição.\n\n§ 3º No caso do parágrafo anterior, não sendo possível identificar o ano dos pagamentos, a conversão será efetuada tomando-se por base o ano da aquisição mais recente.\n\n§ 4° No caso de aquisição com pagamento parcelado, a correção monetária será efetivada em relação a cada parcela. (Redação dada pela Lei nº 7.799, de 1989)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2017.%20O%20valor%20de%20aquisi%C3%A7%C3%A3o%20de%20cada%20bem%20ou%20direito%2C%20expresso%20em%20cruzados%20novos%2C%20apurado%20de%20acordo%20com%20o%20artigo%20anterior%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. Para apuração do valor a ser tributado, no caso de alienação de bens imóveis, poderá ser aplicado um percentual de redução sobre o ganho de capital apurado, segundo o ano de aquisição ou incorporação do bem, de acordo com a seguinte tabela: (Vide Lei 8.023, de 1990)\n\nAno de Aquisição ou Incorporação\n\nPercentual de Redução\n\nAno de Aquisição ou Incorporação\n\nPercentual de Redução\n\nAté 1969\n\n100\n\n1979\n\n50\n\n1970\n\n95%\n\n1980\n\n45%\n\n1971\n\n90%\n\n1981\n\n40%\n\n1972\n\n85%\n\n1982\n\n35%\n\n1973\n\n80%\n\n1983\n\n30%\n\n1974\n\n75%\n\n1984\n\n25%\n\n1975\n\n70%\n\n1985\n\n20%\n\n1976\n\n65%\n\n1986\n\n15%\n\n1977\n\n60%\n\n1987\n\n10%\n\n1978\n\n55%\n\n1988\n\n5%\n\nParágrafo único. Não haverá redução, relativamente aos imóveis cuja aquisição venha ocorrer a partir de 1º de janeiro de 1989.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2018.%20Para%20apura%C3%A7%C3%A3o%20do%20valor%20a%20ser%20tributado%2C%20no%20caso%20de%20aliena%C3%A7%C3%A3o%20de%20bens%20im%C3%B3veis%2C%20poder%C3%A1%20ser%20aplicado%20um%20percentual%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Valor da transmissão é o preço efetivo de operação de venda ou da cessão de direitos, ressalvado o disposto no art. 20 desta Lei.\n\nParágrafo único. Nas operações em que o valor não se expressar em dinheiro, o valor da transmissão será arbitrado segundo o valor de mercado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2019.%20Valor%20da%20transmiss%C3%A3o%20%C3%A9%20o%20pre%C3%A7o%20efetivo%20de%20opera%C3%A7%C3%A3o%20de%20venda%20ou%20da%20cess%C3%A3o%20de%20direitos%2C%20ressalvado%20o%20disposto%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. A autoridade lançadora, mediante processo regular, arbitrará o valor ou preço, sempre que não mereça fé, por notoriamente diferente do de mercado, o valor ou preço informado pelo contribuinte, ressalvada, em caso de contestação, avaliação contraditória, administrativa ou judicial.\n\nParágrafo único. (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2020.%20A%20autoridade%20lan%C3%A7adora%2C%20mediante%20processo%20regular%2C%20arbitrar%C3%A1%20o%20valor%20ou%20pre%C3%A7o%2C%20sempre%20que%20n%C3%A3o%20mere%C3%A7a%20f%C3%A9%2C%20por%20notoriamente%20diferente%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Nas alienações a prazo, o ganho de capital será tributado na proporção das parcelas recebidas em cada mês, considerando-se a respectiva atualização monetária, se houver.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2021.%20Nas%20aliena%C3%A7%C3%B5es%20a%20prazo%2C%20o%20ganho%20de%20capital%20ser%C3%A1%20tributado%20na%20propor%C3%A7%C3%A3o%20das%20parcelas%20recebidas%20em%20cada%20m%C3%AAs%2C%20considerando-se%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Na determinação do ganho de capital serão excluídos: (Vide Lei 8.023, de 1990)\n\nI - o ganho de capital decorrente da alienação do único imóvel que o titular possua, desde que não tenha realizado outra operação nos últimos cinco anos e o valor da alienação não seja superior ao equivalente a trezentos mil BTN no mês da operação. (Redação dada pela Lei 8.134, de 1990) (Vide Lei nº 8.218, de 1991)\n\nII - (Revogado pela Lei nº 8.014, de 1990)\n\nIII - as transferências causa mortis e as doações em adiantamento da legítima;\n\nIV - o ganho de capital auferido na alienação de bens de pequeno valor, definido pelo Poder executivo.\n\nParágrafo único. Não se considera ganho de capital o valor decorrente de indenização por desapropriação para fins de reforma agrária, conforme o disposto no § 5º do art. 184 da Constituição Federal, e de liquidação de sinistro, furto ou roubo, relativo a objeto segurado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2022.%20Na%20determina%C3%A7%C3%A3o%20do%20ganho%20de%20capital%20ser%C3%A3o%20exclu%C3%ADdos%3A%20%28Vide%20Lei%208.023%2C%20de%201990%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23 (Revogado pela Lei nº 8.134, de 1990)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2023%20%28Revogado%20pela%20Lei%20n%C2%BA%208.134%2C%20de%201990%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24 (Revogado pela Lei nº 8.134, de 1990)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2024%20%28Revogado%20pela%20Lei%20n%C2%BA%208.134%2C%20de%201990%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. O imposto será calculado, observado o seguinte: (Redação dada pela Lei nº 8.269, de 1991)\n\nI - se o rendimento mensal for de até Cr$ 750.000,00, será deduzida uma parcela correspondente a Cr$ 250.000,00 e, sobre o saldo remanescente incidirá alíquota de 10%; (Redação dada pela Lei nº 8.269, de 1991)\n\nII - se o rendimento mensal for superior a Cr$ 750.000,00, será deduzida uma parcela correspondente a Cr$ 550.000,00 e, sobre o saldo remanescente incidirá alíquota de 25%. (Redação dada pela Lei nº 8.269, de 1991)\n\n§ 1° Na determinação da base de cálculo sujeita a incidência do imposto poderão ser deduzidos: (Redação dada pela Lei nº 8.269, de 1991)\n\na) Cr$ 20.000,00 por dependente, até o limite de cinco dependentes; (Redação dada pela Lei nº 8.269, de 1991)\n\nb) Cr$ 250.000,00, correspondentes à parcela isenta dos rendimentos provenientes de aposentadoria e pensão, transferência para reserva remunerada ou reforma pagos pela Previdência Social da União, dos Estados, do Distrito Federal e dos Municípios, ou por qualquer pessoa jurídica de direito público interno, a partir do mês em que o contribuinte completar sessenta e cinco anos de idade; (Redação dada pela Lei nº 8.269, de 1991)\n\nc) o valor da contribuição paga, no mês, para a Previdência Social da União, dos Estados, do Distrito Federal e dos Municípios; (Redação dada pela Lei nº 8.269, de 1991)\n\nd) o valor da pensão judicial paga. (Redação dada pela Lei nº 8.269, de 1991)\n\n§ 2° As disposições deste artigo aplicam-se aos pagamentos efetuados a partir de 1° de dezembro de 1991. (Redação dada pela Lei nº 8.269, de 1991)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2025.%20O%20imposto%20ser%C3%A1%20calculado%2C%20observado%20o%20seguinte%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%208.269%2C%20de%201991%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. O valor da Gratificação de Natal (13º salário) a que se referem as Leis nº 4.090, de 13 de julho de 1962, e de nº 4.281, de 8 de novembro de 1963, e o art. 10 do Decreto-Lei nº 2.413, de 10 de fevereiro de 1988, será tributado à mesma alíquota (art. 25) a que estiver sujeito o rendimento mensal do contribuinte, antes de sua inclusão. (Vide Lei nº 7.959, de 1989)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2026.%20O%20valor%20da%20Gratifica%C3%A7%C3%A3o%20de%20Natal%20%2813%C2%BA%20sal%C3%A1rio%29%20a%20que%20se%20referem%20as%20Leis%20n%C2%BA%204.090%2C%20de%2013%20de%20julho",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. (Revogado pela Lei nº 9.250, de 1995)\n\nArts. 28 e 29 (Revogados pela Lei nº 8.134, de 1990)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2027.%20%28Revogado%20pela%20Lei%20n%C2%BA%209.250%2C%20de%201995%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Permanecem em vigor as isenções de que tratam os arts. 3º a 7º do Decreto-Lei nº 1.380, de 23 de dezembro de 1974, e o art. 5º da Lei nº 4.506, de 30 de novembro de 1964.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2030.%20Permanecem%20em%20vigor%20as%20isen%C3%A7%C3%B5es%20de%20que%20tratam%20os%20arts.%203%C2%BA%20a%207%C2%BA%20do%20Decreto-Lei%20n%C2%BA%201.380%2C%20de%2023%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art 31. Ficam sujeitos à incidência do imposto de renda na fonte, calculado de acordo com o disposto no art. 25 desta Lei, relativamente à parcela correspondente às contribuições cujo ônus não tenha sido do beneficiário ou quando os rendimentos e ganhos de capital produzidos pelo patrimônio da entidade de previdência não tenham sido tributados na fonte: (Redação dada pela Lei nº 7.751, de 1989)\n\nI - as importâncias pagas ou creditadas a pessoas físicas, sob a forma de resgate, pecúlio ou renda periódica, pelas entidades de previdência privada;\n\nII - os valores resgatados dos Planos de Poupança e Investimento - PAIT de que trata o Decreto-Lei nº 2.292, de 21 de novembro de 1986.\n\n§ 1º O imposto será retido por ocasião do pagamento ou crédito, pela entidade de previdência privada, no caso do inciso I, e pelo administrador da carteira, fundo ou clube PAIT, no caso do inciso II.\n\n§ 2º (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art%2031.%20Ficam%20sujeitos%20%C3%A0%20incid%C3%AAncia%20do%20imposto%20de%20renda%20na%20fonte%2C%20calculado%20de%20acordo%20com%20o%20disposto%20no%20art.%2025%20desta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. Ficam sujeitos à incidência do imposto de renda na fonte, à alíquota de vinte e cinco por cento:\n\nI - os benefícios líquidos resultantes da amortização antecipada, mediante sorteio, dos títulos de economia denominados capitalização;\n\nII - os benefícios atribuídos aos portadores de títulos de capitalização nos lucros da empresa emitente.\n\n§ 1º A alíquota prevista neste artigo será de quinze por cento em relação aos prêmios pagos aos proprietários e criadores de cavalos de corrida.\n\n§ 2º O imposto de que trata este artigo será considerado:\n\na) antecipação do devido na declaração de rendimentos, quando o beneficiário for pessoa jurídica tributada com base no lucro real;\n\nb) devido exclusivamente na fonte, nos demais casos, inclusive quando o beneficiário for pessoa jurídica isenta.\n\n§ 3º (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2032.%20Ficam%20sujeitos%20%C3%A0%20incid%C3%AAncia%20do%20imposto%20de%20renda%20na%20fonte%2C%20%C3%A0%20al%C3%ADquota%20de%20vinte%20e%20cinco%20por%20cento%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Ressalvado o disposto em normas especiais, no caso de ganho de capital auferido por residente ou domiciliado no exterior, o imposto será devido, à alíquota de vinte e cinco por cento, no momento da alienação do bem ou direito.\n\nParágrafo único. O imposto deverá ser pago no prazo de quinze dias contados da realização da operação ou por ocasião da remessa, sempre que esta ocorrer antes desse prazo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2033.%20Ressalvado%20o%20disposto%20em%20normas%20especiais%2C%20no%20caso%20de%20ganho%20de%20capital%20auferido%20por%20residente%20ou%20domiciliado%20no%20exterior%2C%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. Na inexistência de outros bens sujeitos a inventário ou arrolamento, os valores relativos ao imposto de renda e outros tributos administrados pela Secretaria da Receita Federal, bem como o resgate de quotas dos fundos fiscais criados pelos Decretos-Leis nºs 157, de 10 de fevereiro de 1967, e 880, de 18 de setembro de 1969, não recebidos em vida pelos respectivos titulares, poderão ser restituídos ao cônjuge, filho e demais dependentes do contribuinte falecido, inexigível a apresentação de alvará judicial.\n\nParágrafo único. Existindo outros bens sujeitos a inventário ou arrolamento, a restituição ao meeiro, herdeiros ou sucessores, far-se-á na forma e condições do alvará expedido pela autoridade judicial para essa finalidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2034.%20Na%20inexist%C3%AAncia%20de%20outros%20bens%20sujeitos%20a%20invent%C3%A1rio%20ou%20arrolamento%2C%20os%20valores%20relativos%20ao%20imposto%20de%20renda%20e%20outros%20tributos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. O sócio quotista, o acionista ou titular da empresa individual ficará sujeito ao imposto de renda na fonte, à alíquota de oito por cento, calculado com base no lucro líquido apurado pelas pessoas jurídicas na data do encerramento do período-base. (Vide RSF nº 82, de 1996)\n\n§ 1º Para efeito da incidência de que trata este artigo, o lucro líquido do período-base apurado com observância da legislação comercial, será ajustado pela:\n\na) adição do valor das provisões não dedutíveis na determinação do lucro real, exceto a provisão para o imposto de renda;\n\nb) adição do valor da reserva de reavaliação, baixado no curso do período-base, que não tenha sido computado no lucro líquido;\n\nc) exclusão do valor, corrigido monetariamente, das provisões adicionadas, na forma da alínea a, que tenham sido baixadas no curso do período-base, utilizando-se a variação do BTN Fiscal. (Redação dada pela Lei nº 7.799, de 1989)\n\nd) compensação de prejuízos contábeis apurados em balanço de encerramento de período-base anterior, desde que tenham sido compensados contabilmente, ressalvado do disposto no § 2º deste artigo.\n\ne) exclusão do resultado positivo de avaliação de investimentos pelo valor de patrimônio líquido; (Incluída pela Lei nº 7.959, de 1989)\n\nf) exclusão dos lucros e dividendos derivados de investimentos avaliados pelo custo de aquisição, que tenham sido computados como receita; (Incluída pela Lei nº 7.959, de 1989)\n\ng) adição do resultado negativo da avaliação de investimentos pelo valor de patrimônio líquido. (Incluída pela Lei nº 7.959, de 1989)\n\n§ 2º Não poderão ser compensados os prejuízos:\n\na) que absorverem lucros ou reservas que não tenham sido tributados na forma deste artigo;\n\nb) absorvidos na redução de capital que tenha sido aumentado com os benefícios do art. 63 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977.\n\n§ 3º O disposto nas alíneas a e c do § 1º não se aplica em relação às provisões admitidas pela Comissão de Valores Mobiliários, Banco Central do Brasil e Superintendência de Seguros Privados, quando contribuídas por pessoas jurídicas submetidas à orientação normativa dessas entidades.\n\n§ 4º O imposto de que trata este artigo:\n\na) será considerado devido exclusivamente na fonte, quando o beneficiário do lucro for pessoa física;\n\nb) (Revogada pela Lei nº 7.759, de 1989)\n\nc) poderá ser compensado com o imposto incidente na fonte sobre a parcela dos lucros apurados pelas pessoas jurídicas, que corresponder à participação de beneficiário, pessoa física ou jurídica, residente ou domiciliado no exterior.\n\n§ 5º É dispensada a retenção na fonte do imposto a que se refere este artigo sobre a parcela do lucro líquido que corresponder à participação de pessoa jurídica imune ou isenta do imposto de renda. (Redação dada pela Lei 7.730, de 1989)\n\n§ 6º O disposto neste artigo se aplica em relação ao lucro líquido apurado nos períodos-base encerrados a partir da data da vigência desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2035.%20O%20s%C3%B3cio%20quotista%2C%20o%20acionista%20ou%20titular%20da%20empresa%20individual%20ficar%C3%A1%20sujeito%20ao%20imposto%20de%20renda%20na%20fonte%2C%20%C3%A0%20al%C3%ADquota",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Os lucros que forem tributados na forma do artigo anterior, quando distribuídos, não estarão sujeitos à incidência do imposto de renda na fonte.\n\nParágrafo único. Incide, entretanto, o imposto de renda na fonte;\n\na) em relação aos lucros que não tenham sido tributados na forma do artigo anterior;\n\nb) no caso de pagamento, crédito, entrega, emprego ou remessa de lucros, quando o beneficiário for residente ou domiciliado no exterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2036.%20Os%20lucros%20que%20forem%20tributados%20na%20forma%20do%20artigo%20anterior%2C%20quando%20distribu%C3%ADdos%2C%20n%C3%A3o%20estar%C3%A3o%20sujeitos%20%C3%A0%20incid%C3%AAncia%20do%20imposto%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. O imposto a que se refere o art. 36 desta lei será convertido em número de OTN, pelo valor desta no mês de encerramento do período-base e deverá ser pago até o último dia útil do quarto mês subseqüente ao do encerramento do período-base.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2037.%20O%20imposto%20a%20que%20se%20refere%20o%20art.%2036%20desta%20lei%20ser%C3%A1%20convertido%20em%20n%C3%BAmero%20de%20OTN%2C%20pelo%20valor%20desta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. O disposto no art. 63 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, somente se aplicará aos lucros e reservas relativos a resultados de períodos-base encerrados à data da vigência desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2038.%20O%20disposto%20no%20art.%2063%20do%20Decreto-Lei%20n%C2%BA%201.598%2C%20de%2026%20de%20dezembro%20de%201977%2C%20somente%20se%20aplicar%C3%A1%20aos%20lucros",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. O disposto no art. 36 desta Lei não se aplicará às sociedades civis de que trata o art. 1º do Decreto-Lei nº 2.397, de 21 de dezembro de 1987.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2039.%20O%20disposto%20no%20art.%2036%20desta%20Lei%20n%C3%A3o%20se%20aplicar%C3%A1%20%C3%A0s%20sociedades%20civis%20de%20que%20trata%20o%20art.%201%C2%BA%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art 40. Fica sujeita ao pagamento do imposto de renda à alíquota de dez por cento, a pessoa física que auferir ganhos líquidos nas operações realizadas nas bolsas de valores, de mercadorias, de futuros e assemelhadas, ressalvado o disposto no inciso II do art. 22 desta Lei. (Redação dada pela Lei nº 7.751, de 1989)(Vide Lei nº 8.012, de 1990) (Vide Medida Provisória nº 1.303, de 2025) Produção de efeitos Vigência encerrada\n\n§ 1º Considera-se ganho líquido o resultado positivo auferido nas operações ou contratos liquidados em cada mês, admitida a dedução dos custos e despesas efetivamente incorridos, necessários à realização das operações, e à compensação das perdas efetivas ocorridas no mesmo período.\n\n§ 2º O ganho líquido será constituído: (Redação dada pela Lei 7.730, de 1989)\n\na) no caso dos mercados à vista, pela diferença positiva entre o valor de transmissão do ativo e o custo de aquisição do mesmo; (Redação dada pela Lei 7.730, de 1989)\n\nb) no caso do mercado de opções: (Redação dada pela Lei 7.730, de 1989)\n\n1. nas operações tendo por objeto a opção, a diferença positiva apurada entre o valor das posições encerradas ou não exercidas até o vencimento da opção; (Redação dada pela Lei 7.730, de 1989)\n\n2. nas operações de exercício, a diferença positiva apurada entre o valor de venda à vista ou o preço médio à vista na data do exercício e o preço fixado para o exercício, ou a diferença positiva entre o preço do exercício acrescido do prêmio e o custo de aquisição; (Redação dada pela Lei 7.730, de 1989)\n\nc) no caso dos mercados a termo, a diferença positiva apurada entre o valor da venda à vista ou o preço médio à vista na data da liquidação do contrato a termo e o preço neste estabelecido;\n\nd) no caso dos mercados futuros, o resultado líquido positivo dos ajustes diários apurados no período.\n\n§ 3º Se o contribuinte apurar resultado negativo no mês será admitida a sua apropriação nos meses subseqüente. (Redação dada pela Lei 7.730, de 1989)\n\n§ 4º O imposto deverá ser pago até o último dia útil da primeira quinzena do mês subseqüente ao da percepção dos rendimentos.\n\n§ 5º (Revogado pela Lei nº 8.014, de 1990)\n\n§ 6º O Poder Executivo poderá baixar normas para apuração e demonstração de ganhos líquidos, bem como autorizar a compensação de perdas entre dois ou mais mercados ou modalidades operacionais, previstos neste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art%2040.%20Fica%20sujeita%20ao%20pagamento%20do%20imposto%20de%20renda%20%C3%A0%20al%C3%ADquota%20de%20dez%20por%20cento%2C%20a%20pessoa%20f%C3%ADsica%20que%20auferir%20ganhos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. As deduções de despesas, bem como a compensação de perdas previstas no artigo anterior, serão admitidas exclusivamente para as operações realizadas em mercados organizados, geridos ou sob a responsabilidade de instituição credenciada pelo Poder Executivo e com objetivos semelhantes aos das bolsas de valores, de mercadorias ou de futuros. (Vide Medida Provisória nº 1.303, de 2025) Produção de efeitos Vigência encerrada",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2041.%20As%20dedu%C3%A7%C3%B5es%20de%20despesas%2C%20bem%20como%20a%20compensa%C3%A7%C3%A3o%20de%20perdas%20previstas%20no%20artigo%20anterior%2C%20ser%C3%A3o%20admitidas%20exclusivamente%20para%20as%20opera%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42 (Revogado pela Lei nº 8.134, de 1990)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2042%20%28Revogado%20pela%20Lei%20n%C2%BA%208.134%2C%20de%201990%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. Fica sujeito à incidência do imposto de renda na fonte, à alíquota de sete inteiros e cinco décimos por cento, o rendimento bruto produzido por quaisquer aplicações financeiras. (Redação dada pela Lei nº 7.738, de 1989) (Vide Medida Provisória nº 1.303, de 2025) Produção de efeitos Vigência encerrada\n\n§ 1º O disposto neste artigo aplica-se, também, às operações de financiamento realizadas em bolsas de valores, de mercadorias, de futuros ou assemelhadas. (Redação dada pela Lei nº 7.738, de 1989)\n\n§ 2º O disposto neste artigo não se aplica ao rendimento bruto auferido: (Redação dada pela Lei nº 7.738, de 1989)\n\na) em aplicações em fundos de curto prazo, tributados nos termos do Decreto-Lei nº 2.458, de 25 de agosto de 1988; (Redação dada pela Lei nº 7.738, de 1989)\n\nb) em operações financeiras de curto prazo, assim consideradas as de prazo inferior a noventa dias, que serão tributadas às seguintes alíquotas, sobre o rendimento bruto: (Redação dada pela Lei nº 7.738, de 1989)\n\n1. quando a operação se iniciar e encerrar no mesmo dia, quarenta por cento; (Redação dada pela Lei nº 7.738, de 1989)\n\n2. nas demais operações, dez por cento, quando o beneficiário se identificar e trinta por cento, quando o beneficiário não se identificar. (Redação dada pela Lei nº 7.738, de 1989)\n\n§ 3º Nas operações tendo por objeto Letras Financeiras do Tesouro - LFT ou títulos estaduais e municipais a elas equiparados, o imposto de renda na fonte será calculado à alíquota de: (Redação dada pela Lei nº 7.738, de 1989)\n\na) quarenta por cento, em se tratando de operação de curto prazo; e (Redação dada pela Lei nº 7.738, de 1989)\n\nb) vinte e cinco por cento, quando o prazo da operação for igual ou superior a noventa dias. (Redação dada pela Lei nº 7.738, de 1989)\n\n§ 4º A base de cálculo do imposto de renda na fonte sobre as operações de que trata o § 3º será constituída pelo rendimento que exceder a remuneração calculada com base na taxa referencial acumulada da Letra Financeira do Tesouro no período, divulgada pelo Banco Central do Brasil. (Redação dada pela Lei nº 7.738, de 1989)\n\n§ 5º O imposto de renda será retido pela fonte pagadora: (Redação dada pela Lei nº 7.738, de 1989)\n\na) em relação aos juros de depósitos em cadernetas de poupança, na data do crédito ou pagamento; (Redação dada pela Lei nº 7.738, de 1989)\n\nb) em relação às operações de financiamento realizadas em bolsas de valores, de mercadorias, de futuros e assemelhadas, na liquidação; (Redação dada pela Lei nº 7.738, de 1989)\n\nc) nos demais casos, na data da cessão, liquidação ou resgate, ou nos pagamentos periódicos de rendimentos. (Redação dada pela Lei nº 7.738, de 1989)\n\n§ 6º Nas aplicações em fundos em condomínio, exceto os de curto prazo, ou clubes de investimento, efetuadas até 31 de dezembro de 1988, o rendimento real será determinado tomando-se por base o valor da quota em 1º de janeiro de 1989, facultado à administradora optar pela tributação do rendimento no ato da liquidação ou resgate do título ou aplicação, em substituição à tributação quando do resgate das quotas. (Redação dada pela Lei nº 7.738, de 1989)\n\n§ 7º A alíquota de que trata o caput aplicar-se-á aos rendimentos de títulos, obrigações ou aplicações produzidas a partir do período iniciado em 16 de janeiro de 1989, mesmo quando adquiridos ou efetuadas anteriormente a esta data. (Redação dada pela Lei nº 7.738, de 1989)\n\n§ 8º As alíquotas de que tratam os §§ 2º e 3º, incidentes sobre rendimentos auferidos em operações de curto prazo, são aplicáveis às operações iniciadas a partir de 13 de fevereiro de 1989. (Redação dada pela Lei nº 7.738, de 1989)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2043.%20Fica%20sujeito%20%C3%A0%20incid%C3%AAncia%20do%20imposto%20de%20renda%20na%20fonte%2C%20%C3%A0%20al%C3%ADquota%20de%20sete%20inteiros%20e%20cinco%20d%C3%A9cimos%20por%20cento%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. O imposto de que trata o artigo anterior será considerado: (Vide Medida Provisória nº 1.303, de 2025) Produção de efeitos Vigência encerrada\n\nI - antecipação do devido na declaração de rendimentos, quando o beneficiário for pessoa jurídica tributada com base no lucro real;\n\nII - devido exclusivamente na fonte nos demais casos, inclusive quando o beneficiário for pessoa jurídica isenta, observado o disposto no art. 47 desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2044.%20O%20imposto%20de%20que%20trata%20o%20artigo%20anterior%20ser%C3%A1%20considerado%3A%20%28Vide%20Medida%20Provis%C3%B3ria%20n%C2%BA%201.303%2C%20de%202025%29%20Produ%C3%A7%C3%A3o%20de%20efeitos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45 (Revogado pela Lei nº 8.134, de 1990)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2045%20%28Revogado%20pela%20Lei%20n%C2%BA%208.134%2C%20de%201990%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46 (Revogado pela Lei 7.730, de 1989)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2046%20%28Revogado%20pela%20Lei%207.730%2C%20de%201989%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Fica sujeito à incidência do imposto de renda exclusivamente na fonte, à alíquota de trinta por cento, todo rendimento real ou ganho de capital pago a beneficiário não identificado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2047.%20Fica%20sujeito%20%C3%A0%20incid%C3%AAncia%20do%20imposto%20de%20renda%20exclusivamente%20na%20fonte%2C%20%C3%A0%20al%C3%ADquota%20de%20trinta%20por%20cento%2C%20todo%20rendimento%20real",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. A tributação de que tratam os arts. 7º, 8º e 23 não se aplica aos rendimentos e ganhos de capital tributados na forma dos arts. 41 e 47 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2048.%20A%20tributa%C3%A7%C3%A3o%20de%20que%20tratam%20os%20arts.%207%C2%BA%2C%208%C2%BA%20e%2023%20n%C3%A3o%20se%20aplica%20aos%20rendimentos%20e%20ganhos%20de%20capital",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. O disposto nesta Lei não se aplica aos rendimentos da atividade agrícola e pastoril, que serão tributados na forma da legislação específica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2049.%20O%20disposto%20nesta%20Lei%20n%C3%A3o%20se%20aplica%20aos%20rendimentos%20da%20atividade%20agr%C3%ADcola%20e%20pastoril%2C%20que%20ser%C3%A3o%20tributados%20na%20forma%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2050.%20%28Vetado%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. A isenção do imposto de renda de que trata o art. 11, item I, da Lei nº 7.256, de 27 de novembro de 1984, não se aplica à empresa que se encontre nas situações previstas no art. 3º, itens I a V, da referida Lei, nem às empresas que prestem serviços profissionais de corretor, despachante, ator, empresário e produtor de espetáculos públicos, cantor, músico, médico, dentista, enfermeiro, engenheiro, físico, químico, economista, contador, auditor, estatístico, administrador, programador, analista de sistema, advogado, psicólogo, professor, jornalista, publicitário, ou assemelhados, e qualquer outra profissão cujo exercício dependa de habilitação profissional legalmente exigida.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2051.%20A%20isen%C3%A7%C3%A3o%20do%20imposto%20de%20renda%20de%20que%20trata%20o%20art.%2011%2C%20item%20I%2C%20da%20Lei%20n%C2%BA%207.256%2C%20de%2027",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. A falta ou insuficiência de recolhimento do imposto ou de quota deste, nos prazos fixados nesta Lei, apresentada ou não a declaração, sujeitará o contribuinte às multas e acréscimos previstos na legislação do imposto de renda.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2052.%20A%20falta%20ou%20insufici%C3%AAncia%20de%20recolhimento%20do%20imposto%20ou%20de%20quota%20deste%2C%20nos%20prazos%20fixados%20nesta%20Lei%2C%20apresentada%20ou%20n%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. Os juros e as multas serão calculados sobre o imposto ou quota, observado o seguinte: (Redação dada pela Lei nº 7.799, de 1989)\n\na) quando expresso em BTN serão convertidos em cruzados novos pelo valor do BTN no mês do pagamento; (Incluída pela Lei nº 7.799, de 1989)\n\nb) quando expresso em BTN Fiscal, serão convertidos em cruzados novos pelo valor do BTN Fiscal no dia do pagamento. (Incluída pela Lei nº 7.799, de 1989)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2053.%20Os%20juros%20e%20as%20multas%20ser%C3%A3o%20calculados%20sobre%20o%20imposto%20ou%20quota%2C%20observado%20o%20seguinte%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. Fica o Poder Executivo autorizado a implantar medidas de estímulo à eficiência da atividade fiscal em programas especiais de fiscalização.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2054.%20Fica%20o%20Poder%20Executivo%20autorizado%20a%20implantar%20medidas%20de%20est%C3%ADmulo%20%C3%A0%20efici%C3%AAncia%20da%20atividade%20fiscal%20em%20programas%20especiais%20de%20fiscaliza%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. Fica reduzida para um por cento a alíquota aplicável às importâncias pagas ou creditadas, a partir do mês de janeiro de 1989, a pessoas jurídicas, civis ou mercantis, pela prestação de serviços de limpeza, conservação, segurança, vigilância e por locação de mão-de-obra de que trata o art. 3º do Decreto-Lei nº 2.462, de 30 de agosto de 1988. (Vide Medida Provisória nº 232, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2055.%20Fica%20reduzida%20para%20um%20por%20cento%20a%20al%C3%ADquota%20aplic%C3%A1vel%20%C3%A0s%20import%C3%A2ncias%20pagas%20ou%20creditadas%2C%20a%20partir%20do%20m%C3%AAs%20de%20janeiro",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. (Revogado pela Lei nº 9.430, de 1996)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2056.%20%28Revogado%20pela%20Lei%20n%C2%BA%209.430%2C%20de%201996%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. Esta Lei entra em vigor em 1º de janeiro de 1989.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2057.%20Esta%20Lei%20entra%20em%20vigor%20em%201%C2%BA%20de%20janeiro%20de%201989.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. Revogam-se o art. 50 da Lei nº 4.862, de 29 de novembro de 1965, os arts. 1º a 9º do Decreto-Lei nº 1.510, de 27 de dezembro de 1976, os arts. 65 e 66 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, os arts. 1º a 4º do Decreto-Lei nº 1.641, de 7 de dezembro de 1978, os arts. 12 e 13 do Decreto-Lei nº 1.950, de 14 de julho de 1982, os arts. 15 e 100 da Lei nº 7.450, de 23 de dezembro de 1985, o art. 18 do Decreto-Lei nº 2.287, de 23 de julho de 1986, o item IV e o parágrafo único do art. 12 do Decreto-Lei nº 2.292, de 21 de novembro de 1986, o item III do art. 2º do Decreto-Lei nº 2.301, de 21 de novembro de 1986, o item III do art. 7º do Decreto-Lei nº 2.394, de 21 de dezembro de 1987, e demais disposições em contrário.\n\nBrasília, 22 de dezembro de 1988; 167º da Independência e 100º da República.\n\nJOSÉ SARNEY Mailson Ferreira da Nóbrega\n\nEste texto não substitui o publicado no DOU de 23.12.1998\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7713compilada.htm#:~:text=Art.%2058.%20Revogam-se%20o%20art.%2050%20da%20Lei%20n%C2%BA%204.862%2C%20de%2029%20de%20novembro%20de%201965%2C%20os%20arts.%201%C2%BA%20a%209%C2%BA%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "57",
+      "next": null
+    }
+  }
+}

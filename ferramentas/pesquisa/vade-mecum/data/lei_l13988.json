@@ -1,0 +1,639 @@
+{
+  "_meta": {
+    "codigo": "L13988",
+    "nome": "Transação no Contencioso Tributário Federal",
+    "lei": "Lei 13.988/2020",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm",
+    "total_artigos": 39,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1 º Esta Lei estabelece os requisitos e as condições para que a União, as suas autarquias e fundações, e os devedores ou as partes adversas realizem transação resolutiva de litígio relativo à cobrança de créditos da Fazenda Pública, de natureza tributária ou não tributária.\n\n§ 1º A União, em juízo de oportunidade e conveniência, poderá celebrar transação em quaisquer das modalidades de que trata esta Lei, sempre que, motivadamente, entender que a medida atende ao interesse público.\n\n§ 2º Para fins de aplicação e regulamentação desta Lei, serão observados, entre outros, os princípios da isonomia, da capacidade contributiva, da transparência, da moralidade, da razoável duração dos processos e da eficiência e, resguardadas as informações protegidas por sigilo, o princípio da publicidade.\n\n§ 3º A observância do princípio da transparência será efetivada, entre outras ações, pela divulgação em meio eletrônico de todos os termos de transação celebrados, com informações que viabilizem o atendimento do princípio da isonomia, resguardadas as legalmente protegidas por sigilo.\n\n§ 4º Aplica-se o disposto nesta Lei:\n\nI - aos créditos tributários não judicializados sob a administração da Secretaria Especial da Receita Federal do Brasil do Ministério da Economia;\n\nI - aos créditos tributários sob a administração da Secretaria Especial da Receita Federal do Brasil do Ministério da Economia; (Redação dada pela Lei nº 14.375, de 2022)\n\nII - à dívida ativa e aos tributos da União, cujas inscrição, cobrança e representação incumbam à Procuradoria-Geral da Fazenda Nacional, nos termos do art. 12 da Lei Complementar nº 73, de 10 de fevereiro de 1993; e\n\nIII - no que couber, à dívida ativa das autarquias e das fundações públicas federais, cujas inscrição, cobrança e representação incumbam à Procuradoria-Geral Federal, e aos créditos cuja cobrança seja competência da Procuradoria-Geral da União, nos termos de ato do Advogado-Geral da União e sem prejuízo do disposto na Lei nº 9.469, de 10 de julho de 1997 .\n\nIII – no que couber, à dívida ativa das autarquias e das fundações públicas federais cujas inscrição, cobrança e representação incumbam à Procuradoria-Geral Federal ou à Procuradoria-Geral do Banco Central e aos créditos cuja cobrança seja competência da Procuradoria-Geral da União, nos termos de ato do Advogado-Geral da União e sem prejuízo do disposto na Lei nº 9.469, de 10 de julho de 1997. (Redação dada pela Lei nº 14.689, de 2023)\n\n§ 5º A transação de créditos de natureza tributária será realizada nos termos do art. 171 da Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%201%20%C2%BA%20Esta%20Lei%20estabelece%20os%20requisitos%20e%20as%20condi%C3%A7%C3%B5es%20para%20que%20a%20Uni%C3%A3o%2C%20as%20suas%20autarquias%20e%20funda%C3%A7%C3%B5es%2C%20e%20os",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Para fins desta Lei, são modalidades de transação as realizadas:\n\nI - por proposta individual ou por adesão, na cobrança de créditos inscritos na dívida ativa da União, de suas autarquias e fundações públicas, ou na cobrança de créditos que seja competência da Procuradoria-Geral da União;\n\nI - por proposta individual ou por adesão, na cobrança de créditos inscritos na dívida ativa da União, de suas autarquias e fundações públicas, na cobrança de créditos que seja da competência da Procuradoria-Geral da União, ou em contencioso administrativo fiscal; (Redação dada pela Lei nº 14.375, de 2022)\n\nII - por adesão, nos demais casos de contencioso judicial ou administrativo tributário; e\n\nIII - por adesão, no contencioso tributário de pequeno valor.\n\nParágrafo único. A transação por adesão implica aceitação pelo devedor de todas as condições fixadas no edital que a propõe.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%202%C2%BA%20Para%20fins%20desta%20Lei%2C%20s%C3%A3o%20modalidades%20de%20transa%C3%A7%C3%A3o%20as%20realizadas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º A proposta de transação deverá expor os meios para a extinção dos créditos nela contemplados e estará condicionada, no mínimo, à assunção pelo devedor dos compromissos de:\n\nI - não utilizar a transação de forma abusiva, com a finalidade de limitar, de falsear ou de prejudicar, de qualquer forma, a livre concorrência ou a livre iniciativa econômica;\n\nII - não utilizar pessoa natural ou jurídica interposta para ocultar ou dissimular a origem ou a destinação de bens, de direitos e de valores, os seus reais interesses ou a identidade dos beneficiários de seus atos, em prejuízo da Fazenda Pública federal;\n\nIII - não alienar nem onerar bens ou direitos sem a devida comunicação ao órgão da Fazenda Pública competente, quando exigido em lei;\n\nIV - desistir das impugnações ou dos recursos administrativos que tenham por objeto os créditos incluídos na transação e renunciar a quaisquer alegações de direito sobre as quais se fundem as referidas impugnações ou recursos; e\n\nV - renunciar a quaisquer alegações de direito, atuais ou futuras, sobre as quais se fundem ações judiciais, inclusive as coletivas, ou recursos que tenham por objeto os créditos incluídos na transação, por meio de requerimento de extinção do respectivo processo com resolução de mérito, nos termos da alínea c do inciso III do caput do art. 487 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil).\n\n§ 1º A proposta de transação deferida importa em aceitação plena e irretratável de todas as condições estabelecidas nesta Lei e em sua regulamentação, de modo a constituir confissão irrevogável e irretratável dos créditos abrangidos pela transação, nos termos dos arts. 389 a 395 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil).\n\n§ 2º Quando a transação envolver moratória ou parcelamento, aplica-se, para todos os fins, o disposto nos incisos I e VI do caput do art. 151 da Lei nº 5.172, de 25 de outubro de 1966.\n\n§ 3º Os créditos abrangidos pela transação somente serão extintos quando integralmente cumpridas as condições previstas no respectivo termo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%203%C2%BA%20A%20proposta%20de%20transa%C3%A7%C3%A3o%20dever%C3%A1%20expor%20os%20meios%20para%20a%20extin%C3%A7%C3%A3o%20dos%20cr%C3%A9ditos%20nela%20contemplados%20e%20estar%C3%A1%20condicionada%2C%20no%20m%C3%ADnimo%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Implica a rescisão da transação:\n\nI - o descumprimento das condições, das cláusulas ou dos compromissos assumidos;\n\nII - a constatação, pelo credor, de ato tendente ao esvaziamento patrimonial do devedor como forma de fraudar o cumprimento da transação, ainda que realizado anteriormente à sua celebração;\n\nIII - a decretação de falência ou de extinção, pela liquidação, da pessoa jurídica transigente;\n\nIV - a comprovação de prevaricação, de concussão ou de corrupção passiva na sua formação;\n\nV - a ocorrência de dolo, de fraude, de simulação ou de erro essencial quanto à pessoa ou quanto ao objeto do conflito;\n\nVI - a ocorrência de alguma das hipóteses rescisórias adicionalmente previstas no respectivo termo de transação; ou\n\nVII - a inobservância de quaisquer disposições desta Lei ou do edital.\n\n§ 1º O devedor será notificado sobre a incidência de alguma das hipóteses de rescisão da transação e poderá impugnar o ato, na forma da Lei nº 9.784, de 29 de janeiro de 1999, no prazo de 30 (trinta) dias.\n\n§ 2º Quando sanável, é admitida a regularização do vício que ensejaria a rescisão durante o prazo concedido para a impugnação, preservada a transação em todos os seus termos.\n\n§ 3º A rescisão da transação implicará o afastamento dos benefícios concedidos e a cobrança integral das dívidas, deduzidos os valores já pagos, sem prejuízo de outras consequências previstas no edital.\n\n§ 4º Aos contribuintes com transação rescindida é vedada, pelo prazo de 2 (dois) anos, contado da data de rescisão, a formalização de nova transação, ainda que relativa a débitos distintos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%204%C2%BA%20Implica%20a%20rescis%C3%A3o%20da%20transa%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º É vedada a transação que:\n\nI - reduza multas de natureza penal;\n\nII - conceda descontos a créditos relativos ao:\n\na) Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional), enquanto não editada lei complementar autorizativa;\n\nb) Fundo de Garantia do Tempo de Serviço (FGTS), enquanto não autorizado pelo seu Conselho Curador;\n\nIII - envolva devedor contumaz, conforme definido em lei específica.\n\n§ 1º É vedada a acumulação das reduções oferecidas pelo edital com quaisquer outras asseguradas na legislação em relação aos créditos abrangidos pela proposta de transação.\n\n§ 2º Nas propostas de transação que envolvam redução do valor do crédito, os encargos legais acrescidos aos débitos inscritos em dívida ativa da União de que trata o art. 1º do Decreto-Lei nº 1.025, de 21 de outubro de 1969 , serão obrigatoriamente reduzidos em percentual não inferior ao aplicado às multas e aos juros de mora relativos aos créditos a serem transacionados.\n\n§ 3º A rejeição da autorização referida na alínea b do inciso II do caput deste artigo exigirá manifestação expressa e fundamentada do Conselho Curador do FGTS, sem a qual será reputada a anuência tácita após decorrido prazo superior a 20 (vinte) dias úteis da comunicação, pela Procuradoria-Geral da Fazenda Nacional, da abertura do edital para adesão ou da proposta de transação individual.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%205%C2%BA%20%C3%89%20vedada%20a%20transa%C3%A7%C3%A3o%20que%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Para fins do disposto nesta Lei, considera-se microempresa ou empresa de pequeno porte a pessoa jurídica cuja receita bruta esteja nos limites fixados nos incisos I e II do caput do art. 3º da Lei Complementar nº 123, de 14 de dezembro de 2006 , não aplicados os demais critérios para opção pelo regime especial por ela estabelecido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%206%C2%BA%20Para%20fins%20do%20disposto%20nesta%20Lei%2C%20considera-se%20microempresa%20ou%20empresa%20de%20pequeno%20porte%20a%20pessoa%20jur%C3%ADdica%20cuja%20receita%20bruta%20esteja",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º A proposta de transação e a sua eventual adesão por parte do sujeito passivo ou devedor não autorizam a restituição ou a compensação de importâncias pagas, compensadas ou incluídas em parcelamentos pelos quais tenham optado antes da celebração do respectivo termo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%207%C2%BA%20A%20proposta%20de%20transa%C3%A7%C3%A3o%20e%20a%20sua%20eventual%20ades%C3%A3o%20por%20parte%20do%20sujeito%20passivo%20ou%20devedor%20n%C3%A3o%20autorizam%20a%20restitui%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Na hipótese de a proposta de transação envolver valores superiores aos fixados em ato do Ministro de Estado da Economia ou do Advogado-Geral da União, a transação, sob pena de nulidade, dependerá de prévia e expressa autorização ministerial, admitida a delegação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%208%C2%BA%20Na%20hip%C3%B3tese%20de%20a%20proposta%20de%20transa%C3%A7%C3%A3o%20envolver%20valores%20superiores%20aos%20fixados%20em%20ato%20do%20Ministro%20de%20Estado%20da%20Economia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Os atos que dispuserem sobre a transação poderão, quando for o caso, condicionar sua concessão à observância das normas orçamentárias e financeiras.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%209%C2%BA%20Os%20atos%20que%20dispuserem%20sobre%20a%20transa%C3%A7%C3%A3o%20poder%C3%A3o%2C%20quando%20for%20o%20caso%2C%20condicionar%20sua%20concess%C3%A3o%20%C3%A0%20observ%C3%A2ncia%20das%20normas%20or%C3%A7ament%C3%A1rias",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. A transação na cobrança da dívida ativa da União, das autarquias e das fundações públicas federais poderá ser proposta, respectivamente, pela Procuradoria-Geral da Fazenda Nacional e pela Procuradoria-Geral Federal, de forma individual ou por adesão, ou por iniciativa do devedor, ou pela Procuradoria-Geral da União, em relação aos créditos sob sua responsabilidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2010.%20A%20transa%C3%A7%C3%A3o%20na%20cobran%C3%A7a%20da%20d%C3%ADvida%20ativa%20da%20Uni%C3%A3o%2C%20das%20autarquias%20e%20das%20funda%C3%A7%C3%B5es%20p%C3%BAblicas%20federais%20poder%C3%A1%20ser%20proposta%2C%20respectivamente%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "10-A"
+    },
+    "10-A": {
+      "numero": "10-A",
+      "texto": "Art. 10-A. A transação na cobrança de créditos tributários em contencioso administrativo fiscal poderá ser proposta pela Secretaria Especial da Receita Federal do Brasil, de forma individual ou por adesão, ou por iniciativa do devedor, observada a Lei Complementar nº 73, de 10 de fevereiro de 1993. (Incluído pela Lei nº 14.375, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2010-A.%20A%20transa%C3%A7%C3%A3o%20na%20cobran%C3%A7a%20de%20cr%C3%A9ditos%20tribut%C3%A1rios%20em%20contencioso%20administrativo%20fiscal%20poder%C3%A1%20ser%20proposta%20pela%20Secretaria%20Especial%20da%20Receita%20Federal",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. A transação poderá contemplar os seguintes benefícios:\n\nI - a concessão de descontos nas multas, nos juros de mora e nos encargos legais relativos a créditos a serem transacionados que sejam classificados como irrecuperáveis ou de difícil recuperação, conforme critérios estabelecidos pela autoridade fazendária, nos termos do inciso V do caput do art. 14 desta Lei;\n\nI - a concessão de descontos nas multas, nos juros e nos encargos legais relativos a créditos a serem transacionados que sejam classificados como irrecuperáveis ou de difícil recuperação, conforme critérios estabelecidos pela autoridade competente, nos termos do parágrafo único do art. 14 desta Lei; (Redação dada pela Lei nº 14.375, de 2022)\n\nII - o oferecimento de prazos e formas de pagamento especiais, incluídos o diferimento e a moratória; e\n\nIII - o oferecimento, a substituição ou a alienação de garantias e de constrições.\n\nIV - a utilização de créditos de prejuízo fiscal e de base de cálculo negativa da Contribuição Social sobre o Lucro Líquido (CSLL), na apuração do Imposto sobre a Renda das Pessoas Jurídicas (IRPJ) e da CSLL, até o limite de 70% (setenta por cento) do saldo remanescente após a incidência dos descontos, se houver; (Incluído pela Lei nº 14.375, de 2022)\n\nV - o uso de precatórios ou de direito creditório com sentença de valor transitada em julgado para amortização de dívida tributária principal, multa e juros. (Incluído pela Lei nº 14.375, de 2022)\n\n§ 1º É permitida a utilização de mais de uma das alternativas previstas nos incisos I, II e III do caput deste artigo para o equacionamento dos créditos inscritos em dívida ativa da União.\n\n§ 1º É permitida a utilização de mais de uma das alternativas previstas nos incisos I, II, III, IV e V do caput deste artigo para o equacionamento dos créditos inscritos em dívida ativa da União. (Redação dada pela Lei nº 14.375, de 2022)\n\n§ 1º-A. Após a incidência dos descontos previstos no inciso I do caput deste artigo, se houver, a liquidação de valores será realizada no âmbito do processo administrativo de transação para fins da amortização do saldo devedor transacionado a que se refere o inciso IV do caput deste artigo e será de critério exclusivo da Secretaria Especial da Receita Federal do Brasil, para créditos em contencioso administrativo fiscal, ou da Procuradoria-Geral da Fazenda Nacional, para créditos inscritos em dívida ativa da União, sendo adotada em casos excepcionais para a melhor e efetiva composição do plano de regularização. (Incluído pela Lei nº 14.375, de 2022)\n\n§ 2º É vedada a transação que:\n\nI - reduza o montante principal do crédito, assim compreendido seu valor originário, excluídos os acréscimos de que trata o inciso I do caput deste artigo;\n\nII - implique redução superior a 50% (cinquenta por cento) do valor total dos créditos a serem transacionados;\n\nII - implique redução superior a 65% (sessenta e cinco por cento) do valor total dos créditos a serem transacionados; (Redação dada pela Lei nº 14.375, de 2022)\n\nIII - conceda prazo de quitação dos créditos superior a 84 (oitenta e quatro) meses;\n\nIII - conceda prazo de quitação dos créditos superior a 120 (cento e vinte) meses; (Redação dada pela Lei nº 14.375, de 2022)\n\nIV - envolva créditos não inscritos em dívida ativa da União, exceto aqueles sob responsabilidade da Procuradoria-Geral da União.\n\nIV - envolva créditos não inscritos em dívida ativa da União, exceto aqueles sob responsabilidade da Procuradoria-Geral da União ou em contencioso administrativo fiscal de que trata o art. 10-A desta Lei. (Redação dada pela Lei nº 14.375, de 2022)\n\n§ 3º Na hipótese de transação que envolva pessoa natural, microempresa ou empresa de pequeno porte, a redução máxima de que trata o inciso II do § 2º deste artigo será de até 70% (setenta por cento), ampliando-se o prazo máximo de quitação para até 145 (cento e quarenta e cinco) meses, respeitado o disposto no § 11 do art. 195 da Constituição Federal.\n\n§ 4º O disposto no § 3º deste artigo aplica-se também às:\n\nI - Santas Casas de Misericórdia, sociedades cooperativas e demais organizações da sociedade civil de que trata a Lei nº 13.019, de 31 de julho de 2014 ; e\n\nII - instituições de ensino.\n\n§ 5º Incluem-se como créditos irrecuperáveis ou de difícil recuperação, para os fins do disposto no inciso I do caput deste artigo, aqueles devidos por empresas em processo de recuperação judicial, liquidação judicial, liquidação extrajudicial ou falência.\n\n§ 6º Na transação, poderão ser aceitas quaisquer modalidades de garantia previstas em lei, inclusive garantias reais ou fidejussórias, cessão fiduciária de direitos creditórios, alienação fiduciária de bens móveis, imóveis ou de direitos, bem como créditos líquidos e certos do contribuinte em desfavor da União, reconhecidos em decisão transitada em julgado.\n\n§ 6º Na transação, poderão ser aceitas quaisquer modalidades de garantia previstas em lei, inclusive garantias reais ou fidejussórias, cessão fiduciária de direitos creditórios e alienação fiduciária de bens móveis ou imóveis ou de direitos, bem como créditos líquidos e certos do contribuinte em desfavor da União reconhecidos em decisão transitada em julgado, observado, entretanto, que não constitui óbice à realização da transação a impossibilidade material de prestação de garantias pelo devedor ou de garantias adicionais às já formalizadas em processos judiciais. (Redação dada pela Lei nº 14.375, de 2022)\n\n§ 7º Para efeito do disposto no inciso IV do caput deste artigo, a transação poderá compreender a utilização de créditos de prejuízo fiscal e de base de cálculo negativa da CSLL de titularidade do responsável tributário ou corresponsável pelo débito, de pessoa jurídica controladora ou controlada, de forma direta ou indireta, ou de sociedades que sejam controladas direta ou indiretamente por uma mesma pessoa jurídica, apurados e declarados à Secretaria Especial da Receita Federal do Brasil, independentemente do ramo de atividade, no período previsto pela legislação tributária. (Incluído pela Lei nº 14.375, de 2022)\n\n§ 8º O valor dos créditos de que trata o § 1º-A deste artigo será determinado, na forma da regulamentação: (Incluído pela Lei nº 14.375, de 2022)\n\nI - por meio da aplicação das alíquotas do imposto sobre a renda previstas no art. 3º da Lei nº 9.249, de 26 de dezembro de 1995, sobre o montante do prejuízo fiscal; e (Incluído pela Lei nº 14.375, de 2022)\n\nII - por meio da aplicação das alíquotas da CSLL previstas no art. 3º da Lei nº 7.689, de 15 de dezembro de 1988, sobre o montante da base de cálculo negativa da contribuição. (Incluído pela Lei nº 14.375, de 2022)\n\n§ 9º A utilização dos créditos a que se refere o § 1º-A deste artigo extingue os débitos sob condição resolutória de sua ulterior homologação. (Incluído pela Lei nº 14.375, de 2022)\n\n§ 10. A Secretaria Especial da Receita Federal do Brasil dispõe do prazo de 5 (cinco) anos para a análise dos créditos utilizados na forma do § 1º-A deste artigo. (Incluído pela Lei nº 14.375, de 2022)\n\n§ 11. Os benefícios concedidos em programas de parcelamento anteriores ainda em vigor serão mantidos, considerados e consolidados para efeitos da transação, que será limitada ao montante referente ao saldo remanescente do respectivo parcelamento, considerando-se quitadas as parcelas vencidas e liquidadas, na respectiva proporção do montante devido, desde que o contribuinte se encontre em situação regular no programa e, quando for o caso, esteja submetido a contencioso administrativo ou judicial, vedada a acumulação de reduções entre a transação e os respectivos programas de parcelamento. (Incluído pela Lei nº 14.375, de 2022)\n\n§ 12. Os descontos concedidos nas hipóteses de transação na cobrança de que trata este Capítulo não serão computados na apuração da base de cálculo: (Incluído pela Lei nº 14.375, de 2022)\n\nI - do imposto sobre a renda e da CSLL; e (Incluído pela Lei nº 14.375, de 2022)\n\nII - da contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público (PIS/Pasep) e da Contribuição para o Financiamento da Seguridade Social (Cofins). (Incluído pela Lei nº 14.375, de 2022) (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 13. Sempre que possível, na celebração das transações, serão considerados e perseguidos objetivos e ações de desenvolvimento sustentável, devendo-se buscar efeitos socioambientais positivos a partir das concessões recíprocas que decorrerem do negócio. (Incluído pela Lei nº 15.103, de 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2011.%20A%20transa%C3%A7%C3%A3o%20poder%C3%A1%20contemplar%20os%20seguintes%20benef%C3%ADcios%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10-A",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. A proposta de transação não suspende a exigibilidade dos créditos por ela abrangidos nem o andamento das respectivas execuções fiscais.\n\n§ 1º O disposto no caput deste artigo não afasta a possibilidade de suspensão do processo por convenção das partes, conforme o disposto no inciso II do caput do art. 313 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil).\n\n§ 2º O termo de transação preverá, quando cabível, a anuência das partes para fins da suspensão convencional do processo de que trata o inciso II do caput do art. 313 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), até a extinção dos créditos nos termos do § 3º do art. 3º desta Lei ou eventual rescisão.\n\n§ 3º A proposta de transação aceita não implica novação dos créditos por ela abrangidos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2012.%20A%20proposta%20de%20transa%C3%A7%C3%A3o%20n%C3%A3o%20suspende%20a%20exigibilidade%20dos%20cr%C3%A9ditos%20por%20ela%20abrangidos%20nem%20o%20andamento%20das%20respectivas%20execu%C3%A7%C3%B5es%20fiscais.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Compete ao Procurador-Geral da Fazenda Nacional, diretamente ou por autoridade por ele delegada, assinar o termo de transação realizado de forma individual.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2013.%20Compete%20ao%20Procurador-Geral%20da%20Fazenda%20Nacional%2C%20diretamente%20ou%20por%20autoridade%20por%20ele%20delegada%2C%20assinar%20o%20termo%20de%20transa%C3%A7%C3%A3o%20realizado%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Ato do Procurador-Geral da Fazenda Nacional disciplinará:",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2014.%20Ato%20do%20Procurador-Geral%20da%20Fazenda%20Nacional%20disciplinar%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Ato do Advogado-Geral da União disciplinará a transação no caso dos créditos previstos no inciso III do § 4º do art. 1º desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2015.%20Ato%20do%20Advogado-Geral%20da%20Uni%C3%A3o%20disciplinar%C3%A1%20a%20transa%C3%A7%C3%A3o%20no%20caso%20dos%20cr%C3%A9ditos%20previstos%20no%20inciso%20III%20do%20%C2%A7%204%C2%BA%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "15-A"
+    },
+    "15-A": {
+      "numero": "15-A",
+      "texto": "Art. 15-A. (VETADO). (Incluído pela Lei nº 14.973, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2015-A.%20%28VETADO%29.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2014.973%2C%20de%202024%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. O Ministro de Estado da Economia poderá propor aos sujeitos passivos transação resolutiva de litígios aduaneiros ou tributários decorrentes de relevante e disseminada controvérsia jurídica, com base em manifestação da Procuradoria-Geral da Fazenda Nacional e da Secretaria Especial da Receita Federal do Brasil do Ministério da Economia.\n\n§ 1º A proposta de transação e a eventual adesão por parte do sujeito passivo não poderão ser invocadas como fundamento jurídico ou prognose de sucesso da tese sustentada por qualquer das partes e serão compreendidas exclusivamente como medida vantajosa diante das concessões recíprocas.\n\n§ 2º A proposta de transação deverá, preferencialmente, versar sobre controvérsia restrita a segmento econômico ou produtivo, a grupo ou universo de contribuintes ou a responsáveis delimitados, vedada, em qualquer hipótese, a alteração de regime jurídico tributário.\n\n§ 3º Considera-se controvérsia jurídica relevante e disseminada a que trate de questões tributárias que ultrapassem os interesses subjetivos da causa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2016.%20O%20Ministro%20de%20Estado%20da%20Economia%20poder%C3%A1%20propor%20aos%20sujeitos%20passivos%20transa%C3%A7%C3%A3o%20resolutiva%20de%20lit%C3%ADgios%20aduaneiros%20ou%20tribut%C3%A1rios%20decorrentes%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15-A",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. A proposta de transação por adesão será divulgada na imprensa oficial e nos sítios dos respectivos órgãos na internet, mediante edital que especifique, de maneira objetiva, as hipóteses fáticas e jurídicas nas quais a Fazenda Nacional propõe a transação no contencioso tributário, aberta à adesão de todos os sujeitos passivos que se enquadrem nessas hipóteses e que satisfaçam às condições previstas nesta Lei e no edital.\n\n§ 1º O edital a que se refere o caput deste artigo:\n\nI - definirá:\n\na) as exigências a serem cumpridas, as reduções ou concessões oferecidas, os prazos e as formas de pagamento admitidas;\n\nb) o prazo para adesão à transação;\n\nII - poderá limitar os créditos contemplados pela transação, considerados:\n\na) a etapa em que se encontre o respectivo processo tributário, administrativo ou judicial; ou\n\nb) os períodos de competência a que se refiram;\n\nIII - estabelecerá a necessidade de conformação do contribuinte ou do responsável ao entendimento da administração tributária acerca de fatos geradores futuros ou não consumados.\n\nIII – poderá estabelecer a necessidade de conformação do contribuinte ou do responsável ao entendimento da administração tributária acerca de fatos geradores futuros ou não consumados. (Redação dada pela Lei nº 14.689, de 2023)\n\n§ 2º As reduções e concessões de que trata a alínea a do inciso I do § 1º deste artigo são limitadas ao desconto de 50% (cinquenta por cento) do crédito, com prazo máximo de quitação de 84 (oitenta e quatro) meses.\n\n§ 2º As reduções e concessões de que trata a alínea “a” do inciso I do § 1º deste artigo são limitadas ao desconto de 65% (sessenta e cinco por cento) do crédito, com prazo máximo de quitação de 120 (cento e vinte) meses. (Incluído pela Lei nº 14.689, de 2023)\n\n§ 3º A celebração da transação, nos termos definidos no edital de que trata o caput deste artigo, compete:\n\nI - à Secretaria Especial da Receita Federal do Brasil do Ministério da Economia, no âmbito do contencioso administrativo; e\n\nII - à Procuradoria-Geral da Fazenda Nacional, nas demais hipóteses legais.\n\n§ 4º Na hipótese de transação que envolva pessoa natural, microempresa ou empresa de pequeno porte, a redução máxima de que trata o § 2º deste artigo será de até 70% (setenta por cento), com ampliação do prazo máximo de quitação para até 145 (cento e quarenta e cinco) meses, respeitado o disposto no § 11 do art. 195 da Constituição Federal. (Incluído pela Lei nº 14.689, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2017.%20A%20proposta%20de%20transa%C3%A7%C3%A3o%20por%20ades%C3%A3o%20ser%C3%A1%20divulgada%20na%20imprensa%20oficial%20e%20nos%20s%C3%ADtios%20dos%20respectivos%20%C3%B3rg%C3%A3os%20na%20internet%2C%20mediante",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. A transação somente será celebrada se constatada a existência, na data de publicação do edital, de inscrição em dívida ativa, de ação judicial, de embargos à execução fiscal ou de reclamação ou recurso administrativo pendente de julgamento definitivo, relativamente à tese objeto da transação.\n\nParágrafo único. A transação será rescindida quando contrariar decisão judicial definitiva prolatada antes da celebração da transação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2018.%20A%20transa%C3%A7%C3%A3o%20somente%20ser%C3%A1%20celebrada%20se%20constatada%20a%20exist%C3%AAncia%2C%20na%20data%20de%20publica%C3%A7%C3%A3o%20do%20edital%2C%20de%20inscri%C3%A7%C3%A3o%20em%20d%C3%ADvida%20ativa%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Atendidas as condições estabelecidas no edital, o sujeito passivo da obrigação tributária poderá solicitar sua adesão à transação, observado o procedimento estabelecido em ato do Ministro de Estado da Economia.\n\n§ 1º O sujeito passivo que aderir à transação deverá:\n\nI - requerer a homologação judicial do acordo, para fins do disposto nos incisos II e III do caput do art. 515 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil);\n\nII - sujeitar-se, em relação aos fatos geradores futuros ou não consumados, ao entendimento dado pela administração tributária à questão em litígio, ressalvada a cessação de eficácia prospectiva da transação decorrente do advento de precedente persuasivo nos termos dos incisos I, II, III e IV do caput do art. 927 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), ou nas demais hipóteses previstas no art. 19 da Lei nº 10.522, de 19 de julho de 2002.\n\nII – (revogado). (Redação dada pela Lei nº 14.689, de 2023)\n\n§ 2º Será indeferida a adesão que não importar extinção do litígio administrativo ou judicial, ressalvadas as hipóteses em que ficar demonstrada a inequívoca cindibilidade do objeto, nos termos do ato a que se refere o caput deste artigo.\n\n§ 3º A solicitação de adesão deverá abranger todos os litígios relacionados à tese objeto da transação existentes na data do pedido, ainda que não definitivamente julgados.\n\n§ 3º O edital poderá estabelecer que a solicitação de adesão abranja todos os litígios relacionados à tese objeto da transação existentes na data do pedido, ainda que não definitivamente julgados. (Redação dada pela Lei nº 14.689, de 2023)\n\n§ 4º A apresentação da solicitação de adesão suspende a tramitação dos processos administrativos referentes aos créditos tributários envolvidos enquanto perdurar sua apreciação.\n\n§ 5º A apresentação da solicitação de adesão não suspende a exigibilidade dos créditos tributários definitivamente constituídos aos quais se refira.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2019.%20Atendidas%20as%20condi%C3%A7%C3%B5es%20estabelecidas%20no%20edital%2C%20o%20sujeito%20passivo%20da%20obriga%C3%A7%C3%A3o%20tribut%C3%A1ria%20poder%C3%A1%20solicitar%20sua%20ades%C3%A3o%20%C3%A0%20transa%C3%A7%C3%A3o%2C%20observado%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. São vedadas:\n\nI - a celebração de nova transação relativa ao mesmo crédito tributário;\n\nII - a oferta de transação por adesão nas hipóteses:\n\na) previstas no art. 19 da Lei nº 10.522, de 19 de julho de 2002 , quando o ato ou a jurisprudência for em sentido integralmente desfavorável à Fazenda Nacional; e\n\nb) de precedentes persuasivos, nos moldes dos incisos I, II, III e IV do caput do art. 927 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), quando integralmente favorável à Fazenda Nacional; (Revogada pela Lei nº 14.689, de 2023)\n\nIII - a proposta de transação com efeito prospectivo que resulte, direta ou indiretamente, em regime especial, diferenciado ou individual de tributação.\n\nParágrafo único. O disposto no inciso II do caput deste artigo não obsta a oferta de transação relativa a controvérsia no âmbito da liquidação da sentença ou não abrangida na jurisprudência ou ato referidos no art. 19 da Lei nº 10.522, de 19 de julho de 2002.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2020.%20S%C3%A3o%20vedadas%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Ato do Ministro de Estado da Economia regulamentará o disposto neste Capítulo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2021.%20Ato%20do%20Ministro%20de%20Estado%20da%20Economia%20regulamentar%C3%A1%20o%20disposto%20neste%20Cap%C3%ADtulo.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Compete ao Secretário Especial da Receita Federal do Brasil, no que couber, disciplinar o disposto nesta Lei no que se refere à transação de créditos tributários não judicializados no contencioso administrativo tributário.\n\n§ 1º Compete ao Secretário Especial da Receita Federal do Brasil, diretamente ou por autoridade por ele delegada, assinar o termo de transação.\n\n§ 2º A delegação de que trata o § 1º deste artigo poderá ser subdelegada, prever valores de alçada e exigir a aprovação de múltiplas autoridades.\n\n§ 3º A transação por adesão será realizada exclusivamente por meio eletrônico.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2022.%20Compete%20ao%20Secret%C3%A1rio%20Especial%20da%20Receita%20Federal%20do%20Brasil%2C%20no%20que%20couber%2C%20disciplinar%20o%20disposto%20nesta%20Lei%20no%20que%20se",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "22-A"
+    },
+    "22-A": {
+      "numero": "22-A",
+      "texto": "Art. 22-A. Aplica-se à transação por adesão no contencioso tributário de relevante e disseminada controvérsia jurídica o disposto no inciso IV do caput e nos §§ 7º e 12 do art. 11 desta Lei. (Incluído pela Lei nº 14.689, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2022-A.%20Aplica-se%20%C3%A0%20transa%C3%A7%C3%A3o%20por%20ades%C3%A3o%20no%20contencioso%20tribut%C3%A1rio%20de%20relevante%20e%20disseminada%20controv%C3%A9rsia%20jur%C3%ADdica%20o%20disposto%20no%20inciso%20IV%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "22-B"
+    },
+    "22-B": {
+      "numero": "22-B",
+      "texto": "Art. 22-B. O disposto neste Capítulo também se aplica, no que couber, à dívida ativa das autarquias e das fundações públicas federais cujas inscrição, cobrança e representação incumbam à Procuradoria-Geral Federal e à Procuradoria-Geral do Banco Central e aos créditos cuja cobrança seja competência da Procuradoria-Geral da União, sem prejuízo do disposto na Lei nº 9.469, de 10 de julho de 1997. (Incluído pela Lei nº 14.973, de 2024)\n\nParágrafo único. Ato do Advogado-Geral da União disciplinará a transação dos créditos referidos neste artigo. (Incluído pela Lei nº 14.973, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2022-B.%20O%20disposto%20neste%20Cap%C3%ADtulo%20tamb%C3%A9m%20se%20aplica%2C%20no%20que%20couber%2C%20%C3%A0%20d%C3%ADvida%20ativa%20das%20autarquias%20e%20das%20funda%C3%A7%C3%B5es%20p%C3%BAblicas%20federais",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22-A",
+      "next": "22-C"
+    },
+    "22-C": {
+      "numero": "22-C",
+      "texto": "Art. 22-C. A Procuradoria-Geral Federal poderá propor aos devedores transação na cobrança da dívida ativa das autarquias e fundações públicas federais, de natureza não tributária, quando houver relevante interesse regulatório previamente reconhecido por ato do Advogado-Geral da União. (Incluído pela Lei nº 14.973, de 2024)\n\n§ 1º Considera-se presente o relevante interesse regulatório quando o equacionamento de dívidas for necessário para assegurar as políticas públicas ou os serviços públicos prestados pelas autarquias e fundações públicas federais credoras. (Incluído pela Lei nº 14.973, de 2024)\n\n§ 2º Ato do Advogado-Geral da União reconhecerá o relevante interesse regulatório, com base em manifestação fundamentada dos dirigentes máximos das autarquias e fundações públicas federais cujo conteúdo observará as seguintes diretrizes: (Incluído pela Lei nº 14.973, de 2024)\n\nI – a delimitação, com base em critérios objetivos, do grupo ou universo de devedores alcançado, observados os princípios da isonomia e da impessoalidade, vedado o reconhecimento de relevante interesse regulatório de alcance geral; (Incluído pela Lei nº 14.973, de 2024)\n\nII – a indicação dos pressupostos de fato e de direito que determinam o relevante interesse regulatório, considerando, quando possível: (Incluído pela Lei nº 14.973, de 2024)\n\na) a manutenção das atividades dos agentes econômicos regulados e do atendimento aos usuários de serviços prestados regulados pela autarquia ou fundação pública federal credora; (Incluído pela Lei nº 14.973, de 2024)\n\nb) o desempenho da política pública ou dos serviços públicos regulados pela autarquia ou fundação pública federal credora; (Incluído pela Lei nº 14.973, de 2024)\n\nc) a preservação da função social da regulação, em especial o seu caráter pedagógico, quando envolver multas decorrentes do exercício do poder de polícia; (Incluído pela Lei nº 14.973, de 2024)\n\nd) as vantagens sociais, ambientais, econômicas, de segurança ou de saúde em substituir os meios ordinários e convencionais de cobrança pelo equacionamento das dívidas e obrigações através da transação, com a finalidade de evitar o agravamento de problema regulatório ou na prestação de serviço público; (Incluído pela Lei nº 14.973, de 2024)\n\nIII – o tempo necessário à execução da medida, vedado o seu reconhecimento por prazo indeterminado; (Incluído pela Lei nº 14.973, de 2024)\n\nIV – a prévia elaboração de Análise de Impacto Regulatório (AIR) prevista no art. 6º da Lei nº 13.848, de 25 de junho de 2019, no caso das agências reguladoras. (Incluído pela Lei nº 14.973, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2022-C.%20A%20Procuradoria-Geral%20Federal%20poder%C3%A1%20propor%20aos%20devedores%20transa%C3%A7%C3%A3o%20na%20cobran%C3%A7a%20da%20d%C3%ADvida%20ativa%20das%20autarquias%20e%20funda%C3%A7%C3%B5es%20p%C3%BAblicas%20federais%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22-B",
+      "next": "22-D"
+    },
+    "22-D": {
+      "numero": "22-D",
+      "texto": "Art. 22-D. A Procuradoria-Geral Federal poderá, em juízo de oportunidade e conveniência, propor a transação de que trata este Capítulo, de forma individual ou por adesão, sempre que, motivadamente, entender que a medida atende ao interesse público, vedada a apresentação de proposta de transação individual pelo devedor. (Incluído pela Lei nº 14.973, de 2024)\n\n§ 1º A apresentação da proposta individual ou a solicitação de adesão do devedor à proposta suspenderá o andamento das execuções fiscais, salvo oposição justificada da Procuradoria-Geral Federal. (Incluído pela Lei nº 14.973, de 2024)\n\n§ 2º Nos processos administrativos de constituição de crédito em tramitação nas autarquias e fundações públicas federais, os devedores poderão renunciar aos direitos para que os créditos sejam constituídos, inscritos em dívida ativa e incluídos na transação. (Incluído pela Lei nº 14.973, de 2024)\n\n§ 3º Os seguintes compromissos adicionais serão exigidos do devedor, sem prejuízo do disposto no art. 3º desta Lei, quando for o caso: (Incluído pela Lei nº 14.973, de 2024)\n\nI – manter a prestação dos serviços públicos, nos termos do ato de delegação; (Incluído pela Lei nº 14.973, de 2024)\n\nII – concluir a obra de construção, total ou parcial, conservação, reforma, ampliação ou melhoramento, nos termos do ato de delegação; (Incluído pela Lei nº 14.973, de 2024)\n\nIII – manter a regularidade dos pagamentos à autarquia ou fundação pública federal detentora do poder concedente, nos termos do ato de delegação; (Incluído pela Lei nº 14.973, de 2024)\n\nIV – apresentar à autarquia ou fundação pública federal credora plano de conformidade regulatória. (Incluído pela Lei nº 14.973, de 2024)\n\n§ 4º Os prazos ou os descontos na transação de que trata este Capítulo serão definidos pela Procuradoria-Geral Federal de acordo com o grau de recuperabilidade do crédito. (Incluído pela Lei nº 14.973, de 2024)\n\n§ 5º Os descontos poderão ser concedidos sobre o valor total do crédito, incluídos os acréscimos de que trata o inciso I do caput do art. 11 desta Lei, desde que o valor resultante da transação não seja inferior ao montante principal do crédito, assim compreendido o seu valor originário. (Incluído pela Lei nº 14.973, de 2024)\n\n§ 6º A limitação prevista no inciso I do § 2º do art. 11 desta Lei e no § 5º deste artigo não se aplica à transação que envolva pagamento à vista de créditos que consistirem em multa decorrente de processo administrativo sancionador. (Incluído pela Lei nº 14.973, de 2024)\n\n§ 7º O limite de que trata o inciso III do § 2º do art. 11 desta Lei poderá ser ampliado em até 12 (doze) meses adicionais quando o devedor comprovar que desenvolve projetos de interesse social vinculados à política pública ou aos serviços públicos prestados pela autarquia ou fundação pública federal credora. (Incluído pela Lei nº 14.973, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2022-D.%20A%20Procuradoria-Geral%20Federal%20poder%C3%A1%2C%20em%20ju%C3%ADzo%20de%20oportunidade%20e%20conveni%C3%AAncia%2C%20propor%20a%20transa%C3%A7%C3%A3o%20de%20que%20trata%20este%20Cap%C3%ADtulo%2C%20de%20forma",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22-C",
+      "next": "22-E"
+    },
+    "22-E": {
+      "numero": "22-E",
+      "texto": "Art. 22-E. Ato do Advogado-Geral da União disciplinará a transação de que trata este Capítulo. (Incluído pela Lei nº 14.973, de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2022-E.%20Ato%20do%20Advogado-Geral%20da%20Uni%C3%A3o%20disciplinar%C3%A1%20a%20transa%C3%A7%C3%A3o%20de%20que%20trata%20este%20Cap%C3%ADtulo.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2014.973%2C%20de%202024%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III-A",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22-D",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Observados os princípios da racionalidade, da economicidade e da eficiência, ato do Ministro de Estado da Economia regulamentará:\n\nI - o contencioso administrativo fiscal de pequeno valor, assim considerado aquele cujo lançamento fiscal ou controvérsia não supere 60 (sessenta) salários mínimos; (Vigência)\n\nII - a adoção de métodos alternativos de solução de litígio, inclusive transação, envolvendo processos de pequeno valor.\n\nParágrafo único. No contencioso administrativo de pequeno valor, observados o contraditório, a ampla defesa e a vinculação aos entendimentos do Conselho Administrativo de Recursos Fiscais, o julgamento será realizado em última instância por órgão colegiado da Delegacia da Receita Federal do Brasil de Julgamento da Secretaria Especial da Receita Federal do Brasil, aplicado o disposto no Decreto nº 70.235, de 6 de março de 1972, apenas subsidiariamente. (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2023.%20Observados%20os%20princ%C3%ADpios%20da%20racionalidade%2C%20da%20economicidade%20e%20da%20efici%C3%AAncia%2C%20ato%20do%20Ministro%20de%20Estado%20da%20Economia%20regulamentar%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22-E",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. A transação relativa a crédito tributário de pequeno valor será realizada na pendência de impugnação, de recurso ou de reclamação administrativa ou no processo de cobrança da dívida ativa da União.\n\nParágrafo único. Considera-se contencioso tributário de pequeno valor aquele cujo crédito tributário em discussão não supere o limite previsto no inciso I do caput do art. 23 desta Lei e que tenha como sujeito passivo pessoa natural, microempresa ou empresa de pequeno porte.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2024.%20A%20transa%C3%A7%C3%A3o%20relativa%20a%20cr%C3%A9dito%20tribut%C3%A1rio%20de%20pequeno%20valor%20ser%C3%A1%20realizada%20na%20pend%C3%AAncia%20de%20impugna%C3%A7%C3%A3o%2C%20de%20recurso%20ou%20de%20reclama%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. A transação de que trata este Capítulo poderá contemplar os seguintes benefícios:\n\nI - concessão de descontos, observado o limite máximo de 50% (cinquenta por cento) do valor total do crédito;\n\nII - oferecimento de prazos e formas de pagamento especiais, incluídos o diferimento e a moratória, obedecido o prazo máximo de quitação de 60 (sessenta) meses; e\n\nIII - oferecimento, substituição ou alienação de garantias e de constrições.\n\n§ 1º É permitida a cumulação dos benefícios previstos nos incisos I, II e III do caput deste artigo.\n\n§ 2º A celebração da transação competirá:\n\nI - à Secretaria Especial da Receita Federal do Brasil, no âmbito do contencioso administrativo de pequeno valor; e\n\nII - à Procuradoria-Geral da Fazenda Nacional, nas demais hipóteses previstas neste Capítulo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2025.%20A%20transa%C3%A7%C3%A3o%20de%20que%20trata%20este%20Cap%C3%ADtulo%20poder%C3%A1%20contemplar%20os%20seguintes%20benef%C3%ADcios%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. A proposta de transação poderá ser condicionada ao compromisso do contribuinte ou do responsável de requerer a homologação judicial do acordo, para fins do disposto nos incisos II e III do caput do art. 515 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2026.%20A%20proposta%20de%20transa%C3%A7%C3%A3o%20poder%C3%A1%20ser%20condicionada%20ao%20compromisso%20do%20contribuinte%20ou%20do%20respons%C3%A1vel%20de%20requerer%20a%20homologa%C3%A7%C3%A3o%20judicial%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Caberá ao Procurador-Geral da Fazenda Nacional e ao Secretário Especial da Receita Federal do Brasil, em seu âmbito de atuação, disciplinar a aplicação do disposto neste Capítulo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2027.%20Caber%C3%A1%20ao%20Procurador-Geral%20da%20Fazenda%20Nacional%20e%20ao%20Secret%C3%A1rio%20Especial%20da%20Receita%20Federal%20do%20Brasil%2C%20em%20seu%20%C3%A2mbito%20de%20atua%C3%A7%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "27-A"
+    },
+    "27-A": {
+      "numero": "27-A",
+      "texto": "Art. 27-A. O disposto neste Capítulo também se aplica: (Incluído pela Lei nº 14.375, de 2022)\n\nI - à dívida ativa da União de natureza não tributária cujas inscrição, cobrança e representação incumbam à Procuradoria-Geral da Fazenda Nacional, nos termos do art. 12 da Lei Complementar nº 73, de 10 de fevereiro de 1993; (Incluído pela Lei nº 14.375, de 2022)\n\nII - aos créditos inscritos em dívida ativa do FGTS, vedada a redução de valores devidos aos trabalhadores e desde que autorizado pelo seu Conselho Curador; e (Incluído pela Lei nº 14.375, de 2022)\n\nIII - no que couber, à dívida ativa das autarquias e das fundações públicas federais cujas inscrição, cobrança e representação incumbam à Procuradoria-Geral Federal, e aos créditos cuja cobrança seja competência da Procuradoria-Geral da União, sem prejuízo do disposto na Lei nº 9.469, de 10 de julho de 1997. (Incluído pela Lei nº 14.375, de 2022)\n\nIII – no que couber, à dívida ativa das autarquias e das fundações públicas federais cujas inscrição, cobrança e representação incumbam à Procuradoria-Geral Federal e à Procuradoria-Geral do Banco Central e aos créditos cuja cobrança seja competência da Procuradoria-Geral da União, sem prejuízo do disposto na Lei nº 9.469, de 10 de julho de 1997. (Redação dada pela Lei nº 14.689, de 2023)\n\nParágrafo único. Ato do Advogado-Geral da União disciplinará a transação dos créditos referidos no inciso III do caput deste artigo. (Incluído pela Lei nº 14.375, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2027-A.%20O%20disposto%20neste%20Cap%C3%ADtulo%20tamb%C3%A9m%20se%20aplica%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2014.375%2C%20de%202022%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "27-B"
+    },
+    "27-B": {
+      "numero": "27-B",
+      "texto": "Art. 27-B. Aplica-se o disposto no art. 23 ao contencioso administrativo fiscal de baixa complexidade, assim compreendido aquele cujo lançamento fiscal ou controvérsia não supere mil salários mínimos. (Incluído pela Medida Provisória nº 1.160, de 2023) Vigência encerrada",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2027-B.%20Aplica-se%20o%20disposto%20no%20art.%2023%20ao%20contencioso%20administrativo%20fiscal%20de%20baixa%20complexidade%2C%20assim%20compreendido%20aquele%20cujo%20lan%C3%A7amento%20fiscal%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27-A",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. A Lei nº 10.522, de 19 de julho de 2002 , passa a vigorar acrescida do seguinte art. 19-E:\n\n“Art. 19-E. Em caso de empate no julgamento do processo administrativo de determinação e exigência do crédito tributário, não se aplica o voto de qualidade a que se refere o § 9º do art. 25 do Decreto nº 70.235, de 6 de março de 1972 , resolvendo-se favoravelmente ao contribuinte.”",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2028.%20A%20Lei%20n%C2%BA%2010.522%2C%20de%2019%20de%20julho%20de%202002%20%2C%20passa%20a%20vigorar%20acrescida%20do%20seguinte%20art.%2019-E%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27-B",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Os agentes públicos que participarem do processo de composição do conflito, judicial ou extrajudicialmente, com o objetivo de celebração de transação nos termos desta Lei somente poderão ser responsabilizados, inclusive perante os órgãos públicos de controle interno e externo, quando agirem com dolo ou fraude para obter vantagem indevida para si ou para outrem.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2029.%20Os%20agentes%20p%C3%BAblicos%20que%20participarem%20do%20processo%20de%20composi%C3%A7%C3%A3o%20do%20conflito%2C%20judicial%20ou%20extrajudicialmente%2C%20com%20o%20objetivo%20de%20celebra%C3%A7%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Esta Lei entra em vigor:\n\nI - em 120 (cento e vinte) dias contados da data da sua publicação, em relação ao inciso I do caput e ao parágrafo único do art. 23; e\n\nII - na data de sua publicação, em relação aos demais dispositivos.\n\nBrasília, 14 de abril de 2020; 199º da Independência e 132º da República.\n\nJAIR MESSIAS BOLSONARO\n\nPaulo Guedes\n\nAndré Luiz de Almeida Mendonça\n\nEste texto não substitui o publicado no DOU de 14.4.2020 - Edição extra\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm#:~:text=Art.%2030.%20Esta%20Lei%20entra%20em%20vigor%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": null
+    }
+  }
+}

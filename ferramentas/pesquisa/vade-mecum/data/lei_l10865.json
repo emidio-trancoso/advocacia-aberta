@@ -1,0 +1,895 @@
+{
+  "_meta": {
+    "codigo": "L10865",
+    "nome": "PIS/COFINS na Importação",
+    "lei": "Lei 10.865/2004",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm",
+    "total_artigos": 55,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Ficam instituídas a Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público incidente na Importação de Produtos Estrangeiros ou Serviços - PIS/PASEP-Importação e a Contribuição Social para o Financiamento da Seguridade Social devida pelo Importador de Bens Estrangeiros ou Serviços do Exterior - COFINS-Importação, com base nos arts. 149, § 2º , inciso II, e 195, inciso IV, da Constituição Federal, observado o disposto no seu art. 195, § 6º . (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 1º Os serviços a que se refere o caput deste artigo são os provenientes do exterior prestados por pessoa física ou pessoa jurídica residente ou domiciliada no exterior, nas seguintes hipóteses:\n\nI - executados no País; ou\n\nII - executados no exterior, cujo resultado se verifique no País.\n\n§ 2º Consideram-se também estrangeiros:\n\nI - bens nacionais ou nacionalizados exportados, que retornem ao País, salvo se:\n\na) enviados em consignação e não vendidos no prazo autorizado;\n\nb) devolvidos por motivo de defeito técnico para reparo ou para substituição;\n\nc) por motivo de modificações na sistemática de importação por parte do país importador;\n\nd) por motivo de guerra ou de calamidade pública; ou\n\ne) por outros fatores alheios à vontade do exportador;\n\nII - os equipamentos, as máquinas, os veículos, os aparelhos e os instrumentos, bem como as partes, as peças, os acessórios e os componentes, de fabricação nacional, adquiridos no mercado interno pelas empresas nacionais de engenharia e exportados para a execução de obras contratadas no exterior, na hipótese de retornarem ao País.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%201%C2%BA%20Ficam%20institu%C3%ADdas%20a%20Contribui%C3%A7%C3%A3o%20para%20os%20Programas%20de%20Integra%C3%A7%C3%A3o%20Social%20e%20de%20Forma%C3%A7%C3%A3o%20do%20Patrim%C3%B4nio%20do%20Servidor%20P%C3%BAblico%20incidente%20na",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º As contribuições instituídas no art. 1º desta Lei não incidem sobre: (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\nI - bens estrangeiros que, corretamente descritos nos documentos de transporte, chegarem ao País por erro inequívoco ou comprovado de expedição e que forem redestinados ou devolvidos para o exterior;\n\nII - bens estrangeiros idênticos, em igual quantidade e valor, e que se destinem à reposição de outros anteriormente importados que se tenham revelado, após o desembaraço aduaneiro, defeituosos ou imprestáveis para o fim a que se destinavam, observada a regulamentação do Ministério da Fazenda;\n\nIII - bens estrangeiros que tenham sido objeto de pena de perdimento, exceto nas hipóteses em que não sejam localizados, tenham sido consumidos ou revendidos;\n\nIV - bens estrangeiros devolvidos para o exterior antes do registro da declaração de importação, observada a regulamentação do Ministério da Fazenda;\n\nV - pescado capturado fora das águas territoriais do País por empresa localizada no seu território, desde que satisfeitas as exigências que regulam a atividade pesqueira;\n\nVI - bens aos quais tenha sido aplicado o regime de exportação temporária;\n\nVII - bens ou serviços importados pelas entidades beneficentes de assistência social, nos termos do § 7º do art. 195 da Constituição Federal, observado o disposto no art. 10 desta Lei;\n\nVIII - bens em trânsito aduaneiro de passagem, acidentalmente destruídos;\n\nIX - bens avariados ou que se revelem imprestáveis para os fins a que se destinavam, desde que destruídos, sob controle aduaneiro, antes de despachados para consumo, sem ônus para a Fazenda Nacional; e\n\nX - o custo do transporte internacional e de outros serviços, que tiverem sido computados no valor aduaneiro que serviu de base de cálculo da contribuição.\n\nXI - valor pago, creditado, entregue, empregado ou remetido à pessoa física ou jurídica a título de remuneração de serviços vinculados aos processos de avaliação da conformidade, metrologia, normalização, inspeção sanitária e fitossanitária, homologação, registros e outros procedimentos exigidos pelo país importador sob o resguardo dos acordos sobre medidas sanitárias e fitossanitárias (SPS) e sobre barreiras técnicas ao comércio (TBT), ambos do âmbito da Organização Mundial do Comércio - OMC. (Incluído pela Lei nº 12.249, de 2010)\n\nParágrafo único. O disposto no inciso XI não se aplica à remuneração de serviços prestados por pessoa física ou jurídica residente ou domiciliada em país ou dependência com tributação favorecida ou beneficiada por regime fiscal privilegiado, de que tratam os arts. 24 e 24-A da Lei nº 9.430, de 27 de dezembro de 1996. (Incluído pela Lei nº 12.249, de 2010)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%202%C2%BA%20As%20contribui%C3%A7%C3%B5es%20institu%C3%ADdas%20no%20art.%201%C2%BA%20desta%20Lei%20n%C3%A3o%20incidem%20sobre%3A%20%28Vide%20Lei%20Complementar%20n%C2%BA%20214%2C%20de%202025%29%20Produ%C3%A7%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º O fato gerador será: (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\nI - a entrada de bens estrangeiros no território nacional; ou\n\nII - o pagamento, o crédito, a entrega, o emprego ou a remessa de valores a residentes ou domiciliados no exterior como contraprestação por serviço prestado.\n\n§ 1º Para efeito do inciso I do caput deste artigo, consideram-se entrados no território nacional os bens que constem como tendo sido importados e cujo extravio venha a ser apurado pela administração aduaneira.\n\n§ 2º O disposto no § 1º deste artigo não se aplica:\n\nI - às malas e às remessas postais internacionais; e\n\nII - à mercadoria importada a granel que, por sua natureza ou condições de manuseio na descarga, esteja sujeita a quebra ou a decréscimo, desde que o extravio não seja superior a 1% (um por cento).\n\n§ 3º Na hipótese de ocorrer quebra ou decréscimo em percentual superior ao fixado no inciso II do § 2º deste artigo, serão exigidas as contribuições somente em relação ao que exceder a 1% (um por cento).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%203%C2%BA%20O%20fato%20gerador%20ser%C3%A1%3A%20%28Vide%20Lei%20Complementar%20n%C2%BA%20214%2C%20de%202025%29%20Produ%C3%A7%C3%A3o%20de%20efeitos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Para efeito de cálculo das contribuições, considera-se ocorrido o fato gerador: (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\nI - na data do registro da declaração de importação de bens submetidos a despacho para consumo;\n\nII - no dia do lançamento do correspondente crédito tributário, quando se tratar de bens constantes de manifesto ou de outras declarações de efeito equivalente, cujo extravio ou avaria for apurado pela autoridade aduaneira;\n\nIII - na data do vencimento do prazo de permanência dos bens em recinto alfandegado, se iniciado o respectivo despacho aduaneiro antes de aplicada a pena de perdimento, na situação prevista pelo art. 18 da Lei nº 9.779, de 19 de janeiro de 1999;\n\nIV - na data do pagamento, do crédito, da entrega, do emprego ou da remessa de valores na hipótese de que trata o inciso II do caput do art. 3º desta Lei.\n\nParágrafo único. O disposto no inciso I do caput deste artigo aplica-se, inclusive, no caso de despacho para consumo de bens importados sob regime suspensivo de tributação do imposto de importação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%204%C2%BA%20Para%20efeito%20de%20c%C3%A1lculo%20das%20contribui%C3%A7%C3%B5es%2C%20considera-se%20ocorrido%20o%20fato%20gerador%3A%20%28Vide%20Lei%20Complementar%20n%C2%BA%20214%2C%20de%202025%29%20Produ%C3%A7%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º São contribuintes: (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\nI - o importador, assim considerada a pessoa física ou jurídica que promova a entrada de bens estrangeiros no território nacional;\n\nII - a pessoa física ou jurídica contratante de serviços de residente ou domiciliado no exterior; e\n\nIII - o beneficiário do serviço, na hipótese em que o contratante também seja residente ou domiciliado no exterior.\n\nParágrafo único. Equiparam-se ao importador o destinatário de remessa postal internacional indicado pelo respectivo remetente e o adquirente de mercadoria entrepostada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%205%C2%BA%20S%C3%A3o%20contribuintes%3A%20%28Vide%20Lei%20Complementar%20n%C2%BA%20214%2C%20de%202025%29%20Produ%C3%A7%C3%A3o%20de%20efeitos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º São responsáveis solidários: (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\nI - o adquirente de bens estrangeiros, no caso de importação realizada por sua conta e ordem, por intermédio de pessoa jurídica importadora;\n\nII - o transportador, quando transportar bens procedentes do exterior ou sob controle aduaneiro, inclusive em percurso interno;\n\nIII - o representante, no País, do transportador estrangeiro;\n\nIV - o depositário, assim considerado qualquer pessoa incumbida da custódia de bem sob controle aduaneiro; e\n\nV - o expedidor, o operador de transporte multimodal ou qualquer subcontratado para a realização do transporte multimodal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%206%C2%BA%20S%C3%A3o%20respons%C3%A1veis%20solid%C3%A1rios%3A%20%28Vide%20Lei%20Complementar%20n%C2%BA%20214%2C%20de%202025%29%20Produ%C3%A7%C3%A3o%20de%20efeitos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º A base de cálculo será: (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\nI - o valor aduaneiro, na hipótese do inciso I do caput do art. 3º desta Lei; ou (Redação dada pela Lei nº 12.865, de 2013)\n\nII - o valor pago, creditado, entregue, empregado ou remetido para o exterior, antes da retenção do imposto de renda, acrescido do Imposto sobre Serviços de qualquer Natureza - ISS e do valor das próprias contribuições, na hipótese do inciso II do caput do art. 3º desta Lei.\n\n§ 1º A base de cálculo das contribuições incidentes sobre prêmios de resseguro cedidos ao exterior é de 15% (quinze por cento) do valor pago, creditado, entregue, empregado ou remetido. (Redação dada pela Lei nº 12.249, de 2010) (Produção de efeito)\n\n§ 2º O disposto no § 1º deste artigo aplica-se aos prêmios de seguros não enquadrados no disposto no inciso X do art. 2º desta Lei.\n\n§ 3º A base de cálculo fica reduzida:\n\nI - em 30,2% (trinta inteiros e dois décimos por cento), no caso de importação, para revenda, de caminhões chassi com carga útil igual ou superior a 1.800 kg (mil e oitocentos quilogramas) e caminhão monobloco com carga útil igual ou superior a 1.500 kg (mil e quinhentos quilogramas), classificados na posição 87.04 da Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, observadas as especificações estabelecidas pela Secretaria da Receita Federal; e\n\nII - em 48,1% (quarenta e oito inteiros e um décimo por cento), no caso de importação, para revenda, de máquinas e veículos classificados nos seguintes códigos e posições da TIPI: 84.29, 8432.40.00, 8432.80.00, 8433.20, 8433.30.00, 8433.40.00, 8433.5, 87.01, 8702.10.00 Ex 02, 8702.90.90 Ex 02, 8704.10.00, 87.05 e 8706.00.10 Ex 01 (somente os destinados aos produtos classificados nos Ex 02 dos códigos 8702.10.00 e 8702.90.90).\n\n§ 4º (Revogado pela Lei nº 12.865, de 2013)\n\n§ 5º (Revogado pela Lei nº 12.865, de 2013)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%207%C2%BA%20A%20base%20de%20c%C3%A1lculo%20ser%C3%A1%3A%20%28Vide%20Lei%20Complementar%20n%C2%BA%20214%2C%20de%202025%29%20Produ%C3%A7%C3%A3o%20de%20efeitos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º As contribuições serão calculadas mediante aplicação, sobre a base de cálculo de que trata o art. 7º desta Lei, das alíquotas: (Redação dada pela Lei nº 13.137, de 2015) (Vigência) (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\nI - na hipótese do inciso I do caput do art. 3º , de: (Redação dada pela Lei nº 13.137, de 2015) (Vigência)\n\na) 2,1% (dois inteiros e um décimo por cento), para a Contribuição para o PIS/Pasep-Importação; e (Incluído pela Lei nº 13.137, de 2015) (Vigência)\n\nb) 9,65% (nove inteiros e sessenta e cinco centésimos por cento), para a Cofins-Importação; e (Incluído pela Lei nº 13.137, de 2015) (Vigência)\n\nII - na hipótese do inciso II do caput do art. 3º , de: (Redação dada pela Lei nº 13.137, de 2015) (Vigência)\n\na) 1,65% (um inteiro e sessenta e cinco centésimos por cento), para a Contribuição para o PIS/Pasep-Importação; e (Incluído pela Lei nº 13.137, de 2015) (Vigência)\n\nb) 7,6% (sete inteiros e seis décimos por cento), para a Cofins-Importação. (Incluído pela Lei nº 13.137, de 2015) (Vigência)\n\n§ 1º As alíquotas, no caso de importação de produtos farmacêuticos, classificados nas posições 30.01, 30.03, exceto no código 3003.90.56, 30.04, exceto no código 3004.90.46, nos itens 3002.10.1, 3002.10.2, 3002.10.3, 3002.20.1, 3002.20.2, 3006.30.1 e 3006.30.2 e nos códigos 3002.90.20, 3002.90.92, 3002.90.99, 3005.10.10, 3006.60.00, são de:\n\nI - 2,76% (dois inteiros e setenta e seis centésimos por cento), para a Contribuição para o PIS/Pasep-Importação; e (Redação dada pela Lei nº 13.137, de 2015) (Vigência)\n\nII - 13,03% (treze inteiros e três centésimos por cento), para a Cofins-Importação. (Redação dada pela Lei nº 13.137, de 2015) (Vigência)\n\n§ 2º As alíquotas, no caso de importação de produtos de perfumaria, de toucador ou de higiene pessoal, classificados nas posições 3303.00 a 33.07, exceto na posição 33.06; e nos códigos 3401.11.90, exceto 3401.11.90 Ex 01; 3401.20.10; e 9603.21.00; são de: (Redação dada pela Lei nº 12.829, de 2013)\n\nI - 3,52% (três inteiros e cinquenta e dois centésimos por cento), para a Contribuição para o PIS/Pasep-Importação; e (Redação dada pela Lei nº 13.137, de 2015) (Vigência)\n\nII - 16,48% (dezesseis inteiros e quarenta e oito centésimos por cento), para a Cofins-Importação. (Redação dada pela Lei nº 13.137, de 2015) (Vigência)\n\n§ 3º Na importação de máquinas e veículos, classificados nos códigos 84.29, 8432.40.00, 8432.80.00, 8433.20, 8433.30.00, 8433.40.00, 8433.5, 87.01, 87.02, 87.03, 87.04, 87.05 e 87.06, da Nomenclatura Comum do Mercosul - NCM, as alíquotas são de:\n\nI - 2,62% (dois inteiros e sessenta e dois centésimos por cento), para a Contribuição para o PIS/Pasep-Importação; e (Redação dada pela Lei nº 13.137, de 2015) (Vigência)\n\nII - 12,57% (doze inteiros e cinquenta e sete centésimos por cento), para a Cofins-Importação. (Redação dada pela Lei nº 13.137, de 2015) (Vigência)\n\n§ 4º O disposto no § 3º deste artigo, relativamente aos produtos classificados no Capítulo 84 da NCM, aplica-se, exclusivamente, aos produtos autopropulsados.\n\n§ 5º Na importação dos produtos classificados nas posições 40.11 (pneus novos de borracha) e 40.13 (câmaras-de-ar de borracha), da NCM, as alíquotas são de:\n\nI - 2,68% (dois inteiros e sessenta e oito centésimos por cento), para a Contribuição para o PIS/Pasep-Importação; e (Redação dada pela Lei nº 13.137, de 2015) (Vigência)\n\nII - 12,35% (doze inteiros e trinta e cinco centésimos por cento), para a Cofins-Importação. (Redação dada pela Lei nº 13.137, de 2015) (Vigência)\n\n§ 6º e 6º-A - (Revogado pela Lei nº 13.097, de 2015) (Vigência)\n\n§ 7º (Revogado pela Lei nº 11.727, de 2008)\n\n§ 8º A importação de gasolinas e suas correntes, exceto de aviação e óleo diesel e suas correntes, gás liquefeito de petróleo (GLP) derivado de petróleo e gás natural e querosene de aviação fica sujeita à incidência da contribuição para o PIS/PASEP e da COFINS, fixadas por unidade de volume do produto, às alíquotas previstas no art. 23 desta Lei, independentemente de o importador haver optado pelo regime especial de apuração e pagamento ali referido. (Vide Medida Provisória nº 1.157, de 2023)\n\n§ 9º Na importação de autopeças, relacionadas nos Anexos I e II da Lei nº 10.485, de 3 de julho de 2002, exceto quando efetuada pela pessoa jurídica fabricante de máquinas e veículos relacionados no art. 1º da referida Lei, as alíquotas são de:\n\nI - 2,62% (dois inteiros e sessenta e dois centésimos por cento), para a Contribuição para o PIS/Pasep-Importação; e (Redação dada pela Lei nº 13.137, de 2015) (Vigência)\n\nII - 12,57% (doze inteiros e cinquenta e sete centésimos por cento), para a Cofins-Importação. (Redação dada pela Lei nº 13.137, de 2015) (Vigência)\n\n§ 9º-A. A partir de 1º de setembro de 2015, as alíquotas da Contribuição do PIS/Pasep-Importação e da Cofins-Importação de que trata o § 9º serão de: (Incluído pela Lei nº 13.137, de 2015) (Vigência)\n\nI - 3,12% (três inteiros e doze centésimos por cento), para a Contribuição para o PIS/Pasep-Importação; e (Incluído pela Lei nº 13.137, de 2015) (Vigência)\n\nII - 14,37% (quatorze inteiros e trinta e sete centésimos por cento), para a Cofins-Importação. (Incluído pela Lei nº 13.137, de 2015) (Vigência)\n\n§ 10. Na importação de papel imune a impostos de que trata o art. 150, inciso VI, alínea d, da Constituição Federal, ressalvados os referidos no inciso IV do § 12 deste artigo, quando destinado à impressão de periódicos, as alíquotas são de: (Regulamento)\n\nI - 0,8% (oito décimos por cento), para a contribuição para o PIS/Pasep-Importação; e (Redação dada pela Lei nº 13.137, de 2015) (Vigência)\n\nII - 3,2% (três inteiros e dois décimos por cento), para a Cofins-Importação. (Redação dada pela Lei nº 13.137, de 2015) (Vigência)\n\n§ 11. Fica o Poder Executivo autorizado a reduzir a 0 (zero) e a restabelecer as alíquotas do PIS/PASEP-Importação e da COFINS-Importação, incidentes sobre:\n\nI - produtos químicos e farmacêuticos classificados nos Capítulos 29 e 30 da NCM;\n\nII - produtos destinados ao uso em hospitais, clínicas e consultórios médicos e odontológicos, campanhas de saúde realizadas pelo Poder Público e laboratórios de anatomia patológica, citológica ou de análises clínicas, classificados nas posições 30.02, 30.06, 39.26, 40.15 e 90.18 da NCM. (Redação dada pela Lei nº 11.196, de 2005)\n\n§ 12. Ficam reduzidas a 0 (zero) as alíquotas das contribuições, nas hipóteses de importação de: (Regulamento)\n\nI - materiais e equipamentos, inclusive partes, peças e componentes, destinados ao emprego na construção, conservação, modernização, conversão ou reparo de embarcações registradas ou pré-registradas no Registro Especial Brasileiro; (Redação dada pela Lei nº 11.774, de 2008)\n\nII - embarcações construídas no Brasil e transferidas por matriz de empresa brasileira de navegação para subsidiária integral no exterior, que retornem ao registro brasileiro como propriedade da mesma empresa nacional de origem;\n\nIII - papel destinado à impressão de jornais, pelo prazo de 4 (quatro) anos a contar da data de vigência desta Lei, ou até que a produção nacional atenda 80% (oitenta por cento) do consumo interno; (Vide Lei nº 11.727, de 2008) (Produção de efeitos) (Vide Lei nº 12.649, de 2012)\n\nIV – papéis classificados nos códigos 4801.00.10, 4801.00.90, 4802.61.91, 4802.61.99, 4810.19.89 e 4810.22.90, todos da TIPI, destinados à impressão de periódicos pelo prazo de 4 (quatro) anos a contar da data de vigência desta Lei ou até que a produção nacional atenda 80% (oitenta por cento) do consumo interno; (Vide Lei nº 11.727, de 2008) (Produção de efeitos) (Vide Lei nº 12.649, de 2012)\n\nV - máquinas, equipamentos, aparelhos, instrumentos, suas partes e peças de reposição, e películas cinematográficas virgens, sem similar nacional, destinados à indústria cinematográfica e audiovisual, e de radiodifusão;\n\nVI - aeronaves, classificadas na posição 88.02 da NCM; (Redação dada pela Lei nº 10.925, 2004) (Vigência)\n\nVII – partes, peças, ferramentais, componentes, insumos, fluidos hidráulicos, lubrificantes, tintas, anticorrosivos, equipamentos, serviços e matérias-primas a serem empregados na manutenção, reparo, revisão, conservação, modernização, conversão e industrialização das aeronaves de que trata o inciso VI deste parágrafo, de seus motores, suas partes, peças, componentes, ferramentais e equipamentos; (Redação dada pela Lei nº 11.727, de 2008)\n\nVIII - (Revogado pela Lei nº 11.196, de 2005)\n\nIX - gás natural destinado ao consumo em unidades termelétricas integrantes do Programa Prioritário de Termelétricas - PPT;\n\nX - produtos hortícolas e frutas, classificados nos Capítulos 7 e 8, e ovos, classificados na posição 04.07, todos da TIPI; e\n\nXI - semens e embriões da posição 05.11, da NCM.\n\nXII - livros, conforme definido no art. 2º da Lei nº 10.753, de 30 de outubro de 2003. (Redação dada pela Lei nº 11.033, 2004)\n\nXIII – preparações compostas não-alcoólicas, classificadas no código 2106.90.10 Ex 01 da Tipi, destinadas à elaboração de bebidas pelas pessoas jurídicas industriais dos produtos referidos no art. 58-A da Lei nº 10.833, de 29 de dezembro de 2003; (Redação dada pela Lei nº 11.727, de 2008) (Produção de efeitos)\n\nXIV – material de emprego militar classificado nas posições 87.10.00.00 e 89.06.10.00 da Tabela de Incidência do Imposto sobre Produtos Industrializados – Tipi; (Incluído pela Lei nº 11.727, de 2008)\n\nXV – partes, peças, componentes, ferramentais, insumos, equipamentos e matérias-primas a serem empregados na industrialização, manutenção, modernização e conversão do material de emprego militar de que trata o inciso XIV deste parágrafo; (Incluído pela Lei nº 11.727, de 2008)\n\nXVI – gás natural liquefeito – GNL. (Incluído pela Lei nº 11.727, de 2008)\n\nXVIII - produtos classificados na posição 87.13 da Nomenclatura Comum do Mercosul - NCM; (Incluído pela Lei nº 12.058, de 2009) (Produção de efeito)\n\nXIX - artigos e aparelhos ortopédicos ou para fraturas classificados no código 90.21.10 da NCM; (Incluído pela Lei nº 12.058, de 2009) (Produção de efeito)\n\nXX - artigos e aparelhos de próteses classificados no código 90.21.3 da NCM; (Incluído pela Lei nº 12.058, de 2009) (Produção de efeito)\n\nXXI - almofadas antiescaras classificadas nos Capítulos 39, 40, 63 e 94 da NCM. (Incluído pela Lei nº 12.058, de 2009) (Produção de efeito)\n\nXXIII - projetores para exibição cinematográfica, classificados no código 9007.2 da NCM, e suas partes e acessórios, classificados no código 9007.9 da NCM. (Redação dada pela Lei nº 12.599, de 2012)\n\nXXIV - produtos classificados nos códigos 8443.32.22, 8469.00.39 Ex 01, 8714.20.00, 9021.40.00, 9021.90.82 e 9021.90.92, todos da Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011 ; (Incluído pela Lei nº 12.649, de 2012)\n\nXXV - calculadoras equipadas com sintetizador de voz classificadas no código 8470.10.00 Ex 01 da Tipi; (Incluído pela Lei nº 12.649, de 2012)\n\nXXVI - teclados com adaptações específicas para uso por pessoas com deficiência, classificados no código 8471.60.52 da Tipi; (Incluído pela Lei nº 12.649, de 2012)\n\nXXVII - indicador ou apontador - mouse - com adaptações específicas para uso por pessoas com deficiência, classificado no código 8471.60.53 da Tipi; (Incluído pela Lei nº 12.649, de 2012)\n\nXXVIII - linhas braile classificadas no código 8471.60.90 Ex 01 da Tipi; (Incluído pela Lei nº 12.649, de 2012)\n\nXXIX - digitalizadores de imagens - scanners - equipados com sintetizador de voz classificados no código 8471.90.14 Ex 01 da Tipi; (Incluído pela Lei nº 12.649, de 2012)\n\nXXX - duplicadores braile classificados no código 8472.10.00 Ex 01 da Tipi (Incluído pela Lei nº 12.649, de 2012)\n\nXXXI - acionadores de pressão classificados no código 8471.60.53 Ex 02 da Tipi; (Incluído pela Lei nº 12.649, de 2012)\n\nXXXII - lupas eletrônicas do tipo utilizado por pessoas com deficiência visual classificadas no código 8525.80.19 Ex 01 da Tipi;\n\nXXXIII - implantes cocleares classificados no código 9021.40.00 da Tipi; (Incluído pela Lei nº 12.649, de 2012)\n\nXXXIV - próteses oculares classificadas no código 9021.39.80 da Tipi; (Incluído pela Lei nº 12.649, de 2012)\n\nXXXV - programas - softwares - de leitores de tela que convertem texto em voz sintetizada para auxílio de pessoas com deficiência visual; (Incluído pela Lei nº 12.649, de 2012)\n\nXXXVI - aparelhos contendo programas - softwares - de leitores de tela que convertem texto em caracteres braile, para utilização de surdos-cegos; (Incluído pela Lei nº 12.649, de 2012)\n\nXXXVII – (VETADO); e (Incluído pela Lei nº 12.649, de 2012)\n\nXXXVIII - neuroestimuladores para tremor essencial/Parkinson, classificados no código 9021.90.19, e seus acessórios, classificados nos códigos 9018.90.99, 9021.90.91 e 9021.90.99, todos da Tipi; e (Redação dada p-ela Lei nº 12.995, de 2014)\n\nXXXIX - (revogado) ; (Redação dada pela Lei nº 13.137, de 2015) (Vigência)\n\nXL - produtos classificados no Ex 01 do código 8503.00.90 da Tipi, exceto pás eólicas. (Redação dada pela Lei nº 13.169, de 2015) (Produção de efeito)\n\n§ 13. O Poder Executivo poderá regulamentar: (Redação dada pela Lei nº 12.058, de 2009) (Produção de efeito)\n\nI – o disposto no § 10 deste artigo; e\n\nII - a utilização do benefício da alíquota zero de que tratam os incisos I a VII, XVIII a XXI e XXIV a XXXVIII do § 12. (Redação dada pela Lei nº 12.649, de 2012)\n\n§ 14. Ficam reduzidas a 0 (zero) as alíquotas das contribuições incidentes sobre o valor pago, creditado, entregue, empregado ou remetido à pessoa física ou jurídica residente ou domiciliada no exterior, referente a aluguéis e contraprestações de arrendamento mercantil de máquinas e equipamentos, embarcações e aeronaves utilizados na atividade da empresa. (Incluído pela Lei nº 10.925, 2004) (Vigência)\n\n§ 15. Na importação de etano, propano e butano, destinados à produção de eteno e propeno; de nafta petroquímica e de condensado destinado a centrais petroquímicas; bem como na importação de n-parafina, eteno, propeno, buteno, butadieno, orto-xileno, benzeno, tolueno, isopreno, paraxileno, cumeno, óleo de palmiste e 1,2-dicloroetano para a produção de polietileno, polipropileno, dicloroetano, etilbenzeno, óxido de eteno, monômero de cloreto de vinila, policloreto de vinila em suspensão, policloreto de vinila em emulsão, estireno, acrilonitrila, acetonitrila, octanol, EK FILM 10 – trímeros, álcoois secundários, resinas estireno-acrilato e estireno-butadieno, látex SB, anidrido ftálico, ácido fumárico, alquilados pesados, alquilbenzeno linear, anidrido maléico, n-butanol, iso-butanol, ácido 2EH, ácido tereftálico – PTA, fenol, acetona, ácidos graxos destilados, álcoois graxos e glicerinas, quando efetuada por indústrias químicas, as alíquotas da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação são de, respectivamente: (Redação dada pela Lei Complementar nº 228, de 2026)\n\nI - 0,18% (dezoito centésimos por cento) e 0,82% (oitenta e dois centésimos por cento), para os fatos geradores ocorridos nos anos de 2013, 2014 e 2015; (Redação dada pela Lei nº 12.859, de 2013) (Vide Lei nº 14.183, de 2021) (Vigência)\n\nII - 0,54% (cinquenta e quatro centésimos por cento) e 2,46% (dois inteiros e quarenta e seis centésimos por cento), para os fatos geradores ocorridos no ano de 2016; (Redação dada pela Lei nº 12.859, de 2013)(Vide Lei nº 14.183, de 2021) (Vigência)\n\nIII - 0,90% (noventa centésimos por cento) e 4,10% (quatro inteiros e dez centésimos por cento), para os fatos geradores ocorridos no ano de 2017; e (Incluído dada pela Lei nº 12.859, de 2013) (Vide Lei nº 14.183, de 2021) (Vigência)\n\nIV - 1% (um por cento) e 4,6% (quatro inteiros e seis décimos por cento), para os fatos geradores ocorridos nos anos de 2018 a 2020 e nos meses de janeiro a junho de 2021; (Redação dada pela Lei nº 14.183, de 2021)\n\nV - 1,13% (um inteiro e treze centésimos por cento) e 5,2% (cinco inteiros e dois décimos por cento), para os fatos geradores ocorridos nos meses de julho a dezembro de 2021; (Incluído pela Lei nº 14.183, de 2021)\n\nVI - 1,26% (um inteiro e vinte e seis centésimos por cento) e 5,8% (cinco inteiros e oito décimos por cento), para os fatos geradores ocorridos nos meses de janeiro a março de 2022, e 1,65% (um inteiro e sessenta e cinco centésimos por cento) e 7,6% (sete inteiros e seis décimos por cento), para os fatos geradores ocorridos nos meses de abril a dezembro de 2022; (Redação dada pela Lei nº 14.374, de 2022)\n\nVII - 1,39% (um inteiro e trinta e nove centésimos por cento) e 6,4% (seis inteiros e quatro décimos por cento), para os fatos geradores ocorridos no ano de 2023; e (Incluído pela Lei nº 14.183, de 2021)\n\nVIII - 1,52% (um inteiro e cinquenta e dois centésimos por cento) e 7% (sete por cento), para os fatos geradores ocorridos no ano de 2024. (Incluído pela Lei nº 14.183, de 2021)\n\nIX – 1,52% (um inteiro e cinquenta e dois centésimos por cento) e 7% (sete por cento), para os fatos geradores ocorridos de janeiro de 2025 a fevereiro de 2026; e (Redação dada pela Lei Complementar nº 228, de 2026)\n\nX – 0,62% (sessenta e dois centésimos por cento) e 2,83% (dois inteiros e oitenta e três centésimos por cento), para os fatos geradores ocorridos nos meses de março de 2026 a dezembro de 2026. (Incluído pela Lei Complementar nº 228, de 2026)\n\n§ 16. Na hipótese da importação de etano, propano e butano de que trata o § 15 deste artigo, não se aplica o disposto no § 8º deste artigo. (Incluído pela Lei nº 11.488, de 2007) (Vide Lei nº 14.183, de 2021) (Vigência)\n\n§ 17. O disposto no § 14 deste artigo não se aplica aos valores pagos, creditados, entregues, empregados ou remetidos, por fonte situada no País, à pessoa física ou jurídica residente ou domiciliada no exterior, em decorrência da prestação de serviços de frete, afretamento, arrendamento ou aluguel de embarcações marítimas ou fluviais destinadas ao transporte de pessoas para fins turísticos. (Incluído pela Lei nº 11.727, de 2008) (Produção de efeitos)\n\n§ 18. O disposto no § 17 deste artigo aplicar-se-á também à hipótese de contratação ou utilização da embarcação em atividade mista de transporte de cargas e de pessoas para fins turísticos, independentemente da preponderância da atividade. (Incluído pela Lei nº 11.727, de 2008) (Produção de efeitos)\n\n§ 19. A importação de álcool, inclusive para fins carburantes, é sujeita à incidência da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação com alíquotas de, respectivamente, 2,1% (dois inteiros e um décimo por cento) e 9,65% (nove inteiros e sessenta e cinco centésimos por cento), independentemente de o importador haver optado pelo regime especial de apuração e pagamento referido no art. 5º da Lei nº 9.718, de 27 de novembro de 1998. (Redação dada pela Lei nº 13.137, de 2015) (Vigência) (Vide Medida Provisória nº 1.157, de 2023)\n\n§ 20. (Incluído pela Medida Provisória nº 491, de 2010) (Sem eficácia)\n\n§ 21. Até 31 de dezembro de 2024, as alíquotas da Cofins-Importação de que trata este artigo ficam acrescidas de 1 (um) ponto percentual na hipótese de importação dos bens classificados na Tipi, aprovada pelo Decreto nº 11.158, de 29 de julho de 2022, nos códigos: (Redação dada pela Lei nº 14.973, de 2024)\n\nI – (Revogado pela Lei nº 12.715, de 2012) Produção de efeito e vigência\n\nII – (Revogado pela Lei nº 12.715, de 2012) Produção de efeito e vigência\n\nIII – (Revogado pela Lei nº 12.715, de 2012) Produção de efeito e vigência\n\nIV – (Revogado pela Lei nº 12.715, de 2012) Produção de efeito e vigência\n\nV – (Revogado pela Lei nº 12.715, de 2012) Produção de efeito e vigência\n\nVI – (Revogado pela Lei nº 12.715, de 2012) Produção de efeito e vigência\n\nVII - 3926.20.00, 40.15, 42.03, 43.03, 4818.50.00, 6505.00, 6812.91.00, 8804.00.00, capítulos 61 a 63; (Incluído pela Lei nº 13.670, de 2018)\n\nVIII - 64.01 a 64.06; (Incluído pela Lei nº 13.670, de 2018)\n\nIX - 41.04, 41.05, 41.06, 41.07 e 41.14; (Incluído pela Lei nº 13.670, de 2018)\n\nX - 8308.10.00, 8308.20.00, 96.06 e 96.07; (Incluído pela Lei nº 13.670, de 2018)\n\nXI - (VETADO); (Incluído pela Lei nº 13.670, de 2018)\n\nXII - 87.02, exceto 8702.90.10, e 87.07; (Incluído pela Lei nº 13.670, de 2018)\n\nXIII - (VETADO); (Incluído pela Lei nº 13.670, de 2018)\n\nXIV - 7308.20.00; 7309.00.10; 7309.00.90; 7310.29.90; 7311.00.00; 7315.12.10; 7316.00.00; 84.02; 84.03; 84.04; 84.05; 84.06; 84.07, 84.08; 84.09 (exceto o código 8409.10.00); 84.10. 84.11; 84.12; 84.13; 8414.10.00; 8414.30.19; 8414.30.91; 8414.30.99; 8414.40.10; 8414.40.20; 8414.40.90; 8414.59.90; 8414.80.11; 8414.80.12; 8414.80.13; 8414.80.19; 8414.80.22; 8414.80.29; 8414.80.31; 8414.80.32; 8414.80.33; 8414.80.38; 8414.80.39; 8414.90.31; 8414.90.33; 8414.90.34; 8414.90.39; 84.16; 84.17; 84.19; 84.20; 8421.11.10; 8421.11.90; 8421.19.10; 8421.19.90; 8421.21.00; 8421.22.00; 8421.23.00; 8421.29.20; 8421.29.30; 8421.29.90; 8421.91.91; 8421.91.99; 8421.99.10; 8421.99.91; 8421.99.99; 84.22 (exceto o código 8422.11.00); 84.23 (exceto o código 8423.10.00); 84.24 (exceto os códigos 8424.10.00, 8424.20.00, 8424.89.10 e 8424.90.00); 84.25; 84.26; 84.27; 84.28; 84.29; 84.30; 84.31; 84.32; 84.33; 84.34; 84.35; 84.36; 84.37; 84.38; 84.39; 84.40; 84.41; 84.42; 8443.11.10; 8443.11.90; 8443.12.00; 8443.13.10; 8443.13.21; 8443.13.29; 8443.13.90; 8443.14.00; 8443.15.00; 8443.16.00; 8443.17.10; 8443.17.90; 8443.19.10; 8443.19.90; 8443.39.10; 8443.39.21; 8443.39.28; 8443.39.29; 8443.39.30; 8443.39.90; 84.44; 84.45; 84.46; 84.47; 84.48; 84.49; 8450.11.00; 8450.19.00; 8450.20.90; 8450.20; 8450.90.90; 84.51 (exceto código 8451.21.00); 84.52 (exceto os códigos 8452.10.00, 8452.90.20 e 8452.90.8); 84.53; 84.54; 84.55; 84.56; 84.57; 84.58; 84.59; 84.60; 84.61; 84.62; 84.63; 84.64; 84.65; 84.66; 8467.11.10; 8467.11.90; 8467.19.00; 8467.29.91; 8468.20.00; 8468.80.10; 8468.80.90; 84.74; 84.75; 84.77; 8478.10.10; 8478.10.90; 84.79; 8480.20.00; 8480.30.00; 8480.4; 8480.50.00; 8480.60.00; 8480.7; 8481.10.00; 8481.30.00; 8481.40.00; 8481.80.11; 8481.80.19; 8481.80.21; 8481.80.29; 8481.80.39; 8481.80.92; 8481.80.93; 8481.80.94; 8481.80.95; 8481.80.96; 8481.80.97; 8481.80.99; 84.83; 84.84; 84.86; 84.87; 8501.33.10; 8501.33.20; 8501.34.11; 8501.34.19; 8501.34.20; 8501.51.10; 8501.51.20. 8501.51.90; 8501.52.10; 8501.52.20; 8501.52.90; 8501.53.10; 8501.53.20; 8501.53.30; 8501.53.90; 8501.61.00; 8501.62.00; 8501.63.00; 8501.64.00; 85.02; 8503.00.10; 8503.00.90; 8504.21.00; 8504.22.00; 8504.23.00; 8504.33.00; 8504.34.00; 8504.40.30; 8504.40.40; 8504.40.50; 8504.40.90; 8504.90.30; 8504.90.40; 8505.90.90; 8508.60.00; 8514.10.10; 8514.10.90; 8514.20.11; 8514.20.19; 8514.20.20; 8514.30.11; 8514.30.19; 8514.30.21; 8514.30.29; 8514.30.90; 8514.40.00; 8515.11.00; 8515.19.00; 8515.21.00; 8515.29.00; 8515.31.10; 8515.31.90; 8515.39.00; 8515.80.10; 8515.80.90; 8543.30.00; 8601.10.00; 8602.10.00; 8604.00.90; 8701.10.00; 8701.30.00; 8701.90.10; 8701.90.90; 8705.10.10; 8705.10.90; 8705.20.00; 8705.30.00; 8705.40.00; 8705.90.10; 8705.90.90; 8716.20.00; 9017.30.10; 9017.30.20; 9017.30.90; 9024.10.10; 9024.10.20; 9024.10.90; 9024.80.11; 9024.80.19; 9024.80.21; 9024.80.29; 9024.80.90; 9024.90.00; 9025.19.10; 9025.19.90; 9025.80.00; 9025.90.10; 9025.90.90; 9026.10.19; 9026.10.21; 9026.10.29; 9026.20.10; 9026.20.90; 9026.80.00; 9026.90.10; 9026.90.20; 9026.90.90; 9027.10.00; 9027.20.11; 9027.20.12; 9027.20.19; 9027.20.21; 9027.20.29; 9027.30.11; 9027.30.19; 9027.30.20; 9027.50.10; 9027.50.20; 9027.50.30; 9027.50.40; 9027.50.50; 9027.50.90; 9027.80.11; 9027.80.12; 9027.80.13; 9027.80.14; 9027.80.20; 9027.80.30; 9027.80.91; 9027.80.99; 9027.90.10; 9027.90.91; 9027.90.93; 9027.90.99; 9031.10.00; 9031.20.10; 9031.20.90; 9031.41.00; 9031.49.10; 9031.49.20; 9031.49.90; 9031.80.11; 9031.80.12; 9031.80.20; 9031.80.30; 9031.80.40; 9031.80.50; 9031.80.60; 9031.80.91; 9031.80.99; 9031.90.10; 9031.90.90; 9032.10.10; 9032.10.90; 9032.20.00; 9032.81.00; 9032.89.11; 9032.89.29; 9032.89.8; 9032.89.90; 9032.90.10; 9032.90.99; 9033.00.00; 9506.91.00; (Incluído pela Lei nº 13.670, de 2018)\n\nXV - (VETADO); (Incluído pela Lei nº 13.670, de 2018)\n\nXVI - (VETADO); (Incluído pela Lei nº 13.670, de 2018)\n\nXVII - 02.03, 0206.30.00, 0206.4, 02.07, 02.09, 0210.1, 0210.99.00, 1601.00.00, 1602.3, 1602.4, 03.03, 03.04, 03.02, exceto 03.02.90.00; (Incluído pela Lei nº 13.670, de 2018)\n\nXVIII - 5004.00.00, 5005.00.00, 5006.00.00, 50.07, 5104.00.00, 51.05, 51.06, 51.07, 51.08, 51.09, 5110.00.00, 51.11, 51.12, 5113.00, 5203.00.00, 52.04, 52.05, 52.06, 52.07, 52.08, 52.09, 52.10, 52.11, 52.12, 53.06, 53.07, 53.08, 53.09, 53.10, 5311.00.00, no capítulo 54, exceto os códigos 5402.46.00, 5402.47.00 e 5402.33.10, e nos capítulos 55 a 60; (Incluído pela Lei nº 13.670, de 2018)\n\nXIX - (VETADO); (Incluído pela Lei nº 13.670, de 2018)\n\nXX - (VETADO). (Incluído pela Lei nº 13.670, de 2018)\n\n§ 21-A. O acréscimo percentual nas alíquotas da Cofins-Importação de que trata o § 21 deste artigo será de: (Incluído pela Lei nº 14.973, de 2024)\n\nI – 0,8% (oito décimos por cento) de 1º de janeiro até 31 de dezembro de 2025; (Incluído pela Lei nº 14.973, de 2024)\n\nII – 0,6% (seis décimos por cento) de 1º de janeiro até 31 de dezembro de 2026; e (Incluído pela Lei nº 14.973, de 2024)\n\nIII – 0,4% (quatro décimos por cento) de 1º de janeiro até 31 de dezembro de 2027. (Incluído pela Lei nº 14.973, de 2024)\n\n§ 22. A utilização do benefício de alíquota zero de que tratam os incisos XIX a XXXVIII do § 12 deste artigo cessará quando houver oferta de mercadorias produzidas no Brasil em condições similares às das importadas quanto ao padrão de qualidade, conteúdo técnico, preço ou capacidade produtiva, conforme regulamentação editada pelo Poder Executivo. (Incluído pela Lei nº 12.649, de 2012)\n\n§ 23. Aplica-se ao condensado destinado a centrais petroquímicas o disposto nos arts. 56 e 57 da Lei nº 11.196, de 21 de novembro de 2005. (Incluído pela Lei nº 12.715, de 2012) (Vide Lei nº 14.183, de 2021) (Vigência)\n\n§ 24. (VETADO) . (Incluído pela Lei nº 12.715, de 2012) Produção de efeito",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%208%C2%BA%20As%20contribui%C3%A7%C3%B5es%20ser%C3%A3o%20calculadas%20mediante%20aplica%C3%A7%C3%A3o%2C%20sobre%20a%20base%20de%20c%C3%A1lculo%20de%20que%20trata%20o%20art.%207%C2%BA%20desta%20Lei%2C%20das",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º São isentas das contribuições de que trata o art. 1º desta Lei: (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\nI - as importações realizadas:\n\na) pela União, Estados, Distrito Federal e Municípios, suas autarquias e fundações instituídas e mantidas pelo poder público;\n\nb) pelas Missões Diplomáticas e Repartições Consulares de caráter permanente e pelos respectivos integrantes;\n\nc) pelas representações de organismos internacionais de caráter permanente, inclusive os de âmbito regional, dos quais o Brasil seja membro, e pelos respectivos integrantes;\n\nII - as hipóteses de:\n\na) amostras e remessas postais internacionais, sem valor comercial;\n\nb) remessas postais e encomendas aéreas internacionais, destinadas a pessoa física;\n\nc) bagagem de viajantes procedentes do exterior e bens importados a que se apliquem os regimes de tributação simplificada ou especial;\n\nd) bens adquiridos em loja franca no País;\n\ne) bens trazidos do exterior, no comércio característico das cidades situadas nas fronteiras terrestres, destinados à subsistência da unidade familiar de residentes nas cidades fronteiriças brasileiras;\n\nf) bens importados sob o regime aduaneiro especial de drawback, na modalidade de isenção;\n\ng) objetos de arte, classificados nas posições 97.01, 97.02, 97.03 e 97.06 da NCM, recebidos em doação, por museus instituídos e mantidos pelo poder público ou por outras entidades culturais reconhecidas como de utilidade pública; e\n\nh) máquinas, equipamentos, aparelhos e instrumentos, e suas partes e peças de reposição, acessórios, matérias-primas e produtos intermediários, importados por instituições científicas e tecnológicas e por cientistas e pesquisadores, conforme o disposto na Lei nº 8.010, de 29 de março de 1990.\n\nIII – (VETADO) (Incluído pela Lei nº 10.925, de 2004)\n\n§ 1º As isenções de que tratam os incisos I e II deste artigo somente serão concedidas se satisfeitos os requisitos e condições exigidos para o reconhecimento de isenção do Imposto sobre Produtos Industrializados - IPI. (Renumerado pela Lei nº 10.925, 2004)\n\n§ 2º (VETADO) (Incluído pela Lei nº 10.925, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%209%C2%BA%20S%C3%A3o%20isentas%20das%20contribui%C3%A7%C3%B5es%20de%20que%20trata%20o%20art.%201%C2%BA%20desta%20Lei%3A%20%28Vide%20Lei%20Complementar%20n%C2%BA%20214%2C%20de%202025%29%20Produ%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Quando a isenção for vinculada à qualidade do importador, a transferência de propriedade ou a cessão de uso dos bens, a qualquer título, obriga ao prévio pagamento das contribuições de que trata esta Lei. (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\nParágrafo único. O disposto no caput deste artigo não se aplica aos bens transferidos ou cedidos:\n\nI - a pessoa ou a entidade que goze de igual tratamento tributário, mediante prévia decisão da autoridade administrativa da Secretaria da Receita Federal;\n\nII - após o decurso do prazo de 3 (três) anos, contado da data do registro da declaração de importação; e\n\nIII - a entidades beneficentes, reconhecidas como de utilidade pública, para serem vendidos em feiras, bazares e eventos semelhantes, desde que recebidos em doação de representações diplomáticas estrangeiras sediadas no País.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2010.%20Quando%20a%20isen%C3%A7%C3%A3o%20for%20vinculada%20%C3%A0%20qualidade%20do%20importador%2C%20a%20transfer%C3%AAncia%20de%20propriedade%20ou%20a%20cess%C3%A3o%20de%20uso%20dos%20bens%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. A isenção das contribuições, quando vinculada à destinação dos bens, ficará condicionada à comprovação posterior do seu efetivo emprego nas finalidades que motivaram a concessão. (Vide Lei Complementar nº 214, de 2025) Produção de efeitos",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2011.%20A%20isen%C3%A7%C3%A3o%20das%20contribui%C3%A7%C3%B5es%2C%20quando%20vinculada%20%C3%A0%20destina%C3%A7%C3%A3o%20dos%20bens%2C%20ficar%C3%A1%20condicionada%20%C3%A0%20comprova%C3%A7%C3%A3o%20posterior%20do%20seu%20efetivo%20emprego%20nas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Desde que mantidas as finalidades que motivaram a concessão e mediante prévia decisão da autoridade administrativa da Secretaria da Receita Federal, poderá ser transferida a propriedade ou cedido o uso dos bens antes de decorrido o prazo de 3 (três) anos a que se refere o inciso II do parágrafo único do art. 10 desta Lei, contado da data do registro da correspondente declaração de importação. (Vide Lei Complementar nº 214, de 2025) Produção de efeitos",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2012.%20Desde%20que%20mantidas%20as%20finalidades%20que%20motivaram%20a%20concess%C3%A3o%20e%20mediante%20pr%C3%A9via%20decis%C3%A3o%20da%20autoridade%20administrativa%20da%20Secretaria%20da%20Receita",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VI",
+        "chapter_name": "CAPÍTULO VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. As contribuições de que trata o art. 1º desta Lei serão pagas: (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\nI - na data do registro da declaração de importação, na hipótese do inciso I do caput do art. 3º desta Lei;\n\nII - na data do pagamento, crédito, entrega, emprego ou remessa, na hipótese do inciso II do caput do art. 3º desta Lei;\n\nIII - na data do vencimento do prazo de permanência do bem no recinto alfandegado, na hipótese do inciso III do caput do art. 4º desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2013.%20As%20contribui%C3%A7%C3%B5es%20de%20que%20trata%20o%20art.%201%C2%BA%20desta%20Lei%20ser%C3%A3o%20pagas%3A%20%28Vide%20Lei%20Complementar%20n%C2%BA%20214%2C%20de%202025%29%20Produ%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VII",
+        "chapter_name": "CAPÍTULO VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. As normas relativas à suspensão do pagamento do imposto de importação ou do IPI vinculado à importação, relativas aos regimes aduaneiros especiais, aplicam-se também às contribuições de que trata o art. 1º desta Lei. (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 1º O disposto no caput deste artigo aplica-se também às importações, efetuadas por empresas localizadas na Zona Franca de Manaus, de bens a serem empregados na elaboração de matérias-primas, produtos intermediários e materiais de embalagem destinados a emprego em processo de industrialização por estabelecimentos ali instalados, consoante projeto aprovado pelo Conselho de Administração da Superintendência da Zona Franca de Manaus – SUFRAMA, de que trata o art. 5º A da Lei nº 10.637, de 30 de dezembro de 2002.\n\n§ 2º A Secretaria da Receita Federal estabelecerá os requisitos necessários para a suspensão de que trata o § 1º deste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2014.%20As%20normas%20relativas%20%C3%A0%20suspens%C3%A3o%20do%20pagamento%20do%20imposto%20de%20importa%C3%A7%C3%A3o%20ou%20do%20IPI%20vinculado%20%C3%A0%20importa%C3%A7%C3%A3o%2C%20relativas%20aos%20regimes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "14-A"
+    },
+    "14-A": {
+      "numero": "14-A",
+      "texto": "Art. 14-A. Fica suspensa a exigência das contribuições de que trata o art. 1º desta Lei nas importações efetuadas por empresas localizadas na Zona Franca de Manaus de matérias-primas, produtos intermediários e materiais de embalagem para emprego em processo de industrialização por estabelecimentos industriais instalados na Zona Franca de Manaus e consoante projetos aprovados pelo Conselho de Administração da Superintendência da Zona Franca de Manaus - SUFRAMA. (Incluído pela Lei nº 10.925, 2004) (Vgência) (Vide Lei Complementar nº 214, de 2025) Produção de efeitos",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2014-A.%20Fica%20suspensa%20a%20exig%C3%AAncia%20das%20contribui%C3%A7%C3%B5es%20de%20que%20trata%20o%20art.%201%C2%BA%20desta%20Lei%20nas%20importa%C3%A7%C3%B5es%20efetuadas%20por%20empresas%20localizadas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "VIII",
+        "chapter_name": "CAPÍTULO VIII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. As pessoas jurídicas sujeitas à apuração da contribuição para o PIS/PASEP e da COFINS, nos termos dos arts. 2º e 3º das Leis nº s 10.637, de 30 de dezembro de 2002, e 10.833, de 29 de dezembro de 200 3, poderão descontar crédito, para fins de determinação dessas contribuições, em relação às importações sujeitas ao pagamento das contribuições de que trata o art. 1º desta Lei, nas seguintes hipóteses: (Redação dada pela Lei nº 11.727, de 2008) (Produção de efeitos) (Regulamento) (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\nI - bens adquiridos para revenda;\n\nII – bens e serviços utilizados como insumo na prestação de serviços e na produção ou fabricação de bens ou produtos destinados à venda, inclusive combustível e lubrificantes;\n\nIII - energia elétrica consumida nos estabelecimentos da pessoa jurídica;\n\nIV - aluguéis e contraprestações de arrendamento mercantil de prédios, máquinas e equipamentos, embarcações e aeronaves, utilizados na atividade da empresa;\n\nV - máquinas, equipamentos e outros bens incorporados ao ativo imobilizado, adquiridos para locação a terceiros ou para utilização na produção de bens destinados à venda ou na prestação de serviços. (Redação dada pela Lei nº 11.196, de 2005)\n\n§ 1º O direito ao crédito de que trata este artigo e o art. 17 desta Lei aplica-se em relação às contribuições efetivamente pagas na importação de bens e serviços a partir da produção dos efeitos desta Lei.\n\n§ 1º-A. O valor da Cofins-Importação pago em decorrência do adicional de alíquota de que trata o § 21 do art. 8º não gera direito ao desconto do crédito de que trata o caput . (Incluído pela Lei nº 13.137, de 2015) (Vigência)\n\n§ 2º O crédito não aproveitado em determinado mês poderá sê-lo nos meses subseqüentes.\n\n§ 2º-A. A partir de 1º de janeiro de 2023, na hipótese de ocorrência de acúmulo de crédito remanescente, resultante da diferença da alíquota aplicada na importação do bem e da alíquota aplicada na sua revenda no mercado interno, conforme apuração prevista neste artigo e no art. 17 desta Lei, a pessoa jurídica importadora poderá utilizar o referido crédito remanescente para fins de restituição, ressarcimento ou compensação com débitos próprios, vencidos ou vincendos, relativos a tributos e a contribuições administrados pela Secretaria Especial da Receita Federal do Brasil, observada a legislação específica aplicável à matéria. (Incluído pela Lei nº 14.440, de 2022)\n\n§ 3º O crédito de que trata o caput será apurado mediante a aplicação das alíquotas previstas no art. 8º sobre o valor que serviu de base de cálculo das contribuições, na forma do art. 7º , acrescido do valor do IPI vinculado à importação, quando integrante do custo de aquisição. (Redação dada pela Lei nº 13.137, de 2015) (Vigência)\n\n§ 4º Na hipótese do inciso V do caput deste artigo, o crédito será determinado mediante a aplicação das alíquotas referidas no § 3º deste artigo sobre o valor da depreciação ou amortização contabilizada a cada mês.\n\n§ 5º Para os efeitos deste artigo, aplicam-se, no que couber, as disposições dos §§ 7º e 9º do art. 3º das Leis nº s 10.637, de 30 de dezembro de 2002, e 10.833, de 29 de dezembro de 2003.\n\n§ 6º O disposto no inciso II do caput deste artigo alcança os direitos autorais pagos pela indústria fonográfica desde que esses direitos tenham se sujeitado ao pagamento das contribuições de que trata esta Lei.\n\n§ 7º Opcionalmente, o contribuinte poderá descontar o crédito de que trata o § 4º deste artigo, relativo à importação de máquinas e equipamentos destinados ao ativo imobilizado, no prazo de 4 (quatro) anos, mediante a aplicação, a cada mês, das alíquotas referidas no § 3º deste artigo sobre o valor correspondente a 1/48 (um quarenta e oito avos) do valor de aquisição do bem, de acordo com regulamentação da Secretaria da Receita Federal.\n\n§ 8º As pessoas jurídicas importadoras, nas hipóteses de importação de que tratam os incisos a seguir, devem observar as disposições do art. 17 desta Lei:\n\nI – produtos dos §§ 1º a 3º e 5º a 7º do art. 8º desta Lei, quando destinados à revenda;\n\nII – produtos do § 8º do art. 8º desta Lei, quando destinados à revenda, ainda que ocorra fase intermediária de mistura;\n\nIII – produtos do § 9º do art. 8º desta Lei, quando destinados à revenda ou à utilização como insumo na produção de autopeças relacionadas nos Anexos I e II da Lei nº 10.485, de 3 de julho de 2002;\n\nIV – produto do § 10 do art. 8º desta Lei.\n\nV – produtos referidos no § 19 do art. 8º desta Lei, quando destinados à revenda; (Redação dada pela Lei nº 11.727, de 2008). (Produção de efeitos)\n\nVI – (Revogado pela Lei nº 13.097, de 2015) (Vigência)\n\n§ 9º (Revogado pela Lei nº 11.727, de 2008)\n\n§ 10. (Revogado pela Lei nº 11.727, de 2008)\n\n§ 11. (Revogado pela Lei nº 13.097, de 2015) (Vigência)\n\n§ 12. (Revogado pela Lei nº 13.097, de 2015) (Vigência)\n\n§ 13. No cálculo do crédito de que trata o inciso V do caput : (Incluído pela Lei nº 12.973, de 2014) (Vigência)\n\nI - os valores decorrentes do ajuste a valor presente de que trata o inciso III do caput do art. 184 da Lei nº 6.404, de 15 de dezembro de 1976, poderão ser considerados como parte integrante do custo ou valor de aquisição; e (Incluído pela Lei nº 12.973, de 2014) (Vigência)\n\nII - não serão computados os ganhos e perdas decorrentes de avaliação de ativo com base no valor justo. (Incluído pela Lei nº 12.973, de 2014) (Vigência)\n\n§ 14. O disposto no inciso V do caput não se aplica no caso de bem objeto de arrendamento mercantil, na pessoa jurídica arrendatária. (Incluído pela Lei nº 12.973, de 2014) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2015.%20As%20pessoas%20jur%C3%ADdicas%20sujeitas%20%C3%A0%20apura%C3%A7%C3%A3o%20da%20contribui%C3%A7%C3%A3o%20para%20o%20PIS%2FPASEP%20e%20da%20COFINS%2C%20nos%20termos%20dos%20arts.%202%C2%BA%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14-A",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. É vedada a utilização do crédito de que trata o art. 15 desta Lei nas hipóteses referidas nos incisos III e IV do § 3º do art. 1º e no art. 8º da Lei nº 10.637, de 30 de dezembro de 2002, e nos incisos III e IV do § 3º do art. 1º e no art. 10 da Lei nº 10.833, de 29 de dezembro de 2003. (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 1º Gera direito aos créditos de que tratam os arts. 15 e 17 desta Lei a importação efetuada com isenção, exceto na hipótese de os produtos serem revendidos ou utilizados como insumo em produtos sujeitos à alíquota zero, isentos ou não alcançados pela contribuição. (Incluído pela Lei nº 11.945, de 2009). (Produção de efeitos).\n\n§ 2º A importação efetuada na forma da alínea f do inciso II do art. 9º desta Lei não dará direito a crédito, em qualquer caso. (Incluído pela Lei nº 11.945, de 2009). (Produção de efeitos).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2016.%20%C3%89%20vedada%20a%20utiliza%C3%A7%C3%A3o%20do%20cr%C3%A9dito%20de%20que%20trata%20o%20art.%2015%20desta%20Lei%20nas%20hip%C3%B3teses%20referidas%20nos%20incisos%20III",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. As pessoas jurídicas importadoras dos produtos referidos nos §§ 1º a 3º , 5º a 10, 17 e 19 do art. 8º desta Lei poderão descontar crédito, para fins de determinação da Contribuição para o PIS/Pasep e da Cofins, em relação à importação desses produtos, nas hipóteses: (Redação dada pela Lei nº 13.097, de 2015) (Vigência) (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\nI - dos §§ 1º a 3º , 5º a 7º e 10 do art. 8º desta Lei, quando destinados à revenda; (Redação dada pela Lei nº 11.051, de 2004)\n\nII - do § 8º do art. 8º desta Lei, quando destinados à revenda, ainda que ocorra fase intermediária de mistura;\n\nIII - do § 9º do art. 8º desta Lei, quando destinados à revenda ou à utilização como insumo na produção de autopeças relacionadas nos Anexos I e II da Lei nº 10.485, de 3 de julho de 2002;\n\nIV - (Revogado pela Lei nº 11.051, de 2004)\n\nV – produtos referidos no § 19 do art. 8º desta Lei, quando destinados à revenda; (Incluído pela Lei nº 11.727, de 2008). (Produção de efeitos)\n\nVI – (Revogado pela Lei nº 13.097, de 2015) (Vigência)\n\n§ 1º (Revogado pela Lei nº 10.925, de 2004)\n\n§ 2º O crédito de que trata este artigo será apurado mediante a aplicação das alíquotas previstas para os respectivos produtos no art. 8º , conforme o caso, sobre o valor de que trata o § 3º do art. 15. (Redação dada pela Lei nº 13.137, de 2015) (Vigência)\n\n§ 2º-A. O valor da Cofins-Importação pago em decorrência do adicional de alíquota de que trata o § 21 do art. 8º não gera direito ao desconto do crédito de que trata o caput . (Incluído pela Lei nº 13.137, de 2015) (Vigência)\n\n§ 3º (Revogado pela Lei nº 13.097, de 2015) (Vigência)\n\n§ 3º-A. (Vide Lei nº 11.727, de 2008)\n\n§ 4º (Revogado pela Lei nº 10.925, de 2004)\n\n§ 5º Na hipótese do § 8º do art. 8º desta Lei, os créditos serão determinados com base nas alíquotas específicas referidas no art. 23 desta Lei.\n\n§ 6º Opcionalmente, o sujeito passivo poderá calcular o crédito de que trata o § 4º do art. 15 desta Lei relativo à aquisição de vasilhames classificados no código 7010.90.21 da Tipi, destinados ao ativo imobilizado, no prazo de 12 (doze) meses, poderá creditar-se, a cada mês, de 1/12 (um doze avos) do valor da contribuição incidente, mediante alíquota específica, na aquisição dos vasilhames, de acordo com regulamentação da Secretaria da Receita Federal. (Redação dada pela Lei nº 13.097, de 2015) (Vigência)\n\n§ 7º O disposto no inciso III deste artigo não se aplica no caso de importação efetuada por montadora de máquinas ou veículos relacionados no art. 1º da Lei nº 10.485, de 3 de julho de 2002. (Incluído pela Lei nº 11.051, de 2004)\n\n§ 8º O disposto neste artigo alcança somente as pessoas jurídicas de que trata o art. 15 desta Lei. (Incluído pela Lei nº 11.051, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2017.%20As%20pessoas%20jur%C3%ADdicas%20importadoras%20dos%20produtos%20referidos%20nos%20%C2%A7%C2%A7%201%C2%BA%20a%203%C2%BA%20%2C%205%C2%BA%20a%2010%2C%2017%20e%2019%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. No caso da importação por conta e ordem de terceiros, os créditos de que tratam os arts. 15 e 17 desta Lei serão aproveitados pelo encomendante. (Vide Lei Complementar nº 214, de 2025) Produção de efeitos",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2018.%20No%20caso%20da%20importa%C3%A7%C3%A3o%20por%20conta%20e%20ordem%20de%20terceiros%2C%20os%20cr%C3%A9ditos%20de%20que%20tratam%20os%20arts.%2015%20e%2017",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "IX",
+        "chapter_name": "CAPÍTULO IX",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Nos casos de lançamentos de ofício, serão aplicadas, no que couber, as disposições dos arts. 43 e 44 da Lei nº 9.430, de 27 de dezembro de 1996. (Vide Lei Complementar nº 214, de 2025) Produção de efeitos",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2019.%20Nos%20casos%20de%20lan%C3%A7amentos%20de%20of%C3%ADcio%2C%20ser%C3%A3o%20aplicadas%2C%20no%20que%20couber%2C%20as%20disposi%C3%A7%C3%B5es%20dos%20arts.%2043%20e%2044%20da%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "X",
+        "chapter_name": "CAPÍTULO X",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Compete à Secretaria da Receita Federal a administração e a fiscalização das contribuições de que trata esta Lei. (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 1º As contribuições sujeitam-se às normas relativas ao processo administrativo fiscal de determinação e exigência do crédito tributário e de consulta de que trata o Decreto nº 70.235, de 6 de março de 1972, bem como, no que couber, às disposições da legislação do imposto de renda, do imposto de importação, especialmente quanto à valoração aduaneira, e da contribuição para o PIS/PASEP e da COFINS.\n\n§ 2º A Secretaria da Receita Federal editará, no âmbito de sua competência, as normas necessárias à aplicação do disposto nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2020.%20Compete%20%C3%A0%20Secretaria%20da%20Receita%20Federal%20a%20administra%C3%A7%C3%A3o%20e%20a%20fiscaliza%C3%A7%C3%A3o%20das%20contribui%C3%A7%C3%B5es%20de%20que%20trata%20esta%20Lei.%20%28Vide%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XI",
+        "chapter_name": "CAPÍTULO XI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Os arts. 1º , 2º , 3º , 6º , 10, 12, 15, 25, 27, 32, 34, 49, 50, 51, 52, 53, 56 e 90 da Lei nº 10.833, de 29 de dezembro de 2003, passam a vigorar com a seguinte redação:\n\n\"Art. 1º ......................................................................\n\n.....................................................................\n\n§ 3º .....................................................................\n\n.....................................................................\n\nIV - de venda de álcool para fins carburantes;\n\n.....................................................................\" (NR)\n\n\"Art. 2º . ....................................................................\n\n§ 1º Excetua-se do disposto no caput deste artigo a receita bruta auferida pelos produtores ou importadores, que devem aplicar as alíquotas previstas:\n\nI - nos incisos I a III do art. 4º da Lei nº 9.718, de 27 de novembro de 1998, e alterações posteriores, no caso de venda de gasolinas, exceto gasolina de aviação, óleo diesel e gás liquefeito de petróleo (GLP) derivado de petróleo e gás natural;\n\nII - no inciso I do art. 1º da Lei nº 10.147, de 21 de dezembro de 2000, e alterações posteriores, no caso de venda de produtos farmacêuticos, de perfumaria, de toucador ou de higiene pessoal, nele relacionados;\n\nIII - no art. 1º da Lei nº 10.485, de 3 de julho de 2002, e alterações posteriores, no caso de venda de máquinas e veículos classificados nos códigos 84.29, 8432.40.00, 84.32.80.00, 8433.20, 8433.30.00, 8433.40.00, 8433.5, 87.01, 87.02, 87.03, 87.04, 87.05 e 87.06, da TIPI;\n\nIV - no inciso II do art. 3º da Lei nº 10.485, de 3 de julho de 2002, no caso de vendas, para comerciante atacadista ou varejista ou para consumidores, das autopeças relacionadas nos Anexos I e II da mesma Lei;\n\nV - no caput do art. 5º da Lei nº 10.485, de 3 de julho de 2002, e alterações posteriores, no caso de venda dos produtos classificados nas posições 40.11 (pneus novos de borracha) e 40.13 (câmaras-de-ar de borracha), da TIPI;\n\nVI - no art. 2º da Lei nº 10.560, de 13 de novembro de 2002, e alterações posteriores, no caso de venda de querosene de aviação;\n\nVII - no art. 51 desta Lei, e alterações posteriores, no caso de venda das embalagens nele previstas, destinadas ao envasamento de água, refrigerante e cerveja, classificados nos códigos 22.01, 22.02 e 22.03, todos da TIPI; e\n\nVIII – no art. 49 desta Lei, e alterações posteriores, no caso de venda de água, refrigerante, cerveja e preparações compostas classificados nos códigos 22.01, 22.02, 22.03 e 2106.90.10 Ex 02, todos da TIPI.\n\n§ 2º Excetua-se do disposto no caput deste artigo a receita bruta decorrente da venda de papel imune a impostos de que trata o art. 150, inciso VI, alínea d, da Constituição Federal, quando destinado à impressão de periódicos, que fica sujeita à alíquota de 3,2% (três inteiros e dois décimos por cento).\n\n§ 3º Fica o Poder Executivo autorizado a reduzir a 0 (zero) e a restabelecer a alíquota incidente sobre receita bruta decorrente da venda de produtos químicos e farmacêuticos, classificados nos Capítulos 29 e 30, sobre produtos destinados ao uso em laboratório de anatomia patológica, citológica ou de análises clínicas, classificados nas posições 30.02, 30.06, 39.26, 40.15 e 90.18, e sobre semens e embriões da posição 05.11, todos da TIPI.\" (NR)\n\n\"Art. 3º .....................................................................\n\nI - bens adquiridos para revenda, exceto em relação às mercadorias e aos produtos referidos:\n\na) nos incisos III e IV do § 3º do art. 1º desta Lei; e\n\nb) no § 1º do art. 2º desta Lei;\n\nII - bens e serviços, utilizados como insumo na prestação de serviços e na produção ou fabricação de bens ou produtos destinados à venda, inclusive combustíveis e lubrificantes, exceto em relação ao pagamento de que trata o art. 2º da Lei nº 10.485, de 3 de julho de 2002, devido pelo fabricante ou importador, ao concessionário, pela intermediação ou entrega dos veículos classificados nas posições 87.03 e 87.04 da TIPI;\n\n.....................................................................\n\nV - valor das contraprestações de operações de arrendamento mercantil de pessoa jurídica, exceto de optante pelo Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte - SIMPLES;\n\n.....................................................................\n\n§ 1º Observado o disposto no § 15 deste artigo, o crédito será determinado mediante a aplicação da alíquota prevista no caput do art. 2º desta Lei sobre o valor:\n\n.....................................................................\n\n§ 2º Não dará direito a crédito o valor:\n\nI - de mão-de-obra paga a pessoa física; e\n\nII - da aquisição de bens ou serviços não sujeitos ao pagamento da contribuição, inclusive no caso de isenção, esse último quando revendidos ou utilizados como insumo em produtos ou serviços sujeitos à alíquota 0 (zero), isentos ou não alcançados pela contribuição.\n\n.....................................................................\n\n§ 6º .....................................................................\n\nI - seu montante será determinado mediante aplicação, sobre o valor das mencionadas aquisições, de alíquota correspondente a 80% (oitenta por cento) daquela constante do caput do art. 2º desta Lei;\n\n.....................................................................\n\n§ 13. Deverá ser estornado o crédito da COFINS relativo a bens adquiridos para revenda ou utilizados como insumos na prestação de serviços e na produção ou fabricação de bens ou produtos destinados à venda, que tenham sido furtados ou roubados, inutilizados ou deteriorados, destruídos em sinistro ou, ainda, empregados em outros produtos que tenham tido a mesma destinação.\n\n§ 14. Opcionalmente, o contribuinte poderá calcular o crédito de que trata o inciso III do § 1º deste artigo, relativo à aquisição de máquinas e equipamentos destinados ao ativo imobilizado, no prazo de 4 (quatro) anos, mediante a aplicação, a cada mês, das alíquotas referidas no caput do art. 2º desta Lei sobre o valor correspondente a 1/48 (um quarenta e oito avos) do valor de aquisição do bem, de acordo com regulamentação da Secretaria da Receita Federal.\n\n§ 15. O crédito, na hipótese de aquisição, para revenda, de papel imune a impostos de que trata o art. 150, inciso VI, alínea d da Constituição Federal, quando destinado à impressão de periódicos, será determinado mediante a aplicação da alíquota prevista no § 2º do art. 2º desta Lei.\" (NR)\n\n\"Art. 6º .....................................................................\n\n.....................................................................\n\nII - prestação de serviços para pessoa física ou jurídica residente ou domiciliada no exterior, cujo pagamento represente ingresso de divisas;\n\n.....................................................................\" (NR)\n\n\"Art. 10. .....................................................................\n\n.....................................................................\n\nVI - sociedades cooperativas, exceto as de produção agropecuária, sem prejuízo das deduções de que trata o art. 15 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, e o art. 17 da Lei nº 10.684, de 30 de maio de 2003, não lhes aplicando as disposições do § 7º do art. 3º das Leis nº s 10.637, de 30 de dezembro de 2002, e 10.833, de 29 de dezembro de 2003, e as de consumo;\n\n.....................................................................\n\nIX - as receitas decorrentes de venda de jornais e periódicos e de prestação de serviços das empresas jornalísticas e de radiodifusão sonora e de sons e imagens;\n\n.....................................................................\n\nXIII - as receitas decorrentes de serviços:\n\na) prestados por hospital, pronto-socorro, clínica médica, odontológica, de fisioterapia e de fonoaudiologia, e laboratório de anatomia patológica, citológica ou de análises clínicas; e\n\nb) de diálise, raios X, radiodiagnóstico e radioterapia, quimioterapia e de banco de sangue;\n\n.....................................................................\n\nXV - as receitas decorrentes de vendas de mercadorias realizadas pelas pessoas jurídicas referidas no art. 15 do Decreto-Lei nº 1.455, de 7 de abril de 1976;\n\nXVI - as receitas decorrentes de prestação de serviço de transporte coletivo de passageiros, efetuado por empresas regulares de linhas aéreas domésticas, e as decorrentes da prestação de serviço de transporte de pessoas por empresas de táxi aéreo;\n\nXVII - as receitas auferidas por pessoas jurídicas, decorrentes da edição de periódicos e de informações neles contidas, que sejam relativas aos assinantes dos serviços públicos de telefonia;\n\nXVIII – as receitas decorrentes de prestação de serviços com aeronaves de uso agrícola inscritas no Registro Aeronáutico Brasileiro (RAB);\n\nXIX – as receitas decorrentes de prestação de serviços das empresas de call center, telemarketing, telecobrança e de teleatendimento em geral;\n\nXX – as receitas decorrentes da execução por administração, empreitada ou subempreitada, de obras de construção civil, até 31 de dezembro de 2006;\n\nXXI – as receitas auferidas por parques temáticos, e as decorrentes de serviços de hotelaria e de organização de feiras e eventos, conforme definido em ato conjunto dos Ministérios da Fazenda e do Turismo.\n\nParágrafo único. Ficam convalidados os recolhimentos efetuados de acordo com a atual redação do inciso IX deste artigo.\" (NR)\n\n\"Art. 12. .....................................................................\n\n.....................................................................\n\n§ 2º O crédito presumido calculado segundo os §§ 1º e 9º deste artigo será utilizado em 12 (doze) parcelas mensais, iguais e sucessivas, a partir da data a que se refere o caput deste artigo.\n\n.....................................................................\n\n§ 7º O disposto neste artigo aplica-se, também, aos estoques de produtos que não geraram crédito na aquisição, em decorrência do disposto nos §§ 7º a 9º do art. 3º desta Lei, destinados à fabricação dos produtos de que tratam as Leis nº s 9.990, de 21 de julho de 2000, 10.147, de 21 de dezembro de 2000, 10.485, de 3 de julho de 2002, e 10.560, de 13 de novembro de 2002, ou quaisquer outros submetidos à incidência monofásica da contribuição.\n\n§ 8º As disposições do § 7º deste artigo não se aplicam aos estoques de produtos adquiridos a alíquota 0 (zero), isentos ou não alcançados pela incidência da contribuição.\n\n§ 9º O montante do crédito presumido de que trata o § 7º deste artigo será igual ao resultado da aplicação do percentual de 7,6% (sete inteiros e seis décimos por cento) sobre o valor do estoque.\n\n§ 10. O montante do crédito presumido de que trata o § 7º deste artigo, relativo às pessoas jurídicas referidas no parágrafo único do art. 56 desta Lei, será igual ao resultado da aplicação da alíquota de 3% (três por cento) sobre o valor dos bens em estoque adquiridos até 31 de janeiro de 2004, e de 7,6% (sete inteiros e seis décimos por cento) sobre o valor dos bens em estoque adquiridos a partir de 1º de fevereiro de 2004.\" (NR)\n\n\"Art. 15. Aplica-se à contribuição para o PIS/PASEP não-cumulativa de que trata a Lei nº 10.637, de 30 de dezembro de 2002, o disposto:\n\nI - nos incisos I e II do § 3º do art. 1º desta Lei;\n\nII - nos incisos VI, VII e IX do caput e nos §§ 1º , incisos II e III, 6º , inciso I, e 10 a 15 do art. 3º desta Lei;\n\nIII - nos §§ 3º e 4º do art. 6º desta Lei;\n\nIV - nos arts. 7º e 8º desta Lei;\n\nV - no art. 10, incisos VI, IX e XI a XXI desta Lei; e\n\nVI - no art. 13 desta Lei.\" (NR)\n\n\"Art. 25. A pessoa jurídica encomendante, no caso de industrialização por encomenda, sujeita-se, conforme o caso, às alíquotas previstas nas alíneas a ou b do inciso I do art. 1º da Lei nº 10.147, de 21 de dezembro de 2000, e alterações posteriores, incidentes sobre a receita bruta decorrente da venda dos produtos nelas referidas.\n\n.....................................................................\" (NR)\n\n\"Art. 27. .....................................................................\n\n.....................................................................\n\n§ 3º A instituição financeira deverá, na forma, prazo e condições estabelecidas pela Secretaria da Receita Federal, fornecer à pessoa física ou jurídica beneficiária o Comprovante de Rendimentos Pagos e de Retenção do Imposto de Renda na Fonte, bem como apresentar à Secretaria da Receita Federal declaração contendo informações sobre:\n\nI - os pagamentos efetuados à pessoa física ou jurídica beneficiária e o respectivo imposto de renda retido na fonte;\n\nII - os honorários pagos a perito e o respectivo imposto de renda retido na fonte;\n\nIII - a indicação do advogado da pessoa física ou jurídica beneficiária.\n\n§ 4º O disposto neste artigo não se aplica aos depósitos efetuados pelos Tribunais Regionais Federais antes de 1º de fevereiro de 2004.\" (NR)\n\n\"Art. 32 .....................................................................\n\nI – cooperativas, relativamente à CSLL;\n\nII – empresas estrangeiras de transporte de valores;\n\n.....................................................................\n\nParágrafo único. .....................................................................\n\nI – a título de transporte internacional de valores efetuados por empresa nacional;\n\n.....................................................................\" (NR)\n\n\"Art. 34. .....................................................................\n\n.....................................................................\n\nParágrafo único. A retenção a que se refere o caput não se aplica na hipótese de pagamentos relativos à aquisição de gasolina, gás natural, óleo diesel, gás liquefeito de petróleo, querosene de aviação e demais derivados de petróleo e gás natural.\" (NR)\n\n\"Art. 49. A contribuição para o PIS/PASEP e a COFINS devidas pelos importadores e pelas pessoas jurídicas que procedam à industrialização dos produtos classificados nas posições 22.01, 22.02, 22.03 (cerveja de malte) e no código 2106.90.10 Ex 02 (preparações compostas, não alcoólicas, para elaboração de bebida refrigerante), todos da TIPI, aprovada pelo Decreto nº 4.542, de 26 de dezembro de 2002, serão calculadas sobre a receita bruta decorrente da venda desses produtos, respectivamente, com a aplicação das alíquotas de 2,5% (dois inteiros e cinco décimos por cento) e 11,9% (onze inteiros e nove décimos por cento).\n\n§ 1º O disposto neste artigo, relativamente aos produtos classificados nos códigos 22.01 e 22.02 da TIPI, alcança, exclusivamente, água, refrigerante e cerveja sem álcool.\n\n.....................................................................\" (NR)\n\n\"Art. 50. .....................................................................\n\n.....................................................................\n\nIII - verniz, tipo pasta de alumínio e folha de alumínio troquelada gravada, classificados respectivamente nos códigos 3208.90.29 e 7607.19.10, quando adquiridos por pessoa jurídica fabricante de latas de alumínio, classificadas no código 7612.90.19 da TIPI, e destinada à produção desse produto.\" (NR)\n\n\"Art. 51. As receitas decorrentes da venda e da produção sob encomenda de embalagens, pelas pessoas jurídicas industriais ou comerciais e pelos importadores, destinadas ao envasamento dos produtos relacionados no art. 49 desta Lei, ficam sujeitas ao recolhimento da contribuição para o PIS/PASEP e da COFINS fixadas por unidade de produto, respectivamente, em:\n\n.....................................................................\n\nII - embalagens para água e refrigerantes classificados nos códigos 22.01 e 22.02 da TIPI:\n\na) classificadas no código TIPI 3923.30.00: R$ 0,0170 (dezessete milésimos do real) e R$ 0,0784 (setecentos e oitenta e quatro décimos de milésimo do real), por litro de capacidade nominal de envasamento da embalagem final; e\n\nb) pré-formas classificadas no Ex 01 do código de que trata a alínea a deste inciso, com faixa de gramatura:\n\n1 - até 30g (trinta gramas): R$ 0,0102 (cento e dois décimos de milésimo do real) e R$ 0,0470 (quarenta e sete milésimos do real);\n\n2 - acima de 30g (trinta gramas) até 42g (quarenta e dois gramas): R$ 0,0255 (duzentos e cinqüenta e cinco décimos de milésimo do real) e R$ 0,1176 (um mil e cento e setenta e seis décimos de milésimo do real); e\n\n3 - acima de 42g (quarenta e dois gramas): R$ 0,0425 (quatrocentos e vinte e cinco décimos de milésimo do real) e R$ 0,1960 (cento e noventa e seis milésimos do real);\n\nIII - embalagens de vidro não retornáveis classificadas no código 7010.90.21 da TIPI, para refrigerantes ou cervejas: R$ 0,0294 (duzentos e noventa e quatro décimos de milésimo do real) e R$ 0,1360 (cento e trinta e seis milésimos do real), por litro de capacidade nominal de envasamento da embalagem final;\n\nIV - embalagens de vidro retornáveis, classificadas no código 7010.90.21 da TIPI, para refrigerantes ou cervejas: R$ 0,294 (duzentos e noventa e quatro milésimos do real) e R$ 1,36 (um real e trinta e seis centavos), por litro de capacidade nominal de envasamento da embalagem final.\n\n.....................................................................\" (NR)\n\n\"Art. 52. .....................................................................\n\nI – água e refrigerantes classificados nos códigos 22.01 e 22.02 da TIPI, R$ 0,0212 (duzentos e doze décimos de milésimo do real) e R$ 0,0980 (noventa e oito milésimos do real);\n\n.....................................................................\" (NR)\n\n\"Art. 53. Fica o Poder Executivo autorizado a fixar coeficientes para redução das alíquotas previstas nos arts. 51 e 52 desta Lei, os quais poderão ser alterados para mais ou para menos, ou extintos, em relação aos produtos ou sua utilização, a qualquer tempo.\" (NR)\n\n\"Art. 56. .....................................................................\n\nParágrafo único. O disposto no caput não se aplica aos incisos I e II do art. 51 desta Lei.\" (NR)\n\n\"Art. 90. Até a entrada em vigor da lei a que se refere o art. 89 desta Lei, permanecem sujeitas às normas da legislação da COFINS vigentes anteriormente a esta Lei, não se lhes aplicando as disposições dos arts. 1º a 8º desta Lei, as pessoas jurídicas que, no ano-calendário imediatamente anterior, tenham auferido receita bruta igual ou inferior a R$ 100.000,00 (cem mil reais) multiplicado pelo número de meses de efetiva atividade, e se dediquem exclusiva e cumulativamente à atividade de desenvolvimento, instalação, suporte técnico e consultoria de software, desde que não detenham participação societária em outras pessoas jurídicas, nem tenham sócio ou acionista pessoa jurídica ou pessoa física residente no exterior.\n\n.....................................................................\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2021.%20Os%20arts.%201%C2%BA%20%2C%202%C2%BA%20%2C%203%C2%BA%20%2C%206%C2%BA%20%2C%2010%2C%2012%2C%2015%2C%2025%2C%2027%2C%2032%2C%2034%2C%2049%2C%2050%2C%2051%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Os dispositivos legais a seguir passam a vigorar com a seguinte redação: (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\nI - art. 4º da Lei nº 9.718, de 27 de novembro de 1998:\n\n\"Art. 4º As contribuições para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público – PIS/PASEP e para o Financiamento da Seguridade Social – COFINS devidas pelos produtores e importadores de derivados de petróleo serão calculadas, respectivamente, com base nas seguintes alíquotas:\n\nI – 5,08% (cinco inteiros e oito centésimos por cento) e 23,44% (vinte inteiros e quarenta e quatro centésimos por cento), incidentes sobre a receita bruta decorrente da venda de gasolinas e suas correntes, exceto gasolina de aviação;\n\nII – 4,21% (quatro inteiros e vinte e um centésimos por cento) e 19,42% (dezenove inteiros e quarenta e dois centésimos por cento), incidentes sobre a receita bruta decorrente da venda de óleo diesel e suas correntes;\n\nIII – 10,2% (dez inteiros e dois décimos por cento) e 47,4% (quarenta e sete inteiros e quatro décimos por cento) incidentes sobre a receita bruta decorrente da venda de gás liquefeito de petróleo (GLP) dos derivados de petróleo e gás natural;\n\n.....................................................................\" (NR)\n\nII - art. 2º da Lei nº 10.560, de 13 de novembro de 2002:\n\n\"Art. 2º A contribuição para o PIS/PASEP e a COFINS, relativamente à receita bruta decorrente da venda de querosene de aviação, incidirá uma única vez, nas vendas realizadas pelo produtor ou importador, às alíquotas de 5% (cinco por cento) e 23,2% (vinte e três inteiros e dois décimos por cento), respectivamente.\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2022.%20Os%20dispositivos%20legais%20a%20seguir%20passam%20a%20vigorar%20com%20a%20seguinte%20reda%C3%A7%C3%A3o%3A%20%28Vide%20Lei%20Complementar%20n%C2%BA%20214%2C%20de%202025%29%20Produ%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. O importador ou fabricante dos produtos referidos nos incisos I a III do art. 4º da Lei nº 9.718, de 27 de novembro de 1998, e no art. 2º da Lei nº 10.560, de 13 de novembro de 2002, poderá optar por regime especial de apuração e pagamento da contribuição para o PIS/PASEP e da COFINS, no qual os valores das contribuições são fixados, respectivamente, em: (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\nI - R$ 141,10 (cento e quarenta e um reais e dez centavos) e R$ 651,40 (seiscentos e cinqüenta e um reais e quarenta centavos), por metro cúbico de gasolinas e suas correntes, exceto gasolina de aviação; (Vide Medida Provisória nº 1.157, de 2023)\n\nII - R$ 82,20 (oitenta e dois reais e vinte centavos) e R$ 379,30 (trezentos e setenta e nove reais e trinta centavos), por metro cúbico de óleo diesel e suas correntes; (Vide Medida Provisória nº 1.157, de 2023)\n\nIII - R$ 119,40 (cento e dezenove reais e quarenta centavos) e R$ 551,40 (quinhentos e cinqüenta e um reais e quarenta centavos), por tonelada de gás liquefeito de petróleo - GLP, derivado de petróleo e de gás natural; (Redação dada pela Lei nº 11.051, de 2004) (Vide Medida Provisória nº 1.157, de 2023)\n\nIV - R$ 48,90 (quarenta e oito reais e noventa centavos) e R$ 225,50 (duzentos e vinte e cinco reais e cinqüenta centavos), por metro cúbico de querosene de aviação. (Vide Medida Provisória nº 1.157, de 2023)\n\n§ 1º A opção prevista neste artigo será exercida, segundo normas e condições estabelecidas pela Secretaria da Receita Federal, até o último dia útil do mês de novembro de cada ano-calendário, produzindo efeitos, de forma irretratável, durante todo o ano-calendário subseqüente ao da opção.\n\n§ 2º Excepcionalmente para o ano-calendário de 2004, a opção poderá ser exercida até o último dia útil do mês de maio, produzindo efeitos, de forma irretratável, a partir do dia 1º de maio.\n\n§ 3º No caso da opção efetuada nos termos dos §§ 1º e 2º deste artigo, a Secretaria da Receita Federal divulgará o nome da pessoa jurídica optante e a data de início da opção.\n\n§ 4º A opção a que se refere este artigo será automaticamente prorrogada para o ano-calendário seguinte, salvo se a pessoa jurídica dela desistir, nos termos e condições estabelecidos pela Secretaria da Receita Federal, até o último dia útil do mês de outubro do ano-calendário, hipótese em que a produção de efeitos se dará a partir do dia 1º de janeiro do ano-calendário subseqüente.\n\n§ 5º Fica o Poder Executivo autorizado a fixar coeficientes para redução das alíquotas previstas neste artigo, os quais poderão ser alterados, para mais ou para menos, ou extintos, em relação aos produtos ou sua utilização, a qualquer tempo. (Vide Decreto nº 5.059, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2023.%20O%20importador%20ou%20fabricante%20dos%20produtos%20referidos%20nos%20incisos%20I%20a%20III%20do%20art.%204%C2%BA%20da%20Lei%20n%C2%BA%209.718%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. O inciso III do § 2º do art. 8º da Lei nº 10.426, de 24 de abril de 2002, passa a vigorar com a seguinte redação:\n\n\"Art. 8º .....................................................................\n\n.....................................................................\n\n§ 2º .....................................................................\n\n.....................................................................\n\nIII – será de, no mínimo, R$ 20,00 (vinte reais).\n\n.....................................................................\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2024.%20O%20inciso%20III%20do%20%C2%A7%202%C2%BA%20do%20art.%208%C2%BA%20da%20Lei%20n%C2%BA%2010.426%2C%20de%2024%20de%20abril%20de%202002%2C%20passa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. O disposto no art. 9º da Medida Provisória nº 2.159-70, de 24 de agosto de 2001, aplica-se, também, relativamente aos fatos geradores ocorridos a partir de 1º de abril de 2004, às remessas para o exterior vinculadas ao pagamento de despesas relacionadas com a promoção de destinos turísticos brasileiros.\n\nParágrafo único. Para os fins do disposto no caput deste artigo, entende-se por despesas vinculadas à promoção de destinos turísticos brasileiros aquelas decorrentes de pesquisa de mercado, participação em exposições, feiras e eventos semelhantes, inclusive aluguéis e arrendamentos de estandes e locais de exposição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2025.%20O%20disposto%20no%20art.%209%C2%BA%20da%20Medida%20Provis%C3%B3ria%20n%C2%BA%202.159-70%2C%20de%2024%20de%20agosto%20de%202001%2C%20aplica-se%2C%20tamb%C3%A9m%2C%20relativamente%20aos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. (Revogado pela Lei nº 10.925, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2026.%20%28Revogado%20pela%20Lei%20n%C2%BA%2010.925%2C%20de%202004%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. O Poder Executivo poderá autorizar o desconto de crédito nos percentuais que estabelecer e para os fins referidos no art. 3º das Leis nº s 10.637, de 30 de dezembro de 2002, e 10.833, de 29 de dezembro de 2003, relativamente às despesas financeiras decorrentes de empréstimos e financiamentos, inclusive pagos ou creditados a residentes ou domiciliados no exterior. (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 1º Poderão ser estabelecidos percentuais diferenciados no caso de pagamentos ou créditos a residentes ou domiciliados em país com tributação favorecida ou com sigilo societário.\n\n§ 2º O Poder Executivo poderá, também, reduzir e restabelecer, até os percentuais de que tratam os incisos I e II do caput do art. 8º desta Lei, as alíquotas da contribuição para o PIS/PASEP e da COFINS incidentes sobre as receitas financeiras auferidas pelas pessoas jurídicas sujeitas ao regime de não-cumulatividade das referidas contribuições, nas hipóteses que fixar.\n\n§ 3º O disposto no § 2º não se aplica aos valores decorrentes do ajuste a valor presente de que trata o inciso VIII do caput do art. 183 da Lei nº 6.404, de 15 de dezembro de 1976. (Incluído pela Lei nº 12.973, de 2014) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2027.%20O%20Poder%20Executivo%20poder%C3%A1%20autorizar%20o%20desconto%20de%20cr%C3%A9dito%20nos%20percentuais%20que%20estabelecer%20e%20para%20os%20fins%20referidos%20no%20art.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Ficam reduzidas a 0 (zero) as alíquotas da contribuição para o PIS/PASEP e da COFINS incidentes sobre a receita bruta decorrente da venda, no mercado interno, de: (Vide Lei nº 11.727, de 2008) (Vigência) (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\nI - papel destinado à impressão de jornais, pelo prazo de 4 (quatro) anos a contar da data de vigência desta Lei ou até que a produção nacional atenda 80% (oitenta por cento) do consumo interno, na forma a ser estabelecida em regulamento do Poder Executivo; (Vide Lei nº 11.727, de 2008) (Produção de efeitos) (Vide Lei nº 12.649, de 2012)\n\nII - papéis classificados nos códigos 4801.00.10, 4801.00.90, 4802.61.91, 4802.61.99, 4810.19.89 e 4810.22.90, todos da TIPI, destinados à impressão de periódicos pelo prazo de 4 (quatro) anos a contar da data de vigência desta Lei ou até que a produção nacional atenda 80% (oitenta por cento) do consumo interno; (Vide Lei nº 11.727, de 2008) (Produção de efeitos) (Vide Lei nº 12.649, de 2012)\n\nIII - produtos hortícolas e frutas, classificados nos Capítulos 7 e 8, e ovos, classificados na posição 04.07, todos da TIPI; e\n\nIV – aeronaves classificadas na posição 88.02 da Tipi, suas partes, peças, ferramentais, componentes, insumos, fluidos hidráulicos, tintas, anticorrosivos, lubrificantes, equipamentos, serviços e matérias-primas a serem empregados na manutenção, conservação, modernização, reparo, revisão, conversão e industrialização das aeronaves, seus motores, partes, componentes, ferramentais e equipamentos; (Redação dada pela Lei nº 11.727, de 2008)\n\nV - semens e embriões da posição 05.11 da NCM. (Incluído pela Lei nº 10.925, de 2004)\n\nVI - livros, conforme definido no art. 2º da Lei nº 10.753, de 30 de outubro de 2003; (Incluído pela Lei nº 11.033, de 2004)\n\nVII - preparações compostas não alcoólicas, classificadas no código 2106.90.10 Ex 01 da Tipi, destinadas à elaboração de bebidas pelas pessoas jurídicas industriais dos produtos referidos no art. 49 da Lei nº 10.833, de 29 de dezembro de 2003. (Incluído pela Lei nº 11.196, de 2005) (Vide pela Lei nº 11.727, de 2008)\n\nVIII – veículos novos montados sobre chassis, com capacidade para 23 (vinte e três) a 44 (quarenta e quatro) pessoas, classificados nos códigos 8702.10.00 Ex 02 e 8702.90.90 Ex 02 da Tipi, destinados ao transporte escolar para a educação básica das redes estadual e municipal, que atendam aos dispositivos da Lei nº 9.503, de 23 de setembro de 1997 – Código de Trânsito Brasileiro, quando adquiridos pela União, Estados, Municípios e pelo Distrito Federal, na forma a ser estabelecida em regulamento do Poder Executivo; (Redação dada pela Lei nº 11.727, de 2008)\n\nIX – embarcações novas, com capacidade para 20 (vinte) a 35 (trinta e cinco) pessoas, classificadas no código 8901.90.00 da Tipi, destinadas ao transporte escolar para a educação básica das redes estadual e municipal, quando adquiridas pela União, Estados, Municípios e pelo Distrito Federal, na forma a ser estabelecida em regulamento do Poder Executivo; (Redação dada pela Lei nº 11.727, de 2008)\n\nX - materiais e equipamentos, inclusive partes, peças e componentes, destinados ao emprego na construção, conservação, modernização, conversão ou reparo de embarcações registradas ou pré-registradas no Registro Especial Brasileiro; (Incluído pela Lei nº 11.774, de 2008)\n\nXI – veículos e carros blindados de combate, novos, armados ou não, e suas partes, produzidos no Brasil, com peso bruto total até 30 (trinta) toneladas, classificados na posição 8710.00.00 da Tipi, destinados ao uso das Forças Armadas ou órgãos de segurança pública brasileiros, quando adquiridos por órgãos e entidades da administração pública direta, na forma a ser estabelecida em regulamento; (Incluído pela Lei nº 11.727, de 2008)\n\nXII – material de defesa, classificado nas posições 87.10.00.00 e 89.06.10.00 da Tipi, além de partes, peças, componentes, ferramentais, insumos, equipamentos e matérias-primas a serem empregados na sua industrialização, montagem, manutenção, modernização e conversão; (Incluído pela Lei nº 11.727, de 2008)\n\nXIII - serviços ou equipamentos de controle de produção, inclusive medidores de vazão, condutivímetros, aparelhos para controle, registro, gravação e transmissão dos quantitativos medidos, quando adquiridos por pessoas jurídicas legalmente responsáveis pela sua instalação e manutenção ou obrigadas à sua utilização, nos termos e condições fixados pela Secretaria da Receita Federal do Brasil; (Redação dada pela Lei nº 12.995, de 2014)\n\nXIV - produtos classificados na posição 87.13 da Nomenclatura Comum do Mercosul-NCM. (Incluído pela Lei nº 11.774, de 2008)\n\nXV - artigos e aparelhos ortopédicos ou para fraturas classificados no código 90.21.10 da NCM; (Incluído pela Lei nº 12.058, de 2009) (Produção de efeito)\n\nXVI - artigos e aparelhos de próteses classificados no código 90.21.3 da NCM; (Incluído pela Lei nº 12.058, de 2009) (Produção de efeito)\n\nXVII - almofadas antiescaras classificadas nos Capítulos 39, 40, 63 e 94 da NCM. (Incluído pela Lei nº 12.058, de 2009) (Produção de efeito)\n\nXVIII - bens relacionados em ato do Poder Executivo para aplicação nas Unidades Modulares de Saúde de que trata o Convênio ICMS nº 114, de 11 de dezembro de 2009, quando adquiridos por órgãos da administração pública direta federal, estadual, distrital e municipal. (Incluído pela Lei nº 12.249, de 2010)\n\nXIX - (Incluído pela Medida Provisória nº 491, de 2010) (Sem eficácia)\n\nXX – serviços de transporte ferroviário em sistema de trens de alta velocidade (TAV), assim entendido como a composição utilizada para efetuar a prestação do serviço público de transporte ferroviário que consiga atingir velocidade igual ou superior a 250 km/h (duzentos e cinquenta quilômetros por hora). (Incluído pela Lei nº 12.350, de 2010)\n\nXXI - projetor es para exibição cinematográfica, classificados no código 9007.2 da NCM, e suas partes e acessórios, classificados no código 9007.9 da NCM. (Redação dada pela Lei nº 12.599, de 2012)\n\nXXII - produtos classificados nos códigos 8443.32.22, 8469.00.39 Ex 01, 8714.20.00, 9021.40.00, 9021.90.82 e 9021.90.92, todos da Tipi; (Incluído pela Lei nº 12.649, de 2012)\n\nXXIII - calculadoras equipadas com sintetizador de voz classificadas no código 8470.10.00 Ex 01 da Tipi; (Incluído pela Lei nº 12.649, de 2012)\n\nXXIV - teclados com adaptações específicas para uso por pessoas com deficiência, classificados no código 8471.60.52 da Tipi; (Incluído pela Lei nº 12.649, de 2012)\n\nXXV - indicador ou apontador - mouse - com adaptações específicas para uso por pessoas com deficiência, classificado no código 8471.60.53 da Tipi; (Incluído pela Lei nº 12.649, de 2012)\n\nXXVI - linhas braile classificadas no código 8471.60.90 Ex 01 da Tipi; (Incluído pela Lei nº 12.649, de 2012)\n\nXXVII - digitalizadores de imagens - scanners - equipados com sintetizador de voz classificados no código 8471.90.14 Ex 01 da Tipi; (Incluído pela Lei nº 12.649, de 2012)\n\nXXVIII - duplicadores braile classificados no código 8472.10.00 Ex 01 da Tipi; (Incluído pela Lei nº 12.649, de 2012)\n\nXXIX - acionadores de pressão classificados no código 8471.60.53 Ex 02 da Tipi; (Incluído pela Lei nº 12.649, de 2012)\n\nXXX - lupas eletrônicas do tipo utilizado por pessoas com deficiência visual classificadas no código 8525.80.19 Ex 01 da Tipi; (Incluído pela Lei nº 12.649, de 2012)\n\nXXXI - implantes cocleares classificados no código 9021.40.00 da Tipi; (Incluído pela Lei nº 12.649, de 2012)\n\nXXXII - próteses oculares classificadas no código 9021.39.80 da Tipi; (Incluído pela Lei nº 12.649, de 2012)\n\nXXXIII - programas - softwares - de leitores de tela que convertem texto em voz sintetizada para auxílio de pessoas com deficiência visual; (Incluído pela Lei nº 12.649, de 2012)\n\nXXXIV - aparelhos contendo programas - softwares - de leitores de tela que convertem texto em caracteres braile, para utilização de surdos-cegos; e (Incluído pela Lei nº 12.649, de 2012)\n\nXXXV - neuroestimuladores para tremor essencial/Parkinson, classificados no código 9021.90.19, e seus acessórios, classificados nos códigos 9018.90.99, 9021.90.91 e 9021.90.99, todos da Tipi. (Incluído pela Lei nº 12.649, de 2012)\n\nXXXVI – (VETADO) . (Incluído pela Lei nº 12.715, de 2012) Produção de efeito\n\nXXXVII - produtos classificados no Ex 01 do código 8503.00.90 da Tipi, exceto pás eólicas. (Redação dada pela Lei nº 13.169, de 2015) (Produção de efeito)\n\nParágrafo único. O Poder Executivo poderá regulamentar o disposto nos incisos IV, X e XIII a XXXV do caput. (Redação dada pela Lei nº 12.649, de 2012)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2028.%20Ficam%20reduzidas%20a%200%20%28zero%29%20as%20al%C3%ADquotas%20da%20contribui%C3%A7%C3%A3o%20para%20o%20PIS%2FPASEP%20e%20da%20COFINS%20incidentes%20sobre%20a%20receita%20bruta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. As disposições do art. 3º da Lei Complementar nº 70, de 30 de dezembro de 1991, do art. 5º da Lei nº 9.715, de 25 de novembro de 1998, e do art. 53 da Lei nº 9.532, de 10 de dezembro de 1997, alcançam também o comerciante atacadista. (Vide Lei Complementar nº 214, de 2025) Produção de efeitos",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2029.%20As%20disposi%C3%A7%C3%B5es%20do%20art.%203%C2%BA%20da%20Lei%20Complementar%20n%C2%BA%2070%2C%20de%2030%20de%20dezembro%20de%201991%2C%20do%20art.%205%C2%BA%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Considera-se aquisição, para fins do desconto do crédito previsto nos arts. 3º das Leis nº s 10.637, de 30 de dezembro de 2002, e 10.833, de 29 de dezembro de 2003, a versão de bens e direitos neles referidos, em decorrência de fusão, incorporação e cisão de pessoa jurídica domiciliada no País. (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 1º O disposto neste artigo aplica-se somente nas hipóteses em que fosse admitido o desconto do crédito pela pessoa jurídica fusionada, incorporada ou cindida.\n\n§ 2º Aplica-se o disposto neste artigo a partir da data de produção de efeitos do art. 3º das Leis nº s 10.637, de 30 de dezembro de 2002, e 10.833, de 29 de dezembro de 2003, conforme o caso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2030.%20Considera-se%20aquisi%C3%A7%C3%A3o%2C%20para%20fins%20do%20desconto%20do%20cr%C3%A9dito%20previsto%20nos%20arts.%203%C2%BA%20das%20Leis%20n%C2%BA%20s%2010.637%2C%20de%2030%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. É vedado, a partir do último dia do terceiro mês subseqüente ao da publicação desta Lei, o desconto de créditos apurados na forma do inciso III do § 1º do art. 3º das Leis nº s 10.637, de 30 de dezembro de 2002, e 10.833, de 29 de dezembro de 2003, relativos à depreciação ou amortização de bens e direitos de ativos imobilizados adquiridos até 30 de abril de 2004. (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 1º Poderão ser aproveitados os créditos referidos no inciso III do § 1º do art. 3º das Leis nº s 10.637, de 30 de dezembro de 2002, e 10.833, de 29 de dezembro de 2003, apurados sobre a depreciação ou amortização de bens e direitos de ativo imobilizado adquiridos a partir de 1º de maio.\n\n§ 2º O direito ao desconto de créditos de que trata o § 1º deste artigo não se aplica ao valor decorrente da reavaliação de bens e direitos do ativo permanente.\n\n§ 3º É também vedado, a partir da data a que se refere o caput, o crédito relativo a aluguel e contraprestação de arrendamento mercantil de bens que já tenham integrado o patrimônio da pessoa jurídica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2031.%20%C3%89%20vedado%2C%20a%20partir%20do%20%C3%BAltimo%20dia%20do%20terceiro%20m%C3%AAs%20subseq%C3%BCente%20ao%20da%20publica%C3%A7%C3%A3o%20desta%20Lei%2C%20o%20desconto%20de%20cr%C3%A9ditos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. O art. 41 da Lei nº 8.981, de 20 de janeiro de 1995, passa a vigorar com a seguinte redação:\n\n\"Art. 41. .....................................................................\n\n.....................................................................\n\n§ 6º As contribuições sociais incidentes sobre o faturamento ou receita bruta e sobre o valor das importações, pagas pela pessoa jurídica na aquisição de bens destinados ao ativo permanente, serão acrescidas ao custo de aquisição.\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2032.%20O%20art.%2041%20da%20Lei%20n%C2%BA%208.981%2C%20de%2020%20de%20janeiro%20de%201995%2C%20passa%20a%20vigorar%20com%20a%20seguinte%20reda%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. O art. 5º da Lei nº 9.826, de 23 de agosto de 1999, com a redação dada pela Lei nº 10.485, de 3 de julho de 2002, passa a vigorar com a seguinte redação:\n\n\"Art. 5º .....................................................................\n\n.....................................................................\n\n§ 6º O disposto neste artigo aplica-se, também, ao estabelecimento equiparado a industrial, de que trata o § 5º do art. 17 da Medida Provisória nº 2.189-49, de 23 de agosto de 2001.\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2033.%20O%20art.%205%C2%BA%20da%20Lei%20n%C2%BA%209.826%2C%20de%2023%20de%20agosto%20de%201999%2C%20com%20a%20reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. Os arts. 1º e 3º da Lei nº 10.147, de 21 de dezembro de 2000, com a redação dada pela Lei nº 10.548, de 13 de novembro de 2002, passam a vigorar com a seguinte redação: (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\n\"Art. 1º .....................................................................\n\nI – incidentes sobre a receita bruta decorrente da venda de:\n\na) produtos farmacêuticos classificados nas posições 30.01, 30.03, exceto no código 3003.90.56, 30.04, exceto no código 3004.90.46, nos itens 3002.10.1, 3002.10.2, 3002.10.3, 3002.20.1, 3002.20.2, 3006.30.1 e 3006.30.2 e nos códigos 3002.90.20, 3002.90.92, 3002.90.99, 3005.10.10, 3006.60.00: 2,1% (dois inteiros e um décimo por cento) e 9,9% (nove inteiros e nove décimos por cento);\n\nb) produtos de perfumaria, de toucador ou de higiene pessoal, classificados nas posições 33.03 a 33.07 e nos códigos 3401.11.90, 3401.20.10 e 96.03.21.00: 2,2% (dois inteiros e dois décimos por cento) e 10,3% (dez inteiros e três décimos por cento);\n\n.....................................................................\" (NR)\n\n\"Art. 3º .....................................................................\n\n.....................................................................\n\n§ 1º .....................................................................\n\nI - determinado mediante a aplicação das alíquotas estabelecidas na alínea a do inciso I do art. 1º desta Lei sobre a receita bruta decorrente da venda de medicamentos, sujeitas a prescrição médica e identificados por tarja vermelha ou preta, relacionados pelo Poder Executivo;\n\n.....................................................................\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2034.%20Os%20arts.%201%C2%BA%20e%203%C2%BA%20da%20Lei%20n%C2%BA%2010.147%2C%20de%2021%20de%20dezembro%20de%202000%2C%20com%20a%20reda%C3%A7%C3%A3o%20dada%20pela",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. O art. 3º da Lei nº 10.336, de 19 de dezembro de 2001, passa a vigorar com a seguinte redação:\n\n\"Art. 3º .....................................................................\n\n.....................................................................\n\n§ 3º A receita de comercialização dos gases propano, classificado no código 2711.12, butano, classificado no código 2711.13, todos da NCM, e a mistura desses gases, quando destinados à utilização como propelentes em embalagem tipo aerossol, não estão sujeitos à incidência da CIDE-Combustíveis até o limite quantitativo autorizado pela Agência Nacional do Petróleo e nas condições estabelecidas pela Secretaria da Receita Federal.\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2035.%20O%20art.%203%C2%BA%20da%20Lei%20n%C2%BA%2010.336%2C%20de%2019%20de%20dezembro%20de%202001%2C%20passa%20a%20vigorar%20com%20a%20seguinte%20reda%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Os arts. 1º , 3º e 5º da Lei nº 10.485, de 3 de julho de 2002, passam a vigorar com a seguinte redação: (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\n\"Art. 1º As pessoas jurídicas fabricantes e as importadoras de máquinas e veículos classificados nos códigos 84.29, 8432.40.00, 84.32.80.00, 8433.20, 8433.30.00, 8433.40.00, 8433.5, 87.01, 87.02, 87.03, 87.04, 87.05 e 87.06, da Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto nº 4.070, de 28 de dezembro de 2001, relativamente à receita bruta decorrente da venda desses produtos, ficam sujeitas ao pagamento da contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social - COFINS, às alíquotas de 2% (dois por cento) e 9,6% (nove inteiros e seis décimos por cento), respectivamente.\n\n.....................................................................\" (NR)\n\n\"Art. 3º As pessoas jurídicas fabricantes e os importadores, relativamente às vendas dos produtos relacionados nos Anexos I e II desta Lei, ficam sujeitos à incidência da contribuição para o PIS/PASEP e da COFINS às alíquotas de:\n\nI - 1,65% (um inteiro e sessenta e cinco centésimos por cento) e 7,6% (sete inteiros e seis décimos por cento), respectivamente, nas vendas para fabricante:\n\na) de veículos e máquinas relacionados no art. 1º desta Lei; ou\n\nb) de autopeças constantes dos Anexos I e II desta Lei, quando destinadas à fabricação de produtos neles relacionados;\n\nII - 2,3% (dois inteiros e três décimos por cento) e 10,8% (dez inteiros e oito décimos por cento), respectivamente, nas vendas para comerciante atacadista ou varejista ou para consumidores.\n\n§ 1º Fica o Poder Executivo autorizado, mediante decreto, a alterar a relação de produtos discriminados nesta Lei, inclusive em decorrência de modificações na codificação da TIPI.\n\n§ 2º Ficam reduzidas a 0% (zero por cento) as alíquotas da contribuição para o PIS/PASEP e da COFINS, relativamente à receita bruta auferida por comerciante atacadista ou varejista, com a venda dos produtos de que trata:\n\nI - o caput deste artigo; e\n\nII - o caput do art. 1º deste artigo, exceto quando auferida pelas pessoas jurídicas a que se refere o art. 17, § 5º , da Medida Provisória nº 2.189-49, de 23 de agosto de 2001.\n\n§ 3º Os pagamentos efetuados pela pessoa jurídica fabricante dos produtos relacionados no art. 1º desta Lei a pessoa jurídica fornecedora de autopeças, exceto pneumáticos e câmaras-de-ar, estão sujeitos à retenção na fonte da contribuição para o PIS/PASEP e da COFINS.\n\n§ 4º O valor a ser retido na forma do § 3º deste artigo constitui antecipação das contribuições devidas pelas pessoas jurídicas fornecedoras e será determinado mediante a aplicação, sobre a importância a pagar, do percentual de 0,5% (cinco décimos por cento) para a contribuição para o PIS/PASEP e 2,5% (dois inteiros e cinco décimos por cento) para a COFINS.\n\n§ 5º Os valores retidos deverão ser recolhidos ao Tesouro Nacional até o 3º (terceiro) dia útil da semana subseqüente àquela em que tiver ocorrido o pagamento à pessoa jurídica fornecedora de autopeças.\n\n§ 6º Na hipótese de a pessoa jurídica fabricante dos produtos relacionados no art. 1º desta Lei revender produtos constantes dos Anexos I e II desta Lei, serão aplicadas, sobre a receita auferida, as alíquotas previstas no inciso II do caput deste artigo.\" (NR)\n\n\"Art. 5º As pessoas jurídicas fabricantes e as importadoras dos produtos classificados nas posições 40.11 (pneus novos de borracha) e 40.13 (câmaras-de-ar de borracha), da TIPI, relativamente às vendas que fizerem, ficam sujeitas ao pagamento da contribuição para o PIS/PASEP e da COFINS às alíquotas de 2% (dois por cento) e 9,5% (nove inteiros e cinco décimos por cento), respectivamente.\n\n.....................................................................\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2036.%20Os%20arts.%201%C2%BA%20%2C%203%C2%BA%20e%205%C2%BA%20da%20Lei%20n%C2%BA%2010.485%2C%20de%203%20de%20julho%20de%202002%2C%20passam%20a%20vigorar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Os arts. 1º , 2º , 3º , 5º , 5º A e 11 da Lei nº 10.637, de 30 de dezembro de 2002, passam a vigorar com a seguinte redação: (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\n\"Art. 1º .....................................................................\n\n.....................................................................\n\n§ 3º .....................................................................\n\n.....................................................................\n\nIV - de venda de álcool para fins carburantes;\n\n.....................................................................\" (NR)\n\n\"Art. 2º .....................................................................\n\n§ 1º Excetua-se do disposto no caput a receita bruta auferida pelos produtores ou importadores, que devem aplicar as alíquotas previstas:\n\nI - nos incisos I a III do art. 4º da Lei nº 9.718, de 27 de novembro de 1998, e alterações posteriores, no caso de venda de gasolinas, exceto gasolina de aviação, óleo diesel e gás liquefeito de petróleo (GLP) derivado de petróleo e gás natural;\n\nII - no inciso I do art. 1º da Lei nº 10.147, de 21 de dezembro de 2000, e alterações posteriores, no caso de venda de produtos farmacêuticos, de perfumaria, de toucador ou de higiene pessoal nele relacionados;\n\nIII - no art. 1º da Lei nº 10.485, de 3 de julho de 2002, e alterações posteriores, no caso de venda de máquinas e veículos classificados nos códigos 84.29, 8432.40.00, 84.32.80.00, 8433.20, 8433.30.00, 8433.40.00, 8433.5, 87.01, 87.02, 87.03, 87.04, 87.05 e 87.06, da TIPI;\n\nIV - no inciso II do art. 3º da Lei nº 10.485, de 3 de julho de 2002, no caso de vendas para comerciante atacadista ou varejista ou para consumidores, de autopeças relacionadas nos Anexos I e II da mesma Lei;\n\nV - no caput do art. 5º da Lei nº 10.485, de 3 de julho de 2002, e alterações posteriores, no caso de venda dos produtos classificados nas posições 40.11 (pneus novos de borracha) e 40.13 (câmaras-de-ar de borracha), da TIPI;\n\nVI - no art. 2º da Lei nº 10.560, de 13 de novembro de 2002, e alterações posteriores, no caso de venda de querosene de aviação;\n\nVII - no art. 51 da Lei nº 10.833, de 29 de dezembro de 2003, e alterações posteriores, no caso de venda das embalagens nele previstas, destinadas ao envasamento de água, refrigerante e cerveja classificados nos códigos 22.01, 22.02 e 22.03, todos da TIPI; e\n\nVIII - no art. 49 da Lei nº 10.833, de 29 de dezembro de 2003, e alterações posteriores, no caso de venda de refrigerante, cerveja e preparações compostas classificados nos códigos 2202, 2203 e 2106.90.10 Ex 02, todos da TIPI.\n\n§ 2º Excetua-se do disposto no caput deste artigo a receita bruta decorrente da venda de papel imune a impostos de que trata o art. 150, inciso VI, alínea d, da Constituição Federal, quando destinado à impressão de periódicos, que fica sujeita à alíquota de 0,8% (oito décimos por cento).\n\n§ 3º Fica o Poder Executivo autorizado a reduzir a 0 (zero) e a restabelecer a alíquota incidente sobre receita bruta decorrente da venda de produtos químicos e farmacêuticos, classificados nos Capítulos 29 e 30, sobre produtos destinados ao uso em laboratório de anatomia patológica, citológica ou de análises clínicas, classificados nas posições 30.02, 30.06, 39.26, 40.15 e 90.18, e sobre semens e embriões da posição 05.11, todos da TIPI.\" (NR)\n\n\"Art. 3º .....................................................................\n\nI - bens adquiridos para revenda, exceto em relação às mercadorias e aos produtos referidos:\n\na) nos incisos III e IV do § 3º do art. 1º desta Lei; e\n\nb) no § 1º do art. 2º desta Lei;\n\nII - bens e serviços, utilizados como insumo na prestação de serviços e na produção ou fabricação de bens ou produtos destinados à venda, inclusive combustíveis e lubrificantes, exceto em relação ao pagamento de que trata o art. 2º da Lei nº 10.485, de 3 de julho de 2002, devido pelo fabricante ou importador, ao concessionário, pela intermediação ou entrega dos veículos classificados nas posições 87.03 e 87.04 da TIPI;\n\n.....................................................................\n\nV - valor das contraprestações de operações de arrendamento mercantil de pessoa jurídica, exceto de optante pelo Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte - SIMPLES;\n\n.....................................................................\n\n§ 1º O crédito será determinado mediante a aplicação da alíquota prevista no caput do art. 2º desta Lei sobre o valor:\n\n.....................................................................\n\n§ 2º Não dará direito a crédito o valor:\n\nI - de mão-de-obra paga a pessoa física; e\n\nII - da aquisição de bens ou serviços não sujeitos ao pagamento da contribuição, inclusive no caso de isenção, esse último quando revendidos ou utilizados como insumo em produtos ou serviços sujeitos à alíquota 0 (zero), isentos ou não alcançados pela contribuição.\n\n.....................................................................\" (NR)\n\n\"Art. 5º .....................................................................\n\n.....................................................................\n\nII - prestação de serviços para pessoa física ou jurídica residente ou domiciliada no exterior, cujo pagamento represente ingresso de divisas;\n\n.....................................................................\" (NR)\n\n\"Art. 5º A Ficam reduzidas a 0 (zero) as alíquotas da contribuição para o PIS/PASEP e da COFINS incidentes sobre as receitas decorrentes da comercialização de matérias-primas, produtos intermediários e materiais de embalagem, produzidos na Zona Franca de Manaus para emprego em processo de industrialização por estabelecimentos industriais ali instalados e consoante projetos aprovados pelo Conselho de Administração da Superintendência da Zona Franca de Manaus – SUFRAMA.\" (NR)\n\n\"Art. 11. .....................................................................\n\n.....................................................................\n\n§ 2º O crédito presumido calculado segundo os §§ 1º e 7º será utilizado em 12 (doze) parcelas mensais, iguais e sucessivas, a partir da data a que se refere o caput deste artigo.\n\n.....................................................................\n\n§ 5º O disposto neste artigo aplica-se, também, aos estoques de produtos que não geraram crédito na aquisição, em decorrência do disposto nos §§ 7º a 9º do art. 3º desta Lei, destinados à fabricação dos produtos de que tratam as Leis nº s 9.990, de 21 de julho de 2000, 10.147, 21 de dezembro de 2000, 10.485, de 3 de julho de 2002, e 10.560, de 13 de novembro de 2002, ou quaisquer outros submetidos à incidência monofásica da contribuição.\n\n§ 6º As disposições do § 5º não se aplicam aos estoques de produtos adquiridos a alíquota 0 (zero), isentos ou não alcançados pela incidência da contribuição.\n\n§ 7º O montante de crédito presumido de que trata o § 5º deste artigo será igual ao resultado da aplicação do percentual de 1,65% (um inteiro e sessenta e cinco centésimos por cento) sobre o valor do estoque, inclusive para as pessoas jurídicas fabricantes dos produtos referidos no parágrafo único do art. 56 da Lei nº 10.833, de 29 de dezembro de 2003.\" (NR)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2037.%20Os%20arts.%201%C2%BA%20%2C%202%C2%BA%20%2C%203%C2%BA%20%2C%205%C2%BA%20%2C%205%C2%BA%20A%20e%2011%20da%20Lei%20n%C2%BA%2010.637%2C%20de%2030",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. A incidência da contribuição para o PIS/PASEP e da COFINS fica suspensa no caso de venda a pessoa jurídica sediada no exterior, com contrato de entrega no território nacional, de insumos destinados à industrialização, por conta e ordem da encomendante sediada no exterior, de máquinas e veículos classificados nas posições 87.01 a 87.05 da TIPI. (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 1º Consideram-se insumos, para os fins deste artigo, os chassis, as carroçarias, as peças, as partes, os componentes e os acessórios.\n\n§ 2º Na hipótese de os produtos resultantes da industrialização por encomenda serem destinados:\n\nI - ao exterior, resolve-se a suspensão das referidas contribuições; ou\n\nII - ao mercado interno, serão remetidos obrigatoriamente à pessoa jurídica a que se refere o § 5º do art. 17 da Medida Provisória nº 2.189-49, de 23 de agosto de 2001, por conta e ordem da pessoa jurídica domiciliada no exterior, com suspensão da contribuição para o PIS/PASEP e da COFINS.\n\n§ 3º A utilização do benefício da suspensão de que trata este artigo obedecerá ao disposto no § 6º do art. 17 da Medida Provisória nº 2.189-49, de 23 de agosto de 2001.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2038.%20A%20incid%C3%AAncia%20da%20contribui%C3%A7%C3%A3o%20para%20o%20PIS%2FPASEP%20e%20da%20COFINS%20fica%20suspensa%20no%20caso%20de%20venda%20a%20pessoa%20jur%C3%ADdica%20sediada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. As sociedades cooperativas que obedecerem ao disposto na legislação específica, relativamente aos atos cooperativos, ficam isentas da Contribuição Social sobre o Lucro Líquido - CSLL. (Vide art.48 da Lei nº 10.865, de 2004)\n\nParágrafo único. O disposto no caput deste artigo não se aplica às sociedades cooperativas de consumo de que trata o art. 69 da Lei nº 9.532, de 10 de dezembro de 1997.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2039.%20As%20sociedades%20cooperativas%20que%20obedecerem%20ao%20disposto%20na%20legisla%C3%A7%C3%A3o%20espec%C3%ADfica%2C%20relativamente%20aos%20atos%20cooperativos%2C%20ficam%20isentas%20da%20Contribui%C3%A7%C3%A3o%20Social%20sobre",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. A incidência da contribuição para o PIS/PASEP e da COFINS ficará suspensa no caso de venda de matérias-primas, produtos intermediários e materiais de embalagem destinados a pessoa jurídica preponderantemente exportadora. (Redação dada pela Lei nº 10.925, de 2004) (Vigência) (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 1º Para fins do disposto no caput , considera-se pessoa jurídica preponderantemente exportadora aquela cuja receita bruta decorrente de exportação para o exterior, no ano-calendário imediatamente anterior ao da aquisição, houver sido igual ou superior a 50% (cinquenta por cento) de sua receita bruta total de venda de bens e serviços no mesmo período, após excluídos os impostos e contribuições incidentes sobre a venda. (Redação dada pela Lei nº 12.715, de 2012)\n\n§ 2º Nas notas fiscais relativas à venda de que trata o caput deste artigo, deverá constar a expressão \"Saída com suspensão da contribuição para o PIS/PASEP e da COFINS\", com a especificação do dispositivo legal correspondente.\n\n§ 3º A suspensão das contribuições não impede a manutenção e a utilização dos créditos pelo respectivo estabelecimento industrial, fabricante das referidas matérias-primas, produtos intermediários e materiais de embalagem.\n\n§ 4º Para os fins do disposto neste artigo, as empresas adquirentes deverão:\n\nI - atender aos termos e às condições estabelecidos pela Secretaria da Receita Federal; e\n\nII - declarar ao vendedor, de forma expressa e sob as penas da lei, que atende a todos os requisitos estabelecidos.\n\n§ 5º A pessoa jurídica que, após adquirir matérias-primas, produtos intermediários e materiais de embalagem com o benefício da suspensão de que trata este artigo, der-lhes destinação diversa de exportação, fica obrigada a recolher as contribuições não pagas pelo fornecedor, acrescidas de juros e multa de mora, ou de ofício, conforme o caso, contados a partir da data da aquisição. (Incluído pela Lei nº 11.051, de 2004)\n\n§ 6º As disposições deste artigo aplicam-se à Contribuição para o PIS/Pasep-Importação e à Cofins-Importação incidentes sobre os produtos de que trata o caput deste artigo. (Incluído pela Lei nº 11.482, de 2007)\n\n§ 6º-A. A suspensão de que trata este artigo alcança as receitas de frete, bem como as receitas auferidas pelo operador de transporte multimodal, relativas a frete contratado pela pessoa jurídica preponderantemente exportadora no mercado interno para o transporte dentro do território nacional de: (Redação dada pela Lei nº 11.774, de 2008)\n\nI - matérias-primas, produtos intermediários e materiais de embalagem adquiridos na forma deste artigo; e (Incluído pela Lei nº 11.488, de 2007)\n\nII - produtos destinados à exportação pela pessoa jurídica preponderantemente exportadora. (Incluído pela Lei nº 11.488, de 2007)\n\n§ 7º Para fins do disposto no inciso II do § 6º-A deste artigo, o frete deverá referir-se ao transporte dos produtos até o ponto de saída do território nacional. (Incluído pela Lei nº 11.488, de 2007)\n\n§ 8º O disposto no inciso II do § 6º-A deste artigo aplica-se também na hipótese de vendas a empresa comercial exportadora, com fim específico de exportação. (Incluído pela Lei nº 11.488, de 2007)\n\n§ 9º Deverá constar da nota fiscal a indicação de que o produto transportado destina-se à exportação ou à formação de lote com a finalidade de exportação, condição a ser comprovada mediante o Registro de Exportação - RE. (Incluído pela Lei nº 11.488, de 2007)\n\n§ 10. (Revogado pela Lei nº 12.712, de 2012)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2040.%20A%20incid%C3%AAncia%20da%20contribui%C3%A7%C3%A3o%20para%20o%20PIS%2FPASEP%20e%20da%20COFINS%20ficar%C3%A1%20suspensa%20no%20caso%20de%20venda%20de%20mat%C3%A9rias-primas%2C%20produtos%20intermedi%C3%A1rios",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "40-A"
+    },
+    "40-A": {
+      "numero": "40-A",
+      "texto": "Art. 40-A. A suspensão de incidência da Contribuição para o PIS/Pasep e da Cofins de que trata o art. 40 desta Lei aplica-se também à venda de matérias-primas, produtos intermediários e materiais de embalagem destinados a pessoa jurídica fabricante dos produtos referidos no inciso XI do caput do art. 28 desta Lei, quando destinados a órgãos e entidades da administração pública direta. (Incluído pela Lei nº 11.727, de 2008) (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 1º A pessoa jurídica que, após adquirir matérias-primas, produtos intermediários e materiais de embalagem com o benefício da suspensão de que trata este artigo, lhes der destinação diversa de venda a órgãos e entidades da administração pública direta fica obrigada a recolher as contribuições não pagas, acrescidas de juros e multa de mora ou de ofício, conforme o caso, contados a partir da data da aquisição. (Incluído pela Lei nº 11.727, de 2008)\n\n§ 2º Da nota fiscal constará a indicação de que o produto transportado destina-se à venda a órgãos e entidades da administração pública direta, no caso de produtos referidos no inciso XI do caput do art. 28 desta Lei. (Incluído pela Lei nº 11.727, de 2008)\n\n§ 3º Aplicam-se ainda ao disposto neste artigo os §§ 3º , 4º e 6º do art. 40 desta Lei. (Incluído pela Lei nº 11.727, de 2008)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2040-A.%20A%20suspens%C3%A3o%20de%20incid%C3%AAncia%20da%20Contribui%C3%A7%C3%A3o%20para%20o%20PIS%2FPasep%20e%20da%20Cofins%20de%20que%20trata%20o%20art.%2040%20desta%20Lei",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. Ficam incluídos no campo de incidência do Imposto sobre Produtos Industrializados - IPI, tributados à alíquota de 30% (trinta por cento), os produtos relacionados na subposição 2401.20 da TIPI. (Redação dada pela Lei nº 11.452, de 2007)\n\n§ 1º A incidência do imposto independe da forma de apresentação, acondicionamento, estado ou peso do produto. (Redação dada pela Lei nº 11.452, de 2007)\n\n§ 2º (Revogado). (Redação dada pela Lei nº 11.452, de 2007)\n\n§ 3º (Revogado). (Redação dada pela Lei nº 11.452, de 2007)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2041.%20Ficam%20inclu%C3%ADdos%20no%20campo%20de%20incid%C3%AAncia%20do%20Imposto%20sobre%20Produtos%20Industrializados%20-%20IPI%2C%20tributados%20%C3%A0%20al%C3%ADquota%20de%2030%25%20%28trinta%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40-A",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. Opcionalmente, as pessoas jurídicas tributadas pelo lucro real que aufiram receitas de venda dos produtos de que tratam os §§ 1º a 3º e 5º a 9º do art. 8º desta Lei poderão adotar, antecipadamente, o regime de incidência não-cumulativa da contribuição para o PIS/PASEP e da COFINS. (Vide Lei nº 10.925, de 2004) (Vigência) (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\n\n§ 1º A opção será exercida até o dia 31 de maio de 2004, de acordo com as normas e condições estabelecidas pela Secretaria da Receita Federal, produzindo efeitos em relação aos fatos geradores ocorridos a partir do dia 1º de maio de 2004.\n\n§ 2º Não se aplicam as disposições dos arts. 45 e 46 desta Lei às pessoas jurídicas que efetuarem a opção na forma do caput des (Redação dada pela Lei nº 10.925, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2042.%20Opcionalmente%2C%20as%20pessoas%20jur%C3%ADdicas%20tributadas%20pelo%20lucro%20real%20que%20aufiram%20receitas%20de%20venda%20dos%20produtos%20de%20que%20tratam%20os%20%C2%A7%C2%A7",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. (Revogado pela Lei nº 10.999, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2043.%20%28Revogado%20pela%20Lei%20n%C2%BA%2010.999%2C%20de%202004%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. Fica revogado o § 4º do art. 1º da Lei nº 10.147, de 21 de dezembro de 2000, alterado pela Lei nº 10.548, de 13 de novembro de 2002.\n\n§ 1º Os efeitos da revogação de que trata o caput dar-se-ão a partir do 4º (quarto) mês subseqüente ao de publicação desta Lei.\n\n§ 2º (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2044.%20Fica%20revogado%20o%20%C2%A7%204%C2%BA%20do%20art.%201%C2%BA%20da%20Lei%20n%C2%BA%2010.147%2C%20de%2021%20de%20dezembro%20de%202000%2C%20alterado%20pela",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. Produzem efeitos a partir do primeiro dia do 4º (quarto) mês subseqüente ao de publicação desta Lei, quanto às alterações efetuadas em relação à Medida Provisória nº 164, de 29 de janeiro de 2004, as disposições constantes desta Lei:\n\nI - nos §§ 1º a 3º , 5º , 8º e 9º do art. 8º ;\n\nII - no art. 16;\n\nIII - no art. 17; e\n\nIV - no art. 22.\n\nParágrafo único. As disposições de que tratam os incisos I a IV do caput deste artigo, na redação original da Medida Provisória nº 164, de 29 de janeiro de 2004, produzem efeitos a partir de 1º de maio de 2004.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2045.%20Produzem%20efeitos%20a%20partir%20do%20primeiro%20dia%20do%204%C2%BA%20%28quarto%29%20m%C3%AAs%20subseq%C3%BCente%20ao%20de%20publica%C3%A7%C3%A3o%20desta%20Lei%2C%20quanto%20%C3%A0s%20altera%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. Produz efeitos a partir do 1º (primeiro) dia do 4º (quarto) mês subseqüente ao de publicação desta Lei o disposto:\n\nI - nos arts. 1º , 12, 50 e art. 51, incisos II e IV, da Lei nº 10.833, de 29 de dezembro de 2003, com a redação dada pelo art. 21 desta Lei;\n\nII - nos arts. 1º e 3º da Lei nº 10.147, de 21 de dezembro de 2000, com a redação dada pelo art. 34 desta Lei;\n\nIII – nos arts. 1º , 3º e 5º da Lei nº 10.485, de 3 de julho de 2002, com a redação dada pelo art. 36 desta Lei, observado o disposto no art. 47; e\n\nIV – nos arts. 1º , 2º , 3º e 11 da Lei nº 10.637, de 30 de dezembro de 2002, com a redação dada pelo art. 37 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2046.%20Produz%20efeitos%20a%20partir%20do%201%C2%BA%20%28primeiro%29%20dia%20do%204%C2%BA%20%28quarto%29%20m%C3%AAs%20subseq%C3%BCente%20ao%20de%20publica%C3%A7%C3%A3o%20desta%20Lei%20o%20disposto%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. O disposto nos §§ 3º a 5º do art. 3º da Lei nº 10.485, de 3 de julho de 2002, com a redação dada por esta Lei, produz efeitos a partir do 1º (primeiro) dia do 3º (terceiro) mês subseqüente ao de publicação desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2047.%20O%20disposto%20nos%20%C2%A7%C2%A7%203%C2%BA%20a%205%C2%BA%20do%20art.%203%C2%BA%20da%20Lei%20n%C2%BA%2010.485%2C%20de%203%20de%20julho%20de%202002%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. Produz efeitos a partir de 1º de janeiro de 2005 o disposto no art. 39 desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2048.%20Produz%20efeitos%20a%20partir%20de%201%C2%BA%20de%20janeiro%20de%202005%20o%20disposto%20no%20art.%2039%20desta%20Lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. Os arts. 55 a 58 da Lei nº 10.833, de 29 de dezembro de 2003, produzem efeitos a partir de 1º de fevereiro de 2004, relativamente à hipótese de que trata o seu art. 52.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2049.%20Os%20arts.%2055%20a%2058%20da%20Lei%20n%C2%BA%2010.833%2C%20de%2029%20de%20dezembro%20de%202003%2C%20produzem%20efeitos%20a%20partir%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. Os arts. 49 e 51 da Lei nº 10.833, de 29 de dezembro de 2003, em relação às alterações introduzidas pelo art. 21 desta Lei, produzem efeitos a partir de 1º de maio de 2004.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2050.%20Os%20arts.%2049%20e%2051%20da%20Lei%20n%C2%BA%2010.833%2C%20de%2029%20de%20dezembro%20de%202003%2C%20em%20rela%C3%A7%C3%A3o%20%C3%A0s%20altera%C3%A7%C3%B5es%20introduzidas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. O disposto no art. 53 da Lei nº 10.833, de 29 de dezembro de 2003, com a alteração introduzida pelo art. 21 desta Lei, produz efeito a partir de 29 de janeiro de 2004.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2051.%20O%20disposto%20no%20art.%2053%20da%20Lei%20n%C2%BA%2010.833%2C%20de%2029%20de%20dezembro%20de%202003%2C%20com%20a%20altera%C3%A7%C3%A3o%20introduzida%20pelo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. Excepcionalmente para o ano-calendário de 2004, a opção pelo regime especial de que trata o art. 52 da Lei nº 10.833, de 29 de dezembro de 2003, poderá ser exercida até o último dia útil do mês subseqüente ao da publicação desta Lei, produzindo efeitos, de forma irretratável, a partir do mês subseqüente ao da opção, até 31 de dezembro de 2004.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2052.%20Excepcionalmente%20para%20o%20ano-calend%C3%A1rio%20de%202004%2C%20a%20op%C3%A7%C3%A3o%20pelo%20regime%20especial%20de%20que%20trata%20o%20art.%2052%20da%20Lei%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. Esta Lei entra em vigor na data de sua publicação, produzindo efeitos a partir do dia 1º de maio de 2004, ressalvadas as disposições contidas nos artigos anteriores.\n\nBrasília, 30 de abril de 2004; 183º da Independência e 116º da República.\n\nLUIZ INÁCIO LULA DA SILVA Antonio Palocci Filho\n\nEste texto não substitui o publicado no DOU de 30.4.2004 - Edição extra\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865compilado.htm#:~:text=Art.%2053.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o%2C%20produzindo%20efeitos%20a%20partir%20do%20dia%201%C2%BA%20de%20maio%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "XII",
+        "chapter_name": "CAPÍTULO XII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "52",
+      "next": null
+    }
+  }
+}

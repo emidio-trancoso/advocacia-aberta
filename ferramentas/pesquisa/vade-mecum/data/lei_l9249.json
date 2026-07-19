@@ -1,0 +1,607 @@
+{
+  "_meta": {
+    "codigo": "L9249",
+    "nome": "IRPJ/CSLL – Regras centrais (JCP, bases e limites)",
+    "lei": "Lei 9.249/1995",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm",
+    "total_artigos": 37,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º As bases de cálculo e o valor dos tributos e contribuições federais serão expressos em Reais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%201%C2%BA%20As%20bases%20de%20c%C3%A1lculo%20e%20o%20valor%20dos%20tributos%20e%20contribui%C3%A7%C3%B5es%20federais%20ser%C3%A3o%20expressos%20em%20Reais.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º O imposto de renda das pessoas jurídicas e a contribuição social sobre o lucro líquido serão determinados segundo as normas da legislação vigente, com as alterações desta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%202%C2%BA%20O%20imposto%20de%20renda%20das%20pessoas%20jur%C3%ADdicas%20e%20a%20contribui%C3%A7%C3%A3o%20social%20sobre%20o%20lucro%20l%C3%ADquido%20ser%C3%A3o%20determinados%20segundo%20as%20normas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º A alíquota do imposto de renda das pessoas jurídicas é de quinze por cento.\n\n§ 1º A parcela do lucro real, presumido ou arbitrado, apurado anualmente, que exceder a R$ 240.000,00 (duzentos e quarenta mil reais), sujeita-se à incidência de adicional de imposto de renda à alíquota de dez por cento.\n\n§ 1º A parcela do lucro real, presumido ou arbitrado, que exceder o valor resultante da multiplicação de R$ 20.000,00 (vinte mil reais) pelo número de meses do respectivo período de apuração, sujeita-se à incidência de adicional de imposto de renda à alíquota de dez por cento. (Redação dada pela Lei 9.430, de 1996)\n\n§ 2º O limite previsto no parágrafo anterior será proporcional ao número de meses transcorridos, quando o período de apuração for inferior a doze meses.\n\n§ 2º O disposto no parágrafo anterior aplica-se, inclusive, nos casos de incorporação, fusão ou cisão e de extinção da pessoa jurídica pelo encerramento da liquidação. (Redação dada pela Lei 9.430, de 1996)\n\n§ 3º O disposto neste artigo aplica-se, inclusive, à pessoa jurídica que explore atividade rural de que trata a Lei nº 8.023, de 12 de abril de 1990.\n\n§ 4º O valor do adicional será recolhido integralmente, não sendo permitidas quaisquer deduções. (Vide Lei nº 12.761, de 2012)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%203%C2%BA%20A%20al%C3%ADquota%20do%20imposto%20de%20renda%20das%20pessoas%20jur%C3%ADdicas%20%C3%A9%20de%20quinze%20por%20cento.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Fica revogada a correção monetária das demonstrações financeiras de que tratam a Lei nº 7.799, de 10 de julho de 1989, e o art. 1º da Lei nº 8.200, de 28 de junho de 1991.\n\nParágrafo único. Fica vedada a utilização de qualquer sistema de correção monetária de demonstrações financeiras, inclusive para fins societários.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%204%C2%BA%20Fica%20revogada%20a%20corre%C3%A7%C3%A3o%20monet%C3%A1ria%20das%20demonstra%C3%A7%C3%B5es%20financeiras%20de%20que%20tratam%20a%20Lei%20n%C2%BA%207.799%2C%20de%2010%20de%20julho%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º O inciso IV do art. 187 da Lei nº 6.404, de 15 de dezembro de 1976, passa a vigorar com a seguinte redação:\n\n\"Art.187.................................................................\n\nIV - o lucro ou prejuízo operacional, as receitas e despesas não operacionais;\n\n............................................................................\"",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%205%C2%BA%20O%20inciso%20IV%20do%20art.%20187%20da%20Lei%20n%C2%BA%206.404%2C%20de%2015%20de%20dezembro%20de%201976%2C%20passa%20a%20vigorar%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Os valores controlados na parte \"B\" do Livro de Apuração do Lucro Real, existentes em 31 de dezembro de 1995, somente serão corrigidos monetariamente até essa data, observada a legislação então vigente, ainda que venham a ser adicionados, excluídos ou compensados em períodos-base posteriores.\n\nParágrafo único. A correção dos valores referidos neste artigo será efetuada tomando-se por base o valor da UFIR vigente em 1º de janeiro de 1996.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%206%C2%BA%20Os%20valores%20controlados%20na%20parte%20%22B%22%20do%20Livro%20de%20Apura%C3%A7%C3%A3o%20do%20Lucro%20Real%2C%20existentes%20em%2031%20de%20dezembro%20de%201995%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º O saldo do lucro inflacionário acumulado, remanescente em 31 de dezembro de 1995, corrigido monetariamente até essa data, será realizado de acordo com as regras da legislação então vigente.\n\n§ 1º Para fins do cálculo do lucro inflacionário realizado nos períodos-base posteriores, os valores dos ativos que estavam sujeitos a correção monetária, existentes em 31 de dezembro de 1995, deverão ser registrados destacadamente na contabilidade da pessoa jurídica.\n\n§ 2º O disposto no parágrafo único do art. 6º aplica-se à correção dos valores de que trata este artigo.\n\n§ 3º À opção da pessoa jurídica, o lucro inflacionário acumulado existente em 31 de dezembro de 1995, corrigido monetariamente até essa data, com base no parágrafo único do art. 6º, poderá ser considerado realizado integralmente e tributado à alíquota de dez por cento.\n\n§ 4º A opção de que trata o parágrafo anterior, que deverá ser feita até 31 de dezembro de 1996, será irretratável e manifestada através do pagamento do imposto em cota única, podendo alcançar também o saldo do lucro inflacionário a realizar relativo à opção prevista no art. 31 da Lei nº 8.541, de 23 de dezembro de 1992.\n\n§ 5º O imposto de que trata o § 3º será considerado como de tributação exclusiva.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%207%C2%BA%20O%20saldo%20do%20lucro%20inflacion%C3%A1rio%20acumulado%2C%20remanescente%20em%2031%20de%20dezembro%20de%201995%2C%20corrigido%20monetariamente%20at%C3%A9%20essa%20data%2C%20ser%C3%A1%20realizado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Permanecem em vigor as normas aplicáveis às contrapartidas de variações monetárias dos direitos de crédito e das obrigações do contribuinte em função da taxa de câmbio ou de índices ou coeficientes aplicáveis por disposição legal ou contratual.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%208%C2%BA%20Permanecem%20em%20vigor%20as%20normas%20aplic%C3%A1veis%20%C3%A0s%20contrapartidas%20de%20varia%C3%A7%C3%B5es%20monet%C3%A1rias%20dos%20direitos%20de%20cr%C3%A9dito%20e%20das%20obriga%C3%A7%C3%B5es%20do%20contribuinte",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º A pessoa jurídica poderá deduzir, para efeitos da apuração do lucro real, os juros pagos ou creditados individualizadamente a titular, sócios ou acionistas, a título de remuneração do capital próprio, calculados sobre as contas do patrimônio líquido e limitados à variação, pro rata dia, da Taxa de Juros de Longo Prazo - TJLP.\n\n' Art. 9º A pessoa jurídica poderá deduzir, para efeitos da apuração do lucro real, os juros pagos ou creditados individualizadamente a titular, sócios ou acionistas, a título de remuneração do capital próprio, calculados sobre as contas do patrimônio líquido e limitados, pro rata die, à Taxa de Juros de Longo Prazo - TJLP ou a cinco por cento ao ano, o que for menor. (Redação dada pela Medida Provisória nº 694, de 2015) (Produção de efeitos) (Vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%209%C2%BA%20A%20pessoa%20jur%C3%ADdica%20poder%C3%A1%20deduzir%2C%20para%20efeitos%20da%20apura%C3%A7%C3%A3o%20do%20lucro%20real%2C%20os%20juros%20pagos%20ou%20creditados%20individualizadamente%20a%20titular%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Os lucros ou dividendos calculados com base nos resultados apurados a partir do mês de janeiro de 1996, pagos ou creditados pelas pessoas jurídicas tributadas com base no lucro real, presumido ou arbitrado, não ficarão sujeitos à incidência do imposto de renda na fonte, nem integrarão a base de cálculo do imposto de renda do beneficiário, pessoa física ou jurídica, domiciliado no País ou no exterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2010.%20Os%20lucros%20ou%20dividendos%20calculados%20com%20base%20nos%20resultados%20apurados%20a%20partir%20do%20m%C3%AAs%20de%20janeiro%20de%201996%2C%20pagos%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "10-A"
+    },
+    "10-A": {
+      "numero": "10-A",
+      "texto": "Art. 10-A. Caso se verifique que a soma da alíquota efetiva de tributação dos lucros da pessoa jurídica domiciliada no Brasil distribuidora dos lucros e dividendos com a alíquota prevista no § 4º do art. 10 desta Lei ultrapassa a soma das alíquotas nominais do imposto sobre a renda das pessoas jurídicas e da Contribuição Social sobre o Lucro Líquido (CSLL), será concedido, por opção do beneficiário residente ou domiciliado no exterior, crédito calculado sobre o montante de lucros e dividendos pagos, creditados, entregues, empregados ou remetidos que tenham sido tributados com fundamento no § 4º do art. 10 desta Lei. (Incluído pela Lei nº 15.270, de 2025) Produção de efeitos\n\n§ 1º O valor do crédito de que trata este artigo corresponderá ao resultado obtido por meio da multiplicação do montante dos lucros e dividendos pagos, creditados, entregues, empregados ou remetidos pela pessoa jurídica pela diferença entre: (Incluído pela Lei nº 15.270, de 2025) Produção de efeitos\n\nI - a alíquota efetiva de tributação dos lucros da pessoa jurídica, apurada nos termos do art. 16-B da Lei nº 9.250, de 26 de dezembro de 1995, acrescida de 10 (dez) pontos percentuais; e (Incluído pela Lei nº 15.270, de 2025) Produção de efeitos\n\nII - o percentual previsto nos incisos I, II e III do § 1º do art. 16-B da Lei nº 9.250, de 26 de dezembro de 1995. (Incluído pela Lei nº 15.270, de 2025) Produção de efeitos\n\n§ 2º O Poder Executivo regulamentará o modo pelo qual será formalizada a opção referida no caput deste artigo, bem como a maneira pela qual o residente ou o domiciliado no exterior pleiteará, em até 360 (trezentos e sessenta) dias, contados de cada exercício, o crédito de que trata este artigo. (Incluído pela Lei nº 15.270, de 2025) Produção de efeitos",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2010-A.%20Caso%20se%20verifique%20que%20a%20soma%20da%20al%C3%ADquota%20efetiva%20de%20tributa%C3%A7%C3%A3o%20dos%20lucros%20da%20pessoa%20jur%C3%ADdica%20domiciliada%20no%20Brasil%20distribuidora",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Os rendimentos produzidos por aplicação financeira de renda fixa, auferidos por qualquer beneficiário, inclusive pessoa jurídica isenta, sujeitam-se à incidência do imposto de renda à alíquota de quinze por cento. (Vide Medida Provisória nº 1.303, de 2025) Produção de efeitos Vigência encerrada\n\n§ 1º Os rendimentos de que trata este artigo serão apropriados pro rata tempore até 31 de dezembro de 1995 e tributados, no que se refere à parcela relativa a 1995, nos termos da legislação então vigente.\n\n§ 2º No caso de beneficiário pessoa jurídica tributada com base no lucro presumido ou arbitrado, os rendimentos de que trata este artigo, bem como os rendimentos de renda variável e os ganhos líquidos obtidos em bolsas, serão adicionados à base de cálculo de incidência do adicional previsto no § 1º do art. 3º. (Revogado pela Lei nº 9.430, de 1996)\n\n§ 3º O disposto neste artigo não elide as regras previstas nos arts. 76 e 77 da Lei nº 8.981, de 20 de janeiro de 1995.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2011.%20Os%20rendimentos%20produzidos%20por%20aplica%C3%A7%C3%A3o%20financeira%20de%20renda%20fixa%2C%20auferidos%20por%20qualquer%20benefici%C3%A1rio%2C%20inclusive%20pessoa%20jur%C3%ADdica%20isenta%2C%20sujeitam-se%20%C3%A0%20incid%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10-A",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. O inciso III do art. 77 da Lei nº 8.981, de 20 de janeiro de 1995, passa a vigorar com a seguinte redação: (Vide Medida Provisória nº 1.303, de 2025) Produção de efeitos Vigência encerrada\n\n\"Art.77.................................................................\n\nIII - nas operações de renda variável realizadas em bolsa, no mercado de balcão organizado, autorizado pelo órgão competente, ou através de fundos de investimento, para a carteira própria das entidades citadas no inciso I;\"F",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2012.%20O%20inciso%20III%20do%20art.%2077%20da%20Lei%20n%C2%BA%208.981%2C%20de%2020%20de%20janeiro%20de%201995%2C%20passa%20a%20vigorar%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Para efeito de apuração do lucro real e da base de cálculo da contribuição social sobre o lucro líquido, são vedadas as seguintes deduções, independentemente do disposto no art. 47 da Lei nº 4.506, de 30 de novembro de 1964:\n\nI - de qualquer provisão, exceto as constituídas para o pagamento de férias de empregados e de décimo-terceiro salário, a de que trata o art. 43 da Lei nº 8.981, de 20 de janeiro de 1995, com as alterações da Lei nº 9.065, de 20 de junho de 1995, e as provisões técnicas das companhias de seguro e de capitalização, bem como das entidades de previdência privada, cuja constituição é exigida pela legislação especial a elas aplicável; (Vide Lei 9.430, de 1996)\n\nII - das contraprestações de arrendamento mercantil e do aluguel de bens móveis ou imóveis, exceto quando relacionados intrinsecamente com a produção ou comercialização dos bens e serviços;\n\nIII - de despesas de depreciação, amortização, manutenção, reparo, conservação, impostos, taxas, seguros e quaisquer outros gastos com bens móveis ou imóveis, exceto se intrinsecamente relacionados com a produção ou comercialização dos bens e serviços;\n\nIV - das despesas com alimentação de sócios, acionistas e administradores;\n\nV - das contribuições não compulsórias, exceto as destinadas a custear seguros e planos de saúde, e benefícios complementares assemelhados aos da previdência social, instituídos em favor dos empregados e dirigentes da pessoa jurídica;\n\nVI - das doações, exceto as referidas no § 2º;\n\nVII - das despesas com brindes.\n\nVIII - de despesas de depreciação, amortização e exaustão geradas por bem objeto de arrendamento mercantil pela arrendatária, na hipótese em que esta reconheça contabilmente o encargo. (Incluído pela Lei nº 12.973, de 2014) (Vigência)\n\n§ 1º Admitir-se-ão como dedutíveis as despesas com alimentação fornecida pela pessoa jurídica, indistintamente, a todos os seus empregados.\n\n§ 2º Poderão ser deduzidas as seguintes doações:\n\nI - as de que trata a Lei nº 8.313, de 23 de dezembro de 1991;\n\nII - as efetuadas às instituições de ensino e pesquisa cuja criação tenha sido autorizada por lei federal e que preencham os requisitos dos incisos I e II do art. 213 da Constituição Federal, até o limite de um e meio por cento do lucro operacional, antes de computada a sua dedução e a de que trata o inciso seguinte;\n\nIII - as doações, até o limite de dois por cento do lucro operacional da pessoa jurídica, antes de computada a sua dedução, efetuadas a entidades civis, legalmente constituídas no Brasil, sem fins lucrativos, que prestem serviços gratuitos em benefício de empregados da pessoa jurídica doadora, e respectivos dependentes, ou em benefício da comunidade onde atuem, observadas as seguintes regras:\n\na) as doações, quando em dinheiro, serão feitas mediante crédito em conta corrente bancária diretamente em nome da entidade beneficiária;\n\nb) a pessoa jurídica doadora manterá em arquivo, à disposição da fiscalização, declaração, segundo modelo aprovado pela Secretaria da Receita Federal, fornecida pela entidade beneficiária, em que esta se compromete a aplicar integralmente os recursos recebidos na realização de seus objetivos sociais, com identificação da pessoa física responsável pelo seu cumprimento, e a não distribuir lucros, bonificações ou vantagens a dirigentes, mantenedores ou associados, sob nenhuma forma ou pretexto;\n\nc) a entidade civil beneficiária deverá ser reconhecida de utilidade pública por ato formal de órgão competente da União.\n\nc) a entidade beneficiária deverá ser organização da sociedade civil, conforme a Lei no 13.019, de 31 de julho de 2014, desde que cumpridos os requisitos previstos nos arts. 3o e 16 da Lei no 9.790, de 23 de março de 1999, independentemente de certificação. (Redação dada pela Lei nº 13.204, de 2015)\n\n§ 3º Para fins de interpretação, na forma do inciso I do caput do art. 106 da Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), e de apuração do lucro tributável da pessoa jurídica que atua na multiplicação de sementes, os limites de dedutibilidade previstos no art. 74 da Lei nº 3.470, de 28 de novembro de 1958, e no art. 12 da Lei nº 4.131, de 3 de setembro de 1962, não se aplicam aos casos de pagamentos ou de repasses efetuados a pessoa jurídica não ligada, nos termos do § 3º do art. 60 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, domiciliada no País, pela exploração ou pelo uso de tecnologia de transgenia ou de licença de cultivares por terceiros, dispensada a exigência de registro dos contratos referentes a essas operações nos órgãos de fiscalização ou nas agências reguladoras para esse fim específico. (Incluído pela Lei nº 14.689, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2013.%20Para%20efeito%20de%20apura%C3%A7%C3%A3o%20do%20lucro%20real%20e%20da%20base%20de%20c%C3%A1lculo%20da%20contribui%C3%A7%C3%A3o%20social%20sobre%20o%20lucro%20l%C3%ADquido%2C%20s%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Para efeito de apuração do lucro real, fica vedada a exclusão, do lucro líquido do exercício, do valor do lucro da exploração de atividades monopolizadas de que tratam o § 2º do art. 2º da Lei nº 6.264, de 18 de novembro de 1975, e o § 2º do art. 19 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, com a redação dada pelo Decreto-Lei nº 1.730, de 17 de outubro de 1979.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2014.%20Para%20efeito%20de%20apura%C3%A7%C3%A3o%20do%20lucro%20real%2C%20fica%20vedada%20a%20exclus%C3%A3o%2C%20do%20lucro%20l%C3%ADquido%20do%20exerc%C3%ADcio%2C%20do%20valor%20do%20lucro",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. A base de cálculo do imposto, em cada mês, será determinada mediante a aplicação do percentual de oito por cento sobre a receita bruta auferida mensalmente, observado o disposto nos arts. 30 a 35 da Lei nº 8.981, de 20 de janeiro de 1995. (Vide Lei nº 11.119, de 205)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2015.%20A%20base%20de%20c%C3%A1lculo%20do%20imposto%2C%20em%20cada%20m%C3%AAs%2C%20ser%C3%A1%20determinada%20mediante%20a%20aplica%C3%A7%C3%A3o%20do%20percentual%20de%20oito%20por%20cento",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. O lucro arbitrado das pessoas jurídicas será determinado mediante a aplicação, sobre a receita bruta, quando conhecida, dos percentuais fixados no art. 15, acrescidos de vinte por cento.\n\nParágrafo único. No caso das instituições a que se refere o inciso III do art. 36 da Lei nº 8.981, de 20 de janeiro de 1995, o percentual para determinação do lucro arbitrado será de quarenta e cinco por cento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2016.%20O%20lucro%20arbitrado%20das%20pessoas%20jur%C3%ADdicas%20ser%C3%A1%20determinado%20mediante%20a%20aplica%C3%A7%C3%A3o%2C%20sobre%20a%20receita%20bruta%2C%20quando%20conhecida%2C%20dos%20percentuais%20fixados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Para os fins de apuração do ganho de capital, as pessoas físicas e as pessoas jurídicas não tributadas com base no lucro real observarão os seguintes procedimentos:\n\nI - tratando-se de bens e direitos cuja aquisição tenha ocorrido até o final de 1995, o custo de aquisição poderá ser corrigido monetariamente até 31 de dezembro desse ano, tomando-se por base o valor da UFIR vigente em 1º de janeiro de 1996, não se lhe aplicando qualquer correção monetária a partir dessa data;\n\nII - tratando-se de bens e direitos adquiridos após 31 de dezembro de 1995, ao custo de aquisição dos bens e direitos não será atribuída qualquer correção monetária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2017.%20Para%20os%20fins%20de%20apura%C3%A7%C3%A3o%20do%20ganho%20de%20capital%2C%20as%20pessoas%20f%C3%ADsicas%20e%20as%20pessoas%20jur%C3%ADdicas%20n%C3%A3o%20tributadas%20com%20base",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. O ganho de capital auferido por residente ou domiciliado no exterior será apurado e tributado de acordo com as regras aplicáveis aos residentes no País.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2018.%20O%20ganho%20de%20capital%20auferido%20por%20residente%20ou%20domiciliado%20no%20exterior%20ser%C3%A1%20apurado%20e%20tributado%20de%20acordo%20com%20as%20regras",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. A partir de 1º de janeiro de 1996, a alíquota da contribuição social sobre o lucro líquido, de que trata a Lei nº 7.689, de 15 de dezembro de 1988, passa a ser de oito por cento.\n\nParágrafo único. O disposto neste artigo não se aplica às instituições a que se refere o § 1º do art. 22 da Lei nº 8.212, de 24 de julho de 1991, para as quais a alíquota da contribuição social será de dezoito por cento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2019.%20A%20partir%20de%201%C2%BA%20de%20janeiro%20de%201996%2C%20a%20al%C3%ADquota%20da%20contribui%C3%A7%C3%A3o%20social%20sobre%20o%20lucro%20l%C3%ADquido%2C%20de%20que%20trata",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. A partir de 1º de janeiro de 1996, a base de cálculo da contribuição social sobre o lucro líquido, devida pelas pessoas jurídicas que efetuarem o pagamento mensal a que se referem os arts. 27 e 29 a 34 da Lei nº 8.981, de 20 de janeiro de 1995, e pelas pessoas jurídicas desobrigadas de escrituração contábil, corresponderá a doze por cento da receita bruta, na forma definida na legislação vigente, auferida em cada mês do ano-calendário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2020.%20A%20partir%20de%201%C2%BA%20de%20janeiro%20de%201996%2C%20a%20base%20de%20c%C3%A1lculo%20da%20contribui%C3%A7%C3%A3o%20social%20sobre%20o%20lucro%20l%C3%ADquido%2C%20devida",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. A pessoa jurídica que tiver parte ou todo o seu patrimônio absorvido em virtude de incorporação, fusão ou cisão deverá levantar balanço específico para esse fim, no qual os bens e direitos serão avaliados pelo valor contábil ou de mercado.\n\nIncorporação, Fusão e Cisão",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2021.%20A%20pessoa%20jur%C3%ADdica%20que%20tiver%20parte%20ou%20todo%20o%20seu%20patrim%C3%B4nio%20absorvido%20em%20virtude%20de%20incorpora%C3%A7%C3%A3o%2C%20fus%C3%A3o%20ou%20cis%C3%A3o%20dever%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Os bens e direitos do ativo da pessoa jurídica, que forem entregues ao titular ou a sócio ou acionista. a título de devolução de sua participação no capital social, poderão ser avaliados pelo valor contábil ou de mercado.\n\n§ 1º No caso de a devolução realizar-se pelo valor de mercado, a diferença entre este e o valor contábil dos bens ou direitos entregues será considerada ganho de capital, que será computado nos resultados da pessoa jurídica tributada com base no lucro real ou na base de cálculo do imposto de renda e da contribuição social sobre o lucro líquido devidos pela pessoa jurídica tributada com base no lucro presumido ou arbitrado.\n\n§ 2º Para o titular, sócio ou acionista, pessoa jurídica, os bens ou direitos recebidos em devolução de sua participação no capital serão registrados pelo valor contábil da participação ou pelo valor de mercado, conforme avaliado pela pessoa jurídica que esteja devolvendo capital.\n\n§ 3º Para o titular, sócio ou acionista, pessoa física, os bens ou direitos recebidos em devolução de sua participação no capital serão informados, na declaração de bens correspondente à declaração de rendimentos do respectivo ano-base, pelo valor contábil ou de mercado, conforme avaliado pela pessoa jurídica.\n\n§ 4º A diferença entre o valor de mercado e o valor constante da declaração de bens, no caso de pessoa física, ou o valor contábil, no caso de pessoa jurídica, não será computada, pelo titular, sócio ou acionista, na base de cálculo do imposto de renda ou da contribuição social sobre o lucro líquido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2022.%20Os%20bens%20e%20direitos%20do%20ativo%20da%20pessoa%20jur%C3%ADdica%2C%20que%20forem%20entregues%20ao%20titular%20ou%20a%20s%C3%B3cio%20ou%20acionista.%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. As pessoas físicas poderão transferir a pessoas jurídicas, a título de integralização de capital, bens e direitos pelo valor constante da respectiva declaração de bens ou pelo valor de mercado.\n\n§ 1º Se a entrega for feita pelo valor constante da declaração de bens, as pessoas físicas deverão lançar nesta declaração as ações ou quotas subscritas pelo mesmo valor dos bens ou direitos transferidos, não se aplicando o disposto no art. 60 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, e no art. 20, II, do Decreto-Lei nº 2.065, de 26 de outubro de 1983.\n\n§ 2º Se a transferência não se fizer pelo valor constante da declaração de bens, a diferença a maior será tributável como ganho de capital.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2023.%20As%20pessoas%20f%C3%ADsicas%20poder%C3%A3o%20transferir%20a%20pessoas%20jur%C3%ADdicas%2C%20a%20t%C3%ADtulo%20de%20integraliza%C3%A7%C3%A3o%20de%20capital%2C%20bens%20e%20direitos%20pelo%20valor%20constante",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Verificada a omissão de receita, a autoridade tributária determinará o valor do imposto e do adicional a serem lançados de acordo com o regime de tributação a que estiver submetida a pessoa jurídica no período-base a que corresponder a omissão.\n\n§ 1º No caso de pessoa jurídica com atividades diversificadas tributadas com base no lucro presumido ou arbitrado, não sendo possível a identificação da atividade a que se refere a receita omitida, esta será adicionada àquela a que corresponder o percentual mais elevado.\n\n§ 2º O valor da receita omitida será considerado na determinação da base de cálculo para o lançamento da contribuição social sobre o lucro líquido, da contribuição para a seguridade social - COFINS e da contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP. § 2o O valor da receita omitida será considerado na determinação da base de cálculo para o lançamento da Contribuição Social sobre o Lucro Líquido - CSLL, da Contribuição para o Financiamento da Seguridade Social - COFINS, da Contribuição para o PIS/PASEP e das contribuições previdenciárias incidentes sobre a receita. (Redação dada pela Medida Provisória nº 449, de 2008)\n\n§ 2o O valor da receita omitida será considerado na determinação da base de cálculo para o lançamento da Contribuição Social sobre o Lucro Líquido – CSLL, da Contribuição para o Financiamento da Seguridade Social – COFINS, da Contribuição para o PIS/Pasep e das contribuições previdenciárias incidentes sobre a receita. (Redação dada pela Lei nº 11.941, de 2009)\n\n§ 3º Na hipótese deste artigo, a multa de lançamento de ofício será de trezentos por cento sobre a totalidade ou diferença dos tributos e contribuições devidos, observado o disposto no § 1º do art. 4º da Lei nº 8.218, de 29 de agosto de 1991. (Revogado pela Lei nº 9.430, de 1996)\n\n§ 4o Para a determinação do valor da Contribuição para o Financiamento da Seguridade Social - COFINS e da Contribuição para o PIS/PASEP, na hipótese de a pessoa jurídica auferir receitas sujeitas a alíquotas diversas, não sendo possível identificar a alíquota aplicável à receita omitida, aplicar-se-á a esta a alíquota mais elevada entre aquelas previstas para as receitas auferidas pela pessoa jurídica. (Incluído pela Medida Provisória nº 449, de 2008) § 5o Na hipótese de a pessoa jurídica sujeitar-se ao recolhimento da COFINS e da Contribuição para o PIS/PASEP, calculadas por unidade de medida de produto, não sendo possível identificar qual o produto vendido ou a quantidade que se refere à receita omitida, a contribuição será determinada com base na alíquota ad valorem mais elevada entre aquelas previstas para as receitas auferidas pela pessoa jurídica. (Incluído pela Medida Provisória nº 449, de 2008) § 6o Na determinação da alíquota mais elevada, considerar-se-ão: (Incluído pela Medida Provisória nº 449, de 2008) I - para efeito do disposto nos §§ 4o e 5o, as alíquotas aplicáveis às receitas auferidas pela pessoa jurídica no ano-calendário em que ocorreu a omissão; (Incluído pela Medida Provisória nº 449, de 2008) II - para efeito do disposto no § 5o, as alíquotas ad valorem correspondentes àquelas fixadas por unidade de medida do produto, bem como as alíquotas aplicáveis às demais receitas auferidas pela pessoa jurídica. (Incluído pela Medida Provisória nº 449, de 2008)\n\n§ 4o Para a determinação do valor da Contribuição para o Financiamento da Seguridade Social – COFINS e da Contribuição para o PIS/Pasep, na hipótese de a pessoa jurídica auferir receitas sujeitas a alíquotas diversas, não sendo possível identificar a alíquota aplicável à receita omitida, aplicar-se-á a esta a alíquota mais elevada entre aquelas previstas para as receitas auferidas pela pessoa jurídica. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 5o Na hipótese de a pessoa jurídica sujeitar-se ao recolhimento da Cofins e da Contribuição para o PIS/Pasep, calculadas por unidade de medida de produto, não sendo possível identificar qual o produto vendido ou a quantidade que se refere à receita omitida, a contribuição será determinada com base na alíquota ad valorem mais elevada entre aquelas previstas para as receitas auferidas pela pessoa jurídica. (Incluído pela Lei nº 11.941, de 2009)\n\n§ 6o Na determinação da alíquota mais elevada, considerar-se-ão: (Incluído pela Lei nº 11.941, de 2009)\n\nI – para efeito do disposto nos §§ 4o e 5o deste artigo, as alíquotas aplicáveis às receitas auferidas pela pessoa jurídica no ano-calendário em que ocorreu a omissão; (Incluído pela Lei nº 11.941, de 2009)\n\nII – para efeito do disposto no § 5o deste artigo, as alíquotas ad valorem correspondentes àquelas fixadas por unidade de medida do produto, bem como as alíquotas aplicáveis às demais receitas auferidas pela pessoa jurídica. (Incluído pela Lei nº 11.941, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2024.%20Verificada%20a%20omiss%C3%A3o%20de%20receita%2C%20a%20autoridade%20tribut%C3%A1ria%20determinar%C3%A1%20o%20valor%20do%20imposto%20e%20do%20adicional%20a%20serem%20lan%C3%A7ados%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Os lucros, rendimentos e ganhos de capital auferidos no exterior serão computados na determinação do lucro real das pessoas jurídicas correspondente ao balanço levantado em 31 de dezembro de cada ano. (Vide Medida Provisória nº 2158-35, de 2001)\n\n§ 1º Os rendimentos e ganhos de capital auferidos no exterior serão computados na apuração do lucro líquido das pessoas jurídicas com observância do seguinte:\n\nI - os rendimentos e ganhos de capital serão convertidos em Reais de acordo com a taxa de câmbio, para venda, na data em que forem contabilizados no Brasil;\n\nII - caso a moeda em que for auferido o rendimento ou ganho de capital não tiver cotação no Brasil, será ela convertida em dólares norte-americanos e, em seguida, em Reais;\n\n§ 2º Os lucros auferidos por filiais, sucursais ou controladas, no exterior, de pessoas jurídicas domiciliadas no Brasil serão computados na apuração do lucro real com observância do seguinte:\n\nI - as filiais, sucursais e controladas deverão demonstrar a apuração dos lucros que auferirem em cada um de seus exercícios fiscais, segundo as normas da legislação brasileira;\n\nII - os lucros a que se refere o inciso I serão adicionados ao lucro líquido da matriz ou controladora, na proporção de sua participação acionária, para apuração do lucro real;\n\nIII - se a pessoa jurídica se extinguir no curso do exercício, deverá adicionar ao seu lucro líquido os lucros auferidos por filiais, sucursais ou controladas, até a data do balanço de encerramento;\n\nIV - as demonstrações financeiras das filiais, sucursais e controladas que embasarem as demonstrações em Reais deverão ser mantidas no Brasil pelo prazo previsto no art. 173 da Lei nº 5.172, de 25 de outubro de 1966.\n\n§ 3º Os lucros auferidos no exterior por coligadas de pessoas jurídicas domiciliadas no Brasil serão computados na apuração do lucro real com observância do seguinte:\n\nI - os lucros realizados pela coligada serão adicionados ao lucro líquido, na proporção da participação da pessoa jurídica no capital da coligada;\n\nII - os lucros a serem computados na apuração do lucro real são os apurados no balanço ou balanços levantados pela coligada no curso do período-base da pessoa jurídica;\n\nIII - se a pessoa jurídica se extinguir no curso do exercício, deverá adicionar ao seu lucro líquido, para apuração do lucro real, sua participação nos lucros da coligada apurados por esta em balanços levantados até a data do balanço de encerramento da pessoa jurídica;\n\nIV - a pessoa jurídica deverá conservar em seu poder cópia das demonstrações financeiras da coligada.\n\n§ 4º Os lucros a que se referem os §§ 2º e 3º serão convertidos em Reais pela taxa de câmbio, para venda, do dia das demonstrações financeiras em que tenham sido apurados os lucros da filial, sucursal, controlada ou coligada.\n\n§ 5º Os prejuízos e perdas decorrentes das operações referidas neste artigo não serão compensados com lucros auferidos no Brasil.\n\n§ 6º Os resultados da avaliação dos investimentos no exterior, pelo método da equivalência patrimonial, continuarão a ter o tratamento previsto na legislação vigente, sem prejuízo do disposto nos §§ 1º, 2º e 3º.\n\n§ 7º Os lucros serão apurados segundo as normas da legislação comercial do país de domicílio. (Incluído pela Medida Provisória nº 627, de 2013)\n\n§ 7o Os lucros serão apurados segundo as normas da legislação comercial do país de domicílio. (Redação dada pela Lei nº 12.973, de 2014)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2025.%20Os%20lucros%2C%20rendimentos%20e%20ganhos%20de%20capital%20auferidos%20no%20exterior%20ser%C3%A3o%20computados%20na%20determina%C3%A7%C3%A3o%20do%20lucro%20real%20das%20pessoas%20jur%C3%ADdicas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. A pessoa jurídica poderá compensar o imposto de renda incidente, no exterior, sobre os lucros, rendimentos e ganhos de capital computados no lucro real, até o limite do imposto de renda incidente, no Brasil, sobre os referidos lucros, rendimentos ou ganhos de capital.\n\n§ 1º Para efeito de determinação do limite fixado no caput, o imposto incidente, no Brasil, correspondente aos lucros, rendimentos ou ganhos de capital auferidos no exterior, será proporcional ao total do imposto e adicional devidos pela pessoa jurídica no Brasil.\n\n§ 2º Para fins de compensação, o documento relativo ao imposto de renda incidente no exterior deverá ser reconhecido pelo respectivo órgão arrecadador e pelo Consulado da Embaixada Brasileira no país em que for devido o imposto.\n\n§ 3º O imposto de renda a ser compensado será convertido em quantidade de Reais, de acordo com a taxa de câmbio, para venda, na data em que o imposto foi pago; caso a moeda em que o imposto foi pago não tiver cotação no Brasil, será ela convertida em dólares norte-americanos e, em seguida, em Reais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2026.%20A%20pessoa%20jur%C3%ADdica%20poder%C3%A1%20compensar%20o%20imposto%20de%20renda%20incidente%2C%20no%20exterior%2C%20sobre%20os%20lucros%2C%20rendimentos%20e%20ganhos%20de%20capital",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27.As pessoas jurídicas que tiverem lucros, rendimentos ou ganhos de capital oriundos do exterior estão obrigadas ao regime de tributação com base no lucro real.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2027.As%20pessoas%20jur%C3%ADdicas%20que%20tiverem%20lucros%2C%20rendimentos%20ou%20ganhos%20de%20capital%20oriundos%20do%20exterior%20est%C3%A3o%20obrigadas%20ao%20regime%20de%20tributa%C3%A7%C3%A3o%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. A alíquota do imposto de renda de que tratam o art. 77 da Lei nº 3.470, de 28 de novembro de 1958 e o art. 100 do Decreto-Lei nº 5.844, de 23 de setembro de 1943, com as modificações posteriormente introduzidas, passa, a partir de 1º de janeiro de 1996, a ser de quinze por cento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2028.%20A%20al%C3%ADquota%20do%20imposto%20de%20renda%20de%20que%20tratam%20o%20art.%2077%20da%20Lei%20n%C2%BA%203.470%2C%20de%2028%20de%20novembro",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Os limites a que se referem os arts. 36, I, e 44, da Lei nº 8.981, de 20 de janeiro de 1995, com a redação dada pela Lei nº 9.065, de 20 de junho de 1995, passam a ser de R$ 12.000.000,00 (doze milhões de reais).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2029.%20Os%20limites%20a%20que%20se%20referem%20os%20arts.%2036%2C%20I%2C%20e%2044%2C%20da%20Lei%20n%C2%BA%208.981%2C%20de%2020%20de%20janeiro",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Os valores constantes da legislação tributária, expressos em quantidade de UFIR, serão convertidos em Reais pelo valor da UFIR vigente em 1º de janeiro de 1996.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2030.%20Os%20valores%20constantes%20da%20legisla%C3%A7%C3%A3o%20tribut%C3%A1ria%2C%20expressos%20em%20quantidade%20de%20UFIR%2C%20ser%C3%A3o%20convertidos%20em%20Reais%20pelo%20valor%20da%20UFIR%20vigente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Os prejuízos não operacionais, apurados pelas pessoas jurídicas, a partir de 1º de janeiro de 1996, somente poderão ser compensados com lucros de mesma natureza, observado o limite previsto no art. 15 da Lei nº 9.065, de 20 de junho de 1995. (Revogado pela Lei nº 12.973, de 2014) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2031.%20Os%20preju%C3%ADzos%20n%C3%A3o%20operacionais%2C%20apurados%20pelas%20pessoas%20jur%C3%ADdicas%2C%20a%20partir%20de%201%C2%BA%20de%20janeiro%20de%201996%2C%20somente%20poder%C3%A3o%20ser%20compensados",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2032.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. (VETADO)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2033.%20%28VETADO%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. Extingue-se a punibilidade dos crimes definidos na Lei nº 8.137, de 27 de dezembro de 1990, e na Lei nº 4.729, de 14 de julho de 1965, quando o agente promover o pagamento do tributo ou contribuição social, inclusive acessórios, antes do recebimento da denúncia.\n\n§ 1º (VETADO)\n\n§ 2º (VETADO)\n\n§ 3º A extinção de punibilidade de que trata o caput deste artigo não se aplica ao agente declarado devedor contumaz em decisão administrativa definitiva e inscrito no Cadastro Informativo dos créditos não quitados do setor público federal (Cadin), previsto na Lei nº 10.522, de 19 de julho de 2002. (Incluído pela Lei Complementar nº 225, de 2026)\n\n§ 4º O fato de o agente deixar de ser considerado devedor contumaz não afasta o disposto no § 3º deste artigo em relação aos atos praticados no período em que era assim considerado. (Incluído pela Lei Complementar nº 225, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2034.%20Extingue-se%20a%20punibilidade%20dos%20crimes%20definidos%20na%20Lei%20n%C2%BA%208.137%2C%20de%2027%20de%20dezembro%20de%201990%2C%20e%20na%20Lei%20n%C2%BA",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Esta Lei entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 1996.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2035.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o%2C%20produzindo%20efeitos%20a%20partir%20de%201%C2%BA%20de%20janeiro%20de%201996.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Ficam revogadas as disposições em contrário, especialmente:\n\nI - o Decreto-Lei nº 1.215, de 4 de maio de 1972, observado o disposto no art. 178 da Lei nº 5.172, de 25 de outubro de 1966;\n\nII - os arts. 2º a 19 da Lei nº 7.799, de 10 de julho de 1989;\n\nIII - os arts. 9º e 12 da Lei nº 8.023, de 12 de abril de 1990;\n\nIV - os arts. 43 e 44 da Lei nº 8.541, de 23 de dezembro de 1992;\n\nV - o art. 28 e os incisos VI, XI e XII e o parágrafo único do art. 36, os arts. 46, 48 e 54, e o inciso II do art. 60, todos da Lei nº 8.981, de 20 de janeiro de 1995, alterada pela Lei nº 9.065, de 20 de junho de 1995, e o art. 10 da Lei nº 9.065, de 20 de junho de 1995.\n\nBrasília, 26 de dezembro de 1995; 174º da Independência e 107º da República.\n\nFERNANDO HENRIQUE CARDOSO Pedro Pullen Parente\n\nEste texto não substitui o publicado no DOU de 27.12.1995\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm#:~:text=Art.%2036.%20Ficam%20revogadas%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio%2C%20especialmente%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": null
+    }
+  }
+}

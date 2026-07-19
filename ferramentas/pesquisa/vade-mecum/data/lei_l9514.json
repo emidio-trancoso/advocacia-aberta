@@ -1,0 +1,863 @@
+{
+  "_meta": {
+    "codigo": "L9514",
+    "nome": "Alienação Fiduciária de Imóveis (SFI)",
+    "lei": "Lei 9.514/1997",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm",
+    "total_artigos": 53,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º O Sistema de Financiamento Imobiliário – SFI tem por finalidade promover o financiamento imobiliário em geral, segundo condições compatíveis com as da formação dos fundos respectivos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%201%C2%BA%20O%20Sistema%20de%20Financiamento%20Imobili%C3%A1rio%20%E2%80%93%20SFI%20tem%20por%20finalidade%20promover%20o%20financiamento%20imobili%C3%A1rio%20em%20geral%2C%20segundo%20condi%C3%A7%C3%B5es%20compat%C3%ADveis%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Poderão operar no SFI as caixas econômicas, os bancos comerciais, os bancos de investimento, os bancos com carteira de crédito imobiliário, as sociedades de crédito imobiliário, as associações de poupança e empréstimo, as companhias hipotecárias e, a critério do Conselho Monetário Nacional - CMN, outras entidades.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%202%C2%BA%20Poder%C3%A3o%20operar%20no%20SFI%20as%20caixas%20econ%C3%B4micas%2C%20os%20bancos%20comerciais%2C%20os%20bancos%20de%20investimento%2C%20os%20bancos%20com%20carteira%20de%20cr%C3%A9dito",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º As companhias securitizadoras de créditos imobiliários, instituições não financeiras constituídas sob a forma de sociedade por ações, terão por finalidade a aquisição e securitização desses créditos e a emissão e colocação, no mercado financeiro, de Certificados de Recebíveis Imobiliários, podendo emitir outros títulos de crédito, realizar negócios e prestar serviços compatíveis com as suas atividades.\n\nParágrafo único. O Conselho Monetário Nacional - CMN poderá fixar condições para o funcionamento das companhias de que trata este artigo. (Revogado pela Lei nº 13.097, de 2015) (Vigência)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%203%C2%BA%20As%20companhias%20securitizadoras%20de%20cr%C3%A9ditos%20imobili%C3%A1rios%2C%20institui%C3%A7%C3%B5es%20n%C3%A3o%20financeiras%20constitu%C3%ADdas%20sob%20a%20forma%20de%20sociedade%20por%20a%C3%A7%C3%B5es%2C%20ter%C3%A3o%20por%20finalidade",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º As operações de financiamento imobiliário em geral serão livremente efetuadas pelas entidades autorizadas a operar no SFI, segundo condições de mercado e observadas as prescrições legais.\n\nParágrafo único. Nas operações de que trata este artigo, poderão ser empregados recursos provenientes da captação nos mercados financeiro e de valores mobiliários, de acordo com a legislação pertinente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%204%C2%BA%20As%20opera%C3%A7%C3%B5es%20de%20financiamento%20imobili%C3%A1rio%20em%20geral%20ser%C3%A3o%20livremente%20efetuadas%20pelas%20entidades%20autorizadas%20a%20operar%20no%20SFI%2C%20segundo%20condi%C3%A7%C3%B5es%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º As operações de financiamento imobiliário em geral, no âmbito do SFI, serão livremente pactuadas pelas partes, observadas as seguintes condições essenciais:\n\nI - reposição integral do valor emprestado e respectivo reajuste;\n\nII - remuneração do capital emprestado às taxas convencionadas no contrato;\n\nIII - capitalização dos juros;\n\nIV - contratação, pelos tomadores de financiamento, de seguros contra os riscos de morte e invalidez permanente.\n\n§ 1º As partes poderão estabelecer os critérios do reajuste de que trata o inciso I, observada a legislação vigente. (Revogado pela Medida Provisória nº 2.223, de 2001)\n\n§ 1º As partes poderão estabelecer os critérios do reajuste de que trata o inciso I, observada a legislação vigente.\n\n§ 2º As operações de comercialização de imóveis, com pagamento parcelado, de arrendamento mercantil de imóveis e de financiamento imobiliário em geral, poderão ser pactuadas nas mesmas condições permitidas para as entidades autorizadas a operar no SFI, observados, quanto a eventual reajuste, os mesmos índices e a mesma periodicidade de incidência e cobrança.\n\n§ 2º As operações de comercialização de imóveis, com pagamento parcelado, de arrendamento mercantil de imóveis e de financiamento imobiliário em geral, poderão ser pactuadas nas mesmas condições permitidas para as entidades autorizadas a operar no SFI. (Redação dada pela Medida Provisória nº 2.223, de 2001)\n\n§ 2º As operações de comercialização de imóveis, com pagamento parcelado, de arrendamento mercantil de imóveis e de financiamento imobiliário em geral poderão ser pactuadas nas mesmas condições permitidas para as entidades autorizadas a operar no SFI. (Redação dada pela Lei nº 10.931, de 2004)\n\n§ 3º Na alienação de unidades em edificação sob o regime da Lei nº 4.591, de 16 de dezembro de 1964, a critério do adquirente e mediante informação obrigatória do incorporador, poderá ser contratado seguro que garanta o ressarcimento ao adquirente das quantias por este pagas, na hipótese de inadimplemento do incorporador ou construtor quanto à entrega da obra.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%205%C2%BA%20As%20opera%C3%A7%C3%B5es%20de%20financiamento%20imobili%C3%A1rio%20em%20geral%2C%20no%20%C3%A2mbito%20do%20SFI%2C%20ser%C3%A3o%20livremente%20pactuadas%20pelas%20partes%2C%20observadas%20as%20seguintes%20condi%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º O Certificado de Recebíveis Imobiliários - CRI é título de crédito nominativo, de livre negociação, lastreado em créditos imobiliários e constitui promessa de pagamento em dinheiro.\n\nParágrafo único. O CRI é de emissão exclusiva das companhias securitizadoras. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%206%C2%BA%20O%20Certificado%20de%20Receb%C3%ADveis%20Imobili%C3%A1rios%20-%20CRI%20%C3%A9%20t%C3%ADtulo%20de%20cr%C3%A9dito%20nominativo%2C%20de%20livre%20negocia%C3%A7%C3%A3o%2C%20lastreado%20em%20cr%C3%A9ditos%20imobili%C3%A1rios%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º O CRI terá as seguintes características: (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nI - nome da companhia emitente; (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nII - número de ordem, local e data de emissão; (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nIII - denominação \"Certificado de Recebíveis Imobiliários\"; (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nIV - forma escritural; (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nV - nome do titular; (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nVI - valor nominal; (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nVII - data de pagamento ou, se emitido para pagamento parcelado, discriminação dos valores e das datas de pagamento das diversas parcelas; (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nVIII - taxa de juros, fixa ou flutuante, e datas de sua exigibilidade, admitida a capitalização; (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nIX - cláusula de reajuste, observada a legislação pertinente; (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nX - lugar de pagamento; (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nXI - identificação do Termo de Securitização de Créditos que lhe tenha dado origem. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\n§ 1º O registro e a negociação do CRI far-se-ão por meio de sistemas centralizados de custódia e liquidação financeira de títulos privados. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\n§ 2º O CRI poderá ter, conforme dispuser o Termo de Securitização de Créditos, garantia flutuante, que lhe assegurará privilégio geral sobre o ativo da companhia securitizadora, mas não impedirá a negociação dos bens que compõem esse ativo. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%207%C2%BA%20O%20CRI%20ter%C3%A1%20as%20seguintes%20caracter%C3%ADsticas%3A%20%28Revogado%20pela%20Medida%20Provis%C3%B3ria%20n%C2%BA%201.103%2C%20de%202022%29%20%28Revogado%20pela%20Lei%20n%C2%BA%2014.430%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "Seção IV"
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º A securitização de créditos imobiliários é a operação pela qual tais créditos são expressamente vinculados à emissão de uma série de títulos de crédito, mediante Termo de Securitização de Créditos, lavrado por uma companhia securitizadora, do qual constarão os seguintes elementos: (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nI - a identificação do devedor e o valor nominal de cada crédito que lastreie a emissão, com a individuação do imóvel a que esteja vinculado e indicação do Cartório de Registro de Imóveis em que esteja registrado e respectiva matrícula, bem como o número do registro do ato pelo qual o crédito foi cedido;\n\nI - a identificação do devedor e o valor nominal de cada crédito que lastreie a emissão, com a individuação do imóvel a que esteja vinculado e a indicação do Cartório de Registro de Imóveis em que esteja registrado e respectiva matrícula, bem como a indicação do ato pelo qual o crédito foi cedido; (Redação dada pela Medida Provisória nº 2.223, de 2001)\n\nI - a identificação do devedor e o valor nominal de cada crédito que lastreie a emissão, com a individuação do imóvel a que esteja vinculado e a indicação do Cartório de Registro de Imóveis em que esteja registrado e respectiva matrícula, bem como a indicação do ato pelo qual o crédito foi cedido; (Redação dada pela Lei nº 10.931, de 2004) (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nII - a identificação dos títulos emitidos; (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nIII - a constituição de outras garantias de resgate dos títulos da série emitida, se for o caso. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nParágrafo único. Será permitida a securitização de créditos oriundos da alienação de unidades em edificação sob regime de incorporação nos moldes da Lei nº 4.591, de 16 de dezembro de 1964. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%208%C2%BA%20A%20securitiza%C3%A7%C3%A3o%20de%20cr%C3%A9ditos%20imobili%C3%A1rios%20%C3%A9%20a%20opera%C3%A7%C3%A3o%20pela%20qual%20tais%20cr%C3%A9ditos%20s%C3%A3o%20expressamente%20vinculados%20%C3%A0%20emiss%C3%A3o%20de%20uma%20s%C3%A9rie",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "V",
+        "section_name": "Seção V"
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º A companhia securitizadora poderá instituir regime fiduciário sobre créditos imobiliários, a fim de lastrear a emissão de Certificados de Recebíveis Imobiliários, sendo agente fiduciário uma instituição financeira ou companhia autorizada para esse fim pelo BACEN e beneficiários os adquirentes dos títulos lastreados nos recebíveis objeto desse regime. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%209%C2%BA%20A%20companhia%20securitizadora%20poder%C3%A1%20instituir%20regime%20fiduci%C3%A1rio%20sobre%20cr%C3%A9ditos%20imobili%C3%A1rios%2C%20a%20fim%20de%20lastrear%20a%20emiss%C3%A3o%20de%20Certificados%20de%20Receb%C3%ADveis",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. O regime fiduciário será instituído mediante declaração unilateral da companhia securitizadora no contexto do Termo de Securitização de Créditos, que, além de conter os elementos de que trata o art. 8º, submeter-se-á às seguintes condições: (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nI - a constituição do regime fiduciário sobre os créditos que lastreiem a emissão; (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nII - a constituição de patrimônio separado, integrado pela totalidade dos créditos submetidos ao regime fiduciário que lastreiem a emissão; (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nIII - a afetação dos créditos como lastro da emissão da respectiva série de títulos; (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nIV - a nomeação do agente fiduciário, com a definição de seus deveres, responsabilidades e remuneração, bem como as hipóteses, condições e forma de sua destituição ou substituição e as demais condições de sua atuação; (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nV - a forma de liquidação do patrimônio separado. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nParágrafo único. O Termo de Securitização de Créditos, em que seja instituído o regime fiduciário, será averbado nos Registros de Imóveis em que estejam matriculados os respectivos imóveis. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2010.%20O%20regime%20fiduci%C3%A1rio%20ser%C3%A1%20institu%C3%ADdo%20mediante%20declara%C3%A7%C3%A3o%20unilateral%20da%20companhia%20securitizadora%20no%20contexto%20do%20Termo%20de%20Securitiza%C3%A7%C3%A3o%20de%20Cr%C3%A9ditos%2C%20que%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Os créditos objeto do regime fiduciário: (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nI - constituem patrimônio separado, que não se confunde com o da companhia securitizadora; (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nII - manter-se-ão apartados do patrimônio da companhia securitizadora até que se complete o resgate de todos os títulos da série a que estejam afetados; (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nIII - destinam-se exclusivamente à liquidação dos títulos a que estiverem afetados, bem como ao pagamento dos respectivos custos de administração e de obrigações fiscais; (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nIV - estão isentos de qualquer ação ou execução pelos credores da companhia securitizadora; (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nV - não são passíveis de constituição de garantias ou de excussão por quaisquer dos credores da companhia securitizadora, por mais privilegiados que sejam; (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nVI - só responderão pelas obrigações inerentes aos títulos a ele afetados. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\n§ 1º No Termo de Securitização de Créditos, poderá ser conferido aos beneficiários e demais credores do patrimônio separado, se este se tornar insuficiente, o direito de haverem seus créditos contra o patrimônio da companhia securitizadora. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\n§ 2º Uma vez assegurado o direito de que trata o parágrafo anterior, a companhia securitizadora, sempre que se verificar insuficiência do patrimônio separado, promoverá a respectiva recomposição, mediante aditivo ao Termo de Securitização de Créditos, nele incluindo outros créditos imobiliários, com observância dos requisitos previstos nesta seção. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\n§ 3º A realização dos direitos dos beneficiários limitar-se-á aos créditos imobiliários integrantes do patrimônio separado, salvo se tiverem sido constituídas garantias adicionais por terceiros. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2011.%20Os%20cr%C3%A9ditos%20objeto%20do%20regime%20fiduci%C3%A1rio%3A%20%28Revogado%20pela%20Medida%20Provis%C3%B3ria%20n%C2%BA%201.103%2C%20de%202022%29%20%28Revogado%20pela%20Lei%20n%C2%BA%2014.430%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Instituído o regime fiduciário, incumbirá à companhia securitizadora administrar cada patrimônio separado, manter registros contábeis independentes em relação a cada um deles e elaborar e publicar as respectivas demonstrações financeiras. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nParágrafo único. A totalidade do patrimônio da companhia securitizadora responderá pelos prejuízos que esta causar por descumprimento de disposição legal ou regulamentar, por negligência ou administração temerária ou, ainda, por desvio da finalidade do patrimônio separado. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2012.%20Institu%C3%ADdo%20o%20regime%20fiduci%C3%A1rio%2C%20incumbir%C3%A1%20%C3%A0%20companhia%20securitizadora%20administrar%20cada%20patrim%C3%B4nio%20separado%2C%20manter%20registros%20cont%C3%A1beis%20independentes%20em%20rela%C3%A7%C3%A3o%20a%20cada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Ao agente fiduciário são conferidos poderes gerais de representação da comunhão dos beneficiários, inclusive os de receber e dar quitação, incumbindo-lhe: (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nI - zelar pela proteção dos direitos e interesses dos beneficiários, acompanhando a atuação da companhia securitizadora na administração do patrimônio separado; (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nII - adotar as medidas judiciais ou extrajudiciais necessárias à defesa dos interesses dos beneficiários, bem como à realização dos créditos afetados ao patrimônio separado, caso a companhia securitizadora não o faça; (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nIII - exercer, na hipótese de insolvência da companhia securitizadora, a administração do patrimônio separado; (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nIV - promover, na forma em que dispuser o Termo de Securitização de Créditos, a liquidação do patrimônio separado; (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nV- executar os demais encargos que lhe forem atribuídos no Termo de Securitização de Créditos. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\n§ 1º O agente fiduciário responderá pelos prejuízos que causar por descumprimento de disposição legal ou regulamentar, por negligência ou administração temerária. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\n§ 2º Aplicam-se ao agente fiduciário os mesmos requisitos e incompatibilidades impostos pelo art. 66 da Lei nº 6.404, de 15 de dezembro de 1976. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2013.%20Ao%20agente%20fiduci%C3%A1rio%20s%C3%A3o%20conferidos%20poderes%20gerais%20de%20representa%C3%A7%C3%A3o%20da%20comunh%C3%A3o%20dos%20benefici%C3%A1rios%2C%20inclusive%20os%20de%20receber%20e%20dar%20quita%C3%A7%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. A insuficiência dos bens do patrimônio separado não dará causa à declaração de sua quebra, cabendo, nessa hipótese, ao agente fiduciário convocar assembléia geral dos beneficiários para deliberar sobre as normas de administração ou liquidação do patrimônio separado. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\n§ 1º Na hipótese de que trata este artigo, a assembléia geral estará legitimada a adotar qualquer medida pertinente à administração ou liquidação do patrimônio separado, inclusive a transferência dos bens e direitos dele integrantes para outra entidade que opere no SFI, a forma de liquidação do patrimônio e a nomeação do liquidante. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\n§ 2º A assembléia geral, convocada mediante edital publicado por três vezes, com antecedência de vinte dias, em jornal de grande circulação na praça em que tiver sido feita a emissão dos títulos, instalar-se-á, em primeira convocação, com a presença de beneficiários que representem, pelo menos, dois terços do valor global dos títulos e, em segunda convocação, com qualquer número, sendo válidas as deliberações tomadas pela maioria absoluta desse capital. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2014.%20A%20insufici%C3%AAncia%20dos%20bens%20do%20patrim%C3%B4nio%20separado%20n%C3%A3o%20dar%C3%A1%20causa%20%C3%A0%20declara%C3%A7%C3%A3o%20de%20sua%20quebra%2C%20cabendo%2C%20nessa%20hip%C3%B3tese%2C%20ao%20agente",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. No caso de insolvência da companhia securitizadora, o agente fiduciário assumirá imediatamente a custódia e administração dos créditos imobiliários integrantes do patrimônio separado e convocará a assembléia geral dos beneficiários para deliberar sobre a forma de administração, observados os requisitos estabelecidos no § 2º do art. 14. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\nParágrafo único. A insolvência da companhia securitizadora não afetará os patrimônios separados que tenha constituído. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2015.%20No%20caso%20de%20insolv%C3%AAncia%20da%20companhia%20securitizadora%2C%20o%20agente%20fiduci%C3%A1rio%20assumir%C3%A1%20imediatamente%20a%20cust%C3%B3dia%20e%20administra%C3%A7%C3%A3o%20dos%20cr%C3%A9ditos%20imobili%C3%A1rios%20integrantes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Extinguir-se-á o regime fiduciário de que trata esta seção pelo implemento das condições a que esteja submetido, na conformidade do Termo de Securitização de Créditos que o tenha instituído. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\n§ 1º Uma vez satisfeitos os créditos dos beneficiários e extinto o regime fiduciário, o Agente Fiduciário fornecerá, no prazo de três dias úteis, à companhia securitizadora, termo de quitação, que servirá para baixa, nos competentes Registros de Imóveis, da averbação que tenha instituído o regime fiduciário. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\n§ 2º A baixa de que trata o parágrafo anterior importará na reintegração ao patrimônio comum da companhia securitizadora dos recebíveis imobiliários que sobejarem. (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)\n\n§ 3º Os emolumentos devidos aos Cartórios de Registros de Imóveis para cancelamento do regime fiduciário e das garantias reais existentes serão cobrados como ato único. (Incluído pela Medida Provisória nº 2.223, de 2001)\n\n§ 3º Os emolumentos devidos aos Cartórios de Registros de Imóveis para cancelamento do regime fiduciário e das garantias reais existentes serão cobrados como ato único. (Incluído pela Lei nº 10.931, de 2004) (Revogado pela Medida Provisória nº 1.103, de 2022) (Revogado pela Lei nº 14.430, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2016.%20Extinguir-se-%C3%A1%20o%20regime%20fiduci%C3%A1rio%20de%20que%20trata%20esta%20se%C3%A7%C3%A3o%20pelo%20implemento%20das%20condi%C3%A7%C3%B5es%20a%20que%20esteja%20submetido%2C%20na%20conformidade%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "VI",
+        "section_name": "Seção VI"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. As operações de financiamento imobiliário em geral poderão ser garantidas por:\n\nI - hipoteca;\n\nII - cessão fiduciária de direitos creditórios decorrentes de contratos de alienação de imóveis;\n\nIII - caução de direitos creditórios ou aquisitivos decorrentes de contratos de venda ou promessa de venda de imóveis;\n\nIV - alienação fiduciária de coisa imóvel.\n\n§ 1º As garantias a que se referem os incisos II, III e IV deste artigo constituem direito real sobre os respectivos objetos.\n\n§ 2º Aplicam-se à caução dos direitos creditórios a que se refere o inciso III deste artigo as disposições dos arts. 789 a 795 do Código Civil.\n\n§ 3º As operações do SFI que envolvam locação poderão ser garantidas suplementarmente por anticrese.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2017.%20As%20opera%C3%A7%C3%B5es%20de%20financiamento%20imobili%C3%A1rio%20em%20geral%20poder%C3%A3o%20ser%20garantidas%20por%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "VII",
+        "section_name": "Seção VII"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. O contrato de cessão fiduciária em garantia opera a transferência ao credor da titularidade dos créditos cedidos, até a liquidação da dívida garantida, e conterá, além de outros elementos, os seguintes:\n\nI - o total da dívida ou sua estimativa;\n\nII - o local, a data e a forma de pagamento;\n\nIII - a taxa de juros;\n\nIV - a identificação dos direitos creditórios objeto da cessão fiduciária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2018.%20O%20contrato%20de%20cess%C3%A3o%20fiduci%C3%A1ria%20em%20garantia%20opera%20a%20transfer%C3%AAncia%20ao%20credor%20da%20titularidade%20dos%20cr%C3%A9ditos%20cedidos%2C%20at%C3%A9%20a%20liquida%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "VII",
+        "section_name": "Seção VII"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Ao credor fiduciário compete o direito de:\n\nI - conservar e recuperar a posse dos títulos representativos dos créditos cedidos, contra qualquer detentor, inclusive o próprio cedente;\n\nII - promover a intimação dos devedores que não paguem ao cedente, enquanto durar a cessão fiduciária;\n\nIII - usar das ações, recursos e execuções, judiciais e extrajudiciais, para receber os créditos cedidos e exercer os demais direitos conferidos ao cedente no contrato de alienação do imóvel;\n\nIV - receber diretamente dos devedores os créditos cedidos fiduciariamente.\n\n§ 1º As importâncias recebidas na forma do inciso IV deste artigo, depois de deduzidas as despesas de cobrança e de administração, serão creditadas ao devedor cedente, na operação objeto da cessão fiduciária, até final liquidação da dívida e encargos, responsabilizando-se o credor fiduciário perante o cedente, como depositário, pelo que receber além do que este lhe devia.\n\n§ 2º Se as importâncias recebidas, a que se refere o parágrafo anterior, não bastarem para o pagamento integral da dívida e seus encargos, bem como das despesas de cobrança e de administração daqueles créditos, o devedor continuará obrigado a resgatar o saldo remanescente nas condições convencionadas no contrato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2019.%20Ao%20credor%20fiduci%C3%A1rio%20compete%20o%20direito%20de%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "VII",
+        "section_name": "Seção VII"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Na hipótese de falência do devedor cedente e se não tiver havido a tradição dos títulos representativos dos créditos cedidos fiduciariamente, ficará assegurada ao cessionário fiduciário a restituição na forma da legislação pertinente.\n\nParágrafo único. Efetivada a restituição, prosseguirá o cessionário fiduciário no exercício de seus direitos na forma do disposto nesta seção.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2020.%20Na%20hip%C3%B3tese%20de%20fal%C3%AAncia%20do%20devedor%20cedente%20e%20se%20n%C3%A3o%20tiver%20havido%20a%20tradi%C3%A7%C3%A3o%20dos%20t%C3%ADtulos%20representativos%20dos%20cr%C3%A9ditos%20cedidos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "VII",
+        "section_name": "Seção VII"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. São suscetíveis de caução, desde que transmissíveis, os direitos aquisitivos sobre imóvel, ainda que em construção.\n\n§ 1º O instrumento da caução, a que se refere este artigo, indicará o valor do débito e dos encargos e identificará o imóvel cujos direitos aquisitivos são caucionados.\n\n§ 2º Referindo-se a caução a direitos aquisitivos de promessa de compra e venda cujo preço ainda não tenha sido integralizado, poderá o credor caucionário, sobrevindo a mora do promissário comprador, promover a execução do seu crédito ou efetivar, sob protesto, o pagamento do saldo da promessa.\n\n§ 3º Se, nos termos do disposto no parágrafo anterior, o credor efetuar o pagamento, o valor pago, com todos os seus acessórios e eventuais penalidades, será adicionado à dívida garantida pela caução, ressalvado ao credor o direito de executar desde logo o devedor, inclusive pela parcela da dívida assim acrescida.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2021.%20S%C3%A3o%20suscet%C3%ADveis%20de%20cau%C3%A7%C3%A3o%2C%20desde%20que%20transmiss%C3%ADveis%2C%20os%20direitos%20aquisitivos%20sobre%20im%C3%B3vel%2C%20ainda%20que%20em%20constru%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "VII",
+        "section_name": "Seção VII"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. A alienação fiduciária regulada por esta Lei é o negócio jurídico pelo qual o devedor, ou fiduciante, com o escopo de garantia, contrata a transferência ao credor, ou fiduciário, da propriedade resolúvel de coisa imóvel.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2022.%20A%20aliena%C3%A7%C3%A3o%20fiduci%C3%A1ria%20regulada%20por%20esta%20Lei%20%C3%A9%20o%20neg%C3%B3cio%20jur%C3%ADdico%20pelo%20qual%20o%20devedor%2C%20ou%20fiduciante%2C%20com%20o%20escopo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Constitui-se a propriedade fiduciária de coisa imóvel mediante registro, no competente Registro de Imóveis, do contrato que lhe serve de título.\n\nParágrafo único. Com a constituição da propriedade fiduciária, dá-se o desdobramento da posse, tornando-se o fiduciante possuidor direto e o fiduciário possuidor indireto da coisa imóvel.\n\n§ 1º Parágrafo único. Com a constituição da propriedade fiduciária, dá-se o desdobramento da posse, tornando-se o fiduciante possuidor direto e o fiduciário possuidor indireto da coisa imóvel. (Incluído pela Lei nº 14.620, de 2023)\n\n§ 2º Caberá ao fiduciante a obrigação de arcar com o custo do pagamento do Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU) incidente sobre o bem e das taxas condominiais existentes. (Incluído pela Lei nº 14.620, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2023.%20Constitui-se%20a%20propriedade%20fiduci%C3%A1ria%20de%20coisa%20im%C3%B3vel%20mediante%20registro%2C%20no%20competente%20Registro%20de%20Im%C3%B3veis%2C%20do%20contrato%20que%20lhe%20serve%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. O contrato que serve de título ao negócio fiduciário conterá:\n\nI - o valor do principal da dívida;\n\nI - o valor da dívida, sua estimação ou seu valor máximo; (Redação dada pela Lei nº 14.711, de 2023)\n\nII - o prazo e as condições de reposição do empréstimo ou do crédito do fiduciário;\n\nIII - a taxa de juros e os encargos incidentes;\n\nIV - a cláusula de constituição da propriedade fiduciária, com a descrição do imóvel objeto da alienação fiduciária e a indicação do título e modo de aquisição;\n\nV - a cláusula assegurando ao fiduciante, enquanto adimplente, a livre utilização, por sua conta e risco, do imóvel objeto da alienação fiduciária;\n\nV - a cláusula que assegure ao fiduciante a livre utilização, por sua conta e risco, do imóvel objeto da alienação fiduciária, exceto a hipótese de inadimplência; (Redação dada pela Lei nº 14.711, de 2023)\n\nVI - a indicação, para efeito de venda em público leilão, do valor do imóvel e dos critérios para a respectiva revisão;\n\nVII - a cláusula dispondo sobre os procedimentos de que trata o art. 27.\n\nVII - a cláusula que disponha sobre os procedimentos de que tratam os arts. 26-A, 27 e 27-A desta Lei. (Redação dada pela Lei nº 14.711, de 2023)\n\nParágrafo único. Caso o valor do imóvel convencionado pelas partes nos termos do inciso VI do caput deste artigo seja inferior ao utilizado pelo órgão competente como base de cálculo para a apuração do imposto sobre transmissão inter vivos, exigível por força da consolidação da propriedade em nome do credor fiduciário, este último será o valor mínimo para efeito de venda do imóvel no primeiro leilão. (Incluído pela Lei nº 13.465, de 2017) (Revogado pela Medida Provisória nº 1.162, de 2023)\n\n§ 1º Caso o valor do imóvel convencionado pelas partes nos termos do inciso VI do caput seja inferior ao utilizado pelo órgão competente como base de cálculo para a apuração do imposto sobre transmissão inter vivos, exigível por força da consolidação da propriedade em nome do credor fiduciário, este último será o valor mínimo para efeito de venda do imóvel no primeiro leilão. (Incluído pela Medida Provisória nº 1.162, de 2023)\n\n§ 2º Nos contratos firmados com cláusula de alienação fiduciária em garantia, caberá ao fiduciante a obrigação de arcar com o custo do pagamento do Imposto sobre a Propriedade Predial e Territorial Urbana - IPTU incidente sobre o bem e das taxas condominiais existentes. (Incluído pela Medida Provisória nº 1.162, de 2023)\n\nParágrafo único. Caso o valor do imóvel convencionado pelas partes nos termos do inciso VI do caput deste artigo seja inferior ao utilizado pelo órgão competente como base de cálculo para a apuração do imposto sobre transmissão inter vivos, exigível por força da consolidação da propriedade em nome do credor fiduciário, este último será o valor mínimo para efeito de venda do imóvel no primeiro leilão. (Incluído pela Lei nº 13.465, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2024.%20O%20contrato%20que%20serve%20de%20t%C3%ADtulo%20ao%20neg%C3%B3cio%20fiduci%C3%A1rio%20conter%C3%A1%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Com o pagamento da dívida e seus encargos, resolve-se, nos termos deste artigo, a propriedade fiduciária do imóvel.\n\n§ 1º No prazo de trinta dias, a contar da data de liquidação da dívida, o fiduciário fornecerá o respectivo termo de quitação ao fiduciante, sob pena de multa em favor deste, equivalente a meio por cento ao mês, ou fração, sobre o valor do contrato.\n\n§ 1º No prazo de 30 (trinta) dias, contado da data de liquidação da dívida, o fiduciário fornecerá o termo de quitação ao devedor e, se for o caso, ao terceiro fiduciante. (Redação dada pela Lei nº 14.711, de 2023)\n\n§ 1º-A O não fornecimento do termo de quitação no prazo previsto no § 1º deste artigo acarretará multa ao fiduciário equivalente a 0,5% (meio por cento) ao mês, ou fração, sobre o valor do contrato, que se reverterá em favor daquele a quem o termo não tiver sido disponibilizado no referido prazo. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 2º À vista do termo de quitação de que trata o parágrafo anterior, o oficial do competente Registro de Imóveis efetuará o cancelamento do registro da propriedade fiduciária.\n\n§ 3o Nas hipóteses em que a quitação da dívida decorrer da portabilidade do financiamento para outra instituição financeira, não será emitido o termo de quitação de que trata este artigo, cabendo, quanto à alienação fiduciária, a mera averbação da sua transferência. (Incluído pela Lei nº 12.703, de 2012) (Revogado pela Lei nº 12.810, de 2013)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2025.%20Com%20o%20pagamento%20da%20d%C3%ADvida%20e%20seus%20encargos%2C%20resolve-se%2C%20nos%20termos%20deste%20artigo%2C%20a%20propriedade%20fiduci%C3%A1ria%20do%20im%C3%B3vel.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Vencida e não paga, no todo ou em parte, a dívida e constituído em mora o fiduciante, consolidar-se-á, nos termos deste artigo, a propriedade do imóvel em nome do fiduciário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2026.%20Vencida%20e%20n%C3%A3o%20paga%2C%20no%20todo%20ou%20em%20parte%2C%20a%20d%C3%ADvida%20e%20constitu%C3%ADdo%20em%20mora%20o%20fiduciante%2C%20consolidar-se-%C3%A1%2C%20nos%20termos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "26-A"
+    },
+    "26-A": {
+      "numero": "26-A",
+      "texto": "Art. 26-A. Os procedimentos de cobrança, purgação de mora e consolidação da propriedade fiduciária relativos às operações de financiamento habitacional, inclusive as operações do Programa Minha Casa, Minha Vida, instituído pela Lei no 11.977, de 7 de julho de 2009, com recursos advindos da integralização de cotas no Fundo de Arrendamento Residencial (FAR), sujeitam-se às normas especiais estabelecidas neste artigo. (Incluído pela Lei nº 13.465, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2026-A.%20Os%20procedimentos%20de%20cobran%C3%A7a%2C%20purga%C3%A7%C3%A3o%20de%20mora%20e%20consolida%C3%A7%C3%A3o%20da%20propriedade%20fiduci%C3%A1ria%20relativos%20%C3%A0s%20opera%C3%A7%C3%B5es%20de%20financiamento%20habitacional%2C%20inclusive%20as",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Uma vez consolidada a propriedade em seu nome, o fiduciário, no prazo de trinta dias, contados da data do registro de que trata o § 7º do artigo anterior, promoverá público leilão para a alienação do imóvel.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2027.%20Uma%20vez%20consolidada%20a%20propriedade%20em%20seu%20nome%2C%20o%20fiduci%C3%A1rio%2C%20no%20prazo%20de%20trinta%20dias%2C%20contados%20da%20data%20do%20registro",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26-A",
+      "next": "27-A"
+    },
+    "27-A": {
+      "numero": "27-A",
+      "texto": "Art. 27-A. Nas operações de crédito garantidas por alienação fiduciária de 2 (dois) ou mais imóveis, na hipótese de não ser convencionada a vinculação de cada imóvel a 1 (uma) parcela da dívida, o credor poderá promover a excussão em ato simultâneo, por meio de consolidação da propriedade e leilão de todos os imóveis em conjunto, ou em atos sucessivos, por meio de consolidação e leilão de cada imóvel em sequência, à medida do necessário para satisfação integral do crédito. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 1º Na hipótese de excussão em atos sucessivos, caberá ao credor fiduciário a indicação dos imóveis a serem excutidos em sequência, exceto se houver disposição em sentido contrário expressa no contrato, situação em que a consolidação da propriedade dos demais ficará suspensa. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 2º A cada leilão, o credor fiduciário promoverá nas matrículas dos imóveis não leiloados a averbação do demonstrativo do resultado e o encaminhará ao devedor e, se for o caso, aos terceiros fiduciantes, por meio de correspondência dirigida aos endereços físico e eletrônico informados no contrato. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 3º Na hipótese de não se alcançar a quantia suficiente para satisfação do crédito, a cada leilão realizado, o credor recolherá o imposto sobre transmissão inter vivos e, se for o caso, o laudêmio, relativos ao imóvel a ser excutido em seguida, requererá a averbação da consolidação da propriedade e, no prazo de 30 (trinta) dias, realizará os procedimentos de leilão nos termos do art. 27 desta Lei. (Incluído pela Lei nº 14.711, de 2023)\n\n§ 4º Satisfeito integralmente o crédito com o produto dos leilões realizados sucessivamente, o credor fiduciário entregará ao devedor e, se for o caso, aos terceiros fiduciantes, o termo de quitação e a autorização de cancelamento do registro da propriedade fiduciária de eventuais imóveis que restem a ser desonerados. (Incluído pela Lei nº 14.711, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2027-A.%20Nas%20opera%C3%A7%C3%B5es%20de%20cr%C3%A9dito%20garantidas%20por%20aliena%C3%A7%C3%A3o%20fiduci%C3%A1ria%20de%202%20%28dois%29%20ou%20mais%20im%C3%B3veis%2C%20na%20hip%C3%B3tese%20de%20n%C3%A3o%20ser%20convencionada",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. A cessão do crédito objeto da alienação fiduciária implicará a transferência, ao cessionário, de todos os direitos e obrigações inerentes à propriedade fiduciária em garantia.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2028.%20A%20cess%C3%A3o%20do%20cr%C3%A9dito%20objeto%20da%20aliena%C3%A7%C3%A3o%20fiduci%C3%A1ria%20implicar%C3%A1%20a%20transfer%C3%AAncia%2C%20ao%20cession%C3%A1rio%2C%20de%20todos%20os%20direitos%20e%20obriga%C3%A7%C3%B5es%20inerentes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27-A",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. O fiduciante, com anuência expressa do fiduciário, poderá transmitir os direitos de que seja titular sobre o imóvel objeto da alienação fiduciária em garantia, assumindo o adquirente as respectivas obrigações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2029.%20O%20fiduciante%2C%20com%20anu%C3%AAncia%20expressa%20do%20fiduci%C3%A1rio%2C%20poder%C3%A1%20transmitir%20os%20direitos%20de%20que%20seja%20titular%20sobre%20o%20im%C3%B3vel%20objeto%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. É assegurada ao fiduciário, seu cessionário ou sucessores, inclusive o adquirente do imóvel por força do público leilão de que tratam os §§ 1° e 2° do art. 27, a reintegração na posse do imóvel, que será concedida liminarmente, para desocupação em sessenta dias, desde que comprovada, na forma do disposto no art. 26, a consolidação da propriedade em seu nome.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2030.%20%C3%89%20assegurada%20ao%20fiduci%C3%A1rio%2C%20seu%20cession%C3%A1rio%20ou%20sucessores%2C%20inclusive%20o%20adquirente%20do%20im%C3%B3vel%20por%20for%C3%A7a%20do%20p%C3%BAblico%20leil%C3%A3o%20de%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. O fiador ou terceiro interessado que pagar a dívida ficará sub-rogado, de pleno direito, no crédito e na propriedade fiduciária.\n\nParágrafo único. Nos casos de transferência de financiamento para outra instituição financeira, o pagamento da dívida à instituição credora original poderá ser feito, a favor do mutuário, pela nova instituição credora. (Incluído pela Lei nº 12.810, de 2013)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2031.%20O%20fiador%20ou%20terceiro%20interessado%20que%20pagar%20a%20d%C3%ADvida%20ficar%C3%A1%20sub-rogado%2C%20de%20pleno%20direito%2C%20no%20cr%C3%A9dito%20e%20na%20propriedade%20fiduci%C3%A1ria.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. Na hipótese de insolvência do fiduciante, fica assegurada ao fiduciário a restituição do imóvel alienado fiduciariamente, na forma da legislação pertinente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2032.%20Na%20hip%C3%B3tese%20de%20insolv%C3%AAncia%20do%20fiduciante%2C%20fica%20assegurada%20ao%20fiduci%C3%A1rio%20a%20restitui%C3%A7%C3%A3o%20do%20im%C3%B3vel%20alienado%20fiduciariamente%2C%20na%20forma%20da%20legisla%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Aplicam-se à propriedade fiduciária, no que couber, as disposições dos arts. 647 e 648 do Código Civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2033.%20Aplicam-se%20%C3%A0%20propriedade%20fiduci%C3%A1ria%2C%20no%20que%20couber%2C%20as%20disposi%C3%A7%C3%B5es%20dos%20arts.%20647%20e%20648%20do%20C%C3%B3digo%20Civil.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "33-A"
+    },
+    "33-A": {
+      "numero": "33-A",
+      "texto": "Art. 33-A. A transferência de dívida de financiamento imobiliário com garantia real, de um credor para outro, inclusive sob a forma de sub-rogação, obriga o credor original a emitir documento que ateste, para todos os fins de direito, inclusive para efeito de averbação, a validade da transferência. (Incluído pela Lei nº 12.810, de 2013)\n\nParágrafo único. A emissão do documento será feita no prazo máximo de 2 (dois) dias úteis após a quitação da dívida original. (Incluído pela Lei nº 12.810, de 2013)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2033-A.%20A%20transfer%C3%AAncia%20de%20d%C3%ADvida%20de%20financiamento%20imobili%C3%A1rio%20com%20garantia%20real%2C%20de%20um%20credor%20para%20outro%2C%20inclusive%20sob%20a%20forma%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II-A (Incluído pela Lei nº 12.810, de 2013)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "33-B"
+    },
+    "33-B": {
+      "numero": "33-B",
+      "texto": "Art. 33-B. Para fins de efetivação do disposto no art. 33-A, a nova instituição credora deverá informar à instituição credora original, por documento escrito ou, quando solicitado, eletrônico, as condições de financiamento oferecidas ao mutuário, inclusive as seguintes: (Incluído pela Lei nº 12.810, de 2013)\n\nI - a taxa de juros do financiamento; (Incluído pela Lei nº 12.810, de 2013)\n\nII - o custo efetivo total; (Incluído pela Lei nº 12.810, de 2013)\n\nIII - o prazo da operação; (Incluído pela Lei nº 12.810, de 2013)\n\nIV - o sistema de pagamento utilizado; e (Incluído pela Lei nº 12.810, de 2013)\n\nV - o valor das prestações. (Incluído pela Lei nº 12.810, de 2013)\n\n§ 1o A instituição credora original terá prazo máximo de 5 (cinco) dias úteis, contados do recebimento das informações de que trata o caput, para solicitar à instituição proponente da transferência o envio dos recursos necessários para efetivar a transferência. (Incluído pela Lei nº 12.810, de 2013)\n\n§ 2o O mutuário da instituição credora original poderá, a qualquer tempo, enquanto não encaminhada a solicitação de envio dos recursos necessários para efetivar a transferência de que trata o § 1o, decidir pela não efetivação da transferência, sendo vedada a cobrança de qualquer tipo de ônus ou custa por parte das instituições envolvidas. (Incluído pela Lei nº 12.810, de 2013)\n\n§ 3o A eventual desistência do mutuário deverá ser informada à instituição credora original, que terá até 2 (dois) dias úteis para transmiti-la à instituição proponente da transferência. (Incluído pela Lei nº 12.810, de 2013)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2033-B.%20Para%20fins%20de%20efetiva%C3%A7%C3%A3o%20do%20disposto%20no%20art.%2033-A%2C%20a%20nova%20institui%C3%A7%C3%A3o%20credora%20dever%C3%A1%20informar%20%C3%A0%20institui%C3%A7%C3%A3o%20credora%20original%2C%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II-A (Incluído pela Lei nº 12.810, de 2013)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33-A",
+      "next": "33-C"
+    },
+    "33-C": {
+      "numero": "33-C",
+      "texto": "Art. 33-C. O credor original deverá fornecer a terceiros, sempre que formalmente solicitado pelo mutuário, as informações sobre o crédito que se fizerem necessárias para viabilizar a transferência referida no art. 33-A. (Incluído pela Lei nº 12.810, de 2013)\n\nParágrafo único. O credor original não poderá realizar ações que impeçam, limitem ou dificultem o fornecimento das informações requeridas na forma do caput. (Incluído pela Lei nº 12.810, de 2013)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2033-C.%20O%20credor%20original%20dever%C3%A1%20fornecer%20a%20terceiros%2C%20sempre%20que%20formalmente%20solicitado%20pelo%20mutu%C3%A1rio%2C%20as%20informa%C3%A7%C3%B5es%20sobre%20o%20cr%C3%A9dito%20que%20se",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II-A (Incluído pela Lei nº 12.810, de 2013)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33-B",
+      "next": "33-D"
+    },
+    "33-D": {
+      "numero": "33-D",
+      "texto": "Art. 33-D. A instituição credora original poderá exigir ressarcimento financeiro pelo custo de originação da operação de crédito, o qual não poderá ser repassado ao mutuário. (Incluído pela Lei nº 12.810, de 2013)\n\n§ 1o O ressarcimento disposto no caput deverá ser proporcional ao valor do saldo devedor apurado à época da transferência e decrescente com o decurso de prazo desde a assinatura do contrato, cabendo sua liquidação à instituição proponente da transferência. (Incluído pela Lei nº 12.810, de 2013)\n\n§ 2o O Conselho Monetário Nacional disciplinará o disposto neste artigo, podendo inclusive limitar o ressarcimento considerando o tipo de operação de crédito ou o prazo decorrido desde a assinatura do contrato de crédito com a instituição credora original até o momento da transferência. (Incluído pela Lei nº 12.810, de 2013)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2033-D.%20A%20institui%C3%A7%C3%A3o%20credora%20original%20poder%C3%A1%20exigir%20ressarcimento%20financeiro%20pelo%20custo%20de%20origina%C3%A7%C3%A3o%20da%20opera%C3%A7%C3%A3o%20de%20cr%C3%A9dito%2C%20o%20qual%20n%C3%A3o%20poder%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II-A (Incluído pela Lei nº 12.810, de 2013)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33-C",
+      "next": "33-E"
+    },
+    "33-E": {
+      "numero": "33-E",
+      "texto": "Art. 33-E. O Conselho Monetário Nacional e o Conselho Curador do Fundo de Garantia do Tempo de Serviço, no âmbito de suas respectivas competências, expedirão as instruções que se fizerem necessárias à execução do disposto no parágrafo único do art. 31 e nos arts. 33-A a 33-D desta Lei. (Incluído pela Lei nº 12.810, de 2013)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2033-E.%20O%20Conselho%20Monet%C3%A1rio%20Nacional%20e%20o%20Conselho%20Curador%20do%20Fundo%20de%20Garantia%20do%20Tempo%20de%20Servi%C3%A7o%2C%20no%20%C3%A2mbito%20de%20suas",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II-A (Incluído pela Lei nº 12.810, de 2013)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33-D",
+      "next": "33-F"
+    },
+    "33-F": {
+      "numero": "33-F",
+      "texto": "Art. 33-F. O disposto nos arts. 33-A a 33-E desta Lei não se aplica às operações de transferência de dívida decorrentes de cessão de crédito entre entidades que compõem o Sistema Financeiro da Habitação, desde que a citada transferência independa de manifestação do mutuário. (Incluído pela Lei nº 12.810, de 2013)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2033-F.%20O%20disposto%20nos%20arts.%2033-A%20a%2033-E%20desta%20Lei%20n%C3%A3o%20se%20aplica%20%C3%A0s%20opera%C3%A7%C3%B5es%20de%20transfer%C3%AAncia%20de%20d%C3%ADvida%20decorrentes%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II-A (Incluído pela Lei nº 12.810, de 2013)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33-E",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. Os contratos relativos ao financiamento imobiliário em geral poderão estipular que litígios ou controvérsias entre as partes sejam dirimidos mediante arbitragem, nos termos do disposto na Lei nº 9.307, de 24 de setembro de 1996.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2034.%20Os%20contratos%20relativos%20ao%20financiamento%20imobili%C3%A1rio%20em%20geral%20poder%C3%A3o%20estipular%20que%20lit%C3%ADgios%20ou%20controv%C3%A9rsias%20entre%20as%20partes%20sejam%20dirimidos%20mediante",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33-F",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Nas cessões de crédito a que aludem os arts. 3º, 18 e 28, é dispensada a notificação do devedor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2035.%20Nas%20cess%C3%B5es%20de%20cr%C3%A9dito%20a%20que%20aludem%20os%20arts.%203%C2%BA%2C%2018%20e%2028%2C%20%C3%A9%20dispensada%20a%20notifica%C3%A7%C3%A3o%20do%20devedor.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. Nos contratos de venda de imóveis a prazo, inclusive alienação fiduciária, de arrendamento mercantil de imóveis, de financiamento imobiliário em geral e nos títulos de que tratam os arts. 6º, 7º e 8º, admitir-se-á, respeitada a legislação pertinente, a estipulação de cláusula de reajuste e das condições e critérios de sua aplicação. (Revogado pela Medida Provisória nº 2.223, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2036.%20Nos%20contratos%20de%20venda%20de%20im%C3%B3veis%20a%20prazo%2C%20inclusive%20aliena%C3%A7%C3%A3o%20fiduci%C3%A1ria%2C%20de%20arrendamento%20mercantil%20de%20im%C3%B3veis%2C%20de%20financiamento%20imobili%C3%A1rio%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Às operações de arrendamento mercantil de imóveis não se aplica a legislação pertinente à locação de imóveis residenciais, não residenciais ou comerciais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2037.%20%C3%80s%20opera%C3%A7%C3%B5es%20de%20arrendamento%20mercantil%20de%20im%C3%B3veis%20n%C3%A3o%20se%20aplica%20a%20legisla%C3%A7%C3%A3o%20pertinente%20%C3%A0%20loca%C3%A7%C3%A3o%20de%20im%C3%B3veis%20residenciais%2C%20n%C3%A3o%20residenciais",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "37-A"
+    },
+    "37-A": {
+      "numero": "37-A",
+      "texto": "Art. 37-A. O fiduciante pagará ao fiduciário, ou a quem vier a sucedê-lo, a título de taxa de ocupação do imóvel, por mês ou fração, valor correspondente a um por cento do valor a que se refere o inciso VI do art. 24, computado e exigível desde a data da alienação em leilão até a data em que o fiduciário, ou seus sucessores, vier a ser imitido na posse do imóvel. (Incluído pela Medida Provisória nº 2.223, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2037-A.%20O%20fiduciante%20pagar%C3%A1%20ao%20fiduci%C3%A1rio%2C%20ou%20a%20quem%20vier%20a%20suced%C3%AA-lo%2C%20a%20t%C3%ADtulo%20de%20taxa%20de%20ocupa%C3%A7%C3%A3o%20do%20im%C3%B3vel%2C%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "37-B"
+    },
+    "37-B": {
+      "numero": "37-B",
+      "texto": "Art. 37-B. Será considerada ineficaz, e sem qualquer efeito perante o fiduciário ou seus sucessores, a contratação ou a prorrogação de locação de imóvel alienado fiduciariamente por prazo superior a um ano sem concordância por escrito do fiduciário. (Incluído pela Medida Provisória nº 2.223, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2037-B.%20Ser%C3%A1%20considerada%20ineficaz%2C%20e%20sem%20qualquer%20efeito%20perante%20o%20fiduci%C3%A1rio%20ou%20seus%20sucessores%2C%20a%20contrata%C3%A7%C3%A3o%20ou%20a%20prorroga%C3%A7%C3%A3o%20de%20loca%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37-A",
+      "next": "37-C"
+    },
+    "37-C": {
+      "numero": "37-C",
+      "texto": "Art. 37-C. Os editais previstos nesta Lei poderão ser publicados de forma eletrônica. (Incluído pela Lei nº 14.620, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2037-C.%20Os%20editais%20previstos%20nesta%20Lei%20poder%C3%A3o%20ser%20publicados%20de%20forma%20eletr%C3%B4nica.%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2014.620%2C%20de%202023%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37-B",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Os contratos resultantes da aplicação desta Lei, quando celebrados com pessoa física, beneficiária final da operação, poderão ser formalizados por instrumento particular, não se lhe aplicando a norma do art. 134, II, do Código Civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2038.%20Os%20contratos%20resultantes%20da%20aplica%C3%A7%C3%A3o%20desta%20Lei%2C%20quando%20celebrados%20com%20pessoa%20f%C3%ADsica%2C%20benefici%C3%A1ria%20final%20da%20opera%C3%A7%C3%A3o%2C%20poder%C3%A3o%20ser%20formalizados%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37-C",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. Às operações de financiamento imobiliário em geral a que se refere esta Lei:",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2039.%20%C3%80s%20opera%C3%A7%C3%B5es%20de%20financiamento%20imobili%C3%A1rio%20em%20geral%20a%20que%20se%20refere%20esta%20Lei%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. Os incisos I e II do art. 167 da Lei nº 6.015, de 31 de dezembro de 1973, passam a vigorar acrescidos, respectivamente, dos seguintes itens:\n\n\"Art. 167. ...................................................................\n\nI - ..............................................................................\n\n..................................................................................\n\n35) da alienação fiduciária em garantia de coisa imóvel.\n\nII - ..............................................................................\n\n...................................................................................\n\n17) do Termo de Securitização de créditos imobiliários, quando submetidos a regime fiduciário.\"",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2040.%20Os%20incisos%20I%20e%20II%20do%20art.%20167%20da%20Lei%20n%C2%BA%206.015%2C%20de%2031%20de%20dezembro%20de%201973%2C%20passam%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. O Ministro de Estado da Fazenda poderá expedir as instruções que se fizerem necessárias à execução do disposto nesta Lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2041.%20O%20Ministro%20de%20Estado%20da%20Fazenda%20poder%C3%A1%20expedir%20as%20instru%C3%A7%C3%B5es%20que%20se%20fizerem%20necess%C3%A1rias%20%C3%A0%20execu%C3%A7%C3%A3o%20do%20disposto%20nesta%20Lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. Esta Lei entra em vigor na data de sua publicação.\n\nBrasília, 20 de novembro de 1997; 176º da Independência e 109º da República.\n\nFERNANDO HENRIQUE CARDOSO Pedro Malan Antonio Kandir.\n\nEste texto não substitui o publicado no D.O.U. de 21.11.1997 e retificado em 24.11.1997.\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm#:~:text=Art.%2042.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": null
+    }
+  }
+}

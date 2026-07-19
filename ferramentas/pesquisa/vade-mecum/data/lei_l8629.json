@@ -1,0 +1,591 @@
+{
+  "_meta": {
+    "codigo": "L8629",
+    "nome": "Reforma Agrária",
+    "lei": "Lei 8.629/1993",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm",
+    "total_artigos": 36,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º Esta lei regulamenta e disciplina disposições relativas à reforma agrária, previstas no Capítulo III, Título VII, da Constituição Federal.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%201%C2%BA%20Esta%20lei%20regulamenta%20e%20disciplina%20disposi%C3%A7%C3%B5es%20relativas%20%C3%A0%20reforma%20agr%C3%A1ria%2C%20previstas%20no%20Cap%C3%ADtulo%20III%2C%20T%C3%ADtulo%20VII%2C%20da%20Constitui%C3%A7%C3%A3o%20Federal.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º A propriedade rural que não cumprir a função social prevista no art. 9º é passível de desapropriação, nos termos desta lei, respeitados os dispositivos constitucionais. (Regulamento)\n\n§ 1º Compete à União desapropriar por interesse social, para fins de reforma agrária, o imóvel rural que não esteja cumprindo sua função social.\n\n§ 2o Para os fins deste artigo, fica a União, através do órgão federal competente, autorizada a ingressar no imóvel de propriedade particular para levantamento de dados e informações, mediante prévia comunicação escrita ao proprietário, preposto ou seu representante. (Redação dada pela Medida Provisória nº 2.183-56, de 2001)\n\n§ 3o Na ausência do proprietário, do preposto ou do representante, a comunicação será feita mediante edital, a ser publicado, por três vezes consecutivas, em jornal de grande circulação na capital do Estado de localização do imóvel. (Incluído pela Medida Provisória nº 2.183-56, de 2001)\n\n§ 4o Não será considerada, para os fins desta Lei, qualquer modificação, quanto ao domínio, à dimensão e às condições de uso do imóvel, introduzida ou ocorrida até seis meses após a data da comunicação para levantamento de dados e informações de que tratam os §§ 2o e 3o. (Incluído pela Medida Provisória nº 2.183-56, de 2001)\n\n§ 5o No caso de fiscalização decorrente do exercício de poder de polícia, será dispensada a comunicação de que tratam os §§ 2o e 3o. (Incluído pela Medida Provisória nº 2.183-56, de 2001)\n\n§ 6o O imóvel rural de domínio público ou particular objeto de esbulho possessório ou invasão motivada por conflito agrário ou fundiário de caráter coletivo não será vistoriado, avaliado ou desapropriado nos dois anos seguintes à sua desocupação, ou no dobro desse prazo, em caso de reincidência; e deverá ser apurada a responsabilidade civil e administrativa de quem concorra com qualquer ato omissivo ou comissivo que propicie o descumprimento dessas vedações. (Incluído pela Medida Provisória nº 2.183-56, de 2001) (Vide ADI 2411) (Vide ADI 2213)\n\n§ 7o Será excluído do Programa de Reforma Agrária do Governo Federal quem, já estando beneficiado com lote em Projeto de Assentamento, ou sendo pretendente desse benefício na condição de inscrito em processo de cadastramento e seleção de candidatos ao acesso à terra, for efetivamente identificado como participante direto ou indireto em conflito fundiário que se caracterize por invasão ou esbulho de imóvel rural de domínio público ou privado em fase de processo administrativo de vistoria ou avaliação para fins de reforma agrária, ou que esteja sendo objeto de processo judicial de desapropriação em vias de imissão de posse ao ente expropriante; e bem assim quem for efetivamente identificado como participante de invasão de prédio público, de atos de ameaça, seqüestro ou manutenção de servidores públicos e outros cidadãos em cárcere privado, ou de quaisquer outros atos de violência real ou pessoal praticados em tais situações. (Incluído pela Medida Provisória nº 2.183-56, de 2001)\n\n§ 8o A entidade, a organização, a pessoa jurídica, o movimento ou a sociedade de fato que, de qualquer forma, direta ou indiretamente, auxiliar, colaborar, incentivar, incitar, induzir ou participar de invasão de imóveis rurais ou de bens públicos, ou em conflito agrário ou fundiário de caráter coletivo, não receberá, a qualquer título, recursos públicos. (Incluído pela Medida Provisória nº 2.183-56, de 2001)\n\n§ 9o Se, na hipótese do § 8o, a transferência ou repasse dos recursos públicos já tiverem sido autorizados, assistirá ao Poder Público o direito de retenção, bem assim o de rescisão do contrato, convênio ou instrumento similar. (Incluído pela Medida Provisória nº 2.183-56, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%202%C2%BA%20A%20propriedade%20rural%20que%20n%C3%A3o%20cumprir%20a%20fun%C3%A7%C3%A3o%20social%20prevista%20no%20art.%209%C2%BA%20%C3%A9%20pass%C3%ADvel%20de%20desapropria%C3%A7%C3%A3o%2C%20nos%20termos%20desta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "2-A"
+    },
+    "2-A": {
+      "numero": "2-A",
+      "texto": "Art. 2o-A. Na hipótese de fraude ou simulação de esbulho ou invasão, por parte do proprietário ou legítimo possuidor do imóvel, para os fins dos §§ 6o e 7o do art. 2o, o órgão executor do Programa Nacional de Reforma Agrária aplicará pena administrativa de R$ 55.000,00 (cinqüenta e cinco mil reais) a R$ 535.000,00 (quinhentos e trinta e cinco mil reais) e o cancelamento do cadastro do imóvel no Sistema Nacional de Cadastro Rural, sem prejuízo das demais sanções penais e civis cabíveis. (Incluído pela Medida Provisória nº 2.183-56, de 2001)\n\nParágrafo único. Os valores a que se refere este artigo serão atualizados, a partir de maio de 2000, no dia 1o de janeiro de cada ano, com base na variação acumulada do Índice Geral de Preços - Disponibilidade Interna - IGP-DI, da Fundação Getúlio Vargas, no respectivo período. (Incluído pela Medida Provisória nº 2.183-56, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%202o-A.%20Na%20hip%C3%B3tese%20de%20fraude%20ou%20simula%C3%A7%C3%A3o%20de%20esbulho%20ou%20invas%C3%A3o%2C%20por%20parte%20do%20propriet%C3%A1rio%20ou%20leg%C3%ADtimo%20possuidor%20do%20im%C3%B3vel%2C%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º (Vetado)\n\n§ 1º (Vetado)\n\n§ 2º (Vetado)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%203%C2%BA%20%28Vetado%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2-A",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º Para os efeitos desta lei, conceituam-se:\n\nI- Imóvel Rural - o prédio rústico de área contínua, qualquer que seja a sua localização, que se destine ou possa se destinar à exploração agrícola, pecuária, extrativa vegetal, florestal ou agro-industrial;\n\nII - Pequena Propriedade - o imóvel rural:\n\na) de área até quatro módulos fiscais, respeitada a fração mínima de parcelamento; (Redação dada pela Lei nº 13.465, de 2017)\n\nb) (Vetado)\n\nc) (Vetado)\n\nIII - Média Propriedade - o imóvel rural:\n\na) de área superior a 4 (quatro) e até 15 (quinze) módulos fiscais;\n\nb) (Vetado)\n\n§ 1º São insuscetíveis de desapropriação para fins de reforma agrária a pequena e a média propriedade rural, desde que o seu proprietário não possua outra propriedade rural. (Redação dada pela nº Lei nº 13.465, de 2017)\n\n§ 2o É obrigatória a manutenção no Sistema Nacional de Cadastro Rural (SNCR) de informações específicas sobre imóveis rurais com área de até um módulo fiscal. (Incluído pela pela Lei nº 13.465, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%204%C2%BA%20Para%20os%20efeitos%20desta%20lei%2C%20conceituam-se%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º A desapropriação por interesse social, aplicável ao imóvel rural que não cumpra sua função social, importa prévia e justa indenização em títulos da dívida agrária.\n\n§ 1º As benfeitorias úteis e necessárias serão indenizadas em dinheiro.\n\n§ 2º O decreto que declarar o imóvel como de interesse social, para fins de reforma agrária, autoriza a União a propor ação de desapropriação.\n\n§ 3º Os títulos da dívida agrária, que conterão cláusula assecuratória de preservação de seu valor real, serão resgatáveis a partir do segundo ano de sua emissão, em percentual proporcional ao prazo, observados os seguintes critérios:\n\nI - do segundo ao décimo quinto ano, quando emitidos para indenização de imóvel com área de até setenta módulos fiscais; (Redação dada pela Medida Provisória nº 2.183-56, de 2001)\n\nII - do segundo ao décimo oitavo ano, quando emitidos para indenização de imóvel com área acima de setenta e até cento e cinqüenta módulos fiscais; e (Redação dada pela Medida Provisória nº 2.183-56, de 2001)III - do segundo ao vigésimo ano, quando emitidos para indenização de imóvel com área superior a cento e cinqüenta módulos fiscais. (Redação dada pela Medida Provisória nº 2.183-56, de 2001)\n\n§ 4o Na hipótese de acordo administrativo ou acordo realizado no âmbito do procedimento previsto na Lei Complementar no 76, de 6 de julho de 1993, o pagamento será efetuado de forma escalonada em Títulos da Dívida Agrária (TDA), resgatáveis em parcelas anuais, iguais e sucessivas, a partir do segundo ano de sua emissão, observadas as seguintes condições: (Redação dada pela nº Lei nº 13.465, de 2017)\n\nI - imóveis com área de até três mil hectares, no prazo de cinco anos; (Incluído pela Medida Provisória nº 2.183-56, de 2001)\n\nII - imóveis com área superior a três mil hectares: (Incluído pela Medida Provisória nº 2.183-56, de 2001)\n\na) o valor relativo aos primeiros três mil hectares, no prazo de cinco anos; (Incluído pela Medida Provisória nº 2.183-56, de 2001)\n\nb) o valor relativo à área superior a três mil e até dez mil hectares, em dez anos; (Incluído pela Medida Provisória nº 2.183-56, de 2001)\n\nc) o valor relativo à área superior a dez mil hectares até quinze mil hectares, em quinze anos; e (Incluído pela Medida Provisória nº 2.183-56, de 2001)\n\nd) o valor da área que exceder quinze mil hectares, em vinte anos. (Incluído pela Medida Provisória nº 2.183-56, de 2001)\n\n§ 5o Os prazos previstos no § 4o, quando iguais ou superiores a dez anos, poderão ser reduzidos em cinco anos, desde que o proprietário concorde em receber o pagamento do valor das benfeitorias úteis e necessárias integralmente em TDA. (Incluído pela Medida Provisória nº 2.183-56, de 2001)\n\n§ 6o Aceito pelo proprietário o pagamento das benfeitorias úteis e necessárias em TDA, os prazos de resgates dos respectivos títulos serão fixados mantendo-se a mesma proporcionalidade estabelecida para aqueles relativos ao valor da terra e suas acessões naturais. (Incluído pela Medida Provisória nº 2.183-56, de 2001)\n\n§ 7o Na aquisição por compra e venda ou na arrematação judicial de imóveis rurais destinados à implementação de projetos integrantes do Programa Nacional de Reforma Agrária, o pagamento poderá ser feito em dinheiro, na forma estabelecida em regulamento. (Incluído pela Lei nº 13.465, de 2017)\n\n§ 8o Na hipótese de decisão judicial transitada em julgado fixar a indenização da terra nua ou das benfeitorias indenizáveis em valor superior ao ofertado pelo expropriante, corrigido monetariamente, a diferença será paga na forma do art. 100 da Constituição Federal. (Incluído pela nº Lei nº 13.465, de 2017)\n\n§ 9o Se houver imissão prévia na posse e, posteriormente, for verificada divergência entre o preço ofertado em juízo e o valor do bem fixado na sentença definitiva, expressos em termos reais, sobre a diferença eventualmente apurada incidirão juros compensatórios a contar da imissão de posse, em percentual correspondente ao fixado para os títulos da dívida agrária depositados como oferta inicial para a terra nua, vedado o cálculo de juros compostos. (Incluído pela Lei nº 13.465, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%205%C2%BA%20A%20desapropria%C3%A7%C3%A3o%20por%20interesse%20social%2C%20aplic%C3%A1vel%20ao%20im%C3%B3vel%20rural%20que%20n%C3%A3o%20cumpra%20sua%20fun%C3%A7%C3%A3o%20social%2C%20importa%20pr%C3%A9via%20e%20justa%20indeniza%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Considera-se propriedade produtiva aquela que, explorada econômica e racionalmente, atinge, simultaneamente, graus de utilização da terra e de eficiência na exploração, segundo índices fixados pelo órgão federal competente.\n\n§ 1º O grau de utilização da terra, para efeito do caput deste artigo, deverá ser igual ou superior a 80% (oitenta por cento), calculado pela relação percentual entre a área efetivamente utilizada e a área aproveitável total do imóvel.\n\n§ 2º O grau de eficiência na exploração da terra deverá ser igual ou superior a 100% (cem por cento), e será obtido de acordo com a seguinte sistemática:\n\nI - para os produtos vegetais, divide-se a quantidade colhida de cada produto pelos respectivos índices de rendimento estabelecidos pelo órgão competente do Poder Executivo, para cada Microrregião Homogênea;\n\nII - para a exploração pecuária, divide-se o número total de Unidades Animais (UA) do rebanho, pelo índice de lotação estabelecido pelo órgão competente do Poder Executivo, para cada Microrregião Homogênea;\n\nIII - a soma dos resultados obtidos na forma dos incisos I e II deste artigo, dividida pela área efetivamente utilizada e multiplicada por 100 (cem), determina o grau de eficiência na exploração.\n\n§ 3º Considera-se efetivamente utilizadas:\n\nI - as áreas plantadas com produtos vegetais;\n\nII - as áreas de pastagens nativas e plantadas, observado o índice de lotação por zona de pecuária, fixado pelo Poder Executivo;\n\nIII - as áreas de exploração extrativa vegetal ou florestal, observados os índices de rendimento estabelecidos pelo órgão competente do Poder Executivo, para cada Microrregião Homogênea, e a legislação ambiental;\n\nIV - as áreas de exploração de florestas nativas, de acordo com plano de exploração e nas condições estabelecidas pelo órgão federal competente;\n\nV - as áreas sob processos técnicos de formação ou recuperação de pastagens ou de culturas permanentes, tecnicamente conduzidas e devidamente comprovadas, mediante documentação e Anotação de Responsabilidade Técnica. (Redação dada pela Medida Provisória nº 2.183-56, de 2001)\n\n§ 4º No caso de consórcio ou intercalação de culturas, considera-se efetivamente utilizada a área total do consórcio ou intercalação.\n\n§ 5º No caso de mais de um cultivo no ano, com um ou mais produtos, no mesmo espaço, considera-se efetivamente utilizada a maior área usada no ano considerado.\n\n§ 6º Para os produtos que não tenham índices de rendimentos fixados, adotar-se-á a área utilizada com esses produtos, com resultado do cálculo previsto no inciso I do § 2º deste artigo.\n\n§ 7º Não perderá a qualificação de propriedade produtiva o imóvel que, por razões de força maior, caso fortuito ou de renovação de pastagens tecnicamente conduzida, devidamente comprovados pelo órgão competente, deixar de apresentar, no ano respectivo, os graus de eficiência na exploração, exigidos para a espécie.\n\n§ 8º São garantidos os incentivos fiscais referentes ao Imposto Territorial Rural relacionados com os graus de utilização e de eficiência na exploração, conforme o disposto no art. 49 da Lei nº 4.504, de 30 de novembro de 1964.\n\n§ 9º Os laudos que indiquem o grau de utilização da terra e o grau de eficiência na exploração produzidos há mais de 5 (cinco) anos deverão, a pedido do proprietário, ser atualizados de acordo com as condições atuais da propriedade. (Redação dada pela Lei nº 14.757, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%206%C2%BA%20Considera-se%20propriedade%20produtiva%20aquela%20que%2C%20explorada%20econ%C3%B4mica%20e%20racionalmente%2C%20atinge%2C%20simultaneamente%2C%20graus%20de%20utiliza%C3%A7%C3%A3o%20da%20terra%20e%20de%20efici%C3%AAncia%20na",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Não será passível de desapropriação, para fins de reforma agrária, o imóvel que comprove estar sendo objeto de implantação de projeto técnico que atenda aos seguintes requisitos:\n\nI - seja elaborado por profissional legalmente habilitado e identificado;\n\nII - esteja cumprindo o cronograma físico-financeiro originalmente previsto, não admitidas prorrogações dos prazos;\n\nIII - preveja que, no mínimo, 80% (oitenta por cento) da área total aproveitável do imóvel seja efetivamente utilizada em, no máximo, 3 (três) anos para as culturas anuais e 5 (cinco) anos para as culturas permanentes;\n\nIV - haja sido aprovado pelo órgão federal competente, na forma estabelecida em regulamento, no mínimo seis meses antes da comunicação de que tratam os §§ 2o e 3o do art. 2o. (Redação dada pela Medida Provisória nº 2.183-56, de 2001)\n\nParágrafo único. Os prazos previstos no inciso III deste artigo poderão ser prorrogados em até 50% (cinqüenta por cento), desde que o projeto receba, anualmente, a aprovação do órgão competente para fiscalização e tenha sua implantação iniciada no prazo de 6 (seis) meses, contado de sua aprovação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%207%C2%BA%20N%C3%A3o%20ser%C3%A1%20pass%C3%ADvel%20de%20desapropria%C3%A7%C3%A3o%2C%20para%20fins%20de%20reforma%20agr%C3%A1ria%2C%20o%20im%C3%B3vel%20que%20comprove%20estar%20sendo%20objeto%20de%20implanta%C3%A7%C3%A3o%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Ter-se-á como racional e adequado o aproveitamento de imóvel rural, quando esteja oficialmente destinado à execução de atividades de pesquisa e experimentação que objetivem o avanço tecnológico da agricultura.\n\nParágrafo único. Para os fins deste artigo só serão consideradas as propriedades que tenham destinados às atividades de pesquisa, no mínimo, 80% (oitenta por cento) da área total aproveitável do imóvel, sendo consubstanciadas tais atividades em projeto:\n\nI - adotado pelo Poder Público, se pertencente a entidade de administração direta ou indireta, ou a empresa sob seu controle;\n\nII - aprovado pelo Poder Público, se particular o imóvel.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%208%C2%BA%20Ter-se-%C3%A1%20como%20racional%20e%20adequado%20o%20aproveitamento%20de%20im%C3%B3vel%20rural%2C%20quando%20esteja%20oficialmente%20destinado%20%C3%A0%20execu%C3%A7%C3%A3o%20de%20atividades%20de%20pesquisa",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º A função social é cumprida quando a propriedade rural atende, simultaneamente, segundo graus e critérios estabelecidos nesta lei, os seguintes requisitos:\n\nI - aproveitamento racional e adequado;\n\nII - utilização adequada dos recursos naturais disponíveis e preservação do meio ambiente;\n\nIII - observância das disposições que regulam as relações de trabalho;\n\nIV - exploração que favoreça o bem-estar dos proprietários e dos trabalhadores.\n\n§ 1º Considera-se racional e adequado o aproveitamento que atinja os graus de utilização da terra e de eficiência na exploração especificados nos §§ 1º a 7º do art. 6º desta lei.\n\n§ 2º Considera-se adequada a utilização dos recursos naturais disponíveis quando a exploração se faz respeitando a vocação natural da terra, de modo a manter o potencial produtivo da propriedade.\n\n§ 3º Considera-se preservação do meio ambiente a manutenção das características próprias do meio natural e da qualidade dos recursos ambientais, na medida adequada à manutenção do equilíbrio ecológico da propriedade e da saúde e qualidade de vida das comunidades vizinhas.\n\n§ 4º A observância das disposições que regulam as relações de trabalho implica tanto o respeito às leis trabalhistas e aos contratos coletivos de trabalho, como às disposições que disciplinam os contratos de arrendamento e parceria rurais.\n\n§ 5º A exploração que favorece o bem-estar dos proprietários e trabalhadores rurais é a que objetiva o atendimento das necessidades básicas dos que trabalham a terra, observa as normas de segurança do trabalho e não provoca conflitos e tensões sociais no imóvel.\n\n§ 6º (Vetado.)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%209%C2%BA%20A%20fun%C3%A7%C3%A3o%20social%20%C3%A9%20cumprida%20quando%20a%20propriedade%20rural%20atende%2C%20simultaneamente%2C%20segundo%20graus%20e%20crit%C3%A9rios%20estabelecidos%20nesta%20lei%2C%20os%20seguintes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Para efeito do que dispõe esta lei, consideram-se não aproveitáveis:\n\nI - as áreas ocupadas por construções e instalações, excetuadas aquelas destinadas a fins produtivos, como estufas, viveiros, sementeiros, tanques de reprodução e criação de peixes e outros semelhantes;\n\nII - as áreas comprovadamente imprestáveis para qualquer tipo de exploração agrícola, pecuária, florestal ou extrativa vegetal;\n\nIII - as áreas sob efetiva exploração mineral;\n\nIV - as áreas de efetiva preservação permanente e demais áreas protegidas por legislação relativa à conservação dos recursos naturais e à preservação do meio ambiente.\n\nV - as áreas com remanescentes de vegetação nativa efetivamente conservada não protegidas pela legislação ambiental e não submetidas a exploração nos termos do inciso IV do § 3º do art. 6º desta Lei. (Incluído pela Lei nº 14.119, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2010.%20Para%20efeito%20do%20que%20disp%C3%B5e%20esta%20lei%2C%20consideram-se%20n%C3%A3o%20aproveit%C3%A1veis%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Os parâmetros, índices e indicadores que informam o conceito de produtividade serão ajustados, periodicamente, de modo a levar em conta o progresso científico e tecnológico da agricultura e o desenvolvimento regional, pelos Ministros de Estado do Desenvolvimento Agrário e da Agricultura e do Abastecimento, ouvido o Conselho Nacional de Política Agrícola. (Redação dada Medida Provisória nº 2.183-56, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2011.%20Os%20par%C3%A2metros%2C%20%C3%ADndices%20e%20indicadores%20que%20informam%20o%20conceito%20de%20produtividade%20ser%C3%A3o%20ajustados%2C%20periodicamente%2C%20de%20modo%20a%20levar%20em%20conta",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Considera-se justa a indenização que reflita o preço atual de mercado do imóvel em sua totalidade, aí incluídas as terras e acessões naturais, matas e florestas e as benfeitorias indenizáveis, observados os seguintes aspectos: (Redação dada Medida Provisória nº 2.183-56, de 2001)\n\nI - localização do imóvel; (Incluído dada Medida Provisória nº 2.183-56, de 2001)\n\nII - aptidão agrícola; (Incluído dada Medida Provisória nº 2.183-56, de 2001)\n\nIII - dimensão do imóvel; (Incluído dada Medida Provisória nº 2.183-56, de 2001)\n\nIV - área ocupada e ancianidade das posses; (Incluído dada Medida Provisória nº 2.183-56, de 2001)\n\nV - funcionalidade, tempo de uso e estado de conservação das benfeitorias. (Incluído dada Medida Provisória nº 2.183-56, de 2001)\n\n§ 1o Verificado o preço atual de mercado da totalidade do imóvel, proceder-se-á à dedução do valor das benfeitorias indenizáveis a serem pagas em dinheiro, obtendo-se o preço da terra a ser indenizado em TDA. (Redação dada Medida Provisória nº 2.183-56, de 2001)\n\n§ 2o Integram o preço da terra as florestas naturais, matas nativas e qualquer outro tipo de vegetação natural, não podendo o preço apurado superar, em qualquer hipótese, o preço de mercado do imóvel. (Redação dada Medida Provisória nº 2.183-56, de 2001)\n\n§ 3o O Laudo de Avaliação será subscrito por Engenheiro Agrônomo com registro de Anotação de Responsabilidade Técnica - ART, respondendo o subscritor, civil, penal e administrativamente, pela superavaliação comprovada ou fraude na identificação das informações. (Incluído dada Medida Provisória nº 2.183-56, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2012.%20Considera-se%20justa%20a%20indeniza%C3%A7%C3%A3o%20que%20reflita%20o%20pre%C3%A7o%20atual%20de%20mercado%20do%20im%C3%B3vel%20em%20sua%20totalidade%2C%20a%C3%AD%20inclu%C3%ADdas%20as%20terras",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. As terras rurais de domínio da União, dos Estados e dos Municípios ficam destinadas, preferencialmente, à execução de planos de reforma agrária.\n\nParágrafo único. Excetuando-se as reservas indígenas e os parques, somente se admitirá a existência de imóveis rurais de propriedade pública, com objetivos diversos dos previstos neste artigo, se o poder público os explorar direta ou indiretamente para pesquisa, experimentação, demonstração e fomento de atividades relativas ao desenvolvimento da agricultura, pecuária, preservação ecológica, áreas de segurança, treinamento militar, educação de todo tipo, readequação social e defesa nacional.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2013.%20As%20terras%20rurais%20de%20dom%C3%ADnio%20da%20Uni%C3%A3o%2C%20dos%20Estados%20e%20dos%20Munic%C3%ADpios%20ficam%20destinadas%2C%20preferencialmente%2C%20%C3%A0%20execu%C3%A7%C3%A3o%20de%20planos%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. (Vetado.)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2014.%20%28Vetado.%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. (Vetado.)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2015.%20%28Vetado.%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Efetuada a desapropriação, o órgão expropriante, dentro do prazo de 3 (três) anos, contados da data de registro do título translativo de domínio, destinará a respectiva área aos beneficiários da reforma agrária, admitindo-se, para tanto, formas de exploração individual, condominial, cooperativa, associativa ou mista.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2016.%20Efetuada%20a%20desapropria%C3%A7%C3%A3o%2C%20o%20%C3%B3rg%C3%A3o%20expropriante%2C%20dentro%20do%20prazo%20de%203%20%28tr%C3%AAs%29%20anos%2C%20contados%20da%20data%20de%20registro%20do%20t%C3%ADtulo",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. O assentamento de trabalhadores rurais deverá ser realizado em terras economicamente úteis, de preferência na região por eles habitada, observado o seguinte: (Redação dada pela Medida Provisória nº 2.183-56, de 2001)\n\nI - a obtenção de terras rurais destinadas à implantação de projetos de assentamento integrantes do programa de reforma agrária será precedida de estudo sobre a viabilidade econômica e a potencialidade de uso dos recursos naturais; (Incluído pela Medida Provisória nº 2.183-56, de 2001)\n\nII - os beneficiários dos projetos de que trata o inciso I manifestarão sua concordância com as condições de obtenção das terras destinadas à implantação dos projetos de assentamento, inclusive quanto ao preço a ser pago pelo órgão federal executor do programa de reforma agrária e com relação aos recursos naturais; (Incluído pela Medida Provisória nº 2.183-56, de 2001)\n\nIII - nos projetos criados será elaborado Plano de Desenvolvimento de Assentamento - PDA, que orientará a fixação de normas técnicas para a sua implantação e os respectivos investimentos; (Incluído pela Medida Provisória nº 2.183-56, de 2001)\n\nIV - integrarão a clientela de trabalhadores rurais, para fins de assentamento em projetos de reforma agrária, somente aqueles que satisfizerem os requisitos fixados para seleção e classificação previstos nesta Lei; e (Redação dada pela Lei nº 13.465, de 2017)\n\nV - a consolidação dos projetos de assentamento integrantes dos programas de reforma agrária dar-se-á com a concessão de créditos de instalação e a conclusão dos investimentos, bem como com a outorga do instrumento definitivo de titulação. (Incluído pela Medida Provisória nº 2.183-56, de 2001) (Vide Lei nº 13.001, de 2014) (Regulamento)\n\n§ 1º (Vetado). (Incluído pela Lei nº 13.001, de 2014)\n\n§ 2o Para a consolidação dos projetos de que trata o inciso V do caput, fica o Poder Executivo autorizado a conceder créditos de instalação aos assentados, nos termos do regulamento. (Incluído pela Lei nº 13.001, de 2014)\n\n§ 3o Poderá ser contratada instituição financeira federal para a operacionalização da concessão referida no inciso V do caput, dispensada a licitação. (Incluído pela Lei nº 13.001, de 2014)\n\n§ 4o As despesas relativas à concessão de crédito de que trata o inciso V do caput adequar-se-ão às disponibilidades orçamentárias e financeiras do órgão responsável pela execução do referido programa. (Incluído pela Lei nº 13.001, de 2014)\n\n§ 5o O regulamento a que se refere o § 2o estabelecerá prazos, carências, termos, condições, rebates para liquidação e procedimentos simplificados para o cumprimento do disposto neste artigo. (Incluído pela Lei nº 13.001, de 2014)\n\n§ 6o Independentemente da implementação dos requisitos exigidos no inciso V do caput deste artigo, considera-se consolidado o projeto de assentamento que atingir o prazo de quinze anos de sua implantação, salvo por decisão fundamentada do Incra. (Incluído pela Lei nº 13.465, de 2017)\n\n§ 7o Os assentamentos que, em 1o de junho de 2017, contarem com quinze anos ou mais de criação, deverão ser consolidados em até três anos. (Incluído pela Lei nº 13.465, de 2017)\n\n§ 8o A quitação dos créditos de que trata o § 2o deste artigo não é requisito para a liberação das condições resolutivas do título de domínio ou da Concessão de Direito Real de Uso (CDRU), autorizada a cobrança da dívida na forma legal. (Incluído pela Lei nº 13.465, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2017.%20O%20assentamento%20de%20trabalhadores%20rurais%20dever%C3%A1%20ser%20realizado%20em%20terras%20economicamente%20%C3%BAteis%2C%20de%20prefer%C3%AAncia%20na%20regi%C3%A3o%20por%20eles%20habitada%2C%20observado",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. A distribuição de imóveis rurais pela reforma agrária far-se-á por meio de títulos de domínio, concessão de uso ou concessão de direito real de uso - CDRU instituído pelo art. 7o do Decreto-Lei no 271, de 28 de fevereiro de 1967. (Incluído pela Lei nº 13.001, de 2014)\n\n§ 1o Os títulos de domínio e a CDRU são inegociáveis pelo prazo de dez anos, contado da data de celebração do contrato de concessão de uso ou de outro instrumento equivalente, observado o disposto nesta Lei. (Redação dada pela Lei nº 13.465, de 2017)\n\n§ 2o Na implantação do projeto de assentamento, será celebrado com o beneficiário do programa de reforma agrária contrato de concessão de uso, gratuito, inegociável, de forma individual ou coletiva, que conterá cláusulas resolutivas, estipulando-se os direitos e as obrigações da entidade concedente e dos concessionários, assegurando-se a estes o direito de adquirir título de domínio ou a CDRU nos termos desta Lei. (Redação dada pela Lei nº 13.001, de 2014)\n\n§ 3o O título de domínio e a CDRU conterão cláusulas resolutivas e será outorgado ao beneficiário do programa de reforma agrária, de forma individual ou coletiva, após a realização dos serviços de medição e demarcação topográfica do imóvel a ser alienado. (Redação dada pela Lei nº 13.001, de 2014)\n\n§ 4o Regulamento disporá sobre as condições e a forma de outorga dos títulos de domínio e da CDRU aos beneficiários dos projetos de assentamento do Programa Nacional de Reforma Agrária. (Redação dada pela Lei nº 13.465, de 2017)\n\n§ 5o O valor da alienação, na hipótese de outorga de título de domínio, considerará o tamanho da área e será estabelecido entre 10% (dez por cento) e 50% (cinquenta por cento) do valor mínimo da pauta de valores da terra nua para fins de titulação e regularização fundiária elaborada pelo Incra, com base nos valores de imóveis avaliados para a reforma agrária, conforme regulamento. (Redação dada pela Lei nº 13.465, de 2017)\n\n§ 6o As condições de pagamento, carência e encargos financeiros serão definidas em regulamento, não podendo ser superiores às condições estabelecidas para os financiamentos concedidos ao amparo da Lei Complementar no 93, de 4 de fevereiro de 1998, e alcançarão os títulos de domínio cujos prazos de carência ainda não expiraram. (Redação dada pela Lei nº 13.001, de 2014)\n\n§ 7o A alienação de lotes de até 1 (um) módulo fiscal, em projetos de assentamento criados em terras devolutas discriminadas e registradas em nome do Incra ou da União, ocorrerá de forma gratuita. (Redação dada pela Lei nº 13.001, de 2014)\n\n§ 8o São considerados não reembolsáveis: (Incluído pela Lei nº 13.001, de 2014)\n\nI - os valores relativos às obras de infraestrutura de interesse coletivo; (Incluído pela Lei nº 13.001, de 2014)\n\nII - aos custos despendidos com o plano de desenvolvimento do assentamento; e (Incluído pela Lei nº 13.001, de 2014)\n\nIII - aos serviços de medição e demarcação topográficos. (Incluído pela Lei nº 13.001, de 2014)\n\n§ 9o O título de domínio ou a CDRU de que trata o caput poderão ser concedidos aos beneficiários com o cumprimento das obrigações estabelecidas com fundamento no inciso V do art. 17 desta Lei e no regulamento. (Incluído pela Lei nº 13.001, de 2014)\n\n§ 10. Falecendo qualquer dos concessionários do contrato de concessão de uso ou de CDRU, seus herdeiros ou legatários receberão o imóvel, cuja transferência será processada administrativamente, não podendo fracioná-lo. (Incluído pela Lei nº 13.001, de 2014)\n\n§ 11. Os herdeiros ou legatários que adquirirem, por sucessão, a posse do imóvel não poderão fracioná-lo. (Incluído pela Lei nº 13.001, de 2014)\n\n§ 12. O órgão federal executor do programa de reforma agrária manterá atualizado o cadastro de áreas desapropriadas e das adquiridas por outros meios e de beneficiários da reforma agrária e disponibilizará os dados na rede mundial de computadores. (Incluído pela Lei nº 13.001, de 2014)\n\n§ 13. Os títulos de domínio, a concessão de uso ou a CDRU a que se refere o caput deste artigo serão conferidos ao homem, na ausência de cônjuge ou companheira, à mulher, na ausência de cônjuge ou companheiro, ou ao homem e à mulher, obrigatoriamente, nos casos de casamento ou união estável. (Incluído pela Lei nº 13.465, de 2017)\n\n§ 14. Para fins de interpretação, a outorga coletiva a que se refere o § 3o deste artigo não permite a titulação, provisória ou definitiva, a pessoa jurídica. (Incluído pela Lei nº 13.465, de 2017)\n\n§ 15. Os títulos emitidos sob a vigência de norma anterior poderão ter seus valores reenquadrados, de acordo com o previsto no § 5o deste artigo, mediante requerimento do interessado, observados os termos estabelecidos em regulamento e vedada a restituição de valores já pagos que eventualmente excedam o valor devido após o reenquadramento. (Incluído pela Lei nº 13.465, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2018.%20A%20distribui%C3%A7%C3%A3o%20de%20im%C3%B3veis%20rurais%20pela%20reforma%20agr%C3%A1ria%20far-se-%C3%A1%20por%20meio%20de%20t%C3%ADtulos%20de%20dom%C3%ADnio%2C%20concess%C3%A3o%20de%20uso%20ou%20concess%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "18-A"
+    },
+    "18-A": {
+      "numero": "18-A",
+      "texto": "Art. 18-A. Os lotes a serem distribuídos pelo Programa Nacional de Reforma Agrária não poderão ter área superior a 2 (dois) módulos fiscais ou inferior à fração mínima de parcelamento. (Incluído pela Lei nº 13.001, de 2014)\n\n§ 1o Fica o Incra autorizado, nos assentamentos com data de criação anterior ao período de dois anos, contado retroativamente a partir de 22 de dezembro de 2016, a conferir o título de domínio ou a CDRU relativos às áreas em que ocorreram desmembramentos ou remembramentos após a concessão de uso, desde que observados os seguintes requisitos: (Redação dada pela Lei nº 13.465, de 2017)\n\nI - observância da fração mínima de parcelamento e do limite de área de até quatro módulos fiscais por beneficiário, observado o disposto no art. 8o da Lei no 5.868, de 12 de dezembro de 1972; (Redação dada pela Lei nº 13.465, de 2017)\n\nII - o beneficiário não possua outro imóvel a qualquer título; (Incluído pela Lei nº 13.001, de 2014)\n\nIII - o beneficiário preencha os requisitos exigidos no art. 3o da Lei no 11.326, de 24 de julho de 2006; e (Incluído pela Lei nº 13.001, de 2014)\n\nIV - o desmembramento ou o remembramento seja anterior ao período de dois anos, contado retroativamente a partir de 22 de dezembro de 2016. (Redação dada pela Lei nº 13.465, de 2017)\n\n§ 2o O beneficiário titulado nos termos do § 1o não fará jus aos créditos de instalação de que trata o art. 17 desta Lei. (Incluído pela Lei nº 13.001, de 2014)\n\n§ 3o Os títulos concedidos nos termos do § 1o deste artigo são inegociáveis pelo prazo de dez anos, contado da data de sua expedição. (Incluído pela Lei nº 13.465, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2018-A.%20Os%20lotes%20a%20serem%20distribu%C3%ADdos%20pelo%20Programa%20Nacional%20de%20Reforma%20Agr%C3%A1ria%20n%C3%A3o%20poder%C3%A3o%20ter%20%C3%A1rea%20superior%20a%202%20%28dois%29%20m%C3%B3dulos",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "18-B"
+    },
+    "18-B": {
+      "numero": "18-B",
+      "texto": "Art. 18-B. Identificada a ocupação ou a exploração de área objeto de projeto de assentamento por indivíduo que não se enquadre como beneficiário do Programa Nacional de Reforma Agrária, o ocupante será notificado para desocupação da área, nos termos estabelecidos em regulamento, sem prejuízo de eventual responsabilização nas esferas cível e penal. (Incluído pela Lei nº 13.465, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2018-B.%20Identificada%20a%20ocupa%C3%A7%C3%A3o%20ou%20a%20explora%C3%A7%C3%A3o%20de%20%C3%A1rea%20objeto%20de%20projeto%20de%20assentamento%20por%20indiv%C3%ADduo%20que%20n%C3%A3o%20se%20enquadre%20como",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18-A",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. O processo de seleção de indivíduos e famílias candidatos a beneficiários do Programa Nacional de Reforma Agrária será realizado por projeto de assentamento, observada a seguinte ordem de preferência na distribuição de lotes: (Redação dada pela Lei nº 13.465, de 2017)\n\nI - ao desapropriado, ficando-lhe assegurada a preferência para a parcela na qual se situe a sede do imóvel, hipótese em que esta será excluída da indenização devida pela desapropriação; (Redação dada pela Lei nº 13.465, de 2017)\n\nII - aos que trabalham no imóvel desapropriado como posseiros, assalariados, parceiros ou arrendatários, identificados na vistoria; (Redação dada pela Lei nº 13.465, de 2017)\n\nIII - aos trabalhadores rurais desintrusados de outras áreas, em virtude de demarcação de terra indígena, criação de unidades de conservação, titulação de comunidade quilombola ou de outras ações de interesse público; (Redação dada pela Lei nº 13.465, de 2017)\n\nIV - ao trabalhador rural em situação de vulnerabilidade social que não se enquadre nas hipóteses previstas nos incisos I, II e III deste artigo; (Redação dada pela Lei nº 13.465, de 2017)\n\nV - ao trabalhador rural vítima de trabalho em condição análoga à de escravo; (Redação dada pela Lei nº 13.465, de 2017)\n\nVI - aos que trabalham como posseiros, assalariados, parceiros ou arrendatários em outros imóveis rurais; (Redação dada pela Lei nº 13.465, de 2017)\n\nVII - aos ocupantes de áreas inferiores à fração mínima de parcelamento. (Incluído pela Lei nº 13.465, de 2017)\n\n§ 1o O processo de seleção de que trata o caput deste artigo será realizado pelo Incra com ampla divulgação do edital de convocação na internet e no Município em que será instalado o projeto de assentamento, bem como nos Municípios limítrofes, na forma do regulamento. (Incluído pela Lei nº 13.465, de 2017)\n\n§ 2o Nos projetos de assentamentos ambientalmente diferenciados, definidos em regulamento, o processo de seleção será restrito às famílias que já residam na área, observadas as vedações constantes do art. 20 desta Lei. (Incluído pela Lei nº 13.465, de 2017)\n\n§ 3o Caso a capacidade do projeto de assentamento não atenda todos os candidatos selecionados, será elaborada lista dos candidatos excedentes, com prazo de validade de dois anos, a qual será observada de forma prioritária quando houver substituição dos beneficiários originários dos lotes, nas hipóteses de desistência, abandono ou reintegração de posse. (Incluído pela Lei nº 13.465, de 2017)\n\n§ 4o Esgotada a lista dos candidatos excedentes de que trata o § 3o deste artigo ou expirada sua validade, será instaurado novo processo de seleção específico para os lotes vagos no projeto de assentamento em decorrência de desistência, abandono ou reintegração de posse. (Incluído pela Lei nº 13.465, de 2017)\n\n§ 5o A situação de vulnerabilidade social do candidato a que se refere o inciso IV do caput deste artigo será comprovada por meio da respectiva inscrição no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico), ou em outro cadastro equivalente definido em regulamento. (Incluído pela Lei nº 13.465, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2019.%20O%20processo%20de%20sele%C3%A7%C3%A3o%20de%20indiv%C3%ADduos%20e%20fam%C3%ADlias%20candidatos%20a%20benefici%C3%A1rios%20do%20Programa%20Nacional%20de%20Reforma%20Agr%C3%A1ria%20ser%C3%A1%20realizado%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18-B",
+      "next": "19-A"
+    },
+    "19-A": {
+      "numero": "19-A",
+      "texto": "Art. 19-A. Caberá ao Incra, observada a ordem de preferência a que se refere o art. 19, classificar os candidatos a beneficiários do Programa Nacional de Reforma Agrária, segundo os seguintes critérios: (Incluído pela Lei nº 13.465, de 2017)\n\nI - família mais numerosa cujos membros se proponham a exercer a atividade agrícola na área objeto do projeto de assentamento; (Incluído pela Lei nº 13.465, de 2017)\n\nII - família ou indivíduo que resida há mais tempo no Município em que se localize a área objeto do projeto de assentamento para o qual se destine a seleção, ou nos Municípios limítrofes; (Incluído pela Lei nº 13.465, de 2017)\n\nIII - família chefiada por mulher; (Incluído pela Lei nº 13.465, de 2017)\n\nIV - família ou indivíduo integrante de acampamento situado no Município em que se localize a área objeto do projeto de assentamento ou nos Municípios limítrofes; (Incluído pela Lei nº 13.465, de 2017)\n\nV - filhos que tenham entre dezoito e vinte e nove anos idade de pais assentados que residam na área objeto do mesmo projeto de assentamento; (Incluído pela Lei nº 13.465, de 2017)\n\nVI - famílias de trabalhadores rurais que residam em área objeto de projeto de assentamento na condição de agregados; e Incluído pela Lei nº 13.465, de 2017)\n\nVII - outros critérios sociais, econômicos e ambientais estabelecidos por regulamento, de acordo com as áreas de reforma agrária para as quais a seleção é realizada. (Incluído pela Lei nº 13.465, de 2017)\n\n§ 1o Regulamento estabelecerá a pontuação a ser conferida aos candidatos de acordo com os critérios definidos por este artigo. (Incluído pela Lei nº 13.465, de 2017)\n\n§ 2o Considera-se família chefiada por mulher aquela em que a mulher, independentemente do estado civil, seja responsável pela maior parte do sustento material de seus dependentes. (Incluído pela Lei nº 13.465, de 2017)\n\n§ 3o Em caso de empate, terá preferência o candidato de maior idade. (Incluído pela Lei nº 13.465, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2019-A.%20Caber%C3%A1%20ao%20Incra%2C%20observada%20a%20ordem%20de%20prefer%C3%AAncia%20a%20que%20se%20refere%20o%20art.%2019%2C%20classificar%20os%20candidatos%20a%20benefici%C3%A1rios",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Não poderá ser selecionado como beneficiário dos projetos de assentamento a que se refere esta Lei quem: (Redação dada pela Lei nº 13.465, de 2017)\n\nI - for ocupante de cargo, emprego ou função pública remunerada; (Incluído pela Lei nº 13.465, de 2017)\n\nII - tiver sido excluído ou se afastado do programa de reforma agrária, de regularização fundiária ou de crédito fundiário sem consentimento de seu órgão executor; (Incluído pela Lei nº 13.465, de 2017)\n\nIII - for proprietário rural, exceto o desapropriado do imóvel e o agricultor cuja propriedade seja insuficiente para o sustento próprio e o de sua família; (Incluído pela Lei nº 13.465, de 2017)\n\nIV - for proprietário, cotista ou acionista de sociedade empresária em atividade; (Incluído pela Lei nº 13.465, de 2017)\n\nV - for menor de dezoito anos não emancipado na forma da lei civil; ou (Incluído pela Lei nº 13.465, de 2017)\n\nVI - auferir renda familiar proveniente de atividade não agrária superior a três salários mínimos mensais ou superior a um salário mínimo per capita. (Incluído pela Lei nº 13.465, de 2017)\n\n§ 1o As disposições constantes dos incisos I, II, III, IV e VI do caput deste artigo aplicam-se aos cônjuges e conviventes, inclusive em regime de união estável, exceto em relação ao cônjuge que, em caso de separação judicial ou de fato, não tenha sido beneficiado pelos programas de que trata o inciso II do caput deste artigo.\n\n§ 2º A vedação de que trata o inciso I do caput deste artigo, quando o exercício do cargo, emprego ou função pública for compatível com a exploração da parcela, não se aplica ao candidato: (Redação dada pela Lei nº 14.757, de 2023)\n\nI - agente comunitário de saúde ou agente de combate às endemias; (Incluído pela Lei nº 14.757, de 2023)\n\nII - profissional da educação; (Incluído pela Lei nº 14.757, de 2023)\n\nIII - profissional de ciências agrárias; (Incluído pela Lei nº 14.757, de 2023)\n\nIV - que preste outros serviços de interesse comunitário à comunidade rural ou à vizinhança da área objeto do projeto de assentamento. (Incluído pela Lei nº 14.757, de 2023)\n\n§ 3o São considerados serviços de interesse comunitário, para os fins desta Lei, as atividades prestadas nas áreas de saúde, educação, transporte, assistência social e agrária.\n\n§ 4o Não perderá a condição de beneficiário aquele que passe a se enquadrar nos incisos I, III, IV e VI do caput deste artigo, desde que a atividade assumida seja compatível com a exploração da parcela pelo indivíduo ou pelo núcleo familiar beneficiado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2020.%20N%C3%A3o%20poder%C3%A1%20ser%20selecionado%20como%20benefici%C3%A1rio%20dos%20projetos%20de%20assentamento%20a%20que%20se%20refere%20esta%20Lei%20quem%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19-A",
+      "next": "20-A"
+    },
+    "20-A": {
+      "numero": "20-A",
+      "texto": "Art. 20-A. Fica o Incra autorizado a considerar beneficiário da reforma agrária quem já tenha sido assentado, mas que por razões sociais ou econômicas teve que se desfazer da posse ou do título, desde que se enquadre como beneficiário da reforma agrária e ocupe e explore a parcela há, no mínimo, 1 (um) ano. (Incluído pela Lei nº 14.757, de 2023)\n\nParágrafo único. Fica vedada uma terceira obtenção de terras em assentamento de reforma agrária por parte do beneficiário. (Incluído pela Lei nº 14.757, de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2020-A.%20Fica%20o%20Incra%20autorizado%20a%20considerar%20benefici%C3%A1rio%20da%20reforma%20agr%C3%A1ria%20quem%20j%C3%A1%20tenha%20sido%20assentado%2C%20mas%20que%20por%20raz%C3%B5es%20sociais",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. Nos instrumentos que conferem o título de domínio, concessão de uso ou CDRU, os beneficiários da reforma agrária assumirão, obrigatoriamente, o compromisso de cultivar o imóvel direta e pessoalmente, ou por meio de seu núcleo familiar, mesmo que por intermédio de cooperativas, e o de não ceder o seu uso a terceiros, a qualquer título, pelo prazo de 10 (dez) anos. (Redação dada pela Lei nº 13.001, de 2014)\n\nParágrafo único. A família beneficiária poderá celebrar o contrato de integração de que trata a Lei no 13.288, de 16 de maio de 2016. (Incluído pela Lei nº 13.465, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2021.%20Nos%20instrumentos%20que%20conferem%20o%20t%C3%ADtulo%20de%20dom%C3%ADnio%2C%20concess%C3%A3o%20de%20uso%20ou%20CDRU%2C%20os%20benefici%C3%A1rios%20da%20reforma%20agr%C3%A1ria%20assumir%C3%A3o%2C%20obrigatoriamente%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20-A",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Constará, obrigatoriamente, dos instrumentos translativos de domínio, de concessão de uso ou de CDRU, cláusula resolutória que preveja a rescisão do contrato e o retorno do imóvel ao órgão alienante ou concedente, no caso de descumprimento de quaisquer das obrigações assumidas pelo adquirente ou concessionário. (Redação dada pela Lei nº 13.001, de 2014)\n\n§ 1o Após transcorrido o prazo de inegociabilidade de dez anos, o imóvel objeto de título translativo de domínio somente poderá ser alienado se a nova área titulada não vier a integrar imóvel rural com área superior a quatro módulos fiscais. (Incluído pela Lei nº 13.465, de 2017)\n\n§ 2o Na hipótese de a parcela titulada passar a integrar zona urbana ou de expansão urbana, o Incra deverá priorizar a análise do requerimento de liberação das condições resolutivas. (Incluído pela Lei nº 13.465, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2022.%20Constar%C3%A1%2C%20obrigatoriamente%2C%20dos%20instrumentos%20translativos%20de%20dom%C3%ADnio%2C%20de%20concess%C3%A3o%20de%20uso%20ou%20de%20CDRU%2C%20cl%C3%A1usula%20resolut%C3%B3ria%20que%20preveja%20a%20rescis%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "22-A"
+    },
+    "22-A": {
+      "numero": "22-A",
+      "texto": "Art. 22-A. As benfeitorias, reprodutivas ou não, existentes no imóvel destinado para reforma agrária poderão ser cedidas aos beneficiários para exploração individual ou coletiva ou doadas em benefício da comunidade de assentados, na forma estabelecida em regulamento. (Incluído pela Lei nº 13.465, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2022-A.%20As%20benfeitorias%2C%20reprodutivas%20ou%20n%C3%A3o%2C%20existentes%20no%20im%C3%B3vel%20destinado%20para%20reforma%20agr%C3%A1ria%20poder%C3%A3o%20ser%20cedidas%20aos%20benefici%C3%A1rios%20para%20explora%C3%A7%C3%A3o%20individual",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. O estrangeiro residente no País e a pessoa jurídica autorizada a funcionar no Brasil só poderão arrendar imóvel rural na forma da Lei nº 5.709, de 7 de outubro de 1971.\n\n§ 1º Aplicam-se ao arrendamento todos os limites, restrições e condições aplicáveis à aquisição de imóveis rurais por estrangeiro, constantes da lei referida no caput deste artigo.\n\n§ 2º Compete ao Congresso Nacional autorizar tanto a aquisição ou o arrendamento além dos limites de área e percentual fixados na Lei nº 5.709, de 7 de outubro de 1971, como a aquisição ou arrendamento, por pessoa jurídica estrangeira, de área superior a 100 (cem) módulos de exploração indefinida.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2023.%20O%20estrangeiro%20residente%20no%20Pa%C3%ADs%20e%20a%20pessoa%20jur%C3%ADdica%20autorizada%20a%20funcionar%20no%20Brasil%20s%C3%B3%20poder%C3%A3o%20arrendar%20im%C3%B3vel%20rural%20na",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22-A",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. As ações de reforma agrária devem ser compatíveis com as ações da política agrícola, das políticas sociais e das constantes no Plano Plurianual da União. (Redação dada pela Lei nº 13.001, de 2014)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2024.%20As%20a%C3%A7%C3%B5es%20de%20reforma%20agr%C3%A1ria%20devem%20ser%20compat%C3%ADveis%20com%20as%20a%C3%A7%C3%B5es%20da%20pol%C3%ADtica%20agr%C3%ADcola%2C%20das%20pol%C3%ADticas%20sociais%20e%20das%20constantes",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. O orçamento da União fixará, anualmente, o volume de títulos da dívida agrária e dos recursos destinados, no exercício, ao atendimento do Programa de Reforma Agrária.\n\n§ 1º Os recursos destinados à execução do Plano Nacional de Reforma Agrária deverão constar do orçamento do ministério responsável por sua implementação e do órgão executor da política de colonização e reforma agrária, salvo aqueles que, por sua natureza, exijam instituições especializadas para a sua aplicação.\n\n§ 2º Objetivando a compatibilização dos programas de trabalho e propostas orçamentárias, o órgão executor da reforma agrária encaminhará, anualmente e em tempo hábil, aos órgãos da administração pública responsáveis por ações complementares, o programa a ser implantado no ano subseqüente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2025.%20O%20or%C3%A7amento%20da%20Uni%C3%A3o%20fixar%C3%A1%2C%20anualmente%2C%20o%20volume%20de%20t%C3%ADtulos%20da%20d%C3%ADvida%20agr%C3%A1ria%20e%20dos%20recursos%20destinados%2C%20no%20exerc%C3%ADcio%2C%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. São isentas de impostos federais, estaduais e municipais, inclusive do Distrito Federal, as operações de transferência de imóveis desapropriados para fins de reforma agrária, bem como a transferência ao beneficiário do programa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2026.%20S%C3%A3o%20isentas%20de%20impostos%20federais%2C%20estaduais%20e%20municipais%2C%20inclusive%20do%20Distrito%20Federal%2C%20as%20opera%C3%A7%C3%B5es%20de%20transfer%C3%AAncia%20de%20im%C3%B3veis%20desapropriados%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "26-A"
+    },
+    "26-A": {
+      "numero": "26-A",
+      "texto": "Art. 26-A. Não serão cobradas custas ou emolumentos para registro de títulos translativos de domínio de imóveis rurais desapropriados para fins de reforma agrária. (Incluído pela Medida Provisória nº 2.183-56, de 2001)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2026-A.%20N%C3%A3o%20ser%C3%A3o%20cobradas%20custas%20ou%20emolumentos%20para%20registro%20de%20t%C3%ADtulos%20translativos%20de%20dom%C3%ADnio%20de%20im%C3%B3veis%20rurais%20desapropriados%20para%20fins%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "26-B"
+    },
+    "26-B": {
+      "numero": "26-B",
+      "texto": "Art. 26-B. Fica o Incra autorizado a regularizar a posse de lote em projeto de assentamento que tenha sido ocupado sem autorização, observado o disposto nos arts. 20 e 20-A desta Lei. (Redação dada pela Lei nº 14.757, de 2023)\n\n§ 1º A regularização será processada a requerimento de quem estiver na posse plena do lote ou, de ofício, pelo Incra, desde que atendidas cumulativamente as seguintes condições: (Redação dada pela Lei nº 14.757, de 2023)\n\nI - criação do projeto de assentamento há mais de 2 (dois) anos; (Redação dada pela Lei nº 14.757, de 2023)\n\nI-A - ocupação e exploração da parcela diretamente pelo interessado há, no mínimo, 1 (um) ano; (Incluído pela Lei nº 14.757, de 2023)\n\nII - inexistência de candidatos excedentes interessados na parcela elencados na lista de selecionados de que trata o § 3o do art. 19 desta Lei para o projeto de assentamento; (Incluído pela Lei nº 13.465, de 2017)\n\nIII - observância pelo interessado dos requisitos de elegibilidade para ser beneficiário da reforma agrária; e (Incluído pela Lei nº 13.465, de 2017)\n\nIV - quitação ou assunção pelo interessado, até a data de assinatura de novo contrato de concessão de uso, dos débitos relativos ao crédito de instalação reembolsável concedido ao beneficiário original. (Incluído pela Lei nº 13.465, de 2017)\n\n§ 2o Atendidos os requisitos de que trata o § 1o deste artigo, o Incra celebrará contrato de concessão de uso nos termos do § 2o do art. 18 desta Lei. (Incluído pela Lei nº 13.465, de 2017)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2026-B.%20Fica%20o%20Incra%20autorizado%20a%20regularizar%20a%20posse%20de%20lote%20em%20projeto%20de%20assentamento%20que%20tenha%20sido%20ocupado%20sem%20autoriza%C3%A7%C3%A3o%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26-A",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Esta Lei entra em vigor na data de sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2027.%20Esta%20Lei%20entra%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26-B",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. Revogam-se as disposições em contrário.\n\nBrasília, 25 de fevereiro de 1993, 172º da Independência e 105º da República.\n\nITAMAR FRANCO Lázaro Ferreira Barbosa\n\nEste texto não substitui o Publicado no DOU de 26.2.1993\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm#:~:text=Art.%2028.%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": null
+    }
+  }
+}

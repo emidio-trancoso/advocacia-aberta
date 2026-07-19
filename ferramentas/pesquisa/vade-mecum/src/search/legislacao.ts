@@ -143,6 +143,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_dl1598.json",
     rotulo: "IRPJ – Normas Gerais (conceitos e apuração) (Decreto-Lei 1.598/1977)",
   },
+  DL167: {
+    arquivo: "../../data/lei_dl167.json",
+    rotulo: "Cédulas de Crédito Rural (Decreto-Lei 167/1967)",
+  },
   ECID: {
     arquivo: "../../data/lei_ecid.json",
     rotulo: "Estatuto da Cidade (Lei 10.257/2001)",
@@ -263,6 +267,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l11804.json",
     rotulo: "Alimentos Gravídicos (Lei 11.804/2008)",
   },
+  L11977: {
+    arquivo: "../../data/lei_l11977.json",
+    rotulo: "Minha Casa Minha Vida (Lei 11.977/2009)",
+  },
   L12010: {
     arquivo: "../../data/lei_l12010.json",
     rotulo: "Adoção (Lei 12.010/2009)",
@@ -311,6 +319,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l13431.json",
     rotulo: "Sistema de Garantia – Escuta e Depoimento Especial (Lei 13.431/2017)",
   },
+  L13465: {
+    arquivo: "../../data/lei_l13465.json",
+    rotulo: "Regularização Fundiária (Lei 13.465/2017)",
+  },
   L13487: {
     arquivo: "../../data/lei_l13487.json",
     rotulo: "Fundo Especial de Financiamento de Campanha (FEFC) (Lei 13.487/2017)",
@@ -318,6 +330,14 @@ const REGISTRO_CODIGOS = {
   L13488: {
     arquivo: "../../data/lei_l13488.json",
     rotulo: "Reforma Eleitoral 2017 (ajustes adicionais) (Lei 13.488/2017)",
+  },
+  L13777: {
+    arquivo: "../../data/lei_l13777.json",
+    rotulo: "Multipropriedade (Lei 13.777/2018)",
+  },
+  L13786: {
+    arquivo: "../../data/lei_l13786.json",
+    rotulo: "Distrato Imobiliário (Lei 13.786/2018)",
   },
   L13869: {
     arquivo: "../../data/lei_l13869.json",
@@ -367,6 +387,10 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l4090.json",
     rotulo: "Gratificação de Natal (13º salário) (Lei 4.090/1962)",
   },
+  L4591: {
+    arquivo: "../../data/lei_l4591.json",
+    rotulo: "Incorporação Imobiliária (Lei 4.591/1964)",
+  },
   L4749: {
     arquivo: "../../data/lei_l4749.json",
     rotulo: "Pagamento do 13º salário (prazos e forma) (Lei 4.749/1965)",
@@ -414,6 +438,10 @@ const REGISTRO_CODIGOS = {
   L6615: {
     arquivo: "../../data/lei_l6615.json",
     rotulo: "Profissão de Radialista (Lei 6.615/1978)",
+  },
+  L6766: {
+    arquivo: "../../data/lei_l6766.json",
+    rotulo: "Parcelamento Solo (Lei 6.766/1979)",
   },
   L6858: {
     arquivo: "../../data/lei_l6858.json",
@@ -479,9 +507,17 @@ const REGISTRO_CODIGOS = {
     arquivo: "../../data/lei_l8212.json",
     rotulo: "Plano de Custeio da Seguridade Social (Lei 8.212/1991)",
   },
+  L8245: {
+    arquivo: "../../data/lei_l8245.json",
+    rotulo: "Inquilinato (Lei 8.245/1991)",
+  },
   L8560: {
     arquivo: "../../data/lei_l8560.json",
     rotulo: "Investigação de Paternidade (filho havido fora do casamento) (Lei 8.560/1992)",
+  },
+  L8629: {
+    arquivo: "../../data/lei_l8629.json",
+    rotulo: "Reforma Agrária (Lei 8.629/1993)",
   },
   L8935: {
     arquivo: "../../data/lei_l8935.json",
@@ -526,6 +562,10 @@ const REGISTRO_CODIGOS = {
   L9504: {
     arquivo: "../../data/lei_l9504.json",
     rotulo: "Lei das Eleições (Lei 9.504/1997)",
+  },
+  L9514: {
+    arquivo: "../../data/lei_l9514.json",
+    rotulo: "Alienação Fiduciária de Imóveis (SFI) (Lei 9.514/1997)",
   },
   L9601: {
     arquivo: "../../data/lei_l9601.json",

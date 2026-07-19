@@ -606,7 +606,30 @@
    "origens": [
     "Esparsas/Imobiliário: Multipropriedade"
    ],
-   "notas": []
+   "notas": [
+    "a página reproduz os arts. 1.358-C a 1.358-U do Código Civil (inseridos pelo art. 2º desta lei) sem marcador estrutural no rótulo; os dispositivos pertencem ao CC, onde estão registrados, e são descartados aqui por decisão explícita"
+   ],
+   "descartar_artigos": [
+    "1358-C",
+    "1358-D",
+    "1358-E",
+    "1358-F",
+    "1358-G",
+    "1358-H",
+    "1358-I",
+    "1358-J",
+    "1358-K",
+    "1358-L",
+    "1358-M",
+    "1358-N",
+    "1358-O",
+    "1358-P",
+    "1358-Q",
+    "1358-R",
+    "1358-S",
+    "1358-T",
+    "1358-U"
+   ]
   },
   {
    "sigla": "L8245",

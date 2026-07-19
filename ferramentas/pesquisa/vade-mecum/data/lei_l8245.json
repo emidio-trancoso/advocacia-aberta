@@ -1,0 +1,1471 @@
+{
+  "_meta": {
+    "codigo": "L8245",
+    "nome": "Inquilinato",
+    "lei": "Lei 8.245/1991",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm",
+    "total_artigos": 91,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º A locação de imóvel urbano regula - se pelo disposto nesta lei:\n\nParágrafo único. Continuam regulados pelo Código Civil e pelas leis especiais:\n\na) as locações:\n\n1. de imóveis de propriedade da União, dos Estados e dos Municípios, de suas autarquias e fundações públicas;\n\n2. de vagas autônomas de garagem ou de espaços para estacionamento de veículos;\n\n3. de espaços destinados à publicidade;\n\n4. em apart- hotéis, hotéis - residência ou equiparados, assim considerados aqueles que prestam serviços regulares a seus usuários e como tais sejam autorizados a funcionar;\n\nb) o arrendamento mercantil, em qualquer de suas modalidades.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%201%C2%BA%20A%20loca%C3%A7%C3%A3o%20de%20im%C3%B3vel%20urbano%20regula%20-%20se%20pelo%20disposto%20nesta%20lei%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Havendo mais de um locador ou mais de um locatário, entende - se que são solidários se o contrário não se estipulou.\n\nParágrafo único. Os ocupantes de habitações coletivas multifamiliares presumem - se locatários ou sublocatários.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%202%C2%BA%20Havendo%20mais%20de%20um%20locador%20ou%20mais%20de%20um%20locat%C3%A1rio%2C%20entende%20-%20se%20que%20s%C3%A3o%20solid%C3%A1rios%20se%20o%20contr%C3%A1rio%20n%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º O contrato de locação pode ser ajustado por qualquer prazo, dependendo de vênia conjugal, se igual ou superior a dez anos.\n\nParágrafo único. Ausente a vênia conjugal, o cônjuge não estará obrigado a observar o prazo excedente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%203%C2%BA%20O%20contrato%20de%20loca%C3%A7%C3%A3o%20pode%20ser%20ajustado%20por%20qualquer%20prazo%2C%20dependendo%20de%20v%C3%AAnia%20conjugal%2C%20se%20igual%20ou%20superior%20a%20dez",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4o Durante o prazo estipulado para a duração do contrato, não poderá o locador reaver o imóvel alugado. Com exceção ao que estipula o § 2o do art. 54-A, o locatário, todavia, poderá devolvê-lo, pagando a multa pactuada, proporcional ao período de cumprimento do contrato, ou, na sua falta, a que for judicialmente estipulada. (Redação dada pela Lei nº 12.744, de 2012)\n\nParágrafo único. O locatário ficará dispensado da multa se a devolução do imóvel decorrer de transferência, pelo seu empregador, privado ou público, para prestar serviços em localidades diversas daquela do início do contrato, e se notificar, por escrito, o locador com prazo de, no mínimo, trinta dias de antecedência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%204o%20Durante%20o%20prazo%20estipulado%20para%20a%20dura%C3%A7%C3%A3o%20do%20contrato%2C%20n%C3%A3o%20poder%C3%A1%20o%20locador%20reaver%20o%20im%C3%B3vel%20alugado.%20Com%20exce%C3%A7%C3%A3o%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º Seja qual for o fundamento do término da locação, a ação do locador para reaver o imóvel é a de despejo.\n\nParágrafo único. O disposto neste artigo não se aplica se a locação termina em decorrência de desapropriação, com a imissão do expropriante na posse do imóvel.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%205%C2%BA%20Seja%20qual%20for%20o%20fundamento%20do%20t%C3%A9rmino%20da%20loca%C3%A7%C3%A3o%2C%20a%20a%C3%A7%C3%A3o%20do%20locador%20para%20reaver%20o%20im%C3%B3vel%20%C3%A9%20a%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º O locatário poderá denunciar a locação por prazo indeterminado mediante aviso por escrito ao locador, com antecedência mínima de trinta dias.\n\nParágrafo único. Na ausência do aviso, o locador poderá exigir quantia correspondente a um mês de aluguel e encargos, vigentes quando da resilição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%206%C2%BA%20O%20locat%C3%A1rio%20poder%C3%A1%20denunciar%20a%20loca%C3%A7%C3%A3o%20por%20prazo%20indeterminado%20mediante%20aviso%20por%20escrito%20ao%20locador%2C%20com%20anteced%C3%AAncia%20m%C3%ADnima%20de%20trinta",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º Nos casos de extinção de usufruto ou de fideicomisso, a locação celebrada pelo usufrutuário ou fiduciário poderá ser denunciada, com o prazo de trinta dias para a desocupação, salvo se tiver havido aquiescência escrita do nuproprietário ou do fideicomissário, ou se a propriedade estiver consolidada em mãos do usufrutuário ou do fiduciário.\n\nParágrafo único. A denúncia deverá ser exercitada no prazo de noventa dias contados da extinção do fideicomisso ou da averbação da extinção do usufruto, presumindo - se, após esse prazo, a concordância na manutenção da locação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%207%C2%BA%20Nos%20casos%20de%20extin%C3%A7%C3%A3o%20de%20usufruto%20ou%20de%20fideicomisso%2C%20a%20loca%C3%A7%C3%A3o%20celebrada%20pelo%20usufrutu%C3%A1rio%20ou%20fiduci%C3%A1rio%20poder%C3%A1%20ser%20denunciada%2C%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Se o imóvel for alienado durante a locação, o adquirente poderá denunciar o contrato, com o prazo de noventa dias para a desocupação, salvo se a locação for por tempo determinado e o contrato contiver cláusula de vigência em caso de alienação e estiver averbado junto à matrícula do imóvel.\n\n§ 1º Idêntico direito terá o promissário comprador e o promissário cessionário, em caráter irrevogável, com imissão na posse do imóvel e título registrado junto à matrícula do mesmo.\n\n§ 2º A denúncia deverá ser exercitada no prazo de noventa dias contados do registro da venda ou do compromisso, presumindo - se, após esse prazo, a concordância na manutenção da locação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%208%C2%BA%20Se%20o%20im%C3%B3vel%20for%20alienado%20durante%20a%20loca%C3%A7%C3%A3o%2C%20o%20adquirente%20poder%C3%A1%20denunciar%20o%20contrato%2C%20com%20o%20prazo%20de%20noventa%20dias",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º A locação também poderá ser desfeita:\n\nI - por mútuo acordo;\n\nII - em decorrência da prática de infração legal ou contratual;\n\nIII - em decorrência da falta de pagamento do aluguel e demais encargos;\n\nIV - para a realização de reparações urgentes determinadas pelo Poder Público, que não possam ser normalmente executadas com a permanência do locatário no imóvel ou, podendo, ele se recuse a consenti - las.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%209%C2%BA%20A%20loca%C3%A7%C3%A3o%20tamb%C3%A9m%20poder%C3%A1%20ser%20desfeita%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. Morrendo o locador, a locação transmite - se aos herdeiros.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2010.%20Morrendo%20o%20locador%2C%20a%20loca%C3%A7%C3%A3o%20transmite%20-%20se%20aos%20herdeiros.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Morrendo o locatário, ficarão sub - rogados nos seus direitos e obrigações:\n\nI - nas locações com finalidade residencial, o cônjuge sobrevivente ou o companheiro e, sucessivamente, os herdeiros necessários e as pessoas que viviam na dependência econômica do de cujus , desde que residentes no imóvel;\n\nII - nas locações com finalidade não residencial, o espólio e, se for o caso, seu sucessor no negócio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2011.%20Morrendo%20o%20locat%C3%A1rio%2C%20ficar%C3%A3o%20sub%20-%20rogados%20nos%20seus%20direitos%20e%20obriga%C3%A7%C3%B5es%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Em casos de separação de fato, separação judicial, divórcio ou dissolução da união estável, a locação residencial prosseguirá automaticamente com o cônjuge ou companheiro que permanecer no imóvel. (Redação dada pela Lei nº 12.112, de 2009)\n\n§ 1o Nas hipóteses previstas neste artigo e no art. 11, a sub-rogação será comunicada por escrito ao locador e ao fiador, se esta for a modalidade de garantia locatícia. (Incluído pela Lei nº 12.112, de 2009)\n\n§ 2o O fiador poderá exonerar-se das suas responsabilidades no prazo de 30 (trinta) dias contado do recebimento da comunicação oferecida pelo sub-rogado, ficando responsável pelos efeitos da fiança durante 120 (cento e vinte) dias após a notificação ao locador. (Incluído pela Lei nº 12.112, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2012.%20Em%20casos%20de%20separa%C3%A7%C3%A3o%20de%20fato%2C%20separa%C3%A7%C3%A3o%20judicial%2C%20div%C3%B3rcio%20ou%20dissolu%C3%A7%C3%A3o%20da%20uni%C3%A3o%20est%C3%A1vel%2C%20a%20loca%C3%A7%C3%A3o%20residencial%20prosseguir%C3%A1%20automaticamente%20com",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. A cessão da locação, a sublocação e o empréstimo do imóvel, total ou parcialmente, dependem do consentimento prévio e escrito do locador.\n\n§ 1º Não se presume o consentimento pela simples demora do locador em manifestar formalmente a sua oposição.\n\n§ 2º Desde que notificado por escrito pelo locatário, de ocorrência de uma das hipóteses deste artigo, o locador terá o prazo de trinta dias para manifestar formalmente a sua oposição.\n\n§ 3o (VETADO) (Incluído pela Lei nº 12.112, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2013.%20A%20cess%C3%A3o%20da%20loca%C3%A7%C3%A3o%2C%20a%20subloca%C3%A7%C3%A3o%20e%20o%20empr%C3%A9stimo%20do%20im%C3%B3vel%2C%20total%20ou%20parcialmente%2C%20dependem%20do%20consentimento%20pr%C3%A9vio%20e%20escrito",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Aplicam - se às sublocações, no que couber, as disposições relativas às locações.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2014.%20Aplicam%20-%20se%20%C3%A0s%20subloca%C3%A7%C3%B5es%2C%20no%20que%20couber%2C%20as%20disposi%C3%A7%C3%B5es%20relativas%20%C3%A0s%20loca%C3%A7%C3%B5es.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Rescindida ou finda a locação, qualquer que seja sua causa, resolvem - se as sublocações, assegurado o direito de indenização do sublocatário contra o sublocador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2015.%20Rescindida%20ou%20finda%20a%20loca%C3%A7%C3%A3o%2C%20qualquer%20que%20seja%20sua%20causa%2C%20resolvem%20-%20se%20as%20subloca%C3%A7%C3%B5es%2C%20assegurado%20o%20direito%20de%20indeniza%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. O sublocatário responde subsidiariamente ao locador pela importância que dever ao sublocador, quando este for demandado e, ainda, pelos aluguéis que se vencerem durante a lide.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2016.%20O%20sublocat%C3%A1rio%20responde%20subsidiariamente%20ao%20locador%20pela%20import%C3%A2ncia%20que%20dever%20ao%20sublocador%2C%20quando%20este%20for%20demandado%20e%2C%20ainda%2C%20pelos%20alugu%C3%A9is",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. É livre a convenção do aluguel, vedada a sua estipulação em moeda estrangeira e a sua vinculação à variação cambial ou ao salário mínimo.\n\nParágrafo único. Nas locações residenciais serão observadas os critérios de reajustes previstos na legislação específica.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2017.%20%C3%89%20livre%20a%20conven%C3%A7%C3%A3o%20do%20aluguel%2C%20vedada%20a%20sua%20estipula%C3%A7%C3%A3o%20em%20moeda%20estrangeira%20e%20a%20sua%20vincula%C3%A7%C3%A3o%20%C3%A0%20varia%C3%A7%C3%A3o%20cambial",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. É lícito às partes fixar, de comum acordo, novo valor para o aluguel, bem como inserir ou modificar cláusula de reajuste.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2018.%20%C3%89%20l%C3%ADcito%20%C3%A0s%20partes%20fixar%2C%20de%20comum%20acordo%2C%20novo%20valor%20para%20o%20aluguel%2C%20bem%20como%20inserir%20ou%20modificar%20cl%C3%A1usula%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Não havendo acordo, o locador ou locatário, após três anos de vigência do contrato ou do acordo anteriormente realizado, poderão pedir revisão judicial do aluguel, a fim de ajustá - lo ao preço de mercado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2019.%20N%C3%A3o%20havendo%20acordo%2C%20o%20locador%20ou%20locat%C3%A1rio%2C%20ap%C3%B3s%20tr%C3%AAs%20anos%20de%20vig%C3%AAncia%20do%20contrato%20ou%20do%20acordo%20anteriormente%20realizado%2C%20poder%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Salvo as hipóteses do art. 42 e da locação para temporada, o locador não poderá exigir o pagamento antecipado do aluguel.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2020.%20Salvo%20as%20hip%C3%B3teses%20do%20art.%2042%20e%20da%20loca%C3%A7%C3%A3o%20para%20temporada%2C%20o%20locador%20n%C3%A3o%20poder%C3%A1%20exigir%20o%20pagamento%20antecipado%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. O aluguel da sublocação não poderá exceder o da locação; nas habitações coletivas multifamiliares, a soma dos aluguéis não poderá ser superior ao dobro do valor da locação.\n\nParágrafo único. O descumprimento deste artigo autoriza o sublocatário a reduzir o aluguel até os limites nele estabelecidos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2021.%20O%20aluguel%20da%20subloca%C3%A7%C3%A3o%20n%C3%A3o%20poder%C3%A1%20exceder%20o%20da%20loca%C3%A7%C3%A3o%3B%20nas%20habita%C3%A7%C3%B5es%20coletivas%20multifamiliares%2C%20a%20soma%20dos%20alugu%C3%A9is%20n%C3%A3o%20poder%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. O locador é obrigado a:\n\nI - entregar ao locatário o imóvel alugado em estado de servir ao uso a que se destina;\n\nII - garantir, durante o tempo da locação, o uso pacífico do imóvel locado;\n\nIII - manter, durante a locação, a forma e o destino do imóvel;\n\nIV - responder pelos vícios ou defeitos anteriores à locação;\n\nV - fornecer ao locatário, caso este solicite, descrição minuciosa do estado do imóvel, quando de sua entrega, com expressa referência aos eventuais defeitos existentes;\n\nVI - fornecer ao locatário recibo discriminado das importâncias por este pagas, vedada a quitação genérica;\n\nVII - pagar as taxas de administração imobiliária, se houver, e de intermediações, nestas compreendidas as despesas necessárias à aferição da idoneidade do pretendente ou de seu fiador;\n\nVIII - pagar os impostos e taxas, e ainda o prêmio de seguro complementar contra fogo, que incidam ou venham a incidir sobre o imóvel, salvo disposição expressa em contrário no contrato;\n\nIX - exibir ao locatário, quando solicitado, os comprovantes relativos às parcelas que estejam sendo exigidas;\n\nX - pagar as despesas extraordinárias de condomínio.\n\nParágrafo único. Por despesas extraordinárias de condomínio se entendem aquelas que não se refiram aos gastos rotineiros de manutenção do edifício, especialmente:\n\na) obras de reformas ou acréscimos que interessem à estrutura integral do imóvel;\n\nb) pintura das fachadas, empenas, poços de aeração e iluminação, bem como das esquadrias externas;\n\nc) obras destinadas a repor as condições de habitabilidade do edifício;\n\nd) indenizações trabalhistas e previdenciárias pela dispensa de empregados, ocorridas em data anterior ao início da locação;\n\ne) instalação de equipamento de segurança e de incêndio, de telefonia, de intercomunicação, de esporte e de lazer;\n\nf) despesas de decoração e paisagismo nas partes de uso comum;\n\ng) constituição de fundo de reserva.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2022.%20O%20locador%20%C3%A9%20obrigado%20a%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "SEÇÃO IV"
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. O locatário é obrigado a:\n\nI - pagar pontualmente o aluguel e os encargos da locação, legal ou contratualmente exigíveis, no prazo estipulado ou, em sua falta, até o sexto dia útil do mês seguinte ao vencido, no imóvel locado, quando outro local não tiver sido indicado no contrato;\n\nII - servir - se do imóvel para o uso convencionado ou presumido, compatível com a natureza deste e com o fim a que se destina, devendo tratá - lo com o mesmo cuidado como se fosse seu;\n\nIII - restituir o imóvel, finda a locação, no estado em que o recebeu, salvo as deteriorações decorrentes do seu uso normal;\n\nIV - levar imediatamente ao conhecimento do locador o surgimento de qualquer dano ou defeito cuja reparação a este incumba, bem como as eventuais turbações de terceiros;\n\nV - realizar a imediata reparação dos danos verificados no imóvel, ou nas suas instalações, provocadas por si, seus dependentes, familiares, visitantes ou prepostos;\n\nVI - não modificar a forma interna ou externa do imóvel sem o consentimento prévio e por escrito do locador;\n\nVII - entregar imediatamente ao locador os documentos de cobrança de tributos e encargos condominiais, bem como qualquer intimação, multa ou exigência de autoridade pública, ainda que dirigida a ele, locatário;\n\nVIII - pagar as despesas de telefone e de consumo de força, luz e gás, água e esgoto;\n\nIX - permitir a vistoria do imóvel pelo locador ou por seu mandatário, mediante combinação prévia de dia e hora, bem como admitir que seja o mesmo visitado e examinado por terceiros, na hipótese prevista no art. 27;\n\nX - cumprir integralmente a convenção de condomínio e os regulamentos internos;\n\nXI - pagar o prêmio do seguro de fiança;\n\nXII - pagar as despesas ordinárias de condomínio.\n\n§ 1º Por despesas ordinárias de condomínio se entendem as necessárias à administração respectiva, especialmente:\n\na) salários, encargos trabalhistas, contribuições previdenciárias e sociais dos empregados do condomínio;\n\nb) consumo de água e esgoto, gás, luz e força das áreas de uso comum;\n\nc) limpeza, conservação e pintura das instalações e dependências de uso comum;\n\nd) manutenção e conservação das instalações e equipamentos hidráulicos, elétricos, mecânicos e de segurança, de uso comum;\n\ne) manutenção e conservação das instalações e equipamentos de uso comum destinados à prática de esportes e lazer;\n\nf) manutenção e conservação de elevadores, porteiro eletrônico e antenas coletivas;\n\ng) pequenos reparos nas dependências e instalações elétricas e hidráulicas de uso comum;\n\nh) rateios de saldo devedor, salvo se referentes a período anterior ao início da locação;\n\ni) reposição do fundo de reserva, total ou parcialmente utilizado no custeio ou complementação das despesas referidas nas alíneas anteriores, salvo se referentes a período anterior ao início da locação.\n\n§ 2º O locatário fica obrigado ao pagamento das despesas referidas no parágrafo anterior, desde que comprovadas a previsão orçamentária e o rateio mensal, podendo exigir a qualquer tempo a comprovação das mesmas.\n\n§ 3º No edifício constituído por unidades imobiliárias autônomas, de propriedade da mesma pessoa, os locatários ficam obrigados ao pagamento das despesas referidas no § 1º deste artigo, desde que comprovadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2023.%20O%20locat%C3%A1rio%20%C3%A9%20obrigado%20a%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "SEÇÃO IV"
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Nos imóveis utilizados como habitação coletiva multifamiliar, os locatários ou sublocatários poderão depositar judicialmente o aluguel e encargos se a construção for considerada em condições precárias pelo Poder Público.\n\n§ 1º O levantamento dos depósitos somente será deferido com a comunicação, pela autoridade pública, da regularização do imóvel.\n\n§ 2º Os locatários ou sublocatários que deixarem o imóvel estarão desobrigados do aluguel durante a execução das obras necessárias à regularização.\n\n§ 3º Os depósitos efetuados em juízo pelos locatários e sublocatários poderão ser levantados, mediante ordem judicial, para realização das obras ou serviços necessários à regularização do imóvel.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2024.%20Nos%20im%C3%B3veis%20utilizados%20como%20habita%C3%A7%C3%A3o%20coletiva%20multifamiliar%2C%20os%20locat%C3%A1rios%20ou%20sublocat%C3%A1rios%20poder%C3%A3o%20depositar%20judicialmente%20o%20aluguel%20e%20encargos%20se%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "SEÇÃO IV"
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Atribuída ao locatário a responsabilidade pelo pagamento dos tributos, encargos e despesas ordinárias de condomínio, o locador poderá cobrar tais verbas juntamente com o aluguel do mês a que se refiram.\n\nParágrafo único. Se o locador antecipar os pagamentos, a ele pertencerão as vantagens daí advindas, salvo se o locatário reembolsá - lo integralmente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2025.%20Atribu%C3%ADda%20ao%20locat%C3%A1rio%20a%20responsabilidade%20pelo%20pagamento%20dos%20tributos%2C%20encargos%20e%20despesas%20ordin%C3%A1rias%20de%20condom%C3%ADnio%2C%20o%20locador%20poder%C3%A1%20cobrar%20tais",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "SEÇÃO IV"
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. Necessitando o imóvel de reparos urgentes, cuja realização incumba ao locador, o locatário é obrigado a consenti - los.\n\nParágrafo único. Se os reparos durarem mais de dez dias, o locatário terá direito ao abatimento do aluguel, proporcional ao período excedente; se mais de trinta dias, poderá resilir o contrato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2026.%20Necessitando%20o%20im%C3%B3vel%20de%20reparos%20urgentes%2C%20cuja%20realiza%C3%A7%C3%A3o%20incumba%20ao%20locador%2C%20o%20locat%C3%A1rio%20%C3%A9%20obrigado%20a%20consenti%20-%20los.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IV",
+        "section_name": "SEÇÃO IV"
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. No caso de venda, promessa de venda, cessão ou promessa de cessão de direitos ou dação em pagamento, o locatário tem preferência para adquirir o imóvel locado, em igualdade de condições com terceiros, devendo o locador dar - lhe conhecimento do negócio mediante notificação judicial, extrajudicial ou outro meio de ciência inequívoca.\n\nParágrafo único. A comunicação deverá conter todas as condições do negócio e, em especial, o preço, a forma de pagamento, a existência de ônus reais, bem como o local e horário em que pode ser examinada a documentação pertinente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2027.%20No%20caso%20de%20venda%2C%20promessa%20de%20venda%2C%20cess%C3%A3o%20ou%20promessa%20de%20cess%C3%A3o%20de%20direitos%20ou%20da%C3%A7%C3%A3o%20em%20pagamento%2C%20o%20locat%C3%A1rio",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "V",
+        "section_name": "SEÇÃO V"
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. O direito de preferência do locatário caducará se não manifestada, de maneira inequívoca, sua aceitação integral à proposta, no prazo de trinta dias.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2028.%20O%20direito%20de%20prefer%C3%AAncia%20do%20locat%C3%A1rio%20caducar%C3%A1%20se%20n%C3%A3o%20manifestada%2C%20de%20maneira%20inequ%C3%ADvoca%2C%20sua%20aceita%C3%A7%C3%A3o%20integral%20%C3%A0%20proposta%2C%20no%20prazo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "V",
+        "section_name": "SEÇÃO V"
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Ocorrendo aceitação da proposta, pelo locatário, a posterior desistência do negócio pelo locador acarreta, a este, responsabilidade pelos prejuízos ocasionados, inclusive lucros cessantes.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2029.%20Ocorrendo%20aceita%C3%A7%C3%A3o%20da%20proposta%2C%20pelo%20locat%C3%A1rio%2C%20a%20posterior%20desist%C3%AAncia%20do%20neg%C3%B3cio%20pelo%20locador%20acarreta%2C%20a%20este%2C%20responsabilidade%20pelos%20preju%C3%ADzos%20ocasionados%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "V",
+        "section_name": "SEÇÃO V"
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Estando o imóvel sublocado em sua totalidade, caberá a preferência ao sublocatário e, em seguida, ao locatário. Se forem vários os sublocatários, a preferência caberá a todos, em comum, ou a qualquer deles, se um só for o interessado.\n\nParágrafo único. Havendo pluralidade de pretendentes, caberá a preferência ao locatário mais antigo, e, se da mesma data, ao mais idoso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2030.%20Estando%20o%20im%C3%B3vel%20sublocado%20em%20sua%20totalidade%2C%20caber%C3%A1%20a%20prefer%C3%AAncia%20ao%20sublocat%C3%A1rio%20e%2C%20em%20seguida%2C%20ao%20locat%C3%A1rio.%20Se%20forem%20v%C3%A1rios",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "V",
+        "section_name": "SEÇÃO V"
+      },
+      "prev": "29",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. Em se tratando de alienação de mais de uma unidade imobiliária, o direito de preferência incidirá sobre a totalidade dos bens objeto da alienação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2031.%20Em%20se%20tratando%20de%20aliena%C3%A7%C3%A3o%20de%20mais%20de%20uma%20unidade%20imobili%C3%A1ria%2C%20o%20direito%20de%20prefer%C3%AAncia%20incidir%C3%A1%20sobre%20a%20totalidade%20dos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "V",
+        "section_name": "SEÇÃO V"
+      },
+      "prev": "30",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. O direito de preferência não alcança os casos de perda da propriedade ou venda por decisão judicial, permuta, doação, integralização de capital, cisão, fusão e incorporação.\n\nParágrafo único. Nos contratos firmados a partir de 1o de outubro de 2001, o direito de preferência de que trata este artigo não alcançará também os casos de constituição da propriedade fiduciária e de perda da propriedade ou venda por quaisquer formas de realização de garantia, inclusive mediante leilão extrajudicial, devendo essa condição constar expressamente em cláusula contratual específica, destacando-se das demais por sua apresentação gráfica. (Incluído pela Lei nº 10.931, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2032.%20O%20direito%20de%20prefer%C3%AAncia%20n%C3%A3o%20alcan%C3%A7a%20os%20casos%20de%20perda%20da%20propriedade%20ou%20venda%20por%20decis%C3%A3o%20judicial%2C%20permuta%2C%20doa%C3%A7%C3%A3o%2C%20integraliza%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "V",
+        "section_name": "SEÇÃO V"
+      },
+      "prev": "31",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. O locatário preterido no seu direito de preferência poderá reclamar do alienante as perdas e danos ou, depositando o preço e demais despesas do ato de transferência, haver para si o imóvel locado, se o requerer no prazo de seis meses, a contar do registro do ato no cartório de imóveis, desde que o contrato de locação esteja averbado pelo menos trinta dias antes da alienação junto à matrícula do imóvel.\n\nParágrafo único. A averbação far - se - á à vista de qualquer das vias do contrato de locação desde que subscrito também por duas testemunhas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2033.%20O%20locat%C3%A1rio%20preterido%20no%20seu%20direito%20de%20prefer%C3%AAncia%20poder%C3%A1%20reclamar%20do%20alienante%20as%20perdas%20e%20danos%20ou%2C%20depositando%20o%20pre%C3%A7o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "V",
+        "section_name": "SEÇÃO V"
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. Havendo condomínio no imóvel, a preferência do condômino terá prioridade sobre a do locatário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2034.%20Havendo%20condom%C3%ADnio%20no%20im%C3%B3vel%2C%20a%20prefer%C3%AAncia%20do%20cond%C3%B4mino%20ter%C3%A1%20prioridade%20sobre%20a%20do%20locat%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "V",
+        "section_name": "SEÇÃO V"
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. Salvo expressa disposição contratual em contrário, as benfeitorias necessárias introduzidas pelo locatário, ainda que não autorizadas pelo locador, bem como as úteis, desde que autorizadas, serão indenizáveis e permitem o exercício do direito de retenção.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2035.%20Salvo%20expressa%20disposi%C3%A7%C3%A3o%20contratual%20em%20contr%C3%A1rio%2C%20as%20benfeitorias%20necess%C3%A1rias%20introduzidas%20pelo%20locat%C3%A1rio%2C%20ainda%20que%20n%C3%A3o%20autorizadas%20pelo%20locador%2C%20bem%20como",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "34",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. As benfeitorias voluptuárias não serão indenizáveis, podendo ser levantadas pelo locatário, finda a locação, desde que sua retirada não afete a estrutura e a substância do imóvel.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2036.%20As%20benfeitorias%20voluptu%C3%A1rias%20n%C3%A3o%20ser%C3%A3o%20indeniz%C3%A1veis%2C%20podendo%20ser%20levantadas%20pelo%20locat%C3%A1rio%2C%20finda%20a%20loca%C3%A7%C3%A3o%2C%20desde%20que%20sua%20retirada%20n%C3%A3o%20afete",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "VI",
+        "section_name": "SEÇÃO VI"
+      },
+      "prev": "35",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. No contrato de locação, pode o locador exigir do locatário as seguintes modalidades de garantia:\n\nI - caução;\n\nII - fiança;\n\nIII - seguro de fiança locatícia.\n\nIV - cessão fiduciária de quotas de fundo de investimento. (Incluído pela Lei nº 11.196, de 2005)\n\nParágrafo único. É vedada, sob pena de nulidade, mais de uma das modalidades de garantia num mesmo contrato de locação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2037.%20No%20contrato%20de%20loca%C3%A7%C3%A3o%2C%20pode%20o%20locador%20exigir%20do%20locat%C3%A1rio%20as%20seguintes%20modalidades%20de%20garantia%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "VII",
+        "section_name": "SEÇÃO VII"
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. A caução poderá ser em bens móveis ou imóveis.\n\n§ 1º A caução em bens móveis deverá ser registrada em cartório de títulos e documentos; a em bens imóveis deverá ser averbada à margem da respectiva matrícula.\n\n§ 2º A caução em dinheiro, que não poderá exceder o equivalente a três meses de aluguel, será depositada em caderneta de poupança, autorizada, pelo Poder Público e por ele regulamentada, revertendo em benefício do locatário todas as vantagens dela decorrentes por ocasião do levantamento da soma respectiva.\n\n§ 3º A caução em títulos e ações deverá ser substituída, no prazo de trinta dias, em caso de concordata, falência ou liquidação das sociedades emissoras.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2038.%20A%20cau%C3%A7%C3%A3o%20poder%C3%A1%20ser%20em%20bens%20m%C3%B3veis%20ou%20im%C3%B3veis.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "VII",
+        "section_name": "SEÇÃO VII"
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. Salvo disposição contratual em contrário, qualquer das garantias da locação se estende até a efetiva devolução do imóvel, ainda que prorrogada a locação por prazo indeterminado, por força desta Lei. (Redação dada pela Lei nº 12.112, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2039.%20Salvo%20disposi%C3%A7%C3%A3o%20contratual%20em%20contr%C3%A1rio%2C%20qualquer%20das%20garantias%20da%20loca%C3%A7%C3%A3o%20se%20estende%20at%C3%A9%20a%20efetiva%20devolu%C3%A7%C3%A3o%20do%20im%C3%B3vel%2C%20ainda%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "VII",
+        "section_name": "SEÇÃO VII"
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. O locador poderá exigir novo fiador ou a substituição da modalidade de garantia, nos seguintes casos:\n\nI - morte do fiador;\n\nII – ausência, interdição, recuperação judicial, falência ou insolvência do fiador, declaradas judicialmente; (Redação dada pela Lei nº 12.112, de 2009)\n\nIII - alienação ou gravação de todos os bens imóveis do fiador ou sua mudança de residência sem comunicação ao locador;\n\nIV - exoneração do fiador;\n\nV - prorrogação da locação por prazo indeterminado, sendo a fiança ajustada por prazo certo;\n\nVI - desaparecimento dos bens móveis;\n\nVII - desapropriação ou alienação do imóvel.\n\nVIII - exoneração de garantia constituída por quotas de fundo de investimento; (Incluído pela Lei nº 11.196, de 2005)\n\nIX - liquidação ou encerramento do fundo de investimento de que trata o inciso IV do art. 37 desta Lei. (Incluído pela Lei nº 11.196, de 2005)\n\nX – prorrogação da locação por prazo indeterminado uma vez notificado o locador pelo fiador de sua intenção de desoneração, ficando obrigado por todos os efeitos da fiança, durante 120 (cento e vinte) dias após a notificação ao locador. (Incluído pela Lei nº 12.112, de 2009)\n\nParágrafo único. O locador poderá notificar o locatário para apresentar nova garantia locatícia no prazo de 30 (trinta) dias, sob pena de desfazimento da locação. (Incluído pela Lei nº 12.112, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2040.%20O%20locador%20poder%C3%A1%20exigir%20novo%20fiador%20ou%20a%20substitui%C3%A7%C3%A3o%20da%20modalidade%20de%20garantia%2C%20nos%20seguintes%20casos%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "VII",
+        "section_name": "SEÇÃO VII"
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. O seguro de fiança locatícia abrangerá a totalidade das obrigações do locatário.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2041.%20O%20seguro%20de%20fian%C3%A7a%20locat%C3%ADcia%20abranger%C3%A1%20a%20totalidade%20das%20obriga%C3%A7%C3%B5es%20do%20locat%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "VII",
+        "section_name": "SEÇÃO VII"
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. Não estando a locação garantida por qualquer das modalidades, o locador poderá exigir do locatário o pagamento do aluguel e encargos até o sexto dia útil do mês vincendo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2042.%20N%C3%A3o%20estando%20a%20loca%C3%A7%C3%A3o%20garantida%20por%20qualquer%20das%20modalidades%2C%20o%20locador%20poder%C3%A1%20exigir%20do%20locat%C3%A1rio%20o%20pagamento%20do%20aluguel%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "VII",
+        "section_name": "SEÇÃO VII"
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. Constitui contravenção penal, punível com prisão simples de cinco dias a seis meses ou multa de três a doze meses do valor do último aluguel atualizado, revertida em favor do locatário:\n\nI - exigir, por motivo de locação ou sublocação, quantia ou valor além do aluguel e encargos permitidos;\n\nII - exigir, por motivo de locação ou sublocação, mais de uma modalidade de garantia num mesmo contrato de locação;\n\nIII - cobrar antecipadamente o aluguel, salvo a hipótese do art. 42 e da locação para temporada.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2043.%20Constitui%20contraven%C3%A7%C3%A3o%20penal%2C%20pun%C3%ADvel%20com%20pris%C3%A3o%20simples%20de%20cinco%20dias%20a%20seis%20meses%20ou%20multa%20de%20tr%C3%AAs%20a%20doze%20meses",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "VIII",
+        "section_name": "SEÇÃO VIII"
+      },
+      "prev": "42",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. Constitui crime de ação pública, punível com detenção de três meses a um ano, que poderá ser substituída pela prestação de serviços à comunidade:\n\nI - recusar - se o locador ou sublocador, nas habitações coletivas multifamiliares, a fornecer recibo discriminado do aluguel e encargos;\n\nII - deixar o retomante, dentro de cento e oitenta dias após a entrega do imóvel, no caso do inciso III do art. 47, de usá - lo para o fim declarado ou, usando - o , não o fizer pelo prazo mínimo de um ano;\n\nIII - não iniciar o proprietário, promissário comprador ou promissário cessionário, nos casos do inciso IV do art. 9º, inciso IV do art. 47, inciso I do art. 52 e inciso II do art. 53, a demolição ou a reparação do imóvel, dentro de sessenta dias contados de sua entrega;\n\nIV - executar o despejo com inobservância do disposto no § 2º do art. 65.\n\nParágrafo único. Ocorrendo qualquer das hipóteses previstas neste artigo, poderá o prejudicado reclamar, em processo próprio, multa equivalente a um mínimo de doze e um máximo de vinte e quatro meses do valor do último aluguel atualizado ou do que esteja sendo cobrado do novo locatário, se realugado o imóvel.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2044.%20Constitui%20crime%20de%20a%C3%A7%C3%A3o%20p%C3%BAblica%2C%20pun%C3%ADvel%20com%20deten%C3%A7%C3%A3o%20de%20tr%C3%AAs%20meses%20a%20um%20ano%2C%20que%20poder%C3%A1%20ser%20substitu%C3%ADda%20pela%20presta%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "VIII",
+        "section_name": "SEÇÃO VIII"
+      },
+      "prev": "43",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. São nulas de pleno direito as cláusulas do contrato de locação que visem a elidir os objetivos da presente lei, notadamente as que proíbam a prorrogação prevista no art. 47, ou que afastem o direito à renovação, na hipótese do art. 51, ou que imponham obrigações pecuniárias para tanto.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2045.%20S%C3%A3o%20nulas%20de%20pleno%20direito%20as%20cl%C3%A1usulas%20do%20contrato%20de%20loca%C3%A7%C3%A3o%20que%20visem%20a%20elidir%20os%20objetivos%20da%20presente%20lei%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": "IX",
+        "section_name": "SEÇÃO IX"
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. Nas locações ajustadas por escrito e por prazo igual ou superior a trinta meses, a resolução do contrato ocorrerá findo o prazo estipulado, independentemente de notificação ou aviso.\n\n§ 1º Findo o prazo ajustado, se o locatário continuar na posse do imóvel alugado por mais de trinta dias sem oposição do locador, presumir - se - á prorrogada a locação por prazo indeterminado, mantidas as demais cláusulas e condições do contrato.\n\n§ 2º Ocorrendo a prorrogação, o locador poderá denunciar o contrato a qualquer tempo, concedido o prazo de trinta dias para desocupação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2046.%20Nas%20loca%C3%A7%C3%B5es%20ajustadas%20por%20escrito%20e%20por%20prazo%20igual%20ou%20superior%20a%20trinta%20meses%2C%20a%20resolu%C3%A7%C3%A3o%20do%20contrato%20ocorrer%C3%A1%20findo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Quando ajustada verbalmente ou por escrito e como prazo inferior a trinta meses, findo o prazo estabelecido, a locação prorroga - se automaticamente, por prazo indeterminado, somente podendo ser retomado o imóvel:\n\nI - Nos casos do art. 9º;\n\nII - em decorrência de extinção do contrato de trabalho, se a ocupação do imóvel pelo locatário relacionada com o seu emprego;\n\nIII - se for pedido para uso próprio, de seu cônjuge ou companheiro, ou para uso residencial de ascendente ou descendente que não disponha, assim como seu cônjuge ou companheiro, de imóvel residencial próprio;\n\nIV - se for pedido para demolição e edificação licenciada ou para a realização de obras aprovadas pelo Poder Público, que aumentem a área construída, em, no mínimo, vinte por cento ou, se o imóvel for destinado a exploração de hotel ou pensão, em cinqüenta por cento;\n\nV - se a vigência ininterrupta da locação ultrapassar cinco anos.\n\n§ 1º Na hipótese do inciso III, a necessidade deverá ser judicialmente demonstrada, se:\n\na) O retomante, alegando necessidade de usar o imóvel, estiver ocupando, com a mesma finalidade, outro de sua propriedade situado nas mesma localidade ou, residindo ou utilizando imóvel alheio, já tiver retomado o imóvel anteriormente;\n\nb) o ascendente ou descendente, beneficiário da retomada, residir em imóvel próprio.\n\n§ 2º Nas hipóteses dos incisos III e IV, o retomante deverá comprovar ser proprietário, promissário comprador ou promissário cessionário, em caráter irrevogável, com imissão na posse do imóvel e título registrado junto à matrícula do mesmo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2047.%20Quando%20ajustada%20verbalmente%20ou%20por%20escrito%20e%20como%20prazo%20inferior%20a%20trinta%20meses%2C%20findo%20o%20prazo%20estabelecido%2C%20a%20loca%C3%A7%C3%A3o%20prorroga",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "I",
+        "section_name": "SEÇÃO I"
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. Considera - se locação para temporada aquela destinada à residência temporária do locatário, para prática de lazer, realização de cursos, tratamento de saúde, feitura de obras em seu imóvel, e outros fatos que decorrem tão-somente de determinado tempo, e contratada por prazo não superior a noventa dias, esteja ou não mobiliado o imóvel.\n\nParágrafo único. No caso de a locação envolver imóvel mobiliado, constará do contrato, obrigatoriamente, a descrição dos móveis e utensílios que o guarnecem, bem como o estado em que se encontram.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2048.%20Considera%20-%20se%20loca%C3%A7%C3%A3o%20para%20temporada%20aquela%20destinada%20%C3%A0%20resid%C3%AAncia%20tempor%C3%A1ria%20do%20locat%C3%A1rio%2C%20para%20pr%C3%A1tica%20de%20lazer%2C%20realiza%C3%A7%C3%A3o%20de%20cursos%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. O locador poderá receber de uma só vez e antecipadamente os aluguéis e encargos, bem como exigir qualquer das modalidades de garantia previstas no art. 37 para atender as demais obrigações do contrato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2049.%20O%20locador%20poder%C3%A1%20receber%20de%20uma%20s%C3%B3%20vez%20e%20antecipadamente%20os%20alugu%C3%A9is%20e%20encargos%2C%20bem%20como%20exigir%20qualquer%20das%20modalidades",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. Findo o prazo ajustado, se o locatário permanecer no imóvel sem oposição do locador por mais de trinta dias, presumir - se - á prorrogada a locação por tempo indeterminado, não mais sendo exigível o pagamento antecipado do aluguel e dos encargos.\n\nParágrafo único. Ocorrendo a prorrogação, o locador somente poderá denunciar o contrato após trinta meses de seu início ou nas hipóteses do art. 47.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2050.%20Findo%20o%20prazo%20ajustado%2C%20se%20o%20locat%C3%A1rio%20permanecer%20no%20im%C3%B3vel%20sem%20oposi%C3%A7%C3%A3o%20do%20locador%20por%20mais%20de%20trinta%20dias%2C%20presumir",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "II",
+        "section_name": "SEÇÃO II"
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. Nas locações de imóveis destinados ao comércio, o locatário terá direito a renovação do contrato, por igual prazo, desde que, cumulativamente:\n\nI - o contrato a renovar tenha sido celebrado por escrito e com prazo determinado;\n\nII - o prazo mínimo do contrato a renovar ou a soma dos prazos ininterruptos dos contratos escritos seja de cinco anos;\n\nIII - o locatário esteja explorando seu comércio, no mesmo ramo, pelo prazo mínimo e ininterrupto de três anos.\n\n§ 1º O direito assegurado neste artigo poderá ser exercido pelos cessionários ou sucessores da locação; no caso de sublocação total do imóvel, o direito a renovação somente poderá ser exercido pelo sublocatário.\n\n§ 2º Quando o contrato autorizar que o locatário utilize o imóvel para as atividades de sociedade de que faça parte e que a esta passe a pertencer o fundo de comércio, o direito a renovação poderá ser exercido pelo locatário ou pela sociedade.\n\n§ 3º Dissolvida a sociedade comercial por morte de um dos sócios, o sócio sobrevivente fica sub - rogado no direito a renovação, desde que continue no mesmo ramo.\n\n§ 4º O direito a renovação do contrato estende - se às locações celebradas por indústrias e sociedades civis com fim lucrativo, regularmente constituídas, desde que ocorrentes os pressupostos previstos neste artigo.\n\n§ 5º Do direito a renovação decai aquele que não propuser a ação no interregno de um ano, no máximo, até seis meses, no mínimo, anteriores à data da finalização do prazo do contrato em vigor.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2051.%20Nas%20loca%C3%A7%C3%B5es%20de%20im%C3%B3veis%20destinados%20ao%20com%C3%A9rcio%2C%20o%20locat%C3%A1rio%20ter%C3%A1%20direito%20a%20renova%C3%A7%C3%A3o%20do%20contrato%2C%20por%20igual%20prazo%2C%20desde%20que%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. O locador não estará obrigado a renovar o contrato se:\n\nI - por determinação do Poder Público, tiver que realizar no imóvel obras que importarem na sua radical transformação; ou para fazer modificações de tal natureza que aumente o valor do negócio ou da propriedade;\n\nII - o imóvel vier a ser utilizado por ele próprio ou para transferência de fundo de comércio existente há mais de um ano, sendo detentor da maioria do capital o locador, seu cônjuge, ascendente ou descendente.\n\n§ 1º Na hipótese do inciso II, o imóvel não poderá ser destinado ao uso do mesmo ramo do locatário, salvo se a locação também envolvia o fundo de comércio, com as instalações e pertences.\n\n§ 2º Nas locações de espaço em shopping centers , o locador não poderá recusar a renovação do contrato com fundamento no inciso II deste artigo.\n\n§ 3º O locatário terá direito a indenização para ressarcimento dos prejuízos e dos lucros cessantes que tiver que arcar com mudança, perda do lugar e desvalorização do fundo de comércio, se a renovação não ocorrer em razão de proposta de terceiro, em melhores condições, ou se o locador, no prazo de três meses da entrega do imóvel, não der o destino alegado ou não iniciar as obras determinadas pelo Poder Público ou que declarou pretender realizar.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2052.%20O%20locador%20n%C3%A3o%20estar%C3%A1%20obrigado%20a%20renovar%20o%20contrato%20se%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53 - Nas locações de imóveis utilizados por hospitais, unidades sanitárias oficiais, asilos, estabelecimentos de saúde e de ensino autorizados e fiscalizados pelo Poder Público, bem como por entidades religiosas devidamente registradas, o contrato somente poderá ser rescindido. (Redação dada pela Lei nº 9.256, de 9.1.1996)\n\nI - nas hipóteses do art. 9º;\n\nII - se o proprietário, promissário comprador ou promissário cessionário, em caráter irrevogável e imitido na posse, com título registrado, que haja quitado o preço da promessa ou que, não o tendo feito, seja autorizado pelo proprietário, pedir o imóvel para demolição, edificação, licenciada ou reforma que venha a resultar em aumento mínimo de cinqüenta por cento da área útil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2053%20-%20Nas%20loca%C3%A7%C3%B5es%20de%20im%C3%B3veis%20utilizados%20por%20hospitais%2C%20unidades%20sanit%C3%A1rias%20oficiais%2C%20asilos%2C%20estabelecimentos%20de%20sa%C3%BAde%20e%20de%20ensino%20autorizados%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54. Nas relações entre lojistas e empreendedores de shopping center , prevalecerão as condições livremente pactuadas nos contratos de locação respectivos e as disposições procedimentais previstas nesta lei.\n\n§ 1º O empreendedor não poderá cobrar do locatário em shopping center :\n\na) as despesas referidas nas alíneas a , b e d do parágrafo único do art. 22; e\n\nb) as despesas com obras ou substituições de equipamentos, que impliquem modificar o projeto ou o memorial descritivo da data do habite - se e obras de paisagismo nas partes de uso comum.\n\n§ 2º As despesas cobradas do locatário devem ser previstas em orçamento, salvo casos de urgência ou força maior, devidamente demonstradas, podendo o locatário, a cada sessenta dias, por si ou entidade de classe exigir a comprovação das mesmas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2054.%20Nas%20rela%C3%A7%C3%B5es%20entre%20lojistas%20e%20empreendedores%20de%20shopping%20center%20%2C%20prevalecer%C3%A3o%20as%20condi%C3%A7%C3%B5es%20livremente%20pactuadas%20nos%20contratos%20de%20loca%C3%A7%C3%A3o%20respectivos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "53",
+      "next": "54-A"
+    },
+    "54-A": {
+      "numero": "54-A",
+      "texto": "Art. 54-A. Na locação não residencial de imóvel urbano na qual o locador procede à prévia aquisição, construção ou substancial reforma, por si mesmo ou por terceiros, do imóvel então especificado pelo pretendente à locação, a fim de que seja a este locado por prazo determinado, prevalecerão as condições livremente pactuadas no contrato respectivo e as disposições procedimentais previstas nesta Lei. (Incluído pela Lei nº 12.744, de 2012)\n\n§ 1o Poderá ser convencionada a renúncia ao direito de revisão do valor dos aluguéis durante o prazo de vigência do contrato de locação. (Incluído pela Lei nº 12.744, de 2012)\n\n§ 2o Em caso de denúncia antecipada do vínculo locatício pelo locatário, compromete-se este a cumprir a multa convencionada, que não excederá, porém, a soma dos valores dos aluguéis a receber até o termo final da locação. (Incluído pela Lei nº 12.744, de 2012)\n\n§ 3o (VETADO). (Incluído pela Lei nº 12.744, de 2012)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2054-A.%20Na%20loca%C3%A7%C3%A3o%20n%C3%A3o%20residencial%20de%20im%C3%B3vel%20urbano%20na%20qual%20o%20locador%20procede%20%C3%A0%20pr%C3%A9via%20aquisi%C3%A7%C3%A3o%2C%20constru%C3%A7%C3%A3o%20ou%20substancial%20reforma%2C%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "54",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. Considera - se locação não residencial quando o locatário for pessoa jurídica e o imóvel, destinar - se ao uso de seus titulares, diretores, sócios, gerentes, executivos ou empregados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2055.%20Considera%20-%20se%20loca%C3%A7%C3%A3o%20n%C3%A3o%20residencial%20quando%20o%20locat%C3%A1rio%20for%20pessoa%20jur%C3%ADdica%20e%20o%20im%C3%B3vel%2C%20destinar%20-%20se%20ao%20uso",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "54-A",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. Nos demais casos de locação não residencial, o contrato por prazo determinado cessa, de pleno direito, findo o prazo estipulado, independentemente de notificação ou aviso.\n\nParágrafo único. Findo o prazo estipulado, se o locatário permanecer no imóvel por mais de trinta dias sem oposição do locador, presumir - se - á prorrogada a locação nas condições ajustadas, mas sem prazo determinado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2056.%20Nos%20demais%20casos%20de%20loca%C3%A7%C3%A3o%20n%C3%A3o%20residencial%2C%20o%20contrato%20por%20prazo%20determinado%20cessa%2C%20de%20pleno%20direito%2C%20findo%20o%20prazo%20estipulado%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. O contrato de locação por prazo indeterminado pode ser denunciado por escrito, pelo locador, concedidos ao locatário trinta dias para a desocupação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2057.%20O%20contrato%20de%20loca%C3%A7%C3%A3o%20por%20prazo%20indeterminado%20pode%20ser%20denunciado%20por%20escrito%2C%20pelo%20locador%2C%20concedidos%20ao%20locat%C3%A1rio%20trinta%20dias%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": "III",
+        "section_name": "SEÇÃO III"
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. Ressalvados os casos previstos no parágrafo único do art. 1º, nas ações de despejo, consignação em pagamento de aluguel e acessório da locação, revisionais de aluguel e renovatórias de locação, observar - se - á o seguinte:\n\nI - os processos tramitam durante as férias forenses e não se suspendem pela superveniência delas;\n\nII - é competente para conhecer e julgar tais ações o foro do lugar da situação do imóvel, salvo se outro houver sido eleito no contrato;\n\nIII - o valor da causa corresponderá a doze meses de aluguel, ou, na hipótese do inciso II do art. 47, a três salários vigentes por ocasião do ajuizamento;\n\nIV - desde que autorizado no contrato, a citação, intimação ou notificação far - se - á mediante correspondência com aviso de recebimento, ou, tratando - se de pessoa jurídica ou firma individual, também mediante telex ou fac-símile , ou, ainda, sendo necessário, pelas demais formas previstas no Código de Processo Civil;\n\nV - os recursos interpostos contra as sentenças terão efeito somente devolutivo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2058.%20Ressalvados%20os%20casos%20previstos%20no%20par%C3%A1grafo%20%C3%BAnico%20do%20art.%201%C2%BA%2C%20nas%20a%C3%A7%C3%B5es%20de%20despejo%2C%20consigna%C3%A7%C3%A3o%20em%20pagamento%20de%20aluguel%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. Com as modificações constantes deste capítulo, as ações de despejo terão o rito ordinário.\n\n§ 1º Conceder - se - á liminar para desocupação em quinze dias, independentemente da audiência da parte contrária e desde que prestada a caução no valor equivalente a três meses de aluguel, nas ações que tiverem por fundamento exclusivo:\n\nI - o descumprimento do mútuo acordo (art. 9º, inciso I), celebrado por escrito e assinado pelas partes e por duas testemunhas, no qual tenha sido ajustado o prazo mínimo de seis meses para desocupação, contado da assinatura do instrumento;\n\nII - o disposto no inciso II do art. 47, havendo prova escrita da rescisão do contrato de trabalho ou sendo ela demonstrada em audiência prévia;\n\nIII - o término do prazo da locação para temporada, tendo sido proposta a ação de despejo em até trinta dias após o vencimento do contrato;\n\nIV - a morte do locatário sem deixar sucessor legítimo na locação, de acordo com o referido no inciso I do art. 11, permanecendo no imóvel pessoas não autorizadas por lei;\n\nV - a permanência do sublocatário no imóvel, extinta a locação, celebrada com o locatário.\n\nVI – o disposto no inciso IV do art. 9o, havendo a necessidade de se produzir reparações urgentes no imóvel, determinadas pelo poder público, que não possam ser normalmente executadas com a permanência do locatário, ou, podendo, ele se recuse a consenti-las; (Incluído pela Lei nº 12.112, de 2009)\n\nVII – o término do prazo notificatório previsto no parágrafo único do art. 40, sem apresentação de nova garantia apta a manter a segurança inaugural do contrato; (Incluído pela Lei nº 12.112, de 2009)\n\nVIII – o término do prazo da locação não residencial, tendo sido proposta a ação em até 30 (trinta) dias do termo ou do cumprimento de notificação comunicando o intento de retomada; (Incluído pela Lei nº 12.112, de 2009)\n\nIX – a falta de pagamento de aluguel e acessórios da locação no vencimento, estando o contrato desprovido de qualquer das garantias previstas no art. 37, por não ter sido contratada ou em caso de extinção ou pedido de exoneração dela, independentemente de motivo. (Incluído pela Lei nº 12.112, de 2009)\n\n§ 2º Qualquer que seja o fundamento da ação dar - se - á ciência do pedido aos sublocatários, que poderão intervir no processo como assistentes.\n\n§ 3o No caso do inciso IX do § 1o deste artigo, poderá o locatário evitar a rescisão da locação e elidir a liminar de desocupação se, dentro dos 15 (quinze) dias concedidos para a desocupação do imóvel e independentemente de cálculo, efetuar depósito judicial que contemple a totalidade dos valores devidos, na forma prevista no inciso II do art. 62. (Incluído pela Lei nº 12.112, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2059.%20Com%20as%20modifica%C3%A7%C3%B5es%20constantes%20deste%20cap%C3%ADtulo%2C%20as%20a%C3%A7%C3%B5es%20de%20despejo%20ter%C3%A3o%20o%20rito%20ordin%C3%A1rio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. Nas ações de despejo fundadas no inciso IV do art. 9º, inciso IV do art. 47 e inciso II do art. 53, a petição inicial deverá ser instruída com prova da propriedade do imóvel ou do compromisso registrado.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2060.%20Nas%20a%C3%A7%C3%B5es%20de%20despejo%20fundadas%20no%20inciso%20IV%20do%20art.%209%C2%BA%2C%20inciso%20IV%20do%20art.%2047%20e%20inciso%20II%20do",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61 Nas ações fundadas no § 2º do art. 46 e nos incisos III e IV do art. 47, se o locatário, no prazo da contestação, manifestar sua concordância com a desocupação do imóvel, o juiz acolherá o pedido fixando prazo de seis meses para a desocupação, contados da citação, impondo ao vencido a responsabilidade pelas custas e honorários advocatícios de vinte por cento sobre o valor dado à causa. Se a desocupação ocorrer dentro do prazo fixado, o réu ficará isento dessa responsabilidade; caso contrário, será expedido mandado de despejo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2061%20Nas%20a%C3%A7%C3%B5es%20fundadas%20no%20%C2%A7%202%C2%BA%20do%20art.%2046%20e%20nos%20incisos%20III%20e%20IV%20do%20art.%2047%2C%20se%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "60",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. Nas ações de despejo fundadas na falta de pagamento de aluguel e acessórios da locação, de aluguel provisório, de diferenças de aluguéis, ou somente de quaisquer dos acessórios da locação, observar-se-á o seguinte: (Redação dada pela Lei nº 12.112, de 2009)\n\nI – o pedido de rescisão da locação poderá ser cumulado com o pedido de cobrança dos aluguéis e acessórios da locação; nesta hipótese, citar-se-á o locatário para responder ao pedido de rescisão e o locatário e os fiadores para responderem ao pedido de cobrança, devendo ser apresentado, com a inicial, cálculo discriminado do valor do débito; (Redação dada pela Lei nº 12.112, de 2009)\n\nII – o locatário e o fiador poderão evitar a rescisão da locação efetuando, no prazo de 15 (quinze) dias, contado da citação, o pagamento do débito atualizado, independentemente de cálculo e mediante depósito judicial, incluídos: (Redação dada pela Lei nº 12.112, de 2009)\n\na) os aluguéis e acessórios da locação que vencerem até a sua efetivação;\n\nb) as multas ou penalidades contratuais, quando exigíveis;\n\nc) os juros de mora;\n\nd) as custas e os honorários do advogado do locador, fixados em dez por cento sobre o montante devido, se do contrato não constar disposição diversa;\n\nIII – efetuada a purga da mora, se o locador alegar que a oferta não é integral, justificando a diferença, o locatário poderá complementar o depósito no prazo de 10 (dez) dias, contado da intimação, que poderá ser dirigida ao locatário ou diretamente ao patrono deste, por carta ou publicação no órgão oficial, a requerimento do locador; (Redação dada pela Lei nº 12.112, de 2009)\n\nIV – não sendo integralmente complementado o depósito, o pedido de rescisão prosseguirá pela diferença, podendo o locador levantar a quantia depositada; (Redação dada pela Lei nº 12.112, de 2009)\n\nV - os aluguéis que forem vencendo até a sentença deverão ser depositados à disposição do juízo, nos respectivos vencimentos, podendo o locador levantá - los desde que incontroversos;\n\nVI - havendo cumulação dos pedidos de rescisão da locação e cobrança dos aluguéis, a execução desta pode ter início antes da desocupação do imóvel, caso ambos tenham sido acolhidos.\n\nParágrafo único. Não se admitirá a emenda da mora se o locatário já houver utilizado essa faculdade nos 24 (vinte e quatro) meses imediatamente anteriores à propositura da ação. (Redação dada pela Lei nº 12.112, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2062.%20Nas%20a%C3%A7%C3%B5es%20de%20despejo%20fundadas%20na%20falta%20de%20pagamento%20de%20aluguel%20e%20acess%C3%B3rios%20da%20loca%C3%A7%C3%A3o%2C%20de%20aluguel%20provis%C3%B3rio%2C%20de%20diferen%C3%A7as",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "61",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. Julgada procedente a ação de despejo, o juiz determinará a expedição de mandado de despejo, que conterá o prazo de 30 (trinta) dias para a desocupação voluntária, ressalvado o disposto nos parágrafos seguintes. (Redação dada pela Lei nº 12.112, de 2009)\n\n§ 1º O prazo será de quinze dias se:\n\na) entre a citação e a sentença de primeira instância houverem decorrido mais de quatro meses; ou\n\nb) o despejo houver sido decretado com fundamento no art. 9o ou no § 2o do art. 46. (Redação dada pela Lei nº 12.112, de 2009)\n\n§ 2° Tratando-se de estabelecimento de ensino autorizado e fiscalizado pelo Poder Público, respeitado o prazo mínimo de seis meses e o máximo de um ano, o juiz disporá de modo que a desocupação coincida com o período de férias escolares.\n\n§ 3º Tratando-se de hospitais, repartições públicas, unidades sanitárias oficiais, asilos, estabelecimentos de saúde e de ensino autorizados e fiscalizados pelo Poder Público, bem como por entidades religiosas devidamente registradas, e o despejo for decretado com fundamento no inciso IV do art. 9º ou no inciso II do art. 53, o prazo será de um ano, exceto no caso em que entre a citação e a sentença de primeira instância houver decorrido mais de um ano, hipótese em que o prazo será de seis meses. (Redação dada pela Lei nº 9.256, de 9.1.1996)\n\n§ 4° A sentença que decretar o despejo fixará o valor da caução para o caso de ser executada provisoriamente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2063.%20Julgada%20procedente%20a%20a%C3%A7%C3%A3o%20de%20despejo%2C%20o%20juiz%20determinar%C3%A1%20a%20expedi%C3%A7%C3%A3o%20de%20mandado%20de%20despejo%2C%20que%20conter%C3%A1%20o%20prazo%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "62",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. Salvo nas hipóteses das ações fundadas no art. 9o, a execução provisória do despejo dependerá de caução não inferior a 6 (seis) meses nem superior a 12 (doze) meses do aluguel, atualizado até a data da prestação da caução. (Redação dada pela Lei nº 12.112, de 2009)\n\n§ 1° A caução poderá ser real ou fidejussória e será prestada nos autos da execução provisória.\n\n§ 2° Ocorrendo a reforma da sentença ou da decisão que concedeu liminarmente o despejo, o valor da caução reverterá em favor do réu, como indenização mínima das perdas e danos, podendo este reclamar, em ação própria, a diferença pelo que a exceder.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2064.%20Salvo%20nas%20hip%C3%B3teses%20das%20a%C3%A7%C3%B5es%20fundadas%20no%20art.%209o%2C%20a%20execu%C3%A7%C3%A3o%20provis%C3%B3ria%20do%20despejo%20depender%C3%A1%20de%20cau%C3%A7%C3%A3o%20n%C3%A3o%20inferior%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "63",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art. 65. Findo o prazo assinado para a desocupação, contado da data da notificação, será efetuado o despejo, se necessário com emprego de força, inclusive arrombamento.\n\n§ 1º Os móveis e utensílios serão entregues à guarda de depositário, se não os quiser retirar o despejado.\n\n§ 2º O despejo não poderá ser executado até o trigésimo dia seguinte ao do falecimento do cônjuge, ascendente, descendente ou irmão de qualquer das pessoas que habitem o imóvel.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2065.%20Findo%20o%20prazo%20assinado%20para%20a%20desocupa%C3%A7%C3%A3o%2C%20contado%20da%20data%20da%20notifica%C3%A7%C3%A3o%2C%20ser%C3%A1%20efetuado%20o%20despejo%2C%20se%20necess%C3%A1rio%20com%20emprego",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "64",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art. 66. Quando o imóvel for abandonado após ajuizada a ação, o locador poderá imitir-se na posse do imóvel.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2066.%20Quando%20o%20im%C3%B3vel%20for%20abandonado%20ap%C3%B3s%20ajuizada%20a%20a%C3%A7%C3%A3o%2C%20o%20locador%20poder%C3%A1%20imitir-se%20na%20posse%20do%20im%C3%B3vel.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "65",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art. 67. Na ação que objetivar o pagamento dos aluguéis e acessórios da locação mediante consignação, será observado o seguinte:\n\nI - a petição inicial, além dos requisitos exigidos pelo art. 282 do Código de Processo Civil, deverá especificar os aluguéis e acessórios da locação com indicação dos respectivos valores;\n\nII - determinada a citação do réu, o autor será intimado a, no prazo de vinte e quatro horas, efetuar o depósito judicial da importância indicada na petição inicial, sob pena de ser extinto o processo;\n\nIII - o pedido envolverá a quitação das obrigações que vencerem durante a tramitação do feito e até ser prolatada a sentença de primeira instância, devendo o autor promover os depósitos nos respectivos vencimentos;\n\nIV - não sendo oferecida a contestação, ou se o locador receber os valores depositados, o juiz acolherá o pedido, declarando quitadas as obrigações, condenando o réu ao pagamento das custas e honorários de vinte por cento do valor dos depósitos;\n\nV - a contestação do locador, além da defesa de direito que possa caber, ficará adstrita, quanto à matéria de fato, a:\n\na) não ter havido recusa ou mora em receber a quantia devida;\n\nb) ter sido justa a recusa;\n\nc) não ter sido efetuado o depósito no prazo ou no lugar do pagamento;\n\nd) não ter sido o depósito integral;\n\nVI - além de contestar, o réu poderá, em reconvenção, pedir o despejo e a cobrança dos valores objeto da consignatória ou da diferença do depósito inicial, na hipótese de ter sido alegado não ser o mesmo integral;\n\nVII - o autor poderá complementar o depósito inicial, no prazo de cinco dias contados da ciência do oferecimento da resposta, com acréscimo de dez por cento sobre o valor da diferença. Se tal ocorrer, o juiz declarará quitadas as obrigações, elidindo a rescisão da locação, mas imporá ao autor-reconvindo a responsabilidade pelas custas e honorários advocatícios de vinte por cento sobre o valor dos depósitos;\n\nVIII - havendo, na reconvenção, cumulação dos pedidos de rescisão da locação e cobrança dos valores objeto da consignatória, a execução desta somente poderá ter início após obtida a desocupação do imóvel, caso ambos tenham sido acolhidos.\n\nParágrafo único. O réu poderá levantar a qualquer momento as importâncias depositadas sobre as quais não penda controvérsia.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2067.%20Na%20a%C3%A7%C3%A3o%20que%20objetivar%20o%20pagamento%20dos%20alugu%C3%A9is%20e%20acess%C3%B3rios%20da%20loca%C3%A7%C3%A3o%20mediante%20consigna%C3%A7%C3%A3o%2C%20ser%C3%A1%20observado%20o%20seguinte%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "III",
+        "chapter_name": "CAPÍTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "66",
+      "next": "68"
+    },
+    "68": {
+      "numero": "68",
+      "texto": "Art. 68. Na ação revisional de aluguel, que terá o rito sumário, observar-se-á o seguinte: (Redação dada pela Lei nº 12.112, de 2009)\n\nI - além dos requisitos exigidos pelos arts. 276 e 282 do Código de Processo Civil, a petição inicial deverá indicar o valor do aluguel cuja fixação é pretendida;\n\nII – ao designar a audiência de conciliação, o juiz, se houver pedido e com base nos elementos fornecidos tanto pelo locador como pelo locatário, ou nos que indicar, fixará aluguel provisório, que será devido desde a citação, nos seguintes moldes: (Redação dada pela Lei nº 12.112, de 2009)\n\na) em ação proposta pelo locador, o aluguel provisório não poderá ser excedente a 80% (oitenta por cento) do pedido; (Incluída pela Lei nº 12.112, de 2009)\n\nb) em ação proposta pelo locatário, o aluguel provisório não poderá ser inferior a 80% (oitenta por cento) do aluguel vigente; (Incluída pela Lei nº 12.112, de 2009)\n\nIII - sem prejuízo da contestação e até a audiência, o réu poderá pedir seja revisto o aluguel provisório, fornecendo os elementos para tanto;\n\nIV – na audiência de conciliação, apresentada a contestação, que deverá conter contraproposta se houver discordância quanto ao valor pretendido, o juiz tentará a conciliação e, não sendo esta possível, determinará a realização de perícia, se necessária, designando, desde logo, audiência de instrução e julgamento; (Redação dada pela Lei nº 12.112, de 2009)\n\nV – o pedido de revisão previsto no inciso III deste artigo interrompe o prazo para interposição de recurso contra a decisão que fixar o aluguel provisório. (Incluído pela Lei nº 12.112, de 2009)\n\n§ 1º Não caberá ação revisional na pendência de prazo para desocupação do imóvel (arts. 46, parágrafo 2° e 57), ou quando tenha sido este estipulado amigável ou judicialmente.\n\n§ 2º No curso da ação de revisão, o aluguel provisório será reajustado na periodicidade pactuada ou na fixada em lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2068.%20Na%20a%C3%A7%C3%A3o%20revisional%20de%20aluguel%2C%20que%20ter%C3%A1%20o%20rito%20sum%C3%A1rio%2C%20observar-se-%C3%A1%20o%20seguinte%3A%20%28Reda%C3%A7%C3%A3o%20dada%20pela%20Lei%20n%C2%BA%2012.112%2C%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "67",
+      "next": "69"
+    },
+    "69": {
+      "numero": "69",
+      "texto": "Art. 69. O aluguel fixado na sentença retroage à citação, e as diferenças devidas durante a ação de revisão, descontados os alugueres provisórios satisfeitos, serão pagas corrigidas, exigíveis a partir do trânsito em julgado da decisão que fixar o novo aluguel.\n\n§ 1º Se pedido pelo locador, ou sublocador, a sentença poderá estabelecer periodicidade de reajustamento do aluguel diversa daquela prevista no contrato revisando, bem como adotar outro indexador para reajustamento do aluguel.\n\n§ 2º A execução das diferenças será feita nos autos da ação de revisão.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2069.%20O%20aluguel%20fixado%20na%20senten%C3%A7a%20retroage%20%C3%A0%20cita%C3%A7%C3%A3o%2C%20e%20as%20diferen%C3%A7as%20devidas%20durante%20a%20a%C3%A7%C3%A3o%20de%20revis%C3%A3o%2C%20descontados%20os%20alugueres",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "68",
+      "next": "70"
+    },
+    "70": {
+      "numero": "70",
+      "texto": "Art. 70. Na ação de revisão do aluguel, o juiz poderá homologar acordo de desocupação, que será executado mediante expedição de mandado de despejo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2070.%20Na%20a%C3%A7%C3%A3o%20de%20revis%C3%A3o%20do%20aluguel%2C%20o%20juiz%20poder%C3%A1%20homologar%20acordo%20de%20desocupa%C3%A7%C3%A3o%2C%20que%20ser%C3%A1%20executado%20mediante%20expedi%C3%A7%C3%A3o%20de%20mandado",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "IV",
+        "chapter_name": "CAPÍTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "69",
+      "next": "71"
+    },
+    "71": {
+      "numero": "71",
+      "texto": "Art. 71. Além dos demais requisitos exigidos no art. 282 do Código de Processo Civil, a petição inicial da ação renovatória deverá ser instruída com:\n\nI - prova do preenchimento dos requisitos dos incisos I, II e III do art. 51;\n\nII - prova do exato cumprimento do contrato em curso;\n\nIII - prova da quitação dos impostos e taxas que incidiram sobre o imóvel e cujo pagamento lhe incumbia;\n\nIV - indicação clara e precisa das condições oferecidas para a renovação da locação;\n\nV – indicação do fiador quando houver no contrato a renovar e, quando não for o mesmo, com indicação do nome ou denominação completa, número de sua inscrição no Ministério da Fazenda, endereço e, tratando-se de pessoa natural, a nacionalidade, o estado civil, a profissão e o número da carteira de identidade, comprovando, desde logo, mesmo que não haja alteração do fiador, a atual idoneidade financeira; (Redação dada pela Lei nº 12.112, de 2009)\n\nVI - prova de que o fiador do contrato ou o que o substituir na renovação aceita os encargos da fiança, autorizado por seu cônjuge, se casado for;\n\nVII - prova, quando for o caso, de ser cessionário ou sucessor, em virtude de título oponível ao proprietário.\n\nParágrafo único. Proposta a ação pelo sublocatário do imóvel ou de parte dele, serão citados o sublocador e o locador, como litisconsortes, salvo se, em virtude de locação originária ou renovada, o sublocador dispuser de prazo que admita renovar a sublocação; na primeira hipótese, procedente a ação, o proprietário ficará diretamente obrigado à renovação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2071.%20Al%C3%A9m%20dos%20demais%20requisitos%20exigidos%20no%20art.%20282%20do%20C%C3%B3digo%20de%20Processo%20Civil%2C%20a%20peti%C3%A7%C3%A3o%20inicial%20da%20a%C3%A7%C3%A3o%20renovat%C3%B3ria%20dever%C3%A1",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "70",
+      "next": "72"
+    },
+    "72": {
+      "numero": "72",
+      "texto": "Art. 72. A contestação do locador, além da defesa de direito que possa caber, ficará adstrita, quanto à matéria de fato, ao seguinte:\n\nI - não preencher o autor os requisitos estabelecidos nesta lei;\n\nII - não atender, a proposta do locatário, o valor locativo real do imóvel na época da renovação, excluída a valorização trazida por aquele ao ponto ou lugar;\n\nIII - ter proposta de terceiro para a locação, em condições melhores;\n\nIV - não estar obrigado a renovar a locação (incisos I e II do art. 52).\n\n§ 1º No caso do inciso II, o locador deverá apresentar, em contraproposta, as condições de locação que repute compatíveis com o valor locativo real e atual do imóvel.\n\n§ 2º No caso do inciso III, o locador deverá juntar prova documental da proposta do terceiro, subscrita por este e por duas testemunhas, com clara indicação do ramo a ser explorado, que não poderá ser o mesmo do locatário. Nessa hipótese, o locatário poderá, em réplica, aceitar tais condições para obter a renovação pretendida.\n\n§ 3º No caso do inciso I do art. 52, a contestação deverá trazer prova da determinação do Poder Público ou relatório pormenorizado das obras a serem realizadas e da estimativa de valorização que sofrerá o imóvel, assinado por engenheiro devidamente habilitado.\n\n§ 4º Na contestação, o locador, ou sublocador, poderá pedir, ainda, a fixação de aluguel provisório, para vigorar a partir do primeiro mês do prazo do contrato a ser renovado, não excedente a oitenta por cento do pedido, desde que apresentados elementos hábeis para aferição do justo valor do aluguel.\n\n§ 5º Se pedido pelo locador, ou sublocador, a sentença poderá estabelecer periodicidade de reajustamento do aluguel diversa daquela prevista no contrato renovando, bem como adotar outro indexador para reajustamento do aluguel.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2072.%20A%20contesta%C3%A7%C3%A3o%20do%20locador%2C%20al%C3%A9m%20da%20defesa%20de%20direito%20que%20possa%20caber%2C%20ficar%C3%A1%20adstrita%2C%20quanto%20%C3%A0%20mat%C3%A9ria%20de%20fato%2C%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "71",
+      "next": "73"
+    },
+    "73": {
+      "numero": "73",
+      "texto": "Art. 73. Renovada a locação, as diferenças dos aluguéis vencidos serão executadas nos próprios autos da ação e pagas de uma só vez.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2073.%20Renovada%20a%20loca%C3%A7%C3%A3o%2C%20as%20diferen%C3%A7as%20dos%20alugu%C3%A9is%20vencidos%20ser%C3%A3o%20executadas%20nos%20pr%C3%B3prios%20autos%20da%20a%C3%A7%C3%A3o%20e%20pagas%20de%20uma%20s%C3%B3",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "72",
+      "next": "74"
+    },
+    "74": {
+      "numero": "74",
+      "texto": "Art. 74. Não sendo renovada a locação, o juiz determinará a expedição de mandado de despejo, que conterá o prazo de 30 (trinta) dias para a desocupação voluntária, se houver pedido na contestação. (Redação dada pela Lei nº 12.112, de 2009)\n\n§ 1o (VETADO) (Incluído dada pela Lei nº 12.112, de 2009)\n\n§ 2o (VETADO) (Incluído dada pela Lei nº 12.112, de 2009)\n\n§ 3o (VETADO) (Incluído dada pela Lei nº 12.112, de 2009)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2074.%20N%C3%A3o%20sendo%20renovada%20a%20loca%C3%A7%C3%A3o%2C%20o%20juiz%20determinar%C3%A1%20a%20expedi%C3%A7%C3%A3o%20de%20mandado%20de%20despejo%2C%20que%20conter%C3%A1%20o%20prazo%20de%2030",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "73",
+      "next": "75"
+    },
+    "75": {
+      "numero": "75",
+      "texto": "Art. 75. Na hipótese do inciso III do art. 72, a sentença fixará desde logo a indenização devida ao locatário em conseqüência da não prorrogação da locação, solidariamente devida pelo locador e o proponente.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2075.%20Na%20hip%C3%B3tese%20do%20inciso%20III%20do%20art.%2072%2C%20a%20senten%C3%A7a%20fixar%C3%A1%20desde%20logo%20a%20indeniza%C3%A7%C3%A3o%20devida%20ao%20locat%C3%A1rio%20em%20conseq%C3%BC%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "TÍTULO II",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "74",
+      "next": "76"
+    },
+    "76": {
+      "numero": "76",
+      "texto": "Art. 76. Não se aplicam as disposições desta lei aos processos em curso.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2076.%20N%C3%A3o%20se%20aplicam%20as%20disposi%C3%A7%C3%B5es%20desta%20lei%20aos%20processos%20em%20curso.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "75",
+      "next": "77"
+    },
+    "77": {
+      "numero": "77",
+      "texto": "Art. 77. Todas as locações residenciais que tenham sido celebradas anteriormente à vigência desta lei serão automaticamente prorrogadas por tempo indeterminado, ao término do prazo ajustado no contrato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2077.%20Todas%20as%20loca%C3%A7%C3%B5es%20residenciais%20que%20tenham%20sido%20celebradas%20anteriormente%20%C3%A0%20vig%C3%AAncia%20desta%20lei%20ser%C3%A3o%20automaticamente%20prorrogadas%20por%20tempo%20indeterminado%2C%20ao",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "76",
+      "next": "78"
+    },
+    "78": {
+      "numero": "78",
+      "texto": "Art. 78. As locações residenciais que tenham sido celebradas anteriormente à vigência desta lei e que já vigorem ou venham a vigorar por prazo indeterminado, poderão ser denunciadas pelo locador, concedido o prazo de doze meses para a desocupação.\n\nParágrafo único. Na hipótese de ter havido revisão judicial ou amigável do aluguel, atingindo o preço do mercado, a denúncia somente poderá ser exercitada após vinte e quatro meses da data da revisão, se esta ocorreu nos doze meses anteriores à data da vigência desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2078.%20As%20loca%C3%A7%C3%B5es%20residenciais%20que%20tenham%20sido%20celebradas%20anteriormente%20%C3%A0%20vig%C3%AAncia%20desta%20lei%20e%20que%20j%C3%A1%20vigorem%20ou%20venham%20a%20vigorar",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "77",
+      "next": "79"
+    },
+    "79": {
+      "numero": "79",
+      "texto": "Art. 79. No que for omissa esta lei aplicam-se as normas do Código Civil e do Código de Processo Civil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2079.%20No%20que%20for%20omissa%20esta%20lei%20aplicam-se%20as%20normas%20do%20C%C3%B3digo%20Civil%20e%20do%20C%C3%B3digo%20de%20Processo%20Civil.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "78",
+      "next": "80"
+    },
+    "80": {
+      "numero": "80",
+      "texto": "Art. 80. Para os fins do inciso I do art. 98 da Constituição Federal, as ações de despejo poderão ser consideradas como causas cíveis de menor complexidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2080.%20Para%20os%20fins%20do%20inciso%20I%20do%20art.%2098%20da%20Constitui%C3%A7%C3%A3o%20Federal%2C%20as%20a%C3%A7%C3%B5es%20de%20despejo%20poder%C3%A3o%20ser%20consideradas%20como",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "79",
+      "next": "81"
+    },
+    "81": {
+      "numero": "81",
+      "texto": "Art. 81. O inciso II do art. 167 e o art. 169 da Lei n° 6.015, de 31 de dezembro de 1973, passam a vigorar com as seguintes alterações:\n\n\"Art. 167. ..........................................................\n\nII - .....................................................................\n\n16) do contrato de locação, para os fins de exercício de direito de preferência.\"\n\n\"Art. 169. .............................................................\n\n..............................................................................\n\nIII - o registro previsto no n° 3 do inciso I do art. 167, e a averbação prevista no n° 16 do inciso II do art. 167 serão efetuados no cartório onde o imóvel esteja matriculado mediante apresentação de qualquer das vias do contrato, assinado pelas partes e subscrito por duas testemunhas, bastando a coincidência entre o nome de um dos proprietários e o locador.\"",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2081.%20O%20inciso%20II%20do%20art.%20167%20e%20o%20art.%20169%20da%20Lei%20n%C2%B0%206.015%2C%20de%2031%20de%20dezembro%20de%201973%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "80",
+      "next": "82"
+    },
+    "82": {
+      "numero": "82",
+      "texto": "Art. 82. O art. 3° da Lei n° 8.009, de 29 de março de 1990, passa a vigorar acrescido do seguinte inciso VII:\n\n\"Art. 3° .................................................................\n\n.............................................................................\n\nVII - por obrigação decorrente de fiança concedida em contrato de locação.\"",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2082.%20O%20art.%203%C2%B0%20da%20Lei%20n%C2%B0%208.009%2C%20de%2029%20de%20mar%C3%A7o%20de%201990%2C%20passa%20a%20vigorar%20acrescido%20do%20seguinte%20inciso",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "81",
+      "next": "83"
+    },
+    "83": {
+      "numero": "83",
+      "texto": "Art. 83. Ao art. 24 da Lei n° 4.591, de 16 de dezembro de 1964 fica acrescido o seguinte § 4°:\n\n\"Art. 24. ...............................................................\n\n.............................................................................\n\n4° Nas decisões da assembléia que envolvam despesas ordinárias do condomínio, o locatário poderá votar, caso o condômino locador a ela não compareça.\"",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2083.%20Ao%20art.%2024%20da%20Lei%20n%C2%B0%204.591%2C%20de%2016%20de%20dezembro%20de%201964%20fica%20acrescido%20o%20seguinte%20%C2%A7%204%C2%B0%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "82",
+      "next": "84"
+    },
+    "84": {
+      "numero": "84",
+      "texto": "Art. 84. Reputam-se válidos os registros dos contratos de locação de imóveis, realizados até a data da vigência desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2084.%20Reputam-se%20v%C3%A1lidos%20os%20registros%20dos%20contratos%20de%20loca%C3%A7%C3%A3o%20de%20im%C3%B3veis%2C%20realizados%20at%C3%A9%20a%20data%20da%20vig%C3%AAncia%20desta%20lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "83",
+      "next": "85"
+    },
+    "85": {
+      "numero": "85",
+      "texto": "Art. 85. Nas locações residenciais, é livre a convenção do aluguel quanto a preço, periodicidade e indexador de reajustamento, vedada a vinculação à variação do salário mínimo, variação cambial e moeda estrangeira:\n\nI dos imóveis novos, com habite-se concedido a partir da entrada em vigor desta lei;\n\nII - dos demais imóveis não enquadrados no inciso anterior, em relação aos contratos celebrados, após cinco anos de entrada em vigor desta lei.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2085.%20Nas%20loca%C3%A7%C3%B5es%20residenciais%2C%20%C3%A9%20livre%20a%20conven%C3%A7%C3%A3o%20do%20aluguel%20quanto%20a%20pre%C3%A7o%2C%20periodicidade%20e%20indexador%20de%20reajustamento%2C%20vedada%20a%20vincula%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "84",
+      "next": "86"
+    },
+    "86": {
+      "numero": "86",
+      "texto": "Art. 86. O art. 8° da Lei n° 4.380, de 21 de agosto de 1964 passa a vigorar com a seguinte redação:\n\n\"Art. 8° O sistema financeiro da habitação, destinado a facilitar e promover a construção e a aquisição da casa própria ou moradia, especialmente pelas classes de menor renda da população, será integrado.\"",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2086.%20O%20art.%208%C2%B0%20da%20Lei%20n%C2%B0%204.380%2C%20de%2021%20de%20agosto%20de%201964%20passa%20a%20vigorar%20com%20a%20seguinte%20reda%C3%A7%C3%A3o%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "85",
+      "next": "87"
+    },
+    "87": {
+      "numero": "87",
+      "texto": "Art. 87. (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2087.%20%28Vetado%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "86",
+      "next": "88"
+    },
+    "88": {
+      "numero": "88",
+      "texto": "Art. 88. (Vetado).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2088.%20%28Vetado%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "87",
+      "next": "89"
+    },
+    "89": {
+      "numero": "89",
+      "texto": "Art. 89. Esta lei entrará em vigor sessenta dias após a sua publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2089.%20Esta%20lei%20entrar%C3%A1%20em%20vigor%20sessenta%20dias%20ap%C3%B3s%20a%20sua%20publica%C3%A7%C3%A3o.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "88",
+      "next": "90"
+    },
+    "90": {
+      "numero": "90",
+      "texto": "Art. 90. Revogam-se as disposições em contrário, especialmente:\n\nI - o Decreto n° 24.150, de 20 de abril de 1934;\n\nII - a Lei n° 6.239, de 19 de setembro de 1975;\n\nIII - a Lei n° 6.649, de 16 de maio de 1979;\n\nIV - a Lei n° 6.698, de 15 de outubro de 1979;\n\nV - a Lei n° 7.355, de 31 de agosto de 1985;\n\nVI - a Lei n° 7.538, de 24 de setembro de 1986;\n\nVII - a Lei n° 7.612, de 9 de julho de 1987; e\n\nVIII - a Lei n° 8.157, de 3 de janeiro de 1991.\n\nBrasília, 18 de outubro de 1991; 170° da Independência e 103° da República.\n\nFERNANDO COLLOR Jarbas Passarinho\n\nEste texto não substitui o publicado no D.O.U. de 21.10.1991",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm#:~:text=Art.%2090.%20Revogam-se%20as%20disposi%C3%A7%C3%B5es%20em%20contr%C3%A1rio%2C%20especialmente%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "III",
+        "title_name": "TÍTULO III",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "89",
+      "next": null
+    }
+  }
+}

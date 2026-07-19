@@ -536,6 +536,104 @@
         }
       ]
     },
+    "legislacao_esparsas_imobiliario_agrario": {
+      "familia": "legislacao",
+      "adaptador": "planalto_html_v1",
+      "chave_colecao": "artigos",
+      "fontes": [
+        {
+          "id": "dl167",
+          "codigo": "DL167",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0167.htm",
+          "arquivo_bruto": "dl167.html",
+          "destino": "lei_dl167.json"
+        },
+        {
+          "id": "l11977",
+          "codigo": "L11977",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11977compilado.htm",
+          "arquivo_bruto": "l11977.html",
+          "destino": "lei_l11977.json"
+        },
+        {
+          "id": "l13465",
+          "codigo": "L13465",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13465.htm",
+          "arquivo_bruto": "l13465.html",
+          "destino": "lei_l13465.json"
+        },
+        {
+          "id": "l13777",
+          "codigo": "L13777",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13777.htm",
+          "arquivo_bruto": "l13777.html",
+          "destino": "lei_l13777.json",
+          "descartar_artigos": [
+            "1358-C",
+            "1358-D",
+            "1358-E",
+            "1358-F",
+            "1358-G",
+            "1358-H",
+            "1358-I",
+            "1358-J",
+            "1358-K",
+            "1358-L",
+            "1358-M",
+            "1358-N",
+            "1358-O",
+            "1358-P",
+            "1358-Q",
+            "1358-R",
+            "1358-S",
+            "1358-T",
+            "1358-U"
+          ]
+        },
+        {
+          "id": "l13786",
+          "codigo": "L13786",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13786.htm",
+          "arquivo_bruto": "l13786.html",
+          "destino": "lei_l13786.json"
+        },
+        {
+          "id": "l4591",
+          "codigo": "L4591",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm",
+          "arquivo_bruto": "l4591.html",
+          "destino": "lei_l4591.json"
+        },
+        {
+          "id": "l6766",
+          "codigo": "L6766",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l6766compilado.htm",
+          "arquivo_bruto": "l6766.html",
+          "destino": "lei_l6766.json"
+        },
+        {
+          "id": "l8245",
+          "codigo": "L8245",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm",
+          "arquivo_bruto": "l8245.html",
+          "destino": "lei_l8245.json"
+        },
+        {
+          "id": "l8629",
+          "codigo": "L8629",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8629compilado.htm",
+          "arquivo_bruto": "l8629.html",
+          "destino": "lei_l8629.json"
+        },
+        {
+          "id": "l9514",
+          "codigo": "L9514",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm",
+          "arquivo_bruto": "l9514.html",
+          "destino": "lei_l9514.json"
+        }
+      ]
+    },
     "legislacao_esparsas_penal": {
       "familia": "legislacao",
       "adaptador": "planalto_html_v1",

@@ -1029,6 +1029,66 @@
     "L9504:11"
    ],
    "justificativa": "O art. 11 disciplina o pedido de registro de candidatos à Justiça Eleitoral; o art. 8º trata da escolha em convenção, etapa que o antecede. Os arts. 6º (coligações), 23 (doações) e 28 (prestação de contas), também recuperados, não versam sobre o registro."
+  },
+  {
+   "id": "l8245-despejo",
+   "grupo": "legislacao",
+   "consulta": "despejo denúncia vazia retomada locação",
+   "filtro": {
+    "codigo": "L8245"
+   },
+   "relevantes": [
+    "L8245:5",
+    "L8245:59",
+    "L8245:6",
+    "L8245:7",
+    "L8245:8"
+   ],
+   "obrigatorios": [
+    "L8245:5",
+    "L8245:59"
+   ],
+   "justificativa": "O art. 5º fixa o despejo como a ação para reaver o imóvel; o art. 59 disciplina o rito e as liminares; os arts. 6º, 7º e 8º tratam das denúncias da locação (pelo locatário, na extinção de usufruto e na alienação)."
+  },
+  {
+   "id": "l9514-alienacao-fiduciaria",
+   "grupo": "legislacao",
+   "consulta": "alienação fiduciária coisa imóvel consolidação propriedade",
+   "filtro": {
+    "codigo": "L9514"
+   },
+   "relevantes": [
+    "L9514:22",
+    "L9514:23",
+    "L9514:24",
+    "L9514:27-A",
+    "L9514:17"
+   ],
+   "obrigatorios": [
+    "L9514:22",
+    "L9514:23"
+   ],
+   "justificativa": "O art. 22 define a alienação fiduciária de coisa imóvel; o art. 23 sua constituição por registro; o art. 24 o conteúdo do contrato; o art. 27-A a garantia sobre múltiplos imóveis; o art. 17 o rol de garantias do financiamento imobiliário."
+  },
+  {
+   "id": "l6766-parcelamento",
+   "grupo": "legislacao",
+   "consulta": "loteamento desmembramento requisitos parcelamento",
+   "filtro": {
+    "codigo": "L6766"
+   },
+   "relevantes": [
+    "L6766:2",
+    "L6766:4",
+    "L6766:11",
+    "L6766:12",
+    "L6766:18"
+   ],
+   "obrigatorios": [
+    "L6766:2",
+    "L6766:4"
+   ],
+   "justificativa": "O art. 2º define as modalidades de parcelamento (loteamento e desmembramento); o art. 4º os requisitos mínimos; os arts. 11, 12 e 18 tratam da aplicação ao desmembramento, da aprovação do projeto e do registro."
   }
  ]
 }

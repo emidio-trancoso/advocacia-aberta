@@ -1,0 +1,1391 @@
+{
+  "_meta": {
+    "codigo": "L4591",
+    "nome": "Incorporação Imobiliária",
+    "lei": "Lei 4.591/1964",
+    "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm",
+    "total_artigos": 86,
+    "version": "2.0",
+    "gerado_em": "2026-07-19",
+    "transformacao": "planalto_html_v1",
+    "registros_retidos_sem_correspondencia": []
+  },
+  "artigos": {
+    "1": {
+      "numero": "1",
+      "texto": "Art. 1º As edificações ou conjuntos de edificações, de um ou mais pavimentos, construídos sob a forma de unidades isoladas entre si, destinadas a fins residenciais ou não-residenciais, poderão ser alienados, no todo ou em parte, objetivamente considerados, e constituirá, cada unidade, propriedade autônoma sujeita às limitações desta Lei.\n\n§ 1º Cada unidade será assinalada por designação especial, numérica ou alfabética, para efeitos de identificação e discriminação.\n\n§ 2º A cada unidade caberá, como parte inseparável, uma fração ideal do terreno e coisas comuns, expressa sob forma decimal ou ordinária",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%201%C2%BA%20As%20edifica%C3%A7%C3%B5es%20ou%20conjuntos%20de%20edifica%C3%A7%C3%B5es%2C%20de%20um%20ou%20mais%20pavimentos%2C%20constru%C3%ADdos%20sob%20a%20forma%20de%20unidades%20isoladas%20entre%20si%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": null,
+      "next": "2"
+    },
+    "2": {
+      "numero": "2",
+      "texto": "Art. 2º Cada unidade com saída para a via pública, diretamente ou por processo de passagem comum, será sempre tratada como objeto de propriedade exclusiva, qualquer que seja o número de suas peças e sua destinação, inclusive (VETADO) edifício-garagem, com ressalva das restrições que se lhe imponham.\n\n§ 1º O direito à guarda de veículos nas garagens ou locais a isso destinados nas edificações ou conjuntos de edificações será tratado como objeto de propriedade exclusiva, com ressalva das restrições que ao mesmo sejam impostas por instrumentos contratuais adequados, e será vinculada à unidade habitacional a que corresponder, no caso de não lhe ser atribuída fração ideal específica de terreno. (Incluído pela Lei nº 4.864, de 29.11.1965)\n\n§ 2º O direito de que trata o § 1º dêste artigo poderá ser transferido a outro condômino, independentemente da alienação da unidade a que corresponder, vedada sua transferência a pessoas estranhas ao condomínio. (Incluído pela Lei nº 4.864, de 29.11.1965)\n\n§ 3º Nos edifícios-garagem, às vagas serão atribuídas frações ideais de terreno específicas.(Incluído pela Lei nº 4.864, de 29.11.1965)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%202%C2%BA%20Cada%20unidade%20com%20sa%C3%ADda%20para%20a%20via%20p%C3%BAblica%2C%20diretamente%20ou%20por%20processo%20de%20passagem%20comum%2C%20ser%C3%A1%20sempre%20tratada%20como%20objeto",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "1",
+      "next": "3"
+    },
+    "3": {
+      "numero": "3",
+      "texto": "Art. 3º O terreno em que se levantam a edificação ou o conjunto de edificações e suas instalações, bem como as fundações, paredes externas, o teto, as áreas internas de ventilação, e tudo o mais que sirva a qualquer dependência de uso comum dos proprietários ou titulares de direito à aquisição de unidades ou ocupantes, constituirão condomínio de todos, e serão insuscetíveis de divisão, ou de alienação destacada da respectiva unidade. Serão, também, insuscetíveis de utilização exclusiva por qualquer condômino (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%203%C2%BA%20O%20terreno%20em%20que%20se%20levantam%20a%20edifica%C3%A7%C3%A3o%20ou%20o%20conjunto%20de%20edifica%C3%A7%C3%B5es%20e%20suas%20instala%C3%A7%C3%B5es%2C%20bem%20como%20as%20funda%C3%A7%C3%B5es%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "2",
+      "next": "4"
+    },
+    "4": {
+      "numero": "4",
+      "texto": "Art. 4º A alienação de cada unidade, a transferência de direitos pertinentes à sua aquisição e a constituição de direitos reais sôbre ela independerão do consentimento dos condôminos, (VETADO).\n\nParágrafo único - A alienação ou transferência de direitos de que trata este artigo dependerá de prova de quitação das obrigações do alienante para com o respectivo condomínio. (Redação dada pela Lei nº 7.182, de 27.3.1984) (Vide Lei nº 7.433, de 1985)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%204%C2%BA%20A%20aliena%C3%A7%C3%A3o%20de%20cada%20unidade%2C%20a%20transfer%C3%AAncia%20de%20direitos%20pertinentes%20%C3%A0%20sua%20aquisi%C3%A7%C3%A3o%20e%20a%20constitui%C3%A7%C3%A3o%20de%20direitos%20reais%20s%C3%B4bre",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "3",
+      "next": "5"
+    },
+    "5": {
+      "numero": "5",
+      "texto": "Art. 5º O condomínio por meação de parede, soalhos, e tetos das unidades isoladas, regular-se-á pelo disposto no Código Civil, no que lhe fôr aplicável.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%205%C2%BA%20O%20condom%C3%ADnio%20por%20mea%C3%A7%C3%A3o%20de%20parede%2C%20soalhos%2C%20e%20tetos%20das%20unidades%20isoladas%2C%20regular-se-%C3%A1%20pelo%20disposto%20no%20C%C3%B3digo%20Civil%2C%20no%20que",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
+      "next": "6"
+    },
+    "6": {
+      "numero": "6",
+      "texto": "Art. 6º Sem prejuízo do disposto nesta Lei, regular-se-á pelas disposições de direito comum o condomínio por quota ideal de mais de uma pessoa sôbre a mesma unidade autônoma.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%206%C2%BA%20Sem%20preju%C3%ADzo%20do%20disposto%20nesta%20Lei%2C%20regular-se-%C3%A1%20pelas%20disposi%C3%A7%C3%B5es%20de%20direito%20comum%20o%20condom%C3%ADnio%20por%20quota%20ideal%20de%20mais%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "5",
+      "next": "7"
+    },
+    "7": {
+      "numero": "7",
+      "texto": "Art. 7º O condomínio por unidades autônomas instituir-se-á por ato entre vivos ou por testamento, com inscrição obrigatória no Registro de Imóvel, dêle constando; a individualização de cada unidade, sua identificação e discriminação, bem como a fração ideal sôbre o terreno e partes comuns, atribuída a cada unidade, dispensando-se a descrição interna da unidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%207%C2%BA%20O%20condom%C3%ADnio%20por%20unidades%20aut%C3%B4nomas%20instituir-se-%C3%A1%20por%20ato%20entre%20vivos%20ou%20por%20testamento%2C%20com%20inscri%C3%A7%C3%A3o%20obrigat%C3%B3ria%20no%20Registro%20de%20Im%C3%B3vel%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "6",
+      "next": "8"
+    },
+    "8": {
+      "numero": "8",
+      "texto": "Art. 8º Quando, em terreno onde não houver edificação, o proprietário, o promitente comprador, o cessionário dêste ou o promitente cessionário sôbre êle desejar erigir mais de uma edificação, observar-se-á também o seguinte:\n\na) em relação às unidades autônomas que se constituírem em casas térreas ou assobradadas, será discriminada a parte do terreno ocupada pela edificação e também aquela eventualmente reservada como de utilização exclusiva dessas casas, como jardim e quintal, bem assim a fração ideal do todo do terreno e de partes comuns, que corresponderá às unidades;\n\nb) em relação às unidades autônomas que constituírem edifícios de dois ou mais pavimentos, será discriminada a parte do terreno ocupada pela edificação, aquela que eventualmente fôr reservada como de utilização exclusiva, correspondente às unidades do edifício, e ainda a fração ideal do todo do terreno e de partes comuns, que corresponderá a cada uma das unidades;\n\nc) serão discriminadas as partes do total do terreno que poderão ser utilizadas em comum pelos titulares de direito sôbre os vários tipos de unidades autônomas;\n\nd) serão discriminadas as áreas que se constituírem em passagem comum para as vias públicas ou para as unidades entre si.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%208%C2%BA%20Quando%2C%20em%20terreno%20onde%20n%C3%A3o%20houver%20edifica%C3%A7%C3%A3o%2C%20o%20propriet%C3%A1rio%2C%20o%20promitente%20comprador%2C%20o%20cession%C3%A1rio%20d%C3%AAste%20ou%20o%20promitente%20cession%C3%A1rio%20s%C3%B4bre",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "7",
+      "next": "9"
+    },
+    "9": {
+      "numero": "9",
+      "texto": "Art. 9º Os proprietários, promitentes compradores, cessionários ou promitentes cessionários dos direitos pertinentes à aquisição de unidades autônomas, em edificações a serem construídas, em construção ou já construídas, elaborarão, por escrito, a Convenção de condomínio, e deverão, também, por contrato ou por deliberação em assembléia, aprovar o Regimento Interno da edificação ou conjunto de edificações.\n\n§ 1º Far-se-á o registro da Convenção no Registro de Imóveis, bem como a averbação das suas eventuais alterações.\n\n§ 2º Considera-se aprovada, e obrigatória para os proprietários de unidades, promitentes compradores, cessionários e promitentes cessionários, atuais e futuros, como para qualquer ocupante, a Convenção que reúna as assinaturas de titulares de direitos que representem, no mínimo, 2/3 das frações ideais que compõem o condomínio.\n\n§ 3º Além de outras normas aprovadas pelos interessados, a Convenção deverá conter:\n\na) a discriminação das partes de propriedade exclusiva, e as de condomínio, com especificações das diferentes áreas;\n\nb) o destino das diferentes partes;\n\nc) o modo de usar as coisas e serviços comuns;\n\nd) encargos, forma e proporção das contribuições dos condôminos para as despesas de custeio e para as extraordinárias;\n\ne) o modo de escolher o síndico e o Conselho Consultivo;\n\nf) as atribuições do síndico, além das legais;\n\ng) a definição da natureza gratuita ou remunerada de suas funções;\n\nh) o modo e o prazo de convocação das assembléias gerais dos condôminos;\n\ni) o quorum para os diversos tipos de votações;\n\nj) a forma de contribuição para constituição de fundo de reserva;\n\nl) a forma e o quorum para as alterações de convenção;\n\nm) a forma e o quorum para a aprovação do Regimento Interno quando não incluídos na própria Convenção.\n\n§ 4º No caso de conjunto de edificações, a que se refere o art. 8º, a convenção de condomínio fixará os direitos e as relações de propriedade entre os condôminos das várias edificações, podendo estipular formas pelas quais se possam desmembrar e alienar porções do terreno, inclusive as edificadas. (Incluído pela Lei nº 4.864, de 29.11.1965)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%209%C2%BA%20Os%20propriet%C3%A1rios%2C%20promitentes%20compradores%2C%20cession%C3%A1rios%20ou%20promitentes%20cession%C3%A1rios%20dos%20direitos%20pertinentes%20%C3%A0%20aquisi%C3%A7%C3%A3o%20de%20unidades%20aut%C3%B4nomas%2C%20em%20edifica%C3%A7%C3%B5es%20a%20serem",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "8",
+      "next": "10"
+    },
+    "10": {
+      "numero": "10",
+      "texto": "Art. 10. É defeso a qualquer condômino:\n\nI - alterar a forma externa da fachada;\n\nIl - decorar as partes e esquadriais externas com tonalidades ou côres diversas das empregadas no conjunto da edificação;\n\nIII - destinar a unidade a utilização diversa de finalidade do prédio, ou usá-la de forma nociva ou perigosa ao sossêgo, à salubridade e à segurança dos demais condôminos;\n\nIV- embaraçar o uso das partes comuns.\n\n§ 1º O transgressor ficará sujeito ao pagamento de multa prevista na convenção ou no regulamento do condomínio, além de ser compelido a desfazer a obra ou abster-se da prática do ato, cabendo, ao síndico, com autorização judicial, mandar desmanchá-Ia, à custa do transgressor, se êste não a desfizer no prazo que lhe fôr estipulado.\n\n§ 2º O proprietário ou titular de direito à aquisição de unidade poderá fazer obra que (VETADO) ou modifique sua fachada, se obtiver a aquiescência da unanimidade dos condôminos",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2010.%20%C3%89%20defeso%20a%20qualquer%20cond%C3%B4mino%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "9",
+      "next": "11"
+    },
+    "11": {
+      "numero": "11",
+      "texto": "Art. 11. Para efeitos tributários, cada unidade autônoma será tratada como prédio isolado, contribuindo o respectivo condômino, diretamente, com as importâncias relativas aos impostos e taxas federais, estaduais e municipais, na forma dos respectivos lançamentos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2011.%20Para%20efeitos%20tribut%C3%A1rios%2C%20cada%20unidade%20aut%C3%B4noma%20ser%C3%A1%20tratada%20como%20pr%C3%A9dio%20isolado%2C%20contribuindo%20o%20respectivo%20cond%C3%B4mino%2C%20diretamente%2C%20com%20as%20import%C3%A2ncias%20relativas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "II",
+        "chapter_name": "Capítulo II",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "10",
+      "next": "12"
+    },
+    "12": {
+      "numero": "12",
+      "texto": "Art. 12. Cada condômino concorrerá nas despesas do condomínio, recolhendo, nos prazos previstos na Convenção, a quota-parte que lhe couber em rateio.\n\n§ 1º Salvo disposição em contrário na Convenção, a fixação da quota no rateio corresponderá à fração ideal de terreno de cada unidade.\n\n§ 2º Cabe ao síndico arrecadar as contribuições competindo-lhe promover, por via executiva, a cobrança judicial das quotas atrasadas.\n\n§ 3º O condômino que não pagar a sua contribuição no prazo fixado na Convenção fica sujeito ao juro moratório de 1% ao mês, e multa de até 20% sôbre o débito, que será atualizado, se o estipular a Convenção, com a aplicação dos índices de correção monetária levantados pelo Conselho Nacional de Economia, no caso da mora por período igual ou superior a seis meses.\n\n§ 4º As obras que interessarem à estrutura integral da edificação ou conjunto de edificações, ou ao serviço comum, serão feitas com o concurso pecuniário de todos os proprietários ou titulares de direito à aquisição de unidades, mediante orçamento prévio aprovado em assembléia-geral, podendo incumbir-se de sua execução o síndico, ou outra pessoa, com aprovação da assembléia.\n\n§ 5º A renúncia de qualquer condômino aos seus direitos, em caso algum valerá como escusa para exonerá-lo de seus encargos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2012.%20Cada%20cond%C3%B4mino%20concorrer%C3%A1%20nas%20despesas%20do%20condom%C3%ADnio%2C%20recolhendo%2C%20nos%20prazos%20previstos%20na%20Conven%C3%A7%C3%A3o%2C%20a%20quota-parte%20que%20lhe%20couber%20em%20rateio.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "III",
+        "chapter_name": "CAPíTULO III",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "11",
+      "next": "13"
+    },
+    "13": {
+      "numero": "13",
+      "texto": "Art. 13. Proceder-se-á ao seguro da edificação ou do conjunto de edificações, neste caso, discriminadamente, abrangendo tôdas as unidades autônomas e partes comuns, contra incêndio ou outro sinistro que cause destruição no todo ou em parte, computando-se o prêmio nas despesas ordinárias do condomínio.\n\nParágrafo único. O seguro de que trata êste artigo será obrigatòriamente feito dentro de 120 dias, contados da data da concessão do \"habite-se\", sob pena de ficar o condomínio sujeito à multa mensal equivalente a 1/12 do impôsto predial, cobrável executivamente pela Municipalidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2013.%20Proceder-se-%C3%A1%20ao%20seguro%20da%20edifica%C3%A7%C3%A3o%20ou%20do%20conjunto%20de%20edifica%C3%A7%C3%B5es%2C%20neste%20caso%2C%20discriminadamente%2C%20abrangendo%20t%C3%B4das%20as%20unidades%20aut%C3%B4nomas%20e%20partes",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "IV",
+        "chapter_name": "Capítulo IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "12",
+      "next": "14"
+    },
+    "14": {
+      "numero": "14",
+      "texto": "Art. 14. Na ocorrência de sinistro total, ou que destrua mais de dois terços de uma edificação, seus condôminos reunir-se-ão em assembléia especial, e deliberarão sôbre a sua reconstrução ou venda do terreno e materiais, por quorum mínimo de votos que representem metade, mais uma das frações ideais do respectivo terreno.\n\n§ 1º Rejeitada a proposta de reconstrução, a mesma assembléia, ou outra para êste fim convocada, decidirá, pelo mesmo quorum, do destino a ser dado ao terreno, e aprovará a partilha do valor do seguro entre os condôminos, sem prejuízo do que receber cada um pelo seguro facultativo de sua unidade.\n\n§ 2º Aprovada, a reconstrução será feita, guardados, obrigatòriamente, o mesmo destino, a mesma forma externa e a mesma disposição interna.\n\n§ 3º Na hipótese do parágrafo anterior, a minoria não poderá ser obrigada a contribuir para a reedificação, caso em que a maioria poderá adquirir as partes dos dissidentes, mediante avaliação judicial, feita em vistoria.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2014.%20Na%20ocorr%C3%AAncia%20de%20sinistro%20total%2C%20ou%20que%20destrua%20mais%20de%20dois%20ter%C3%A7os%20de%20uma%20edifica%C3%A7%C3%A3o%2C%20seus%20cond%C3%B4minos%20reunir-se-%C3%A3o%20em%20assembl%C3%A9ia",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "IV",
+        "chapter_name": "Capítulo IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "13",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. Na hipótese de que trata o § 3º do artigo antecedente, à maioria poderão ser adjudicadas, por sentença, as frações ideais da minoria.\n\n§ 1º Como condição para o exercício da ação prevista neste artigo, com a inicial, a maioria oferecerá e depositará, à disposição do Juízo, as importâncias arbitradas na vistoria para avaliação, prevalecendo as de eventual desempatador.\n\n§ 2º Feito o depósito de que trata o parágrafo anterior, o Juiz, liminarmente, poderá autorizar a adjudicação à maioria, e a minoria poderá levantar as importâncias depositadas; o Oficial de Registro de Imóveis, nestes casos, fará constar do registro que a adjudicação foi resultante de medida liminar.\n\n§ 3º Feito o depósito, será expedido o mandado de citação, com o prazo de dez dias para a contestação, VETADO.\n\n§ 4º Se não contestado, o Juiz, imediatamente, julgará o pedido.\n\n§ 5º Se contestado o pedido, seguirá o processo o rito ordinário.\n\n§ 6º Se a sentença fixar valor superior ao da avaliação feita na vistoria, o condomínio em execução restituirá à minoria a respectiva diferença, acrescida de juros de mora à prazo de 1% ao mês, desde a data da concessão de eventual Iiminar, ou pagará o total devido, com os juros da mora a conter da citação.\n\n§ 7º Transitada em julgado a sentença, servirá ela de título definitivo para a maioria, que deverá registrá-la no Registro de Imóveis.\n\n§ 8º A maioria poderá pagar e cobrar da minoria, em execução de sentença, encargos fiscais necessários à adjudicação definitiva a cujo pagamento se recusar a minoria.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2015.%20Na%20hip%C3%B3tese%20de%20que%20trata%20o%20%C2%A7%203%C2%BA%20do%20artigo%20antecedente%2C%20%C3%A0%20maioria%20poder%C3%A3o%20ser%20adjudicadas%2C%20por%20senten%C3%A7a%2C%20as%20fra%C3%A7%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "IV",
+        "chapter_name": "Capítulo IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14",
+      "next": "16"
+    },
+    "16": {
+      "numero": "16",
+      "texto": "Art. 16. Em caso de sinistro que destrua menos de dois têrços da edificação, o síndico promoverá o recebimento do seguro e a reconstrução ou os reparos nas partes danificadas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2016.%20Em%20caso%20de%20sinistro%20que%20destrua%20menos%20de%20dois%20t%C3%AAr%C3%A7os%20da%20edifica%C3%A7%C3%A3o%2C%20o%20s%C3%ADndico%20promover%C3%A1%20o%20recebimento%20do%20seguro%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "IV",
+        "chapter_name": "Capítulo IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "15",
+      "next": "17"
+    },
+    "17": {
+      "numero": "17",
+      "texto": "Art. 17. Os condôminos que representem, pelo menos 2/3 (dois terços) do total de unidades isoladas e frações ideais correspondentes a 80% (oitenta por cento) do terreno e coisas comuns poderão decidir sobre a demolição e reconstrução do prédio, ou sua alienação, por motivos urbanísticos ou arquitetônicos, ou, ainda, no caso de condenação do edifício pela autoridade pública, em razão de sua insegurança ou insalubridade. (Redação dada pela Lei nº 6.709, de 31.10.1979)\n\n§ 1º A minoria não fica obrigada a contribuir para as obras, mas assegura-se à maioria o direito de adquirir as partes dos dissidentes, mediante avaliação judicial, aplicando-se o processo previsto no art. 15. (Redação dada pela Lei nº 6.709, de 31.10.1979)\n\n§ 2º Ocorrendo desgaste, pela ação do tempo, das unidades habitacionais de uma edificação, que deprecie seu valor unitário em relação ao valor global do terreno onde se acha construída, os condôminos, pelo quorum mínimo de votos que representem 2/3 (dois terços) das unidades isoladas e frações ideais correspondentes a 80% (oitenta por cento) do terreno e coisas comuns, poderão decidir por sua alienação total, procedendo-se em relação à minoria na forma estabelecida no art. 15, e seus parágrafos, desta Lei. (Redação dada pela Lei nº 6.709, de 31.10.1979)\n\n§ 3º Decidida por maioria a alienação do prédio, o valor atribuído à quota dos condôminos vencidos será correspondente ao preço efetivo, e, no mínimo, à avaliação prevista no § 2º ou, a critério desses, a imóvel localizado em área próxima ou adjacente com a mesma área útil de construção. (Redação dada pela Lei nº 6.709, de 31.10.1979)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2017.%20Os%20cond%C3%B4minos%20que%20representem%2C%20pelo%20menos%202%2F3%20%28dois%20ter%C3%A7os%29%20do%20total%20de%20unidades%20isoladas%20e%20fra%C3%A7%C3%B5es%20ideais%20correspondentes%20a%2080%25",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "IV",
+        "chapter_name": "Capítulo IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "16",
+      "next": "18"
+    },
+    "18": {
+      "numero": "18",
+      "texto": "Art. 18. A aquisição parcial de uma edificação, ou de um conjunto de edificações, ainda que por fôrça de desapropriação, importará no ingresso do adquirente no condomínio, ficando sujeito às disposições desta lei, bem assim às da convenção do condomínio e do regulamento interno. (Redação dada pela Decreto-Lei nº 981, de 21.10.1969)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2018.%20A%20aquisi%C3%A7%C3%A3o%20parcial%20de%20uma%20edifica%C3%A7%C3%A3o%2C%20ou%20de%20um%20conjunto%20de%20edifica%C3%A7%C3%B5es%2C%20ainda%20que%20por%20f%C3%B4r%C3%A7a%20de%20desapropria%C3%A7%C3%A3o%2C%20importar%C3%A1%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "IV",
+        "chapter_name": "Capítulo IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "17",
+      "next": "19"
+    },
+    "19": {
+      "numero": "19",
+      "texto": "Art. 19. Cada condômino tem o direito de usar e fruir, com exclusividade, de sua unidade autônoma, segundo suas conveniências e interêsses, condicionados, umas e outros às normas de boa vizinhança, e poderá usar as partes e coisas comuns de maneira a não causar dano ou incômodo aos demais condôminos ou moradores, nem obstáculo ou embaraço ao bom uso das mesmas partes por todos.\n\nParágrafo único. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2019.%20Cada%20cond%C3%B4mino%20tem%20o%20direito%20de%20usar%20e%20fruir%2C%20com%20exclusividade%2C%20de%20sua%20unidade%20aut%C3%B4noma%2C%20segundo%20suas%20conveni%C3%AAncias%20e%20inter%C3%AAsses%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "18",
+      "next": "20"
+    },
+    "20": {
+      "numero": "20",
+      "texto": "Art. 20. Aplicam-se ao ocupante do imóvel, a qualquer título, tôdas as obrigações referentes ao uso, fruição e destino da unidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2020.%20Aplicam-se%20ao%20ocupante%20do%20im%C3%B3vel%2C%20a%20qualquer%20t%C3%ADtulo%2C%20t%C3%B4das%20as%20obriga%C3%A7%C3%B5es%20referentes%20ao%20uso%2C%20frui%C3%A7%C3%A3o%20e%20destino%20da%20unidade.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "19",
+      "next": "21"
+    },
+    "21": {
+      "numero": "21",
+      "texto": "Art. 21. A violação de qualquer dos deveres estipulados na Convenção sujeitará o infrator à multa fixada na própria Convenção ou no Regimento Interno, sem prejuízo da responsabilidade civil ou criminal que, no caso, couber.\n\nParágrafo único. Compete ao síndico a iniciativa do processo e a cobrança da multa, por via executiva, em benefício do condomínio, e, em caso de omitir-se êle, a qualquer condômino.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2021.%20A%20viola%C3%A7%C3%A3o%20de%20qualquer%20dos%20deveres%20estipulados%20na%20Conven%C3%A7%C3%A3o%20sujeitar%C3%A1%20o%20infrator%20%C3%A0%20multa%20fixada%20na%20pr%C3%B3pria%20Conven%C3%A7%C3%A3o%20ou%20no",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "V",
+        "chapter_name": "Capítulo V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "20",
+      "next": "22"
+    },
+    "22": {
+      "numero": "22",
+      "texto": "Art. 22. Será eleito, na forma prevista pela Convenção, um síndico do condomínio, cujo mandato não poderá exceder de 2 anos, permitida a reeleição.\n\n§ 1º Compete ao síndico:\n\na) representar ativa e passivamente, o condomínio, em juízo ou fora dêle, e praticar os atos de defesa dos interêsses comuns, nos limites das atribuições conferidas por esta Lei ou pela Convenção;\n\nb) exercer a administração interna da edificação ou do conjunto de edificações, no que respeita à sua vigência, moralidade e segurança, bem como aos serviços que interessam a todos os moradores;\n\nc) praticar os atos que lhe atribuírem as leis a Convenção e o Regimento Interno;\n\nd) impor as multas estabelecidas na Lei, na Convenção ou no Regimento Interno;\n\ne) cumprir e fazer cumprir a Convenção e o Regimento Interno, bem como executar e fazer executar as deliberações da assembléia;\n\nf) prestar contas à assembléia dos condôminos.\n\ng) manter guardada durante o prazo de cinco anos para eventuais necessidade de verificação contábil, toda a documentação relativa ao condomínio. (Alínea incluída pela Lei nº 6.434, de 15.7.1977)\n\n§ 2º As funções administrativas podem ser delegadas a pessoas de confiança do síndico, e sob a sua inteira responsabilidade, mediante aprovação da assembléia geral dos condôminos.\n\n§ 3º A Convenção poderá estipular que dos atos do síndico caiba recurso para a assembléia, convocada pelo interessado.\n\n§ 4º Ao síndico, que poderá ser condômino ou pessoa física ou jurídica estranha ao condomínio, será fixada a remuneração pela mesma assembléia que o eleger, salvo se a Convenção dispuser diferentemente.\n\n§ 5º O síndico poderá ser destituído, pela forma e sob as condições previstas na Convenção, ou, no silêncio desta pelo voto de dois têrços dos condôminos, presentes, em assembléia-geral especialmente convocada.\n\n§ 6º A Convenção poderá prever a eleição de subsíndicos, definindo-lhes atribuições e fixando-lhes o mandato, que não poderá exceder de 2 anos, permitida a reeleição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2022.%20Ser%C3%A1%20eleito%2C%20na%20forma%20prevista%20pela%20Conven%C3%A7%C3%A3o%2C%20um%20s%C3%ADndico%20do%20condom%C3%ADnio%2C%20cujo%20mandato%20n%C3%A3o%20poder%C3%A1%20exceder%20de%202%20anos%2C%20permitida",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "21",
+      "next": "23"
+    },
+    "23": {
+      "numero": "23",
+      "texto": "Art. 23. Será eleito, na forma prevista na Convenção, um Conselho Consultivo, constituído de três condôminos, com mandatos que não poderão exceder de 2 anos, permitida a reeleição.\n\nParágrafo único. Funcionará o Conselho como órgão consultivo do síndico, para assessorá-lo na solução dos problemas que digam respeito ao condomínio, podendo a Convenção definir suas atribuições específicas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2023.%20Ser%C3%A1%20eleito%2C%20na%20forma%20prevista%20na%20Conven%C3%A7%C3%A3o%2C%20um%20Conselho%20Consultivo%2C%20constitu%C3%ADdo%20de%20tr%C3%AAs%20cond%C3%B4minos%2C%20com%20mandatos%20que%20n%C3%A3o%20poder%C3%A3o%20exceder",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "VI",
+        "chapter_name": "Capítulo VI",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "22",
+      "next": "24"
+    },
+    "24": {
+      "numero": "24",
+      "texto": "Art. 24. Haverá, anualmente, uma assembléia geral ordinária dos condôminos, convocada pelo síndico na forma prevista na Convenção, à qual compete, além das demais matérias inscritas na ordem do dia, aprovar, por maioria dos presentes, as verbas para as despesas de condomínio, compreendendo as de conservação da edificação ou conjunto de edificações, manutenção de seus serviços e correlatas.\n\n§ 1º As decisões da assembléia, tomadas, em cada caso, pelo quorum que a Convenção fixar, obrigam todos os condôminos.\n\n§ 2º O síndico, nos oito dias subseqüentes à assembléia, comunicará aos condôminos o que tiver sido deliberado, inclusive no tocante à previsão orçamentária, o rateio das despesas, e promoverá a arrecadação, tudo na forma que a Convenção previr.\n\n§ 3º Nas assembléias gerais, os votos serão proporcionais às frações ideais do terreno e partes comuns, pertencentes a cada condômino, salvo disposição diversa da Convenção.\n\n§ 4º Nas decisões da Assembléia que não envolvam despesas extraordinárias do condomínio, o locatário poderá votar, caso o condômino-locador a ela não compareça. (Redação dada pela Lei nº 9.267, de 25.3.1996)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2024.%20Haver%C3%A1%2C%20anualmente%2C%20uma%20assembl%C3%A9ia%20geral%20ordin%C3%A1ria%20dos%20cond%C3%B4minos%2C%20convocada%20pelo%20s%C3%ADndico%20na%20forma%20prevista%20na%20Conven%C3%A7%C3%A3o%2C%20%C3%A0%20qual%20compete%2C%20al%C3%A9m",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "VII",
+        "chapter_name": "Capítulo VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "23",
+      "next": "25"
+    },
+    "25": {
+      "numero": "25",
+      "texto": "Art. 25. Ressalvado o disposto no § 3º do art. 22, poderá haver assembléias gerais extraordinárias, convocadas pelo síndico ou por condôminos que representem um quarto, no mínimo do condomínio, sempre que o exigirem os interêsses gerais.\n\nParágrafo único. Salvo estipulação diversa da Convenção, esta só poderá ser modificada em assembléia geral extraordinária, pelo voto mínimo de condôminos que representem 2/3 do total das frações ideais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2025.%20Ressalvado%20o%20disposto%20no%20%C2%A7%203%C2%BA%20do%20art.%2022%2C%20poder%C3%A1%20haver%20assembl%C3%A9ias%20gerais%20extraordin%C3%A1rias%2C%20convocadas%20pelo%20s%C3%ADndico%20ou%20por%20cond%C3%B4minos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "VII",
+        "chapter_name": "Capítulo VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "24",
+      "next": "26"
+    },
+    "26": {
+      "numero": "26",
+      "texto": "Art. 26. (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2026.%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "VII",
+        "chapter_name": "Capítulo VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "25",
+      "next": "27"
+    },
+    "27": {
+      "numero": "27",
+      "texto": "Art. 27. Se a assembléia não se reunir para exercer qualquer dos podêres que lhe competem, 15 dias após o pedido de convocação, o Juiz decidirá a respeito, mediante requerimento dos interessados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2027.%20Se%20a%20assembl%C3%A9ia%20n%C3%A3o%20se%20reunir%20para%20exercer%20qualquer%20dos%20pod%C3%AAres%20que%20lhe%20competem%2C%2015%20dias%20ap%C3%B3s%20o%20pedido%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "I",
+        "title_name": "TÍTULO I",
+        "chapter": "VII",
+        "chapter_name": "Capítulo VII",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "26",
+      "next": "28"
+    },
+    "28": {
+      "numero": "28",
+      "texto": "Art. 28. As incorporações imobiliárias, em todo o território nacional, reger-se-ão pela presente Lei.\n\nParágrafo único. Para efeito desta Lei, considera-se incorporação imobiliária a atividade exercida com o intuito de promover e realizar a construção, para alienação total ou parcial, de edificações ou conjunto de edificações compostas de unidades autônomas, (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2028.%20As%20incorpora%C3%A7%C3%B5es%20imobili%C3%A1rias%2C%20em%20todo%20o%20territ%C3%B3rio%20nacional%2C%20reger-se-%C3%A3o%20pela%20presente%20Lei.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "27",
+      "next": "29"
+    },
+    "29": {
+      "numero": "29",
+      "texto": "Art. 29. Considera-se incorporador a pessoa física ou jurídica, comerciante ou não, que embora não efetuando a construção, compromisse ou efetive a venda de frações ideais de terreno objetivando a vinculação de tais frações a unidades autônomas, (VETADO) em edificações a serem construídas ou em construção sob regime condominial, ou que meramente aceite propostas para efetivação de tais transações, coordenando e levando a têrmo a incorporação e responsabilizando-se, conforme o caso, pela entrega, a certo prazo, preço e determinadas condições, das obras concluídas.\n\nParágrafo único. Presume-se a vinculação entre a alienação das frações do terreno e o negócio de construção, se, ao ser contratada a venda, ou promessa de venda ou de cessão das frações de terreno, já houver sido aprovado e estiver em vigor, ou pender de aprovação de autoridade administrativa, o respectivo projeto de construção, respondendo o alienante como incorporador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2029.%20Considera-se%20incorporador%20a%20pessoa%20f%C3%ADsica%20ou%20jur%C3%ADdica%2C%20comerciante%20ou%20n%C3%A3o%2C%20que%20embora%20n%C3%A3o%20efetuando%20a%20constru%C3%A7%C3%A3o%2C%20compromisse%20ou%20efetive%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "28",
+      "next": "30"
+    },
+    "30": {
+      "numero": "30",
+      "texto": "Art. 30. Estende-se a condição de incorporador aos proprietários e titulares de direitos aquisitivos que contratem a construção de edifícios que se destinem a constituição em condomínio, sempre que iniciarem as alienações antes da conclusão das obras.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2030.%20Estende-se%20a%20condi%C3%A7%C3%A3o%20de%20incorporador%20aos%20propriet%C3%A1rios%20e%20titulares%20de%20direitos%20aquisitivos%20que%20contratem%20a%20constru%C3%A7%C3%A3o%20de%20edif%C3%ADcios%20que%20se",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
+      "next": "30-A"
+    },
+    "30-A": {
+      "numero": "30-A",
+      "texto": "Art. 30-A Revogado pela Lei nº 10.931, de 2004",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2030-A%20Revogado%20pela%20Lei%20n%C2%BA%2010.931%2C%20de%202004",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30",
+      "next": "30-B"
+    },
+    "30-B": {
+      "numero": "30-B",
+      "texto": "Art. 30-B Revogado pela Lei nº 10.931, de 2004",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2030-B%20Revogado%20pela%20Lei%20n%C2%BA%2010.931%2C%20de%202004",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30-A",
+      "next": "30-C"
+    },
+    "30-C": {
+      "numero": "30-C",
+      "texto": "Art. 30-C Revogado pela Lei nº 10.931, de 2004",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2030-C%20Revogado%20pela%20Lei%20n%C2%BA%2010.931%2C%20de%202004",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30-B",
+      "next": "30-D"
+    },
+    "30-D": {
+      "numero": "30-D",
+      "texto": "Art. 30-D Revogado pela Lei nº 10.931, de 2004",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2030-D%20Revogado%20pela%20Lei%20n%C2%BA%2010.931%2C%20de%202004",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30-C",
+      "next": "30-E"
+    },
+    "30-E": {
+      "numero": "30-E",
+      "texto": "Art. 30-E Revogado pela Lei nº 10.931, de 2004",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2030-E%20Revogado%20pela%20Lei%20n%C2%BA%2010.931%2C%20de%202004",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30-D",
+      "next": "30-F"
+    },
+    "30-F": {
+      "numero": "30-F",
+      "texto": "Art. 30-F Revogado pela Lei nº 10.931, de 2004",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2030-F%20Revogado%20pela%20Lei%20n%C2%BA%2010.931%2C%20de%202004",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30-E",
+      "next": "30-G"
+    },
+    "30-G": {
+      "numero": "30-G",
+      "texto": "Art. 30-G Revogado pela Lei nº 10.931, de 2004",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2030-G%20Revogado%20pela%20Lei%20n%C2%BA%2010.931%2C%20de%202004",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30-F",
+      "next": "31"
+    },
+    "31": {
+      "numero": "31",
+      "texto": "Art. 31. A iniciativa e a responsabilidade das incorporações imobiliárias caberão ao incorporador, que sòmente poderá ser:\n\na) o proprietário do terreno, o promitente comprador, o cessionário dêste ou promitente cessionário com título que satisfaça os requisitos da alínea a do art. 32;\n\nb) o construtor (Decreto número 23.569, de 11-12-33, e 3.995, de 31 de dezembro de 1941, e Decreto-lei número 8.620, de 10 de janeiro de 1946) ou corretor de imóveis (Lei nº 4.116, de 27-8-62).\n\nc) o ente da Federação imitido na posse a partir de decisão proferida em processo judicial de desapropriação em curso ou o cessionário deste, conforme comprovado mediante registro no registro de imóveis competente. (Incluído pela Lei nº 12.424, de 2011)\n\n§ 1º No caso da alínea b, o incorporador será investido, pelo proprietário de terreno, o promitente comprador e cessionário dêste ou o promitente cessionário, de mandato outorgado por instrumento público, onde se faça menção expressa desta Lei e se transcreva o disposto no § 4º, do art. 35, para concluir todos os negócios tendentes à alienação das frações ideais de terreno, mas se obrigará pessoalmente pelos atos que praticar na qualidade de incorporador.\n\n§ 2º Nenhuma incorporação poderá ser proposta à venda sem a indicação expressa do incorporador, devendo também seu nome permanecer indicado ostensivamente no local da construção.\n\n§ 3º Tôda e qualquer incorporação, independentemente da forma por que seja constituída, terá um ou mais incorporadores solidàriamente responsáveis, ainda que em fase subordinada a período de carência, referido no art. 34.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2031.%20A%20iniciativa%20e%20a%20responsabilidade%20das%20incorpora%C3%A7%C3%B5es%20imobili%C3%A1rias%20caber%C3%A3o%20ao%20incorporador%2C%20que%20s%C3%B2mente%20poder%C3%A1%20ser%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "30-G",
+      "next": "31-A"
+    },
+    "31-A": {
+      "numero": "31-A",
+      "texto": "Art. 31-A. A critério do incorporador, a incorporação poderá ser submetida ao regime da afetação, pelo qual o terreno e as acessões objeto de incorporação imobiliária, bem como os demais bens e direitos a ela vinculados, manter-se-ão apartados do patrimônio do incorporador e constituirão patrimônio de afetação, destinado à consecução da incorporação correspondente e à entrega das unidades imobiliárias aos respectivos adquirentes.(Incluído pela Lei nº 10.931, de 2004)\n\n§ 1o O patrimônio de afetação não se comunica com os demais bens, direitos e obrigações do patrimônio geral do incorporador ou de outros patrimônios de afetação por ele constituídos e só responde por dívidas e obrigações vinculadas à incorporação respectiva.(Incluído pela Lei nº 10.931, de 2004)\n\n§ 2o O incorporador responde pelos prejuízos que causar ao patrimônio de afetação. (Incluído pela Lei nº 10.931, de 2004)\n\n§ 3º Os bens e direitos integrantes do patrimônio de afetação somente poderão ser objeto de garantia real em operação de crédito cujo produto seja integralmente destinado à consecução da edificação correspondente e à entrega das unidades imobiliárias e de suas pertenças aos respectivos adquirentes. (Redação dada pela Lei nº 14.620, de 2023)\n\n§ 4o No caso de cessão, plena ou fiduciária, de direitos creditórios oriundos da comercialização das unidades imobiliárias componentes da incorporação, o produto da cessão também passará a integrar o patrimônio de afetação, observado o disposto no § 6o. (Incluído pela Lei nº 10.931, de 2004)\n\n§ 5o As quotas de construção correspondentes a acessões vinculadas a frações ideais serão pagas pelo incorporador até que a responsabilidade pela sua construção tenha sido assumida por terceiros, nos termos da parte final do § 6o do art. 35.(Incluído pela Lei nº 10.931, de 2004)\n\n§ 6o Os recursos financeiros integrantes do patrimônio de afetação serão utilizados para pagamento ou reembolso das despesas inerentes à incorporação.(Incluído pela Lei nº 10.931, de 2004)\n\n§ 7o O reembolso do preço de aquisição do terreno somente poderá ser feito quando da alienação das unidades autônomas, na proporção das respectivas frações ideais, considerando-se tão-somente os valores efetivamente recebidos pela alienação.(Incluído pela Lei nº 10.931, de 2004)\n\n§ 8o Excluem-se do patrimônio de afetação:(Incluído pela Lei nº 10.931, de 2004)\n\nI - os recursos financeiros que excederem a importância necessária à conclusão da obra (art. 44), considerando-se os valores a receber até sua conclusão e, bem assim, os recursos necessários à quitação de financiamento para a construção, se houver; e (Incluído pela Lei nº 10.931, de 2004)\n\nII - o valor referente ao preço de alienação da fração ideal de terreno de cada unidade vendida, no caso de incorporação em que a construção seja contratada sob o regime por empreitada (art. 55) ou por administração (art. 58).(Incluído pela Lei nº 10.931, de 2004)\n\n§ 9o No caso de conjuntos de edificações de que trata o art. 8o, poderão ser constituídos patrimônios de afetação separados, tantos quantos forem os: (Incluído pela Lei nº 10.931, de 2004)\n\nI - subconjuntos de casas para as quais esteja prevista a mesma data de conclusão (art. 8o, alínea \"a\"); e (Incluído pela Lei nº 10.931, de 2004)\n\nII - edifícios de dois ou mais pavimentos (art. 8o , alínea \"b\").(Incluído pela Lei nº 10.931, de 2004)\n\n§ 10. A constituição de patrimônios de afetação separados de que trata o § 9o deverá estar declarada no memorial de incorporação.(Incluído pela Lei nº 10.931, de 2004)\n\n§ 11. Nas incorporações objeto de financiamento, a comercialização das unidades deverá contar com a anuência da instituição financiadora ou deverá ser a ela cientificada, conforme vier a ser estabelecido no contrato de financiamento.(Incluído pela Lei nº 10.931, de 2004)\n\n§ 12. A contratação de financiamento e constituição de garantias, inclusive mediante transmissão, para o credor, da propriedade fiduciária sobre as unidades imobiliárias integrantes da incorporação, bem como a cessão, plena ou fiduciária, de direitos creditórios decorrentes da comercialização dessas unidades, não implicam a transferência para o credor de nenhuma das obrigações ou responsabilidades do cedente, do incorporador ou do construtor, permanecendo estes como únicos responsáveis pelas obrigações e pelos deveres que lhes são imputáveis.(Incluído pela Lei nº 10.931, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2031-A.%20A%20crit%C3%A9rio%20do%20incorporador%2C%20a%20incorpora%C3%A7%C3%A3o%20poder%C3%A1%20ser%20submetida%20ao%20regime%20da%20afeta%C3%A7%C3%A3o%2C%20pelo%20qual%20o%20terreno%20e%20as%20acess%C3%B5es",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I-A. DO PATRIMÔNIO DE AFETAÇÃO (Incluído pela Lei nº 10.931, de 2004)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31",
+      "next": "31-B"
+    },
+    "31-B": {
+      "numero": "31-B",
+      "texto": "Art. 31-B. Considera-se constituído o patrimônio de afetação mediante averbação, a qualquer tempo, no Registro de Imóveis, de termo firmado pelo incorporador e, quando for o caso, também pelos titulares de direitos reais de aquisição sobre o terreno.(Incluído pela Lei nº 10.931, de 2004)\n\nParágrafo único. A averbação não será obstada pela existência de ônus reais que tenham sido constituídos sobre o imóvel objeto da incorporação para garantia do pagamento do preço de sua aquisição ou do cumprimento de obrigação de construir o empreendimento.(Incluído pela Lei nº 10.931, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2031-B.%20Considera-se%20constitu%C3%ADdo%20o%20patrim%C3%B4nio%20de%20afeta%C3%A7%C3%A3o%20mediante%20averba%C3%A7%C3%A3o%2C%20a%20qualquer%20tempo%2C%20no%20Registro%20de%20Im%C3%B3veis%2C%20de%20termo%20firmado%20pelo%20incorporador",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I-A. DO PATRIMÔNIO DE AFETAÇÃO (Incluído pela Lei nº 10.931, de 2004)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31-A",
+      "next": "31-C"
+    },
+    "31-C": {
+      "numero": "31-C",
+      "texto": "Art. 31-C. A Comissão de Representantes e a instituição financiadora da construção poderão nomear, às suas expensas, pessoa física ou jurídica para fiscalizar e acompanhar o patrimônio de afetação.(Incluído pela Lei nº 10.931, de 2004)\n\n§ 1o A nomeação a que se refere o caput não transfere para o nomeante qualquer responsabilidade pela qualidade da obra, pelo prazo de entrega do imóvel ou por qualquer outra obrigação decorrente da responsabilidade do incorporador ou do construtor, seja legal ou a oriunda dos contratos de alienação das unidades imobiliárias, de construção e de outros contratos eventualmente vinculados à incorporação.(Incluído pela Lei nº 10.931, de 2004)\n\n§ 2o A pessoa que, em decorrência do exercício da fiscalização de que trata o caput deste artigo, obtiver acesso às informações comerciais, tributárias e de qualquer outra natureza referentes ao patrimônio afetado responderá pela falta de zelo, dedicação e sigilo destas informações.(Incluído pela Lei nº 10.931, de 2004)\n\n§ 3o A pessoa nomeada pela instituição financiadora deverá fornecer cópia de seu relatório ou parecer à Comissão de Representantes, a requerimento desta, não constituindo esse fornecimento quebra de sigilo de que trata o § 2o deste artigo.(Incluído pela Lei nº 10.931, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2031-C.%20A%20Comiss%C3%A3o%20de%20Representantes%20e%20a%20institui%C3%A7%C3%A3o%20financiadora%20da%20constru%C3%A7%C3%A3o%20poder%C3%A3o%20nomear%2C%20%C3%A0s%20suas%20expensas%2C%20pessoa%20f%C3%ADsica%20ou%20jur%C3%ADdica%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I-A. DO PATRIMÔNIO DE AFETAÇÃO (Incluído pela Lei nº 10.931, de 2004)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31-B",
+      "next": "31-D"
+    },
+    "31-D": {
+      "numero": "31-D",
+      "texto": "Art. 31-D. Incumbe ao incorporador: (Incluído pela Lei nº 10.931, de 2004)\n\nI - promover todos os atos necessários à boa administração e à preservação do patrimônio de afetação, inclusive mediante adoção de medidas judiciais; (Incluído pela Lei nº 10.931, de 2004)\n\nII - manter apartados os bens e direitos objeto de cada incorporação; (Incluído pela Lei nº 10.931, de 2004)\n\nIII - diligenciar a captação dos recursos necessários à incorporação e aplicá-los na forma prevista nesta Lei, cuidando de preservar os recursos necessários à conclusão da obra;(Incluído pela Lei nº 10.931, de 2004)\n\nIV - entregar à Comissão de Representantes, no mínimo a cada três meses, demonstrativo do estado da obra e de sua correspondência com o prazo pactuado ou com os recursos financeiros que integrem o patrimônio de afetação recebidos no período, firmados por profissionais habilitados, ressalvadas eventuais modificações sugeridas pelo incorporador e aprovadas pela Comissão de Representantes;(Incluído pela Lei nº 10.931, de 2004)\n\nV - manter e movimentar os recursos financeiros do patrimônio de afetação em conta de depósito aberta especificamente para tal fim;(Incluído pela Lei nº 10.931, de 2004)\n\nVI - entregar à Comissão de Representantes balancetes coincidentes com o trimestre civil, relativos a cada patrimônio de afetação;(Incluído pela Lei nº 10.931, de 2004)\n\nVII - assegurar à pessoa nomeada nos termos do art. 31-C o livre acesso à obra, bem como aos livros, contratos, movimentação da conta de depósito exclusiva referida no inciso V deste artigo e quaisquer outros documentos relativos ao patrimônio de afetação; e (Incluído pela Lei nº 10.931, de 2004)\n\nVIII - manter escrituração contábil completa, ainda que esteja desobrigado pela legislação tributária.(Incluído pela Lei nº 10.931, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2031-D.%20Incumbe%20ao%20incorporador%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2010.931%2C%20de%202004%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I-A. DO PATRIMÔNIO DE AFETAÇÃO (Incluído pela Lei nº 10.931, de 2004)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31-C",
+      "next": "31-E"
+    },
+    "31-E": {
+      "numero": "31-E",
+      "texto": "Art. 31-E. O patrimônio de afetação extinguir-se-á pela: (Incluído pela Lei nº 10.931, de 2004)\n\nI - averbação da construção, registro dos títulos de domínio ou de direito de aquisição em nome dos respectivos adquirentes e, quando for o caso, extinção das obrigações do incorporador perante a instituição financiadora do empreendimento; (Incluído pela Lei nº 10.931, de 2004)\n\nII - revogação em razão de denúncia da incorporação, depois de restituídas aos adquirentes as quantias por eles pagas (art. 36), ou de outras hipóteses previstas em lei; e (Incluído pela Lei nº 10.931, de 2004)\n\nIII - liquidação deliberada pela assembléia geral nos termos do art. 31-F, § 1o. (Incluído pela Lei nº 10.931, de 2004)\n\n§ 1º Na hipótese prevista no inciso I do caput deste artigo, uma vez averbada a construção, o registro de cada contrato de compra e venda ou de promessa de venda, acompanhado do respectivo termo de quitação da instituição financiadora da construção, importará a extinção automática do patrimônio de afetação em relação à respectiva unidade, sem necessidade de averbação específica. (Incluído pela Lei nº 14.382, de 2022)\n\n§ 2º Por ocasião da extinção integral das obrigações do incorporador perante a instituição financiadora do empreendimento e após a averbação da construção, a afetação das unidades não negociadas será cancelada mediante averbação, sem conteúdo financeiro, do respectivo termo de quitação na matrícula matriz do empreendimento ou nas respectivas matrículas das unidades imobiliárias eventualmente abertas. (Incluído pela Lei nº 14.382, de 2022)\n\n§ 3º A extinção no patrimônio de afetação nas hipóteses do inciso I do caput e do § 1º deste artigo não implica a extinção do regime de tributação instituído pelo art. 1º da Lei nº 10.931, de 2 de agosto de 2004. (Incluído pela Lei nº 14.382, de 2022)\n\n§ 4º Após a denúncia da incorporação, proceder-se-á ao cancelamento do patrimônio de afetação, mediante o cumprimento das obrigações previstas neste artigo, no art. 34 desta Lei e nas demais disposições legais. (Incluído pela Lei nº 14.382, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2031-E.%20O%20patrim%C3%B4nio%20de%20afeta%C3%A7%C3%A3o%20extinguir-se-%C3%A1%20pela%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2010.931%2C%20de%202004%29",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I-A. DO PATRIMÔNIO DE AFETAÇÃO (Incluído pela Lei nº 10.931, de 2004)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31-D",
+      "next": "31-F"
+    },
+    "31-F": {
+      "numero": "31-F",
+      "texto": "Art. 31-F. Os efeitos da decretação da falência ou da insolvência civil do incorporador não atingem os patrimônios de afetação constituídos, não integrando a massa concursal o terreno, as acessões e demais bens, direitos creditórios, obrigações e encargos objeto da incorporação. (Incluído pela Lei nº 10.931, de 2004)\n\n§ 1o Nos sessenta dias que se seguirem à decretação da falência ou da insolvência civil do incorporador, o condomínio dos adquirentes, por convocação da sua Comissão de Representantes ou, na sua falta, de um sexto dos titulares de frações ideais, ou, ainda, por determinação do juiz prolator da decisão, realizará assembléia geral, na qual, por maioria simples, ratificará o mandato da Comissão de Representantes ou elegerá novos membros, e, em primeira convocação, por dois terços dos votos dos adquirentes ou, em segunda convocação, pela maioria absoluta desses votos, instituirá o condomínio da construção, por instrumento público ou particular, e deliberará sobre os termos da continuação da obra ou da liquidação do patrimônio de afetação (art. 43, inciso III); havendo financiamento para construção, a convocação poderá ser feita pela instituição financiadora. (Incluído pela Lei nº 10.931, de 2004)\n\n§ 2o O disposto no § 1o aplica-se também à hipótese de paralisação das obras prevista no art. 43, inciso VI. (Incluído pela Lei nº 10.931, de 2004)\n\n§ 3o Na hipótese de que tratam os §§ 1o e 2o, a Comissão de Representantes ficará investida de mandato irrevogável para firmar com os adquirentes das unidades autônomas o contrato definitivo a que estiverem obrigados o incorporador, o titular do domínio e o titular dos direitos aquisitivos do imóvel objeto da incorporação em decorrência de contratos preliminares. (Incluído pela Lei nº 10.931, de 2004)\n\n§ 4o O mandato a que se refere o § 3o será válido mesmo depois de concluída a obra.(Incluído pela Lei nº 10.931, de 2004)\n\n§ 5o O mandato outorgado à Comissão de Representantes confere poderes para transmitir domínio, direito, posse e ação, manifestar a responsabilidade do alienante pela evicção e imitir os adquirentes na posse das unidades respectivas. (Incluído pela Lei nº 10.931, de 2004)\n\n§ 6o Os contratos definitivos serão celebrados mesmo com os adquirentes que tenham obrigações a cumprir perante o incorporador ou a instituição financiadora, desde que comprovadamente adimplentes, situação em que a outorga do contrato fica condicionada à constituição de garantia real sobre o imóvel, para assegurar o pagamento do débito remanescente. (Incluído pela Lei nº 10.931, de 2004)\n\n§ 7o Ainda na hipótese dos §§ 1o e 2o, a Comissão de Representantes ficará investida de mandato irrevogável para, em nome dos adquirentes, e em cumprimento da decisão da assembléia geral que deliberar pela liquidação do patrimônio de afetação, efetivar a alienação do terreno e das acessões, transmitindo posse, direito, domínio e ação, manifestar a responsabilidade pela evicção, imitir os futuros adquirentes na posse do terreno e das acessões. (Incluído pela Lei nº 10.931, de 2004)\n\n§ 8o Na hipótese do § 7o, será firmado o respectivo contrato de venda, promessa de venda ou outra modalidade de contrato compatível com os direitos objeto da transmissão. (Incluído pela Lei nº 10.931, de 2004)\n\n§ 9o A Comissão de Representantes cumprirá o mandato nos termos e nos limites estabelecidos pela deliberação da assembléia geral e prestará contas aos adquirentes, entregando-lhes o produto líquido da alienação, no prazo de cinco dias da data em que tiver recebido o preço ou cada parcela do preço. (Incluído pela Lei nº 10.931, de 2004)\n\n§ 10. Os valores pertencentes aos adquirentes não localizados deverão ser depositados em Juízo pela Comissão de Representantes.(Incluído pela Lei nº 10.931, de 2004)\n\n§ 11. Caso decidam pela continuação da obra, os adquirentes ficarão automaticamente sub-rogados nos direitos, nas obrigações e nos encargos relativos à incorporação, inclusive aqueles relativos ao contrato de financiamento da obra, se houver. (Incluído pela Lei nº 10.931, de 2004)\n\n§ 12. Para os efeitos do § 11 deste artigo, cada adquirente responderá individualmente pelo saldo porventura existente entre as receitas do empreendimento e o custo da conclusão da incorporação na proporção dos coeficientes de construção atribuíveis às respectivas unidades, se outro critério de rateio não for deliberado em assembléia geral por dois terços dos votos dos adquirentes, observado o seguinte: (Incluído pela Lei nº 10.931, de 2004)\n\nI - os saldos dos preços das frações ideais e acessões integrantes da incorporação que não tenham sido pagos ao incorporador até a data da decretação da falência ou da insolvência civil passarão a ser pagos à Comissão de Representantes, permanecendo o somatório desses recursos submetido à afetação, nos termos do art. 31-A, até o limite necessário à conclusão da incorporação; (Incluído pela Lei nº 10.931, de 2004)\n\nII - para cumprimento do seu encargo de administradora da incorporação, a Comissão de Representantes fica investida de mandato legal, em caráter irrevogável, para, em nome do incorporador ou do condomínio de construção, conforme o caso, receber as parcelas do saldo do preço e dar quitação, bem como promover as medidas extrajudiciais ou judiciais necessárias a esse recebimento, praticando todos os atos relativos ao leilão de que trata o art. 63 ou os atos relativos à consolidação da propriedade e ao leilão de que tratam os arts. 26 e 27 da Lei no 9.514, de 20 de novembro de 1997, devendo realizar a garantia e aplicar na incorporação todo o produto do recebimento do saldo do preço e do leilão; (Incluído pela Lei nº 10.931, de 2004)\n\nIII - consideram-se receitas do empreendimento os valores das parcelas a receber, vincendas e vencidas e ainda não pagas, de cada adquirente, correspondentes ao preço de aquisição das respectivas unidades ou do preço de custeio de construção, bem como os recursos disponíveis afetados; e (Incluído pela Lei nº 10.931, de 2004)\n\nIV - compreendem-se no custo de conclusão da incorporação todo o custeio da construção do edifício e a averbação da construção das edificações para efeito de individualização e discriminação das unidades, nos termos do art. 44. (Incluído pela Lei nº 10.931, de 2004)\n\n§ 13. Havendo saldo positivo entre as receitas da incorporação e o custo da conclusão da incorporação, o valor correspondente a esse saldo deverá ser entregue à massa falida pela Comissão de Representantes. (Incluído pela Lei nº 10.931, de 2004)\n\n§ 14. Para assegurar as medidas necessárias ao prosseguimento das obras ou à liquidação do patrimônio de afetação, a Comissão de Representantes, no prazo de sessenta dias, a contar da data de realização da assembléia geral de que trata o § 1o, promoverá, em leilão público, com observância dos critérios estabelecidos pelo art. 63, a venda das frações ideais e respectivas acessões que, até a data da decretação da falência ou insolvência não tiverem sido alienadas pelo incorporador. (Incluído pela Lei nº 10.931, de 2004)\n\n§ 15. Na hipótese de que trata o § 14, o arrematante ficará sub-rogado, na proporção atribuível à fração e acessões adquiridas, nos direitos e nas obrigações relativas ao empreendimento, inclusive nas obrigações de eventual financiamento, e, em se tratando da hipótese do art. 39 desta Lei, nas obrigações perante o proprietário do terreno. (Incluído pela Lei nº 10.931, de 2004)\n\n§ 16. Dos documentos para anúncio da venda de que trata o § 14 e, bem assim, o inciso III do art. 43, constarão o valor das acessões não pagas pelo incorporador (art. 35, § 6o) e o preço da fração ideal do terreno e das acessões (arts. 40 e 41). (Incluído pela Lei nº 10.931, de 2004)\n\n§ 17. No processo de venda de que trata o § 14, serão asseguradas, sucessivamente, em igualdade de condições com terceiros: (Incluído pela Lei nº 10.931, de 2004)\n\nI - ao proprietário do terreno, nas hipóteses em que este seja pessoa distinta da pessoa do incorporador, a preferência para aquisição das acessões vinculadas à fração objeto da venda, a ser exercida nas vinte e quatro horas seguintes à data designada para a venda; e(Incluído pela Lei nº 10.931, de 2004)\n\nII - ao condomínio, caso não exercida a preferência de que trata o inciso I, ou caso não haja licitantes, a preferência para aquisição da fração ideal e acessões, desde que deliberada em assembléia geral, pelo voto da maioria simples dos adquirentes presentes, e exercida no prazo de quarenta e oito horas a contar da data designada para a venda. (Incluído pela Lei nº 10.931, de 2004)\n\n§ 18. Realizada a venda prevista no § 14, incumbirá à Comissão de Representantes, sucessivamente, nos cinco dias que se seguirem ao recebimento do preço:(Incluído pela Lei nº 10.931, de 2004)\n\nI - pagar as obrigações trabalhistas, previdenciárias e tributárias, vinculadas ao respectivo patrimônio de afetação, observada a ordem de preferência prevista na legislação, em especial o disposto no art. 186 do Código Tributário Nacional;(Incluído pela Lei nº 10.931, de 2004)\n\nII - reembolsar aos adquirentes as quantias que tenham adiantado, com recursos próprios, para pagamento das obrigações referidas no inciso I;(Incluído pela Lei nº 10.931, de 2004)\n\nIII - reembolsar à instituição financiadora a quantia que esta tiver entregue para a construção, salvo se outra forma for convencionada entre as partes interessadas; (Incluído pela Lei nº 10.931, de 2004)\n\nIV - entregar ao condomínio o valor que este tiver desembolsado para construção das acessões de responsabilidade do incorporador (§ 6o do art. 35 e § 5o do art. 31-A), na proporção do valor obtido na venda; (Incluído pela Lei nº 10.931, de 2004)\n\nV - entregar ao proprietário do terreno, nas hipóteses em que este seja pessoa distinta da pessoa do incorporador, o valor apurado na venda, em proporção ao valor atribuído à fração ideal; e (Incluído pela Lei nº 10.931, de 2004)\n\nVI - entregar à massa falida o saldo que porventura remanescer. (Incluído pela Lei nº 10.931, de 2004)\n\n§ 19. O incorporador deve assegurar à pessoa nomeada nos termos do art. 31-C, o acesso a todas as informações necessárias à verificação do montante das obrigações referidas no § 12, inciso I, do art. 31-F vinculadas ao respectivo patrimônio de afetação.(Incluído pela Lei nº 10.931, de 2004)\n\n§ 20. Ficam excluídas da responsabilidade dos adquirentes as obrigações relativas, de maneira direta ou indireta, ao imposto de renda e à contribuição social sobre o lucro, devidas pela pessoa jurídica do incorporador, inclusive por equiparação, bem como as obrigações oriundas de outras atividades do incorporador não relacionadas diretamente com as incorporações objeto de afetação. (Incluído pela Lei nº 10.931, de 2004)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2031-F.%20Os%20efeitos%20da%20decreta%C3%A7%C3%A3o%20da%20fal%C3%AAncia%20ou%20da%20insolv%C3%AAncia%20civil%20do%20incorporador%20n%C3%A3o%20atingem%20os%20patrim%C3%B4nios%20de%20afeta%C3%A7%C3%A3o%20constitu%C3%ADdos%2C%20n%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "I",
+        "chapter_name": "CAPÍTULO I-A. DO PATRIMÔNIO DE AFETAÇÃO (Incluído pela Lei nº 10.931, de 2004)",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31-E",
+      "next": "32"
+    },
+    "32": {
+      "numero": "32",
+      "texto": "Art. 32. O incorporador somente poderá alienar ou onerar as frações ideais de terrenos e acessões que corresponderão às futuras unidades autônomas após o registro, no registro de imóveis competente, do memorial de incorporação composto pelos seguintes documentos: (Redação dada pela Lei nº 14.382, de 2022)\n\na) título de propriedade de terreno, ou de promessa, irrevogável e irretratável, de compra e venda ou de cessão de direitos ou de permuta do qual conste cláusula de imissão na posse do imóvel, não haja estipulações impeditivas de sua alienação em frações ideais e inclua consentimento para demolição e construção, devidamente registrado;\n\nb) certidões negativas de impostos federais, estaduais e municipais, de protesto de títulos de ações cíveis e criminais e de ônus reais relativante ao imóvel, aos alienantes do terreno e ao incorporador;\n\nc) histórico dos títulos de propriedade do imóvel, abrangendo os últimos 20 anos, acompanhado de certidão dos respectivos registros;\n\nd) projeto de construção devidamente aprovado pelas autoridades competentes;\n\ne) cálculo das áreas das edificações, discriminando, além da global, a das partes comuns, e indicando, para cada tipo de unidade a respectiva metragern de área construída;\n\nf) certidão negativa de débito para com a Previdência Social, quando o titular de direitos sôbre o terreno fôr responsável pela arrecadeção das respectivas contribuições;\n\ng) memorial descritivo das especificações da obra projetada, segundo modêlo a que se refere o inciso IV, do art. 53, desta Lei;\n\nh) avaliação do custo global da obra, atualizada à data do arquivamento, calculada de acôrdo com a norma do inciso III, do art. 53 com base nos custos unitários referidos no art. 54, discriminando-se, também, o custo de construção de cada unidade, devidamente autenticada pelo profissional responsável pela obra;\n\ni) instrumento de divisão do terreno em frações ideais autônomas que contenham a sua discriminação e a descrição, a caracterização e a destinação das futuras unidades e partes comuns que a elas acederão; (Redação dada pela Lei nº 14.382, de 2022)\n\nj) minuta de convenção de condomínio que disciplinará o uso das futuras unidades e partes comuns do conjunto imobiliário; (Redação dada pela Lei nº 14.382, de 2022)\n\nl) declaração em que se defina a parcela do preço de que trata o inciso II, do art. 39;\n\nm) certidão do instrumento público de mandato, referido no § 1º do artigo 31;\n\nn) declaração expressa em que se fixe, se houver, o prazo de carência (art. 34);\n\no) (revogada); (Redação dada pela Lei nº 14.382, de 2022)\n\np) declaração, acompanhada de plantas elucidativas, sôbre o número de veículos que a garagem comporta e os locais destinados à guarda dos mesmos. (Alínea incluída pela Lei nº 4.864, de 29.11.1965)\n\n§ 1º A documentação referida neste artigo, após o exame do Oficial de Registro de Imóveis, será arquivada em cartório, fazendo-se o competente registro.\n\n§ 1º-A O registro do memorial de incorporação sujeita as frações do terreno e as respectivas acessões a regime condominial especial, investe o incorporador e os futuros adquirentes na faculdade de sua livre disposição ou oneração e independe de anuência dos demais condôminos. (Redação dada pela Lei nº 14.382, de 2022)\n\n§ 2o Os contratos de compra e venda, promessa de venda, cessão ou promessa de cessão de unidades autônomas são irretratáveis e, uma vez registrados, conferem direito real oponível a terceiros, atribuindo direito a adjudicação compulsória perante o incorporador ou a quem o suceder, inclusive na hipótese de insolvência posterior ao término da obra. (Redação dada pela Lei nº 10.931, de 2004) (Revogado Pela Medida Provisória nº 1.085, de 2021)\n\n§ 3º O número do registro referido no § 1º, bem como a indicação do cartório competente, constará, obrigatòriamente, dos anúncios, impressos, publicações, propostas, contratos, preliminares ou definitivos, referentes à incorporação, salvo dos anúncios \"classificados\".\n\n§ 4º O Registro de Imóveis dará certidão ou fornecerá, a quem o solicitar, cópia fotostática, heliográfica, termofax, microfilmagem ou outra equivalente, dos documentos especificados neste artigo, ou autenticará cópia apresentada pela parte interessada.\n\n§ 5º A existência de ônus fiscais ou reais, salvo os impeditivos de alienação, não impedem o registro, que será feito com as devidas ressalvas, mencionando-se, em todos os documentos, extraídos do registro, a existência e a extensão dos ônus.\n\n§ 6º Os oficiais do registro de imóveis terão 10 (dez) dias úteis para apresentar, por escrito, todas as exigências que julgarem necessárias ao registro e, satisfeitas as referidas exigências, terão o prazo de 10 (dez) dias úteis para fornecer certidão e devolver a segunda via autenticada da documentação, quando apresentada por meio físico, com exceção dos documentos públicos, e caberá ao oficial, em caso de divergência, suscitar a dúvida, segundo as normas processuais aplicáveis. (Redação dada pela Lei nº 14.382, de 2022)\n\n§ 7º O Oficial de Registro de Imóveis responde, civil e criminalmente, se efetuar o arquivamento de documentação contraveniente à lei ou der certidão ... (VETADO) ... sem o arquivamento de todos os documentos exigidos.\n\n§ 8º O Oficial do Registro de Imóveis, que não observar os prazos previstos no § 6º ficará sujeito a penalidade imposta pela autoridade judiciária competente em montante igual ao dos emolumentos devidos pelo registro de que trata êste artigo, aplicável por quinzena ou fração de quinzena de superação de cada um daqueles prazos. (Incluído pela Lei nº 4.864, de 29.11.1965)\n\n§ 9º Oficial do Registro de Imóveis não responde pela exatidão dos documentos que lhe forem apresentados para arquivamento em obediência ao disposto nas alíneas e, g, h, l, e p dêste artigo, desde que assinados pelo profissional responsável pela obra. (Incluído pela Lei nº 4.864, de 29.11.1965)\n\n§ 10 As plantas do projeto aprovado (alínea d dêste artigo) poderão ser apresentadas em cópia autenticada pelo profissional responsável pela obra, acompanhada de cópia da licença de construção. (Incluído pela Lei nº 4.864, de 29.11.1965)\n\n§ 11 Até 30 de junho de 1966 se, dentro de 15 (quinze) dias de entrega ao Cartório do Registro de Imóveis da documentação completa prevista neste artigo, feita por carta enviada pelo Ofício de Títulos e Documentos, não tiver o Cartório de Imóveis entregue a certidão de arquivamento e registro, nem formulado, por escrito, as exigências previstas no § 6º, considerar-se-á de pleno direito completado o registro provisório. (Incluído pela Lei nº 4.864, de 29.11.1965)\n\n§ 12 O registro provisório previsto no parágrafo anterior autoriza o incorporador a negociar as unidades da incorporação, indicando na sua publicação o número do Registro de Títulos e Documentos referente à remessa dos documentos ao Cartório de Imóveis, sem prejuízo, todavia, da sua responsabilidade perante o adquirente da unidade e da obrigação de satisfazer as exigências posteriormente formuladas pelo Cartório, bem como, de completar o registro definitivo. (Incluído pela Lei nº 4.864, de 29.11.1965)\n\n§ 13. Na incorporação sobre imóvel objeto de imissão na posse registrada conforme item 36 do inciso I do art. 167 da Lei no 6.015, de 31 de dezembro de 1973, fica dispensada a apresentação, relativamente ao ente público, dos documentos mencionados nas alíneas a, b, c, f e o deste artigo, devendo o incorporador celebrar contrato de cessão de posse com os adquirentes das unidades autônomas, aplicando-se a regra prevista nos §§ 4º, 5º e 6º do art. 26 da Lei no 6.766, de 19 de dezembro de 1979. (Incluído pela Lei nº 12.424, de 2011)\n\n§ 14. Quando demonstrar de modo suficiente o estado do processo e a repercussão econômica do litígio, a certidão esclarecedora de ação cível ou penal poderá ser substituída por impressão do andamento do processo digital. (Incluído pela Lei nº 14.382, de 2022)\n\n§ 15. O registro do memorial de incorporação e da instituição do condomínio sobre as frações ideais constitui ato registral único. (Incluído pela Lei nº 14.382, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2032.%20O%20incorporador%20somente%20poder%C3%A1%20alienar%20ou%20onerar%20as%20fra%C3%A7%C3%B5es%20ideais%20de%20terrenos%20e%20acess%C3%B5es%20que%20corresponder%C3%A3o%20%C3%A0s%20futuras%20unidades%20aut%C3%B4nomas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Das Obrigações e Direitos do Incorporador",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "31-F",
+      "next": "33"
+    },
+    "33": {
+      "numero": "33",
+      "texto": "Art. 33. Se, após 180 (cento e oitenta) dias da data do registro da incorporação, ela ainda não se houver concretizado, por meio da formalização da alienação ou da oneração de alguma unidade futura, da contratação de financiamento para a construção ou do início das obras do empreendimento, o incorporador somente poderá negociar unidades depois de averbar a atualização das certidões e de eventuais documentos com prazo de validade vencido a que se refere o art. 32 desta Lei. (Redação dada pela Lei nº 14.382, de 2022)\n\nParágrafo único. Enquanto não concretizada a incorporação, o procedimento de que trata o caput deste artigo deverá ser realizado a cada 180 (cento e oitenta) dias. (Incluído pela Lei nº 14.382, de 2022)\n\nParágrafo único. Enquanto não concretizada a incorporação, o procedimento de que trata o caput deverá ser realizado a cada cento e oitenta dias. (Incluído pela Medida Provisória nº 1.085, de 2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2033.%20Se%2C%20ap%C3%B3s%20180%20%28cento%20e%20oitenta%29%20dias%20da%20data%20do%20registro%20da%20incorpora%C3%A7%C3%A3o%2C%20ela%20ainda%20n%C3%A3o%20se%20houver%20concretizado%2C%20por",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Das Obrigações e Direitos do Incorporador",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "32",
+      "next": "34"
+    },
+    "34": {
+      "numero": "34",
+      "texto": "Art. 34. O incorporador poderá fixar, para efetivação da incorporação, prazo de carência, dentro do qual lhe é lícito desistir do empreendimento.\n\n§ 1º A fixação do prazo de carência será feita pela declaração a que se refere a alínea \"n\", do art. 32 onde se fixem as condições que autorizarão o incorporador a desistir do empreendimento.\n\n§ 2º Em caso algum poderá o prazo de carência ultrapassar o têrmo final do prazo da validade do registro ou, se fôr o caso, de sua revalidação.\n\n§ 3º Os documentos preliminares de ajuste, se houver, mencionarão, obrigatòriamente, o prazo de carência, inclusive para efeitos do art. 45.\n\n§ 4º A desistência da incorporação será denunciada, por escrito, ao Registro de Imóveis ... (VETADO) ... e comunicada, por escrito, a cada um dos adquirentes ou candidatos à aquisição, sob pena de responsabilidade civil e criminal do incorporador.\n\n§ 5º Será averbada no registro da incorporação a desistência de que trata o parágrafo anterior arquivando-se em cartório o respectivo documento.\n\n§ 6º O prazo de carência é improrrogável.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2034.%20O%20incorporador%20poder%C3%A1%20fixar%2C%20para%20efetiva%C3%A7%C3%A3o%20da%20incorpora%C3%A7%C3%A3o%2C%20prazo%20de%20car%C3%AAncia%2C%20dentro%20do%20qual%20lhe%20%C3%A9%20l%C3%ADcito%20desistir%20do%20empreendimento.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Das Obrigações e Direitos do Incorporador",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "33",
+      "next": "35"
+    },
+    "35": {
+      "numero": "35",
+      "texto": "Art. 35. O incorporador terá o prazo máximo de 45 dias, a contar do têrmo final do prazo de carência, se houver, para promover a celebração do competente contrato relativo à fração ideal de terreno, e, bem assim, do contrato de construção e da Convenção do condomínio, de acôrdo com discriminação constante da alínea \"i\", do art. 32. (Vide Lei nº 4.864/65 que altera o prazo máximo concedido ao incorporador para 60 (sessenta) dias)\n\n§ 1º No caso de não haver prazo de carência, o prazo acima se contará da data de qualquer documento de ajuste preliminar.\n\n§ 2º Quando houver prazo de carência, a obrigação sòmente deixará de existir se o incorporador tiver denunciado, dentro do mesmo prazo e nas condições prèviamente estabelecidas, por escrito, ao Registro de Imóveis, a não concretização do empreendimento.\n\n§ 3º Se, dentro do prazo de carência, o incorporador não denunciar a incorporação, embora não se tenham reunido as condições a que se refere o § 1º, o outorgante do mandato de que trata o § 1º, do art. 31, poderá fazê-lo nos cinco dias subseqüentes ao prazo de carência, e nesse caso ficará solidàriamente responsável com o incorporador pela devolução das quantias que os adquirentes ou candidatos à aquisição houverem entregue ao incorporador, resguardado o direito de regresso sôbre êles, dispensando-se, então, do cumprimento da obrigação fixada no caput dêste artigo.\n\n§ 4º Descumprida pelo incorporador e pelo mandante de que trata o § 1º do art. 31 a obrigação da outorga dos contratos referidos no caput dêste artigo, nos prazos ora fixados, a carta-proposta ou o documento de ajuste preliminar poderão ser averbados no Registro de Imóveis, averbação que conferirá direito real oponível a terceiros, com o conseqüente direito à obtenção compulsória do contrato correspondente.\n\n§ 5º Na hipótese do parágrafo anterior, o incorporador incorrerá também na multa de 50% sôbre a quantia que efetivamente tiver recebido, cobrável por via executiva, em favor do adquirente ou candidato à aquisição.\n\n§ 6º Ressalvado o disposto no artigo 43, do contrato de construção deverá constar expressamente a menção dos responsáveis pelo pagamento da construção de cada uma das unidades. O incorporador responde, em igualdade de condições, com os demais contratantes, pelo pagamento da construção das unidades que não tenham tido a responsabilidade pela sua construção assumida por terceiros e até que o tenham.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2035.%20O%20incorporador%20ter%C3%A1%20o%20prazo%20m%C3%A1ximo%20de%2045%20dias%2C%20a%20contar%20do%20t%C3%AArmo%20final%20do%20prazo%20de%20car%C3%AAncia%2C%20se%20houver%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Das Obrigações e Direitos do Incorporador",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "34",
+      "next": "35-A"
+    },
+    "35-A": {
+      "numero": "35-A",
+      "texto": "Art. 35-A. Os contratos de compra e venda, promessa de venda, cessão ou promessa de cessão de unidades autônomas integrantes de incorporação imobiliária serão iniciados por quadro-resumo, que deverá conter: (Incluído pela Lei nº 13.786, de 2018)\n\nI - o preço total a ser pago pelo imóvel; (Incluído pela Lei nº 13.786, de 2018)\n\nII - o valor da parcela do preço a ser tratada como entrada, a sua forma de pagamento, com destaque para o valor pago à vista, e os seus percentuais sobre o valor total do contrato; (Incluído pela Lei nº 13.786, de 2018)\n\nIII - o valor referente à corretagem, suas condições de pagamento e a identificação precisa de seu beneficiário; (Incluído pela Lei nº 13.786, de 2018)\n\nIV - a forma de pagamento do preço, com indicação clara dos valores e vencimentos das parcelas; (Incluído pela Lei nº 13.786, de 2018)\n\nV - os índices de correção monetária aplicáveis ao contrato e, quando houver pluralidade de índices, o período de aplicação de cada um; (Incluído pela Lei nº 13.786, de 2018)\n\nVI - as consequências do desfazimento do contrato, seja por meio de distrato, seja por meio de resolução contratual motivada por inadimplemento de obrigação do adquirente ou do incorporador, com destaque negritado para as penalidades aplicáveis e para os prazos para devolução de valores ao adquirente; (Incluído pela Lei nº 13.786, de 2018)\n\nVII - as taxas de juros eventualmente aplicadas, se mensais ou anuais, se nominais ou efetivas, o seu período de incidência e o sistema de amortização; (Incluído pela Lei nº 13.786, de 2018)\n\nVIII - as informações acerca da possibilidade do exercício, por parte do adquirente do imóvel, do direito de arrependimento previsto no art. 49 da Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), em todos os contratos firmados em estandes de vendas e fora da sede do incorporador ou do estabelecimento comercial; (Incluído pela Lei nº 13.786, de 2018)\n\nIX - o prazo para quitação das obrigações pelo adquirente após a obtenção do auto de conclusão da obra pelo incorporador; (Incluído pela Lei nº 13.786, de 2018)\n\nX - as informações acerca dos ônus que recaiam sobre o imóvel, em especial quando o vinculem como garantia real do financiamento destinado à construção do investimento; (Incluído pela Lei nº 13.786, de 2018)\n\nXI - o número do registro do memorial de incorporação, a matrícula do imóvel e a identificação do cartório de registro de imóveis competente; (Incluído pela Lei nº 13.786, de 2018)\n\nXII - o termo final para obtenção do auto de conclusão da obra (habite-se) e os efeitos contratuais da intempestividade prevista no art. 43-A desta Lei. (Incluído pela Lei nº 13.786, de 2018)\n\n§ 1º Identificada a ausência de quaisquer das informações previstas no caput deste artigo, será concedido prazo de 30 (trinta) dias para aditamento do contrato e saneamento da omissão, findo o qual, essa omissão, se não sanada, caracterizará justa causa para rescisão contratual por parte do adquirente. (Incluído pela Lei nº 13.786, de 2018)\n\n§ 2º A efetivação das consequências do desfazimento do contrato, referidas no inciso VI do caput deste artigo, dependerá de anuência prévia e específica do adquirente a seu respeito, mediante assinatura junto a essas cláusulas, que deverão ser redigidas conforme o disposto no § 4º do art. 54 da Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor). (Incluído pela Lei nº 13.786, de 2018)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2035-A.%20Os%20contratos%20de%20compra%20e%20venda%2C%20promessa%20de%20venda%2C%20cess%C3%A3o%20ou%20promessa%20de%20cess%C3%A3o%20de%20unidades%20aut%C3%B4nomas%20integrantes%20de%20incorpora%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Das Obrigações e Direitos do Incorporador",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35",
+      "next": "36"
+    },
+    "36": {
+      "numero": "36",
+      "texto": "Art. 36. No caso de denúncia de incorporação, nos têrmos do art. 34, se o incorporador, até 30 dias a contar da denúncia, não restituir aos adquirentes as importâncias pagas, êstes poderão cobrá-la por via executiva, reajustado o seu valor a contar da data do recebimento, em função do índice geral de preços mensalmente publicado pelo Conselho Nacional de Economia, que reflita as variações no poder aquisitivo da moeda nacional, e acrescido de juros de 6% ao ano, sôbre o total corrigido.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2036.%20No%20caso%20de%20den%C3%BAncia%20de%20incorpora%C3%A7%C3%A3o%2C%20nos%20t%C3%AArmos%20do%20art.%2034%2C%20se%20o%20incorporador%2C%20at%C3%A9%2030%20dias%20a%20contar%20da",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Das Obrigações e Direitos do Incorporador",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "35-A",
+      "next": "37"
+    },
+    "37": {
+      "numero": "37",
+      "texto": "Art. 37. Se o imóvel estiver gravado de ônus real ou fiscal ou se contra os alienantes houver ação que possa comprometê-lo, o fato será obrigatòriamente mencionado em todos os documentos de ajuste, com a indicação de sua natureza e das condições de liberação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2037.%20Se%20o%20im%C3%B3vel%20estiver%20gravado%20de%20%C3%B4nus%20real%20ou%20fiscal%20ou%20se%20contra%20os%20alienantes%20houver%20a%C3%A7%C3%A3o%20que%20possa%20compromet%C3%AA-lo%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Das Obrigações e Direitos do Incorporador",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "36",
+      "next": "38"
+    },
+    "38": {
+      "numero": "38",
+      "texto": "Art. 38. Também constará, obrigatòriamente, dos documentos de ajuste, se fôr o caso, o fato de encontrar-se ocupado o imóvel, esclarecendo-se a que título se deve esta ocupação e quais as condições de desocupação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2038.%20Tamb%C3%A9m%20constar%C3%A1%2C%20obrigat%C3%B2riamente%2C%20dos%20documentos%20de%20ajuste%2C%20se%20f%C3%B4r%20o%20caso%2C%20o%20fato%20de%20encontrar-se%20ocupado%20o%20im%C3%B3vel%2C%20esclarecendo-se%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Das Obrigações e Direitos do Incorporador",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "37",
+      "next": "39"
+    },
+    "39": {
+      "numero": "39",
+      "texto": "Art. 39. Nas incorporações em que a aquisição do terreno se der com pagamento total ou parcial em unidades a serem construídas, deverão ser discriminadas em todos os documentos de ajuste:\n\nI - a parcela que, se houver, será paga em dinheiro;\n\nIl - a quota-parte da área das unidades a serem entregues em pagamento do terreno que correspenderá a cada uma das unidades, a qual deverá ser expressa em metros quadrados.\n\nParágrafo único. Deverá constar, também, de todos os documentos de ajuste, se o alienante do terreno ficou ou não sujeito a qualquer prestação ou encargo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2039.%20Nas%20incorpora%C3%A7%C3%B5es%20em%20que%20a%20aquisi%C3%A7%C3%A3o%20do%20terreno%20se%20der%20com%20pagamento%20total%20ou%20parcial%20em%20unidades%20a%20serem%20constru%C3%ADdas%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Das Obrigações e Direitos do Incorporador",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "38",
+      "next": "40"
+    },
+    "40": {
+      "numero": "40",
+      "texto": "Art. 40. No caso de rescisão de contrato de alienação do terreno ou de fração ideal, ficarão rescindidas as cessões ou promessas de cessão de direitos correspondentes à aquisição do terreno.\n\n§ 1º Nesta hipótese, consolidar-se-á, no alienante em cujo favor se opera a resolução, o direito sôbre a construção porventura existente.\n\n§ 2º No caso do parágrafo anterior, cada um dos ex-titulares de direito à aquisição de unidades autônomas haverá do mencionado alienante o valor da parcela de construção que haja adicionado à unidade, salvo se a rescisão houver sido causada pelo ex-titular.\n\n§ 3º Na hipótese dos parágrafos anteriores, sob pena de nulidade, não poderá o alienante em cujo favor se operou a resolução voltar a negociar seus direitos sôbre a unidade autônoma, sem a prévia indenização aos titulares, de que trata o § 2º.\n\n§ 4º No caso do parágrafo anterior, se os ex-titulares tiverem de recorrer à cobrança judicial do que lhes fôr devido, sòmente poderão garantir o seu pagamento a unidade e respectiva fração de terreno objeto do presente artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2040.%20No%20caso%20de%20rescis%C3%A3o%20de%20contrato%20de%20aliena%C3%A7%C3%A3o%20do%20terreno%20ou%20de%20fra%C3%A7%C3%A3o%20ideal%2C%20ficar%C3%A3o%20rescindidas%20as%20cess%C3%B5es%20ou%20promessas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Das Obrigações e Direitos do Incorporador",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "39",
+      "next": "41"
+    },
+    "41": {
+      "numero": "41",
+      "texto": "Art. 41. Quando as unidades imobiliárias forem contratadas pelo incorporador por preço global compreendendo quota de terreno e construção, inclusive com parte de pagamento após a entrega da unidade, discriminar-se-ão, no contrato, o preço da quota de terreno e o da construção.\n\n§ 1º Poder-se-á estipular que, na hipótese de o adquirente atrasar o pagamento de parcela relativa a construção, os efeitos da mora recairão não apenas sôbre a aquisição da parte construída, mas, também, sôbre a fração ideal de terreno, ainda que esta tenha sido totalmente paga.\n\n§ 2º Poder-se-á também estipular que, na hipótese de o adquirente atrasar o pagamento da parcela relativa à fração ideal de terreno, os efeitos da mora recairão não apenas sôbre a aquisição da fração ideal, mas, também, sôbre a parte construída, ainda que totalmente paga.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2041.%20Quando%20as%20unidades%20imobili%C3%A1rias%20forem%20contratadas%20pelo%20incorporador%20por%20pre%C3%A7o%20global%20compreendendo%20quota%20de%20terreno%20e%20constru%C3%A7%C3%A3o%2C%20inclusive%20com%20parte",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Das Obrigações e Direitos do Incorporador",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "40",
+      "next": "42"
+    },
+    "42": {
+      "numero": "42",
+      "texto": "Art. 42. No caso de rescisão do contrato relativo à fração ideal de terreno e partes comuns, a pessoa em cujo favor se tenha operado a resolução sub-rogar-se-á nos direitos e obrigações contratualmente atribuídos ao inadimplente, com relação a construção.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2042.%20No%20caso%20de%20rescis%C3%A3o%20do%20contrato%20relativo%20%C3%A0%20fra%C3%A7%C3%A3o%20ideal%20de%20terreno%20e%20partes%20comuns%2C%20a%20pessoa%20em%20cujo%20favor",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Das Obrigações e Direitos do Incorporador",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "41",
+      "next": "43"
+    },
+    "43": {
+      "numero": "43",
+      "texto": "Art. 43. Quando o incorporador contratar a entrega da unidade a prazo e preços certos, determinados ou determináveis, mesmo quando pessoa física, ser-lhe-ão impostas as seguintes normas:\n\nI - encaminhar à comissão de representantes: (Redação dada pela Lei nº 14.382, de 2022)\n\na) a cada 3 (três) meses, o demonstrativo do estado da obra e de sua correspondência com o prazo pactuado para entrega do conjunto imobiliário; e (Incluído pela Lei nº 14.382, de 2022)\n\nb) quando solicitada, a relação dos adquirentes com os seus endereços residenciais e eletrônicos, devendo os integrantes da comissão de representantes, no tratamento de tais dados, atender ao disposto na Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais), no que for aplicável; (Incluído pela Lei nº 14.382, de 2022)\n\nII - responder civilmente pela execução da incorporação, devendo indenizar os adquirentes ou compromissários, dos prejuízos que a êstes advierem do fato de não se concluir a edificação ou de se retardar injustificadamente a conclusão das obras, cabendo-lhe ação regressiva contra o construtor, se fôr o caso e se a êste couber a culpa;\n\nIII - em caso de falência do incorporador, pessoa física ou jurídica, e não ser possível à maioria prossequir na construção das edificações, os subscritores ou candidatos à aquisição de unidades serão credores privilegiados pelas quantias que houverem pago ao incorporador, respondendo subsidiàriamente os bens pessoais dêste;\n\nIV - é vedado ao incorporador alterar o projeto, especialmente no que se refere à unidade do adquirente e às partes comuns, modificar as especificações, ou desviar-se do plano da construção, salvo autorização unânime dos interessados ou exigência legal;\n\nV - não poderá modificar as condições de pagamento nem reajustar o preço das unidades, ainda no caso de elevação dos preços dos materiais e da mão-de-obra, salvo se tiver sido expressamente ajustada a faculdade de reajustamento, procedendo-se, então, nas condições estipuladas;\n\nVI - se o incorporador, sem justa causa devidamente comprovada, paralisar as obras por mais de 30 dias, ou retardar-lhes excessivamente o andamento, poderá o Juiz notificá-lo para que no prazo mínimo de 30 dias as reinicie ou torne a dar-lhes o andamento normal. Desatendida a notificação, poderá o incorporador ser destituído pela maioria absoluta dos votos dos adquirentes, sem prejuízo da responsabilidade civil ou penal que couber, sujeito à cobrança executiva das importâncias comprovadamente devidas, facultando-se aos interessados prosseguir na obra (VETADO).\n\nVII - em caso de insolvência do incorporador que tiver optado pelo regime da afetação e não sendo possível à maioria prosseguir na construção, a assembléia geral poderá, pelo voto de 2/3 (dois terços) dos adquirentes, deliberar pela venda do terreno, das acessões e demais bens e direitos integrantes do patrimônio de afetação, mediante leilão ou outra forma que estabelecer, distribuindo entre si, na proporção dos recursos que comprovadamente tiverem aportado, o resultado líquido da venda, depois de pagas as dívidas do patrimônio de afetação e deduzido e entregue ao proprietário do terreno a quantia que lhe couber, nos termos do art. 40; não se obtendo, na venda, a reposição dos aportes efetivados pelos adquirentes, reajustada na forma da lei e de acordo com os critérios do contrato celebrado com o incorporador, os adquirentes serão credores privilegiados pelos valores da diferença não reembolsada, respondendo subsidiariamente os bens pessoais do incorporador. (Incluído pela Lei nº 10.931, de 2004)\n\n§ 1º Deliberada a destituição de que tratam os incisos VI e VII do caput deste artigo, o incorporador será notificado extrajudicialmente pelo oficial do registro de imóveis da circunscrição em que estiver localizado o empreendimento para que, no prazo de 15 (quinze) dias, contado da data da entrega da notificação na sede do incorporador ou no seu endereço eletrônico: (Incluído pela Lei nº 14.382, de 2022)\n\nI - imita a comissão de representantes na posse do empreendimento e lhe entregue: (Incluído pela Lei nº 14.382, de 2022)\n\na) os documentos correspondentes à incorporação; e (Incluído pela Lei nº 14.382, de 2022)\n\nb) os comprovantes de quitação das quotas de construção de sua responsabilidade a que se referem o § 5º do art. 31-A e o § 6º do art. 35 desta Lei; ou (Incluído pela Lei nº 14.382, de 2022)\n\nII - efetive o pagamento das quotas que estiverem pendentes, de modo a viabilizar a realização da auditoria a que se refere o art. 31-C desta Lei. (Incluído pela Lei nº 14.382, de 2022)\n\n§ 2º Da ata da assembleia geral que deliberar a destituição do incorporador deverão constar os nomes dos adquirentes presentes e as seguintes informações: (Incluído pela Lei nº 14.382, de 2022)\n\nI - a qualificação; (Incluído pela Lei nº 14.382, de 2022)\n\nII - o documento de identidade; (Incluído pela Lei nº 14.382, de 2022)\n\nIII - as inscrições no Cadastro de Pessoas Físicas (CPF) ou no Cadastro Nacional da Pessoa Jurídica (CNPJ) da Secretaria Especial da Receita Federal do Brasil do Ministério da Economia; (Incluído pela Lei nº 14.382, de 2022)\n\nIV - os endereços residenciais ou comerciais completos; e (Incluído pela Lei nº 14.382, de 2022)\n\nV - as respectivas frações ideais e acessões a que se vincularão as suas futuras unidades imobiliárias, com a indicação dos correspondentes títulos aquisitivos, públicos ou particulares, ainda que não registrados no registro de imóveis. (Incluído pela Lei nº 14.382, de 2022)\n\n§ 3º A ata de que trata o § 2º deste artigo, registrada no registro de títulos e documentos, constituirá documento hábil para: (Incluído pela Lei nº 14.382, de 2022)\n\nI - averbação da destituição do incorporador na matrícula do registro de imóveis da circunscrição em que estiver registrado o memorial de incorporação; e (Incluído pela Lei nº 14.382, de 2022)\n\nII - implementação das medidas judiciais ou extrajudiciais necessárias: (Incluído pela Lei nº 14.382, de 2022)\n\na) à imissão da comissão de representantes na posse do empreendimento; (Incluído pela Lei nº 14.382, de 2022)\n\nb) à investidura da comissão de representantes na administração e nos poderes para a prática dos atos de disposição que lhe são conferidos pelos arts. 31-F e 63 desta Lei; (Incluído pela Lei nº 14.382, de 2022)\n\nc) à inscrição do respectivo condomínio da construção no CNPJ; e (Incluído pela Lei nº 14.382, de 2022)\n\nd) quaisquer outros atos necessários à efetividade da norma instituída no caput deste artigo, inclusive para prosseguimento da obra ou liquidação do patrimônio da incorporação. (Incluído pela Lei nº 14.382, de 2022)\n\n§ 4º As unidades não negociadas pelo incorporador e vinculadas ao pagamento das correspondentes quotas de construção nos termos do § 6º do art. 35 desta Lei ficam indisponíveis e insuscetíveis de constrição por dívidas estranhas à respectiva incorporação até que o incorporador comprove a regularidade do pagamento. (Incluído pela Lei nº 14.382, de 2022)\n\n§ 5º Fica autorizada a comissão de representantes a promover a venda, com fundamento no § 14 do art. 31-F e no art. 63 desta Lei, das unidades de que trata o § 4º, expirado o prazo da notificação a que se refere o § 1º deste artigo, com aplicação do produto obtido no pagamento do débito correspondente. (Incluído pela Lei nº 14.382, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2043.%20Quando%20o%20incorporador%20contratar%20a%20entrega%20da%20unidade%20a%20prazo%20e%20pre%C3%A7os%20certos%2C%20determinados%20ou%20determin%C3%A1veis%2C%20mesmo%20quando%20pessoa%20f%C3%ADsica%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Das Obrigações e Direitos do Incorporador",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "42",
+      "next": "43-A"
+    },
+    "43-A": {
+      "numero": "43-A",
+      "texto": "Art. 43-A. A entrega do imóvel em até 180 (cento e oitenta) dias corridos da data estipulada contratualmente como data prevista para conclusão do empreendimento, desde que expressamente pactuado, de forma clara e destacada, não dará causa à resolução do contrato por parte do adquirente nem ensejará o pagamento de qualquer penalidade pelo incorporador. (Incluído pela Lei nº 13.786, de 2018)\n\n§ 1º Se a entrega do imóvel ultrapassar o prazo estabelecido no caput deste artigo, desde que o adquirente não tenha dado causa ao atraso, poderá ser promovida por este a resolução do contrato, sem prejuízo da devolução da integralidade de todos os valores pagos e da multa estabelecida, em até 60 (sessenta) dias corridos contados da resolução, corrigidos nos termos do § 8º do art. 67-A desta Lei. (Incluído pela Lei nº 13.786, de 2018)\n\n§ 2º Na hipótese de a entrega do imóvel estender-se por prazo superior àquele previsto no caput deste artigo, e não se tratar de resolução do contrato, será devida ao adquirente adimplente, por ocasião da entrega da unidade, indenização de 1% (um por cento) do valor efetivamente pago à incorporadora, para cada mês de atraso, pro rata die, corrigido monetariamente conforme índice estipulado em contrato. (Incluído pela Lei nº 13.786, de 2018)\n\n§ 3º A multa prevista no § 2º deste artigo, referente a mora no cumprimento da obrigação, em hipótese alguma poderá ser cumulada com a multa estabelecida no § 1º deste artigo, que trata da inexecução total da obrigação. (Incluído pela Lei nº 13.786, de 2018)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2043-A.%20A%20entrega%20do%20im%C3%B3vel%20em%20at%C3%A9%20180%20%28cento%20e%20oitenta%29%20dias%20corridos%20da%20data%20estipulada%20contratualmente%20como%20data%20prevista%20para",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Das Obrigações e Direitos do Incorporador",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43",
+      "next": "44"
+    },
+    "44": {
+      "numero": "44",
+      "texto": "Art. 44. Após a concessão do habite-se pela autoridade administrativa, incumbe ao incorporador a averbação da construção em correspondência às frações ideais discriminadas na matrícula do terreno, respondendo perante os adquirentes pelas perdas e danos que resultem da demora no cumprimento dessa obrigação. (Redação dada pela Lei nº 14.382, de 2022)\n\n§ 1º Se o incorporador não requerer a averbação ((VETADO) o construtor requerê-la-á (VETADO) sob pena de ficar solidàriamente responsável com o incorporador perante os adquirentes.\n\n§ 2º Na omissão do incorporador e do construtor, a averbação poderá ser requerida por qualquer dos adquirentes de unidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2044.%20Ap%C3%B3s%20a%20concess%C3%A3o%20do%20habite-se%20pela%20autoridade%20administrativa%2C%20incumbe%20ao%20incorporador%20a%20averba%C3%A7%C3%A3o%20da%20constru%C3%A7%C3%A3o%20em%20correspond%C3%AAncia%20%C3%A0s%20fra%C3%A7%C3%B5es%20ideais",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Das Obrigações e Direitos do Incorporador",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "43-A",
+      "next": "45"
+    },
+    "45": {
+      "numero": "45",
+      "texto": "Art. 45. É lícito ao incorporador recolher o impôsto do sêlo devido, mediante apresentação dos contratos preliminares, até 10 dias a contar do vencimento do prazo de carência a que se refere o art. 34, extinta a obrigação se, dentro deste prazo, fôr denunciada a incorporação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2045.%20%C3%89%20l%C3%ADcito%20ao%20incorporador%20recolher%20o%20imp%C3%B4sto%20do%20s%C3%AAlo%20devido%2C%20mediante%20apresenta%C3%A7%C3%A3o%20dos%20contratos%20preliminares%2C%20at%C3%A9%2010%20dias%20a%20contar",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Das Obrigações e Direitos do Incorporador",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "44",
+      "next": "46"
+    },
+    "46": {
+      "numero": "46",
+      "texto": "Art. 46. Quando o pagamento do impôsto sôbre lucro imobiliário e respectivos acréscimos e adicionais fôr de responsabilidade do vendedor do terreno, será lícito ao adquirente reter o pagamento das últimas prestações anteriores à data-limite em que é lícito pagar, sem reajuste, o referido impôsto e os adicionais, caso o vendedor não apresente a quitação até 10 dias antes do vencimento das prestações cujo pagamento torne inferior ao débito fiscal a parte do preço a ser ainda paga até a referida data-limite.\n\nParágrafo único. No caso de retenção pelo adquirente, êsse ficará responsável para todos os efeitos perante o Fisco, pelo recolhimento do tributo, adicionais e acréscimos, inclusive pelos reajustamentos que vier a sofrer o débito fiscal, (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2046.%20Quando%20o%20pagamento%20do%20imp%C3%B4sto%20s%C3%B4bre%20lucro%20imobili%C3%A1rio%20e%20respectivos%20acr%C3%A9scimos%20e%20adicionais%20f%C3%B4r%20de%20responsabilidade%20do%20vendedor%20do%20terreno%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Das Obrigações e Direitos do Incorporador",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "45",
+      "next": "47"
+    },
+    "47": {
+      "numero": "47",
+      "texto": "Art. 47. Quando se fixar no contrato que a obrigação do pagamento do impôsto sôbre lucro imobiliário acréscimos e adicionais devidos pelo alienante e transferida ao adquirente, dever-se-á explicitar o montante que tal obrigação atingiria, se sua satisfação se desse na data da escritura.\n\n§ 1º Neste caso, o adquirente será tido, para todos os efeitos, como responsável perante o Fisco.\n\n§ 2º Havendo parcela restituível, a restituição será feita ao adquirente e, se fôr o caso em nome dêste serão emitidas as obrigações do Tesouro Nacional a que se refere o art. 4º da Lei nº 4.357 de 16.7.64.\n\n§ 3º Para efeitos fiscais, não importará em aumento do preço de aquisição a circunstância de obrigar-se o adquirente ao pagamento do impôsto sôbre lucro mobiliário, seus acréscimos e adicionais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2047.%20Quando%20se%20fixar%20no%20contrato%20que%20a%20obriga%C3%A7%C3%A3o%20do%20pagamento%20do%20imp%C3%B4sto%20s%C3%B4bre%20lucro%20imobili%C3%A1rio%20acr%C3%A9scimos%20e%20adicionais%20devidos%20pelo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "II",
+        "chapter_name": "CAPÍTULO II Das Obrigações e Direitos do Incorporador",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "46",
+      "next": "48"
+    },
+    "48": {
+      "numero": "48",
+      "texto": "Art. 48. A construção de imóveis, objeto de incorporação nos moldes previstos nesta Lei poderá ser contratada sob o regime de empreitada ou de administração conforme adiante definidos e poderá estar incluída no contrato com o incorporador (VETADO), ou ser contratada diretamente entre os adquirentes e o construtor.\n\n§ 1º O Projeto e o memorial descritivo das edifcações farão parte integrante e complementar do contrato;\n\n§ 2º Do contrato deverá constar a prazo da entrega das obras e as condições e formas de sua eventual prorrogação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2048.%20A%20constru%C3%A7%C3%A3o%20de%20im%C3%B3veis%2C%20objeto%20de%20incorpora%C3%A7%C3%A3o%20nos%20moldes%20previstos%20nesta%20Lei%20poder%C3%A1%20ser%20contratada%20sob%20o%20regime%20de%20empreitada",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "III",
+        "chapter_name": "CAPíTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "47",
+      "next": "49"
+    },
+    "49": {
+      "numero": "49",
+      "texto": "Art. 49. Os contratantes da construção, inclusive no caso do art. 43, para tratar de seus interêsses, com relação a ela, poderão reunir-se em assembléia, cujas deIiberações, desde que aprovadas por maioria simples dos votos presentes, serão válidas e obrigatórias para todos êles salvo no que afetar ao direito de propriedade previsto na legislação.\n\n§ 1º As assembléias serão convocadas, pelo menos, por 1/3 (um têrço) dos votos dos contratantes pelo incorporador ou pelo construtor, com menção expressa do assunto a tratar, sendo admitido comparecimento de procurador bastante.\n\n§ 2º A convocação da assembléia será feita por carta registrada ou protocolo, com antecedência mínima de 5 dias para a primeira convocação, e mais 3 dias para a segunda, podendo ambas as convocações ser feitas no mesmo aviso.\n\n§ 3º A assembléia instalar-se-á, no mínimo, com metade dos contratantes, em primeira convocação, e com qualquer número, em segunda, sendo, porém, obrigatória a presença, em qualquer caso do incorporador ou do construtor, quando convocantes, e pelo menos, com metade dos contratantes que a tenham convocado, se fôr o caso.\n\n§ 4º Na assembléia, os votos dos contratantes serão proporcionais às respectivas frações ideais de terreno.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2049.%20Os%20contratantes%20da%20constru%C3%A7%C3%A3o%2C%20inclusive%20no%20caso%20do%20art.%2043%2C%20para%20tratar%20de%20seus%20inter%C3%AAsses%2C%20com%20rela%C3%A7%C3%A3o%20a%20ela%2C%20poder%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "III",
+        "chapter_name": "CAPíTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "48",
+      "next": "50"
+    },
+    "50": {
+      "numero": "50",
+      "texto": "Art. 50. Será designada no contrato de construção ou eleita em assembleia geral a ser realizada por iniciativa do incorporador no prazo de até 6 (seis) meses, contado da data do registro do memorial de incorporação, uma comissão de representantes composta por, no mínimo, 3 (três) membros escolhidos entre os adquirentes para representá-los perante o construtor ou, no caso previsto no art. 43 desta Lei, o incorporador, em tudo o que interessar ao bom andamento da incorporação e, em especial, perante terceiros, para praticar os atos resultantes da aplicação do disposto nos art. 31-A a art. 31-F desta Lei. (Redação dada pela Lei nº 14.382, de 2022)\n\n§ 1º Uma vez eleita a Comissão, cuja constituição se comprovará com a ata da assembléia, devidamente inscrita no Registro de Títulos e Documentos, esta ficará de pleno direito investida dos podêres necessários para exercer tôdas as atribuições e praticar todos os atos que esta Lei e o contrato de construção lhe deferirem, sem necessidade de instrumento especial outorgado pelos contratantes ou se fôr caso, pelos que se sub-rogarem nos direitos e obrigações dêstes.\n\n§ 2o A assembléia geral poderá, pela maioria absoluta dos votos dos adquirentes, alterar a composição da Comissão de Representantes e revogar qualquer de suas decisões, ressalvados os direitos de terceiros quanto aos efeitos já produzidos. (Redação dada pela Lei 10.931, de 2004)\n\n§ 3º Respeitados os limites constantes desta Lei, o contrato poderá discriminar as atribuições da Comissão e deverá dispor sôbre os mandatos de seus membros, sua destituição e a forma de preenchimento das vagas eventuais, sendo lícita a estipulação de que o mandato conferido a qualquer membro, no caso de sub-rogação de seu contrato a terceiros, se tenha por transferido, de pleno direito, ao sub-rogatário, salvo se êste não o aceitar.\n\n§ 4º Nas incorporações em que o número de contratantes de unidades fôr igual ou inferior a 3, a totalidade dêles exercerá, em conjunto as atribuições que esta Lei confere à Comissão, aplicando-se, no que couber, o disposto nos parágrafos anteriores.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2050.%20Ser%C3%A1%20designada%20no%20contrato%20de%20constru%C3%A7%C3%A3o%20ou%20eleita%20em%20assembleia%20geral%20a%20ser%20realizada%20por%20iniciativa%20do%20incorporador%20no%20prazo",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "III",
+        "chapter_name": "CAPíTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "49",
+      "next": "51"
+    },
+    "51": {
+      "numero": "51",
+      "texto": "Art. 51. Nos contratos de construção, seja qual fôr seu regime deverá constar expressamente a quem caberão as despesas com ligações de serviços públicos, devidas ao Poder Público, bem como as despesas indispensáveis à instalação, funcionamento e regulamentação do condomínio.\n\nParágrafo único. Quando o serviço público fôr explorado mediante concessão, os contratos de construção deverão também especificar a quem caberão as despesas com as ligações que incumbam às concessionárias no caso de não estarem elas obrigadas a fazê-las, ou, em o estando, se a isto se recusarem ou alegarem impossibilidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2051.%20Nos%20contratos%20de%20constru%C3%A7%C3%A3o%2C%20seja%20qual%20f%C3%B4r%20seu%20regime%20dever%C3%A1%20constar%20expressamente%20a%20quem%20caber%C3%A3o%20as%20despesas%20com%20liga%C3%A7%C3%B5es%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "III",
+        "chapter_name": "CAPíTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "50",
+      "next": "52"
+    },
+    "52": {
+      "numero": "52",
+      "texto": "Art. 52. Cada contratante da construção só será imitido na posse de sua unidade se estiver em dia com as obrigações assumidas, inclusive as relativas à construção exercendo o construtor e o condomínio até então, o direito de retenção sôbre a respectiva unidade; no caso do art. 43, êste direito será exercido pelo incorporador.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2052.%20Cada%20contratante%20da%20constru%C3%A7%C3%A3o%20s%C3%B3%20ser%C3%A1%20imitido%20na%20posse%20de%20sua%20unidade%20se%20estiver%20em%20dia%20com%20as%20obriga%C3%A7%C3%B5es%20assumidas%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "III",
+        "chapter_name": "CAPíTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "51",
+      "next": "53"
+    },
+    "53": {
+      "numero": "53",
+      "texto": "Art. 53. O Poder Executivo, através do Banco Nacional da Habitação, promoverá a celebração de contratos com a Associação Brasileira de Normas Técnicas (A.B.N.T.), no sentido de que esta, tendo em vista o disposto na Lei nº 4.150, de novembro de 1962, prepare, no prazo máximo de 120 dias, normas que estabeleçam, para cada tipo de prédio que padronizar:\n\nI - critérios e normas para cálculo de custos unitários de construção, para uso dos sindicatos, na forma do art. 54;\n\nIl - critérios e normas para execução de orçamentos de custo de construção, para fins de disposto no artigo 59;\n\nIII - critérios e normas para a avaliação de custo global de obra, para fins da alínea h, do art. 32;\n\nIV - modêlo de memorial descritivo dos acabamentos de edificação, para fins do disposto no art. 32;\n\nV - critério para entrosamento entre o cronograma das obras e o pagamento das prestações, que poderá ser introduzido nos contratos de incorporação inclusive para o efeito de aplicação do disposto no § 2º do art. 48.\n\n§ 1º O número de tipos padronizados deverá ser reduzido e na fixação se atenderá primordialmente:\n\na) o número de pavimentos e a existência de pavimentos especiais (subsolo, pilotis etc);\n\nb) o padrão da construção (baixo, normal, alto), tendo em conta as condições de acabamento, a qualidide dos materiais empregados, os equipamentos, o número de elevadores e as inovações de confôrto;\n\nc) as áreas de construção.\n\n§ 2º Para custear o serviço a ser feito pela A.B.N.T., definido neste artigo, fica autorizado o Poder Executivo a abrir um crédito especial no valor de Cr$10.000.000,00 (dez milhões de cruzeiros), em favor do Banco Nacional de Habitação, vinculado a êste fim, podendo o Banco adiantar a importância à A.B.N.T., se necessário.\n\n§ 3º No contrato a ser celebrado com a A.B.N.T., estipular-se-á a atualização periódica das normas previstas neste artigo, mediante remuneração razoável.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2053.%20O%20Poder%20Executivo%2C%20atrav%C3%A9s%20do%20Banco%20Nacional%20da%20Habita%C3%A7%C3%A3o%2C%20promover%C3%A1%20a%20celebra%C3%A7%C3%A3o%20de%20contratos%20com%20a%20Associa%C3%A7%C3%A3o%20Brasileira%20de%20Normas",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "III",
+        "chapter_name": "CAPíTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "52",
+      "next": "54"
+    },
+    "54": {
+      "numero": "54",
+      "texto": "Art. 54 Os sindicatos estaduais da indústria da construção civil ficam obrigados a divulgar mensalmente, até o dia 5 de cada mês, os custos unitários de construção a serem adotados nas respectivas regiões jurisdicionais, calculados com observância dos critérios e normas a que se refere o inciso I, do artigo anterior.\n\n§ 1º O sindicato estadual que deixar de cumprir a obrigação prevista neste artigo deixará de receber dos cofres públicos, enquanto perdurar a omissão, qualquer subvenção ou auxílio que pleiteie ou a que tenha direito.\n\n§ 2º Na ocorrência de omissão de sindicato estadual, o construtor usará os índices fixados por outro sindicato estadual, em cuja região os custos de construção mais lhe pareçam aproximados dos da sua.\n\n§ 3º Os orçamentos ou estimativas baseados nos custos unitários a que se refere êste artigo só poderão ser considerados atualizados, em certo mês, para os efeitos desta Lei, se baseados em custos unitários relativos ao próprio mês ou a um dos dois meses anteriores.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2054%20Os%20sindicatos%20estaduais%20da%20ind%C3%BAstria%20da%20constru%C3%A7%C3%A3o%20civil%20ficam%20obrigados%20a%20divulgar%20mensalmente%2C%20at%C3%A9%20o%20dia%205%20de%20cada%20m%C3%AAs%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "III",
+        "chapter_name": "CAPíTULO III",
+        "section": "I",
+        "section_name": "Seção I"
+      },
+      "prev": "53",
+      "next": "55"
+    },
+    "55": {
+      "numero": "55",
+      "texto": "Art. 55. Nas incorporações em que a construção seja feita pelo regime de empreitada, esta poderá ser a preço fixo, ou a preço reajustável por índices préviamente determinados.\n\n§ 1º Na empreitada a preço fixo, o preço da construção será irreajustável, independentemente das variações que sofrer o custo efetivo das obras e qualquer que sejam suas causas.\n\n§ 2º Na empreitada a preço reajustável, o preço fixado no contrato será reajustado na forma e nas épocas nêle expressamente previstas, em função da variação dos índices adotados, também previstos obrigatóriamente no contrato.\n\n§ 3º Nos contratos de construção por empreitada, a Comissão de Representantes fiscalizará o andamento da obra e a obediência ao Projeto e às especificações exercendo as demais obrigações inerentes à sua função representativa dos contratantes e fiscalizadora da construção.\n\n§ 4º Nos contratos de construção fixados sob regime de empreitada, reajustável, a Comissão de Representantes fiscalizará, também, o cálculo do reajustamento.\n\n§ 5º No Contrato deverá ser mencionado o montante do orçamento atualizado da obra, calculado de acôrdo com as normas do inciso III, do art. 53, com base nos custos unitários referidos no art. 54, quando o preço estipulado fôr inferior ao mesmo.\n\n§ 6º Na forma de expressa referência, os contratos de empreitada entendem-se como sendo a preço fixo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2055.%20Nas%20incorpora%C3%A7%C3%B5es%20em%20que%20a%20constru%C3%A7%C3%A3o%20seja%20feita%20pelo%20regime%20de%20empreitada%2C%20esta%20poder%C3%A1%20ser%20a%20pre%C3%A7o%20fixo%2C%20ou%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "III",
+        "chapter_name": "CAPíTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "54",
+      "next": "56"
+    },
+    "56": {
+      "numero": "56",
+      "texto": "Art. 56. Em tôda a publicidade ou propaganda escrita, destinada a promover a venda de incorporação com construção pelo regime de empreitada reajustável, em que conste preço, serão discriminados explìcitamente o preço da fração ideal do terreno e o preço da construção, com indicação expressa da reajustabilidade.\n\n§ 1º As mesmas indicações deverão constar em todos os papéis utilizados para a realização da incorporação, tais como cartas, propostas, escrituras, contratos e documentos semelhantes.\n\n§ 2º Esta exigência será dispensada nos anúncios \"classificados\" dos jornais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2056.%20Em%20t%C3%B4da%20a%20publicidade%20ou%20propaganda%20escrita%2C%20destinada%20a%20promover%20a%20venda%20de%20incorpora%C3%A7%C3%A3o%20com%20constru%C3%A7%C3%A3o%20pelo%20regime%20de%20empreitada",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "III",
+        "chapter_name": "CAPíTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "55",
+      "next": "57"
+    },
+    "57": {
+      "numero": "57",
+      "texto": "Art. 57. Ao construtor que contratar, por empreitada a preço fixo, uma obra de incorporação, aplicar-se-á, no que couber o disposto nos itens II, III, IV, (Vetado) e VI, do art. 43.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2057.%20Ao%20construtor%20que%20contratar%2C%20por%20empreitada%20a%20pre%C3%A7o%20fixo%2C%20uma%20obra%20de%20incorpora%C3%A7%C3%A3o%2C%20aplicar-se-%C3%A1%2C%20no%20que%20couber%20o%20disposto%20nos",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "III",
+        "chapter_name": "CAPíTULO III",
+        "section": "II",
+        "section_name": "Seção II"
+      },
+      "prev": "56",
+      "next": "58"
+    },
+    "58": {
+      "numero": "58",
+      "texto": "Art. 58. Nas incorporações em que a construção fôr contratada pelo regime de administração, também chamado \"a preço de custo\", será de responsabilidade dos proprietários ou adquirentes o pagamento do custo integral de obra, observadas as seguintes disposições:\n\nI - tôdas as faturas, duplicatas, recibos e quaisquer documentos referentes às transações ou aquisições para construção, serão emitidos em nome do condomínio dos contratantes da construção;\n\nII - tôdas as contribuições dos condôminos para qualquer fim relacionado com a construção serão depositadas em contas abertas em nome do condomínio dos contratantes em estabelecimentos bancários, as quais, serão movimentadas pela forma que fôr fixada no contrato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2058.%20Nas%20incorpora%C3%A7%C3%B5es%20em%20que%20a%20constru%C3%A7%C3%A3o%20f%C3%B4r%20contratada%20pelo%20regime%20de%20administra%C3%A7%C3%A3o%2C%20tamb%C3%A9m%20chamado%20%22a%20pre%C3%A7o%20de%20custo%22%2C%20ser%C3%A1%20de",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "III",
+        "chapter_name": "CAPíTULO III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "57",
+      "next": "59"
+    },
+    "59": {
+      "numero": "59",
+      "texto": "Art. 59. No regime de construção por administração, será obrigatório constar do respectivo contrato o montante do orçamento do custo da obra, elaborado com estrita observância dos critérios e normas referidos no inciso II, do art. 53 e a data em que se iniciará efetivamente a obra.\n\n§ 1º Nos contratos lavrados até o término das fundações, êste montante não poderá ser inferior ao da estimativa atualizada, a que se refere o § 3º, do art. 54.\n\n§ 2º Nos contratos celebrados após o término das fundações, êste montante não poderá ser inferior à última revisão efetivada na forma do artigo seguinte.\n\n§ 3º As transferências e sub-rogações do contrato, em qualquer fase da obra, aplicar-se-á o disposto neste artigo.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2059.%20No%20regime%20de%20constru%C3%A7%C3%A3o%20por%20administra%C3%A7%C3%A3o%2C%20ser%C3%A1%20obrigat%C3%B3rio%20constar%20do%20respectivo%20contrato%20o%20montante%20do%20or%C3%A7amento%20do%20custo%20da%20obra%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "III",
+        "chapter_name": "CAPíTULO III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "58",
+      "next": "60"
+    },
+    "60": {
+      "numero": "60",
+      "texto": "Art. 60. As revisões da estimativa de custo da obra serão efetuadas, pelo menos semestralmente, em comum entre a Comissão de Representantes e o construtor. O contrato poderá estipular que, em função das necessidades da obra sejam alteráveis os esquemas de contribuições quanto ao total, ao número, ao valor e à distribuição no tempo das prestações.\n\nParágrafo único. Em caso de majoração de prestações, o nôvo esquema deverá ser comunicado aos contratantes, com antecedência mínima de 45 dias da data em que deverão ser efetuados os depósitos das primeiras prestações alteradas.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2060.%20As%20revis%C3%B5es%20da%20estimativa%20de%20custo%20da%20obra%20ser%C3%A3o%20efetuadas%2C%20pelo%20menos%20semestralmente%2C%20em%20comum%20entre%20a%20Comiss%C3%A3o%20de%20Representantes",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "III",
+        "chapter_name": "CAPíTULO III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "59",
+      "next": "61"
+    },
+    "61": {
+      "numero": "61",
+      "texto": "Art. 61. A Comissão de Representantes terá podêres para, em nome de todos os contratantes e na forma prevista no contrato:\n\na) examinar os balancetes organizados pelos construtores, dos recebimentos e despesas do condomínio dos contratantes, aprová-los ou impugná-los, examinando a documentação respectiva;\n\nb) fiscalizar concorrências relativas às compras dos materiais necessários à obra ou aos serviços a ela pertinentes;\n\nc) contratar, em nome do condomínio, com qualquer condômino, modificações por êle solicitadas em sua respectiva unidade, a serem administradas pelo construtor, desde que não prejudiquem unidade de outro condômino e não estejam em desacôrdo com o parecer técnico do construtor;\n\nd) fiscalizar a arrecadação das contribuições destinadas à construção;\n\ne) exercer as demais obrigações inerentes a sua função representativa dos contratantes e fiscalizadora da construção e praticar todos os atos necessários ao funcionamento regular do condomínio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2061.%20A%20Comiss%C3%A3o%20de%20Representantes%20ter%C3%A1%20pod%C3%AAres%20para%2C%20em%20nome%20de%20todos%20os%20contratantes%20e%20na%20forma%20prevista%20no%20contrato%3A",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "III",
+        "chapter_name": "CAPíTULO III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "60",
+      "next": "62"
+    },
+    "62": {
+      "numero": "62",
+      "texto": "Art. 62. Em tôda publicidade ou propaganda escrita destinada a promover a venda de incorporação com construção pelo regime de administração em que conste preço, serão discriminados explìcitamente o preço da fração ideal de terreno e o montante do orçamento atualizado do custo da construção, na forma dos artigos 59 e 60, com a indicação do mês a que se refere o dito orçamento e do tipo padronizado a que se vincule o mesmo.\n\n§ 1º As mesmas indicações deverão constar em todos os papéis utilizados para a realização da incorporação, tais como cartas, propostas, escrituras, contratos e documentos semelhantes.\n\n§ 2º Esta exigência será dispensada nos anúncios \"classificados\" dos jornais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2062.%20Em%20t%C3%B4da%20publicidade%20ou%20propaganda%20escrita%20destinada%20a%20promover%20a%20venda%20de%20incorpora%C3%A7%C3%A3o%20com%20constru%C3%A7%C3%A3o%20pelo%20regime%20de%20administra%C3%A7%C3%A3o%20em",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "III",
+        "chapter_name": "CAPíTULO III",
+        "section": "III",
+        "section_name": "Seção III"
+      },
+      "prev": "61",
+      "next": "63"
+    },
+    "63": {
+      "numero": "63",
+      "texto": "Art. 63. É lícito estipular no contrato, sem prejuízo de outras sanções, que a falta de pagamento, por parte do adquirente ou contratante, de 3 prestações do preço da construção, quer estabelecidas inicialmente, quer alteradas ou criadas posteriormente, quando fôr o caso, depois de prévia notificação com o prazo de 10 dias para purgação da mora, implique na rescisão do contrato, conforme nêle se fixar, ou que, na falta de pagamento, pelo débito respondem os direitos à respectiva fração ideal de terreno e à parte construída adicionada, na forma abaixo estabelecida, se outra forma não fixar o contrato.\n\n§ 1º Se o débito não fôr liquidado no prazo de 10 dias, após solicitação da Comissão de Representantes, esta ficará, desde logo, de pleno direito, autorizada a efetuar, no prazo que fixar, em público leilão anunciado pela forma que o contrato previr, a venda, promessa de venda ou de cessão, ou a cessão da quota de terreno e correspondente parte construída e direitos, bem como a sub-rogação do contrato de construção.\n\n§ 2º Se o maior lanço obtido fôr inferior ao desembôlso efetuado pelo inadimplente, para a quota do terreno e a construção, despesas acarretadas e as percentagens expressas no parágrafo seguinte será realizada nova praça no prazo estipulado no contrato. Nesta segunda praça, será aceito o maior lanço apurado, ainda que inferior àquele total, (VETADO).\n\n§ 3º No prazo de 24 horas após a realização do leilão final, o condomínio, por decisão unânime de Assembléia-Geral em condições de igualdade com terceiros, terá preferência na aquisição dos bens, caso em que serão adjudicados ao condomínio.\n\n§ 4º Do preço que fôr apurado no leilão, serão deduzidas as quantias em débito, tôdas as despesas ocorridas, inclusive honorário de advogado e anúncios, e mais 5% a título de comissão e 10% de multa compensatória, que reverterão em benefício do condomínio de todos os contratantes, com exceção do faltoso, ao qual será entregue o saldo, se houver.\n\n§ 5º Para os fins das medidas estipuladas neste artigo, a Comissão de Representantes ficará investida de mandato irrevogável, isento do impôsto do sêlo, na vigência do contrato geral de construção da obra, com podêres necessários para, em nome do condômino inadimplente, efetuar as citadas transações, podendo para êste fim fixar preços, ajustar condições, sub-rogar o arrematante nos direitos e obrigações decorrentes do contrato de construção e da quota de terreno e construção; outorgar as competentes escrituras e contratos, receber preços, dar quitações; imitir o arrematante na posse do imóvel; transmitir domínio, direito e ação; responder pela evicção; receber citação, propor e variar de ações; e também dos podêres ad juditia, a serem substabelecidos a advogado lealmente habilitado;\n\n§ 6º A morte, falência ou concordata do condomínio ou sua dissolução, se se tratar de sociedade, não revogará o mandato de que trata o parágrafo anterior, o qual poderá ser exercido pela Comissão de Representantes até a conclusão dos pagamentos devidos, ainda que a unidade pertença a menor de idade.\n\n§ 7º Os eventuais débitos fiscais ou para com a Previdência Social, não impedirão a alienação por leilão público. Neste caso, ao condômino sòmente será entregue o saldo, se houver, desde que prove estar quite com o Fisco e a Previdência Social, devendo a Comissão de Representantes, em caso contrário, consignar judicialmente a importância equivalente aos débitos existentes dando ciência do fato à entidade credora.\n\n§ 8º Independentemente das disposições dêste artigo e seus parágrafos, e como penalidades preliminares, poderá o contrato de construção estabelecer a incidência de multas e juros de mora em caso de atraso no depósito de contribuições sem prejuízo do disposto no parágrafo seguinte.\n\n§ 9º O contrato poderá dispor que o valor das prestações pagas com atraso, seja corrigível em função da variação do índice geral de preços mensalmente publicado pelo Conselho Nacional de Economia, que reflita as oscilações do poder aquisitivo da moeda nacional.\n\n§ 10. O membro da Comissão de Representantes que incorrer na falta prevista neste artigo, estará sujeito à perda automática do mandato e deverá ser substituído segundo dispuser o contrato.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2063.%20%C3%89%20l%C3%ADcito%20estipular%20no%20contrato%2C%20sem%20preju%C3%ADzo%20de%20outras%20san%C3%A7%C3%B5es%2C%20que%20a%20falta%20de%20pagamento%2C%20por%20parte%20do%20adquirente%20ou",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "IV",
+        "chapter_name": "CAPíTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "62",
+      "next": "64"
+    },
+    "64": {
+      "numero": "64",
+      "texto": "Art. 64. Os órgãos de informação e publicidade que divulgarem publicamente sem os requisitos exigidos pelo § 3º do artigo 32 e pelos artigos 56 e 62, desta Lei, sujeitar-se-ão à multa em importância correspondente ao dôbro do preço pago pelo anunciante, a qual reverterá em favor da respectiva Municipalidade.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2064.%20Os%20%C3%B3rg%C3%A3os%20de%20informa%C3%A7%C3%A3o%20e%20publicidade%20que%20divulgarem%20publicamente%20sem%20os%20requisitos%20exigidos%20pelo%20%C2%A7%203%C2%BA%20do%20artigo%2032%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "IV",
+        "chapter_name": "CAPíTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "63",
+      "next": "65"
+    },
+    "65": {
+      "numero": "65",
+      "texto": "Art. 65. É crime contra a economia popular promover incorporação, fazendo, em proposta, contratos, prospectos ou comunicação ao público ou aos interessados, afirmação falsa sôbre a construção do condomínio, alienação das frações ideais do terreno ou sôbre a construção das edificações.\n\nPENA - reclusão de um a quatro anos e multa de cinco a cinqüenta vêzes o maior salário-mínimo legal vigente no País.\n\n§ 1º lncorrem na mesma pena:\n\nI - o incorporador, o corretor e o construtor, individuais bem como os diretores ou gerentes de emprêsa coletiva incorporadora, corretora ou construtora que, em proposta, contrato, publicidade, prospecto, relatório, parecer, balanço ou comunicação ao público ou aos condôminos, candidatos ou subscritores de unidades, fizerem afirmação falsa sôbre a constituição do condomínio, alienação das frações ideais ou sôbre a construção das edificações;\n\nII - o incorporador, o corretor e o construtor individuais, bem como os diretores ou gerentes de emprêsa coletiva, incorporadora, corretora ou construtora que usar, ainda que a título de empréstimo, em proveito próprio ou de terceiros, bens ou haveres destinados a incorporação contratada por administração, sem prévia autorização dos interessados.\n\n§ 2º O julgamento dêstes crimes será de competência de Juízo singular, aplicando-se os artigos 5º, 6º e 7º da Lei nº 1.521, de 26 de dezembro de 1951.\n\n§ 3º Em qualquer fase do procedimento criminal objeto dêste artigo, a prisão do indicado dependerá sempre de mandado do Juízo referido no § 2º. (Incluído pela Lei nº 4.864, de 29.11.1965)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2065.%20%C3%89%20crime%20contra%20a%20economia%20popular%20promover%20incorpora%C3%A7%C3%A3o%2C%20fazendo%2C%20em%20proposta%2C%20contratos%2C%20prospectos%20ou%20comunica%C3%A7%C3%A3o%20ao%20p%C3%BAblico%20ou%20aos%20interessados%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "IV",
+        "chapter_name": "CAPíTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "64",
+      "next": "66"
+    },
+    "66": {
+      "numero": "66",
+      "texto": "Art. 66. São contravenções relativas à economia popular, puníveis na forma do artigo 10 da Lei nº 1.521, de 26 de dezembro de 1951:\n\nI - negociar o incorporador frações ideais de terreno, sem préviamente satisfazer às exigências constantes desta Lei;\n\nlI - omitir o incorporador, em qualquer documento de ajuste, as indicações a que se referem os artigos 37 e 38, desta Lei;\n\nIII - deixar o incorporador, sem justa causa, no prazo do artigo 35 e ressalvada a hipótese de seus § § 2º e 3º, de promover a celebração do contrato relativo à fração ideal de terreno, do contrato de construção ou da Convenção do condomínio;\n\nIV - (VETADO).\n\nV - omitir o incorporador, no contrato, a indicação a que se refere o § 5º do artigo 55, desta Lei;\n\nVI - paralisar o incorporador a obra, por mais de 30 dias, ou retardar-lhe excessivamente o andamento sem justa causa.\n\nPENA - Multa de 5 a 20 vêzes o maior salário-mínimo legal vigente no País.\n\nParágrafo único. No caso de contratos relativos a incorporações, de que não participe o incorporador, responderão solidàriamente pelas faltas capituladas neste artigo o construtor, o corretor, o proprietário ou titular de direitos aquisitivos do terreno, desde que figurem no contrato, com direito regressivo sôbre o incorporador, se as faltas cometidas lhe forem imputáveis.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2066.%20S%C3%A3o%20contraven%C3%A7%C3%B5es%20relativas%20%C3%A0%20economia%20popular%2C%20pun%C3%ADveis%20na%20forma%20do%20artigo%2010%20da%20Lei%20n%C2%BA%201.521%2C%20de%2026%20de%20dezembro",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "IV",
+        "chapter_name": "CAPíTULO IV",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "65",
+      "next": "67"
+    },
+    "67": {
+      "numero": "67",
+      "texto": "Art. 67. Os contrato poderão consignar exclusivamente às cláusulas, têrmo ou condições variáveis ou específicas.\n\n§ 1º As cláusulas comuns a todos os adquirentes não precisarão figurar expressamente nos respectivos contratos.\n\n§ 2º Os contratos no entanto, consignarão obrigatoriamente que as partes contratantes, adotem e se comprometam a cumprir as cláusulas, têrmos e condições contratuais a que se refere o parágrafo anterior, sempre transcritas, verbo ad verbum no respectivo cartório ou ofício, mencionando, inclusive, o número do livro e das fôlhas do competente registro.\n\n§ 3º Aos adquirentes, ao receberem os respectivos instrumentos, será obrigatòriamente entregue cópia impressa ou mimeografada, autenticada, do contrato-padrão, contendo as cláusuIas, têrmos e condições referidas no § 1º dêste artigo.\n\n§ 4º Os cartórios de Registro de Imóveis, para os devidos efeitos, receberão dos incorporadores, autenticadamente, o instrumento a que se refere o parágrafo anterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2067.%20Os%20contrato%20poder%C3%A3o%20consignar%20exclusivamente%20%C3%A0s%20cl%C3%A1usulas%2C%20t%C3%AArmo%20ou%20condi%C3%A7%C3%B5es%20vari%C3%A1veis%20ou%20espec%C3%ADficas.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "66",
+      "next": "67-A"
+    },
+    "67-A": {
+      "numero": "67-A",
+      "texto": "Art. 67-A. Em caso de desfazimento do contrato celebrado exclusivamente com o incorporador, mediante distrato ou resolução por inadimplemento absoluto de obrigação do adquirente, este fará jus à restituição das quantias que houver pago diretamente ao incorporador, atualizadas com base no índice contratualmente estabelecido para a correção monetária das parcelas do preço do imóvel, delas deduzidas, cumulativamente: (Incluído pela Lei nº 13.786, de 2018)\n\nI - a integralidade da comissão de corretagem; (Incluído pela Lei nº 13.786, de 2018)\n\nII - a pena convencional, que não poderá exceder a 25% (vinte e cinco por cento) da quantia paga. (Incluído pela Lei nº 13.786, de 2018)\n\n§ 1º Para exigir a pena convencional, não é necessário que o incorporador alegue prejuízo. (Incluído pela Lei nº 13.786, de 2018)\n\n§ 2º Em função do período em que teve disponibilizada a unidade imobiliária, responde ainda o adquirente, em caso de resolução ou de distrato, sem prejuízo do disposto no caput e no § 1º deste artigo, pelos seguintes valores: (Incluído pela Lei nº 13.786, de 2018)\n\nI - quantias correspondentes aos impostos reais incidentes sobre o imóvel; (Incluído pela Lei nº 13.786, de 2018)\n\nII - cotas de condomínio e contribuições devidas a associações de moradores; (Incluído pela Lei nº 13.786, de 2018)\n\nIII - valor correspondente à fruição do imóvel, equivalente à 0,5% (cinco décimos por cento) sobre o valor atualizado do contrato, pro rata die; (Incluído pela Lei nº 13.786, de 2018)\n\nIV - demais encargos incidentes sobre o imóvel e despesas previstas no contrato. (Incluído pela Lei nº 13.786, de 2018)\n\n§ 3º Os débitos do adquirente correspondentes às deduções de que trata o § 2º deste artigo poderão ser pagos mediante compensação com a quantia a ser restituída. (Incluído pela Lei nº 13.786, de 2018)\n\n§ 4º Os descontos e as retenções de que trata este artigo, após o desfazimento do contrato, estão limitados aos valores efetivamente pagos pelo adquirente, salvo em relação às quantias relativas à fruição do imóvel. (Incluído pela Lei nº 13.786, de 2018)\n\n§ 5º Quando a incorporação estiver submetida ao regime do patrimônio de afetação, de que tratam os arts. 31-A a 31-F desta Lei, o incorporador restituirá os valores pagos pelo adquirente, deduzidos os valores descritos neste artigo e atualizados com base no índice contratualmente estabelecido para a correção monetária das parcelas do preço do imóvel, no prazo máximo de 30 (trinta) dias após o habite-se ou documento equivalente expedido pelo órgão público municipal competente, admitindo­se, nessa hipótese, que a pena referida no inciso II do caput deste artigo seja estabelecida até o limite de 50% (cinquenta por cento) da quantia paga. (Incluído pela Lei nº 13.786, de 2018)\n\n§ 6º Caso a incorporação não esteja submetida ao regime do patrimônio de afetação de que trata a Lei nº 10.931, de 2 de agosto de 2004, e após as deduções a que se referem os parágrafos anteriores, se houver remanescente a ser ressarcido ao adquirente, o pagamento será realizado em parcela única, após o prazo de 180 (cento e oitenta) dias, contado da data do desfazimento do contrato. (Incluído pela Lei nº 13.786, de 2018)\n\n§ 7º Caso ocorra a revenda da unidade antes de transcorrido o prazo a que se referem os §§ 5º ou 6º deste artigo, o valor remanescente devido ao adquirente será pago em até 30 (trinta) dias da revenda. (Incluído pela Lei nº 13.786, de 2018)\n\n§ 8º O valor remanescente a ser pago ao adquirente nos termos do § 7º deste artigo deve ser atualizado com base no índice contratualmente estabelecido para a correção monetária das parcelas do preço do imóvel. (Incluído pela Lei nº 13.786, de 2018)\n\n§ 9º Não incidirá a cláusula penal contratualmente prevista na hipótese de o adquirente que der causa ao desfazimento do contrato encontrar comprador substituto que o sub-rogue nos direitos e obrigações originalmente assumidos, desde que haja a devida anuência do incorporador e a aprovação dos cadastros e da capacidade financeira e econômica do comprador substituto. (Incluído pela Lei nº 13.786, de 2018)\n\n§ 10. Os contratos firmados em estandes de vendas e fora da sede do incorporador permitem ao adquirente o exercício do direito de arrependimento, durante o prazo improrrogável de 7 (sete) dias, com a devolução de todos os valores eventualmente antecipados, inclusive a comissão de corretagem. (Incluído pela Lei nº 13.786, de 2018)\n\n§ 11. Caberá ao adquirente demonstrar o exercício tempestivo do direito de arrependimento por meio de carta registrada, com aviso de recebimento, considerada a data da postagem como data inicial da contagem do prazo a que se refere o § 10 deste artigo. (Incluído pela Lei nº 13.786, de 2018)\n\n§ 12. Transcorrido o prazo de 7 (sete) dias a que se refere o § 10 deste artigo sem que tenha sido exercido o direito de arrependimento, será observada a irretratabilidade do contrato de incorporação imobiliária, conforme disposto no § 2º do art. 32 da Lei nº 4.591, de 16 de dezembro de 1964. (Incluído pela Lei nº 13.786, de 2018)\n\n§ 13. Poderão as partes, em comum acordo, por meio de instrumento específico de distrato, definir condições diferenciadas das previstas nesta Lei. (Incluído pela Lei nº 13.786, de 2018)\n\n§ 14. Nas hipóteses de leilão de imóvel objeto de contrato de compra e venda com pagamento parcelado, com ou sem garantia real, de promessa de compra e venda ou de cessão e de compra e venda com pacto adjeto de alienação fiduciária em garantia, realizado o leilão no contexto de execução judicial ou de procedimento extrajudicial de execução ou de resolução, a restituição far-se-á de acordo com os critérios estabelecidos na respectiva lei especial ou com as normas aplicáveis à execução em geral. (Incluído pela Lei nº 13.786, de 2018)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2067-A.%20Em%20caso%20de%20desfazimento%20do%20contrato%20celebrado%20exclusivamente%20com%20o%20incorporador%2C%20mediante%20distrato%20ou%20resolu%C3%A7%C3%A3o%20por%20inadimplemento%20absoluto%20de%20obriga%C3%A7%C3%A3o",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "67",
+      "next": "68"
+    },
+    "68": {
+      "numero": "68",
+      "texto": "Art. 68. A atividade de alienação de lotes integrantes de desmembramento ou loteamento, quando vinculada à construção de casas isoladas ou geminadas, promovida por uma das pessoas indicadas no art. 31 desta Lei ou no art. 2º-A da Lei nº 6.766, de 19 de dezembro de 1979, caracteriza incorporação imobiliária sujeita ao regime jurídico instituído por esta Lei e às demais normas legais a ele aplicáveis. (Redação dada pela Lei nº 14.382, de 2022)\n\n§ 1º A modalidade de incorporação de que trata este artigo poderá abranger a totalidade ou apenas parte dos lotes integrantes do parcelamento, ainda que sem área comum, e não sujeita o conjunto imobiliário dela resultante ao regime do condomínio edilício, permanecendo as vias e as áreas por ele abrangidas sob domínio público. (Incluído pela Lei nº 14.382, de 2022)\n\n§ 2º O memorial de incorporação do empreendimento indicará a metragem de cada lote e da área de construção de cada casa, dispensada a apresentação dos documentos referidos nas alíneas e, i, j, l e n do caput do art. 32 desta Lei. (Incluído pela Lei nº 14.382, de 2022)\n\n§ 3º A incorporação será registrada na matrícula de origem em que tiver sido registrado o parcelamento, na qual serão também assentados o respectivo termo de afetação de que tratam o art. 31-B desta Lei e o art. 2º da Lei nº 10.931, de 2 de agosto de 2004, e os demais atos correspondentes à incorporação. (Incluído pela Lei nº 14.382, de 2022)\n\n§ 4º Após o registro do memorial de incorporação, e até a emissão da carta de habite-se do conjunto imobiliário, as averbações e os registros correspondentes aos atos e negócios relativos ao empreendimento sujeitam-se às normas do art. 237-A da Lei nº 6.015, de 31 de dezembro de 1973 (Lei de Registros Públicos). (Incluído pela Lei nº 14.382, de 2022)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2068.%20A%20atividade%20de%20aliena%C3%A7%C3%A3o%20de%20lotes%20integrantes%20de%20desmembramento%20ou%20loteamento%2C%20quando%20vinculada%20%C3%A0%20constru%C3%A7%C3%A3o%20de%20casas%20isoladas%20ou%20geminadas%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "67-A",
+      "next": "69"
+    },
+    "69": {
+      "numero": "69",
+      "texto": "Art. 69. O Poder Executivo baixará, no prazo de 90 dias, regulamento sôbre o registro no Registro de Imóveis (VETADO).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2069.%20O%20Poder%20Executivo%20baixar%C3%A1%2C%20no%20prazo%20de%2090%20dias%2C%20regulamento%20s%C3%B4bre%20o%20registro%20no%20Registro%20de%20Im%C3%B3veis%20%28VETADO%29.",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "68",
+      "next": "70"
+    },
+    "70": {
+      "numero": "70",
+      "texto": "Art. 70. A presente lei entrará em vigor na data de sua publicação, revogados o Decreto nº 5.481, de 25 de junho de 1928 e quaisquer disposições em contrário.\n\nBrasília, 16 de dezembro de 1964; 143º da Independência e 76º da República.\n\nH. CASTELLO BRANCO Milton Soares Campos\n\nEste texto não substitui o publicado no DOU de 21.12.1964\n\n*",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm#:~:text=Art.%2070.%20A%20presente%20lei%20entrar%C3%A1%20em%20vigor%20na%20data%20de%20sua%20publica%C3%A7%C3%A3o%2C%20revogados%20o%20Decreto%20n%C2%BA%205.481%2C%20de%2025%20de%20junho",
+      "keywords": [],
+      "hierarchy": {
+        "title": "II",
+        "title_name": "Título II",
+        "chapter": "V",
+        "chapter_name": "CAPÍTULO V",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "69",
+      "next": null
+    }
+  }
+}

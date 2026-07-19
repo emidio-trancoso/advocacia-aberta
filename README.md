@@ -25,6 +25,7 @@ O projeto nasce de ativos operacionais, não apenas de uma proposta:
 | Teses | 3.508 registros de Jurisprudência em Teses do STJ, em 283 edições |
 | Temas | 1.462 temas repetitivos do STJ e 1.470 temas de repercussão geral do STF |
 | Informativo | 11.567 julgados resumidos do Informativo STF, em 1.211 edições |
+| Espelhos de acórdãos | 11.133 acórdãos selecionados do STJ (Corte Especial e Seções), com ementa e tese |
 | Protocolos | 10 skills para organizar, transcrever, diagnosticar, pesquisar, redigir, revisar e diagramar |
 | Motores | Vade Mecum para busca jurídica local, busca no TJPR, transcrição e processamento de documentos |
 | Adaptadores | Compatibilidade com Claude Code e Codex, sem duplicar a regra jurídica |

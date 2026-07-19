@@ -18,6 +18,7 @@
     "temas_repetitivos": 0.8,
     "temas_rg_stf": 0.7,
     "informativo_stf": 0.7,
+    "espelhos_stj": 0.7,
     "legislacao": 0.8
   },
   "casos": [
@@ -1542,6 +1543,56 @@
         "INF_0845_005"
       ],
       "justificativa": "Julgados do Informativo sobre o princípio da insignificância no direito penal (pesca ilegal, reincidência e crime qualificado); um julgado previdenciário que casou apenas por 'princípio' foi excluído."
+    },
+    {
+      "id": "esp-honorarios-equidade",
+      "grupo": "espelhos_stj",
+      "consulta": "ART. 85 CPC honorários apreciação equitativa proveito econômico",
+      "filtro": {},
+      "relevantes": [
+        "ESP:000816126",
+        "ESP:000816127",
+        "ESP:000816128",
+        "ESP:000816129",
+        "ESP:000816130"
+      ],
+      "obrigatorios": [
+        "ESP:000816127"
+      ],
+      "justificativa": "Espelhos da Corte Especial sobre a fixação de honorários por apreciação equitativa e os limites do art. 85 do CPC (Tema Repetitivo 1076); todos são o mesmo acórdão paradigma."
+    },
+    {
+      "id": "esp-juros-selic-repeticao-indebito",
+      "grupo": "espelhos_stj",
+      "consulta": "incidência de imposto de renda sobre juros SELIC na repetição de indébito tributário",
+      "filtro": {},
+      "relevantes": [
+        "ESP:000876588",
+        "ESP:000876589",
+        "ESP:000876591",
+        "ESP:000876593",
+        "ESP:000876594"
+      ],
+      "obrigatorios": [
+        "ESP:000876588"
+      ],
+      "justificativa": "Espelhos da Primeira Seção sobre a incidência de IRPJ/CSLL sobre os juros pela taxa SELIC recebidos na repetição de indébito tributário (mesmo acórdão paradigma)."
+    },
+    {
+      "id": "esp-tust-tusd-icms",
+      "grupo": "espelhos_stj",
+      "consulta": "TUST TUSD tarifa de uso do sistema de transmissão distribuição ICMS",
+      "filtro": {},
+      "relevantes": [
+        "ESP:000874100",
+        "ESP:000874101",
+        "ESP:000874102",
+        "ESP:000874103"
+      ],
+      "obrigatorios": [
+        "ESP:000874100"
+      ],
+      "justificativa": "Espelhos da Primeira Seção sobre a inclusão da TUST/TUSD na base de cálculo do ICMS na energia elétrica (Tema 986); o espelho sobre exclusão de benefícios fiscais de ICMS da base do IRPJ/CSLL, tema diverso, foi excluído."
     }
   ]
 }

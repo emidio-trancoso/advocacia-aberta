@@ -287,6 +287,32 @@ def auditar() -> dict[str, Any]:
             "A licença de reprodução do Informativo não está registrada na proveniência.",
         )
 
+    espelhos_raw = carregar(DATA / "espelhos_stj.json")
+    espelhos = espelhos_raw.get("espelhos", {})
+    meta_espelhos = espelhos_raw.get("_meta", {})
+    espelhos_sem_link = [
+        chave for chave, item in espelhos.items() if not item.get("links")
+    ]
+    orgaos_espelhos = {item.get("orgao") for item in espelhos.values()}
+    if len(espelhos) != meta_espelhos.get("totalEspelhos"):
+        registrar(
+            "P1",
+            "CONTAGEM_ESPELHOS",
+            "A quantidade de espelhos de acórdãos diverge do metadado.",
+        )
+    if espelhos_sem_link:
+        registrar(
+            "P0",
+            "URL_ESPELHOS",
+            f"{len(espelhos_sem_link)} espelhos de acórdãos não têm link oficial.",
+        )
+    if caminhos_absolutos(meta_espelhos):
+        registrar(
+            "P1",
+            "CAMINHO_LOCAL",
+            "Metadados de espelhos contêm caminhos absolutos do computador de origem.",
+        )
+
     legislacao_ts = (MOTOR / "src" / "search" / "legislacao.ts").read_text(
         encoding="utf-8"
     )
@@ -391,6 +417,12 @@ def auditar() -> dict[str, Any]:
             "export function formatInformativo",
             ("item.links",),
         ),
+        (
+            "ESPELHOS",
+            MOTOR / "src" / "search" / "espelhos_stj.ts",
+            "export function formatEspelho",
+            ("item.links",),
+        ),
     )
     for conjunto, path, marcador, referencias in formatadores:
         fonte = path.read_text(encoding="utf-8")
@@ -414,6 +446,7 @@ def auditar() -> dict[str, Any]:
             "src/search/temas.ts",
             "src/search/temas_rg_stf.ts",
             "src/search/informativo_stf.ts",
+            "src/search/espelhos_stj.ts",
         )
     )
     rotulos_ambiguos = (
@@ -498,6 +531,14 @@ def auditar() -> dict[str, Any]:
                 "licenca_registrada": bool(
                     (meta_informativo.get("source") or {}).get("license")
                 ),
+            },
+            "espelhos_stj": {
+                "arquivo": "espelhos_stj.json",
+                "gerado_em": meta_espelhos.get("generatedAt"),
+                "espelhos": len(espelhos),
+                "orgaos": len(orgaos_espelhos),
+                "espelhos_com_link": len(espelhos) - len(espelhos_sem_link),
+                "espelhos_com_tese": meta_espelhos.get("espelhosComTese"),
             },
             "motor_legislacao": {
                 "codigos_declarados": sorted(declarados),

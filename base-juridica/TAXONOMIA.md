@@ -18,6 +18,7 @@ não se torna fonte jurídica porque aponta para documentos oficiais.
 | `ENUNCIADO SUMULAR` | síntese jurisprudencial aprovada por tribunal | vinculação automática; somente a súmula vinculante recebe esse efeito constitucional |
 | `PRECEDENTE` | decisão judicial da qual se extrai uma razão determinante | qualquer resumo, ficha ou resultado de busca |
 | `REGISTRO DE PRECEDENTE QUALIFICADO` | ficha de tema repetitivo com situação, questão, tese e links | o inteiro teor do acórdão ou tese obrigatória já estabilizada em todo estado possível |
+| `ESPELHO DE ACÓRDÃO` | ficha de acórdão selecionado pela Secretaria de Jurisprudência do STJ, com ementa, tese, referências e links | vinculação automática; um acórdão isolado não vincula por si só |
 | `COMPILAÇÃO INSTITUCIONAL` | publicação produzida por órgão oficial a partir de julgados, como Jurisprudência em Teses | decisão judicial autônoma ou efeito vinculante próprio |
 | `ÍNDICE DERIVADO` | palavras-chave, termos e relações produzidos para recuperação | fonte jurídica ou fundamento autônomo |
 
@@ -63,6 +64,7 @@ aplicabilidade no link oficial.
 | Informativo STF | `COMPILAÇÃO INSTITUCIONAL` | `FONTE OFICIAL` — STF | `NÃO VINCULANTE POR SI SÓ` |
 | Tema repetitivo | `REGISTRO DE PRECEDENTE QUALIFICADO` | `FONTE OFICIAL` — STJ | derivado da situação e da presença de tese |
 | Tema de repercussão geral (STF) | `REGISTRO DE PRECEDENTE QUALIFICADO` | `FONTE OFICIAL` — STF | derivado da situação e da presença de tese; observância obrigatória (art. 927, III, do CPC) quando o mérito foi julgado |
+| Espelho de acórdão (STJ) | `ESPELHO DE ACÓRDÃO` | `FONTE OFICIAL` — STJ | `NÃO VINCULANTE POR SI SÓ`; confira eventual tese qualificada |
 | Keywords e termos | `ÍNDICE DERIVADO` | processo registrado no manifesto | nenhum |
 
 ## Referências oficiais e verificação

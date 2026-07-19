@@ -13,6 +13,7 @@ import {
 import { buscarTemas, formatTema } from "./temas.js";
 import { buscarTemasRG, formatTemaRG } from "./temas_rg_stf.js";
 import { buscarInformativos, formatInformativo } from "./informativo_stf.js";
+import { buscarEspelhos, formatEspelho } from "./espelhos_stj.js";
 
 describe("rastreabilidade dos formatadores", () => {
   test("inclui a fonte oficial da legislação", () => {
@@ -79,6 +80,22 @@ describe("rastreabilidade dos formatadores", () => {
     expect(formatado).toContain(item.links.edicao!);
     expect(formatado).toContain(FONTE_OFICIAL);
     expect(formatado).toContain(NATUREZAS_DOCUMENTAIS.compilacaoInstitucional);
+    expect(formatado).toContain("NÃO VINCULANTE POR SI SÓ");
+  });
+
+  test("inclui os links oficiais disponíveis do espelho de acórdão", () => {
+    const item = buscarEspelhos("honorários apreciação equitativa", 1)[0];
+    expect(item).toBeDefined();
+
+    const links = Object.values(item.links).filter(
+      (url): url is string => Boolean(url),
+    );
+    expect(links.length).toBeGreaterThan(0);
+
+    const formatado = formatEspelho(item);
+    for (const url of links) expect(formatado).toContain(url);
+    expect(formatado).toContain(FONTE_OFICIAL);
+    expect(formatado).toContain(NATUREZAS_DOCUMENTAIS.espelhoDeAcordao);
     expect(formatado).toContain("NÃO VINCULANTE POR SI SÓ");
   });
 });

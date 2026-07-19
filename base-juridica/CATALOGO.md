@@ -32,8 +32,9 @@ python3 ferramentas/manutencao/auditar_base_juridica.py --json
 | Temas repetitivos | 1 | 1.462 temas | STJ |
 | Temas de repercussão geral | 1 | 1.470 temas | STF |
 | Informativo STF | 1 | 11.567 julgados | 1.211 edições do STF |
+| Espelhos de acórdãos | 1 | 11.133 acórdãos | Corte Especial e 3 Seções do STJ |
 | Índices auxiliares | 275 exclusivos (2 de súmulas, 273 de legislação em `indices/`) + índices embutidos | derivados | palavras-chave e termos de busca |
-| Total em JSON | 555 | — | 62.111.660 bytes, cerca de 62 MB |
+| Total em JSON | 556 | — | 95.708.033 bytes, cerca de 96 MB |
 
 Os números acima foram contados diretamente nos JSONs. `gerado_em` e `generatedAt`
 indicam geração do arquivo, não garantem a data de vigência do conteúdo.
@@ -339,6 +340,36 @@ oficial da edição. A licença de reprodução declarada pelo STF ("Permite-se 
 reprodução desta publicação, no todo ou em parte, sem alteração do conteúdo, desde
 que citada a fonte.") está registrada na proveniência do snapshot.
 
+## Espelhos de acórdãos do STJ
+
+| Campo | Valor observado |
+|---|---:|
+| Arquivo | `espelhos_stj.json` |
+| Gerado em | 2026-07-19 |
+| Acórdãos | 11.133 |
+| Órgãos | Corte Especial e 1ª, 2ª e 3ª Seções |
+| Acórdãos com tese registrada | 588 |
+
+O `BASE-026` incorporou os espelhos de acórdãos do STJ — fichas de acórdãos
+selecionados pela Secretaria de Jurisprudência por trazerem "novidades quanto a
+teses jurídicas". O snapshot vem do pipeline reproduzível a partir do Portal de
+Dados Abertos do STJ (CKAN): merge incremental dos JSONs mensais (AAAAMMDD.json)
+de cada órgão, por `id` do documento. A detecção de mudança usa o
+`metadata_modified` do CKAN, como nos temas repetitivos.
+
+**Escopo — órgãos uniformizadores.** Foram capturados apenas os órgãos que
+uniformizam a jurisprudência do STJ (Corte Especial e as três Seções); as seis
+Turmas ficaram de fora por volume (os dez órgãos somam ~132 mil acórdãos e ~120
+MB sem ementa, contra ~11 mil e ~33 MB dos uniformizadores). Cada acórdão guarda
+a **ementa** (o conteúdo que sustenta a busca — 100% preenchida), a tese e o tema
+quando existirem, as referências legislativas e a jurisprudência citada, além de
+classe, relator, órgão, data e os links oficiais de consulta processual e de
+jurisprudência. O inteiro teor e o histórico pré-2022 (recursos ZIP) ficam no
+link oficial. A busca usa um índice textual em memória sobre esses campos,
+cobrindo os 11.133 acórdãos. Um mês sem lançamentos que a fonte publicou como
+JSON malformado (`segunda-secao/20240229.json`) foi ignorado e registrado na
+proveniência, sem truncar cobertura em silêncio.
+
 ## Rastreabilidade entregue pelo motor
 
 Os dados guardam links oficiais e, desde a conclusão do `BASE-001`, o motor os
@@ -352,10 +383,12 @@ preserva na saída formatada:
 | Tema repetitivo | sim | sim; inclui todos os links disponíveis no registro |
 | Tema de repercussão geral | sim | sim; inclui todos os links disponíveis no registro |
 | Informativo STF | sim | sim; inclui o link oficial da edição |
+| Espelho de acórdão | sim | sim; inclui os links de consulta processual e jurisprudência |
 
-Sete testes de regressão cobrem os três ramos de súmulas, Jurisprudência em Teses,
-temas repetitivos, temas de repercussão geral e o Informativo STF. O auditor também
-verifica estaticamente que os formatadores continuam usando os campos de URL.
+Oito testes de regressão cobrem os três ramos de súmulas, Jurisprudência em Teses,
+temas repetitivos, temas de repercussão geral, o Informativo STF e os espelhos de
+acórdãos. O auditor também verifica estaticamente que os formatadores continuam
+usando os campos de URL.
 
 ## Atualização e reprodutibilidade
 
@@ -392,6 +425,8 @@ proveniência e efeito jurídico. O vocabulário e as regras estão documentados
   vinculação por si só;
 - temas repetitivos do STJ e temas de repercussão geral do STF são registros de
   precedentes qualificados, e o efeito varia conforme situação e presença de tese;
+- espelhos de acórdãos são fichas de acórdãos selecionados pelo STJ; um acórdão
+  isolado não é vinculante por si só;
 - palavras-chave e termos são índices derivados, sem força jurídica.
 
 ## Resultado da auditoria

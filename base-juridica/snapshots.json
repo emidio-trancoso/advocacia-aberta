@@ -3,6 +3,14 @@
   "schema_version": 1,
   "descricao": "Manifesto de versões dos snapshots publicados: versão, SHA-256, data de geração, contagem e resumo das mudanças promovidas (BASE-013).",
   "arquivos": {
+    "espelhos_stj.json": {
+      "versao": 2,
+      "sha256": "7bcc40e68c6dd26f3604e179b579c58faba71b6f49fe8d0d4bc8d6c01ab3f8e1",
+      "gerado_em": "2026-07-19T05:19:01+00:00",
+      "registros": 11133,
+      "colecao": "espelhos",
+      "mudancas": null
+    },
     "flash_temas_stj.json": {
       "versao": 1,
       "sha256": "5e996897f2d600974827c8e26915fbcd4f0a17ef14f380e3f77241c1a2b3ccdb",

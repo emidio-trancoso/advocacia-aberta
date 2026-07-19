@@ -31,6 +31,12 @@ import {
   TOTAL_INFORMATIVOS_STF,
 } from "./search/informativo_stf.js";
 import {
+  buscarEspelhos,
+  formatEspelho,
+  TOTAL_ESPELHOS_STJ,
+  TOTAL_ORGAOS_ESPELHOS,
+} from "./search/espelhos_stj.js";
+import {
   buscarLegislacao,
   CODIGOS_DISPONIVEIS,
   formatArtigo,
@@ -197,6 +203,32 @@ Use para localizar um julgado do STF por tema e chegar ao texto oficial da ediç
       },
     },
     {
+      name: "buscar_espelho",
+      description: `Busca espelhos de acórdãos do STJ (${formatarNumero(TOTAL_ESPELHOS_STJ)} acórdãos de ${formatarNumero(TOTAL_ORGAOS_ESPELHOS)} órgãos, desde 2022).
+
+Espelhos são fichas de acórdãos selecionados pela Secretaria de Jurisprudência do STJ por trazerem novidades quanto a teses jurídicas.
+Um acórdão isolado não é vinculante por si só; confira o inteiro teor no link oficial e verifique se há tese qualificada (tema repetitivo). A ementa completa fica no link.
+
+Aceita busca por palavras-chave (tese, ramo, classe) ou por número de registro.
+
+Use para localizar precedentes recentes do STJ por tema e chegar ao acórdão oficial.`,
+      inputSchema: {
+        type: "object",
+        properties: {
+          query: {
+            type: "string",
+            description: "Palavras-chave (ex: 'honorários apreciação equitativa') ou número de registro do processo.",
+          },
+          limit: {
+            type: "number",
+            description: "Máximo de resultados. Default: 5.",
+            default: 5,
+          },
+        },
+        required: ["query"],
+      },
+    },
+    {
       name: "buscar_legislacao",
       description: `Busca artigos em ${legislacoes.length} diplomas da legislação brasileira.
 
@@ -296,6 +328,18 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
       return { content: [{ type: "text", text: `Nenhum julgado do Informativo encontrado para: "${query}"` }] };
     }
     const text = results.map(formatInformativo).join("\n---\n\n");
+    return { content: [{ type: "text", text }] };
+  }
+
+  if (name === "buscar_espelho") {
+    const query = String(args?.query ?? "");
+    const limit = Number(args?.limit ?? 5);
+
+    const results = buscarEspelhos(query, limit);
+    if (results.length === 0) {
+      return { content: [{ type: "text", text: `Nenhum espelho de acórdão encontrado para: "${query}"` }] };
+    }
+    const text = results.map(formatEspelho).join("\n---\n\n");
     return { content: [{ type: "text", text }] };
   }
 

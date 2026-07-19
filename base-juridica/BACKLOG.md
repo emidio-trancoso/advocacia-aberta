@@ -50,6 +50,8 @@ Nenhum item deve ser encerrado apenas porque a saída “parece correta”.
 | `BASE-023` | Decisões de controle concentrado do STF (ADI/ADC/ADO/ADPF) são Qlik-locked por desenho (Resolução STF 774/2022, export "sempre que possível"); a rota estática só cobre petições iniciais | Reavaliar em ~6 meses se surgir export estático confiável | aberto |
 | `BASE-024` | Produtos curados do STJ ainda fora da base — Informativo de Jurisprudência, Pesquisa Pronta e Legislação Aplicada (SCON): as rotas óbvias devolvem 403/shell | Rodada dedicada para achar a rota estável de cada produto | aberto |
 | `BASE-025` | Falta o Informativo STF — compilação institucional de julgados resumidos do STF | Nova família reproduzível (adaptador XLSX, monitor, testes) integrada ao motor; busca cobre todos os julgados; licença de reprodução registrada | **concluído em 2026-07-19** |
+| `BASE-026` | Faltam os espelhos de acórdãos do STJ — acórdãos selecionados pela Secretaria de Jurisprudência | Nova família reproduzível (adaptador CKAN, merge mensal por id, monitor por `metadata_modified`, testes) integrada ao motor; escopo nos órgãos uniformizadores, com ementa | **concluído em 2026-07-19** |
+| `BASE-027` | Os espelhos das 6 Turmas do STJ (~120 mil acórdãos, ~120 MB sem ementa) ficaram fora por volume | Reavaliar captura das Turmas se houver produto de busca dedicado ou compressão; hoje limitação declarada de escopo | aberto |
 
 ## Não capturar (decisão de escopo)
 
@@ -62,6 +64,33 @@ dados não jurídicos, não por dificuldade técnica:
 - bases estatísticas do STF (Acervo, Partes, Recebidos, Baixados).
 
 ## Itens concluídos
+
+### `BASE-026` — espelhos de acórdãos do STJ
+
+- nova família `espelhos_stj`: adaptador `espelhos_stj_ckan_v1` percorre os
+  pacotes CKAN dos órgãos, baixa os JSONs mensais (AAAAMMDD.json) e faz o merge
+  incremental por `id` do documento; monitor por `metadata_modified` de cada
+  pacote, como nos temas repetitivos;
+- 11.133 acórdãos da Corte Especial e das 1ª, 2ª e 3ª Seções (os órgãos que
+  uniformizam a jurisprudência), 588 com tese registrada; escopo decidido com o
+  usuário: as 6 Turmas ficaram fora por volume (os dez órgãos somam ~132 mil
+  acórdãos e ~120 MB sem ementa), registrado no `BASE-027`;
+- campos curados por acórdão — ementa (100% preenchida, o conteúdo que sustenta a
+  busca), tese, tema, referências legislativas, jurisprudência citada, classe,
+  relator, órgão e data — mais os links oficiais de consulta processual e de
+  jurisprudência; o inteiro teor e o histórico pré-2022 (recursos ZIP) ficam no
+  link oficial;
+- integração no motor: módulo `espelhos_stj.ts` com natureza documental própria
+  `ESPELHO DE ACÓRDÃO` e efeito não vinculante por si só, busca por palavra-chave
+  e por número de registro sobre índice textual em memória, ferramenta MCP
+  `buscar_espelho`, CLI `espelho`, grupo de avaliação com três consultas julgadas
+  e auditoria da família;
+- resiliência de fonte: o coletor aceita `application/octet-stream` nos JSONs do
+  CKAN (o STJ serve alguns assim) e a transformação ignora, registrando na
+  proveniência, os meses sem lançamentos que a fonte publica como JSON
+  malformado;
+- a verificação completa está em
+  [`verificacoes/BASE-026.md`](verificacoes/BASE-026.md).
 
 ### `BASE-025` — Informativo STF
 

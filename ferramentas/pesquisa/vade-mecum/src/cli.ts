@@ -8,6 +8,7 @@
  *   bun run src/cli.ts tema "honorarios fazenda publica" 5
  *   bun run src/cli.ts tema-rg "ICMS base calculo PIS COFINS" 5
  *   bun run src/cli.ts informativo "principio da insignificancia" 5
+ *   bun run src/cli.ts espelho "honorarios apreciacao equitativa" 5
  *   bun run src/cli.ts legislacao "186" CC 5
  *   bun run src/cli.ts buscar "responsabilidade civil dano" 5
  */
@@ -17,6 +18,7 @@ import { buscarTeses, formatTese } from "./search/jt.js";
 import { buscarTemas, formatTema } from "./search/temas.js";
 import { buscarTemasRG, formatTemaRG } from "./search/temas_rg_stf.js";
 import { buscarInformativos, formatInformativo } from "./search/informativo_stf.js";
+import { buscarEspelhos, formatEspelho } from "./search/espelhos_stj.js";
 import {
   buscarLegislacao,
   CODIGOS_DISPONIVEIS,
@@ -29,7 +31,7 @@ const [, , tool, query, arg3, arg4] = process.argv;
 function printSep() { console.log("\n" + "─".repeat(60) + "\n"); }
 
 if (!tool || !query) {
-  console.error("Uso: bun run src/cli.ts <sumula|tese|tema|tema-rg|informativo|legislacao|buscar> <query> [args]");
+  console.error("Uso: bun run src/cli.ts <sumula|tese|tema|tema-rg|informativo|espelho|legislacao|buscar> <query> [args]");
   process.exit(1);
 }
 
@@ -80,6 +82,15 @@ switch (tool) {
     break;
   }
 
+  case "espelho": {
+    const limit = parseInt(arg3 ?? "5", 10);
+    const results = buscarEspelhos(query, limit);
+    if (results.length === 0) { console.log(`Nenhum espelho de acórdão encontrado para: "${query}"`); break; }
+    console.log(`${results.length} espelho(s) de acórdão encontrado(s)\n`);
+    results.forEach((r, i) => { if (i > 0) printSep(); process.stdout.write(formatEspelho(r)); });
+    break;
+  }
+
   case "legislacao": {
     const codigoInformado = arg3 ?? "todos";
     const codigo = normalizarCodigo(codigoInformado);
@@ -106,8 +117,9 @@ switch (tool) {
     const temas = buscarTemas(query, limit);
     const temasRG = buscarTemasRG(query, limit);
     const informativos = buscarInformativos(query, limit);
+    const espelhos = buscarEspelhos(query, limit);
 
-    const total = sumulas.length + teses.length + temas.length + temasRG.length + informativos.length;
+    const total = sumulas.length + teses.length + temas.length + temasRG.length + informativos.length + espelhos.length;
     if (total === 0) { console.log(`Nenhum resultado encontrado para: "${query}"`); break; }
 
     console.log(`=== BASE JURÍDICA LOCAL — "${query}" ===\n`);
@@ -136,10 +148,15 @@ switch (tool) {
       console.log(`## INFORMATIVO STF (${informativos.length})\n`);
       informativos.forEach((r, i) => { if (i > 0) printSep(); process.stdout.write(formatInformativo(r)); });
     }
+    if (espelhos.length > 0) {
+      printSep();
+      console.log(`## ESPELHOS DE ACÓRDÃOS STJ (${espelhos.length})\n`);
+      espelhos.forEach((r, i) => { if (i > 0) printSep(); process.stdout.write(formatEspelho(r)); });
+    }
     break;
   }
 
   default:
-    console.error(`Tool desconhecida: ${tool}. Use: sumula | tese | tema | tema-rg | informativo | legislacao | buscar`);
+    console.error(`Tool desconhecida: ${tool}. Use: sumula | tese | tema | tema-rg | informativo | espelho | legislacao | buscar`);
     process.exit(1);
 }

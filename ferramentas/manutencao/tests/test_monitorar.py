@@ -606,5 +606,55 @@ class MonitorarInformativoTest(unittest.TestCase):
         self.assertIn("18 Jul 2026", itens[0]["detalhe"])
 
 
+class MonitorarEspelhosTest(unittest.TestCase):
+    URL = "https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=espelhos-de-acordaos-corte-especial"
+
+    def monitorar(self, modificado_ckan: str, modificado_snapshot: str):
+        config = {
+            "adaptador": "espelhos_stj_ckan_v1",
+            "chave_colecao": "espelhos",
+            "destino": "espelhos_stj.json",
+            "fontes": [
+                {"id": "corte-especial", "url": self.URL, "arquivo_bruto": "x.json"}
+            ],
+        }
+        pacote = json.dumps({"result": {"metadata_modified": modificado_ckan}})
+        with tempfile.TemporaryDirectory() as temp:
+            raiz = Path(temp)
+            publicados = raiz / "publicados"
+            publicados.mkdir()
+            (publicados / "espelhos_stj.json").write_text(
+                json.dumps(
+                    {
+                        "_meta": {
+                            "source": {
+                                "officialPublicReference": {
+                                    "packages": {
+                                        "corte-especial": {
+                                            "metadata_modified": modificado_snapshot
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "espelhos": {},
+                    }
+                ),
+                encoding="utf-8",
+            )
+            with patch.object(
+                pipeline, "baixar", side_effect=fabricar_baixar({self.URL: pacote})
+            ):
+                return pipeline.monitorar_espelhos(config, publicados, raiz / "t")
+
+    def test_ckan_mais_novo_indica_mudanca(self) -> None:
+        itens = self.monitorar("2026-07-10T00:00:00", "2026-06-09T00:00:00")
+        self.assertEqual(itens[0]["situacao"], "mudou")
+
+    def test_ckan_igual_sem_mudanca(self) -> None:
+        itens = self.monitorar("2026-06-09T00:00:00", "2026-06-09T00:00:00")
+        self.assertEqual(itens[0]["situacao"], "sem_mudanca")
+
+
 if __name__ == "__main__":
     unittest.main()

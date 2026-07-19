@@ -3,6 +3,7 @@ export const NATUREZAS_DOCUMENTAIS = Object.freeze({
   enunciadoSumular: "ENUNCIADO SUMULAR",
   compilacaoInstitucional: "COMPILAÇÃO INSTITUCIONAL",
   registroPrecedenteQualificado: "REGISTRO DE PRECEDENTE QUALIFICADO",
+  espelhoDeAcordao: "ESPELHO DE ACÓRDÃO",
   indiceDerivado: "ÍNDICE DERIVADO",
 });
 

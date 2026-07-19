@@ -49,6 +49,7 @@ ADAPTADORES = {
     "temas_stj_csv_v1",
     "temas_rg_stf_html_v1",
     "informativo_stf_xlsx_v1",
+    "espelhos_stj_ckan_v1",
 }
 HOSTS_OFICIAIS = {
     "www.planalto.gov.br",
@@ -67,7 +68,7 @@ LIMITE_MUDANCA_MINIMO_PADRAO = 20
 TIPOS_CONTEUDO_ESPERADOS = {
     ".html": {"text/html", "application/xhtml+xml"},
     ".csv": {"text/csv", "application/csv", "application/octet-stream"},
-    ".json": {"application/json", "text/json"},
+    ".json": {"application/json", "text/json", "application/octet-stream"},
 }
 
 
@@ -497,6 +498,29 @@ def coletar_conjunto(
         for numero in range(1, max(numeros) + 1):
             url = f"https://processo.stj.jus.br/SCON/jt/doc.jsp?livre=%27{numero}%27.tit."
             downloads.append(baixar(url, bruto / "edicoes" / f"{numero}.html"))
+
+    if adaptador == "espelhos_stj_ckan_v1":
+        # Cada fonte é o package_show CKAN de um órgão; dele saem os JSONs
+        # mensais (AAAAMMDD.json) a baixar. Os ZIP históricos (pré-2022) ficam
+        # de fora por decisão de escopo, registrada no BACKLOG.
+        for fonte in config["fontes"]:
+            orgao = fonte["id"]
+            pacote = carregar_json(bruto / fonte["arquivo_bruto"])
+            recursos = (pacote.get("result") or {}).get("resources") or []
+            mensais = [
+                recurso
+                for recurso in recursos
+                if (recurso.get("format") or "").upper() == "JSON"
+                and re.fullmatch(r"\d{8}\.json", str(recurso.get("name") or ""))
+            ]
+            if not mensais:
+                raise RuntimeError(
+                    f"{conjunto_id}: órgão {orgao} sem JSONs mensais reconhecíveis"
+                )
+            for recurso in mensais:
+                downloads.append(
+                    baixar(recurso["url"], bruto / orgao / recurso["name"])
+                )
 
     recibo["conjuntos"][conjunto_id] = {
         "coleta_concluida_em": agora_utc(),
@@ -1623,12 +1647,149 @@ def transformar_informativo(
     return [saida]
 
 
+def ler_json_lista(path: Path) -> list[dict[str, Any]]:
+    with path.open(encoding="utf-8") as arquivo:
+        valor = json.load(arquivo)
+    if not isinstance(valor, list):
+        raise ValueError(f"{path}: esperado um vetor de espelhos")
+    return valor
+
+
+def data_publicacao_espelho(valor: Any) -> str:
+    texto = limpar_csv(valor if isinstance(valor, str) else "")
+    match = re.search(r"(\d{2}/\d{2}/\d{4})", texto)
+    return match.group(1) if match else texto
+
+
+def referencias_espelho(valor: Any) -> list[str]:
+    if not isinstance(valor, list):
+        return []
+    return [limpar_csv(item) for item in valor if isinstance(item, str) and limpar_csv(item)]
+
+
+def transformar_espelhos(
+    config: dict[str, Any], bruto: Path, publicados: Path, candidatos: Path
+) -> list[Path]:
+    espelhos: dict[str, Any] = {}
+    pacotes: dict[str, Any] = {}
+    # A fonte publica meses sem lançamentos como um JSON de placeholder às vezes
+    # malformado (um "}" a mais); esses arquivos não têm registro real e são
+    # ignorados, mas registrados para não truncar cobertura em silêncio.
+    ignorados: list[str] = []
+    for fonte in config["fontes"]:
+        orgao = fonte["id"]
+        pacote = carregar_json(bruto / fonte["arquivo_bruto"]).get("result") or {}
+        pacotes[orgao] = {
+            "id": pacote.get("id"),
+            "metadata_modified": pacote.get("metadata_modified"),
+        }
+        dir_orgao = bruto / orgao
+        mensais = sorted(
+            arquivo
+            for arquivo in dir_orgao.glob("*.json")
+            if re.fullmatch(r"\d{8}\.json", arquivo.name)
+        )
+        for arquivo in mensais:
+            try:
+                registros_mes = ler_json_lista(arquivo)
+            except (ValueError, json.JSONDecodeError):
+                ignorados.append(f"{orgao}/{arquivo.name}")
+                continue
+            for registro in registros_mes:
+                identificador = limpar_csv(registro.get("id"))
+                if not identificador:
+                    continue
+                numero_registro = re.sub(
+                    r"\D", "", limpar_csv(registro.get("numeroRegistro"))
+                )
+                links: dict[str, str] = {}
+                if numero_registro:
+                    links["consultaProcessual"] = (
+                        "https://ww2.stj.jus.br/processo/pesquisa/"
+                        "?tipoPesquisa=tipoPesquisaNumeroRegistro&termo="
+                        + numero_registro
+                    )
+                links["jurisprudencia"] = (
+                    "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40cod%3D"
+                    + quote(identificador, safe="")
+                )
+                # Espelhos re-publicados em meses posteriores sobrescrevem o
+                # registro anterior de mesmo id (merge incremental).
+                espelhos[identificador] = {
+                    "id": identificador,
+                    "orgao": limpar_csv(registro.get("nomeOrgaoJulgador")),
+                    "classe": limpar_csv(registro.get("siglaClasse")),
+                    "descricaoClasse": limpar_csv(registro.get("descricaoClasse")),
+                    "numeroProcesso": limpar_csv(registro.get("numeroProcesso")),
+                    "numeroRegistro": limpar_csv(registro.get("numeroRegistro")),
+                    "relator": limpar_csv(registro.get("ministroRelator")),
+                    "dataPublicacao": data_publicacao_espelho(
+                        registro.get("dataPublicacao")
+                    ),
+                    "ementa": limpar_csv(registro.get("ementa")),
+                    "teseJuridica": limpar_csv(registro.get("teseJuridica")),
+                    "tema": limpar_csv(registro.get("tema")),
+                    "jurisprudenciaCitada": limpar_csv(
+                        registro.get("jurisprudenciaCitada")
+                    ),
+                    "referenciasLegislativas": referencias_espelho(
+                        registro.get("referenciasLegislativas")
+                    ),
+                    "links": links,
+                }
+    if not espelhos:
+        raise ValueError("nenhum espelho reconhecido nos JSONs mensais do STJ")
+    orgaos = Counter(item["orgao"] for item in espelhos.values())
+    com_tese = sum(1 for item in espelhos.values() if item["teseJuridica"])
+    objeto = {
+        "_meta": {
+            "version": "1.0",
+            "tipo": "espelhos_de_acordaos",
+            "tribunal": "STJ",
+            "totalEspelhos": len(espelhos),
+            "espelhosComTese": com_tese,
+            "orgaos": dict(sorted(orgaos.items())),
+            "generatedAt": agora_utc(),
+            "descricao": "Espelhos de acórdãos do STJ — campos curados, sem ementa",
+            "source": {
+                "provenanceStatus": "reproducible_pipeline",
+                "dataset": "Espelhos de acórdãos — Portal de Dados Abertos do STJ",
+                "officialPublicReference": {
+                    "catalog": "https://dadosabertos.web.stj.jus.br/",
+                    "packages": pacotes,
+                },
+                "method": (
+                    "Merge incremental dos JSONs mensais (AAAAMMDD.json) dos "
+                    "órgãos uniformizadores por id; campos curados por acórdão."
+                ),
+                "escopo": (
+                    "Órgãos que uniformizam a jurisprudência do STJ — Corte "
+                    "Especial e 1ª, 2ª e 3ª Seções; as 6 Turmas ficam fora por "
+                    "decisão de escopo (volume). Campos curados por acórdão "
+                    "(ementa, classe, relator, órgão, data, tese, tema, "
+                    "referências legislativas e jurisprudência citada) + links. "
+                    "O inteiro teor e o histórico pré-2022 (recursos ZIP) ficam "
+                    "no link oficial, não capturados por escopo."
+                ),
+                "arquivosMensaisIgnorados": sorted(ignorados),
+                "collectedAt": agora_utc(),
+            },
+            "transformacao": "espelhos_stj_ckan_v1",
+        },
+        "espelhos": espelhos,
+    }
+    saida = candidatos / config["destino"]
+    salvar_json(saida, objeto)
+    return [saida]
+
+
 TRANSFORMADORES = {
     "planalto_html_v1": transformar_legislacao,
     "sumulas_stj_html_v1": transformar_sumulas_stj,
     "sumulas_stf_html_v1": transformar_sumulas_stf,
     "jt_stj_html_v1": transformar_jt,
     "temas_stj_csv_v1": transformar_temas,
+    "espelhos_stj_ckan_v1": transformar_espelhos,
     "temas_rg_stf_html_v1": transformar_temas_rg,
     "informativo_stf_xlsx_v1": transformar_informativo,
 }
@@ -1697,6 +1858,7 @@ def validar_objeto(config: dict[str, Any], objeto: dict[str, Any], nome: str) ->
         "precedentes_qualificados": ("numero", "questao", "links"),
         "precedentes_rg_stf": ("numero", "titulo", "situacao", "links"),
         "informativo": ("id", "edicao", "materia", "links"),
+        "espelhos_stj": ("id", "orgao", "links"),
     }[familia]
     for identificador, registro in registros.items():
         if not isinstance(registro, dict):
@@ -1736,6 +1898,8 @@ def validar_objeto(config: dict[str, Any], objeto: dict[str, Any], nome: str) ->
         esperado = meta.get("totalTemas")
     elif familia == "informativo":
         esperado = meta.get("totalRegistros")
+    elif familia == "espelhos_stj":
+        esperado = meta.get("totalEspelhos")
     if esperado != quantidade:
         erros.append(f"{nome}: metadado informa {esperado}, coleção contém {quantidade}")
     return erros
@@ -2288,6 +2452,59 @@ def monitorar_informativo(
     return [{"alvo": "planilha", "situacao": situacao, "detalhe": detalhe}]
 
 
+def monitorar_espelhos(
+    config: dict[str, Any], publicados: Path, temp: Path
+) -> list[dict[str, Any]]:
+    meta = carregar_json(publicados / config["destino"]).get("_meta") or {}
+    pacotes = (
+        (meta.get("source") or {}).get("officialPublicReference") or {}
+    ).get("packages") or {}
+    itens: list[dict[str, Any]] = []
+    for fonte in config["fontes"]:
+        orgao = fonte["id"]
+        try:
+            baixar(fonte["url"], temp / f"{orgao}.json")
+            pacote = carregar_json(temp / f"{orgao}.json").get("result") or {}
+        except (RuntimeError, ValueError, subprocess.CalledProcessError) as erro:
+            itens.append({"alvo": orgao, "situacao": "erro", "detalhe": str(erro)})
+            continue
+        atual = instante_utc(str(pacote.get("metadata_modified") or ""))
+        base = instante_utc(
+            str((pacotes.get(orgao) or {}).get("metadata_modified") or "")
+        )
+        if atual is None or base is None:
+            itens.append(
+                {
+                    "alvo": orgao,
+                    "situacao": "indeterminado",
+                    "detalhe": "datas de referência ausentes no snapshot ou no CKAN",
+                }
+            )
+        elif atual > base:
+            itens.append(
+                {
+                    "alvo": orgao,
+                    "situacao": "mudou",
+                    "detalhe": (
+                        f"dataset atualizado em {atual.isoformat(timespec='seconds')}; "
+                        f"snapshot de {base.isoformat(timespec='seconds')}"
+                    ),
+                }
+            )
+        else:
+            itens.append(
+                {
+                    "alvo": orgao,
+                    "situacao": "sem_mudanca",
+                    "detalhe": (
+                        "nenhuma atualização do dataset depois do snapshot; "
+                        "reenvio idêntico ainda contaria como mudança"
+                    ),
+                }
+            )
+    return itens
+
+
 MONITORES_POR_ADAPTADOR = {
     "sumulas_stj_html_v1": monitorar_sumulas_stj,
     "sumulas_stf_html_v1": monitorar_sumulas_stf,
@@ -2295,6 +2512,7 @@ MONITORES_POR_ADAPTADOR = {
     "temas_stj_csv_v1": monitorar_temas,
     "temas_rg_stf_html_v1": monitorar_temas_rg,
     "informativo_stf_xlsx_v1": monitorar_informativo,
+    "espelhos_stj_ckan_v1": monitorar_espelhos,
 }
 
 

@@ -258,6 +258,34 @@
         }
       ]
     },
+    "espelhos_stj": {
+      "familia": "espelhos_stj",
+      "adaptador": "espelhos_stj_ckan_v1",
+      "chave_colecao": "espelhos",
+      "destino": "espelhos_stj.json",
+      "fontes": [
+        {
+          "id": "corte-especial",
+          "url": "https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=espelhos-de-acordaos-corte-especial",
+          "arquivo_bruto": "corte-especial/package.json"
+        },
+        {
+          "id": "primeira-secao",
+          "url": "https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=espelhos-de-acordaos-primeira-secao",
+          "arquivo_bruto": "primeira-secao/package.json"
+        },
+        {
+          "id": "segunda-secao",
+          "url": "https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=espelhos-de-acordaos-segunda-secao",
+          "arquivo_bruto": "segunda-secao/package.json"
+        },
+        {
+          "id": "terceira-secao",
+          "url": "https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=espelhos-de-acordaos-terceira-secao",
+          "arquivo_bruto": "terceira-secao/package.json"
+        }
+      ]
+    },
     "indices_auxiliares": {
       "familia": "indice_derivado",
       "adaptador": null,

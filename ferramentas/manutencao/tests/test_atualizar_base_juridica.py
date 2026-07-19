@@ -75,6 +75,7 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
             "temas_repetitivos_stj",
             "temas_rg_stf",
             "informativo_stf",
+            "espelhos_stj",
         }
         self.assertLessEqual(nucleo, set(ativos))
         extras = set(ativos) - nucleo
@@ -1179,6 +1180,86 @@ class InformativoXlsxTest(unittest.TestCase):
         cabecalho[13] = "Coluna Trocada"
         with self.assertRaisesRegex(ValueError, "cabeçalho"):
             self.transformar(cabecalho, [{0: "1", 17: "x"}])
+
+
+class EspelhosStjTest(unittest.TestCase):
+    def test_data_publicacao_espelho(self) -> None:
+        self.assertEqual(
+            pipeline.data_publicacao_espelho("DJE        DATA:31/05/2022"),
+            "31/05/2022",
+        )
+        self.assertEqual(pipeline.data_publicacao_espelho(""), "")
+        self.assertEqual(pipeline.data_publicacao_espelho(None), "")
+
+    def transformar(self, meses: dict[str, str]) -> dict:
+        with tempfile.TemporaryDirectory() as temp:
+            raiz = Path(temp)
+            bruto = raiz / "bruto" / "espelhos_stj"
+            orgao_dir = bruto / "corte-especial"
+            orgao_dir.mkdir(parents=True)
+            (orgao_dir / "package.json").write_text(
+                json.dumps(
+                    {"result": {"id": "pkg-ce", "metadata_modified": "2026-06-09T00:00:00"}}
+                ),
+                encoding="utf-8",
+            )
+            for nome, conteudo in meses.items():
+                (orgao_dir / nome).write_text(conteudo, encoding="utf-8")
+            candidatos = raiz / "candidatos"
+            config = {
+                "destino": "espelhos_stj.json",
+                "fontes": [
+                    {
+                        "id": "corte-especial",
+                        "url": "https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=espelhos-de-acordaos-corte-especial",
+                        "arquivo_bruto": "corte-especial/package.json",
+                    }
+                ],
+            }
+            pipeline.transformar_espelhos(config, bruto, raiz / "pub", candidatos)
+            return json.loads(
+                (candidatos / "espelhos_stj.json").read_text(encoding="utf-8")
+            )
+
+    def test_curadoria_links_e_mes_malformado(self) -> None:
+        valido = json.dumps(
+            [
+                {
+                    "id": "000815561",
+                    "numeroProcesso": "3329",
+                    "numeroRegistro": "201900000001",
+                    "siglaClasse": "REsp",
+                    "descricaoClasse": "RECURSO ESPECIAL",
+                    "nomeOrgaoJulgador": "CORTE ESPECIAL",
+                    "ministroRelator": "FULANO",
+                    "dataPublicacao": "DJE        DATA:26/05/2022",
+                    "ementa": "PROCESSUAL CIVIL. Ementa do acórdão.",
+                    "teseJuridica": "Tese do acórdão.",
+                    "tema": "Tema Repetitivo 1",
+                    "jurisprudenciaCitada": "REsp 1",
+                    "referenciasLegislativas": ["LEG:FED LEI:013105 ANO:2015"],
+                },
+                {"id": "", "nomeOrgaoJulgador": "CORTE ESPECIAL"},
+            ]
+        )
+        # Mês sem lançamentos, com o "}" a mais que o STJ publica.
+        malformado = '[ {"id":"", "nomeOrgaoJulgador":"CORTE ESPECIAL"} } ]'
+        objeto = self.transformar(
+            {"20220531.json": valido, "20220228.json": malformado}
+        )
+        espelhos = objeto["espelhos"]
+        self.assertEqual(objeto["_meta"]["totalEspelhos"], 1)  # o id vazio é ignorado
+        self.assertIn(
+            "corte-especial/20220228.json",
+            objeto["_meta"]["source"]["arquivosMensaisIgnorados"],
+        )
+        registro = espelhos["000815561"]
+        self.assertEqual(registro["dataPublicacao"], "26/05/2022")
+        self.assertEqual(registro["teseJuridica"], "Tese do acórdão.")
+        self.assertEqual(registro["referenciasLegislativas"], ["LEG:FED LEI:013105 ANO:2015"])
+        self.assertEqual(registro["ementa"], "PROCESSUAL CIVIL. Ementa do acórdão.")
+        self.assertIn("201900000001", registro["links"]["consultaProcessual"])
+        self.assertIn("000815561", registro["links"]["jurisprudencia"])
 
 
 if __name__ == "__main__":

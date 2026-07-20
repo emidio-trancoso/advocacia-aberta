@@ -17,13 +17,13 @@ comandos abaixo.
 ### Passo 1 — Executar busca ampla
 
 ```bash
-bun run ferramentas/pesquisa/vade-mecum/src/cli.ts buscar "<consulta>" 5
+bun run "${CLAUDE_PLUGIN_ROOT:-.}/ferramentas/pesquisa/vade-mecum/src/cli.ts" buscar "<consulta>" 5
 ```
 
 ### Passo 1b — Se necessário, busca focada em legislação
 
 ```bash
-bun run ferramentas/pesquisa/vade-mecum/src/cli.ts legislacao "<consulta>" todos 3
+bun run "${CLAUDE_PLUGIN_ROOT:-.}/ferramentas/pesquisa/vade-mecum/src/cli.ts" legislacao "<consulta>" todos 3
 ```
 
 ### Passo 2 — Analisar e filtrar

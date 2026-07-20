@@ -121,8 +121,8 @@ Regras ao gerar:
 Depois de salvar, rode:
 
 ```bash
-bash ferramentas/manutencao/sincronizar-skills.sh
-python3 ferramentas/manutencao/verificar_compatibilidade.py
+bash "${CLAUDE_PLUGIN_ROOT:-.}/ferramentas/manutencao/sincronizar-skills.sh"
+python3 "${CLAUDE_PLUGIN_ROOT:-.}/ferramentas/manutencao/verificar_compatibilidade.py"
 ```
 
 ### Passo 7 — Explicar como usar

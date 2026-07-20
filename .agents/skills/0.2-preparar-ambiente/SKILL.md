@@ -64,16 +64,16 @@ Instalar o programa:
 curl -fsSL https://bun.sh/install | bash
 ```
 
-Instalar as dependências da ferramenta (use o caminho relativo e volte para a raiz depois):
+Instalar as dependências da ferramenta (entre na pasta da ferramenta e volte ao diretório de trabalho depois):
 
 ```bash
-cd ferramentas/pesquisa/vade-mecum && bun install
+cd "${CLAUDE_PLUGIN_ROOT:-.}/ferramentas/pesquisa/vade-mecum" && bun install
 ```
 
 Testar se funcionou:
 
 ```bash
-bun run ferramentas/pesquisa/vade-mecum/src/cli.ts buscar "dano moral" 3
+bun run "${CLAUDE_PLUGIN_ROOT:-.}/ferramentas/pesquisa/vade-mecum/src/cli.ts" buscar "dano moral" 3
 ```
 
 #### uv (para `buscar-tjpr`)
@@ -87,7 +87,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 Preparar a ferramenta:
 
 ```bash
-uv sync --project ferramentas/pesquisa/busca-tjpr
+uv sync --project "${CLAUDE_PLUGIN_ROOT:-.}/ferramentas/pesquisa/busca-tjpr"
 ```
 
 **Avise o usuário:** a primeira busca no TJPR baixa cerca de 400 MB de um navegador

@@ -31,7 +31,7 @@ O motor do TJPR tem comportamento não-óbvio. Regras empíricas que você deve 
 ### Passo 1 — Primeira rodada: busca ampla (3–4 termos)
 
 ```bash
-uv run --project "ferramentas/pesquisa/busca-tjpr" \
+uv run --project "${CLAUDE_PLUGIN_ROOT:-.}/ferramentas/pesquisa/busca-tjpr" \
   python -m busca_tjpr "<consulta>" 1 2>&1 | grep -v '\"asctime\"'
 ```
 

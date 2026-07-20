@@ -63,7 +63,7 @@ Se tudo foi encontrado, siga para o Passo 2.
 Execute o comando de transcrição com o caminho do arquivo de mídia:
 
 ```bash
-python3 ferramentas/processamento/transcrever/transcrever.py "<arquivo-de-midia>"
+python3 "${CLAUDE_PLUGIN_ROOT:-.}/ferramentas/processamento/transcrever/transcrever.py" "<arquivo-de-midia>"
 ```
 
 O que o programa faz, por baixo dos panos:

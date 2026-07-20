@@ -46,7 +46,7 @@ Pule este passo se os documentos já vierem separados em vários arquivos.
 Faça este passo **somente** quando o material for **um único PDF enorme** com muitos documentos colados dentro — situação típica de autos de processo exportados de uma vez do PJe ou Projudi. Nesse caso, dividir o arquivo em um PDF por documento facilita a leitura:
 
 ```bash
-python3 ferramentas/processamento/split-autos/split.py "<caminho-do-caso>/autos/integra.pdf"
+python3 "${CLAUDE_PLUGIN_ROOT:-.}/ferramentas/processamento/split-autos/split.py" "<caminho-do-caso>/autos/integra.pdf"
 ```
 
 (Troque `integra.pdf` pelo nome real do PDF gigante.) O script grava os PDFs separados na mesma pasta. Depois, refaça a listagem do Passo 1.

@@ -214,6 +214,13 @@ bash ferramentas/manutencao/sincronizar-skills.sh
 A sincronização regenera os dois espelhos e roda o verificador de compatibilidade, que também roda
 no GitHub Actions.
 
+Ao escrever um comando de skill que chama um motor ou script do kit, prefixe o caminho com
+`${CLAUDE_PLUGIN_ROOT:-.}` — por exemplo,
+`bun run "${CLAUDE_PLUGIN_ROOT:-.}/ferramentas/pesquisa/vade-mecum/src/cli.ts" …`. Quando o kit roda
+como plugin instalado, a variável aponta para a raiz do plugin; dentro do repositório (Claude Code
+nível projeto ou Codex) ela fica vazia e o caminho cai para o diretório de trabalho. Assim o mesmo
+comando funciona nos dois contextos, sem depender de uma ferramenta de um fornecedor específico.
+
 ## Licença
 
 Salvo indicação em contrário, o código, os protocolos, as ferramentas, os templates e a

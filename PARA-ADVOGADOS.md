@@ -14,8 +14,8 @@ para que a IA trabalhe com fonte, e você entenda o que ela fez.
 - **Ver o trabalho, não o discurso.** Em vez de mais um painel sobre "ferramentas de IA", um caso
   resolvido de ponta a ponta: [um exemplo](casos/exemplo-trafico-sintetico/) que percorre organizar
   → diagnosticar → buscar fontes → redigir → revisar, com cada citação apontando à fonte oficial.
-- **Fonte antes da afirmação.** A base reúne legislação, súmulas, teses e jurisprudência do STF e do
-  STJ, cada item com o link da origem. Sem precedente inventado.
+- **Fonte antes da afirmação.** O acervo reúne legislação, súmulas, teses e jurisprudência do STF e
+  do STJ, cada item com o link da origem. Sem precedente inventado.
 - **Uma peça pronta para ver.** [Um parecer diagramado](templates/parecer-trafico-drogas.pdf) — abra
   e veja o padrão, sem instalar nada.
 - **O método é seu.** Legível, escrito em português, e sem dono: troca a IA, o método continua.
@@ -23,8 +23,10 @@ para que a IA trabalhe com fonte, e você entenda o que ela fez.
 ## Você não precisa programar
 
 Para **entender**, comece pelo [Manifesto](MANIFESTO.md) e percorra o
-[caso-exemplo](casos/exemplo-trafico-sintetico/). Para **usar**, abra a pasta no Claude Code ou no
-Codex e siga o [guia de início](COMECE-AQUI.md) — as ferramentas se instalam sob demanda.
+[caso-exemplo](casos/exemplo-trafico-sintetico/). Para **usar**, há dois caminhos: o mais rápido é
+**conectar o acervo** ao seu ChatGPT ou Claude — cole `https://mcp.advocaciaaberta.org/mcp` como
+conector e pergunte em português, sem instalar nada. Para o método inteiro, abra a pasta no Claude
+Code ou no Codex e siga o [guia de início](COMECE-AQUI.md) — as ferramentas se instalam sob demanda.
 
 ## O que isto não é
 

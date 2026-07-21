@@ -6,11 +6,20 @@ trabalho jurídico.
 ## Advocacia Aberta
 
 É a infraestrutura que torna o trabalho jurídico com IA **eficaz e confiável** pela via
-dos dados e do método — não do discurso. Reúne protocolos explícitos, base jurídica
-organizada por taxonomia e gerenciamento de contexto, para que a IA execute e o
-profissional compreenda, sem expor casos ou dados de clientes. Ver o [Manifesto](MANIFESTO.md).
+dos dados e do método — não do discurso. Reúne um **acervo** organizado por taxonomia
+jurídica e um **método** — protocolos explícitos e gerenciamento de contexto —, para que
+a IA execute e o profissional compreenda, sem expor casos ou dados de clientes. Ver o
+[Manifesto](MANIFESTO.md).
 
 **Em uma frase:** método aberto, fontes verificáveis, dados protegidos.
+
+## Acervo
+
+É o conjunto curado de fontes jurídicas públicas — legislação, súmulas, temas, teses,
+julgados e espelhos de acórdãos — organizado por **taxonomia jurídica** para ser lido por
+um agente de IA, com a fonte oficial em cada item. É o "material" da Advocacia Aberta; o
+**método** é o "procedimento" que o põe para trabalhar. Ver o
+[catálogo da base](base-juridica/CATALOGO.md).
 
 ## Protocolo
 
@@ -82,7 +91,8 @@ projeto exige rastreabilidade, declaração de incerteza e revisão profissional
 
 ## Base jurídica curada
 
-É um conjunto estruturado de fontes jurídicas públicas preparado para pesquisa. Sua
+É um conjunto estruturado de fontes jurídicas públicas preparado para pesquisa (é o
+**acervo**, no vocabulário de apresentação do projeto). Sua
 confiabilidade depende de cobertura, proveniência, data de referência, transformação
 documentada e confirmação na fonte oficial correspondente.
 
@@ -108,6 +118,20 @@ transforma informação; ele não decide sozinho a conclusão jurídica.
 É a camada que apresenta um protocolo a uma plataforma específica. `.agents/skills/`
 e `.claude/skills/` são os adaptadores atuais. O conhecimento jurídico não deve ficar
 preso exclusivamente a um deles.
+
+## Conector (MCP)
+
+É a ponte que liga o acervo a um assistente de IA (como Claude ou ChatGPT) por um padrão
+aberto — o *Model Context Protocol* (MCP). Colando o endereço do conector, o assistente
+passa a consultar o acervo e a citar a fonte oficial, sem instalar nada. O acervo é
+servido em `https://mcp.advocaciaaberta.org/mcp`.
+
+## Conectar e adotar
+
+São os dois modos de usar a Advocacia Aberta. **Conectar** é plugar o *acervo* ao seu
+assistente (por MCP), para ele responder com a fonte oficial. **Adotar** é levar um
+*protocolo* (o método) para o assistente — colando-o no chat ou rodando a via plena no
+agente local. O acervo você conecta; os protocolos você adota.
 
 ## Execução local
 

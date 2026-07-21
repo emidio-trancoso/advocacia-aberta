@@ -10,7 +10,7 @@ de um harness que continua legível por pessoas.
 
 ## O que você encontra
 
-- **Uma base com taxonomia, não um dump.** 22.180 dispositivos de legislação, além de súmulas, teses
+- **Um acervo com taxonomia, não um dump.** 22.180 dispositivos de legislação, além de súmulas, teses
   e jurisprudência do STF/STJ, classificados por natureza, proveniência e efeito
   ([TAXONOMIA](base-juridica/TAXONOMIA.md)) — é o que separa "dado" de "dado legível por um agente".
 - **Recuperação com gate de regressão.** Um
@@ -19,14 +19,17 @@ de um harness que continua legível por pessoas.
 - **Dados que se corrigem em público.** Cada correção tem um
   [relatório](base-juridica/verificacoes/) com fonte, mudança e teste; um
   [workflow](.github/workflows/monitorar-base.yml) vigia as fontes oficiais e abre issue quando mudam.
-- **Engenharia de contexto explícita.** O [protocolo de contexto](GERENCIAR-CONTEXTO.md) e as skills
-  mostram como delimitar, tornar legível, persistir e declarar lacunas — o harness, não o prompt.
+- **Engenharia de contexto explícita.** O [protocolo de contexto](GERENCIAR-CONTEXTO.md) e os
+  protocolos mostram como delimitar, tornar legível, persistir e declarar lacunas — o harness, não o
+  prompt.
 
 ## Como mexer
 
 O motor de busca (`vade-mecum`) é TypeScript/Bun; a base é JSON versionado com schemas. Rode o eval
 (`bun run avaliar`), estude a [arquitetura](ARQUITETURA.md), ou instale como
-[plugin do Claude Code](README.md#começar-em-três-passos). O método é agnóstico de jurisdição — a
-lógica "dado legível + método explícito" se transporta para outro domínio.
+[plugin do Claude Code](README.md#rodar-a-via-plena-local-em-três-passos). Há também um
+[adaptador de plugin da OpenAI](.codex-plugin/README.md) (`.codex-plugin/`) que publica um bundle
+curado de skills autônomas para o ChatGPT Web/Codex. O método é agnóstico de jurisdição — a lógica
+"dado legível + método explícito" se transporta para outro domínio.
 
 Para contribuir: [CONTRIBUTING](CONTRIBUTING.md). Licença [MIT](LICENSE).

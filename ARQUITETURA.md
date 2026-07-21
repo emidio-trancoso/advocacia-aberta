@@ -95,6 +95,13 @@ Traduzem os protocolos para as superfícies de execução. Hoje o projeto manté
 - `.claude/skills/` para Claude Code, nível projeto (espelho gerado);
 - `.claude-plugin/` mais `skills/` para distribuição e instalação como plugin do Claude
   Code (espelho gerado a partir da mesma fonte);
+- `.codex-plugin/` para distribuição como plugin da OpenAI (ChatGPT Web e Codex). A v0.2
+  publicou um **bundle curado** com só as skills autônomas (`organizar-caso`,
+  `diagnosticar`), que rodam no ChatGPT Web hospedado sobre documentos anexados, sem
+  ferramenta externa; é gerado da mesma fonte canônica (ver `.codex-plugin/README.md`).
+  A v0.3 acrescenta um **MCP hospedado** (`mcp.advocaciaaberta.org/mcp`) que conecta o
+  acervo — busca de legislação, súmulas, temas, teses e julgados — direto ao Claude e ao
+  ChatGPT; buscas ao vivo (TJPR) e ferramentas locais seguem na via plena;
 - `AGENTS.md` e `CLAUDE.md` para instruções persistentes.
 
 Adaptadores não devem conter conhecimento jurídico exclusivo. Se uma regra existe

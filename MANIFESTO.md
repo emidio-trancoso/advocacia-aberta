@@ -11,7 +11,7 @@ organizada ao modelo, ele completa a lacuna com o provável. O problema nunca fo
 a ausência de um método explícito e de um dado que a máquina — e a pessoa — consigam ler.
 
 A **Advocacia Aberta** responde a isso construindo o que falta, em vez de apenas debatê-lo. Não
-abrimos processos, estratégias ou dados de clientes. **Abrimos o método.**
+abrimos processos, estratégias ou dados de clientes. **Abrimos o acervo e o método.**
 
 ## Para que serve
 
@@ -19,18 +19,37 @@ A Advocacia Aberta existe para que o trabalho jurídico com IA seja ao mesmo tem
 confiável** — e sustenta que isso não se decide no discurso, mas nos **dados** e no **método**.
 
 Tornar o procedimento **explícito** e o dado **legível**, para a pessoa e para a máquina, é o que o
-projeto entrega:
+projeto entrega. São dois pilares:
 
-- **Protocolos** transformam operações jurídicas em procedimentos-padrão, com as melhores práticas
-  escritas de modo que a IA execute e o profissional compreenda a ordem do que se faz.
-- **Bases** não são só dados: são dados organizados por uma **taxonomia jurídica** — natureza,
-  proveniência e efeito — que os torna legíveis por agentes de IA.
-- **Gerenciamento de contexto** mantém o trabalho vivo entre etapas: o que foi lido, decidido e
-  produzido chega à etapa seguinte, em vez de morrer numa janela de conversa.
+- **Acervo — o material.** Não são só dados: são dados organizados por uma **taxonomia jurídica** —
+  natureza, proveniência e efeito — que os torna legíveis por um agente de IA, com a fonte oficial
+  em cada item.
+- **Método — o procedimento.** **Protocolos** transformam operações jurídicas em
+  procedimentos-padrão que a IA executa e o profissional audita; e o **gerenciamento de contexto**
+  mantém o trabalho vivo entre etapas — o que foi lido, decidido e produzido chega à etapa seguinte,
+  em vez de morrer numa janela de conversa.
 
 É a virada que o projeto propõe: sair do **fenômeno jurídico tratado como teoria** e ancorar o
 trabalho em **dados**. O mesmo material que ensina a IA a trabalhar mostra ao desenvolvedor como se
 organiza o conhecimento jurídico — e mostra ao advogado o que, de fato, é trabalhar com IA.
+
+## A prova é pública
+
+Isto não fica na palavra. Toda mudança no acervo passa por uma régua fixa: **89 consultas reais**,
+julgadas uma a uma à mão, medem se a busca ainda devolve o que deveria — e uma mudança que piora
+esse resultado é barrada antes de entrar (ver a
+[avaliação de recuperação](base-juridica/AVALIACAO-RECUPERACAO.md)). Cada correção fica
+[registrada em público](base-juridica/verificacoes/), com a fonte oficial que a motivou. Todo começo
+de semana, um [monitor agendado](.github/workflows/monitorar-base.yml) relê Planalto, STF e STJ e
+abre uma issue quando uma lei muda ou uma súmula cai — mas quem decide o que entra continua sendo uma
+pessoa. São **~52.795 registros**, cada um com link para a fonte oficial. E o método inteiro pode ser
+visto rodando num [caso completo](casos/exemplo-trafico-sintetico/) — do primeiro documento à peça
+pronta.
+
+E a prova não para em ler. O sistema inteiro é um repositório público: você o clona, roda no seu
+próprio agente e confere que faz o que dizemos. O que encontrar de errado, corrige; o que fizer
+melhor, devolve. A prova não se pede em confiança — **se refaz**, e melhora a cada mão que passa por
+ela.
 
 ## Por que aberta
 
@@ -39,9 +58,9 @@ Porque conhecimento jurídico é bem público, e método não precisa ser propri
 - **Sem aprisionamento — nem a fornecedor, nem a modelo.** A pergunta que domina o meio — "qual é a
   ferramenta de IA?" — mira no que passa. A ferramenta é efêmera, e o próprio modelo de IA também:
   numa corrida em que "a IA do momento" se troca em meses, apostar no modelo é apostar no
-  transitório. O que permanece é o **dado e o método** — que se acumulam, se somam e se transformam,
-  mas não se descartam a cada nova geração de tecnologia. Por isso o método é legível e executável
-  por qualquer agente: trocar a ferramenta não apaga o que foi construído.
+  transitório. O que permanece é o **acervo e o método** — que se acumulam, se somam e se
+  transformam, mas não se descartam a cada nova geração de tecnologia. Por isso o método é legível e
+  executável por qualquer agente: trocar a ferramenta não apaga o que foi construído.
 - **Dado público sem pedágio.** Legislação, súmulas e jurisprudência são públicas. Organizá-las para
   que uma IA as leia é trabalho — mas transformar esse acesso em barreira paga é cercar um bem comum.
   A Advocacia Aberta pega o dado público, organiza para ser lido por agentes e **não cobra por isso**.
@@ -53,10 +72,21 @@ Porque conhecimento jurídico é bem público, e método não precisa ser propri
 
 ## O que defendemos
 
-Um trabalho jurídico assistido por IA em que o **método seja legível**, a **fonte venha antes da
-afirmação**, a **incerteza seja declarada**, a **tecnologia seja substituível** e os **dados do
-cliente permaneçam protegidos** — com o profissional sempre responsável pelo que assina. Esses
-compromissos, em detalhe, estão em [PRINCIPIOS.md](PRINCIPIOS.md).
+Um trabalho jurídico assistido por IA que se sustenta em compromissos verificáveis, não em promessa:
+
+- **O método é legível.** Para a máquina que o executa e para quem o audita.
+- **A prova se refaz, e o bem melhora.** Não pedimos confiança: o sistema é público e reproduzível.
+  Quem quiser clona, roda e confere — e o que aprimora, devolve.
+- **A fonte vem antes da afirmação.** Cada item do acervo aponta para o original oficial.
+- **A incerteza é declarada.** O acervo publica cobertura e limites; o protocolo proíbe inventar fato
+  ou citação.
+- **A tecnologia é substituível.** Nenhum fornecedor e nenhum modelo é dono do trabalho.
+- **O que é público não se cerca.** Lei, súmula e precedente são de todos; organizá-los para uma IA
+  ler não os torna propriedade de quem organizou.
+- **O caso é do cliente.** Abre-se o método; processo, estratégia e dado sigiloso ficam privados.
+- **Quem assina responde.** A decisão é de quem tem OAB.
+
+Esses compromissos, em detalhe operacional, estão em [PRINCIPIOS.md](PRINCIPIOS.md).
 
 Método aberto se constrói junto. Quem se reconhece nisto pode adotar, criticar, melhorar — e assinar.
 
@@ -73,7 +103,7 @@ Este manifesto é um compromisso público, não um contrato. Quem se reconhece n
 pode assiná-lo. A adesão é livre e não cria vínculo, obrigação ou representação entre os
 signatários.
 
-- **Emidio Trancoso** — Maringá/PR · autor do projeto
+- **Emidio Trancoso** — Maringá/PR · autor do projeto · primeiro signatário
 
 > **Quer assinar?** Abra um *pull request* acrescentando seu nome a esta lista, no formato
 > `Nome — Cidade/UF · uma linha opcional`. Assinar significa concordar com os princípios acima —

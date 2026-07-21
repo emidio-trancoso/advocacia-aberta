@@ -5,11 +5,25 @@ seja eficaz e confiável — pela via dos dados e do método, não do discurso. 
 legível, as fontes são pesquisáveis e as ferramentas são executáveis por agentes de IA.
 
 Você não precisa programar. Os protocolos são escritos em português e podem ser
-lidos, criticados e adaptados. As *skills* são a forma atual de fazer Claude Code e
-Codex executarem esses protocolos.
+lidos, criticados e adaptados. As *skills* (arquivos `SKILL.md`) são o formato em que
+esses protocolos chegam ao Claude Code e ao Codex.
 
 Antes de usar dados reais, guarde uma regra: **o método pode ser aberto; o caso do
 cliente permanece privado**. Veja [SIGILO-E-DADOS.md](SIGILO-E-DADOS.md).
+
+## O caminho mais rápido: conectar (sem instalar nada)
+
+Se você só quer que o seu assistente responda com a lei e a jurisprudência certas,
+**conecte o acervo** — não precisa clonar nada. No Claude (Pro/Max) ou no ChatGPT (plano
+pago), adicione um conector personalizado (MCP) com este endereço:
+
+```text
+https://mcp.advocaciaaberta.org/mcp
+```
+
+Pronto: pergunte em português e ele consulta o acervo, com a fonte oficial. O **método**
+(os protocolos abaixo) você **adota** à parte. Para rodar o método inteiro — inclusive
+transcrição, TJPR e diagramação —, siga os três passos.
 
 ## Três passos
 
@@ -29,17 +43,17 @@ Para experimentar sem dados de cliente, construa um procedimento seu.
 No Claude Code:
 
 ```text
-/criar-skill
+/criar-protocolo
 ```
 
 No Codex:
 
 ```text
-$criar-skill
+$criar-protocolo
 ```
 
 Você também pode pedir: “Quero criar um protocolo para revisar contratos de locação”.
-O agente fará uma entrevista sobre entrada, saída e passo a passo e só salvará a skill
+O agente fará uma entrevista sobre entrada, saída e passo a passo e só salvará o protocolo
 depois da sua confirmação.
 
 Para iniciar um caso real, copie `casos/_modelo-de-caso/`, renomeie a pasta e coloque

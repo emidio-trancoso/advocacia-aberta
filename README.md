@@ -3,17 +3,19 @@
 > **Método aberto. Fontes verificáveis. Dados protegidos.**
 
 Quando um advogado usa IA e ela cita uma jurisprudência que não existe, o problema não é a
-ferramenta — é o dado. **A alucinação não é a doença; a doença é o dado ilegível.** A Advocacia
-Aberta organiza o dado jurídico e escreve o método, para que a IA trabalhe com fonte e o
-profissional entenda o que ela fez. Não é um “advogado automático”: é infraestrutura aberta —
-legível por pessoas, executável por Claude Code e Codex, com os casos do cliente sempre privados.
+ferramenta — é o dado. **A alucinação não é a doença — é o sintoma. A doença é o dado ilegível.** A
+Advocacia Aberta é um acervo jurídico curado e um método escrito: conectada ao seu ChatGPT ou Claude,
+ela faz o assistente citar a legislação e a jurisprudência certas — cada uma com a fonte oficial — e o
+profissional entende o que ela fez. Não é um “advogado automático”: é infraestrutura aberta — legível
+por pessoas, executável por agentes de IA (Claude, ChatGPT, Claude Code, Codex), com os casos do
+cliente sempre privados.
 
 [![Licença MIT](https://img.shields.io/badge/licença-MIT-2563EB)](LICENSE)
 [![Agentes: Claude Code + Codex](https://img.shields.io/badge/agentes-Claude%20Code%20%2B%20Codex-111111)](COMECE-AQUI.md)
 [![Verificação](https://github.com/emidio-trancoso/advocacia-aberta/actions/workflows/compatibilidade.yml/badge.svg)](.github/workflows/compatibilidade.yml)
 [![Manifesto](https://img.shields.io/badge/manifesto-a%20tese-6B7280)](MANIFESTO.md)
 
-🌐 [Read this in English](#in-english)
+🌐 [advocaciaaberta.org](https://advocaciaaberta.org) · [Read this in English](#in-english)
 
 ## O que já existe no repositório
 
@@ -27,7 +29,7 @@ O projeto nasce de ativos operacionais, não apenas de uma proposta:
 | Temas | 1.462 temas repetitivos do STJ e 1.470 temas de repercussão geral do STF |
 | Informativo | 11.567 julgados resumidos do Informativo STF, em 1.211 edições |
 | Espelhos de acórdãos | 11.133 acórdãos dos órgãos uniformizadores do STJ (Corte Especial e Seções — não a totalidade dos acórdãos), com ementa e tese |
-| Protocolos | 10 skills para organizar, transcrever, diagnosticar, pesquisar, redigir, revisar e diagramar |
+| Protocolos | 10 protocolos para organizar, transcrever, diagnosticar, pesquisar, redigir, revisar e diagramar |
 | Motores | Vade Mecum para busca jurídica local, busca no TJPR, transcrição e processamento de documentos |
 | Adaptadores | Compatibilidade com Claude Code e Codex, sem duplicar a regra jurídica |
 
@@ -75,9 +77,9 @@ Revisão e decisão profissional
 - **Adaptadores** permitem executar o mesmo método em agentes diferentes.
 - **Casos** permanecem no espaço privado do profissional.
 
-## Rigor que você pode inspecionar
+## Auditar: a prova se refaz
 
-O método não pede confiança — ele se deixa auditar:
+O método não pede confiança — ele se deixa auditar, e o sistema inteiro é reproduzível:
 
 - **Cada mudança no motor de busca passa por um gate de regressão** com 89 consultas julgadas à
   mão (precisão@5, recall e MRR por família de fonte) — veja o
@@ -86,7 +88,7 @@ O método não pede confiança — ele se deixa auditar:
   a mudança feita e o teste — veja as [verificações](base-juridica/verificacoes/).
 - **Um monitoramento agendado vigia as fontes oficiais** e abre uma issue quando detecta mudança —
   sem promover nada sozinho ([workflow](.github/workflows/monitorar-base.yml)).
-- **A revisão desconfia de si mesma:** a skill [`revisar-peca`](.agents/skills/4.1-revisar-peca/)
+- **A revisão desconfia de si mesma:** o protocolo [`revisar-peca`](.agents/skills/4.1-revisar-peca/)
   audita cada citação e classifica os precedentes como Confirmada, Substituível, Forçada ou
   Inexistente.
 
@@ -97,11 +99,34 @@ O método não pede confiança — ele se deixa auditar:
 - **Você constrói com IA** → [Para quem constrói](PARA-DESENVOLVEDORES.md): a base com taxonomia, o
   eval com gate de regressão e a engenharia de contexto por trás.
 
-## Usar em três passos
+## Conectar em um minuto
 
-1. Baixe esta pasta e abra-a no Claude Code ou no Codex.
+O jeito mais rápido de usar não exige instalar nada: você **conecta** o acervo ao assistente de IA
+que já usa, e ele passa a consultar a lei, a súmula, a tese e a jurisprudência — cada uma com a fonte
+oficial. Cole este endereço como conector (MCP):
+
+```text
+https://mcp.advocaciaaberta.org/mcp
+```
+
+- **No Claude (Pro ou Max):** Configurações → Conectores → *Adicionar conector personalizado* → cole
+  o endereço → pergunte em português.
+- **No ChatGPT (plano pago, com Modo desenvolvedor):** Configurações → Conectores → Avançado → ative
+  o *Modo desenvolvedor* → Conectores → *Criar* → cole o endereço → ative na conversa em + → Mais.
+
+Conectar usa o recurso de conectores do próprio Claude ou ChatGPT (disponível nos planos pagos
+deles); a Advocacia Aberta é aberta e sem custo. Hoje o assistente **consulta o acervo**; o **método**
+(os protocolos) você **adota** à parte — colando um protocolo no chat ou clonando o repositório para a
+via plena, abaixo.
+
+## Rodar a via plena (local), em três passos
+
+A via plena roda no seu agente local e habilita o método inteiro, inclusive transcrição, busca no
+TJPR e diagramação em PDF:
+
+1. Baixe esta pasta e abra-a no Claude Code (ou Claude Cowork, no modo local) ou no Codex.
 2. Crie um caso a partir de `casos/_modelo-de-caso/` ou escolha uma tarefa existente.
-3. Acione uma skill ou descreva o trabalho em linguagem natural.
+3. Acione um protocolo ou descreva o trabalho em linguagem natural.
 
 Invocação explícita:
 
@@ -110,7 +135,7 @@ Invocação explícita:
 | Claude Code | `/organizar-caso casos/meu-caso` |
 | Codex | mencione `$organizar-caso` e informe `casos/meu-caso`, ou escolha em `/skills` |
 
-O agente também pode selecionar automaticamente uma skill quando o pedido corresponde à sua
+O agente também pode selecionar automaticamente um protocolo quando o pedido corresponde à sua
 descrição.
 
 **Alternativa — instalar como plugin do Claude Code:**
@@ -120,13 +145,13 @@ descrição.
 /plugin install advocacia-aberta
 ```
 
-As skills ficam disponíveis com namespace, como `/advocacia-aberta:organizar-caso`.
+Os protocolos ficam disponíveis com namespace, como `/advocacia-aberta:organizar-caso`.
 
 ## Protocolos operacionais disponíveis
 
-| Skill atual | O que faz | Setup |
+| Protocolo | O que faz | Setup |
 |---|---|---|
-| `criar-skill` | Constrói um novo procedimento com o usuário, por entrevista | — |
+| `criar-protocolo` | Constrói um novo procedimento (protocolo) com o usuário, por entrevista | — |
 | `organizar-caso` | Lê documentos e produz `SUMARIO.md` | — |
 | `transcrever` | Converte áudio ou vídeo em texto | 🔧 |
 | `diagnosticar` | Mapeia forças e fragilidades em `DIAGNOSTICO.md` | — |
@@ -247,7 +272,9 @@ focused on Brazilian law. When an AI cites case law that does not exist, the pro
 tool — it is the data. **Hallucination is a symptom; illegible data is the disease.** It bundles a
 curated legal corpus (statutes, binding precedents, and case-law digests from Brazil's Supreme
 Federal Court and Superior Court of Justice — tens of thousands of sourced records), ten executable
-protocols (“skills”) for Claude Code and Codex, and local search and processing engines. Every
-search change is guarded by a hand-judged regression eval, and a scheduled job watches the official
-sources. The method is public; client data stays private. Licensed under [MIT](LICENSE). Start with
-the [Manifesto](MANIFESTO.md) and the [getting-started guide](COMECE-AQUI.md).
+protocols (“skills”), and local search and processing engines. It connects to Claude or ChatGPT over
+a hosted MCP endpoint (`mcp.advocaciaaberta.org/mcp`), or can be cloned and run locally in Claude
+Code, Claude Cowork, or Codex. Every search change is guarded by a hand-judged regression eval, and a
+scheduled job watches the official sources. The method is public; client data stays private. Licensed
+under [MIT](LICENSE). Start with the [Manifesto](MANIFESTO.md) and the
+[getting-started guide](COMECE-AQUI.md).

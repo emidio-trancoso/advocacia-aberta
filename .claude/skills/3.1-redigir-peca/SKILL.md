@@ -38,6 +38,22 @@ opcionalmente, o tipo de peça. Exemplos:
 Considere `<caminho-do-caso>` a pasta informada e `<tipo-de-peca>` o tipo informado
 ou confirmado no Passo 1. Os caminhos são relativos à raiz do projeto aberta no agente.
 
+### Dois modos de trabalho
+
+- **Modo repositório** — há uma pasta `casos/<caso>/` no espaço de trabalho; os insumos e a
+  saída seguem os caminhos indicados abaixo.
+- **Modo conversa** — não há pasta do caso: os insumos foram anexados na conversa (ou
+  gerados nela pelas skills anteriores). Trabalhe sobre os anexos e **entregue a peça como
+  arquivo** ao final, em vez de gravar em `casos/<caso>/pecas/`.
+
+Sobre a fundamentação: no modo repositório ela vem de `fundamentacao/LEGISLACAO.md` e
+`fundamentacao/JURISPRUDENCIA.md`; no modo conversa, vem do que a skill `buscar-fontes`
+retornou na conversa. Em ambos os casos a regra-raiz continua valendo — só entra texto de
+lei ou precedente **copiado da fonte verificada**, com o link oficial. A skill `buscar-tjpr`
+depende de ferramenta local e **não está disponível no ChatGPT Web hospedado**; quando ela
+não existir, use apenas a `buscar-fontes` e marque `[verificar na fonte]` o que precisaria de
+confirmação em tribunal específico.
+
 ---
 
 # FASE 1 — PLANEJAR

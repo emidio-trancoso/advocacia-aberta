@@ -11,19 +11,36 @@ filtra os resultados relevantes para o caso em discussão.
 ## Instrução
 
 Considere `<consulta>` o tema ou os termos de pesquisa informados pelo usuário. Se não
-houver consulta, peça-a antes de continuar. Substitua o marcador pelo texto real nos
-comandos abaixo.
+houver consulta, peça-a antes de continuar.
+
+Esta skill busca no mesmo acervo (Vade Mecum) por dois caminhos, conforme o que estiver
+disponível. Use o primeiro que existir:
+
+- **Modo ferramentas** — quando as ferramentas de busca do Vade Mecum estiverem
+  disponíveis na conversa (servidor MCP conectado): use-as diretamente, sem terminal.
+- **Modo terminal** — quando você trabalha sobre o repositório, com Bun disponível: use o
+  CLI abaixo, substituindo o marcador pelo texto real.
 
 ### Passo 1 — Executar busca ampla
 
+**Modo ferramentas:** para uma varredura ampla da `<consulta>`, chame `buscar_sumula`,
+`buscar_tese`, `buscar_tema`, `buscar_tema_rg`, `buscar_informativo` e `buscar_espelho`, e
+reúna os resultados.
+
+**Modo terminal:**
+
 ```bash
-bun run "${CLAUDE_PLUGIN_ROOT:-.}/ferramentas/pesquisa/vade-mecum/src/cli.ts" buscar "<consulta>" 5
+bun run "${PLUGIN_ROOT:-${CLAUDE_PLUGIN_ROOT:-.}}/ferramentas/pesquisa/vade-mecum/src/cli.ts" buscar "<consulta>" 5
 ```
 
 ### Passo 1b — Se necessário, busca focada em legislação
 
+**Modo ferramentas:** chame `buscar_legislacao` com a `<consulta>` (e o código, se souber qual).
+
+**Modo terminal:**
+
 ```bash
-bun run "${CLAUDE_PLUGIN_ROOT:-.}/ferramentas/pesquisa/vade-mecum/src/cli.ts" legislacao "<consulta>" todos 3
+bun run "${PLUGIN_ROOT:-${CLAUDE_PLUGIN_ROOT:-.}}/ferramentas/pesquisa/vade-mecum/src/cli.ts" legislacao "<consulta>" todos 3
 ```
 
 ### Passo 2 — Analisar e filtrar

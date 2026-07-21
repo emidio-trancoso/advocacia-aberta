@@ -11,6 +11,19 @@ O resultado é um único arquivo — `casos/<caso>/analise/SUMARIO.md` — que s
 
 ## Instrução
 
+Esta skill funciona em dois modos, conforme o que você tem em mãos. Escolha pelo que o
+usuário forneceu; na dúvida, pergunte.
+
+- **Modo repositório** — você trabalha sobre a pasta de um caso no espaço de trabalho
+  aberto no agente. Os documentos ficam em `casos/<caso>/autos/` e o resultado é
+  gravado em `casos/<caso>/analise/SUMARIO.md`. Use este modo quando o usuário indicar
+  um `<caminho-do-caso>` ou já existir uma pasta `casos/`.
+- **Modo conversa** — não há pasta do caso: os documentos foram anexados diretamente na
+  conversa. Use os anexos como entrada e, ao final, entregue o `SUMARIO.md` como
+  arquivo para download. Use este modo quando o usuário apenas anexar documentos.
+
+### Modo repositório
+
 Considere `<caminho-do-caso>` o caminho relativo informado pelo usuário (ex.:
 `casos/meu-caso`). Se não tiver sido informado, peça-o antes de continuar. Nos
 comandos e arquivos abaixo, substitua o marcador pelo caminho real, sempre entre
@@ -22,6 +35,21 @@ a ela — nunca use caminhos absolutos.
 Os documentos do caso ficam, por convenção, em `<caminho-do-caso>/autos/`. Se a pasta
 não existir ou os arquivos estiverem soltos diretamente em `<caminho-do-caso>/`,
 trabalhe com o que encontrar e siga em frente.
+
+### Modo conversa
+
+Trabalhe sobre os documentos anexados na conversa — não há estrutura de pastas. Os
+passos abaixo foram escritos para o modo repositório; no modo conversa eles valem
+assim:
+
+- **Passo 1** — em vez de listar a pasta, relacione os documentos que você recebeu na
+  conversa.
+- **Passo 2** — pule; a divisão de PDF depende de script local e só existe no modo
+  repositório.
+- **Passos 3 e 4** — iguais: leia, classifique e levante pessoas, datas e objeto.
+- **Passo 5** — em vez de gravar em `casos/<caso>/analise/`, produza o `SUMARIO.md` e
+  entregue-o como arquivo para download.
+- **Passo 6** — confirme o que foi lido e o que ficou de fora.
 
 ---
 
@@ -46,7 +74,7 @@ Pule este passo se os documentos já vierem separados em vários arquivos.
 Faça este passo **somente** quando o material for **um único PDF enorme** com muitos documentos colados dentro — situação típica de autos de processo exportados de uma vez do PJe ou Projudi. Nesse caso, dividir o arquivo em um PDF por documento facilita a leitura:
 
 ```bash
-python3 "${CLAUDE_PLUGIN_ROOT:-.}/ferramentas/processamento/split-autos/split.py" "<caminho-do-caso>/autos/integra.pdf"
+python3 "${PLUGIN_ROOT:-${CLAUDE_PLUGIN_ROOT:-.}}/ferramentas/processamento/split-autos/split.py" "<caminho-do-caso>/autos/integra.pdf"
 ```
 
 (Troque `integra.pdf` pelo nome real do PDF gigante.) O script grava os PDFs separados na mesma pasta. Depois, refaça a listagem do Passo 1.

@@ -21,6 +21,17 @@ revisar.
 
 A pasta do caso é tudo até `/pecas/` no caminho (no exemplo acima, `casos/joao-silva`). Daqui em diante, `<caso>` se refere a essa pasta.
 
+### Dois modos de trabalho
+
+- **Modo repositório** — a peça e as fontes estão em `casos/<caso>/`, nos caminhos do Passo 1.
+- **Modo conversa** — a peça a revisar e as fontes foram anexadas na conversa (ou geradas
+  nela). Confira contra os anexos e **entregue o relatório de revisão como arquivo** ao final.
+
+Ao validar a base jurídica, a skill `buscar-fontes` (que usa o acervo, inclusive via MCP)
+confere lei, súmulas, temas e teses. A skill `buscar-tjpr` depende de ferramenta local e
+**não roda no ChatGPT Web hospedado**; sem ela, valide com a `buscar-fontes` e confira os
+links oficiais de cada citação, registrando o que ficar pendente de confirmação em tribunal.
+
 ---
 
 ## Passo 1 — Conferir os arquivos disponíveis

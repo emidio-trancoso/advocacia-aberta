@@ -14,14 +14,34 @@ documentos relevantes, e produz o `DIAGNOSTICO.md`.
 
 ## Instrução
 
+Esta skill funciona em dois modos, conforme o que você tem em mãos. Escolha pelo que o
+usuário forneceu; na dúvida, pergunte.
+
+- **Modo repositório** — você trabalha sobre a pasta de um caso no espaço de trabalho
+  aberto no agente. Lê `casos/<caso>/analise/SUMARIO.md` e os documentos relevantes, e
+  grava `casos/<caso>/analise/DIAGNOSTICO.md`. Use quando o usuário indicar um
+  `<caminho-do-caso>` ou já existir uma pasta `casos/`.
+- **Modo conversa** — não há pasta do caso: o `SUMARIO.md` e os documentos foram
+  anexados na conversa (ou o sumário foi gerado antes, na própria conversa, pela skill
+  `organizar-caso`). Use-os como entrada e, ao final, entregue o `DIAGNOSTICO.md` como
+  arquivo para download. Use quando o usuário apenas anexar material.
+
+Em ambos os modos, se ainda não houver um `SUMARIO.md`, execute primeiro a skill
+`organizar-caso`.
+
+### Modo repositório
+
 Considere `<caminho-do-caso>` o caminho relativo informado pelo usuário (ex.:
 `casos/contrato-prestacao-servicos` ou `casos/0001234-56`). Se não tiver sido
-informado, peça-o antes de continuar.
+informado, peça-o antes de continuar. Os caminhos abaixo são todos relativos à raiz do
+projeto aberta no agente.
 
-Os caminhos abaixo são todos relativos à raiz do projeto aberta no agente.
+### Modo conversa
 
-Se o `SUMARIO.md` ainda não existir, execute primeiro a skill `organizar-caso` para
-`<caminho-do-caso>`.
+Não há estrutura de pastas. Onde os passos citam `<caminho-do-caso>/analise/SUMARIO.md`,
+leia o sumário anexado (ou gerado na conversa); onde citam a leitura de documentos, use
+os anexos; e no Passo 6, em vez de gravar em `casos/<caso>/analise/`, produza o
+`DIAGNOSTICO.md` e entregue-o como arquivo para download.
 
 ---
 

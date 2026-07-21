@@ -16,6 +16,17 @@ ESPELHOS = {
     "skills": RAIZ / "skills",                        # adaptador de plugin
 }
 
+# Bundle curado publicado como plugin Codex/OpenAI: subconjunto da fonte canônica
+# com apenas as skills autônomas (ver .codex-plugin/README.md e sincronizar-skills.sh).
+BUNDLE_CODEX = RAIZ / ".codex-plugin" / "skills"
+CURADO_CODEX = (
+    "1.1-organizar-caso",
+    "2.1-diagnosticar",
+    "2.2-buscar-fontes",
+    "3.1-redigir-peca",
+    "4.1-revisar-peca",
+)
+
 MARCADORES_INCOMPATIVEIS = {
     "$ARGUMENTS": "substituição específica de uma interface",
     ".Codex/skills": "caminho inexistente",
@@ -36,6 +47,37 @@ def arquivos_da_arvore(base: Path) -> dict[Path, Path]:
         for arquivo in base.rglob("*")
         if arquivo.is_file() and arquivo.name != ".DS_Store"
     }
+
+
+def filtrar_por_skills(arvore: dict[Path, Path], nomes) -> dict[Path, Path]:
+    """Mantém só os arquivos cuja skill (pasta de topo) está na whitelist."""
+    nomes = set(nomes)
+    return {
+        relativo: caminho
+        for relativo, caminho in arvore.items()
+        if relativo.parts and relativo.parts[0] in nomes
+    }
+
+
+def comparar_arvores(
+    rotulo: str, esperado: dict[Path, Path], atual: dict[Path, Path]
+) -> list[str]:
+    """Compara duas árvores por conjunto de arquivos e por conteúdo (bytes)."""
+    erros: list[str] = []
+    faltando = sorted(set(esperado) - set(atual))
+    sobrando = sorted(set(atual) - set(esperado))
+    divergentes = sorted(
+        relativo
+        for relativo in set(esperado) & set(atual)
+        if esperado[relativo].read_bytes() != atual[relativo].read_bytes()
+    )
+    for relativo in faltando:
+        erros.append(f"Ausente no espelho {rotulo}/: {relativo}")
+    for relativo in sobrando:
+        erros.append(f"Arquivo sem fonte canônica no espelho {rotulo}/: {relativo}")
+    for relativo in divergentes:
+        erros.append(f"Espelho {rotulo}/ divergente da fonte canônica: {relativo}")
+    return erros
 
 
 def ler_frontmatter(caminho: Path) -> dict[str, str]:
@@ -112,21 +154,20 @@ def validar() -> list[str]:
         erros.extend(validar_texto_portavel(relativo, texto))
 
     for rotulo, base in ESPELHOS.items():
-        espelho = arquivos_da_arvore(base)
-        faltando = sorted(set(fonte) - set(espelho))
-        sobrando = sorted(set(espelho) - set(fonte))
-        divergentes = sorted(
-            relativo
-            for relativo in set(fonte) & set(espelho)
-            if fonte[relativo].read_bytes() != espelho[relativo].read_bytes()
-        )
+        erros.extend(comparar_arvores(rotulo, fonte, arquivos_da_arvore(base)))
 
-        for relativo in faltando:
-            erros.append(f"Ausente no espelho {rotulo}/: {relativo}")
-        for relativo in sobrando:
-            erros.append(f"Arquivo sem fonte canônica no espelho {rotulo}/: {relativo}")
-        for relativo in divergentes:
-            erros.append(f"Espelho {rotulo}/ divergente da fonte canônica: {relativo}")
+    # Bundle curado do plugin Codex: subconjunto byte-idêntico da fonte canônica.
+    for nome in CURADO_CODEX:
+        if not (FONTE / nome / "SKILL.md").is_file():
+            erros.append(
+                f"Skill '{nome}' da whitelist do bundle Codex não existe em .agents/skills/."
+            )
+    esperado_curado = filtrar_por_skills(fonte, CURADO_CODEX)
+    erros.extend(
+        comparar_arvores(
+            ".codex-plugin/skills", esperado_curado, arquivos_da_arvore(BUNDLE_CODEX)
+        )
+    )
 
     return erros
 

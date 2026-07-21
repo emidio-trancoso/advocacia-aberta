@@ -1,0 +1,42 @@
+{
+  "name": "advocacia-aberta",
+  "version": "0.3.0",
+  "description": "Método jurídico aberto e executável por agentes de IA. No ChatGPT Web, organiza os documentos de um caso, diagnostica forças e fragilidades, pesquisa fontes jurídicas (legislação, súmulas, temas e teses) com link oficial e apoia a redação e a revisão de peças — a partir de anexos, sem inventar fatos ou citações. Direito brasileiro, PT-BR.",
+  "author": {
+    "name": "Emidio Trancoso",
+    "url": "https://github.com/emidio-trancoso"
+  },
+  "homepage": "https://github.com/emidio-trancoso/advocacia-aberta",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emidio-trancoso/advocacia-aberta"
+  },
+  "license": "MIT",
+  "keywords": [
+    "legal-tech",
+    "legal-ai",
+    "direito",
+    "juridico",
+    "jurisprudencia",
+    "legislacao",
+    "brazilian-law",
+    "agent-skills",
+    "open-source"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Advocacia Aberta",
+    "shortDescription": "Organiza, pesquisa fontes, redige e revisa peças com fontes verificáveis",
+    "longDescription": "Método jurídico aberto para trabalhar sobre os documentos de um caso: organiza a pilha em um sumário rastreável, diagnostica forças e fragilidades, pesquisa fontes jurídicas (legislação, súmulas, temas e teses) com link oficial, e apoia a redação e a revisão de peças. Anexe os documentos na conversa e receba os resultados como arquivos. Não inventa fatos, datas nem citações de lei ou jurisprudência. Direito brasileiro, em português.",
+    "developerName": "Emidio Trancoso",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://github.com/emidio-trancoso/advocacia-aberta",
+    "brandColor": "#2563EB",
+    "defaultPrompt": [
+      "Organize os documentos deste caso e gere um sumário rastreável.",
+      "Pesquise fontes jurídicas (lei, súmulas, temas) para esta questão.",
+      "Revise esta peça: confira provas, fontes e fragilidades."
+    ]
+  }
+}

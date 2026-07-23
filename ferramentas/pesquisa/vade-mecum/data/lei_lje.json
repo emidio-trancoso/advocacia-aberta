@@ -6,7 +6,7 @@
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm",
     "total_artigos": 99,
     "version": "2.0",
-    "gerado_em": "2026-07-19",
+    "gerado_em": "2026-07-23",
     "transformacao": "planalto_html_v1",
     "registros_retidos_sem_correspondencia": []
   },
@@ -381,7 +381,7 @@
     },
     "23": {
       "numero": "23",
-      "texto": "Art. 23. Não comparecendo o demandado, o Juiz togado proferirá sentença.",
+      "texto": "Art. 23. Se o demandado não comparecer ou recusar-se a participar da tentativa de conciliação não presencial, o Juiz togado proferirá sentença. (Redação dada pela Lei nº 13.994, de 2020)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2023.%20N%C3%A3o%20comparecendo%20o%20demandado%2C%20o%20Juiz%20togado%20proferir%C3%A1%20senten%C3%A7a.",
       "keywords": [],
       "hierarchy": {
@@ -781,7 +781,7 @@
     },
     "48": {
       "numero": "48",
-      "texto": "Art. 48. Caberão embargos de declaração quando, na sentença ou acórdão, houver obscuridade, contradição, omissão ou dúvida.",
+      "texto": "Art. 48. Caberão embargos de declaração contra sentença ou acórdão nos casos previstos no Código de Processo Civil. (Redação dada pela Lei nº 13.105, de 2015) (Vigência)\n\nParágrafo único. Os erros materiais podem ser corrigidos de ofício.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2048.%20Caber%C3%A3o%20embargos%20de%20declara%C3%A7%C3%A3o%20quando%2C%20na%20senten%C3%A7a%20ou%20ac%C3%B3rd%C3%A3o%2C%20houver%20obscuridade%2C%20contradi%C3%A7%C3%A3o%2C%20omiss%C3%A3o%20ou%20d%C3%BAvida.",
       "keywords": [],
       "hierarchy": {
@@ -813,7 +813,7 @@
     },
     "50": {
       "numero": "50",
-      "texto": "Art. 50. Quando interpostos contra sentença, os embargos de declaração suspenderão o prazo para recurso.",
+      "texto": "Art. 50. Os embargos de declaração interrompem o prazo para a interposição de recurso. (Redação dada pela Lei nº 13.105, de 2015) (Vigência)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2050.%20Quando%20interpostos%20contra%20senten%C3%A7a%2C%20os%20embargos%20de%20declara%C3%A7%C3%A3o%20suspender%C3%A3o%20o%20prazo%20para%20recurso.",
       "keywords": [],
       "hierarchy": {
@@ -973,7 +973,7 @@
     },
     "60": {
       "numero": "60",
-      "texto": "Art. 60. O Juizado Especial Criminal, provido por Juízes togados ou togados e leigos, tem competência para a conciliação, o julgamento e a execução das infrações penais de menor potencial ofensivo. (Vide Lei nº 10.259, de 2001)",
+      "texto": "Art. 60. O Juizado Especial Criminal, provido por juízes togados ou togados e leigos, tem competência para a conciliação, o julgamento e a execução das infrações penais de menor potencial ofensivo, respeitadas as regras de conexão e continência. (Redação dada pela Lei nº 11.313, de 2006)\n\nParágrafo único. Na reunião de processos, perante o juízo comum ou o tribunal do júri, decorrentes da aplicação das regras de conexão e continência, observar-se-ão os institutos da transação penal e da composição dos danos civis. (Incluído pela Lei nº 11.313, de 2006)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2060.%20O%20Juizado%20Especial%20Criminal%2C%20provido%20por%20Ju%C3%ADzes%20togados%20ou%20togados%20e%20leigos%2C%20tem%20compet%C3%AAncia%20para%20a%20concilia%C3%A7%C3%A3o%2C%20o%20julgamento%20e",
       "keywords": [],
       "hierarchy": {
@@ -1005,7 +1005,7 @@
     },
     "62": {
       "numero": "62",
-      "texto": "Art. 62. O processo perante o Juizado Especial orientar-se-á pelos critérios da oralidade, informalidade, economia processual e celeridade, objetivando, sempre que possível, a reparação dos danos sofridos pela vítima e a aplicação de pena não privativa de liberdade.",
+      "texto": "Art. 62. O processo perante o Juizado Especial orientar-se-á pelos critérios da oralidade, simplicidade, informalidade, economia processual e celeridade, objetivando, sempre que possível, a reparação dos danos sofridos pela vítima e a aplicação de pena não privativa de liberdade. (Redação dada pela Lei nº 13.603, de 2018)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2062.%20O%20processo%20perante%20o%20Juizado%20Especial%20orientar-se-%C3%A1%20pelos%20crit%C3%A9rios%20da%20oralidade%2C%20informalidade%2C%20economia%20processual%20e%20celeridade%2C%20objetivando%2C%20sempre%20que%20poss%C3%ADvel%2C",
       "keywords": [],
       "hierarchy": {
@@ -1341,7 +1341,7 @@
     },
     "83": {
       "numero": "83",
-      "texto": "Art. 83. Caberão embargos de declaração quando, em sentença ou acórdão, houver obscuridade, contradição, omissão ou dúvida.",
+      "texto": "Art. 83. Cabem embargos de declaração quando, em sentença ou acórdão, houver obscuridade, contradição ou omissão. (Redação dada pela Lei nº 13.105, de 2015) (Vigência)\n\n§ 1º Os embargos de declaração serão opostos por escrito ou oralmente, no prazo de cinco dias, contados da ciência da decisão.\n\n§ 2º Quando opostos contra sentença, os embargos de declaração suspenderão o prazo para o recurso.\n\n§ 2o Os embargos de declaração interrompem o prazo para a interposição de recurso. (Redação dada pela Lei nº 13.105, de 2015) (Vigência)\n\n§ 3º Os erros materiais podem ser corrigidos de ofício.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm#:~:text=Art.%2083.%20Caber%C3%A3o%20embargos%20de%20declara%C3%A7%C3%A3o%20quando%2C%20em%20senten%C3%A7a%20ou%20ac%C3%B3rd%C3%A3o%2C%20houver%20obscuridade%2C%20contradi%C3%A7%C3%A3o%2C%20omiss%C3%A3o%20ou%20d%C3%BAvida.",
       "keywords": [],
       "hierarchy": {

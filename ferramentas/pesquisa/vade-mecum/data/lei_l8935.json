@@ -6,7 +6,7 @@
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm",
     "total_artigos": 58,
     "version": "2.0",
-    "gerado_em": "2026-07-19",
+    "gerado_em": "2026-07-23",
     "transformacao": "planalto_html_v1",
     "registros_retidos_sem_correspondencia": []
   },
@@ -285,7 +285,7 @@
     },
     "16": {
       "numero": "16",
-      "texto": "Art. 16. As vagas serão preenchidas alternadamente, duas terças partes por concurso público de provas e títulos e uma terça parte por concurso de remoção, de provas e títulos, não se permitindo que qualquer serventia notarial ou de registro fique vaga, sem abertura de concurso de provimento ou de remoção, por mais de seis meses.",
+      "texto": "Art. 16. As vagas serão preenchidas alternadamente, duas terças partes por concurso público de provas e títulos e uma terça parte por meio de remoção, mediante concurso de títulos, não se permitindo que qualquer serventia notarial ou de registro fique vaga, sem abertura de concurso de provimento inicial ou de remoção, por mais de seis meses. (Redação dada pela Lei nº 10.506, de 9.7.2002)\n\nParágrafo único. Para estabelecer o critério do preenchimento, tomar-se-á por base a data de vacância da titularidade ou, quando vagas na mesma data, aquela da criação do serviço.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2016.%20As%20vagas%20ser%C3%A3o%20preenchidas%20alternadamente%2C%20duas%20ter%C3%A7as%20partes%20por%20concurso%20p%C3%BAblico%20de%20provas%20e%20t%C3%ADtulos%20e%20uma%20ter%C3%A7a%20parte%20por",
       "keywords": [],
       "hierarchy": {
@@ -381,7 +381,7 @@
     },
     "22": {
       "numero": "22",
-      "texto": "Art. 22. Os notários e oficiais de registro responderão pelos danos que eles e seus prepostos causem a terceiros, na prática de atos próprios da serventia, assegurado aos primeiros direito de regresso no caso de dolo ou culpa dos prepostos.",
+      "texto": "Art. 22. Os notários e oficiais de registro são civilmente responsáveis por todos os prejuízos que causarem a terceiros, por culpa ou dolo, pessoalmente, pelos substitutos que designarem ou escreventes que autorizarem, assegurado o direito de regresso. (Redação dada pela Lei nº 13.286, de 2016).\n\nParágrafo único. Prescreve em três anos a pretensão de reparação civil, contado o prazo da data de lavratura do ato registral ou notarial. (Redação dada pela Lei nº 13.286, de 2016).",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2022.%20Os%20not%C3%A1rios%20e%20oficiais%20de%20registro%20responder%C3%A3o%20pelos%20danos%20que%20eles%20e%20seus%20prepostos%20causem%20a%20terceiros%2C%20na%20pr%C3%A1tica%20de",
       "keywords": [],
       "hierarchy": {
@@ -765,7 +765,7 @@
     },
     "45": {
       "numero": "45",
-      "texto": "Art. 45. São gratuitos para os reconhecidamente pobres os assentos do registro civil de nascimento e o de óbito, bem como as respectivas certidões.",
+      "texto": "Art. 45. São gratuitos os assentos do registro civil de nascimento e o de óbito, bem como a primeira certidão respectiva. (Redação dada pela Lei nº 9.534, de 10.12.1997)\n\nParágrafo único. Para os reconhecidamente pobres não serão cobrados emolumentos pelas certidões a que se refere este artigo. (Parágrafo incluído pela Lei nº 9.534, de 10.12.1997)\n\n§ 1º Para os reconhecidamente pobres não serão cobrados emolumentos pelas certidões a que se refere este artigo. (Incluído pela Lei nº 11.789, de 2008)\n\n§ 2º É proibida a inserção nas certidões de que trata o § 1º deste artigo de expressões que indiquem condição de pobreza ou semelhantes. (Incluído pela Lei nº 11.789, de 2008)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm#:~:text=Art.%2045.%20S%C3%A3o%20gratuitos%20para%20os%20reconhecidamente%20pobres%20os%20assentos%20do%20registro%20civil%20de%20nascimento%20e%20o%20de%20%C3%B3bito%2C%20bem%20como%20as",
       "keywords": [],
       "hierarchy": {

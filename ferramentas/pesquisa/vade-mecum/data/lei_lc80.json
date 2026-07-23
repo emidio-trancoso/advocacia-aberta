@@ -6,14 +6,14 @@
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm",
     "total_artigos": 163,
     "version": "2.0",
-    "gerado_em": "2026-07-19",
+    "gerado_em": "2026-07-23",
     "transformacao": "planalto_html_v1",
     "registros_retidos_sem_correspondencia": []
   },
   "artigos": {
     "1": {
       "numero": "1",
-      "texto": "Art. 1º A Defensoria Pública é instituição essencial à função jurisdicional do Estado, incumbindo­lhe prestar assistência jurídica, judicial e extrajudicial, integral e gratuita, aos necessitados, assim considerados na forma da lei.",
+      "texto": "Art. 1º A Defensoria Pública é instituição permanente, essencial à função jurisdicional do Estado, incumbindo-lhe, como expressão e instrumento do regime democrático, fundamentalmente, a orientação jurídica, a promoção dos direitos humanos e a defesa, em todos os graus, judicial e extrajudicial, dos direitos individuais e coletivos, de forma integral e gratuita, aos necessitados, assim considerados na forma do inciso LXXIV do art. 5º da Constituição Federal. (Redação dada pela Lei Complementar nº 132, de 2009).",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm#:~:text=Art.%201%C2%BA%20A%20Defensoria%20P%C3%BAblica%20%C3%A9%20institui%C3%A7%C3%A3o%20essencial%20%C3%A0%20fun%C3%A7%C3%A3o%20jurisdicional%20do%20Estado%2C%20incumbindo%C2%ADlhe%20prestar%20assist%C3%AAncia%20jur%C3%ADdica%2C%20judicial%20e%20extrajudicial%2C%20integral%20e",
       "keywords": [],
       "hierarchy": {
@@ -125,7 +125,7 @@
     },
     "6": {
       "numero": "6",
-      "texto": "Art. 6º A Defensoria Pública da União tem por chefe o Defensor Publico-Geral, nomeado pelo Presidente da República, dentre integrantes da carreira maiores de trinta e cinco anos, após a aprovação de seu nome pela maioria absoluta dos membros do Senado Federal, para mandato de dois anos, permitida uma recondução, precedida de nova aprovação do Senado Federal.",
+      "texto": "Art. 6º A Defensoria Pública da União tem por chefe o Defensor Público-Geral Federal, nomeado pelo Presidente da República, dentre membros estáveis da Carreira e maiores de 35 (trinta e cinco) anos, escolhidos em lista tríplice formada pelo voto direto, secreto, plurinominal e obrigatório de seus membros, após a aprovação de seu nome pela maioria absoluta dos membros do Senado Federal, para mandato de 2 (dois) anos, permitida uma recondução, precedida de nova aprovação do Senado Federal. (Redação dada pela Lei Complementar nº 132, de 2009).\n\n§ 1º (VETADO).\n\n§ 2º (VETADO).",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm#:~:text=Art.%206%C2%BA%20A%20Defensoria%20P%C3%BAblica%20da%20Uni%C3%A3o%20tem%20por%20chefe%20o%20Defensor%20Publico-Geral%2C%20nomeado%20pelo%20Presidente%20da%20Rep%C3%BAblica%2C%20dentre%20integrantes%20da%20carreira",
       "keywords": [],
       "hierarchy": {
@@ -141,7 +141,7 @@
     },
     "7": {
       "numero": "7",
-      "texto": "Art. 7º O Defensor Publico-Geral será substituído, em suas faltas, impedimentos, licenças e férias pelo Subdefensor Publico-Geral, nomeado pelo Presidente da República, dentre os integrantes da Categoria Especial da carreira, escolhidos pelo Conselho Superior, para mandato de dois anos.\n\nParágrafo único. A União poderá, segundo suas necessidades, ter mais de um Subdefensor Publico-Geral.",
+      "texto": "Art. 7º O Defensor Público-Geral Federal será substituído, em suas faltas, impedimentos, licenças e férias, pelo Subdefensor Público-Geral Federal, nomeado pelo Presidente da República, dentre os integrantes da Categoria Especial da Carreira, escolhidos pelo Conselho Superior, para mandato de 2 (dois) anos. (Redação dada pela Lei Complementar nº 132, de 2009).\n\nParágrafo único. A União poderá, segundo suas necessidades, ter mais de um Subdefensor Público-Geral Federal. (Redação dada pela Lei Complementar nº 132, de 2009).",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm#:~:text=Art.%207%C2%BA%20O%20Defensor%20Publico-Geral%20ser%C3%A1%20substitu%C3%ADdo%2C%20em%20suas%20faltas%2C%20impedimentos%2C%20licen%C3%A7as%20e%20f%C3%A9rias%20pelo%20Subdefensor%20Publico-Geral%2C%20nomeado%20pelo%20Presidente%20da%20Rep%C3%BAblica%2C",
       "keywords": [],
       "hierarchy": {
@@ -173,7 +173,7 @@
     },
     "9": {
       "numero": "9",
-      "texto": "Art. 9º O Conselho Superior da Defensoria Pública da União é composto pelo Defensor Publico-Geral, pelo Subdefensor Publico-Geral e pelo Corregedor-Geral, como membros natos e por igual número de representantes da categoria mais elevada da carreira, eleitos pelo voto obrigatório, por todos os integrantes da Instituição.",
+      "texto": "Art. 9º A composição do Conselho Superior da Defensoria Pública da União deve incluir obrigatoriamente o Defensor Público-Geral Federal, o Subdefensor Público-Geral Federal e o Corregedor-Geral Federal, como membros natos, e, em sua maioria, representantes estáveis da Carreira, 2 (dois) por categoria, eleitos pelo voto direto, plurinominal, obrigatório e secreto de todos integrantes da Carreira. (Redação dada pela Lei Complementar nº 132, de 2009).\n\n§ 1º O Conselho Superior é presidido pelo Defensor Público-Geral, que, além do seu voto de membro, tem o de qualidade, exceto em matéria de remoção e promoção, sendo as deliberações tomadas por maioria de votos.\n\n§ 2º As eleições serão realizadas em conformidade com as instruções baixadas pelo Defensor Público-Geral.\n\n§ 3º Os membros do Conselho Superior são eleitos para mandato de dois anos, mediante voto nominal, direto e secreto.\n\n§ 4º São elegíveis os Defensores Públicos da União que não estejam afastados da carreira.\n\n§ 4º São elegíveis os Defensores Públicos Federais que não estejam afastados da Carreira, para mandato de 2 (dois) anos, permitida 1 (uma) reeleição. (Redação dada pela Lei Complementar nº 132, de 2009).\n\n§ 5º São suplentes dos membros eleitos de que trata o caput deste artigo os demais votados, em ordem decrescente.\n\n§ 6º Qualquer membro, exceto os natos, pode desistir de sua participação no Conselho Superior, assumindo, imediatamente, o cargo, o respectivo suplente.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm#:~:text=Art.%209%C2%BA%20O%20Conselho%20Superior%20da%20Defensoria%20P%C3%BAblica%20da%20Uni%C3%A3o%20%C3%A9%20composto%20pelo%20Defensor%20Publico-Geral%2C%20pelo%20Subdefensor%20Publico-Geral%20e%20pelo%20Corregedor-Geral%2C%20como",
       "keywords": [],
       "hierarchy": {
@@ -333,7 +333,7 @@
     },
     "18": {
       "numero": "18",
-      "texto": "Art. 18. Aos Defensores Públicos da União incumbe o desempenho das funções de orientação, postulação e defesa dos direitos e interesses dos necessitados, cabendo­lhes, especialmente:",
+      "texto": "Art. 18. Aos Defensores Públicos Federais incumbe o desempenho das funções de orientação, postulação e defesa dos direitos e interesses dos necessitados, cabendo-lhes, especialmente: (Redação dada pela Lei Complementar nº 132, de 2009).\n\nI - atender às partes e aos interessados;\n\nII - postular a concessão de gratuidade de justiça para os necessitados;\n\nIII - tentar a conciliação das partes, antes de promover a ação cabível;\n\nIV - acompanhar e comparecer aos atos processuais e impulsionar os processos;\n\nV - interpor recurso para qualquer grau de jurisdição e promover revisão criminal, quando cabível;\n\nVI - sustentar, oralmente ou por memorial, os recursos interpostos e as razões apresentadas por intermédio da Defensoria Pública da União;\n\nVII - defender os acusados em processo disciplinar.\n\nVIII – participar, com direito de voz e voto, do Conselho Penitenciário; (Incluído pela Lei Complementar nº 132, de 2009).\n\nIX – certificar a autenticidade de cópias de documentos necessários à instrução de processo administrativo ou judicial, à vista da apresentação dos originais; (Incluído pela Lei Complementar nº 132, de 2009).\n\nX – atuar nos estabelecimentos penais sob a administração da União, visando ao atendimento jurídico permanente dos presos e sentenciados, competindo à administração do sistema penitenciário federal reservar instalações seguras e adequadas aos seus trabalhos, franquear acesso a todas as dependências do estabelecimento independentemente de prévio agendamento, fornecer apoio administrativo, prestar todas as informações solicitadas, assegurar o acesso à documentação dos presos e internos, aos quais não poderá, sob fundamento algum, negar o direito de entrevista com os membros da Defensoria Pública da União. (Incluído pela Lei Complementar nº 132, de 2009).",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm#:~:text=Art.%2018.%20Aos%20Defensores%20P%C3%BAblicos%20da%20Uni%C3%A3o%20incumbe%20o%20desempenho%20das%20fun%C3%A7%C3%B5es%20de%20orienta%C3%A7%C3%A3o%2C%20postula%C3%A7%C3%A3o%20e%20defesa%20dos%20direitos%20e%20interesses%20dos",
       "keywords": [],
       "hierarchy": {
@@ -349,7 +349,7 @@
     },
     "19": {
       "numero": "19",
-      "texto": "Art. 19. A Defensoria Pública da União é integrada pela carreira de Defensor Público da União, composta de três categorias de cargos efetivos:\n\nI - Defensor Público da União de 2ª Categoria (inicial);\n\nII - Defensor Público da União de 1ª Categoria (intermediária);\n\nIII - Defensor Público da União de Categoria Especial (final).",
+      "texto": "Art. 19. A Defensoria Pública da União é integrada pela Carreira de Defensor Público Federal, composta de 3 (três) categorias de cargos efetivos: (Redação dada pela Lei Complementar nº 132, de 2009) (Vide Lei nº 12.763, de 2012)\n\nI – Defensor Público Federal de 2ª Categoria (inicial); (Redação dada pela Lei Complementar nº 132, de 2009).\n\nII – Defensor Público Federal de 1ª Categoria (intermediária); (Redação dada pela Lei Complementar nº 132, de 2009).\n\nIII – Defensor Público Federal de Categoria Especial (final). (Redação dada pela Lei Complementar nº 132, de 2009).",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm#:~:text=Art.%2019.%20A%20Defensoria%20P%C3%BAblica%20da%20Uni%C3%A3o%20%C3%A9%20integrada%20pela%20carreira%20de%20Defensor%20P%C3%BAblico%20da%20Uni%C3%A3o%2C%20composta%20de%20tr%C3%AAs%20categorias%20de%20cargos",
       "keywords": [],
       "hierarchy": {
@@ -365,7 +365,7 @@
     },
     "20": {
       "numero": "20",
-      "texto": "Art. 20. Os Defensores Públicos da União de 2ª Categoria atuarão junto aos Juízos Federais, às Juntas de Conciliação e Julgamento, às Juntas e aos Juízes Eleitorais, aos Juízes Militares, nas Auditorias Militares, ao Tribunal Marítimo e às instâncias administrativas.",
+      "texto": "Art. 20. Os Defensores Públicos Federais de 2ª Categoria atuarão junto aos Juízos Federais, aos Juízos do Trabalho, às Juntas e aos Juízes Eleitorais, aos Juízes Militares, às Auditorias Militares, ao Tribunal Marítimo e às instâncias administrativas. (Redação dada pela Lei Complementar nº 132, de 2009).",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm#:~:text=Art.%2020.%20Os%20Defensores%20P%C3%BAblicos%20da%20Uni%C3%A3o%20de%202%C2%AA%20Categoria%20atuar%C3%A3o%20junto%20aos%20Ju%C3%ADzos%20Federais%2C%20%C3%A0s%20Juntas%20de%20Concilia%C3%A7%C3%A3o%20e%20Julgamento%2C%20%C3%A0s",
       "keywords": [],
       "hierarchy": {
@@ -381,7 +381,7 @@
     },
     "21": {
       "numero": "21",
-      "texto": "Art. 21. Os Defensores Públicos da União de 1ª Categoria atuarão junto aos Tribunais Regionais Federais, aos Tribunais Regionais do Trabalho e aos Tribunais Regionais Eleitorais.",
+      "texto": "Art. 21. Os Defensores Públicos Federais de 1ª Categoria atuarão nos Tribunais Regionais Federais, nas Turmas dos Juizados Especiais Federais, nos Tribunais Regionais do Trabalho e nos Tribunais Regionais Eleitorais. (Redação dada pela Lei Complementar nº 132, de 2009).",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm#:~:text=Art.%2021.%20Os%20Defensores%20P%C3%BAblicos%20da%20Uni%C3%A3o%20de%201%C2%AA%20Categoria%20atuar%C3%A3o%20junto%20aos%20Tribunais%20Regionais%20Federais%2C%20aos%20Tribunais%20Regionais%20do%20Trabalho%20e",
       "keywords": [],
       "hierarchy": {
@@ -397,7 +397,7 @@
     },
     "22": {
       "numero": "22",
-      "texto": "Art. 22. Os Defensores Públicos da União de Categoria Especial atuarão junto ao Superior Tribunal de Justiça, ao Tribunal Superior do Trabalho, ao Tribunal Superior Eleitoral e ao Superior Tribunal Militar.",
+      "texto": "Art. 22. Os Defensores Públicos Federais de Categoria Especial atuarão no Superior Tribunal de Justiça, no Tribunal Superior do Trabalho, no Tribunal Superior Eleitoral, no Superior Tribunal Militar e na Turma Nacional de Uniformização dos Juizados Especiais Federais. (Redação dada pela Lei Complementar nº 132, de 2009).\n\nParágrafo único. (VETADO).",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm#:~:text=Art.%2022.%20Os%20Defensores%20P%C3%BAblicos%20da%20Uni%C3%A3o%20de%20Categoria%20Especial%20atuar%C3%A3o%20junto%20ao%20Superior%20Tribunal%20de%20Justi%C3%A7a%2C%20ao%20Tribunal%20Superior%20do%20Trabalho%2C",
       "keywords": [],
       "hierarchy": {
@@ -429,7 +429,7 @@
     },
     "24": {
       "numero": "24",
-      "texto": "Art. 24. O ingresso na Carreira da Defensoria Pública da União far­se­á mediante aprovação prévia em concurso público, de âmbito nacional, de provas e títulos, com a participação da Ordem dos Advogados do Brasil, no cargo inicial de Defensor Público da União de 2ª Categoria. (Vide Lei nº 9.020, de 1995)",
+      "texto": "Art. 24. O ingresso na Carreira da Defensoria Pública da União far-se-á mediante aprovação prévia em concurso público, de âmbito nacional, de provas e títulos, com a participação da Ordem dos Advogados do Brasil, no cargo inicial de Defensor Público Federal de 2ª Categoria. (Redação dada pela Lei Complementar nº 132, de 2009).\n\n§ 1º Do regulamento do concurso constarão os programas das disciplinas sobre as quais versarão as provas, bem como outras disposições pertinentes à sua organização e realização.\n\n§ 2º O edital de abertura de inscrições no concurso indicará, obrigatoriamente, o número de cargos vagos na categoria inicial da carreira.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm#:~:text=Art.%2024.%20O%20ingresso%20na%20Carreira%20da%20Defensoria%20P%C3%BAblica%20da%20Uni%C3%A3o%20far%C2%ADse%C2%AD%C3%A1%20mediante%20aprova%C3%A7%C3%A3o%20pr%C3%A9via%20em%20concurso%20p%C3%BAblico%2C%20de%20%C3%A2mbito%20nacional%2C%20de",
       "keywords": [],
       "hierarchy": {
@@ -525,7 +525,7 @@
     },
     "29": {
       "numero": "29",
-      "texto": "Art. 29. Os Defensores Públicos da União serão lotados e distribuídos pelo Defensor Publico-Geral, assegurado aos nomeados para os cargos iniciais o direito de escolha do órgão de atuação, desde que vago e obedecida a ordem de classificação no concurso.",
+      "texto": "Art. 29. Os Defensores Públicos Federais serão lotados e distribuídos pelo Defensor Público-Geral Federal, assegurado aos nomeados para os cargos iniciais o direito de escolha do órgão de atuação, desde que vago e obedecida a ordem de classificação no concurso. (Redação dada pela Lei Complementar nº 132, de 2009).",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm#:~:text=Art.%2029.%20Os%20Defensores%20P%C3%BAblicos%20da%20Uni%C3%A3o%20ser%C3%A3o%20lotados%20e%20distribu%C3%ADdos%20pelo%20Defensor%20Publico-Geral%2C%20assegurado%20aos%20nomeados%20para%20os%20cargos%20iniciais%20o",
       "keywords": [],
       "hierarchy": {
@@ -669,7 +669,7 @@
     },
     "38": {
       "numero": "38",
-      "texto": "Art. 38. Quando por permuta, a remoção será concedida mediante requerimento dos interessados, atendida a conveniência do serviço.",
+      "texto": "Art. 38. Quando por permuta, a remoção será concedida mediante requerimento do interessado, atendida a conveniência do serviço e observada a ordem de antiguidade na Carreira. (Redação dada pela Lei Complementar nº 132, de 2009).",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm#:~:text=Art.%2038.%20Quando%20por%20permuta%2C%20a%20remo%C3%A7%C3%A3o%20ser%C3%A1%20concedida%20mediante%20requerimento%20dos%20interessados%2C%20atendida%20a%20conveni%C3%AAncia%20do%20servi%C3%A7o.",
       "keywords": [],
       "hierarchy": {
@@ -941,7 +941,7 @@
     },
     "54": {
       "numero": "54",
-      "texto": "Art. 54. A Defensoria Pública-Geral do Distrito Federal e dos Territórios tem por Chefe o Defensor Publico-Geral, nomeado pelo Presidente da República dentre integrantes da carreira, maiores de trinta e cinco anos, para mandato de dois anos, permitida uma recondução.",
+      "texto": "Art. 54. A Defensoria Pública do Distrito Federal e dos Territórios tem por Chefe o Defensor Público-Geral, nomeado pelo Presidente da República, dentre membros estáveis da Carreira e maiores de 35 (trinta e cinco) anos, escolhidos em lista tríplice formada pelo voto direto, secreto, plurinominal e obrigatório de seus membros, para mandato de 2 (dois) anos, permitida 1 (uma) recondução. (Redação dada pela Lei Complementar nº 132, de 2009).\n\nParágrafo único. (VETADO)\n\n§ 2º (VETADO) (Incluído dada pela Lei Complementar nº 132, de 2009).",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm#:~:text=Art.%2054.%20A%20Defensoria%20P%C3%BAblica-Geral%20do%20Distrito%20Federal%20e%20dos%20Territ%C3%B3rios%20tem%20por%20Chefe%20o%20Defensor%20Publico-Geral%2C%20nomeado%20pelo%20Presidente%20da%20Rep%C3%BAblica",
       "keywords": [],
       "hierarchy": {
@@ -989,7 +989,7 @@
     },
     "57": {
       "numero": "57",
-      "texto": "Art. 57. O Conselho Superior da Defensoria Pública do Distrito Federal e dos Territórios é composto pelo Defensor Publico-Geral, pelo Subdefensor Publico-Geral e pelo Corregedor-Geral, como membros natos e por igual número de representantes da categoria mais elevada da carreira, eleitos pelo voto obrigatório, por todos os integrantes da Instituição.\n\n§ 1º O Conselho Superior é presidido pelo Defensor Publico-Geral, que, além do seu voto de membro, tem o de qualidade, exceto em matéria de remoção e promoção, sendo as deliberações tomadas por maioria de votos.\n\n§ 2º As eleições serão realizadas em conformidade com as instruções baixadas pelo Defensor Publico-Geral.\n\n§ 3º Os membros do Conselho Superior são eleitos para mandato de dois anos, mediante voto nominal, direto e secreto.",
+      "texto": "Art. 57. A composição do Conselho Superior da Defensoria Pública do Distrito Federal e dos Territórios deve incluir obrigatoriamente o Defensor Público-Geral, o Subdefensor Público-Geral e o Corregedor-Geral, como membros natos, e, em sua maioria, representantes estáveis da Carreira, 2 (dois) por categoria, eleitos pelo voto direto, plurinominal, secreto e obrigatório, de todos os integrantes da Carreira. (Redação dada pela Lei Complementar nº 132, de 2009).\n\n§ 1º O Conselho Superior é presidido pelo Defensor Público-Geral, que terá voto de qualidade, exceto em matéria disciplinar. (Redação dada pela Lei Complementar nº 132, de 2009).\n\n§ 2 As eleições serão realizadas em conformidade com as instruções baixadas pelo Conselho Superior. (Redação dada pela Lei Complementar nº 132, de 2009).\n\n§ 3º Os membros do Conselho Superior são eleitos para mandato de 2 (dois) anos, permitida 1 (uma) reeleição. (Redação dada pela Lei Complementar nº 132, de 2009).\n\n§ 4º São elegíveis os Defensores Públicos do Distrito Federal e dos Territórios que não estejam afastados da carreira.\n\n§ 5º São suplentes dos membros eleitos de que trata o caput deste artigo os demais votados, em ordem decrescente.\n\n§ 6º Qualquer membro, exceto o nato, pode desistir de sua participação no Conselho Superior, assumindo, imediatamente, o cargo, o respectivo suplente.\n\n§ 7º O presidente da entidade de classe de âmbito distrital de maior representatividade dos membros da Defensoria Pública do Distrito Federal e dos Territórios terá assento e voz nas reuniões do Conselho Superior. (Incluído pela Lei Complementar nº 132, de 2009).",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm#:~:text=Art.%2057.%20O%20Conselho%20Superior%20da%20Defensoria%20P%C3%BAblica%20do%20Distrito%20Federal%20e%20dos%20Territ%C3%B3rios%20%C3%A9%20composto%20pelo%20Defensor%20Publico-Geral%2C%20pelo%20Subdefensor%20Publico-Geral",
       "keywords": [],
       "hierarchy": {
@@ -1709,7 +1709,7 @@
     },
     "99": {
       "numero": "99",
-      "texto": "Art. 99. A Defensoria Pública do Estado tem por chefe o Defensor Publico-Geral, nomeado pelo Governador do Estado, dentre integrantes da carreira maiores de trinta e cinco anos, na forma disciplinada pela legislação estadual.",
+      "texto": "Art. 99. A Defensoria Pública do Estado tem por chefe o Defensor Público-Geral, nomeado pelo Governador do Estado, dentre membros estáveis da Carreira e maiores de 35 (trinta e cinco) anos, escolhidos em lista tríplice formada pelo voto direto, secreto, plurinominal e obrigatório de seus membros, para mandato de 2 (dois) anos, permitida uma recondução. (Redação dada pela Lei Complementar nº 132, de 2009).\n\n§ 1º O Defensor Publico-Geral será substituído em suas faltas, licenças, férias e impedimentos pelo Subdefensor Publico-Geral, nomeado pelo Governador do Estado, dentre os integrantes da carreira, na forma da legislação estadual.\n\n§ 1º O Defensor Público-Geral será substituído em suas faltas, licenças, férias e impedimentos pelo Subdefensor Público-Geral, por ele nomeado dentre integrantes estáveis da Carreira, na forma da legislação estadual. (Redação dada pela Lei Complementar nº 132, de 2009).\n\n§ 2º Os Estados, segundo suas necessidades, poderão ter mais de um Subdefensor Publico-Geral.\n\n§ 3º O Conselho Superior editará as normas regulamentando a eleição para a escolha do Defensor Público-Geral. (Incluído pela Lei Complementar nº 132, de 2009).\n\n§ 4º Caso o Chefe do Poder Executivo não efetive a nomeação do Defensor Público-Geral nos 15 (quinze) dias que se seguirem ao recebimento da lista tríplice, será investido automaticamente no cargo o Defensor Público mais votado para exercício do mandato. (Incluído pela Lei Complementar nº 132, de 2009).",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm#:~:text=Art.%2099.%20A%20Defensoria%20P%C3%BAblica%20do%20Estado%20tem%20por%20chefe%20o%20Defensor%20Publico-Geral%2C%20nomeado%20pelo%20Governador%20do%20Estado%2C%20dentre%20integrantes%20da%20carreira",
       "keywords": [],
       "hierarchy": {
@@ -1741,7 +1741,7 @@
     },
     "101": {
       "numero": "101",
-      "texto": "Art. 101. O Conselho Superior da Defensoria Pública do Estado é composto pelo Defensor Publico-Geral, pelo Subdefensor Publico-Geral e pelo Corregedor-Geral, como membros natos, e por representantes da categoria mais elevada da carreira, em número e forma a serem fixados em lei estadual.\n\nParágrafo único. O Conselho Superior será presidido pelo Defensor Publico-Geral.",
+      "texto": "Art. 101. A composição do Conselho Superior da Defensoria Pública do Estado deve incluir obrigatoriamente o Defensor Público-Geral, o Subdefensor Público-Geral, o Corregedor-Geral e o Ouvidor-Geral, como membros natos, e, em sua maioria, representantes estáveis da Carreira, eleitos pelo voto direto, plurinominal, obrigatório e secreto de seus membros, em número e forma a serem fixados em lei estadual. (Redação dada pela Lei Complementar nº 132, de 2009).\n\n§ 1º O Conselho Superior é presidido pelo Defensor Público-Geral, que terá voto de qualidade, exceto em matéria disciplinar. (Incluído pela Lei Complementar nº 132, de 2009).\n\n§ 2º As eleições serão realizadas em conformidade com as instruções baixadas pelo Conselho Superior da Defensoria Pública do Estado. (Incluído pela Lei Complementar nº 132, de 2009).\n\n§ 3º Os membros do Conselho Superior são eleitos para mandato de 2 (dois) anos, permitida uma reeleição. (Incluído pela Lei Complementar nº 132, de 2009).\n\n§ 4º São elegíveis os membros estáveis da Defensoria Pública que não estejam afastados da Carreira. (Incluído pela Lei Complementar nº 132, de 2009).\n\n§ 5º O presidente da entidade de classe de maior representatividade dos membros da Defensoria Pública do Estado terá assento e voz nas reuniões do Conselho Superior. (Incluído pela Lei Complementar nº 132, de 2009).",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm#:~:text=Art.%20101.%20O%20Conselho%20Superior%20da%20Defensoria%20P%C3%BAblica%20do%20Estado%20%C3%A9%20composto%20pelo%20Defensor%20Publico-Geral%2C%20pelo%20Subdefensor%20Publico-Geral%20e%20pelo%20Corregedor-Geral%2C%20como",
       "keywords": [],
       "hierarchy": {
@@ -1789,7 +1789,7 @@
     },
     "104": {
       "numero": "104",
-      "texto": "Art. 104. A Corregedoria-Geral é exercida pelo Corregedor-Geral, indicado dentre os integrantes da classe mais elevada da carreira em lista sêxtupla formada pelo Conselho Superior, e nomeado pelo Governador do Estado, para mandato de dois anos.",
+      "texto": "Art. 104. A Corregedoria-Geral é exercida pelo Corregedor-Geral indicado dentre os integrantes da classe mais elevada da Carreira, em lista tríplice formada pelo Conselho Superior, e nomeado pelo Defensor Público-Geral para mandato de 2 (dois) anos, permitida 1 (uma) recondução. (Redação dada pela Lei Complementar nº 132, de 2009).\n\n§ 1º O Corregedor-Geral poderá ser destituído por proposta do Defensor Publico-Geral, pelo voto de dois terços do Conselho Superior, antes do término do mandato. (Renumerado pela Lei Complementar nº 132, de 2009).\n\n§ 2º A lei estadual poderá criar um ou mais cargos de Subcorregedor, fixando as atribuições e especificando a forma de designação. (Incluído pela Lei Complementar nº 132, de 2009).",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm#:~:text=Art.%20104.%20A%20Corregedoria-Geral%20%C3%A9%20exercida%20pelo%20Corregedor-Geral%2C%20indicado%20dentre%20os%20integrantes%20da%20classe%20mais%20elevada%20da%20carreira%20em%20lista%20s%C3%AAxtupla%20formada",
       "keywords": [],
       "hierarchy": {
@@ -1901,7 +1901,7 @@
     },
     "107": {
       "numero": "107",
-      "texto": "Art. 107. A Defensoria Pública do Estado poderá atuar através de núcleos.",
+      "texto": "Art. 107. A Defensoria Pública do Estado poderá atuar por intermédio de núcleos ou núcleos especializados, dando-se prioridade, de todo modo, às regiões com maiores índices de exclusão social e adensamento populacional. (Redação dada pela Lei Complementar nº 132, de 2009).",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm#:~:text=Art.%20107.%20A%20Defensoria%20P%C3%BAblica%20do%20Estado%20poder%C3%A1%20atuar%20atrav%C3%A9s%20de%20n%C3%BAcleos.",
       "keywords": [],
       "hierarchy": {
@@ -1917,7 +1917,7 @@
     },
     "108": {
       "numero": "108",
-      "texto": "Art. 108. Aos Defensores Públicos do Estado incumbe, dentre outras atribuições estabelecidas pela lei estadual, o desempenho da função de orientação e defesa dos necessitados, no âmbito judicial, extrajudicial e administrativo do respectivo Estado.",
+      "texto": "Art. 108. Aos membros da Defensoria Pública do Estado incumbe, sem prejuízo de outras atribuições estabelecidas pelas Constituições Federal e Estadual, pela Lei Orgânica e por demais diplomas legais, a orientação jurídica e a defesa dos seus assistidos, no âmbito judicial, extrajudicial e administrativo. (Redação dada pela Lei Complementar nº 132, de 2009).\n\nParágrafo único. São, ainda, atribuições dos Defensores Públicos Estaduais: (Incluído pela Lei Complementar nº 132, de 2009).\n\nI – atender às partes e aos interessados; (Incluído pela Lei Complementar nº 132, de 2009).\n\nII – participar, com direito a voz e voto, dos Conselhos Penitenciários; (Incluído pela Lei Complementar nº 132, de 2009).\n\nIII – certificar a autenticidade de cópias de documentos necessários à instrução de processo administrativo ou judicial, à vista da apresentação dos originais; (Incluído pela Lei Complementar nº 132, de 2009).\n\nIV – atuar nos estabelecimentos prisionais, policiais, de internação e naqueles reservados a adolescentes, visando ao atendimento jurídico permanente dos presos provisórios, sentenciados, internados e adolescentes, competindo à administração estadual reservar instalações seguras e adequadas aos seus trabalhos, franquear acesso a todas as dependências do estabelecimento independentemente de prévio agendamento, fornecer apoio administrativo, prestar todas as informações solicitadas e assegurar o acesso à documentação dos assistidos, aos quais não poderá, sob fundamento algum, negar o direito de entrevista com os membros da Defensoria Pública do Estado. (Incluído pela Lei Complementar nº 132, de 2009).",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm#:~:text=Art.%20108.%20Aos%20Defensores%20P%C3%BAblicos%20do%20Estado%20incumbe%2C%20dentre%20outras%20atribui%C3%A7%C3%B5es%20estabelecidas%20pela%20lei%20estadual%2C%20o%20desempenho%20da%20fun%C3%A7%C3%A3o%20de%20orienta%C3%A7%C3%A3o%20e",
       "keywords": [],
       "hierarchy": {
@@ -2173,7 +2173,7 @@
     },
     "123": {
       "numero": "123",
-      "texto": "Art. 123. Quando por permuta, a remoção será concedida mediante requerimento dos interessados, na forma disciplinada pela legislação estadual.",
+      "texto": "Art. 123. Quando por permuta, a remoção será concedida mediante requerimento dos interessados, respeitada a antiguidade dos demais, na forma da lei estadual. (Redação dada pela Lei Complementar nº 132, de 2009)\n\nParágrafo único. O Defensor Público-Geral dará ampla divulgação aos pedidos de permuta. (Incluído pela Lei Complementar nº 132, de 2009).",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm#:~:text=Art.%20123.%20Quando%20por%20permuta%2C%20a%20remo%C3%A7%C3%A3o%20ser%C3%A1%20concedida%20mediante%20requerimento%20dos%20interessados%2C%20na%20forma%20disciplinada%20pela%20legisla%C3%A7%C3%A3o%20estadual.",
       "keywords": [],
       "hierarchy": {
@@ -2397,7 +2397,7 @@
     },
     "136": {
       "numero": "136",
-      "texto": "Art. 136. Os Defensores Públicos da União, do Distrito Federal e dos Territórios estão sujeitos ao regime jurídico especial desta Lei Complementar e gozam de independência no exercício de suas funções, aplicando­se­lhes, subsidiariamente, o instituído pela Lei nº 8.112, de 11 de junho de 1990.",
+      "texto": "Art. 136. Os Defensores Públicos Federais, bem como os do Distrito Federal, estão sujeitos ao regime jurídico desta Lei Complementar e gozam de independência no exercício de suas funções, aplicando-se-lhes, subsidiariamente, o instituído pela Lei nº 8.112, de 11 de dezembro de 1990. (Redação dada pela Lei Complementar nº 132, de 2009).",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm#:~:text=Art.%20136.%20Os%20Defensores%20P%C3%BAblicos%20da%20Uni%C3%A3o%2C%20do%20Distrito%20Federal%20e%20dos%20Territ%C3%B3rios%20est%C3%A3o%20sujeitos%20ao%20regime%20jur%C3%ADdico%20especial%20desta%20Lei%20Complementar",
       "keywords": [],
       "hierarchy": {

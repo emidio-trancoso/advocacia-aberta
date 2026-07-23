@@ -1064,14 +1064,16 @@
         "L9514:22",
         "L9514:23",
         "L9514:24",
+        "L9514:26",
+        "L9514:26-A",
+        "L9514:27",
         "L9514:27-A",
         "L9514:17"
       ],
       "obrigatorios": [
-        "L9514:22",
-        "L9514:23"
+        "L9514:22"
       ],
-      "justificativa": "O art. 22 define a alienação fiduciária de coisa imóvel; o art. 23 sua constituição por registro; o art. 24 o conteúdo do contrato; o art. 27-A a garantia sobre múltiplos imóveis; o art. 17 o rol de garantias do financiamento imobiliário."
+      "justificativa": "O art. 22 define a alienação fiduciária de coisa imóvel e é o único exigido no topo. A consulta pede também a consolidação da propriedade: os arts. 26, 26-A e 27 tratam justamente da mora, do procedimento de consolidação e do leilão subsequente, e passaram a figurar no topo depois que a atualização de 2026-07-23 substituiu neles o texto revogado pela redação vigente — antes ficavam invisíveis. O art. 23 (constituição por registro) segue relevante, mas deixou de ser exigido no top-5 porque, nesta redação de consulta, os dispositivos de consolidação respondem mais diretamente. Arts. 24 (conteúdo do contrato), 27-A (múltiplos imóveis) e 17 (rol de garantias) completam o conjunto pertinente."
     },
     {
       "id": "l6766-parcelamento",
@@ -1307,13 +1309,14 @@
       "relevantes": [
         "L12846:1",
         "L12846:5",
+        "L12846:16",
+        "L12846:17",
         "L12846:30"
       ],
       "obrigatorios": [
-        "L12846:1",
-        "L12846:5"
+        "L12846:1"
       ],
-      "justificativa": "O art. 1º institui a responsabilização objetiva de pessoas jurídicas; o art. 5º tipifica os atos lesivos; o art. 30 preserva a independência das demais instâncias. Os arts. 17-A e 9º (competências), também recuperados, não foram julgados relevantes."
+      "justificativa": "O art. 1º institui a responsabilização objetiva e é o único exigido no topo. A consulta nomeia expressamente o acordo de leniência: os arts. 16 e 17 são os dispositivos que o regem (celebração e hipótese em licitações e contratos) e o art. 30 ressalva seus efeitos sobre as demais instâncias. Eles subiram no ranking depois que a atualização de 2026-07-23 recuperou neles a redação vigente, antes truncada. O art. 5º (tipificação dos atos lesivos) segue relevante, mas deixou de ser exigido no top-5 diante de dispositivos que respondem literalmente ao termo 'acordo de leniência'."
     },
     {
       "id": "mci-responsabilidade-provedor",

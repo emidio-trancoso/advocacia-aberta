@@ -79,24 +79,35 @@
       }
     },
     "lei_cag.json": {
-      "versao": 2,
-      "sha256": "d0abf9d515e4faa07aa43a5eec9a281354fb91f7a37556b28900cb4fa298b9e4",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "7e21eb53f33501572666565fb1126ffb7d2113c0bf1ef07fabfa6301646f2dc9",
+      "gerado_em": "2026-07-23",
       "registros": 205,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
         "removidos": 0,
-        "alterados": 0,
+        "alterados": 16,
         "amostra_adicionados": [],
         "amostra_removidos": [],
-        "amostra_alterados": []
+        "amostra_alterados": [
+          "101",
+          "102",
+          "103",
+          "104",
+          "105",
+          "106",
+          "107",
+          "108",
+          "109",
+          "110"
+        ]
       }
     },
     "lei_cba.json": {
-      "versao": 2,
-      "sha256": "a1a640c89f6c552370e7a26a89444f1a55a1ce94898be88a05541fcde7f29222",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "6171e90652bbc92418ff8230a8012bd2376552a2f20ff3d6ccd57fa59bfdbd8b",
+      "gerado_em": "2026-07-23",
       "registros": 326,
       "colecao": "artigos",
       "mudancas": {
@@ -109,9 +120,9 @@
       }
     },
     "lei_cbt.json": {
-      "versao": 2,
-      "sha256": "9c7b24cf4115e24d79469e1ce09027bbe7440279303f6271bb77f1ca3295151f",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "cd40e5d56cc1f879fcdee18c17823e27f2ccfef822c7e03cbdc62a815642f329",
+      "gerado_em": "2026-07-23",
       "registros": 105,
       "colecao": "artigos",
       "mudancas": {
@@ -150,9 +161,9 @@
       }
     },
     "lei_ccom.json": {
-      "versao": 2,
-      "sha256": "d418d1a12e582c9864a4afa00d08f227979e63f2154ab1b16761f45428d76d4a",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "6393c09dbc1038551e231033ca7271aaaf524fef78c8c531d26ea315aa8e0f92",
+      "gerado_em": "2026-07-23",
       "registros": 448,
       "colecao": "artigos",
       "mudancas": {
@@ -210,9 +221,9 @@
       }
     },
     "lei_cflo.json": {
-      "versao": 2,
-      "sha256": "611b7aa1620afa4420adad8ee4b7ee248ce85e2f45c4f98f31db324bd8cc3a8b",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "defda2c4eee329593afbda3fb90baee61b7655f2c8436e6af52cb471fa3ee15a",
+      "gerado_em": "2026-07-23",
       "registros": 91,
       "colecao": "artigos",
       "mudancas": {
@@ -251,9 +262,9 @@
       }
     },
     "lei_cmin.json": {
-      "versao": 2,
-      "sha256": "dc7683a5a779c1c0060ee6c4cc08e2581e5cceaf87ad01c48b400c7831c3ee82",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "2044c330dcb368cde405337d80993f791387f92f21d4a6ae9a54ec400b2ed7ff",
+      "gerado_em": "2026-07-23",
       "registros": 102,
       "colecao": "artigos",
       "mudancas": {
@@ -296,12 +307,19 @@
       }
     },
     "lei_cpm.json": {
-      "versao": 1,
-      "sha256": "78b50b41c864345498f8ff7ea900c615296304163a33a7fd570914cb419a148c",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "d3d4a3b81e0c2b2e13e00842e50a0a4e51f7a06e3d3921d9ef1f1268acd397f1",
+      "gerado_em": "2026-07-23",
       "registros": 411,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_cpp.json": {
       "versao": 3,
@@ -319,9 +337,9 @@
       }
     },
     "lei_cppm.json": {
-      "versao": 2,
-      "sha256": "b871f0449f88325809bb3caff93c4fe681f7230117a5ff4f32c74a073f630ffe",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "c5320aa1e01438c142867c001c269955a05efff1b00f5a9f2fa25ecad0501101",
+      "gerado_em": "2026-07-23",
       "registros": 716,
       "colecao": "artigos",
       "mudancas": {
@@ -364,17 +382,24 @@
       }
     },
     "lei_d10278.json": {
-      "versao": 1,
-      "sha256": "14f169ef7c7924f3ff229c568a6428359793a22627b6cac0d1fe5130f09a98e7",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "52cb22f37bc4899f67e90bae15945356a8183c724d980265d7d1c2e3b09dcdd8",
+      "gerado_em": "2026-07-23",
       "registros": 13,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_d11034.json": {
-      "versao": 2,
-      "sha256": "6e55d061d06f269b8a90336111fec5f9545ce5efa35f5b726ff4fc094cee14a9",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "68854f301d21ebe061eff38041c3a72210d7051d4444c7f6d00ba9baab6490be",
+      "gerado_em": "2026-07-23",
       "registros": 18,
       "colecao": "artigos",
       "mudancas": {
@@ -387,9 +412,9 @@
       }
     },
     "lei_d2044.json": {
-      "versao": 2,
-      "sha256": "bc8a7828946c92b2f535622db24c53a28da2fced1690fdff61d9616e303d0774",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "b53fbfcb8d08a16e63c33fe9d9e510238279033058420fea2779f8d666f7c5e0",
+      "gerado_em": "2026-07-23",
       "registros": 57,
       "colecao": "artigos",
       "mudancas": {
@@ -402,10 +427,53 @@
       }
     },
     "lei_d2181.json": {
-      "versao": 2,
-      "sha256": "5c45b04f92e6139a369ce70cadc99547af15ee9b89553329d6c504a5c6522bbe",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "40c2e0be57d79a6712016af8879760899b42fc0ea60a4bd40d80e932a365e72f",
+      "gerado_em": "2026-07-23",
       "registros": 80,
+      "colecao": "artigos",
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 16,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "15",
+          "16",
+          "28",
+          "3",
+          "33",
+          "34",
+          "39",
+          "40",
+          "42",
+          "44"
+        ]
+      }
+    },
+    "lei_d3413.json": {
+      "versao": 2,
+      "sha256": "a1563b7c5c0d289a6494029366c437257c6bd24dea9d6cb4378c8dcaa8d8fb8f",
+      "gerado_em": "2026-07-23",
+      "registros": 2,
+      "colecao": "artigos",
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 1,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "2"
+        ]
+      }
+    },
+    "lei_d4311.json": {
+      "versao": 2,
+      "sha256": "f910d2686117d4a093160655b776d3b5323c00117ada6a563f45ed065b28c54c",
+      "gerado_em": "2026-07-23",
+      "registros": 3,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
@@ -416,26 +484,10 @@
         "amostra_alterados": []
       }
     },
-    "lei_d3413.json": {
-      "versao": 1,
-      "sha256": "0c33365461d47d4f4213971516b820fa43474a003b811254b5430985dda42d25",
-      "gerado_em": "2026-07-19",
-      "registros": 2,
-      "colecao": "artigos",
-      "mudancas": null
-    },
-    "lei_d4311.json": {
-      "versao": 1,
-      "sha256": "53d4859589a65f9e2e36c836b80ef99e9de8613a85dd7cf79328ef0a7103f45c",
-      "gerado_em": "2026-07-19",
-      "registros": 3,
-      "colecao": "artigos",
-      "mudancas": null
-    },
     "lei_d70235.json": {
-      "versao": 2,
-      "sha256": "60932503b7136440ba28a3c9a661ebbc6c1686d47db5a3efb52363a1f5629fde",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "f34a931ff9a38a680f15971e741d79859c7098ee927f39d9437790b8758b0ce7",
+      "gerado_em": "2026-07-23",
       "registros": 75,
       "colecao": "artigos",
       "mudancas": {
@@ -463,33 +515,54 @@
       }
     },
     "lei_d8660.json": {
-      "versao": 1,
-      "sha256": "807875a595b67bad7f7c224477ddb3a2f0f791561f9cf4b86cbad27a0320aee0",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "1d2f9d6396b6ed5c2f59873dc4d5e87e11c279080413f0a29a1f23843f733de9",
+      "gerado_em": "2026-07-23",
       "registros": 3,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_d9039.json": {
-      "versao": 1,
-      "sha256": "80f8cfdeb03e9f975d7ddd1cb7ff38be5e749a86b2994f6063eebac9bc2c144e",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "124e220f476601b20f8a71ec575ad096e15cb2a0b78b066b89c2667be30c0ff6",
+      "gerado_em": "2026-07-23",
       "registros": 3,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_d9734.json": {
-      "versao": 1,
-      "sha256": "3e854bebd1e6f1e2cf9ae5e77789a1494e04c65267b632aa8c18a3d2a6cb5ed7",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "b5117ad9ec1d3bced0d6ce1f29fb687f73d0e72ed5f2e7eecb08d66cf9a085a4",
+      "gerado_em": "2026-07-23",
       "registros": 4,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_d9936.json": {
-      "versao": 2,
-      "sha256": "49ce50451cce097e31695be3e591dba36dd6e33cbc56e34c51ade9d28d28983b",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "39d5c68a2f88c1d76cc6629c3296e84f02be13bf81f49e859738541e72384764",
+      "gerado_em": "2026-07-23",
       "registros": 23,
       "colecao": "artigos",
       "mudancas": {
@@ -502,25 +575,57 @@
       }
     },
     "lei_dl1598.json": {
-      "versao": 2,
-      "sha256": "e0240e291e75aadad77f14d118a528569af37a0e785e9b59f1d867920f8644bf",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "413538db8ff442c9af997d548b438bad0a5657d8f885a4600cf786445b24e1c7",
+      "gerado_em": "2026-07-23",
       "registros": 71,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
         "removidos": 0,
-        "alterados": 0,
+        "alterados": 11,
         "amostra_adicionados": [],
         "amostra_removidos": [],
-        "amostra_alterados": []
+        "amostra_alterados": [
+          "12",
+          "15",
+          "19",
+          "20",
+          "21",
+          "22",
+          "29",
+          "31",
+          "33",
+          "35"
+        ]
       }
     },
     "lei_dl167.json": {
-      "versao": 2,
-      "sha256": "67182941cb442043815f603d987a8cb291e8e8d3b31c7da17859ca12fe03b447",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "f2ac929eab6d99754a86437ecaa2f06ce0a9ce03559007eb0ff43dd17c84fe4e",
+      "gerado_em": "2026-07-23",
       "registros": 84,
+      "colecao": "artigos",
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 5,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "10",
+          "51",
+          "61",
+          "65",
+          "71"
+        ]
+      }
+    },
+    "lei_dl3365.json": {
+      "versao": 2,
+      "sha256": "69c61425c61d6685fa36b1304043beef568035eec267b4682c0d07765ba93c78",
+      "gerado_em": "2026-07-23",
+      "registros": 49,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
@@ -531,18 +636,10 @@
         "amostra_alterados": []
       }
     },
-    "lei_dl3365.json": {
-      "versao": 1,
-      "sha256": "8099a326106ebfc7418e3dcae2cc109b45a1ccb99a43a34a926fc62b212418c8",
-      "gerado_em": "2026-07-19",
-      "registros": 49,
-      "colecao": "artigos",
-      "mudancas": null
-    },
     "lei_dl73.json": {
-      "versao": 2,
-      "sha256": "17ffff90b75d6e61544ff56592c22319ef8461abec7d7c599aecebcb3aff36c1",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "e90b21726595521ca9c61438287943ecc9ca19818ca4ffbfbddb069065f20ffb",
+      "gerado_em": "2026-07-23",
       "registros": 159,
       "colecao": "artigos",
       "mudancas": {
@@ -555,12 +652,24 @@
       }
     },
     "lei_dl911.json": {
-      "versao": 1,
-      "sha256": "fc0e30c1b1707940ea3ea7d560a0bf5baf0a64ff2b8fa89ec34f5367c9daa638",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "795d93cf3c15c05aea3f716d719c89ad7051fae39f782be9bb8d867bdc012f31",
+      "gerado_em": "2026-07-23",
       "registros": 16,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 4,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      }
     },
     "lei_eca.json": {
       "versao": 3,
@@ -822,28 +931,49 @@
       }
     },
     "lei_fgts.json": {
-      "versao": 1,
-      "sha256": "b922a6184864d4706c988fba589633f00127d6be9ba263d3d893b7cf8d635836",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "5b7deedebac7ca082292fc96ae2e9d04c9f1ee5770c7300f1dcca28b49d7c55f",
+      "gerado_em": "2026-07-23",
       "registros": 49,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l10101.json": {
-      "versao": 1,
-      "sha256": "19788ca6d6a1ec409ae688cb212348c1cc10aeec885c2f39582181e75fa4c93e",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "e4183404af4cf376bcbfe2900893c73526188efb3c82a3651473f6964496c10a",
+      "gerado_em": "2026-07-23",
       "registros": 10,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l10185.json": {
-      "versao": 1,
-      "sha256": "232d416048b124fe752f65dff591948b7a3984c64c8aa7b9aac1a2c9020cbb9c",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "8d7d0e9407538ead7ba22a7eef43945aea65ae2b721684fe5ca60531aee18919",
+      "gerado_em": "2026-07-23",
       "registros": 5,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l10233.json": {
       "versao": 3,
@@ -872,25 +1002,41 @@
       }
     },
     "lei_l10259.json": {
-      "versao": 1,
-      "sha256": "c66312377d4147babb8068aeacc81a3801384a8d61a19c87da70441090424198",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "20058e77c6bfd540315b5b2b6afdccda8e92adc4b0d564a4628a17150ad67587",
+      "gerado_em": "2026-07-23",
       "registros": 27,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 1,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "2"
+        ]
+      }
     },
     "lei_l10522.json": {
-      "versao": 1,
-      "sha256": "635eadeff450fc09fa2c233389d649ec38506d2aaad087a691526d2e3e8d1397",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "285c9e62181ac2a853fe52dc86d4aff7e43ad80559696fe475119592f9a0165e",
+      "gerado_em": "2026-07-23",
       "registros": 68,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l10637.json": {
-      "versao": 2,
-      "sha256": "1db7fbc376dd5944e3c156348b681fce65e84bf512ab01a9d19c34ea0af08788",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "711dd460e2435a69772b7b30e522a111a06383c5457a769ec352bb2089ea4c7c",
+      "gerado_em": "2026-07-23",
       "registros": 65,
       "colecao": "artigos",
       "mudancas": {
@@ -903,41 +1049,69 @@
       }
     },
     "lei_l10666.json": {
-      "versao": 1,
-      "sha256": "eeff6e77adbe70b3c0f5882decdc6afccc32c3a3fbe443173b31726042e24b2d",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "e00d6831aca66883591cc56951db50a1e41e15f51f572f209c633e1df71a4e67",
+      "gerado_em": "2026-07-23",
       "registros": 15,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l10684.json": {
-      "versao": 1,
-      "sha256": "a8094c1ed968fda14f054a6213459c4555573b44eb6edd0ebb1cc996279f6fc1",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "208ef44b013f50f4d94598d3647a15f50b6ce9a1421d7aa46cfa60ebd15edf90",
+      "gerado_em": "2026-07-23",
       "registros": 29,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l10779.json": {
-      "versao": 1,
-      "sha256": "ebba534de9abd07d6f2e6001fdcc78387c98d6212e372832a2bcd12e3e19c15a",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "9de40803a362382c0f481d2bda9e2d94374d3532c11457f2a35ff5b6127061f9",
+      "gerado_em": "2026-07-23",
       "registros": 11,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l10820.json": {
-      "versao": 1,
-      "sha256": "a9586fbbcc224569df00b11b1ef988a3bbef5e8311cae5b992f2fdff7edc743f",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "9983681debeb5c1ff3c365f8f4ad2d3e8cb965abe6031981d8e5334d675ba76b",
+      "gerado_em": "2026-07-23",
       "registros": 23,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l10833.json": {
-      "versao": 2,
-      "sha256": "7d78779acfbc130e74926462dfca1cb77fc5acdd03bed1d5d27b50a6c11b9f22",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "8510d6eb89f96a68fde422a7b91544d25d6d9af41d8e2812bef9564b98cb41a5",
+      "gerado_em": "2026-07-23",
       "registros": 95,
       "colecao": "artigos",
       "mudancas": {
@@ -950,9 +1124,9 @@
       }
     },
     "lei_l10865.json": {
-      "versao": 2,
-      "sha256": "167adbf54f6317e4f25f864a5b6d7fdc4a86d421c5841b3f3b4aa3fe5243c466",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "cfa5f3a4265d092380d67bace743bdeb6065d52d1bebf7ad163ab70b22b462f8",
+      "gerado_em": "2026-07-23",
       "registros": 55,
       "colecao": "artigos",
       "mudancas": {
@@ -965,17 +1139,24 @@
       }
     },
     "lei_l10887.json": {
-      "versao": 1,
-      "sha256": "1e359276d3dab17d7d231d86cb0aab36622cd1d4dbbe22e5587a023f28766cf3",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "9889905b0d5134f4a425cefca5ba22d5fa714eabe83e8e0a0586f03727503863",
+      "gerado_em": "2026-07-23",
       "registros": 20,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l10931.json": {
-      "versao": 2,
-      "sha256": "32d8a4495b66133e49e95106060a2f3717382ccaf2301df99b4b34b878d08ff9",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "fe9fb698d315aa5b872d9fca090b0cfd3a6bea8b076a47052e8503757dbb4ac1",
+      "gerado_em": "2026-07-23",
       "registros": 77,
       "colecao": "artigos",
       "mudancas": {
@@ -988,17 +1169,24 @@
       }
     },
     "lei_l10962.json": {
-      "versao": 1,
-      "sha256": "b9d7d7ecb42617a7e7479a53e32aeaa89b5eb8b2e8bc911ea6eef8048ecd9722",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "63e19c3e05e34ee667ead3323ec357e0d068bcff7f15ce35e1b3c18b57d806fe",
+      "gerado_em": "2026-07-23",
       "registros": 9,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l11076.json": {
-      "versao": 2,
-      "sha256": "98894a2c8674b38aa85b2abafe6984b2f780886e6122fa005d779e4b134bc68f",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "7646ec2c5bb57c8cf7f62bb15dbb253bb8797338550b104a79c2e832c30e9694",
+      "gerado_em": "2026-07-23",
       "registros": 63,
       "colecao": "artigos",
       "mudancas": {
@@ -1011,9 +1199,9 @@
       }
     },
     "lei_l11079.json": {
-      "versao": 2,
-      "sha256": "4082adaa7663ab6f445897fdc2b8501d3e2c95314425262cecb900284b625263",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "f74836575be1556edc756460ddf571214cefd481f6e3a970ccf39e9f5801ad01",
+      "gerado_em": "2026-07-23",
       "registros": 32,
       "colecao": "artigos",
       "mudancas": {
@@ -1026,25 +1214,41 @@
       }
     },
     "lei_l11107.json": {
-      "versao": 1,
-      "sha256": "e544901669ba6413fcd9008795613f720188d63294f54a2cf753a2f0d62a786a",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "81fd82eb345987e706fec635031c96cb0170b466d527c880685068ddbc9f60c9",
+      "gerado_em": "2026-07-23",
       "registros": 22,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 1,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "12"
+        ]
+      }
     },
     "lei_l11417.json": {
-      "versao": 1,
-      "sha256": "10bdc629d97847c7519a127e2c3d7090fc64d0f1bb11b1b06fc16eee7886b612",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "cd4553df04688e6f0df574d407da9918aa4ba8caa4341246c928fdede029caff",
+      "gerado_em": "2026-07-23",
       "registros": 11,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l11419.json": {
-      "versao": 2,
-      "sha256": "6c4b1e48707821d0f3312328b78e3217a964f8a536f84c8f24ecc2fca4766e7b",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "4cefb92b928f543f5626bb13f39222f95d5601c4f4ec5a36b67e7dacb52da569",
+      "gerado_em": "2026-07-23",
       "registros": 22,
       "colecao": "artigos",
       "mudancas": {
@@ -1057,64 +1261,69 @@
       }
     },
     "lei_l11441.json": {
-      "versao": 1,
-      "sha256": "bd1c9d1598b217e7ca0a169463438dbb5765edeab7674c9e62a60d13b31532e9",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "fd7a28c9e9cbee1a73063462a349e8d65fe0201d388f4b4715bbefc99ca4d993",
+      "gerado_em": "2026-07-23",
       "registros": 5,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l11445.json": {
-      "versao": 2,
-      "sha256": "6fca60696859faa2bef213f87bffaaa5d0063f9312690f19c05841fd103647c1",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "d37ac0c11a68b9202583690e9924e9fb1381dd07f6f5900ff673f378f372cdf8",
+      "gerado_em": "2026-07-23",
       "registros": 91,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
         "removidos": 0,
-        "alterados": 0,
+        "alterados": 20,
         "amostra_adicionados": [],
         "amostra_removidos": [],
-        "amostra_alterados": []
+        "amostra_alterados": [
+          "10-A",
+          "10-B",
+          "11-A",
+          "11-B",
+          "18",
+          "2",
+          "21",
+          "23",
+          "26",
+          "29"
+        ]
       }
     },
     "lei_l11598.json": {
-      "versao": 2,
-      "sha256": "ae002653cd73114d3155ce60a6c594f8e5348692f9e03fa10b329cee3d1499dd",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "c335906096d5584fb26fcafe23d7f4bb8d564e188bea8f17a633a7d963c807e8",
+      "gerado_em": "2026-07-23",
       "registros": 24,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
         "removidos": 0,
-        "alterados": 0,
+        "alterados": 2,
         "amostra_adicionados": [],
         "amostra_removidos": [],
-        "amostra_alterados": []
+        "amostra_alterados": [
+          "4",
+          "6"
+        ]
       }
     },
     "lei_l11638.json": {
-      "versao": 1,
-      "sha256": "86616cb7f0c8e89599905c6085d42f1817bf6aa68ec1ad67cd19cf883ac1104a",
-      "gerado_em": "2026-07-19",
-      "registros": 10,
-      "colecao": "artigos",
-      "mudancas": null
-    },
-    "lei_l11770.json": {
-      "versao": 1,
-      "sha256": "2eb633ddf41b9234fe8093106897645cde5bdb4e22021761ad5b262243affb57",
-      "gerado_em": "2026-07-19",
-      "registros": 9,
-      "colecao": "artigos",
-      "mudancas": null
-    },
-    "lei_l11788.json": {
       "versao": 2,
-      "sha256": "98d65d768699f43c5337601b254f4bd8194ae8fcf70ed5736b98a8e881ba8525",
-      "gerado_em": "2026-07-19",
-      "registros": 22,
+      "sha256": "6dcd9e1338ae1a77b7ae3c2fca90a23241dc83d3531eba7ddd7f55ee48d4c6f4",
+      "gerado_em": "2026-07-23",
+      "registros": 10,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
@@ -1125,10 +1334,47 @@
         "amostra_alterados": []
       }
     },
-    "lei_l11795.json": {
+    "lei_l11770.json": {
       "versao": 2,
-      "sha256": "020d3d6c432a38e95d7dad0f1f112c15d5a30e929054948af64c82b11e646050",
-      "gerado_em": "2026-07-19",
+      "sha256": "608f1d3b91f1ded9de6be0f72869df78757b16312d55ddce0c4350c3873e7601",
+      "gerado_em": "2026-07-23",
+      "registros": 9,
+      "colecao": "artigos",
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 4,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "1",
+          "3",
+          "4",
+          "5"
+        ]
+      }
+    },
+    "lei_l11788.json": {
+      "versao": 3,
+      "sha256": "67f4e3f65a134b176afb454b21899ffeb911085db99e7e01412619338bf230e0",
+      "gerado_em": "2026-07-23",
+      "registros": 22,
+      "colecao": "artigos",
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 1,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "4"
+        ]
+      }
+    },
+    "lei_l11795.json": {
+      "versao": 3,
+      "sha256": "07741c50c175f7a927a23133602456c262cc947cfd4aac8c4133caac80f12937",
+      "gerado_em": "2026-07-23",
       "registros": 49,
       "colecao": "artigos",
       "mudancas": {
@@ -1141,17 +1387,24 @@
       }
     },
     "lei_l11804.json": {
-      "versao": 1,
-      "sha256": "563ed9669ee2a67c851c9e5a512ede239d713bb78334a0a9952764e175500769",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "05915d7d65bcbe035bffced23c061736c0f0d3ed4b6b801401c460b53c8615dc",
+      "gerado_em": "2026-07-23",
       "registros": 12,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l11977.json": {
-      "versao": 2,
-      "sha256": "a1215e025a5fc8bbb6e31be092db1e0ef17bdae3aaa09f5255781bca7f836759",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "ab81c753cf1ae73c34c64e844033dead22618b038388a71579bcd01df5e5b8d9",
+      "gerado_em": "2026-07-23",
       "registros": 80,
       "colecao": "artigos",
       "mudancas": {
@@ -1164,36 +1417,66 @@
       }
     },
     "lei_l12010.json": {
-      "versao": 1,
-      "sha256": "fe1df877b841d0c9d7e0c907275e34cfc4716f10da9d2a73bce8ee40a7444227",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "3f50bc0225159a84642150c54aa1fa06b28479b28857cf27a3e4e037b5039d26",
+      "gerado_em": "2026-07-23",
       "registros": 8,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l12030.json": {
-      "versao": 1,
-      "sha256": "3224d7f992ef71088d8387ef2a3268743b96aef7d816f27294c1dd729b3cb0e1",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "10904ac51da5e68066397d69076a7bb688b109bc7f9ebbba88e36c87cd1ad1c7",
+      "gerado_em": "2026-07-23",
       "registros": 6,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l12037.json": {
-      "versao": 1,
-      "sha256": "2120ece939cfe65bfa89bab189fc0e6b3e66971c182b0af999a63fb870955a18",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "6f2cc2a842a40636d864ce5e1f8ccd7ab75e9936d28dc089977deca8fd594cde",
+      "gerado_em": "2026-07-23",
       "registros": 13,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 1,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "7-A"
+        ]
+      }
     },
     "lei_l12153.json": {
-      "versao": 1,
-      "sha256": "15b6e3c4b2043fefa8d3302b96517da0fefa53a3038168a36faccd3d051ad4ec",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "f35567280ca6796087c18d3b148acf278f6509feaf9893583d2985b9e6fcc6d2",
+      "gerado_em": "2026-07-23",
       "registros": 28,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l12305.json": {
       "versao": 3,
@@ -1214,101 +1497,150 @@
       }
     },
     "lei_l12318.json": {
-      "versao": 1,
-      "sha256": "78161cdb69bb42ebd84908d8717c5b8e01f8ce9d87bc02e5083d9750f24510f1",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "1ca8085c8201f0fe4ecb76be6aa7299c492fc79348e2634fdfa3c871250e4842",
+      "gerado_em": "2026-07-23",
       "registros": 12,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l12414.json": {
-      "versao": 1,
-      "sha256": "8aa94deb752eb7d46ea6685c6f4d7f9f38ef1c3a40c9726eec8904da54077607",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "4d22fa2d9109f3f4d5df28af01989d87c87e4d80cb1d596a5ca0d06195540c9d",
+      "gerado_em": "2026-07-23",
       "registros": 20,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 5,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "12",
+          "13",
+          "16",
+          "4",
+          "9"
+        ]
+      }
     },
     "lei_l12506.json": {
-      "versao": 1,
-      "sha256": "3aaf56cb60561763ffa1147f8c6ce972fcb3d9d051b82f0b0236edfcf751ab16",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "cac3a81101aa9eb3b2774c5793885d1c45966197b0c8f360a27e18f3a4f1a8cc",
+      "gerado_em": "2026-07-23",
       "registros": 2,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l12529.json": {
-      "versao": 2,
-      "sha256": "a79e91923c68fbeb6748af3760b7e379ae73c1ce9a2209c55983789825530468",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "fccf1396cbae1a518ee79c534d630c5c0df301c9825c62d3a8fc0dea7fa79d91",
+      "gerado_em": "2026-07-23",
       "registros": 130,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
         "removidos": 0,
-        "alterados": 0,
+        "alterados": 1,
         "amostra_adicionados": [],
         "amostra_removidos": [],
-        "amostra_alterados": []
+        "amostra_alterados": [
+          "23"
+        ]
       }
     },
     "lei_l12618.json": {
-      "versao": 2,
-      "sha256": "0a9c92c053d51c96211c93199acfcaf4664898d8b61752f2f393841249bbee42",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "29fab42e729c63ed77b126480cd54f216085f219da8ab5b3b2b62cb35cd71cc7",
+      "gerado_em": "2026-07-23",
       "registros": 33,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
         "removidos": 0,
-        "alterados": 0,
+        "alterados": 1,
         "amostra_adicionados": [],
         "amostra_removidos": [],
-        "amostra_alterados": []
+        "amostra_alterados": [
+          "8"
+        ]
       }
     },
     "lei_l12741.json": {
-      "versao": 1,
-      "sha256": "a4bce6adb1ee1cc92e1f8b8a2ffc01f7d8ebac2455cf8a0cbe4d52b3ef2921da",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "14c0d4e3374dafc5149b12dfcd042ab002483b7b503bc62d7e954db0aeee8575",
+      "gerado_em": "2026-07-23",
       "registros": 6,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 1,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "5"
+        ]
+      }
     },
     "lei_l12815.json": {
-      "versao": 2,
-      "sha256": "fa12af7935c846702d351770538e5376bb354c152d49719e53ca64eed1b7dc01",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "e9fab0c2bf725a4ea60889ecb0790f62f3602da4d31a6054af3fcbee02518265",
+      "gerado_em": "2026-07-23",
       "registros": 81,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
         "removidos": 0,
-        "alterados": 0,
+        "alterados": 2,
         "amostra_adicionados": [],
         "amostra_removidos": [],
-        "amostra_alterados": []
+        "amostra_alterados": [
+          "4",
+          "5"
+        ]
       }
     },
     "lei_l12846.json": {
-      "versao": 2,
-      "sha256": "7d48a0d123f4fa87d0907dc01e273c0b55aabb0ce75be6153e454a172f8e32a8",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "2ee78d8c07b7e8178cec57f283e01d916b4a08a9e73493a6dc9877aed0c92c2a",
+      "gerado_em": "2026-07-23",
       "registros": 33,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
         "removidos": 0,
-        "alterados": 0,
+        "alterados": 5,
         "amostra_adicionados": [],
         "amostra_removidos": [],
-        "amostra_alterados": []
+        "amostra_alterados": [
+          "15",
+          "16",
+          "17",
+          "18",
+          "30"
+        ]
       }
     },
     "lei_l12850.json": {
-      "versao": 2,
-      "sha256": "37c5b5166dd2c38fb56094eaa6d3d5f17e56c294f092f872e4f253938640a2a0",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "203fc9aace1764e62215cbae6c2211f87405a0d7ab5c08c88048684c8a8928dc",
+      "gerado_em": "2026-07-23",
       "registros": 36,
       "colecao": "artigos",
       "mudancas": {
@@ -1321,17 +1653,32 @@
       }
     },
     "lei_l12865.json": {
-      "versao": 1,
-      "sha256": "9d6b87c3408cd9e58f7741f01e21ffbc6ed31c41f0aca8e0ec367b318e3092fd",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "c3d00197c3632d168d649c82694ecd0e79f9e1bdc50fe96a2e22e0cd62bd5cbe",
+      "gerado_em": "2026-07-23",
       "registros": 46,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 7,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "11",
+          "14",
+          "17",
+          "29",
+          "31",
+          "39",
+          "40"
+        ]
+      }
     },
     "lei_l13019.json": {
-      "versao": 2,
-      "sha256": "2dc74649c60a3e02697c92151bea9f854901e6a00a34cb4c3531f12650347195",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "c3edc62122b02b34dc841ce64f13ea2dc662db76278ff9e4ec1347f47e64741e",
+      "gerado_em": "2026-07-23",
       "registros": 100,
       "colecao": "artigos",
       "mudancas": {
@@ -1344,18 +1691,10 @@
       }
     },
     "lei_l13058.json": {
-      "versao": 1,
-      "sha256": "4ed915d607e0e8b85a45f45a031f8c4c6208d15f4d1afc0045f41fe852953a05",
-      "gerado_em": "2026-07-19",
-      "registros": 3,
-      "colecao": "artigos",
-      "mudancas": null
-    },
-    "lei_l13103.json": {
       "versao": 2,
-      "sha256": "9e902373469872e5f278b97eda26880badd82e1a526ea34d36c2aba201b741dc",
-      "gerado_em": "2026-07-19",
-      "registros": 22,
+      "sha256": "8cc2fecbdcb3df58bc3fd57c0f3f584749391118f834e407c1b299c1ad9b3d24",
+      "gerado_em": "2026-07-23",
+      "registros": 3,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
@@ -1364,6 +1703,23 @@
         "amostra_adicionados": [],
         "amostra_removidos": [],
         "amostra_alterados": []
+      }
+    },
+    "lei_l13103.json": {
+      "versao": 3,
+      "sha256": "61a34834a5544892eca754c8506e0bc532081d86032bc729b799e7fc4b02e818",
+      "gerado_em": "2026-07-23",
+      "registros": 22,
+      "colecao": "artigos",
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 1,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "17"
+        ]
       }
     },
     "lei_l13116.json": {
@@ -1382,9 +1738,9 @@
       }
     },
     "lei_l13140.json": {
-      "versao": 2,
-      "sha256": "d3ee5f9ab8842ca05991f6276843ff299b029bd148f49db7f1fefd46f996cb3d",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "391c008974e1664510a3bb5bbe5ddd65129640c1c57a45bb85fbc462a376e04e",
+      "gerado_em": "2026-07-23",
       "registros": 48,
       "colecao": "artigos",
       "mudancas": {
@@ -1397,41 +1753,69 @@
       }
     },
     "lei_l13165.json": {
-      "versao": 1,
-      "sha256": "7e55980defe7a3345f91a962a961ffe9f325086fb1b81f7d133865c43614e362",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "1526fce194679d79d9d3548647c17dea2320b54d91b04b0190889e543556a6d4",
+      "gerado_em": "2026-07-23",
       "registros": 15,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l13257.json": {
-      "versao": 1,
-      "sha256": "7d5c4e7a21af81e9dbc33b2902b849e2d6d5dccd04111ac54977d7952311491a",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "d4ced4a2f4f9a62cd6d6cecc86de524dc17a39a8fbbd586bea82fdb2485df361",
+      "gerado_em": "2026-07-23",
       "registros": 43,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l13260.json": {
-      "versao": 1,
-      "sha256": "031fe3ae73f21b0dbcd521c58c6293be1c60b8743e936bc6ce9ce5b8ccea50c4",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "d128fe31ea4ffb309185b63c276769383ad60bb3fe0a96893503f961824d8395",
+      "gerado_em": "2026-07-23",
       "registros": 20,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l13300.json": {
-      "versao": 1,
-      "sha256": "9308554da31de240fca5c1345e7fdf07f2c05ed2576e032e10e6a6b823bd116d",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "6c1fc9861de05e4007a8bbf91ebe6262bb3b710a99e2e1f6d3bc176690a957b5",
+      "gerado_em": "2026-07-23",
       "registros": 15,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l13303.json": {
-      "versao": 2,
-      "sha256": "fd344a1a4e03f09c4c7be1af33285d4fce548cc0a3c9a3c9fb9749ab4222df75",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "8ac5c6c18fd0a45bec882310b781ae0ee909fae02ab999c577025a0d37655d5b",
+      "gerado_em": "2026-07-23",
       "registros": 98,
       "colecao": "artigos",
       "mudancas": {
@@ -1444,9 +1828,9 @@
       }
     },
     "lei_l13431.json": {
-      "versao": 2,
-      "sha256": "a1c358d152ed719275763bb1ceb2c6ea3b37802bf89d5b2874c981019b2a280e",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "cca1387adb58abc8d3d1e97a823c48b9cc1e1bab6d6f8dc4c6118d5b07e8837e",
+      "gerado_em": "2026-07-23",
       "registros": 29,
       "colecao": "artigos",
       "mudancas": {
@@ -1459,17 +1843,24 @@
       }
     },
     "lei_l13455.json": {
-      "versao": 1,
-      "sha256": "4dd838c631bedc5c71bf7f09de1535402478fef4dddd28f51246908b47a09e35",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "4e5559abae9cd54273e0ddbf04bcf1e2532b5432a2c09660a02468f19df68b96",
+      "gerado_em": "2026-07-23",
       "registros": 3,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l13460.json": {
-      "versao": 2,
-      "sha256": "5f47e84dfc82bc85212e9c195374794f9454c6ce1e421d572153e2cddaa4f43b",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "66f214f9fd09404d7d3fe936c4ba530fe804f94f59922a5f4fcb5c209d6e69bd",
+      "gerado_em": "2026-07-23",
       "registros": 26,
       "colecao": "artigos",
       "mudancas": {
@@ -1482,10 +1873,28 @@
       }
     },
     "lei_l13465.json": {
-      "versao": 2,
-      "sha256": "94342ef358655793e669d84c449ee6e5ca94e56d2c5f3f893976f5c3890d6289",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "47dd49513684f26ab43c8aaeaf8522a2cc5b9fff0c2b4a115a92b69b331f2779",
+      "gerado_em": "2026-07-23",
       "registros": 111,
+      "colecao": "artigos",
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 2,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "12",
+          "37"
+        ]
+      }
+    },
+    "lei_l13487.json": {
+      "versao": 2,
+      "sha256": "72eb971e496da3b894019a2d01f5b4090247695c666e3b515b85e72745f3610c",
+      "gerado_em": "2026-07-23",
+      "registros": 5,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
@@ -1496,18 +1905,10 @@
         "amostra_alterados": []
       }
     },
-    "lei_l13487.json": {
-      "versao": 1,
-      "sha256": "951668f8de1dd89d0d8d4bca89881a5b594731c1a6da2f3d3172e931582f33be",
-      "gerado_em": "2026-07-19",
-      "registros": 5,
-      "colecao": "artigos",
-      "mudancas": null
-    },
     "lei_l13488.json": {
-      "versao": 2,
-      "sha256": "882195d843943d204bf7f4df7cfb9f48d68f108642e68bc4620454fed03cfa5f",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "e3f48fd5a96bee6de8ecb8c93f8116ae0fd5ebc3bae55b6b58cbb67e0047af09",
+      "gerado_em": "2026-07-23",
       "registros": 11,
       "colecao": "artigos",
       "mudancas": {
@@ -1520,25 +1921,39 @@
       }
     },
     "lei_l13726.json": {
-      "versao": 1,
-      "sha256": "456103ff019b41252ba7e63649cda17a9035370db540c210793d035f1d1fcdbd",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "d5532bb79464a23f2cc10712f074d5aa58b15b3bb824119e4b6ff2af0b4c27f2",
+      "gerado_em": "2026-07-23",
       "registros": 10,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l13775.json": {
-      "versao": 1,
-      "sha256": "c6c58d7ab6716633a5fc6faf896905359e93a5c61926a6a9a940cc4f40b7bb43",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "fdcd1948360edd42df80c6edad945efaec7eaebcbdef3371fd0e6d71c696a92a",
+      "gerado_em": "2026-07-23",
       "registros": 13,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l13777.json": {
-      "versao": 2,
-      "sha256": "eeae47e1fb459fe0093bb0080819e6dce499e3470f0e8370e7b8d079088721e9",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "1a1c25d856b0026a7523584e66a4ef29f2b299de1f063fce693321ad250358cc",
+      "gerado_em": "2026-07-23",
       "registros": 3,
       "colecao": "artigos",
       "mudancas": {
@@ -1551,17 +1966,24 @@
       }
     },
     "lei_l13786.json": {
-      "versao": 1,
-      "sha256": "c37722678c6bcebd7b1cbc8961130ebbba18f13a8eab8cc62635f6f95a11dbb7",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "876d14eb503e0d4a18ea3214269ccaff11b8d1678123254db6602b0e74245b8b",
+      "gerado_em": "2026-07-23",
       "registros": 4,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l13848.json": {
-      "versao": 2,
-      "sha256": "cbc25b22546dfe31264e47593df12828ef6c2435a21487d11ec1b74330a2a40f",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "0c4a7b3f3107e86dba54c10034ca3f306753b537a3521c2d950add1d6cffb8e4",
+      "gerado_em": "2026-07-23",
       "registros": 53,
       "colecao": "artigos",
       "mudancas": {
@@ -1574,9 +1996,9 @@
       }
     },
     "lei_l13869.json": {
-      "versao": 2,
-      "sha256": "45732a213eb6f7b7df44130f33db697f507a0be84ded7d79c01a782e239e3033",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "0f3aa37a53b974c9d612e5ced1be450620c5dcc911552e5693b7a875664001f7",
+      "gerado_em": "2026-07-23",
       "registros": 46,
       "colecao": "artigos",
       "mudancas": {
@@ -1589,9 +2011,9 @@
       }
     },
     "lei_l13874.json": {
-      "versao": 2,
-      "sha256": "edf079ecb6b7aa08bcd011ccad0371fdc0977e2d247855b6eed9cb607dfa00b8",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "0bb1ed0f5c4978d6360e30e7e28d78a5f671a43a184828c9971850d0dcd5f462",
+      "gerado_em": "2026-07-23",
       "registros": 21,
       "colecao": "artigos",
       "mudancas": {
@@ -1604,18 +2026,10 @@
       }
     },
     "lei_l13966.json": {
-      "versao": 1,
-      "sha256": "d79f967ff3f0c65940a6d1ccfe0b7913cf3067065171d887501f739c5fa9a954",
-      "gerado_em": "2026-07-19",
-      "registros": 10,
-      "colecao": "artigos",
-      "mudancas": null
-    },
-    "lei_l13988.json": {
       "versao": 2,
-      "sha256": "a3f5c2561f582cbadcdc29322e224b243d2c27b15f20a59764d0738d23846ea2",
-      "gerado_em": "2026-07-19",
-      "registros": 39,
+      "sha256": "8678a2ae1df59b3fe0f17e9c16c7ca90cbf49201fc19dccefafaddba36b2e32a",
+      "gerado_em": "2026-07-23",
+      "registros": 10,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
@@ -1626,21 +2040,54 @@
         "amostra_alterados": []
       }
     },
+    "lei_l13988.json": {
+      "versao": 3,
+      "sha256": "81f737d18fdfafdae37671998d157e7a69e454fb2ca1ca6c8f4f7c7eca0fd5c8",
+      "gerado_em": "2026-07-23",
+      "registros": 39,
+      "colecao": "artigos",
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 3,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "10",
+          "13",
+          "14"
+        ]
+      }
+    },
     "lei_l14026.json": {
-      "versao": 1,
-      "sha256": "b249a1c7a7d8e7e704ecf00bbbfd194cbc60ad7b0327855ad6ed29128cd3dfae",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "b1e71d4f484b7041da6924d80b6b5c5ce51792402aaa214b57bdb6fab950238d",
+      "gerado_em": "2026-07-23",
       "registros": 24,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l14063.json": {
-      "versao": 1,
-      "sha256": "4c89cc1f0b0390b437a838c194df9542b3311c9b237b68a6e8eef251f91731f2",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "3cde3f404c559d66efd206069d07f445ce1cc8fab9dc0cd893f02577f40577fb",
+      "gerado_em": "2026-07-23",
       "registros": 21,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l14113.json": {
       "versao": 2,
@@ -1661,9 +2108,9 @@
       }
     },
     "lei_l14129.json": {
-      "versao": 2,
-      "sha256": "34638ea7e0cc3b810817aaf268a607a77e7ce3dca56891644108f44901c79eef",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "f9649e8ca860be6bec221c9c6df015150b23c001b28f28db8234a769fe0a977a",
+      "gerado_em": "2026-07-23",
       "registros": 55,
       "colecao": "artigos",
       "mudancas": {
@@ -1676,25 +2123,39 @@
       }
     },
     "lei_l14181.json": {
-      "versao": 1,
-      "sha256": "57a037404536caff69fa990cff3586b4e61327850f772047463094298c90cc7f",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "7a44b213f0d36cb527847c7bc3bcb87881493169c93d80cce122513a2c7e8c86",
+      "gerado_em": "2026-07-23",
       "registros": 5,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l14192.json": {
-      "versao": 1,
-      "sha256": "c3a64023985e088a371e4cdf46e46910fc9c2b6a7b636106bf58d2f246d0efdb",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "66d2722154f045972311b7942151181d48116f8d3a931c21a7aa163cf4a3c726",
+      "gerado_em": "2026-07-23",
       "registros": 8,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l14195.json": {
-      "versao": 2,
-      "sha256": "90570186b53d2eaad24620348fbec5b6bb0129f4d14f9b16c39940bfa63c126c",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "aa510ea137a7652fb6fb591b0b2a08840eaf3140834216aa1a49e1301cd0eb8c",
+      "gerado_em": "2026-07-23",
       "registros": 58,
       "colecao": "artigos",
       "mudancas": {
@@ -1707,25 +2168,39 @@
       }
     },
     "lei_l14208.json": {
-      "versao": 1,
-      "sha256": "95a97b0b76b48d99a90c0f167ca47e2257f19d7476c8c265d34c0c1985147458",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "43cf71c94d48915a4b57020e14d870c6e80c82f727398158094046f441d40616",
+      "gerado_em": "2026-07-23",
       "registros": 3,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l14211.json": {
-      "versao": 1,
-      "sha256": "a7995e71f75aab3b2da9786e27e8f98e3e1777a67d8b6d58d0d44c1f888a6e6d",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "e238b687a0112f4c7ed30a62c55a1ae628bd21bc82881674ba7ccf8a709b4f96",
+      "gerado_em": "2026-07-23",
       "registros": 4,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l14286.json": {
-      "versao": 2,
-      "sha256": "a91bcf921beb9f4bb958ab3d9054a724d3759cb04b34562676ab841b25be2523",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "65d5d510d413ee61d34d5ae91e63fad68179cc0abf100755b6625ce1c93de9e7",
+      "gerado_em": "2026-07-23",
       "registros": 29,
       "colecao": "artigos",
       "mudancas": {
@@ -1738,9 +2213,9 @@
       }
     },
     "lei_l14344.json": {
-      "versao": 2,
-      "sha256": "002ff6733210e70238b9363dd99a173588444260dfa9513811cb8ace18c75ea9",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "052ed669cac94b228e71055bde6b172f5d69281d67a995b6557e86ba75331b9d",
+      "gerado_em": "2026-07-23",
       "registros": 34,
       "colecao": "artigos",
       "mudancas": {
@@ -1753,9 +2228,9 @@
       }
     },
     "lei_l14382.json": {
-      "versao": 2,
-      "sha256": "f732874261a6305b6f77d0a67e5e0be603c5ddff3295f66613825b71477eaf3a",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "88a2d1e912239f95260b98a314e263a5b5e303a369e5a7837c483ef47f019a05",
+      "gerado_em": "2026-07-23",
       "registros": 21,
       "colecao": "artigos",
       "mudancas": {
@@ -1768,9 +2243,9 @@
       }
     },
     "lei_l14430.json": {
-      "versao": 2,
-      "sha256": "e4b2e23ba0bb2b9ad025bad87125116dafac710faa7c1a073a8a17dc81608f02",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "c76a764b0dc070de6ba866f7d8959de49a9bccd2166cf6f745eceece3a414c09",
+      "gerado_em": "2026-07-23",
       "registros": 39,
       "colecao": "artigos",
       "mudancas": {
@@ -1783,33 +2258,54 @@
       }
     },
     "lei_l14442.json": {
-      "versao": 1,
-      "sha256": "f0893f7b96cbf0145da758a71c48ade2511c9854547c8f36025d2dd6f87a5008",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "8c04deaffd3408daa33a80f20a4c1e64a1ee8783c0c1eaaf462f41686733703a",
+      "gerado_em": "2026-07-23",
       "registros": 8,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l14478.json": {
-      "versao": 1,
-      "sha256": "ee3f4f39fadd70ffe04973792e6882d7cf50d669fffaecdb28daf6faa8dce34e",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "31d304b2f9d7046ee51d5fa20893d130b0dd743b763956af79550334bf384a52",
+      "gerado_em": "2026-07-23",
       "registros": 14,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l14611.json": {
-      "versao": 1,
-      "sha256": "4e65ee43d3d5b8fd7b1f4b8ca6bbdbda681df6924eddd32585dfb172a6b82ec0",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "d3ac63bbdf9976ce8963c7d96934ac8e135cbdc576af499e96cd5b395649bd73",
+      "gerado_em": "2026-07-23",
       "registros": 7,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l14711.json": {
-      "versao": 2,
-      "sha256": "bbb1eeaff8c178cbb324d4b6fe3a6250acf4b94ec52f3c32e3e2fd751cc594c1",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "89963fc6bb929f0c8ab101d449c1e83ae2f9f8637025251d9e7de74beaacc061",
+      "gerado_em": "2026-07-23",
       "registros": 19,
       "colecao": "artigos",
       "mudancas": {
@@ -1822,9 +2318,9 @@
       }
     },
     "lei_l15040.json": {
-      "versao": 2,
-      "sha256": "cff610b5d24eafe19c5245f347de443d65609a9a995815876351555b6979990f",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "4edf696c7155f870d4438143410192215bed5242c3207b2a24048a4d6fac2516",
+      "gerado_em": "2026-07-23",
       "registros": 134,
       "colecao": "artigos",
       "mudancas": {
@@ -1837,33 +2333,56 @@
       }
     },
     "lei_l1521.json": {
-      "versao": 1,
-      "sha256": "18a9b8a34c4f8f40dbf1b6610dd2311f90c0bc975ff28de14a0cfd4070220b7c",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "fc12b618b327423c84a1fa2d870e37da8a95a2cd1bab2856781a7be79bf5cee1",
+      "gerado_em": "2026-07-23",
       "registros": 34,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 1,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "5"
+        ]
+      }
     },
     "lei_l3207.json": {
-      "versao": 1,
-      "sha256": "f2adbf55b446592209661b8c3f3f78605cedaf29955b0fb2f5a705f6f8128691",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "83ae8b65a1a86b16911b974b95103cb6afd10559261d4052b2a2984b26615521",
+      "gerado_em": "2026-07-23",
       "registros": 11,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l4090.json": {
-      "versao": 1,
-      "sha256": "182d0aea98b86796374b9955d3d48202e268a5ba9dad9f550040d4d78a13641b",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "48f5819c7e5a7de9296fe06f995a5090dc70fcccd9e74c4c0deeb7ae42ec3ce2",
+      "gerado_em": "2026-07-23",
       "registros": 4,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l4320.json": {
-      "versao": 2,
-      "sha256": "3b06941c667d2cde5aaac2f95d6cf9d8ec38a6c8c0b3e335cbe1ee9a65fbb0dc",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "bdbe0869145a8e267185d5d9b4753005c6a1b70146f7ff4c9fa5cb69f5feea52",
+      "gerado_em": "2026-07-23",
       "registros": 92,
       "colecao": "artigos",
       "mudancas": {
@@ -1876,9 +2395,9 @@
       }
     },
     "lei_l4591.json": {
-      "versao": 2,
-      "sha256": "b9a82b06d416321ded1f92f6cc542565ef5384a061825172d971936caf8a5bc3",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "a6119bd8a50c7dd525f1d7f8f3d6fe274cb0dc8e71c551ed4c71a7adcab5d5b7",
+      "gerado_em": "2026-07-23",
       "registros": 86,
       "colecao": "artigos",
       "mudancas": {
@@ -1891,9 +2410,9 @@
       }
     },
     "lei_l4595.json": {
-      "versao": 2,
-      "sha256": "d7d61d10a8e153f394ab9e6c3be4445d337f49332f6a19b586d8de93185aaeef",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "6adc7623f109c97d6bdd4383a77f0830b3bd991a9eea69b9210614cf2a3f2a01",
+      "gerado_em": "2026-07-23",
       "registros": 65,
       "colecao": "artigos",
       "mudancas": {
@@ -1906,17 +2425,26 @@
       }
     },
     "lei_l4717.json": {
-      "versao": 1,
-      "sha256": "9b33e94edae418ef390ef759cc979b39d9230a769603228a6ba9f0551a6f1c8a",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "d3f2965ab2458b728ebd5bdb1a798f7a6fa94c72e6c6fc27a66e84c2ccdb5dab",
+      "gerado_em": "2026-07-23",
       "registros": 22,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 1,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "19"
+        ]
+      }
     },
     "lei_l4728.json": {
-      "versao": 2,
-      "sha256": "a9b1cde196199cb6598662494d0fb7342d117610a70b7ff05034d54c6881c828",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "b2a79c2afc437b46d27f4dad708c6e78994c3aca20d572631791a83af864b157",
+      "gerado_em": "2026-07-23",
       "registros": 87,
       "colecao": "artigos",
       "mudancas": {
@@ -1929,33 +2457,62 @@
       }
     },
     "lei_l4749.json": {
-      "versao": 1,
-      "sha256": "8bd8768d730f6da00ebc3d9b1ec099a9904420b8548422a266ff5c64c50fe192",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "bcd5f1b58ec3db5d917529ae2439abe10d7b75a42b83310ab828e54f05f797d1",
+      "gerado_em": "2026-07-23",
       "registros": 8,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l4886.json": {
-      "versao": 1,
-      "sha256": "e529f705d20311e8525d3494c13ef561b7a88ee8d2d8a300b96306fe4448cbfb",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "ec37fd4e1b23625b5a93bafb611d8d663b8643e5fbddfd67892bcee44c0b4488",
+      "gerado_em": "2026-07-23",
       "registros": 49,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 7,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "24",
+          "25",
+          "27",
+          "31",
+          "32",
+          "39",
+          "44"
+        ]
+      }
     },
     "lei_l4950a.json": {
-      "versao": 1,
-      "sha256": "6e267acf3de9eef7d0fe5765b5fd4e08e8b241201c47d699f85a9bc398d1998d",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "f22706e9e2850b72560070883e4620f7fea55e4c02db2d745315402ef6c63367",
+      "gerado_em": "2026-07-23",
       "registros": 8,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l5474.json": {
-      "versao": 2,
-      "sha256": "a84e5484dbdda7ba8ee74f0f7aa1dad080eca66a00de75d5fc4b6db6e83e4fff",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "12a5c217e7288931379730b3b516ee450eecb13f11402af61e8a3321674a26d0",
+      "gerado_em": "2026-07-23",
       "registros": 28,
       "colecao": "artigos",
       "mudancas": {
@@ -1968,26 +2525,30 @@
       }
     },
     "lei_l5478.json": {
-      "versao": 1,
-      "sha256": "95696aada5b961657c17bc9e55230ecedcc1722de15f42445a93f2378b7864e0",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "694a058a822cc635631f5c49205196c4d06457d00bd10dac1cbe454018562eb8",
+      "gerado_em": "2026-07-23",
       "registros": 29,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 4,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "14",
+          "16",
+          "18",
+          "9"
+        ]
+      }
     },
     "lei_l5584.json": {
-      "versao": 1,
-      "sha256": "9b0f6f18acaef7f1057e81b8511cc63d66ddea487a07edcd13ef92e08218769f",
-      "gerado_em": "2026-07-19",
-      "registros": 20,
-      "colecao": "artigos",
-      "mudancas": null
-    },
-    "lei_l5764.json": {
       "versao": 2,
-      "sha256": "79daa003f91a731a73f212f00ae9d433f8b2706983c26c0ce2ca2c447c09e44f",
-      "gerado_em": "2026-07-19",
-      "registros": 119,
+      "sha256": "32074ad4e0cb15907bd36e996e0c8dab0716789db04a9725a0a61f1a078a107e",
+      "gerado_em": "2026-07-23",
+      "registros": 20,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
@@ -1998,53 +2559,126 @@
         "amostra_alterados": []
       }
     },
+    "lei_l5764.json": {
+      "versao": 3,
+      "sha256": "a875463bbcb82fef00bd749412cdb60598e6fb38f5e8b9bd9936a98ab45a8d64",
+      "gerado_em": "2026-07-23",
+      "registros": 119,
+      "colecao": "artigos",
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 1,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "82"
+        ]
+      }
+    },
     "lei_l5889.json": {
-      "versao": 1,
-      "sha256": "7b719633f66578685d89a62b37914bddb0089b5a51af23028e4d5986021f5b9b",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "c5e5479cb76d6a14012c076646480355a1ff1308f913462fcc86e61d94f89657",
+      "gerado_em": "2026-07-23",
       "registros": 22,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 1,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "18"
+        ]
+      }
     },
     "lei_l6019.json": {
-      "versao": 1,
-      "sha256": "4276b9068c7f1fbd8cb725818b559b425780772689920533f8c20f3a6c0b9875",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "561f258120ac5759ccf9ef28982371be3e371205750fe47209f428562b1042a8",
+      "gerado_em": "2026-07-23",
       "registros": 30,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l605.json": {
-      "versao": 1,
-      "sha256": "e59d90199c6d6f9666f669d1ec08cd9d7ead9ef070a9b983b7d14d9da54c9049",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "0fb409b60f9631598ae6b9e080056d39f18e46ecb0656d6e92eb382d47a21674",
+      "gerado_em": "2026-07-23",
       "registros": 16,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 2,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "11",
+          "12"
+        ]
+      }
     },
     "lei_l6091.json": {
-      "versao": 1,
-      "sha256": "ceb43ea3954f2e8e42c131dc71154f5dc247787c55596687bcf6195eca6c4ce7",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "fdcf05078526558e49f7e71f93e3864b64021880530393c398af71851f0f2969",
+      "gerado_em": "2026-07-23",
       "registros": 28,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 1,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "17"
+        ]
+      }
     },
     "lei_l6099.json": {
-      "versao": 1,
-      "sha256": "780f5e01e7d7687350f766e0a3dcdb9c997b6231e8a840fddfb2a1e1eedcf9ca",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "2aaab025b79653beaf1384e3289db1145a15025b9f9f026602e45b6b6a16e91f",
+      "gerado_em": "2026-07-23",
       "registros": 26,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 4,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "16",
+          "17",
+          "18",
+          "8"
+        ]
+      }
     },
     "lei_l6321.json": {
-      "versao": 1,
-      "sha256": "52469597e5b8a2bab27b443acc9b844ddc47305834f7d4f9b264404d94a54e91",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "f93711bf2e934f1288fa1f32b7a4b5535630695a0585a640bd1ce73cacfc01b4",
+      "gerado_em": "2026-07-23",
       "registros": 7,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 1,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "1"
+        ]
+      }
     },
     "lei_l6360.json": {
       "versao": 3,
@@ -2070,9 +2704,9 @@
       }
     },
     "lei_l6385.json": {
-      "versao": 2,
-      "sha256": "dc2f22b34ed411a9a6c155b72256a8f06a519648d26823d013503663f107e19a",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "967f3b546b144756c82ada9529a306ea562e806bf0acdb8ff0301d9a2b3e28da",
+      "gerado_em": "2026-07-23",
       "registros": 44,
       "colecao": "artigos",
       "mudancas": {
@@ -2085,10 +2719,28 @@
       }
     },
     "lei_l6515.json": {
-      "versao": 2,
-      "sha256": "259ccf7c492b7abfb53c7fea0222c952b0c5a47db55dae4ddaeeb2c05b77e255",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "1b7887de2ef28f3ff59d132f1fe36476bff0a75fa574ca0a818800280d21967e",
+      "gerado_em": "2026-07-23",
       "registros": 54,
+      "colecao": "artigos",
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 2,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "25",
+          "40"
+        ]
+      }
+    },
+    "lei_l6533.json": {
+      "versao": 2,
+      "sha256": "719f254c3b941af5c4f0fc79bc16582d3529b4dec58dcc95c2196a44f38f7fa1",
+      "gerado_em": "2026-07-23",
+      "registros": 37,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
@@ -2099,34 +2751,47 @@
         "amostra_alterados": []
       }
     },
-    "lei_l6533.json": {
-      "versao": 1,
-      "sha256": "2b3787bc83c09fdc57ecf5ba8e8c8f39ccbe1a2e3112aa8721c9488dbbeaf1f0",
-      "gerado_em": "2026-07-19",
-      "registros": 37,
-      "colecao": "artigos",
-      "mudancas": null
-    },
     "lei_l6615.json": {
-      "versao": 1,
-      "sha256": "6842cd14c0f6c9e1403c19b3187f13465fa581da398057c5c4cea668f145bd57",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "e24e06b6a091637b151b01f3b9afdca9611775e6813eb99ed44aff19dab12cdb",
+      "gerado_em": "2026-07-23",
       "registros": 37,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l6729.json": {
-      "versao": 1,
-      "sha256": "693f6a56a7a16ee211a5d35d6ea2dd7187d30641dff73611778c7854579c69d1",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "6e38bad59b2904c849e14720a72157d4d5aa23c0bd876a766bea2f1d35c61c51",
+      "gerado_em": "2026-07-23",
       "registros": 33,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 6,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "13",
+          "2",
+          "28",
+          "5",
+          "6",
+          "8"
+        ]
+      }
     },
     "lei_l6766.json": {
-      "versao": 2,
-      "sha256": "c0bc6aacf3b2e5c9ab494564543a04932cfeeb6c17060e39bc3ef3d0cdf75cd5",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "dda5a7cdab78779c470c61c0b223ddff0f18e23045e6f4017728e5a4b24a6946",
+      "gerado_em": "2026-07-23",
       "registros": 66,
       "colecao": "artigos",
       "mudancas": {
@@ -2139,12 +2804,19 @@
       }
     },
     "lei_l6858.json": {
-      "versao": 1,
-      "sha256": "41701f169397f172f61b28c77c92d1e1c13346475a1d2b81a0de55555ca14109",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "e1e361ce5a4c8f482be8f1083d61e09bd147942ce5d50281b1305418c502c588",
+      "gerado_em": "2026-07-23",
       "registros": 4,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l6938.json": {
       "versao": 2,
@@ -2173,17 +2845,24 @@
       }
     },
     "lei_l6996.json": {
-      "versao": 1,
-      "sha256": "d042a010ba503033253a3ba91cff1b9aef1380259aa551c24dadf4c66aba644c",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "00d7dbeeea2208a806009063535595e857b59152504effe2164d09408ba8663b",
+      "gerado_em": "2026-07-23",
       "registros": 20,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l7064.json": {
-      "versao": 2,
-      "sha256": "8ca6444912aeedfe17cc12e709cde375890534cfbc383f4be0c5eae459f9e946",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "d64ca47667d933cb3c50b5450eed70b13d700474c612ae5a24df41ab62c2990a",
+      "gerado_em": "2026-07-23",
       "registros": 24,
       "colecao": "artigos",
       "mudancas": {
@@ -2196,9 +2875,9 @@
       }
     },
     "lei_l7357.json": {
-      "versao": 2,
-      "sha256": "ae3937d07a2605b9e6b130be1f52d432a08a343309549475f55f0e63f299146d",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "e67ec2c11b54cb606bf844a00a1088ec535c5874339a558a4ff61f340179362e",
+      "gerado_em": "2026-07-23",
       "registros": 71,
       "colecao": "artigos",
       "mudancas": {
@@ -2211,89 +2890,134 @@
       }
     },
     "lei_l7418.json": {
-      "versao": 1,
-      "sha256": "9a5cb2a40537b3aa05f60fadae0236973a96121c8f4145179baa7de54dda3b94",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "f2caa00d560fc667ea3b4265751626bb26c9df860d1664429089c0d18225e4f0",
+      "gerado_em": "2026-07-23",
       "registros": 12,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l7444.json": {
-      "versao": 1,
-      "sha256": "5e7aaf42e17288e4700eb981a866d02df9086be4e6ecc56a4abb358fffc39ede",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "1db5943610da3be438dc93b323b23d3a1fb6e0809ac0e32d6574b03830a441b2",
+      "gerado_em": "2026-07-23",
       "registros": 12,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l7492.json": {
-      "versao": 1,
-      "sha256": "4e13955ee3b529941ac59c761e0cc6b7a73321aa52fb683a88fac5e007238f0c",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "9e20bf1244b020836435c0ef6100802d6e5a2af1f997e45193977ade0a4fc44b",
+      "gerado_em": "2026-07-23",
       "registros": 35,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 1,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "17"
+        ]
+      }
     },
     "lei_l7689.json": {
-      "versao": 1,
-      "sha256": "dd65f20bd7c5424f378d4a6364d61c1707516ad854e6a4485f68f54709578148",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "f3959a55e8f44661d68f6f0f65839452180ec595f1884bcd16d9abe103ae054c",
+      "gerado_em": "2026-07-23",
       "registros": 13,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 2,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "3",
+          "4"
+        ]
+      }
     },
     "lei_l7713.json": {
-      "versao": 1,
-      "sha256": "6dd8798a6089347504e9fc6b275a427e315b2dd60665f0da437026b3399b267b",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "fa34ac88194ea85a0102ae7f87ada2441fc464a89027983283a18be37ed06333",
+      "gerado_em": "2026-07-23",
       "registros": 58,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l7716.json": {
-      "versao": 1,
-      "sha256": "c6ad11eeb66c4b4eba1993ba59b5d483e3d9ec671084915fbc8f8e97c640c117",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "e610d8139b84374c272eca93d98227b831e75659e659ba2ae88f94559630a2da",
+      "gerado_em": "2026-07-23",
       "registros": 27,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l7783.json": {
-      "versao": 1,
-      "sha256": "c83aaf6c6279fc11057b8b21473e62d77c38e004e7bede546e585dbc019dab40",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "6ce0c91f70f8fae32f343e75bd179d352fd2467513a619868de63f877cbf94a0",
+      "gerado_em": "2026-07-23",
       "registros": 19,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l7960.json": {
-      "versao": 1,
-      "sha256": "9ef0ff2e27a33cdd497869c444fdcd39b145d63ad57dbe13ca080dcd05db18dc",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "b8c00b1ab79eb30e9c120818f68b0dce88ed2eddc1ba4dad4f99f1f9fe439842",
+      "gerado_em": "2026-07-23",
       "registros": 7,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l7998.json": {
-      "versao": 1,
-      "sha256": "d5487c8bd85ba771ebe16b36fe00cd865401d5cae1aad0f3419a1b4418568b67",
-      "gerado_em": "2026-07-19",
-      "registros": 45,
-      "colecao": "artigos",
-      "mudancas": null
-    },
-    "lei_l8009.json": {
-      "versao": 1,
-      "sha256": "e9b4eb9b3069e47e7863b8ebff1a639ae806d096dc7904bf74b1f8876f5e3fea",
-      "gerado_em": "2026-07-19",
-      "registros": 8,
-      "colecao": "artigos",
-      "mudancas": null
-    },
-    "lei_l8038.json": {
       "versao": 2,
-      "sha256": "b471e460f40bda32d21e8e303a4078a927858b9b2a405bed8ba20d476718e658",
-      "gerado_em": "2026-07-19",
+      "sha256": "78c971b6e9d8556189b58accd66ae5b09fa1e27545a32286601c938c7705dc15",
+      "gerado_em": "2026-07-23",
       "registros": 45,
       "colecao": "artigos",
       "mudancas": {
@@ -2305,13 +3029,52 @@
         "amostra_alterados": []
       }
     },
+    "lei_l8009.json": {
+      "versao": 2,
+      "sha256": "7c92675ec146d4f8babee33f59a933c2be4d457c2d796518d34f385cda7c57e2",
+      "gerado_em": "2026-07-23",
+      "registros": 8,
+      "colecao": "artigos",
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
+    },
+    "lei_l8038.json": {
+      "versao": 3,
+      "sha256": "264d93007b249445bcbbea443d7ef6f0cad84ed8ace735712ecb960bdd136ca7",
+      "gerado_em": "2026-07-23",
+      "registros": 45,
+      "colecao": "artigos",
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 1,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "41-A"
+        ]
+      }
+    },
     "lei_l8072.json": {
-      "versao": 1,
-      "sha256": "3245ad706d052a2c11c908d2bb80772abaeee5d113fbc8128da8490c77a96300",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "8e568f41bd1af2240b4bd4adb3cd5b968a3350ecfe18e975c0486b4d52949d3f",
+      "gerado_em": "2026-07-23",
       "registros": 13,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l8080.json": {
       "versao": 3,
@@ -2336,9 +3099,9 @@
       }
     },
     "lei_l8112.json": {
-      "versao": 2,
-      "sha256": "a774167c1c50e1f53b395c5979c823d910ff5695b71956bb9fddc0260da342b2",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "417ccb719d0fe6d59d01b8b0b0d532c494c158125f0a32a4ec0f379735d8adfe",
+      "gerado_em": "2026-07-23",
       "registros": 259,
       "colecao": "artigos",
       "mudancas": {
@@ -2351,9 +3114,9 @@
       }
     },
     "lei_l8137.json": {
-      "versao": 2,
-      "sha256": "91633c6c50a9f723b791e26c3d83affab9a0b6dc31482f0426c67290dee1d876",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "b2d95c4a18b653a62a7b44ed0aad8f2d37cbbf658ddda31f0ab72942fa46309d",
+      "gerado_em": "2026-07-23",
       "registros": 23,
       "colecao": "artigos",
       "mudancas": {
@@ -2381,9 +3144,9 @@
       }
     },
     "lei_l8212.json": {
-      "versao": 2,
-      "sha256": "c6569813310a992362679f96e3f478f591187ddb532ad8b8c7a9fd6dbb5907ad",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "0ccf9b23105fef79ccff7c9709b7c590b9422907a32990faecb4b372a4e9072b",
+      "gerado_em": "2026-07-23",
       "registros": 112,
       "colecao": "artigos",
       "mudancas": {
@@ -2396,9 +3159,9 @@
       }
     },
     "lei_l8245.json": {
-      "versao": 2,
-      "sha256": "e663c62f2ed5df2f653eebad2f3f64dd487d772d83623c5913c4276df1f814b7",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "da2c018f7e0087c53ae731ae3ac1c83063744794979ddd2b949f9f6df902b754",
+      "gerado_em": "2026-07-23",
       "registros": 91,
       "colecao": "artigos",
       "mudancas": {
@@ -2411,41 +3174,73 @@
       }
     },
     "lei_l8437.json": {
-      "versao": 1,
-      "sha256": "1561621a9a7b84c11a15943294bc08d8c1dbee0e872bd21cf018c0aebba938ca",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "31c15d8266c71dc01cf8c6a7da07051a3fe5777243c20b3a2522a4ed08da213c",
+      "gerado_em": "2026-07-23",
       "registros": 6,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l8560.json": {
-      "versao": 1,
-      "sha256": "5484099e6528531957b29359da9b1bf8241e74cc2381819a699ddfd39cfd463f",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "7de52d474187d319bc6f8f4e3140894af42a6ee699f1ff18f43a114fd572f103",
+      "gerado_em": "2026-07-23",
       "registros": 11,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l8629.json": {
-      "versao": 1,
-      "sha256": "6dade37e3edcfc00f952795bfea4f7dd0b12d5cc329f7b151dd02db1836b176c",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "b6bc7d20db6dca0fd39a5762d401533f274bb20262008d5ff54c4ff597ef5e53",
+      "gerado_em": "2026-07-23",
       "registros": 36,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l8929.json": {
-      "versao": 1,
-      "sha256": "d5b1e1ce1e8c164118e40dfa0ed3642e3946c5d31aa6cf1f6054f9e1c417673e",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "f0237df5ac2b745a2a2149300ec1f79b28f56dec294f4a81132a5658c77181a1",
+      "gerado_em": "2026-07-23",
       "registros": 28,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 3,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "11",
+          "12",
+          "2"
+        ]
+      }
     },
     "lei_l8934.json": {
-      "versao": 2,
-      "sha256": "1806af89be7e12f3b6f455d397e51198252828c8b6c537470c113ad401526ede",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "fc4a37206a37079709eb18a1b198dee9564696a2a6de3d9f24c33d00844f43c2",
+      "gerado_em": "2026-07-23",
       "registros": 71,
       "colecao": "artigos",
       "mudancas": {
@@ -2458,10 +3253,29 @@
       }
     },
     "lei_l8935.json": {
-      "versao": 2,
-      "sha256": "30574fe4b37a6ac7ac22452387e2f87d04856111533b3397b336f95ed9ccbf6e",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "373a57013c4718c8bc2bd68b489a49ed0ad90365dab867bf01fa7c723108af94",
+      "gerado_em": "2026-07-23",
       "registros": 58,
+      "colecao": "artigos",
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 3,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "16",
+          "22",
+          "45"
+        ]
+      }
+    },
+    "lei_l8971.json": {
+      "versao": 2,
+      "sha256": "047a2a0659f768519598ac3140c084d848addfdd9e4d7b9bb2c1d8afec6d387d",
+      "gerado_em": "2026-07-23",
+      "registros": 5,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
@@ -2472,18 +3286,10 @@
         "amostra_alterados": []
       }
     },
-    "lei_l8971.json": {
-      "versao": 1,
-      "sha256": "25c31d4a80996f8cf52798a9fa156a52cb314b6fa4cb41848ee240c4e0278c3a",
-      "gerado_em": "2026-07-19",
-      "registros": 5,
-      "colecao": "artigos",
-      "mudancas": null
-    },
     "lei_l8987.json": {
-      "versao": 2,
-      "sha256": "e8170c39b9805c32b9a8de9fc65430858c84aee04781230c2a97b178676cb517",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "bd133b0f4fc31fec536a78502ff0f10444f114da604026173b58f2450c1fca24",
+      "gerado_em": "2026-07-23",
       "registros": 52,
       "colecao": "artigos",
       "mudancas": {
@@ -2496,25 +3302,43 @@
       }
     },
     "lei_l8989.json": {
-      "versao": 1,
-      "sha256": "d4b210b9413d9421bd9c7b5b3ba4d55fefdc73d3bf4a01c61876adae3edbd3e4",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "5219180d40d5961cbd8062e17a72cf4f69e6057e05a071405b121191a8553329",
+      "gerado_em": "2026-07-23",
       "registros": 10,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l9029.json": {
-      "versao": 1,
-      "sha256": "05ab788bff5c403afa45d17a3c396f374107b5e9d70d25ea5a29fe994f993792",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "9c6d1f0b0a19713fadff244aaccc86b96d46922dd7ce678bfe7754a647c3ec7b",
+      "gerado_em": "2026-07-23",
       "registros": 6,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 3,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "1",
+          "3",
+          "4"
+        ]
+      }
     },
     "lei_l9096.json": {
-      "versao": 2,
-      "sha256": "cd3e2491cc0a8b0efa3b667f538b47fe218549578af3384271a7f536182c28d0",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "fab8630b1639a5a1192e10d5cd09ad8c46fdbb137002dd4e4443c912433c220a",
+      "gerado_em": "2026-07-23",
       "registros": 84,
       "colecao": "artigos",
       "mudancas": {
@@ -2527,57 +3351,63 @@
       }
     },
     "lei_l9249.json": {
-      "versao": 1,
-      "sha256": "2a03d667e8512f3014afcae8beeabc5485147e72bd400dfb545e1d23e1f07066",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "fcda0eb18b983ecf46a69a67c87e2f216676f99246353571c51d552fe2bf7882",
+      "gerado_em": "2026-07-23",
       "registros": 37,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 4,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "10",
+          "15",
+          "20",
+          "21"
+        ]
+      }
     },
     "lei_l9278.json": {
-      "versao": 1,
-      "sha256": "e458f45c0969ad84ccb724e0f55d2b4aadc0983a9c40b624625a9211c5cf4662",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "9812a6cbcf5d367be0239948a4384809992676c519782c79afe4f6fa07650e54",
+      "gerado_em": "2026-07-23",
       "registros": 11,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l9279.json": {
-      "versao": 2,
-      "sha256": "d771615ada1769eab94cc81287b39c627cfca66d3442d0459340224150a76312",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "bb013da660931c571fd8ec7dd87ee4eb1bc6566f23a82f4b5cd831b80e964bf0",
+      "gerado_em": "2026-07-23",
       "registros": 248,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
         "removidos": 0,
-        "alterados": 0,
+        "alterados": 2,
         "amostra_adicionados": [],
         "amostra_removidos": [],
-        "amostra_alterados": []
+        "amostra_alterados": [
+          "229",
+          "71"
+        ]
       }
     },
     "lei_l9289.json": {
-      "versao": 1,
-      "sha256": "4d804b19aee19ebd0823fc9b8a1231a11e5ca7a445898f1a6e1371f137054726",
-      "gerado_em": "2026-07-19",
-      "registros": 18,
-      "colecao": "artigos",
-      "mudancas": null
-    },
-    "lei_l9296.json": {
-      "versao": 1,
-      "sha256": "cf5925ff3b5fa0947d64b9813c60aa679541e1bb6501a1893daae28a6b3ef9f9",
-      "gerado_em": "2026-07-19",
-      "registros": 14,
-      "colecao": "artigos",
-      "mudancas": null
-    },
-    "lei_l9307.json": {
       "versao": 2,
-      "sha256": "fc97dca95a685152338f3368e323259360bdcfb870f2a399d9240b3533900cff",
-      "gerado_em": "2026-07-19",
-      "registros": 47,
+      "sha256": "aeedccc37a8c750e6f109dc8770b5b66e839112287861f751aae2770cdfe861e",
+      "gerado_em": "2026-07-23",
+      "registros": 18,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
@@ -2588,10 +3418,47 @@
         "amostra_alterados": []
       }
     },
-    "lei_l9427.json": {
+    "lei_l9296.json": {
       "versao": 2,
-      "sha256": "c5b01bccbc56da5590d424ee64de411566bc035bb29f3f4fc67e98e38a57fd9d",
-      "gerado_em": "2026-07-19",
+      "sha256": "4b7e27df74728eef38a3ef4de5272be73b4956f7a23e3998e44896879feea9bc",
+      "gerado_em": "2026-07-23",
+      "registros": 14,
+      "colecao": "artigos",
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 1,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "10"
+        ]
+      }
+    },
+    "lei_l9307.json": {
+      "versao": 3,
+      "sha256": "dca4455715955a5dcb1d22a47b587e5508726039f26a43c9098a2073d4821378",
+      "gerado_em": "2026-07-23",
+      "registros": 47,
+      "colecao": "artigos",
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 4,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "30",
+          "33",
+          "35",
+          "39"
+        ]
+      }
+    },
+    "lei_l9427.json": {
+      "versao": 3,
+      "sha256": "478486e4d7c956e1c675073ca71feddef577508405f94d6c54fcfbc182736d07",
+      "gerado_em": "2026-07-23",
       "registros": 38,
       "colecao": "artigos",
       "mudancas": {
@@ -2604,9 +3471,9 @@
       }
     },
     "lei_l9430.json": {
-      "versao": 2,
-      "sha256": "527d8aa2e7a25c2b34676803d4e7f3ccf053c9bd974ee12223df304ce0ee628c",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "90ad350731aff0cd4edbc534887bb873ba4e3f89c1713cdb973c2423c3e09248",
+      "gerado_em": "2026-07-23",
       "registros": 103,
       "colecao": "artigos",
       "mudancas": {
@@ -2641,12 +3508,19 @@
       }
     },
     "lei_l9455.json": {
-      "versao": 1,
-      "sha256": "b11cab10533b20e634747061b3cff7b80f42b1c52b3df088c534c2c3f758f595",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "89d0885011391c4df6fce971f15f4ff5d5d85047604094d8d33779e1aa4a6b87",
+      "gerado_em": "2026-07-23",
       "registros": 4,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l9478.json": {
       "versao": 3,
@@ -2675,10 +3549,45 @@
       }
     },
     "lei_l9492.json": {
-      "versao": 2,
-      "sha256": "483b6b4e9cc85f151475f4a08daba32d1909113e7c8af592107209484e6a3cca",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "c27077584b1261fe241d06801a6b3f45273af65698f192c6616319038ae490b7",
+      "gerado_em": "2026-07-23",
       "registros": 46,
+      "colecao": "artigos",
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 2,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "29",
+          "31"
+        ]
+      }
+    },
+    "lei_l9494.json": {
+      "versao": 2,
+      "sha256": "18608781a6a4a88f620474a1e1651757d32e7bf9af0abbd15b94e26e284bb77c",
+      "gerado_em": "2026-07-23",
+      "registros": 12,
+      "colecao": "artigos",
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 1,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "1-F"
+        ]
+      }
+    },
+    "lei_l9504.json": {
+      "versao": 2,
+      "sha256": "b2ce5f452d69eb5ff7548ae73d8a1392dd125ac0c09e15c21b56980653a5589c",
+      "gerado_em": "2026-07-23",
+      "registros": 151,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
@@ -2689,35 +3598,11 @@
         "amostra_alterados": []
       }
     },
-    "lei_l9494.json": {
-      "versao": 1,
-      "sha256": "2fe41c69acad14e56f61e113c1abeecc85f1c93bf5b9ec05d6c056d1160f731f",
-      "gerado_em": "2026-07-19",
-      "registros": 12,
-      "colecao": "artigos",
-      "mudancas": null
-    },
-    "lei_l9504.json": {
-      "versao": 1,
-      "sha256": "4be405b7b6395a3fdcf583af66428cfedaaba4fcf50e47856ef30c1e9bfbf84a",
-      "gerado_em": "2026-07-19",
-      "registros": 151,
-      "colecao": "artigos",
-      "mudancas": null
-    },
     "lei_l9507.json": {
-      "versao": 1,
-      "sha256": "ca5f54df345adb968607c1d4fc21b8ed4214f5fa6ae802db18ed64ade74124ae",
-      "gerado_em": "2026-07-19",
-      "registros": 23,
-      "colecao": "artigos",
-      "mudancas": null
-    },
-    "lei_l9514.json": {
       "versao": 2,
-      "sha256": "2b252fb7bf0a6e1545c172a1cfde454f34d286cee696125241d79bf82c36a64a",
-      "gerado_em": "2026-07-19",
-      "registros": 53,
+      "sha256": "06a8f0d035a5e711b7ececea8fa6975c8cd4347d56db44a026b9c19e4935a2df",
+      "gerado_em": "2026-07-23",
+      "registros": 23,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
@@ -2726,6 +3611,31 @@
         "amostra_adicionados": [],
         "amostra_removidos": [],
         "amostra_alterados": []
+      }
+    },
+    "lei_l9514.json": {
+      "versao": 3,
+      "sha256": "3917ab9654c2e8f52a767b138dc4d33e3d86ac58c3dd09f5bad16f231e334a59",
+      "gerado_em": "2026-07-23",
+      "registros": 53,
+      "colecao": "artigos",
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 9,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "22",
+          "26",
+          "26-A",
+          "27",
+          "30",
+          "37-A",
+          "38",
+          "39",
+          "41"
+        ]
       }
     },
     "lei_l9537.json": {
@@ -2746,32 +3656,48 @@
       }
     },
     "lei_l9601.json": {
-      "versao": 1,
-      "sha256": "631b51679c4c1caebc1fad5a8d2d5dbc67f09b2194b6e85b8fc27880f3f02203",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "1b98ea7e301e993039a1f2a8143ab33ea09c4b6d80be35d1179d6f780f3d26d6",
+      "gerado_em": "2026-07-23",
       "registros": 10,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 2,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "2",
+          "7"
+        ]
+      }
     },
     "lei_l9605.json": {
-      "versao": 2,
-      "sha256": "ff331486ea578aaae8eb1e6c916649bdc00d859d2b767becf291a5f606f180c0",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "b910f5ad9303e010d7d82817bb2d4a4bf5e9c274c593dc64a3107b198afe5c65",
+      "gerado_em": "2026-07-23",
       "registros": 87,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
         "removidos": 0,
-        "alterados": 0,
+        "alterados": 5,
         "amostra_adicionados": [],
         "amostra_removidos": [],
-        "amostra_alterados": []
+        "amostra_alterados": [
+          "41",
+          "65",
+          "67",
+          "73",
+          "79-A"
+        ]
       }
     },
     "lei_l9609.json": {
-      "versao": 2,
-      "sha256": "63c50b666332110f35189154e8b619052492ea17d52ce77e2ecc705772ad43f2",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "2f62e8d51327549db237444232d811f7a9b4ce423bc0d01251831e8eacf38c2f",
+      "gerado_em": "2026-07-23",
       "registros": 16,
       "colecao": "artigos",
       "mudancas": {
@@ -2784,24 +3710,28 @@
       }
     },
     "lei_l9610.json": {
-      "versao": 2,
-      "sha256": "b64dc1b4e27f1dbd3df171f645e3d460a6c5d065556fc3060df83509b68d665f",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "19025351eb95806efef1fb7bf1386de86e8c73e80f94ce82a5757562b42a770b",
+      "gerado_em": "2026-07-23",
       "registros": 124,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
         "removidos": 0,
-        "alterados": 0,
+        "alterados": 3,
         "amostra_adicionados": [],
         "amostra_removidos": [],
-        "amostra_alterados": []
+        "amostra_alterados": [
+          "100",
+          "98",
+          "99"
+        ]
       }
     },
     "lei_l9613.json": {
-      "versao": 2,
-      "sha256": "c4a709611d8ccae27bc6f565f655ddc0237a574c1e4b1a49efccaa390a7c166d",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "3ce2ba462e402f2e48d6a92eff44f1f70090a4da002aa02d86b8cec9cdd3ec9b",
+      "gerado_em": "2026-07-23",
       "registros": 28,
       "colecao": "artigos",
       "mudancas": {
@@ -2814,28 +3744,60 @@
       }
     },
     "lei_l9656.json": {
-      "versao": 1,
-      "sha256": "bd74aba7b1cb1dba6bea414768ed8924a08a5854e331bd586d9f8f20598e0154",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "b1a32a10d90bf8cf4d7c476763d795eb6f8af84214c1e9f912a0ed70cc49da49",
+      "gerado_em": "2026-07-23",
       "registros": 58,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 26,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "1",
+          "10",
+          "10-A",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17"
+        ]
+      }
     },
     "lei_l9709.json": {
-      "versao": 1,
-      "sha256": "4a773263ec57c898f16bde2a16bde9eed1e21b13021d63675fa2c38e3fc83329",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "2653307b6fe87255aafb01bad684bfd78532c2db4727200e8321dcf2e5975a64",
+      "gerado_em": "2026-07-23",
       "registros": 15,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l9717.json": {
-      "versao": 1,
-      "sha256": "d18081120b595d451eb1c986bdbb253aacc583243d09dc098cf018dbcb244edf",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "19e79bd928af84284d3b25931e77c03da485adbf2d12697ae250b9f249e34b7d",
+      "gerado_em": "2026-07-23",
       "registros": 15,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l9782.json": {
       "versao": 3,
@@ -2862,9 +3824,9 @@
       }
     },
     "lei_l9784.json": {
-      "versao": 2,
-      "sha256": "069ba6324282a4751b49658cc136668c98f3760048e08572ca0050602ce38c9e",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "901aea076a9a007b484be30ff948ac9a3d452441059617d9c7f71dbeac0c9d10",
+      "gerado_em": "2026-07-23",
       "registros": 80,
       "colecao": "artigos",
       "mudancas": {
@@ -2894,32 +3856,45 @@
       }
     },
     "lei_l9790.json": {
-      "versao": 2,
-      "sha256": "ea7063c30b958ad24347675cd8999a874f804983b7f6dd0fcd3beebf4a88f46c",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "505703cd2dc59cbf9b71b4e9db66a3b3562c5d516264e5912a8ad70d56d7b8b3",
+      "gerado_em": "2026-07-23",
       "registros": 22,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
         "removidos": 0,
-        "alterados": 0,
+        "alterados": 2,
         "amostra_adicionados": [],
         "amostra_removidos": [],
-        "amostra_alterados": []
+        "amostra_alterados": [
+          "1",
+          "18"
+        ]
       }
     },
     "lei_l9796.json": {
-      "versao": 1,
-      "sha256": "a5f5cf43e49ab6e8be94fdf5db2153693159e899e40bea06e745379819a176c0",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "3581ac353cdde427eeb66bebadd3bed71e89e8cc5e343252872b0d91dcc97354",
+      "gerado_em": "2026-07-23",
       "registros": 13,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 2,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "5",
+          "8"
+        ]
+      }
     },
     "lei_l9807.json": {
-      "versao": 2,
-      "sha256": "b91a58e4825e48896681cb7ce509a51031fb3427dd21ccffadb981c4a508bb98",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "b90c23955834ab9ee2e8a7d8a3d55b6e1ae30d45e331899c8a464500bdb4b882",
+      "gerado_em": "2026-07-23",
       "registros": 22,
       "colecao": "artigos",
       "mudancas": {
@@ -2932,9 +3907,9 @@
       }
     },
     "lei_l9868.json": {
-      "versao": 2,
-      "sha256": "f6c1c4180014ea741b6070c2e91d0e0506d15436e67a33a9c412e863687af734",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "cf5f4ef997135ca6898d56adebd4f2163f30a95be9d4dc68539fe32ae3ca9409",
+      "gerado_em": "2026-07-23",
       "registros": 39,
       "colecao": "artigos",
       "mudancas": {
@@ -2947,12 +3922,19 @@
       }
     },
     "lei_l9882.json": {
-      "versao": 1,
-      "sha256": "e42f14da1b146f3ab1543298da35dc5409e1240a8ed8e384d9446b1399378b8b",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "fa2933950ca82e9396c1207f6ccef9b3f70dcd47a7d59b89ee05f27ad16c69ac",
+      "gerado_em": "2026-07-23",
       "registros": 14,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_l9961.json": {
       "versao": 3,
@@ -2990,26 +3972,34 @@
       }
     },
     "lei_l9986.json": {
-      "versao": 1,
-      "sha256": "3059b723574c270e7e32c268f8507a8356a8b4f0e7433c904aa02a9c69abe261",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "514879cd49de27251e2c753c903bd1836bae6d88216a1222eb06a23fd17afcb8",
+      "gerado_em": "2026-07-23",
       "registros": 41,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 8,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "10",
+          "16",
+          "22",
+          "4",
+          "5",
+          "6",
+          "8",
+          "9"
+        ]
+      }
     },
     "lei_lacp.json": {
-      "versao": 1,
-      "sha256": "52d08e61cafdb8bc84215ed1d05b7d90869c192974f876faa8e686930b02dbfe",
-      "gerado_em": "2026-07-19",
-      "registros": 23,
-      "colecao": "artigos",
-      "mudancas": null
-    },
-    "lei_lai.json": {
       "versao": 2,
-      "sha256": "28730d0ce6fc143ad9b290656e8e78e33908ad40ff108a3203ad45f9940b6c33",
-      "gerado_em": "2026-07-19",
-      "registros": 49,
+      "sha256": "1dfaeac29df87302f711c68eca59bee299c8ed6d14c63eb583e051ee1f3c53a0",
+      "gerado_em": "2026-07-23",
+      "registros": 23,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
@@ -3018,6 +4008,23 @@
         "amostra_adicionados": [],
         "amostra_removidos": [],
         "amostra_alterados": []
+      }
+    },
+    "lei_lai.json": {
+      "versao": 3,
+      "sha256": "94af65ecb4285a1b1b29baff8e30c50f8d1c8ded41e897656dd6d0820a3b8ddc",
+      "gerado_em": "2026-07-23",
+      "registros": 49,
+      "colecao": "artigos",
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 1,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "12"
+        ]
       }
     },
     "lei_lbps.json": {
@@ -3036,17 +4043,24 @@
       }
     },
     "lei_lc105.json": {
-      "versao": 1,
-      "sha256": "e5a8b0b51252a1fee0802ceede075f2fd80283cadca51d87acd6cc0548c8698f",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "e873b0fffe2954a8c60c77e9174af8962c27dec599ffa7f9eb7f3e43111d9674",
+      "gerado_em": "2026-07-23",
       "registros": 13,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_lc108.json": {
-      "versao": 2,
-      "sha256": "2d320636774675ddd02dd3dcc0ee86e4319f2fb80c3d3159713ca72eb644b349",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "4ed5497f184e86b3d4ed2ee69109839fbafb09c2a7586919fc952b5fcc763d19",
+      "gerado_em": "2026-07-23",
       "registros": 32,
       "colecao": "artigos",
       "mudancas": {
@@ -3059,9 +4073,9 @@
       }
     },
     "lei_lc109.json": {
-      "versao": 2,
-      "sha256": "33204a7a1df43bc2c9b69db002e78820c63be650dd315834eed3a8074214a49c",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "3475f55a21c0761cc3b88f156b95d3e79c1b4708071c70772a149e54f093373f",
+      "gerado_em": "2026-07-23",
       "registros": 79,
       "colecao": "artigos",
       "mudancas": {
@@ -3074,12 +4088,21 @@
       }
     },
     "lei_lc116.json": {
-      "versao": 1,
-      "sha256": "57b76c6e41f5f8132eafbc09235a54c3c6e803c014d043c7047ac7ba506314fe",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "46c24af4ace29c917ed72fbf362eead4a1a11e692239e2c368c069c6e53df2d0",
+      "gerado_em": "2026-07-23",
       "registros": 12,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 1,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "3"
+        ]
+      }
     },
     "lei_lc123.json": {
       "versao": 3,
@@ -3108,25 +4131,39 @@
       }
     },
     "lei_lc135.json": {
-      "versao": 1,
-      "sha256": "d432db2c8f65fb9f12d7c2bc9672be0651ad6d7c2fdf0574f18ce303d357e3d3",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "8b149e04d06dd2808dda810f09e4f3d26c83a21b5a95347e77820cf8db5a0f64",
+      "gerado_em": "2026-07-23",
       "registros": 5,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_lc142.json": {
-      "versao": 1,
-      "sha256": "09aadce6202cb482d33840738391aa1e4993e1b300f63625ebda8e56d4a29951",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "a8dd651743453c647ccaca4dd48ca70d2d5f3287331af6fa852010db4e5d73e8",
+      "gerado_em": "2026-07-23",
       "registros": 11,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_lc150.json": {
-      "versao": 2,
-      "sha256": "f5419ff31b620df076abeaddd7ba0c6612b75358656fb5ab51abc95ba2e03576",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "f05c3dcdd13ff2863ba1859d73bf3821cca187bab8bf2689222d3d97671eb3ce",
+      "gerado_em": "2026-07-23",
       "registros": 48,
       "colecao": "artigos",
       "mudancas": {
@@ -3139,9 +4176,9 @@
       }
     },
     "lei_lc182.json": {
-      "versao": 2,
-      "sha256": "5b66c7a6cf8d8cb7ad8b3f2bb6f9325afd18c945a52138c4620adab8864e9a29",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "afbd9251589053079179f9acb61b6b4868eb3588e9f40794c91b4c3d339b0c06",
+      "gerado_em": "2026-07-23",
       "registros": 19,
       "colecao": "artigos",
       "mudancas": {
@@ -3154,49 +4191,85 @@
       }
     },
     "lei_lc64.json": {
-      "versao": 1,
-      "sha256": "471aafe4d2886c264e17f5c3b56e9e7f248e1273779abd515d2ba373a6392708",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "de0ea14b078dfab8813f5806d32b7fa49b5a5cf1b9f4c372af6e8a6923f923c4",
+      "gerado_em": "2026-07-23",
       "registros": 33,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 1,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "15"
+        ]
+      }
     },
     "lei_lc80.json": {
-      "versao": 2,
-      "sha256": "be4f0f9ee894d4a6269a7ef42da344efaabb7fe1d06b73c7e8ebf7f6964629ed",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "fd9f87af8ef4e9e09e9bb2c6768894ff77d2493eb759973dbdb29bc1f925f958",
+      "gerado_em": "2026-07-23",
       "registros": 163,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
         "removidos": 0,
-        "alterados": 0,
+        "alterados": 21,
         "amostra_adicionados": [],
         "amostra_removidos": [],
-        "amostra_alterados": []
+        "amostra_alterados": [
+          "1",
+          "101",
+          "104",
+          "107",
+          "108",
+          "123",
+          "136",
+          "18",
+          "19",
+          "20"
+        ]
       }
     },
     "lei_lc87.json": {
-      "versao": 1,
-      "sha256": "1d0cfd685513f667880aee995a290f65b5a6af2d7493ea59a90b1a46ed6a6282",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "504d2e700ed14f478389efbc7fafded8a1419452ee755af1c10d34c6651f2142",
+      "gerado_em": "2026-07-23",
       "registros": 40,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 3,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "25",
+          "31",
+          "6"
+        ]
+      }
     },
     "lei_lcp.json": {
-      "versao": 2,
-      "sha256": "db3bb0162313c5b7ba151836754a4a0b54073c34aecfb40139cf2442cfec404f",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "8bdce884808c0e268c6c251a852128581788b74e15fedce68f3c818682fe20a6",
+      "gerado_em": "2026-07-23",
       "registros": 72,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
         "removidos": 0,
-        "alterados": 0,
+        "alterados": 4,
         "amostra_adicionados": [],
         "amostra_removidos": [],
-        "amostra_alterados": []
+        "amostra_alterados": [
+          "11",
+          "20",
+          "46",
+          "6"
+        ]
       }
     },
     "lei_ld.json": {
@@ -3238,12 +4311,19 @@
       }
     },
     "lei_lef.json": {
-      "versao": 1,
-      "sha256": "9a76e48fd656def0e800925f1cbf9f8d0f0b8568660c5efeea690fe70c3ec656",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "f80018cacc13c082d247dbe37b3685d2f5822bdb6f0d8fa9a26a6e526dcc9d90",
+      "gerado_em": "2026-07-23",
       "registros": 42,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 0,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": []
+      }
     },
     "lei_lep.json": {
       "versao": 3,
@@ -3302,9 +4382,9 @@
       }
     },
     "lei_lia.json": {
-      "versao": 2,
-      "sha256": "31c51be9df820c915e42545c9afb15b783f4b0c8f0279a7b95d72057c35b61dc",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "1d944dc1c4ed4c5adbaeb0823945dc2828cad6e08c88e12cb5854ec6c145bf50",
+      "gerado_em": "2026-07-23",
       "registros": 35,
       "colecao": "artigos",
       "mudancas": {
@@ -3332,18 +4412,25 @@
       }
     },
     "lei_lje.json": {
-      "versao": 2,
-      "sha256": "48969078c9fb9b65ce75fc04f9644fe4b793bea2e06c9c4c0504535b986ec303",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "80f10e752f3348fc956ac06af99c6abe9cf9f3cc8e96bdce51206be9e984988f",
+      "gerado_em": "2026-07-23",
       "registros": 99,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
         "removidos": 0,
-        "alterados": 0,
+        "alterados": 6,
         "amostra_adicionados": [],
         "amostra_removidos": [],
-        "amostra_alterados": []
+        "amostra_alterados": [
+          "23",
+          "48",
+          "50",
+          "60",
+          "62",
+          "83"
+        ]
       }
     },
     "lei_llc.json": {
@@ -3398,17 +4485,26 @@
       }
     },
     "lei_lms.json": {
-      "versao": 1,
-      "sha256": "5b2289f663a30f2ee2465717a440a5ce597ad5187cdd8eb99f416534f8312040",
-      "gerado_em": "2026-07-19",
+      "versao": 2,
+      "sha256": "fbaea83fe2aec0b7264d05e68f303051e873a91bb016b4e03c8971277b73f989",
+      "gerado_em": "2026-07-23",
       "registros": 29,
       "colecao": "artigos",
-      "mudancas": null
+      "mudancas": {
+        "adicionados": 0,
+        "removidos": 0,
+        "alterados": 1,
+        "amostra_adicionados": [],
+        "amostra_removidos": [],
+        "amostra_alterados": [
+          "16"
+        ]
+      }
     },
     "lei_loas.json": {
-      "versao": 2,
-      "sha256": "b16216e93df4438c5e327635b34612497ce6d3dfc34276aa7b6a9bc30573d382",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "cd15c2ae52225124a2657187995f0282ef94eefc370c7cc634f1965878261b0b",
+      "gerado_em": "2026-07-23",
       "registros": 71,
       "colecao": "artigos",
       "mudancas": {
@@ -3421,9 +4517,9 @@
       }
     },
     "lei_lref.json": {
-      "versao": 2,
-      "sha256": "843d8f8902dbd6e953ebc5ba85309369dc3f26f7dcc7b0c29c5e7669d10c0af2",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "1f74df26f43a156d2e98b113864414a932e55389be8a47a2a616235ded82a582",
+      "gerado_em": "2026-07-23",
       "registros": 261,
       "colecao": "artigos",
       "mudancas": {
@@ -3436,24 +4532,29 @@
       }
     },
     "lei_lrf.json": {
-      "versao": 2,
-      "sha256": "89dac89a5fdb3d6f1e58e06580b8f5af0eada9fc34527c7e8f0b28c438a1bdf8",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "a0ed0f1b1938040a0609b9af6a686f20b591100456da46aa5cc5693297c93219",
+      "gerado_em": "2026-07-23",
       "registros": 83,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
         "removidos": 0,
-        "alterados": 0,
+        "alterados": 4,
         "amostra_adicionados": [],
         "amostra_removidos": [],
-        "amostra_alterados": []
+        "amostra_alterados": [
+          "14",
+          "21",
+          "40",
+          "59"
+        ]
       }
     },
     "lei_lrp.json": {
-      "versao": 2,
-      "sha256": "f078a52a3ee074bd7159a1feb69d381ac37afcc4de144ab9336d09be217cfc78",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "2a973cae68556f206499f27be4d5e28b9c19923320b06082f63e508eafef8171",
+      "gerado_em": "2026-07-23",
       "registros": 321,
       "colecao": "artigos",
       "mudancas": {
@@ -3466,18 +4567,20 @@
       }
     },
     "lei_lsa.json": {
-      "versao": 2,
-      "sha256": "094e279121cbecdbba4b133d577b5b18533b7c8daec249c2c87b1b82efb92ce1",
-      "gerado_em": "2026-07-19",
+      "versao": 3,
+      "sha256": "03b9e9b2204169d840c7ced8e8a2822fae17cc038435f5c5454e7c0ecb73d6bb",
+      "gerado_em": "2026-07-23",
       "registros": 313,
       "colecao": "artigos",
       "mudancas": {
         "adicionados": 0,
         "removidos": 0,
-        "alterados": 0,
+        "alterados": 1,
         "amostra_adicionados": [],
         "amostra_removidos": [],
-        "amostra_alterados": []
+        "amostra_alterados": [
+          "279"
+        ]
       }
     },
     "lei_mci.json": {

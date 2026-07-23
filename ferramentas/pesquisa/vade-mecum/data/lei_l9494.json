@@ -6,7 +6,7 @@
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9494.htm",
     "total_artigos": 12,
     "version": "2.0",
-    "gerado_em": "2026-07-19",
+    "gerado_em": "2026-07-23",
     "transformacao": "planalto_html_v1",
     "registros_retidos_sem_correspondencia": []
   },
@@ -109,7 +109,7 @@
     },
     "1-F": {
       "numero": "1-F",
-      "texto": "Art. 1o-F. Os juros de mora, nas condenações impostas à Fazenda Pública para pagamento de verbas remuneratórias devidas a servidores e empregados públicos, não poderão ultrapassar o percentual de seis por cento ao ano. (Incluído pela Medida provisória nº 2.180-35, de 2001)",
+      "texto": "Art. 1o-F. Nas condenações impostas à Fazenda Pública, independentemente de sua natureza e para fins de atualização monetária, remuneração do capital e compensação da mora, haverá a incidência uma única vez, até o efetivo pagamento, dos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança. (Redação dada pela Lei nº 11.960, de 2009) (Vide ADIN 5348 - Decisão do STF declaração parcial de inconstitucionalidade)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9494.htm#:~:text=Art.%201o-F.%20Os%20juros%20de%20mora%2C%20nas%20condena%C3%A7%C3%B5es%20impostas%20%C3%A0%20Fazenda%20P%C3%BAblica%20para%20pagamento%20de%20verbas%20remunerat%C3%B3rias%20devidas%20a%20servidores%20e%20empregados",
       "keywords": [],
       "hierarchy": {

@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_fgts.json",
       "colecao": "artigos",
-      "sha256": "b922a6184864d4706c988fba589633f00127d6be9ba263d3d893b7cf8d635836",
+      "sha256": "5b7deedebac7ca082292fc96ae2e9d04c9f1ee5770c7300f1dcca28b49d7c55f",
       "total_registros": 49,
-      "gerado_em": "2026-07-19"
+      "gerado_em": "2026-07-23"
     },
     "relacao": {
       "chave": "numero",

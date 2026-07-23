@@ -6,7 +6,7 @@
     "url_base": "https://www.planalto.gov.br/ccivil_03/decreto/d24643compilado.htm",
     "total_artigos": 205,
     "version": "2.0",
-    "gerado_em": "2026-07-19",
+    "gerado_em": "2026-07-23",
     "transformacao": "planalto_html_v1",
     "registros_retidos_sem_correspondencia": []
   },
@@ -1613,7 +1613,7 @@
     },
     "101": {
       "numero": "101",
-      "texto": "Art. 101. Depende de concessão administrativa a abertura de poços em terrenos do domínio público.\n\nTITULO V\n\nÁGUAS PLUVIAIS",
+      "texto": "Art. 101. Depende de concessão administrativa a abertura de poços em terrenos do domínio público.",
       "url": "https://www.planalto.gov.br/ccivil_03/decreto/d24643compilado.htm#:~:text=Art.%20101.%20Depende%20de%20concess%C3%A3o%20administrativa%20a%20abertura%20de%20po%C3%A7os%20em%20terrenos%20do%20dom%C3%ADnio%20p%C3%BAblico.",
       "keywords": [],
       "hierarchy": {
@@ -1633,10 +1633,10 @@
       "url": "https://www.planalto.gov.br/ccivil_03/decreto/d24643compilado.htm#:~:text=Art.%20102.%20Consideram-se%20%C3%A1guas%20pluviais%2C%20as%20que%20procedem%20imediatamente%20das%20chuvas.",
       "keywords": [],
       "hierarchy": {
-        "title": "IV",
-        "title_name": "TÍTULO IV",
-        "chapter": "ÚNICO",
-        "chapter_name": "CAPÍTULO ÚNICO.",
+        "title": "V",
+        "title_name": "ÁGUAS PLUVIAIS",
+        "chapter": null,
+        "chapter_name": null,
         "section": null,
         "section_name": null
       },
@@ -1649,10 +1649,10 @@
       "url": "https://www.planalto.gov.br/ccivil_03/decreto/d24643compilado.htm#:~:text=Art.%20103.%20As%20%C3%A1guas%20pluviais%20pertencem%20ao%20dono%20do%20pr%C3%A9dio%20onde%20ca%C3%ADirem%20diretamente%2C%20podendo%20o%20mesmo%20dispor%20delas%20a%20vontade%2C%20salvo%20existindo",
       "keywords": [],
       "hierarchy": {
-        "title": "IV",
-        "title_name": "TÍTULO IV",
-        "chapter": "ÚNICO",
-        "chapter_name": "CAPÍTULO ÚNICO.",
+        "title": "V",
+        "title_name": "ÁGUAS PLUVIAIS",
+        "chapter": null,
+        "chapter_name": null,
         "section": null,
         "section_name": null
       },
@@ -1665,10 +1665,10 @@
       "url": "https://www.planalto.gov.br/ccivil_03/decreto/d24643compilado.htm#:~:text=Art.%20104.%20Transpondo%20o%20limite%20do%20pr%C3%A9dio%20em%20que%20ca%C3%ADrem%2C%20abandonadas%20pelo%20propriet%C3%A1rio%20do%20mesmo%2C%20as%20%C3%A1guas%20pluviais%2C%20no%20que%20lhes%20for",
       "keywords": [],
       "hierarchy": {
-        "title": "IV",
-        "title_name": "TÍTULO IV",
-        "chapter": "ÚNICO",
-        "chapter_name": "CAPÍTULO ÚNICO.",
+        "title": "V",
+        "title_name": "ÁGUAS PLUVIAIS",
+        "chapter": null,
+        "chapter_name": null,
         "section": null,
         "section_name": null
       },
@@ -1681,10 +1681,10 @@
       "url": "https://www.planalto.gov.br/ccivil_03/decreto/d24643compilado.htm#:~:text=Art.%20105.%20O%20propriet%C3%A1rio%20edificar%C3%A1%20de%20maneira%20que%20o%20beiral%20de%20seu%20telhado%20n%C3%A3o%20despeje%20sobre%20o%20pr%C3%A9dio%20vizinho%2C%20deixando%20entre%20este",
       "keywords": [],
       "hierarchy": {
-        "title": "IV",
-        "title_name": "TÍTULO IV",
-        "chapter": "ÚNICO",
-        "chapter_name": "CAPÍTULO ÚNICO.",
+        "title": "V",
+        "title_name": "ÁGUAS PLUVIAIS",
+        "chapter": null,
+        "chapter_name": null,
         "section": null,
         "section_name": null
       },
@@ -1697,10 +1697,10 @@
       "url": "https://www.planalto.gov.br/ccivil_03/decreto/d24643compilado.htm#:~:text=Art.%20106.%20%C3%89%20imprescrit%C3%ADvel%20o%20direito%20de%20uso%20das%20%C3%A1guas%20pluviais.",
       "keywords": [],
       "hierarchy": {
-        "title": "IV",
-        "title_name": "TÍTULO IV",
-        "chapter": "ÚNICO",
-        "chapter_name": "CAPÍTULO ÚNICO.",
+        "title": "V",
+        "title_name": "ÁGUAS PLUVIAIS",
+        "chapter": null,
+        "chapter_name": null,
         "section": null,
         "section_name": null
       },
@@ -1713,10 +1713,10 @@
       "url": "https://www.planalto.gov.br/ccivil_03/decreto/d24643compilado.htm#:~:text=Art.%20107.%20S%C3%A3o%20de%20dom%C3%ADnio%20p%C3%BAblico%20de%20uso%20comum%20as%20%C3%A1guas%20pluviais%20que%20ca%C3%ADrem%20em%20lugares%20ou%20terrenos%20p%C3%BAblicos%20de%20uso%20comum.",
       "keywords": [],
       "hierarchy": {
-        "title": "IV",
-        "title_name": "TÍTULO IV",
-        "chapter": "ÚNICO",
-        "chapter_name": "CAPÍTULO ÚNICO.",
+        "title": "V",
+        "title_name": "ÁGUAS PLUVIAIS",
+        "chapter": null,
+        "chapter_name": null,
         "section": null,
         "section_name": null
       },
@@ -1725,14 +1725,14 @@
     },
     "108": {
       "numero": "108",
-      "texto": "Art. 108. A todos é lícito apanhar estas águas.\n\nParágrafo único. Não se poderão, porém, construir nestes lugares ou terrenos, reservatórios para o aproveitamento das mesmas águas sem licença da administração.\n\nTITULO VI\n\nÁGUAS NOCIVAS",
+      "texto": "Art. 108. A todos é lícito apanhar estas águas.\n\nParágrafo único. Não se poderão, porém, construir nestes lugares ou terrenos, reservatórios para o aproveitamento das mesmas águas sem licença da administração.",
       "url": "https://www.planalto.gov.br/ccivil_03/decreto/d24643compilado.htm#:~:text=Art.%20108.%20A%20todos%20%C3%A9%20l%C3%ADcito%20apanhar%20estas%20%C3%A1guas.",
       "keywords": [],
       "hierarchy": {
-        "title": "IV",
-        "title_name": "TÍTULO IV",
-        "chapter": "ÚNICO",
-        "chapter_name": "CAPÍTULO ÚNICO.",
+        "title": "V",
+        "title_name": "ÁGUAS PLUVIAIS",
+        "chapter": null,
+        "chapter_name": null,
         "section": null,
         "section_name": null
       },
@@ -1745,8 +1745,8 @@
       "url": "https://www.planalto.gov.br/ccivil_03/decreto/d24643compilado.htm#:~:text=Art.%20109.%20A%20ningu%C3%A9m%20%C3%A9%20l%C3%ADcito%20conspurcar%20ou%20contaminar%20as%20%C3%A1guas%20que%20n%C3%A3o%20consome%2C%20com%20preju%C3%ADzo%20de%20terceiros.",
       "keywords": [],
       "hierarchy": {
-        "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title": "VI",
+        "title_name": "ÁGUAS NOCIVAS",
         "chapter": "ÚNICO",
         "chapter_name": "CAPÍTULO ÚNICO",
         "section": null,
@@ -1761,8 +1761,8 @@
       "url": "https://www.planalto.gov.br/ccivil_03/decreto/d24643compilado.htm#:~:text=Art.%20110.%20Os%20trabalhos%20para%20a%20salubridade%20das%20%C3%A1guas%20ser%C3%A3o%20executados%20%C3%A1%20custa%20dos%20infratores%2C%20que%2C%20al%C3%A9m%20da%20responsabilidade%20criminal%2C%20se%20houver%2C",
       "keywords": [],
       "hierarchy": {
-        "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title": "VI",
+        "title_name": "ÁGUAS NOCIVAS",
         "chapter": "ÚNICO",
         "chapter_name": "CAPÍTULO ÚNICO",
         "section": null,
@@ -1777,8 +1777,8 @@
       "url": "https://www.planalto.gov.br/ccivil_03/decreto/d24643compilado.htm#:~:text=Art.%20111.%20Se%20os%20interesses%20relevantes%20da%20agricultura%20ou%20da%20ind%C3%BAstria%20o%20exigirem%2C%20e%20mediante%20expressa%20autoriza%C3%A7%C3%A3o%20administrativa%2C%20as%20%C3%A1guas%20poder%C3%A3o%20ser",
       "keywords": [],
       "hierarchy": {
-        "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title": "VI",
+        "title_name": "ÁGUAS NOCIVAS",
         "chapter": "ÚNICO",
         "chapter_name": "CAPÍTULO ÚNICO",
         "section": null,
@@ -1793,8 +1793,8 @@
       "url": "https://www.planalto.gov.br/ccivil_03/decreto/d24643compilado.htm#:~:text=Art.%20112.%20Os%20agricultores%20ou%20industriais%20dever%C3%A3o%20indenizar%20a%20Uni%C3%A3o%2C%20os%20Estados%2C%20os%20Munic%C3%ADpios%2C%20as%20corpora%C3%A7%C3%B5es%20ou%20os%20particulares%20que%20pelo%20favor",
       "keywords": [],
       "hierarchy": {
-        "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title": "VI",
+        "title_name": "ÁGUAS NOCIVAS",
         "chapter": "ÚNICO",
         "chapter_name": "CAPÍTULO ÚNICO",
         "section": null,
@@ -1809,8 +1809,8 @@
       "url": "https://www.planalto.gov.br/ccivil_03/decreto/d24643compilado.htm#:~:text=Art.%20113.%20Os%20terrenos%20pantanosos%2C%20quando%2C%20declarada%20a%20sua%20insalubridade%2C%20n%C3%A3o%20forem%20desecados%20pelos%20seus%20propriet%C3%A1rios%2C%20se-lo-%C3%A3o%20pela%20administra%C3%A7%C3%A3o%2C%20conforme%20a%20maior",
       "keywords": [],
       "hierarchy": {
-        "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title": "VI",
+        "title_name": "ÁGUAS NOCIVAS",
         "chapter": "ÚNICO",
         "chapter_name": "CAPÍTULO ÚNICO",
         "section": null,
@@ -1825,8 +1825,8 @@
       "url": "https://www.planalto.gov.br/ccivil_03/decreto/d24643compilado.htm#:~:text=Art.%20114.%20Esta%20poder%C3%A1%20realizar%20os%20trabalhos%20por%20si%20ou%20por%20concession%C3%A1rios.",
       "keywords": [],
       "hierarchy": {
-        "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title": "VI",
+        "title_name": "ÁGUAS NOCIVAS",
         "chapter": "ÚNICO",
         "chapter_name": "CAPÍTULO ÚNICO",
         "section": null,
@@ -1841,8 +1841,8 @@
       "url": "https://www.planalto.gov.br/ccivil_03/decreto/d24643compilado.htm#:~:text=Art.%20115.%20Ao%20propriet%C3%A1rio%20assiste%20a%20obriga%C3%A7%C3%A3o%20de%20indenizar%20os%20trabalhos%20feitos%2C%20pelo%20pagamento%20de%20uma%20taxa%20de%20melhoria%20sobre%20o%20acr%C3%A9scimo",
       "keywords": [],
       "hierarchy": {
-        "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title": "VI",
+        "title_name": "ÁGUAS NOCIVAS",
         "chapter": "ÚNICO",
         "chapter_name": "CAPÍTULO ÚNICO",
         "section": null,
@@ -1857,8 +1857,8 @@
       "url": "https://www.planalto.gov.br/ccivil_03/decreto/d24643compilado.htm#:~:text=Art.%20116.%20Se%20o%20propriet%C3%A1rio%20n%C3%A3o%20entrar%20em%20ac%C3%B4rdo%20para%20a%20realiza%C3%A7%C3%A3o%20dos%20trabalhos%20nos%20termos%20dos%20dois%20artigos%20anteriores%2C%20dar-se-%C3%A1%20a",
       "keywords": [],
       "hierarchy": {
-        "title": "IV",
-        "title_name": "TÍTULO IV",
+        "title": "VI",
+        "title_name": "ÁGUAS NOCIVAS",
         "chapter": "ÚNICO",
         "chapter_name": "CAPÍTULO ÚNICO",
         "section": null,

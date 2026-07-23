@@ -6,7 +6,7 @@
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm",
     "total_artigos": 49,
     "version": "2.0",
-    "gerado_em": "2026-07-19",
+    "gerado_em": "2026-07-23",
     "transformacao": "planalto_html_v1",
     "registros_retidos_sem_correspondencia": []
   },
@@ -381,7 +381,7 @@
     },
     "24": {
       "numero": "24",
-      "texto": "Art . 24. As Diretorias dos Conselhos Regionais prestarão contas da sua gestão ao próprio Conselho, até o último dia do mês de fevereiro de cada ano.",
+      "texto": "Art. 24. As diretorias dos Conselhos Regionais prestarão contas da sua gestão ao próprio conselho, até o dia 15 de fevereiro de cada ano. (Redação dada pela Lei nº 8.420, de 8.5.1992)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2024.%20As%20Diretorias%20dos%20Conselhos%20Regionais%20prestar%C3%A3o%20contas%20da%20sua%20gest%C3%A3o%20ao%20pr%C3%B3prio%20Conselho%2C%20at%C3%A9%20o%20%C3%BAltimo%20dia%20do%20m%C3%AAs",
       "keywords": [],
       "hierarchy": {
@@ -397,7 +397,7 @@
     },
     "25": {
       "numero": "25",
-      "texto": "Art . 25. Os Conselhos Regionais prestarão contas até o último dia do mês de março de cada ano ao Conselho Federal. Parágrafo único. A Diretoria do Conselho Federal prestará contas, no mesmo prazo, ao respectivo plenário.",
+      "texto": "Art . 25. Os Conselhos Regionais prestarão contas até o último dia do mês de fevereiro de cada ano ao Conselho Federal. (Redação dada pela Lei nº 8.420, de 8.5.1992)\n\nParágrafo único. A Diretoria do Conselho Federal prestará contas ao respectivo plenário até o último dia do mês de março de cada ano. (Redação dada pela Lei nº 8.420, de 8.5.1992)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2025.%20Os%20Conselhos%20Regionais%20prestar%C3%A3o%20contas%20at%C3%A9%20o%20%C3%BAltimo%20dia%20do%20m%C3%AAs%20de%20mar%C3%A7o%20de%20cada%20ano%20ao%20Conselho%20Federal.",
       "keywords": [],
       "hierarchy": {
@@ -429,7 +429,7 @@
     },
     "27": {
       "numero": "27",
-      "texto": "Art . 27. Do contrato de representação comercial, quando celebrado por escrito, além dos elementos comuns e outros, a juízo dos interessados, constarão, obrigatòriamente:",
+      "texto": "Art. 27. Do contrato de representação comercial, além dos elementos comuns e outros a juízo dos interessados, constarão obrigatoriamente: (Redação dada pela Lei nº 8.420, de 8.5.1992)\n\na) condições e requisitos gerais da representação;\n\nb) indicação genérica ou específica dos produtos ou artigos objeto da representação;\n\nc) prazo certo ou indeterminado da representação\n\nd) indicação da zona ou zonas em que será exercida a representação, bem como da permissibilidade ou não de a representada ali poder negociar diretamente;\n\nd) indicação da zona ou zonas em que será exercida a representação; (Redação dada pela Lei nº 8.420, de 8.5.1992)\n\ne) garantia ou não, parcial ou total, ou por certo prazo, da exclusividade de zona ou setor de zona;\n\nf) retribuição e época do pagamento, pelo exercício da representação, dependente da efetiva realização dos negócios, e recebimento, ou não, pelo representado, dos valôres respectivos;\n\ng) os casos em que se justifique a restrição de zona concedida com exclusividade;\n\nh) obrigações e responsabilidades das partes contratantes:\n\ni) exercício exclusivo ou não da representação a favor do representado;\n\nj) indenização devida ao representante, pela rescisão do contrato fora dos casos previstos no art. 34, cujo montante não será inferior a um vinte avos (1/20) do total da retribuição auferida durante o tempo em que exerceu a representação, a contar da vigência desta lei.\n\nj) indenização devida ao representante pela rescisão do contrato fora dos casos previstos no art. 35, cujo montante não poderá ser inferior a 1/12 (um doze avos) do total da retribuição auferida durante o tempo em que exerceu a representação. (Redação dada pela Lei nº 8.420, de 8.5.1992)\n\nParágrafo único. Na falta do contrato escrito, ou sendo êste omisso, a indenização será igual a um quinze avos (1/15) do total da retribuição auferida no exercício da representação, a partir da vigência desta lei.\n\n§ 1° Na hipótese de contrato a prazo certo, a indenização corresponderá à importância equivalente à média mensal da retribuição auferida até a data da rescisão, multiplicada pela metade dos meses resultantes do prazo contratual. (Redação dada pela Lei nº 8.420, de 8.5.1992)\n\n§ 2° O contrato com prazo determinado, uma vez prorrogado o prazo inicial, tácita ou expressamente, torna-se a prazo indeterminado. (Incluído pela Lei nº 8.420, de 8.5.1992)\n\n§ 3° Considera-se por prazo indeterminado todo contrato que suceder, dentro de seis meses, a outro contrato, com ou sem determinação de prazo. (Incluído pela Lei nº 8.420, de 8.5.1992)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2027.%20Do%20contrato%20de%20representa%C3%A7%C3%A3o%20comercial%2C%20quando%20celebrado%20por%20escrito%2C%20al%C3%A9m%20dos%20elementos%20comuns%20e%20outros%2C%20a%20ju%C3%ADzo%20dos%20interessados%2C",
       "keywords": [],
       "hierarchy": {
@@ -493,7 +493,7 @@
     },
     "31": {
       "numero": "31",
-      "texto": "Art . 31. Prevendo o contrato de representação a exclusividade de zona ou zonas, fará jus o representante à comissão pelos negócios aí realizados, ainda que diretamente pelo representado ou por intermédio de terceiros. Parágrafo único. A exclusividade de zona ou representações não se presume, na ausência de ajuste expresso.",
+      "texto": "Art. 31. Prevendo o contrato de representação a exclusividade de zona ou zonas, ou quando este for omisso, fará jus o representante à comissão pelos negócios aí realizados, ainda que diretamente pelo representado ou por intermédio de terceiros. (Redação dada pela Lei nº 8.420, de 8.5.1992)\n\nParágrafo único. A exclusividade de representação não se presume na ausência de ajustes expressos. (Redação dada pela Lei nº 8.420, de 8.5.1992)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2031.%20Prevendo%20o%20contrato%20de%20representa%C3%A7%C3%A3o%20a%20exclusividade%20de%20zona%20ou%20zonas%2C%20far%C3%A1%20jus%20o%20representante%20%C3%A0%20comiss%C3%A3o%20pelos%20neg%C3%B3cios",
       "keywords": [],
       "hierarchy": {
@@ -509,7 +509,7 @@
     },
     "32": {
       "numero": "32",
-      "texto": "Art . 32. O representante comercial adquire direito às comissões, logo que o comprador efetue o respectivo pagamento ou na medida que o faça, parceladamente.",
+      "texto": "Art. 32. O representante comercial adquire o direito às comissões quando do pagamento dos pedidos ou propostas. (Redação dada pela Lei nº 8.420, de 8.5.1992)\n\n§ 1° O pagamento das comissões deverá ser efetuado até o dia 15 do mês subseqüente ao da liquidação da fatura, acompanhada das respectivas cópias das notas fiscais. (Incluído pela Lei nº 8.420, de 8.5.1992)\n\n§ 2° As comissões pagas fora do prazo previsto no parágrafo anterior deverão ser corrigidas monetariamente. (Incluído pela Lei nº 8.420, de 8.5.1992)\n\n§ 3° É facultado ao representante comercial emitir títulos de créditos para cobrança de comissões. (Incluído pela Lei nº 8.420, de 8.5.1992)\n\n§ 4° As comissões deverão ser calculadas pelo valor total das mercadorias. (Incluído pela Lei nº 8.420, de 8.5.1992)\n\n§ 5° Em caso de rescisão injusta do contrato por parte do representando, a eventual retribuição pendente, gerada por pedidos em carteira ou em fase de execução e recebimento, terá vencimento na data da rescisão. (Incluído pela Lei nº 8.420, de 8.5.1992)\n\n§ 6° (Vetado). (Incluído pela Lei nº 8.420, de 8.5.1992)\n\n§ 7° São vedadas na representação comercial alterações que impliquem, direta ou indiretamente, a diminuição da média dos resultados auferidos pelo representante nos últimos seis meses de vigência. (Incluído pela Lei nº 8.420, de 8.5.1992)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2032.%20O%20representante%20comercial%20adquire%20direito%20%C3%A0s%20comiss%C3%B5es%2C%20logo%20que%20o%20comprador%20efetue%20o%20respectivo%20pagamento%20ou%20na%20medida%20que",
       "keywords": [],
       "hierarchy": {
@@ -621,7 +621,7 @@
     },
     "39": {
       "numero": "39",
-      "texto": "Art . 39. Para julgamento das controvérsias que surgirem entre representante e representado, é competente a Justiça Comum.",
+      "texto": "Art. 39. Para julgamento das controvérsias que surgirem entre representante e representado é competente a Justiça Comum e o foro do domicílio do representante, aplicando-se o procedimento sumaríssimo previsto no art. 275 do Código de Processo Civil, ressalvada a competência do Juizado de Pequenas Causas. (Redação dada pela Lei nº 8.420, de 8.5.1992)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art%20.%2039.%20Para%20julgamento%20das%20controv%C3%A9rsias%20que%20surgirem%20entre%20representante%20e%20representado%2C%20%C3%A9%20competente%20a%20Justi%C3%A7a%20Comum.",
       "keywords": [],
       "hierarchy": {
@@ -701,7 +701,7 @@
     },
     "44": {
       "numero": "44",
-      "texto": "Art. 44. No caso de falência do representado as importâncias por ele devidas ao representante comercial, relacionadas com a representação, inclusive comissões vencidas e vincendas, indenização e aviso prévio, serão considerados créditos da mesma natureza dos créditos trabalhistas. (Incluído pela Lei nº 8.420, de 8.5.1992)",
+      "texto": "Art. 44. No caso de falência ou de recuperação judicial do representado, as importâncias por ele devidas ao representante comercial, relacionadas com a representação, inclusive comissões vencidas e vincendas, indenização e aviso prévio, e qualquer outra verba devida ao representante oriunda da relação estabelecida com base nesta Lei, serão consideradas créditos da mesma natureza dos créditos trabalhistas para fins de inclusão no pedido de falência ou plano de recuperação judicial. (Redação dada pela Lei nº 14.195, de 2021)\n\nParágrafo único. Prescreve em cinco anos a ação do representante comercial para pleitear a retribuição que lhe é devida e os demais direitos que lhe são garantidos por esta lei. (Incluído pela Lei nº 8.420, de 8.5.1992)\n\nParágrafo único. Os créditos devidos ao representante comercial reconhecidos em título executivo judicial transitado em julgado após o deferimento do processamento da recuperação judicial, e a sua respectiva execução, inclusive quanto aos honorários advocatícios, não se sujeitarão à recuperação judicial, aos seus efeitos e à competência do juízo da recuperação, ainda que existentes na data do pedido, e prescreverá em 5 (cinco) anos a ação do representante comercial para pleitear a retribuição que lhe é devida e os demais direitos garantidos por esta Lei. (Redação dada pela Lei nº 14.195, de 2021)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l4886.htm#:~:text=Art.%2044.%20No%20caso%20de%20fal%C3%AAncia%20do%20representado%20as%20import%C3%A2ncias%20por%20ele%20devidas%20ao%20representante%20comercial%2C%20relacionadas%20com%20a%20representa%C3%A7%C3%A3o%2C%20inclusive%20comiss%C3%B5es",
       "keywords": [],
       "hierarchy": {

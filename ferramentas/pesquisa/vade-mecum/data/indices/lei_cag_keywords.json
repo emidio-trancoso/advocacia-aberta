@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_cag.json",
       "colecao": "artigos",
-      "sha256": "d0abf9d515e4faa07aa43a5eec9a281354fb91f7a37556b28900cb4fa298b9e4",
+      "sha256": "7e21eb53f33501572666565fb1126ffb7d2113c0bf1ef07fabfa6301646f2dc9",
       "total_registros": 205,
-      "gerado_em": "2026-07-19"
+      "gerado_em": "2026-07-23"
     },
     "relacao": {
       "chave": "numero",
@@ -134,14 +134,14 @@
     "98": "art sao expressamente proibidas construcoes capazes poluir inutilizar para uso ordinario agua poco nascente alheia elas preexistentes",
     "99": "art todo aquele que violar disposicoes dos artigos antecedentes obrigado demolir construcoes feitas respondendo por perdas danos",
     "100": "art 100 correntes que desaparecerem momentaneamente solo formando curso subterraneo para reaparecer mais longe nao perdem carater coisa publica uso comum quando eram sua origem",
-    "101": "art 101 depende concessao administrativa abertura pocos terrenos dominio publico titulo aguas pluviais",
+    "101": "art 101 depende concessao administrativa abertura pocos terrenos dominio publico",
     "102": "art 102 consideram aguas pluviais que procedem imediatamente das chuvas",
     "103": "art 103 aguas pluviais pertencem dono predio onde caiirem diretamente podendo mesmo dispor delas vontade salvo existindo direito sentido contrario paragrafo unico porem nao permitido desperdicar essas prejuizo dos outros predios que possam aproveitar sob pena indenizacao aos proprietarios mesmos desviar seu curso natural para lhes dar outro sem consentimento expresso donos irao recebe las",
     "104": "art 104 transpondo limite predio que cairem abandonadas pelo proprietario mesmo aguas pluviais lhes for aplicavel ficam sujeitas regras ditadas para comuns publicas",
     "105": "art 105 proprietario edificara maneira que beiral seu telhado nao despeje sobre predio vizinho deixando entre este quando por outro modo possa evitar intervalo centimetros menos aguas escoem",
     "106": "art 106 imprescritivel direito uso das aguas pluviais",
     "107": "art 107 sao dominio publico uso comum aguas pluviais que cairem lugares terrenos publicos",
-    "108": "art 108 todos licito apanhar estas aguas paragrafo unico nao poderao porem construir nestes lugares terrenos reservatorios para aproveitamento das mesmas sem licenca administracao titulo nocivas",
+    "108": "art 108 todos licito apanhar estas aguas paragrafo unico nao poderao porem construir nestes lugares terrenos reservatorios para aproveitamento das mesmas sem licenca administracao",
     "109": "art 109 ninguem licito conspurcar contaminar aguas que nao consome com prejuizo terceiros",
     "110": "art 110 trabalhos para salubridade das aguas serao executados custa dos infratores que alem responsabilidade criminal houver responderao pelas perdas danos causarem multas lhes forem impostas nos regulamentos administrativo",
     "111": "art 111 interesses relevantes agricultura industria exigirem mediante expressa autorizacao administrativa aguas poderao ser inquinadas mas agricultores industriais deverao providenciar para que purifiquem por qualquer processo sigam seu esgoto natural",

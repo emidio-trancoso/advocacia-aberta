@@ -6,7 +6,7 @@
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9796.htm",
     "total_artigos": 13,
     "version": "2.0",
-    "gerado_em": "2026-07-19",
+    "gerado_em": "2026-07-23",
     "transformacao": "planalto_html_v1",
     "registros_retidos_sem_correspondencia": []
   },
@@ -77,7 +77,7 @@
     },
     "5": {
       "numero": "5",
-      "texto": "Art. 5o Os regimes instituidores apresentarão aos regimes de origem, no prazo máximo de dezoito meses a contar da data da entrada em vigor desta Lei, os dados relativos aos benefícios em manutenção nessa data, concedidos a partir da promulgação da Constituição Federal.",
+      "texto": "Art. 5o Os regimes instituidores apresentarão aos regimes de origem, no prazo máximo de trinta e seis meses a contar da data da entrada em vigor desta Lei, os dados relativos aos benefícios em manutenção nessa data, concedidos a partir da promulgação da Constituição Federal. (Vide Medida Provisória nº 2.129-8, de 2001) (Redação dada pela Medida Provisória nº 2.187-13, de 2001)\n\nParágrafo único. A compensação financeira em atraso relativa aos benefícios de que trata este artigo será calculada multiplicando-se a renda mensal obtida para o último mês, de acordo com o procedimento determinado nos arts. 3o e 4o, pelo número de meses em que o benefício foi pago até então.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9796.htm#:~:text=Art.%205o%20Os%20regimes%20instituidores%20apresentar%C3%A3o%20aos%20regimes%20de%20origem%2C%20no%20prazo%20m%C3%A1ximo%20de%20dezoito%20meses%20a%20contar%20da%20data%20da%20entrada",
       "keywords": [],
       "hierarchy": {
@@ -125,7 +125,7 @@
     },
     "8": {
       "numero": "8",
-      "texto": "Art. 8o Na hipótese de descumprimento do prazo de desembolso estipulado no § 2º do art. 6º, aplicar-se-ão as mesmas normas em vigor para atualização dos valores dos recolhimentos em atraso de contribuições previdenciárias arrecadadas pelo Instituto Nacional do Seguro Social - INSS.",
+      "texto": "Art. 8º Na hipótese de descumprimento do prazo de desembolso estipulado no § 2º do art. 6º desta Lei ou de descumprimento do prazo de análise dos requerimentos estipulado em regulamento, serão aplicadas as mesmas normas em vigor para atualização dos valores dos recolhimentos em atraso de contribuições previdenciárias arrecadadas pelo Instituto Nacional do Seguro Social (INSS). (Redação dada pela Lei nº 13.846, de 2019)\n\nParágrafo único. Na hipótese de o regime previdenciário próprio dos servidores da União, dos Estados, do Distrito Federal e dos Municípios possuir personalidade jurídica própria, os respectivos entes federados respondem solidariamente pelas obrigações previstas nesta Lei.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9796.htm#:~:text=Art.%208o%20Na%20hip%C3%B3tese%20de%20descumprimento%20do%20prazo%20de%20desembolso%20estipulado%20no%20%C2%A7%202%C2%BA%20do%20art.%206%C2%BA%2C%20aplicar-se-%C3%A3o%20as%20mesmas%20normas%20em",
       "keywords": [],
       "hierarchy": {

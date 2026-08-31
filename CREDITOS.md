@@ -52,3 +52,12 @@ nenhuma delas é redistribuída dentro deste repositório.
   do repositório. A revisão da contribuição revelou o mesmo mecanismo nas súmulas e na
   legislação, corrigido junto. Verificação em
   [`base-juridica/verificacoes/BASE-042.md`](base-juridica/verificacoes/BASE-042.md).
+- **Ruan Lucas** ([@ruanlucas-adv](https://github.com/ruanlucas-adv)) — primeiro pull request
+  externo aceito no repositório
+  ([#23](https://github.com/emidio-trancoso/advocacia-aberta/pull/23), aberto em 14/08/2026 e
+  aceito em 31/08/2026): cobertura de teste para `construir_indice_geo.py`, o único script de
+  `ferramentas/manutencao/` que ainda não tinha par de teste. São oito casos sobre a conversão
+  de IPv4 em inteiro usada nas faixas do índice de geolocalização — endereço válido, extremos,
+  IPv6, entrada vazia e malformada —, todos verificados contra o comportamento real da função
+  antes do aceite. Não muda comportamento; protege contra regressão silenciosa o índice que
+  alimenta o relatório de acesso ao acervo.

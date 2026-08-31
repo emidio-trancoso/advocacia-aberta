@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_lc214.json",
       "colecao": "artigos",
-      "sha256": "5f91f0508af8bfce6d3ca2e458dcbdb4f987e835d3e70fde96b918b5c348bebb",
+      "sha256": "9deb3d75f8affb4c6147ffe0d29f97aed3bbade2f79e33df2c6bc82b74c3d8da",
       "total_registros": 580,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-31T20:53:39+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 140,
-      "anotacoes": 776,
+      "artigos_com_anotacao": 142,
+      "anotacoes": 778,
       "anotacoes_sem_diploma_nomeado": 53
     }
   },
@@ -2144,6 +2144,22 @@
         }
       ]
     },
+    "82": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "inciso I",
+          "diploma": {
+            "especie": "Lei Complementar",
+            "numero": "235",
+            "ano": 2026
+          },
+          "trecho": "…receita bruta total de venda de bens e serviços no mesmo período, após excluídos os tributos incidentes sobre a venda; e",
+          "literal": "(Redação dada pela Lei Complementar nº 235, de 2026)"
+        }
+      ]
+    },
     "89": {
       "situacao": null,
       "eventos": [
@@ -2651,6 +2667,22 @@
           },
           "trecho": "…stergar a implementação do regime específico dos combustíveis de que tratam os incisos IX, X e XI do caput deste artigo.",
           "literal": "(Incluído pela Lei Complementar nº 227, de 2026)"
+        }
+      ]
+    },
+    "174": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 12º",
+          "diploma": {
+            "especie": "Lei Complementar",
+            "numero": "235",
+            "ano": 2026
+          },
+          "trecho": "…termos do inciso I do § 2º deste artigo, as alíquotas vigentes em fevereiro de 2026 para os meses em que houver redução.",
+          "literal": "(Incluído pela Lei Complementar nº 235, de 2026)"
         }
       ]
     },

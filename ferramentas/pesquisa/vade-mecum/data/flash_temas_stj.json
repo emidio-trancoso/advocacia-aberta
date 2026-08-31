@@ -1,7 +1,7 @@
 {
   "_meta": {
     "version": "2.0",
-    "generatedAt": "2026-08-21T22:36:24+00:00",
+    "generatedAt": "2026-08-31T20:53:25+00:00",
     "totalTemas": 1468,
     "source": {
       "provenanceStatus": "reproducible_pipeline",
@@ -22,8 +22,8 @@
         }
       },
       "method": "Junção determinística de Temas.csv e Processos.csv por sequencialPrecedente; seleção preferencial do leading case.",
-      "metadata_sha256": "9d3857693e090f3759c8e0e7ee7226f46089624009a91ce66b7d0cdf431abb7b",
-      "collectedAt": "2026-08-21T22:36:24+00:00"
+      "metadata_sha256": "eaac1320f697a9e0c3d0716875845aba9206a3be275b53c9ef632dee9a8a0e86",
+      "collectedAt": "2026-08-31T20:53:25+00:00"
     },
     "transformacao": "temas_stj_csv_v1"
   },
@@ -1868,7 +1868,7 @@
     },
     "65": {
       "numero": 65,
-      "situacao": "Afetado - Possível Revisão de Tese",
+      "situacao": "Mérito Julgado",
       "ramo": "DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO",
       "assuntos": [
         "DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO"
@@ -27899,10 +27899,10 @@
       "ramo": "DIREITO PROCESSUAL CIVIL E DO TRABALHO",
       "assuntos": [
         "DIREITO PROCESSUAL CIVIL E DO TRABALHO",
-        "Partes e Procuradores",
         "Honorários Advocatícios",
-        "Honorários Advocatícios em Execução Contra a Fazenda Pública",
-        "Sucumbência"
+        "Partes e Procuradores",
+        "Sucumbência",
+        "Honorários Advocatícios em Execução Contra a Fazenda Pública"
       ],
       "questao": "Análise acerca da aplicabilidade da Súmula 345 do STJ diante da superveniência do art. 85, § 7º, do CPC/2015.",
       "teseFirmada": "O art. 85, § 7º, do CPC/2015 não afasta a aplicação do entendimento consolidado na Súmula 345 do STJ, de modo que são devidos honorários advocatícios nos procedimentos individuais de cumprimento de sentença decorrente de ação coletiva, ainda que não impugnados e promovidos em litisconsórcio.",
@@ -27960,8 +27960,8 @@
       "ramo": "DIREITO PREVIDENCIÁRIO",
       "assuntos": [
         "DIREITO PREVIDENCIÁRIO",
-        "Decadência/Prescrição",
-        "Aposentadoria por Tempo de Serviço (Art. 52/4)"
+        "Aposentadoria por Tempo de Serviço (Art. 52/4)",
+        "Decadência/Prescrição"
       ],
       "questao": "Questão atinente à incidência do prazo decadencial sobre o direito de revisão do ato de concessão de benefício previdenciário do regime geral (art. 103 da Lei 8.213/1991) nas hipóteses em que o ato administrativo da autarquia previdenciária não apreciou o mérito do objeto da revisão.",
       "teseFirmada": "Aplica-se o prazo decadencial de dez anos estabelecido no art. 103, caput, da Lei 8.213/1991 às hipóteses em que a questão controvertida não foi apreciada no ato administrativo de análise de concessão de benefício previdenciário.",
@@ -31833,7 +31833,7 @@
     },
     "1107": {
       "numero": 1107,
-      "situacao": "Afetado",
+      "situacao": "Em Julgamento",
       "ramo": "DIREITO PENAL",
       "assuntos": [
         "DIREITO PENAL",
@@ -33827,19 +33827,19 @@
     },
     "1177": {
       "numero": 1177,
-      "situacao": "Afetado",
+      "situacao": "Mérito Julgado",
       "ramo": "DIREITO PROCESSUAL CIVIL E DO TRABALHO",
       "assuntos": [
         "DIREITO PROCESSUAL CIVIL E DO TRABALHO",
         "Sucumbência"
       ],
       "questao": "Definir se é possível ou não a condenação da União ao pagamento de honorários de sucumbência em sede de ação civil pública.",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 1991439/RS",
       "relator": "BENEDITO GONÇALVES",
       "dataAfetacao": "12/12/2022",
-      "dataJulgamento": "",
+      "dataJulgamento": "20/08/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1177&cod_tema_final=1177",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%221991439%22&O=JT",
@@ -34817,7 +34817,7 @@
     },
     "1212": {
       "numero": 1212,
-      "situacao": "Afetado",
+      "situacao": "Mérito Julgado",
       "ramo": "DIREITO CIVIL",
       "assuntos": [
         "DIREITO CIVIL",
@@ -34826,12 +34826,12 @@
         "Ingresso e Exclusão dos Sócios na Sociedade"
       ],
       "questao": "a) licitude da exigência, em estatuto social de cooperativa de trabalho médico, de aprovação em processo seletivo como requisito para ingresso de novos cooperados; e b) da possibilidade de o edital do processo seletivo prever limitação de número de vagas.",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
       "orgaoJulgador": "Segunda Seção",
       "processo": "REsp 2033484/SP",
       "relator": "RAUL ARAÚJO",
       "dataAfetacao": "30/08/2023",
-      "dataJulgamento": "",
+      "dataJulgamento": "19/08/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1212&cod_tema_final=1212",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222033484%22&O=JT",
@@ -35157,7 +35157,7 @@
     },
     "1224": {
       "numero": 1224,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Trânsito em Julgado",
       "ramo": "IRPF/Imposto de Renda de Pessoa Física",
       "assuntos": [
         "IRPF/Imposto de Renda de Pessoa Física"
@@ -35269,19 +35269,19 @@
     },
     "1228": {
       "numero": 1228,
-      "situacao": "Em Julgamento",
+      "situacao": "Mérito Julgado",
       "ramo": "Salário-Educação",
       "assuntos": [
         "Salário-Educação",
         "Suspensão do Processo"
       ],
       "questao": "Definir se a pessoa física que exerce serviço notarial ou registral é contribuinte da contribuição social do salário-educação, prevista no § 5º do art. 212 da Constituição Federal de 1988 e instituída pelo art. 15 da Lei 9.424/96.",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2068273/RS",
       "relator": "ASSUSETE MAGALHÃES",
       "dataAfetacao": "18/12/2023",
-      "dataJulgamento": "",
+      "dataJulgamento": "20/08/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1228&cod_tema_final=1228",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222068273%22&O=JT",
@@ -35886,19 +35886,19 @@
     },
     "1250": {
       "numero": 1250,
-      "situacao": "Em Julgamento",
+      "situacao": "Mérito Julgado",
       "ramo": "Recuperação judicial e Falência",
       "assuntos": [
         "Recuperação judicial e Falência",
         "Honorários Advocatícios"
       ],
       "questao": "Definir se é devida a condenação em honorários advocatícios sucumbenciais - em caso de acolhimento do incidente de impugnação ao crédito - nas ações de recuperação judicial e de falência.",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
       "orgaoJulgador": "Segunda Seção",
       "processo": "REsp 2090060/SP",
       "relator": "HUMBERTO MARTINS",
       "dataAfetacao": "29/04/2024",
-      "dataJulgamento": "",
+      "dataJulgamento": "19/08/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1250&cod_tema_final=1250",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222090060%22&O=JT",
@@ -36166,18 +36166,18 @@
     },
     "1260": {
       "numero": 1260,
-      "situacao": "Em Julgamento",
+      "situacao": "Mérito Julgado",
       "ramo": "Homicídio Qualificado",
       "assuntos": [
         "Homicídio Qualificado"
       ],
       "questao": "Definir a) se, nos termos do art. 155 do CPP, a pronúncia não pode se fundamentar exclusivamente em elementos colhidos durante o inquérito policial; b) se o testemunho indireto, ainda que colhido em juízo, não constitui, isoladamente, meio de prova idôneo para a pronúncia.",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 2048687/BA",
       "relator": "REYNALDO SOARES DA FONSECA",
       "dataAfetacao": "29/05/2024",
-      "dataJulgamento": "",
+      "dataJulgamento": "12/08/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1260&cod_tema_final=1260",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222048687%22&O=JT",
@@ -39269,7 +39269,7 @@
     },
     "1370": {
       "numero": 1370,
-      "situacao": "Afetado",
+      "situacao": "Em Julgamento",
       "ramo": "Reajustes e Revisões Específicos",
       "assuntos": [
         "Reajustes e Revisões Específicos"
@@ -39323,7 +39323,7 @@
     },
     "1372": {
       "numero": 1372,
-      "situacao": "Afetado",
+      "situacao": "Mérito Julgado",
       "ramo": "Cofins",
       "assuntos": [
         "Cofins",
@@ -39331,12 +39331,12 @@
         "ICMS/ Imposto sobre Circulação de Mercadorias"
       ],
       "questao": "Definir se a contribuição ao Programa de Integração Social (PIS) e a Contribuição para o Financiamento da Seguridade Social (COFINS) incidem sobre o ICMS-DIFAL (Diferencial de Alíquotas do Imposto sobre a Circulação de Mercadorias e Serviços).",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2174178/RS",
       "relator": "GURGEL DE FARIA",
       "dataAfetacao": "19/08/2025",
-      "dataJulgamento": "",
+      "dataJulgamento": "20/08/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1372&cod_tema_final=1372",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222174178%22&O=JT",
@@ -39382,7 +39382,7 @@
     },
     "1374": {
       "numero": 1374,
-      "situacao": "Em Julgamento",
+      "situacao": "Acórdão Publicado",
       "ramo": "Pena Privativa de Liberdade",
       "assuntos": [
         "Pena Privativa de Liberdade",
@@ -39391,12 +39391,12 @@
         "Tráfico de Drogas e Condutas Afins"
       ],
       "questao": "Definir se o delito de associação para o tráfico de drogas (art. 35 da Lei n. 11.343/2006) equipara-se ou não ao crime de organização criminosa (art. 2º da Lei n. 12.850/2013), de modo a impedir a progressão especial de regime prevista no art. 112, § 3º, V, da Lei n. 7.210/1984 destinada a apenada gestante, mãe ou responsável por crianças ou pessoas com deficiência.",
-      "teseFirmada": "",
+      "teseFirmada": "Em atenção aos princípios da legalidade, da taxatividade e do favor rei, a interpretação do art. 112, § 3°, V, da LEP deve se dar de modo restritivo. Portanto, organização criminosa é somente a hipótese de condenação nos termos da Lei 12.850/2013, não abrangendo apenada que tenha participado de associação criminosa (art. 288 do CP) ou associação para o tráfico (art. 35 da Lei 11.343/2006).",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 2204349/MG",
       "relator": "SEBASTIÃO REIS JÚNIOR",
       "dataAfetacao": "26/08/2025",
-      "dataJulgamento": "",
+      "dataJulgamento": "12/08/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1374&cod_tema_final=1374",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222204349%22&O=JT",
@@ -39642,14 +39642,14 @@
     },
     "1383": {
       "numero": 1383,
-      "situacao": "Mérito Julgado",
+      "situacao": "Acórdão Publicado",
       "ramo": "Extinção da Punibilidade",
       "assuntos": [
         "Extinção da Punibilidade",
         "Pena de Multa"
       ],
       "questao": "Definir se é possível a penhora de pecúlio do condenado para pagamento de pena de multa, diante da alegação de impenhorabilidade das verbas de natureza alimentar.",
-      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito",
+      "teseFirmada": "É possível a penhora de até 1/4 do pecúlio do condenado para o pagamento da pena de multa criminal, desde que não incida sobre os recursos indispensáveis ao sustento do condenado e de sua família, nos termos das previsões contidas nos arts. 50, §§ 1º e 2º, do CP e 168 e 170 da Lei n. 7.210/1984 (LEP). As regras de impenhorabilidade do pecúlio e da quantidade depositada em caderneta de poupança, previstas no art. 833, IV e X, do CPC somente são aplicáveis a dívidas que não tenham como fundamento multa fixada em sentença penal condenatória.",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 2204874/SP",
       "relator": "ROGERIO SCHIETTI",
@@ -39836,7 +39836,7 @@
     },
     "1390": {
       "numero": 1390,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Acórdão Publicado - RE Pendente",
       "ramo": "Contribuição sobre a folha de salários",
       "assuntos": [
         "Contribuição sobre a folha de salários",
@@ -39918,18 +39918,18 @@
     },
     "1393": {
       "numero": 1393,
-      "situacao": "Em Julgamento",
+      "situacao": "Mérito Julgado",
       "ramo": "Dívida Ativa (Execução Fiscal)",
       "assuntos": [
         "Dívida Ativa (Execução Fiscal)"
       ],
       "questao": "Definir se é possível prosseguir a execução fiscal contra o espólio ou os sucessores caso o executado venha a falecer sem ser citado.",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2237254/SC",
       "relator": "MARIA THEREZA DE ASSIS MOURA",
       "dataAfetacao": "10/11/2025",
-      "dataJulgamento": "",
+      "dataJulgamento": "20/08/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1393&cod_tema_final=1393",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222237254%22&O=JT",
@@ -40552,18 +40552,18 @@
     },
     "1419": {
       "numero": 1419,
-      "situacao": "Afetado",
+      "situacao": "Mérito Julgado",
       "ramo": "PIS",
       "assuntos": [
         "PIS"
       ],
       "questao": "Definir se deve condenar ao pagamento de honorários advocatícios de sucumbência o acórdão que julga procedente a ação rescisória para aplicar a modulação de efeitos realizada pelo STF em seu Tema 69 da repercussão geral.",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2222626/RS",
       "relator": "MARIA THEREZA DE ASSIS MOURA",
       "dataAfetacao": "24/03/2026",
-      "dataJulgamento": "",
+      "dataJulgamento": "20/08/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1419&cod_tema_final=1419",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222222626%22&O=JT",
@@ -40759,18 +40759,18 @@
     },
     "1429": {
       "numero": 1429,
-      "situacao": "Afetado",
+      "situacao": "Mérito Julgado",
       "ramo": "ICMS/ Imposto sobre Circulação de Mercadorias",
       "assuntos": [
         "ICMS/ Imposto sobre Circulação de Mercadorias"
       ],
       "questao": "1. Definir qual das partes deve ser condenada ao pagamento dos ônus sucumbenciais quanto ao período em que o autor é dispensado de recolher tributo em razão da aplicação da modulação dos efeitos da orientação estabelecida no Tema 986 do STJ.2. Definir se há direito à repetição do indébito em favor do autor que recolhe integralmente o tributo, apesar de estar em situação de ser beneficiado pela modulação dos efeitos da orientação estabelecida no Tema 986 do STJ.",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2245144/SP",
       "relator": "MARIA THEREZA DE ASSIS MOURA",
       "dataAfetacao": "17/04/2026",
-      "dataJulgamento": "",
+      "dataJulgamento": "20/08/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1429&cod_tema_final=1429",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222245144%22&O=JT",

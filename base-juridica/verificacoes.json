@@ -1,216 +1,216 @@
 {
-  "gerado_em": "2026-08-31T16:57:20+00:00",
+  "gerado_em": "2026-08-31T21:02:13+00:00",
   "significado": "conferido_em é a última verificação da fonte oficial que respondeu; não é a data da última mudança promovida (essa está em snapshots.json). Situação sem_mudanca com conferido_em recente significa fonte estável, não base parada. metodo=sinal é o monitor barato, que não detecta alteração de enunciado; metodo=recoleta compara o conteúdo inteiro contra a fonte, e recoletado_em guarda a última vez que isso foi feito.",
   "conjuntos": {
     "espelhos_stj": {
       "situacao": "sem_mudanca",
-      "fontes": 4,
-      "conferido_em": "2026-08-31T16:57:20+00:00",
-      "metodo": "sinal",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "fontes": 1,
+      "conferido_em": "2026-08-31T21:02:13+00:00",
+      "metodo": "recoleta",
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "informativo_stf": {
       "situacao": "sem_mudanca",
       "fontes": 1,
-      "conferido_em": "2026-08-21T22:46:09+00:00",
+      "conferido_em": "2026-08-31T21:02:13+00:00",
       "metodo": "recoleta",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "jurisprudencia_teses_stj": {
       "situacao": "sem_mudanca",
       "fontes": 1,
-      "conferido_em": "2026-08-21T22:46:09+00:00",
+      "conferido_em": "2026-08-31T21:02:13+00:00",
       "metodo": "recoleta",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "legislacao": {
-      "situacao": "mudou",
+      "situacao": "sem_mudanca",
       "fontes": 19,
-      "conferido_em": "2026-08-31T16:57:20+00:00",
-      "metodo": "sinal",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "conferido_em": "2026-08-31T21:02:13+00:00",
+      "metodo": "recoleta",
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "legislacao_codificadas": {
       "situacao": "sem_mudanca",
       "fontes": 7,
-      "conferido_em": "2026-08-31T16:57:20+00:00",
-      "metodo": "sinal",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "conferido_em": "2026-08-31T21:02:13+00:00",
+      "metodo": "recoleta",
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "legislacao_codificadas_ccom": {
       "situacao": "sem_mudanca",
       "fontes": 1,
-      "conferido_em": "2026-08-31T16:57:20+00:00",
-      "metodo": "sinal",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "conferido_em": "2026-08-31T21:02:13+00:00",
+      "metodo": "recoleta",
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "legislacao_consumidor_bancario_l15040": {
       "situacao": "sem_mudanca",
       "fontes": 1,
-      "conferido_em": "2026-08-31T16:57:20+00:00",
-      "metodo": "sinal",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "conferido_em": "2026-08-31T21:02:13+00:00",
+      "metodo": "recoleta",
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "legislacao_decretos": {
       "situacao": "sem_mudanca",
       "fontes": 1,
-      "conferido_em": "2026-08-31T16:57:20+00:00",
-      "metodo": "sinal",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "conferido_em": "2026-08-31T21:02:13+00:00",
+      "metodo": "recoleta",
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "legislacao_educacao_lc220": {
       "situacao": "sem_mudanca",
       "fontes": 1,
-      "conferido_em": "2026-08-31T16:57:20+00:00",
-      "metodo": "sinal",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "conferido_em": "2026-08-31T21:02:13+00:00",
+      "metodo": "recoleta",
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "legislacao_empresarial_d2044": {
       "situacao": "sem_mudanca",
       "fontes": 1,
-      "conferido_em": "2026-08-31T16:57:20+00:00",
-      "metodo": "sinal",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "conferido_em": "2026-08-31T21:02:13+00:00",
+      "metodo": "recoleta",
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "legislacao_esparsas_administrativo": {
-      "situacao": "mudou",
+      "situacao": "sem_mudanca",
       "fontes": 23,
-      "conferido_em": "2026-08-31T16:57:20+00:00",
-      "metodo": "sinal",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "conferido_em": "2026-08-31T21:02:13+00:00",
+      "metodo": "recoleta",
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "legislacao_esparsas_civel_familia": {
       "situacao": "sem_mudanca",
       "fontes": 18,
-      "conferido_em": "2026-08-31T16:57:20+00:00",
-      "metodo": "sinal",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "conferido_em": "2026-08-31T21:02:13+00:00",
+      "metodo": "recoleta",
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "legislacao_esparsas_consumidor_bancario": {
-      "situacao": "mudou",
+      "situacao": "sem_mudanca",
       "fontes": 24,
-      "conferido_em": "2026-08-31T16:57:20+00:00",
-      "metodo": "sinal",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "conferido_em": "2026-08-31T21:02:13+00:00",
+      "metodo": "recoleta",
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "legislacao_esparsas_eleitoral": {
       "situacao": "sem_mudanca",
       "fontes": 13,
-      "conferido_em": "2026-08-31T16:57:20+00:00",
-      "metodo": "sinal",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "conferido_em": "2026-08-31T21:02:13+00:00",
+      "metodo": "recoleta",
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "legislacao_esparsas_empresarial": {
-      "situacao": "mudou",
+      "situacao": "sem_mudanca",
       "fontes": 28,
-      "conferido_em": "2026-08-31T16:57:20+00:00",
-      "metodo": "sinal",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "conferido_em": "2026-08-31T21:02:13+00:00",
+      "metodo": "recoleta",
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "legislacao_esparsas_imobiliario_agrario": {
       "situacao": "sem_mudanca",
       "fontes": 10,
-      "conferido_em": "2026-08-31T16:57:20+00:00",
-      "metodo": "sinal",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "conferido_em": "2026-08-31T21:02:13+00:00",
+      "metodo": "recoleta",
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "legislacao_esparsas_penal": {
       "situacao": "sem_mudanca",
       "fontes": 17,
-      "conferido_em": "2026-08-31T16:57:20+00:00",
-      "metodo": "sinal",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "conferido_em": "2026-08-31T21:02:13+00:00",
+      "metodo": "recoleta",
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "legislacao_esparsas_previdenciario": {
       "situacao": "sem_mudanca",
       "fontes": 12,
-      "conferido_em": "2026-08-31T16:57:20+00:00",
-      "metodo": "sinal",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "conferido_em": "2026-08-31T21:02:13+00:00",
+      "metodo": "recoleta",
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "legislacao_esparsas_processual_constitucional": {
       "situacao": "sem_mudanca",
       "fontes": 19,
-      "conferido_em": "2026-08-31T16:57:20+00:00",
-      "metodo": "sinal",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "conferido_em": "2026-08-31T21:02:13+00:00",
+      "metodo": "recoleta",
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "legislacao_esparsas_regulatorio_outros": {
       "situacao": "sem_mudanca",
       "fontes": 19,
-      "conferido_em": "2026-08-31T16:57:20+00:00",
-      "metodo": "sinal",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "conferido_em": "2026-08-31T21:02:13+00:00",
+      "metodo": "recoleta",
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "legislacao_esparsas_trabalhista": {
       "situacao": "sem_mudanca",
       "fontes": 27,
-      "conferido_em": "2026-08-31T16:57:20+00:00",
-      "metodo": "sinal",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "conferido_em": "2026-08-31T21:02:13+00:00",
+      "metodo": "recoleta",
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "legislacao_esparsas_tributario": {
       "situacao": "sem_mudanca",
       "fontes": 16,
-      "conferido_em": "2026-08-31T16:57:20+00:00",
-      "metodo": "sinal",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "conferido_em": "2026-08-31T21:02:13+00:00",
+      "metodo": "recoleta",
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "legislacao_estatutos": {
       "situacao": "sem_mudanca",
       "fontes": 17,
-      "conferido_em": "2026-08-31T16:57:20+00:00",
-      "metodo": "sinal",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "conferido_em": "2026-08-31T21:02:13+00:00",
+      "metodo": "recoleta",
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "legislacao_reforma_tributaria": {
-      "situacao": "mudou",
+      "situacao": "sem_mudanca",
       "fontes": 2,
-      "conferido_em": "2026-08-31T16:57:20+00:00",
-      "metodo": "sinal",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "conferido_em": "2026-08-31T21:02:13+00:00",
+      "metodo": "recoleta",
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "legislacao_tributario_lc225": {
       "situacao": "sem_mudanca",
       "fontes": 1,
-      "conferido_em": "2026-08-31T16:57:20+00:00",
-      "metodo": "sinal",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "conferido_em": "2026-08-31T21:02:13+00:00",
+      "metodo": "recoleta",
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "sumulas_stf": {
       "situacao": "sem_mudanca",
       "fontes": 1,
-      "conferido_em": "2026-08-21T22:46:09+00:00",
+      "conferido_em": "2026-08-31T21:02:13+00:00",
       "metodo": "recoleta",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "sumulas_stj": {
       "situacao": "sem_mudanca",
       "fontes": 1,
-      "conferido_em": "2026-08-21T22:46:09+00:00",
+      "conferido_em": "2026-08-31T21:02:13+00:00",
       "metodo": "recoleta",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "sumulas_vinculantes": {
       "situacao": "sem_mudanca",
       "fontes": 1,
-      "conferido_em": "2026-08-21T22:46:09+00:00",
+      "conferido_em": "2026-08-31T21:02:13+00:00",
       "metodo": "recoleta",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "temas_repetitivos_stj": {
-      "situacao": "mudou",
+      "situacao": "sem_mudanca",
       "fontes": 1,
-      "conferido_em": "2026-08-31T16:57:20+00:00",
-      "metodo": "sinal",
-      "recoletado_em": "2026-08-21T22:46:09+00:00"
+      "conferido_em": "2026-08-31T21:02:13+00:00",
+      "metodo": "recoleta",
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     },
     "temas_rg_stf": {
-      "situacao": "mudou",
+      "situacao": "sem_mudanca",
       "fontes": 1,
-      "conferido_em": "2026-08-10T12:30:05+00:00",
-      "metodo": "sinal",
-      "recoletado_em": "2026-07-30T02:10:47+00:00"
+      "conferido_em": "2026-08-31T21:02:13+00:00",
+      "metodo": "recoleta",
+      "recoletado_em": "2026-08-31T21:02:13+00:00"
     }
   }
 }

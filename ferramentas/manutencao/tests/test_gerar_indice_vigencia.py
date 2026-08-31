@@ -206,8 +206,8 @@ class IndicePublicadoTest(unittest.TestCase):
                     eventos += 1
                     if evento["diploma"] is None:
                         sem_diploma += 1
-        self.assertEqual(artigos, 7319)
-        self.assertEqual(eventos, 32144)
+        self.assertEqual(artigos, 7321)
+        self.assertEqual(eventos, 32146)
         self.assertEqual(situacoes.get("revogado"), 872)
         self.assertEqual(situacoes.get("vetado"), 395)
         self.assertEqual(situacoes.get("vigencia_encerrada"), 33)

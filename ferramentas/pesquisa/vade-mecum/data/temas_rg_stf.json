@@ -3,17 +3,17 @@
     "version": "1.0",
     "tipo": "temas_repercussao_geral",
     "tribunal": "STF",
-    "totalTemas": 1470,
+    "totalTemas": 1479,
     "temasComTese": 1300,
-    "generatedAt": "2026-07-29T19:41:49+00:00",
+    "generatedAt": "2026-08-31T20:53:26+00:00",
     "situacoes": {
-      "Acórdão de Repercussão Geral publicado": 137,
-      "Acórdão de mérito publicado": 37,
-      "Analisada Preliminar de Repercussão Geral": 3,
+      "Acórdão de Repercussão Geral publicado": 135,
+      "Acórdão de mérito publicado": 38,
+      "Analisada Preliminar de Repercussão Geral": 11,
       "Cancelado": 21,
       "Em julgamento": 3,
-      "Mérito julgado": 6,
-      "Trânsito em Julgado": 1263
+      "Mérito julgado": 5,
+      "Trânsito em Julgado": 1266
     },
     "descricao": "Temas de Repercussão Geral do STF extraídos da exportação oficial",
     "source": {
@@ -24,7 +24,7 @@
         "temaUrlTemplate": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema={numero}"
       },
       "method": "Tabela HTML (application/vnd.ms-excel) do exportarDados.asp parseada com a biblioteca padrão; mojibake corrigido por célula (cp1252→utf-8).",
-      "collectedAt": "2026-07-29T19:41:49+00:00",
+      "collectedAt": "2026-08-31T20:53:26+00:00",
       "limitacoes": "A coluna 'Assuntos' do export duplica 'Descrição', então a taxonomia de assuntos não é fornecida por esta rota. O flag de suspensão nacional (art. 1.035, §5º, CPC) não existe nas rotas estáticas — só na base Qlik do STF."
     },
     "transformacao": "temas_rg_stf_html_v1"
@@ -1864,9 +1864,9 @@
       "repercussao": "Há",
       "situacao": "Trânsito em Julgado",
       "dataJulgamento": "03/08/2008",
-      "tese": "1) é possível aplicar o artigo 741, parágrafo único, do CPC/73, atual art. 535, § 5º, do CPC/2015, aos feitos submetidos ao procedimento sumaríssimo, desde que o trânsito em julgado da fase de conhecimento seja posterior a 27.8.2001; 2) é admissível a invocação como fundamento da inexigibilidade de ser o título judicial fundado em ‘aplicação ou interpretação tida como incompatível com a Constituição’ quando houver pronunciamento jurisdicional, contrário ao decidido pelo Plenário do Supremo Tribunal Federal, seja no controle difuso, seja no controle concentrado de constitucionalidade; 3) o art. 59 da Lei 9.099/1995 não impede a desconstituição da coisa julgada quando o título executivo judicial se amparar em contrariedade à interpretação ou sentido da norma conferida pela Suprema Corte, anterior ou posterior ao trânsito em julgado, admitindo, respectivamente, o manejo (i) de impugnação ao cumprimento de sentença ou (ii) de simples petição, a ser apresentada em prazo equivalente ao da ação rescisória",
+      "tese": "1. É possível aplicar o artigo 741, parágrafo único, do CPC/73, atual art. 535, § 5º, do CPC/2015, aos feitos submetidos ao procedimento sumaríssimo, desde que o trânsito em julgado da fase de conhecimento seja posterior a 27.8.2001; 2. É admissível a invocação, como fundamento da inexigibilidade, de ser o título judicial fundado em aplicação ou interpretação tida como incompatível com a Constituição quando houver pronunciamento jurisdicional contrário ao decidido pelo Plenário do Supremo Tribunal Federal, seja no controle difuso, seja no controle concentrado de constitucionalidade; 3. O art. 59 da Lei 9.099/1995 não impede a desconstituição da coisa julgada quando o título executivo judicial estiver em contrariedade à interpretação ou ao sentido da norma conferido pela Suprema Corte, sendo admissível o manejo de simples petição, a ser apresentada em prazo equivalente ao da ação rescisória; 3.1. Em cada caso, o Supremo Tribunal Federal poderá definir os efeitos temporais de seus precedentes vinculantes e sua repercussão sobre a coisa julgada, estabelecendo, inclusive, a extensão da retroação para fins da simples petição acima referida ou mesmo o seu não cabimento, diante do grave risco de lesão à segurança jurídica ou ao interesse social; 3.2. Na ausência de manifestação expressa, os efeitos retroativos de eventual desconstituição da coisa julgada não excederão cinco anos da data da apresentação da simples petição acima referida, a qual deverá ser proposta no prazo decadencial de dois anos, contados do trânsito em julgado de decisão do STF; 4. O art. 59 da Lei 9.099/1995 também não impede a arguição de inexigibilidade quando o título executivo judicial estiver em contrariedade à interpretação ou ao sentido da norma conferido pela Suprema Corte, seja a decisão do Supremo Tribunal Federal anterior ou posterior ao trânsito em julgado da decisão exequenda, salvo preclusão (CPC, arts. 525, caput, e 535, caput).",
       "dataTese": "09/11/2023",
-      "observacao": "",
+      "observacao": "Tese modificada no julgamento dos Embargos de Declaração na Sessão Virtual do Plenário de 27.2.2026 a 6.3.2026.",
       "links": {
         "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=100",
         "manifestacao": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=2836582",
@@ -6606,9 +6606,9 @@
       "repercussao": "Há",
       "situacao": "Trânsito em Julgado",
       "dataJulgamento": "17/12/2010",
-      "tese": "São constitucionais as disposições normativas do parágrafo único do art. 741 do CPC, do § 1º do art. 475-L, ambos do CPC/73, bem como os correspondentes dispositivos do CPC/15, o art. 525, § 1º, III e §§ 12 e 14, o art. 535, § 5º. São dispositivos que, buscando harmonizar a garantia da coisa julgada com o primado da Constituição, vieram agregar ao sistema processual brasileiro um mecanismo com eficácia rescisória de sentenças revestidas de vício de inconstitucionalidade qualificado, assim caracterizado nas hipóteses em que (a) a sentença exequenda esteja fundada em norma reconhecidamente inconstitucional, seja por aplicar norma inconstitucional, seja por aplicar norma em situação ou com um sentido inconstitucionais; ou (b) a sentença exequenda tenha deixado de aplicar norma reconhecidamente constitucional; e (c) desde que, em qualquer dos casos, o reconhecimento dessa constitucionalidade ou a inconstitucionalidade tenha decorrido de julgamento do STF realizado em data anterior ao trânsito em julgado da sentença exequenda.",
+      "tese": "São constitucionais as disposições normativas do parágrafo único do art. 741 do CPC, do § 1º do art. 475-L, ambos do CPC/73, bem como os correspondentes dispositivos do CPC/15, o art. 525, § 1º, III, e § 12, e o art. 535, § 5º. São dispositivos que, buscando harmonizar a garantia da coisa julgada com o primado da Constituição, vieram agregar ao sistema processual brasileiro um mecanismo com eficácia paralisante de sentenças revestidas de vício de inconstitucionalidade qualificado, assim caracterizado nas hipóteses em que a sentença exequenda está em contrariedade à interpretação ou ao sentido da norma conferido pela Suprema Corte, seja a decisão do Supremo Tribunal Federal anterior ou posterior ao trânsito em julgado da decisão exequenda, salvo preclusão (CPC, arts. 525, caput, e 535, caput).",
       "dataTese": "20/09/2018",
-      "observacao": "",
+      "observacao": "Tese modificada no julgamento dos Embargos de Declaração no RE 586.068/PR na Sessão Virtual do Plenário de 27.2.2026 a 6.3.2026.",
       "links": {
         "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=360",
         "manifestacao": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=3491884",
@@ -15346,7 +15346,7 @@
       "titulo": "Definição dos limites da liberdade de expressão em contraposição a outros direitos de igual hierarquia jurídica - como os da inviolabilidade da honra e da imagem - e estabelecimento de parâmetros para identificar hipóteses em que a publicação deve ser proibida e/ou o declarante condenado ao pagamento de danos morais, ou ainda a outras consequências jurídicas.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos arts. 5º, IV e IX, e 220, caput, § 1º e § 2º, da Constituição Federal, a definição dos limites da liberdade de expressão, ainda que do seu exercício possa resultar relevante prejuízo comercial, bem como fixar parâmetros para identificar hipóteses em que a publicação deve ser proibida e/ou o declarante condenado ao pagamento de danos morais, ou ainda a outras consequências jurídicas que lhe possam ser legitimamente impostas.",
       "repercussao": "Há",
-      "situacao": "Mérito julgado",
+      "situacao": "Acórdão de mérito publicado",
       "dataJulgamento": "28/08/2015",
       "tese": "1. Campanhas de mobilização social promovidas por entidades da sociedade civil com base em pautas de direitos fundamentais, voltadas a desestimular o financiamento ou apoio institucional a eventos ou organizações, estão protegidas pela liberdade de expressão. 2. A responsabilidade civil, inclusive com a determinação de cessação da campanha e retirada de conteúdo das redes sociais, quando a imputação permanecer disponível em plataformas digitais ou em ambiente público, somente será possível quando comprovada má-fé caracterizada: (i) pelo dolo demonstrado em razão do conhecimento prévio da falsidade da declaração, ou (ii) culpa grave decorrente da evidente negligência na apuração da veracidade do fato.",
       "dataTese": "11/02/2026",
@@ -16730,7 +16730,7 @@
       "titulo": "Possibilidade de lei proibir o uso de máscaras em manifestações públicas.",
       "descricao": "Recurso extraordinário em que se discute, à luz do art. 5º, II, IV e XVI, da Constituição Federal e dos princípios constitucionais da razoabilidade e da proporcionalidade, acerca dos limites da liberdade de manifestação do pensamento e de reunião, notadamente sobre a possibilidade de lei proibir o uso de máscaras em manifestações públicas.",
       "repercussao": "Há",
-      "situacao": "Acórdão de mérito publicado",
+      "situacao": "Trânsito em Julgado",
       "dataJulgamento": "26/08/2016",
       "tese": "",
       "dataTese": "",
@@ -24012,7 +24012,7 @@
       "titulo": "Incidência do piso salarial para os profissionais do magistério público da educação básica aos servidores contratados temporariamente.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 2º; 5º; 37, II; IX; X; 206; V; VIII; e parágrafo único, da Constituição Federal se o piso nacional do magistério se aplica apenas aos profissionais da educação escolar pública com cargos efetivos, ou se também incide sobre as contratações temporárias.",
       "repercussao": "Há",
-      "situacao": "Mérito julgado",
+      "situacao": "Acórdão de mérito publicado",
       "dataJulgamento": "29/06/2024",
       "tese": "",
       "dataTese": "",
@@ -25131,7 +25131,7 @@
       "titulo": "Definições acerca da natureza jurídica previdenciária ou assistencial e da responsabilidade pelo ônus remuneratório decorrente da manutenção do vínculo trabalhista de mulheres vítimas de violência doméstica, quando necessário o afastamento de seu local de trabalho em razão da implementação de medidas protetivas por aplicação do art. 9º, § 2º, II, da Lei Maria da Penha (Lei nº 11.340/2006). Consequentemente, análise da competência do juízo estadual, no exercício da jurisdição penal, para a fixação da medida protetiva disposta no art. 9º, § 2º, II, da Lei nº 11.340/2006, inclusive no que concerne à determinação eventualmente dirigida ao INSS para que garanta o afastamento remunerado.",
       "descricao": "Recurso extraordinário em que se discute à luz do artigo 109, I, da Constituição Federal, a definição sobre a natureza jurídica previdenciária e/ou assistencial e da responsabilidade pelo ônus remuneratório decorrente da manutenção do vínculo trabalhista de mulheres vítimas de violência doméstica, bem como da análise da competência do juízo estadual, no exercício da jurisdição penal, para a fixação da medida protetiva, inclusive no que concerne à determinação dirigida ao INSS para que garanta o afastamento remunerado.",
       "repercussao": "Há",
-      "situacao": "Acórdão de mérito publicado",
+      "situacao": "Trânsito em Julgado",
       "dataJulgamento": "15/02/2025",
       "tese": "1) Compete ao juízo estadual, no exercício da jurisdição criminal, especialmente aquele responsável pela aplicação da Lei nº 11.340/2006 (Lei Maria da Penha), fixar a medida protetiva prevista no art. 9º, § 2º, II, da referida lei, inclusive quanto à requisição de pagamento de prestação pecuniária em favor da vítima afastada do local de trabalho, ainda que o cumprimento material da decisão fique sob o encargo do INSS e do empregador; 2) Nos termos do que dispõe o art. 109, I, da Constituição Federal, compete à Justiça Federal processar e julgar as ações regressivas que, com fundamento no art. 120, II, da Lei nº 8.213/1991, deverão ser ajuizadas pela Autarquia Previdenciária Federal contra os responsáveis nos casos de violência doméstica e familiar contra a mulher; 3) A expressão constante da Lei (“vínculo trabalhista”) deve abranger a proteção da mulher visando à manutenção de sua fonte de renda, qualquer que seja ela, da qual tenha que se afastar em face da violência sofrida, conforme apreciação do Poder Judiciário. A prestação pecuniária decorrente da efetivação da medida protetiva prevista no art. 9º, § 2º, II, da Lei nº 11.340/2006 possui natureza previdenciária ou assistencial, conforme o vínculo jurídico da mulher com a seguridade social: (i) previdenciária, quando a mulher for segurada do Regime Geral de Previdência Social, como empregada, contribuinte individual, facultativa ou segurada especial, hipótese em que a remuneração dos primeiros 15 dias será de responsabilidade do empregador (quando houver), e o período subsequente será custeado pelo INSS, independentemente de cumprimento de período de carência. No caso de inexistência de relação de emprego de segurada do Regime Geral de Previdência Social, o benefício será arcado integralmente pelo INSS; (ii) assistencial, quando a mulher não for segurada da previdência social, hipótese em que a prestação assume natureza de benefício eventual decorrente de vulnerabilidade temporária, cabendo ao Estado, na forma da Lei nº 8.742/1993 (LOAS), prover a assistência financeira necessária. Nesse caso, o juízo competente deverá atestar que a mulher destinatária da medida de afastamento do local de trabalho não possuirá, em razão de sua implementação, quaisquer meios de prover a própria manutenção.",
       "dataTese": "16/12/2025",
@@ -25889,7 +25889,7 @@
       "titulo": "Abrangência das medidas protetivas nas hipóteses de violência contra a mulher baseada no gênero, frente às obrigações assumidas pelo Estado brasileiro nos sistemas de proteção dos direitos humanos.",
       "descricao": "Recurso extraordinário em que se discute, à luz do artigo 5º; §2º, da Constituição Federal, o alcance dos instrumentos legais de proteção aos direitos humanos das mulheres nas situações de ameaça ou violência baseada no gênero, especialmente quando praticadas fora dos contextos textualmente disciplinados pela Lei Maria da Penha, em razão do compromisso específico com a proteção das mulheres assumido pelo Estado brasileiro e a Convenção Interamericana para Prevenir, Punir e Erradicar a Violência contra a Mulher (Convenção de Belém do Pará).",
       "repercussao": "Há",
-      "situacao": "Acórdão de Repercussão Geral publicado",
+      "situacao": "Mérito julgado",
       "dataJulgamento": "09/08/2025",
       "tese": "",
       "dataTese": "",
@@ -26665,7 +26665,7 @@
       "titulo": "Fixação por lei municipal, posterior à EC nº 29/2000, de alíquotas de IPTU em função da área do imóvel.",
       "descricao": "Recurso extraordinário em que se discute, à luz do artigo 156, § 1º, da Constituição Federal, se é possível a fixação de alíquotas de IPTU em razão da área do imóvel, por lei municipal posterior à EC nº 29/2000.",
       "repercussao": "Há",
-      "situacao": "Acórdão de Repercussão Geral publicado",
+      "situacao": "Acórdão de mérito publicado",
       "dataJulgamento": "",
       "tese": "",
       "dataTese": "",
@@ -26755,7 +26755,7 @@
       "titulo": "Incorporação da Gratificação de Estímulo às Atividades de Classe – GEAC – aos proventos de professores do Estado da Bahia que ingressaram no serviço público antes da EC nº 41/2003.",
       "descricao": "Recursos extraordinários em que se discute, à luz dos artigos 2º; 5º, XXXV; 37, X e XI; e 40, § 8º, da Constituição Federal, a possibilidade de incorporação da Gratificação por Estímulo à Atividade de Classe (GEAC) – instituída pelas Leis estaduais nº 8.261/2002 e nº 13.188/2014 – aos proventos de professores do Estado da Bahia que ingressaram no serviço público antes da EC nº 41/2003, com base na paridade entre servidores ativos e aposentados.",
       "repercussao": "Não há (questão infraconstitucional)",
-      "situacao": "Acórdão de Repercussão Geral publicado",
+      "situacao": "Trânsito em Julgado",
       "dataJulgamento": "",
       "tese": "",
       "dataTese": "",
@@ -26823,7 +26823,7 @@
     "1464": {
       "numero": 1464,
       "leadingCase": "ARE 1594146",
-      "relator": "MINISTRO PRESIDENTE",
+      "relator": "MIN. DIAS TOFFOLI",
       "titulo": "Justa indenização em desapropriação de imóveis ocupados por famílias de baixa renda.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 5°; XXIV; LIV; e 6º, da Constituição Federal, se o afastamento dos juros compensatórios e moratórios, bem como a limitação da indenização às benfeitorias, em desapropriação de imóvel ocupado por famílias de baixa renda, viola o princípio da justa indenização e o direito fundamental à moradia, à luz da isonomia e do devido processo legal substantivo.",
       "repercussao": "Há",
@@ -26845,7 +26845,7 @@
       "titulo": "Creditamento de ICMS sobre mercadorias intermediárias utilizadas no processo produtivo, condicionado ao seu consumo e à integração física no produto final.",
       "descricao": "Recursos extraordinários em que se discute, à luz dos artigos 5°; XXXV; LIV; LV; 93; IX; e 155; §2°; I; XII; \"c”, da Constituição Federal, se, na vigência da Lei Complementar nº 87/1996, o creditamento do ICMS relativo às mercadorias intermediárias utilizadas no processo produtivo exige o seu consumo no processo de industrialização e a sua integração física ao produto final.",
       "repercussao": "Há",
-      "situacao": "Analisada Preliminar de Repercussão Geral",
+      "situacao": "Acórdão de Repercussão Geral publicado",
       "dataJulgamento": "",
       "tese": "",
       "dataTese": "",
@@ -26859,7 +26859,7 @@
     "1466": {
       "numero": 1466,
       "leadingCase": "RE 1594313",
-      "relator": "MINISTRO PRESIDENTE",
+      "relator": "MIN. FLÁVIO DINO",
       "titulo": "Fornecimento judicial de produtos derivados de Cannabis com registro sanitário, autorização sanitária ou autorização de importação: regime jurídico aplicável e definição dos requisitos de concessão e da competência jurisdicional.",
       "descricao": "Recursos extraordinários em que se discute, à luz dos artigos 2º; 23; II; 93; IX; 109; I; 196; 197; e 198 da Constituição Federal, se o fornecimento judicial de produtos derivados de Cannabis com registro sanitário, autorização sanitária ou autorização de importação submete-se a regime jurídico específico, nos termos do Tema 1161 da repercussão geral, ou se deve observar os parâmetros gerais fixados nos Temas 6, 500, 793 e 1234, bem como nas Súmulas Vinculantes 60 e 61, inclusive no que se refere à definição dos requisitos para a concessão judicial e à definição da competência jurisdicional para o processamento e julgamento da demanda.",
       "repercussao": "Há",
@@ -26877,7 +26877,7 @@
     "1467": {
       "numero": 1467,
       "leadingCase": "RE 1544748",
-      "relator": "MINISTRO PRESIDENTE",
+      "relator": "MIN. ANDRÉ MENDONÇA",
       "titulo": "Reconhecimento da qualidade de segurado do RGPS nas hipóteses de recolhimento de contribuição em valor inferior ao mínimo mensal da categoria após a EC nº 103/2019.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 195; § 14; e 201, da Constituição Federal e do artigo 29, da EC nº 103/2019, se o recolhimento de contribuição em valor inferior ao mínimo mensal da categoria, impede o reconhecimento da qualidade de segurado do RGPS, após o advento da EC 103/2019, que acrescentou o § 14 ao art. 195 da CF/88.",
       "repercussao": "Há",
@@ -26916,8 +26916,8 @@
       "relator": "MINISTRO PRESIDENTE",
       "titulo": "Direito à integralidade e à paridade na aposentadoria especial voluntária de agente penitenciário que ingressou no serviço público antes da EC nº 41/2003.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 40; §§ 1º; 3º; 4º; 8º; e 17, da Constituição Federal, se, preenchidos os requisitos da Lei Complementar nº 1.109/2010 para a obtenção da aposentadoria especial voluntária, o agente penitenciário que ingressou no serviço público antes da EC nº 41/2003 faria jus à integralidade e paridade remuneratória.",
-      "repercussao": "Não há (questão infraconstitucional)",
-      "situacao": "Em julgamento",
+      "repercussao": "Há",
+      "situacao": "Analisada Preliminar de Repercussão Geral",
       "dataJulgamento": "",
       "tese": "",
       "dataTese": "",
@@ -26934,8 +26934,8 @@
       "relator": "MINISTRO PRESIDENTE",
       "titulo": "Aposentadoria especial de agentes comunitários de saúde e de agentes de combate às endemias após a EC nº 120/2022.",
       "descricao": "Recurso extraordinário em que se discute, à luz do artigo 198; § 10, da Constituição Federal, incluído pela EC nº 120/2022, a eficácia da norma constitucional que reconhece os riscos inerentes às atividades desempenhadas por agentes comunitários de saúde e agentes de combate às endemias, bem como a possibilidade de utilização do critério de enquadramento por categoria profissional ou ocupação para fins de contagem de tempo especial previdenciário.",
-      "repercussao": "Não há (questão infraconstitucional)",
-      "situacao": "Em julgamento",
+      "repercussao": "Há",
+      "situacao": "Analisada Preliminar de Repercussão Geral",
       "dataJulgamento": "",
       "tese": "",
       "dataTese": "",
@@ -26944,6 +26944,168 @@
         "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1470",
         "manifestacao": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=12508401",
         "detalhamento": "https://portal.stf.jus.br/jurisprudenciaRepercussao/detalharProcesso.asp?numeroTema=1470"
+      }
+    },
+    "1471": {
+      "numero": 1471,
+      "leadingCase": "ARE 1584106",
+      "relator": "MIN. CRISTIANO ZANIN",
+      "titulo": "Limites constitucionais da utilização, por organizações religiosas, de nomes, marcas, símbolos, sinais exteriores, elementos litúrgicos e demais signos identitários associados a outras entidades religiosas.",
+      "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 5º; V; e XXIX, da Constituição Federal, se a liberdade religiosa e a proteção às liturgias autorizam a relativização da exclusividade de uso de marca ou signo distintivo de organização religiosa devidamente registrado no Instituto Nacional da Propriedade Industrial (INPI).",
+      "repercussao": "Há",
+      "situacao": "Analisada Preliminar de Repercussão Geral",
+      "dataJulgamento": "",
+      "tese": "",
+      "dataTese": "",
+      "observacao": "",
+      "links": {
+        "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1471",
+        "manifestacao": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=12558160",
+        "detalhamento": "https://portal.stf.jus.br/jurisprudenciaRepercussao/detalharProcesso.asp?numeroTema=1471"
+      }
+    },
+    "1472": {
+      "numero": 1472,
+      "leadingCase": "RE 1614224",
+      "relator": "MINISTRO PRESIDENTE",
+      "titulo": "Limite de famílias unipessoais por município como condicionante de ingresso no Programa Bolsa Família.",
+      "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 1º; III; 2º; 3º; III; 5º; II; 6º; parágrafo único; e 37. da Constituição Federal, a constitucionalidade e legalidade da imposição de um índice máximo de famílias unipessoais por Município como condicionante para o ingresso no Programa Bolsa Família.",
+      "repercussao": "Há",
+      "situacao": "Analisada Preliminar de Repercussão Geral",
+      "dataJulgamento": "",
+      "tese": "",
+      "dataTese": "",
+      "observacao": "",
+      "links": {
+        "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1472",
+        "manifestacao": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=12575423",
+        "detalhamento": "https://portal.stf.jus.br/jurisprudenciaRepercussao/detalharProcesso.asp?numeroTema=1472"
+      }
+    },
+    "1473": {
+      "numero": 1473,
+      "leadingCase": "ARE 1563128",
+      "relator": "MINISTRO PRESIDENTE",
+      "titulo": "Fixação de honorários advocatícios contra a Fazenda Pública quando a exceção de pré-executividade é acolhida para extinguir a execução fiscal, em razão do reconhecimento da prescrição intercorrente.",
+      "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 2º; 3º; I; IV; 5º; XXXIV; XXXV; LV; 93, IX; e 133 da Constituição Federal, a possibilidade de fixação de honorários advocatícios contra a Fazenda Pública quando a exceção de pré-executividade é acolhida para extinguir a execução fiscal, em razão do reconhecimento da prescrição intercorrente, nos termos do art. 40 da Lei nº 6.830/1980.",
+      "repercussao": "Não há (questão infraconstitucional)",
+      "situacao": "Analisada Preliminar de Repercussão Geral",
+      "dataJulgamento": "",
+      "tese": "",
+      "dataTese": "",
+      "observacao": "",
+      "links": {
+        "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1473",
+        "manifestacao": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=12555627",
+        "detalhamento": "https://portal.stf.jus.br/jurisprudenciaRepercussao/detalharProcesso.asp?numeroTema=1473"
+      }
+    },
+    "1474": {
+      "numero": 1474,
+      "leadingCase": "RE 1608434",
+      "relator": "MIN. DIAS TOFFOLI",
+      "titulo": "Quebra de sigilo telemático por ordem judicial para obtenção de conteúdo armazenado em conta de e-mail ou nuvem vinculada, a fim de subsidiar fiscalização da Administração Tributária.",
+      "descricao": "Recurso extraordinário em que se discute, à luz do artigo 5º; XII, da Constituição Federal, a possibilidade de, mediante ordem judicial, afastar o sigilo telemático para obtenção de conteúdo armazenado em conta de correio eletrônico ou em serviço de armazenamento em nuvem a ela vinculado, com a finalidade de subsidiar procedimento de fiscalização tributária destinado à constituição e à cobrança de crédito tributário.",
+      "repercussao": "Há",
+      "situacao": "Analisada Preliminar de Repercussão Geral",
+      "dataJulgamento": "",
+      "tese": "",
+      "dataTese": "",
+      "observacao": "",
+      "links": {
+        "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1474",
+        "manifestacao": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=12565405",
+        "detalhamento": "https://portal.stf.jus.br/jurisprudenciaRepercussao/detalharProcesso.asp?numeroTema=1474"
+      }
+    },
+    "1475": {
+      "numero": 1475,
+      "leadingCase": "RE 1579212",
+      "relator": "MINISTRO PRESIDENTE",
+      "titulo": "Dispensa da exigência de visto para ingresso de estrangeiro no Brasil, com fundamento na reunião familiar e em razões humanitárias.",
+      "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 1º; III; 2º; 3º; I; IV; 4º; II; 226; e 227 da Constituição Federal, a possibilidade de o Poder Judiciário dispensar a exigência de visto para autorizar o ingresso de estrangeiro no Brasil, com o objetivo de viabilizar a reunião familiar em contexto de calamidade humanitária, consideradas a dignidade da pessoa humana, a proteção constitucional da família, a proteção integral e a prioridade absoluta dos direitos da criança e do adolescente.",
+      "repercussao": "Há",
+      "situacao": "Analisada Preliminar de Repercussão Geral",
+      "dataJulgamento": "",
+      "tese": "",
+      "dataTese": "",
+      "observacao": "",
+      "links": {
+        "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1475",
+        "manifestacao": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=12564205",
+        "detalhamento": "https://portal.stf.jus.br/jurisprudenciaRepercussao/detalharProcesso.asp?numeroTema=1475"
+      }
+    },
+    "1476": {
+      "numero": 1476,
+      "leadingCase": "RE 1614908",
+      "relator": "MINISTRO PRESIDENTE",
+      "titulo": "Restrição do acesso de migrantes e refugiados ao Programa Universidade para Todos (ProUni) em razão do critério de nacionalidade.",
+      "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 1º; II; III; 3º; IV; 5º; 6º; 97; 205; 208; I; e V, da Constituição Federal, a compatibilidade da restrição do acesso ao Programa Universidade para Todos (ProUni) aos brasileiros natos ou naturalizados, prevista no art. 1º, §§ 1º e 2º, da Lei nº 11.096/2005, com os direitos fundamentais à igualdade, à não discriminação e à educação assegurados aos migrantes e refugiados residentes no País, bem como a legitimidade da utilização da nacionalidade como critério de diferenciação em política pública destinada à ampliação do acesso ao ensino superior.",
+      "repercussao": "Há",
+      "situacao": "Analisada Preliminar de Repercussão Geral",
+      "dataJulgamento": "",
+      "tese": "",
+      "dataTese": "",
+      "observacao": "",
+      "links": {
+        "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1476",
+        "manifestacao": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=12596231",
+        "detalhamento": "https://portal.stf.jus.br/jurisprudenciaRepercussao/detalharProcesso.asp?numeroTema=1476"
+      }
+    },
+    "1477": {
+      "numero": 1477,
+      "leadingCase": "ARE 1569764",
+      "relator": "MINISTRO PRESIDENTE",
+      "titulo": "Indeferimento de prova pericial judicial destinada à revisão de laudo médico administrativo na definição da indenização do seguro DPVAT.",
+      "descricao": "Recurso extraordinário em que se discute, à luz dos artigos. 5º; LIV; e LV, da Constituição Federal, se o indeferimento de prova pericial judicial destinada à aferição da existência e da extensão da invalidez da vítima de acidente de trânsito, para fins de fixação da indenização do seguro DPVAT, quando já realizado exame pericial na esfera administrativa, viola os princípios do devido processo legal, do contraditório e da ampla defesa.",
+      "repercussao": "Não há (questão infraconstitucional)",
+      "situacao": "Analisada Preliminar de Repercussão Geral",
+      "dataJulgamento": "",
+      "tese": "",
+      "dataTese": "",
+      "observacao": "",
+      "links": {
+        "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1477",
+        "manifestacao": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=12520912",
+        "detalhamento": "https://portal.stf.jus.br/jurisprudenciaRepercussao/detalharProcesso.asp?numeroTema=1477"
+      }
+    },
+    "1478": {
+      "numero": 1478,
+      "leadingCase": "RE 1576462",
+      "relator": "MINISTRO PRESIDENTE",
+      "titulo": "Implementação do reajuste de vencimentos dos servidores do Grupo de Atividades de Educação Básica do Estado de Minas Gerais, com fundamento na Lei 22.062/2016 do Estado de Minas Gerais.",
+      "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 37; X; e 61; §1º; II; “a”, da Constituição Federal, se a implementação do reajuste de 11,36% concedido pela Lei Estadual nº 22.062/2016 de Minas Gerais está em harmonia com a Constituição, é compatível com a Constituição Federal, considerada a alegada inconstitucionalidade por arrastamento do art. 3º da Lei Estadual nº 21.710/2015.",
+      "repercussao": "Não há (questão infraconstitucional)",
+      "situacao": "Em julgamento",
+      "dataJulgamento": "",
+      "tese": "",
+      "dataTese": "",
+      "observacao": "",
+      "links": {
+        "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1478",
+        "manifestacao": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=12555363",
+        "detalhamento": "https://portal.stf.jus.br/jurisprudenciaRepercussao/detalharProcesso.asp?numeroTema=1478"
+      }
+    },
+    "1479": {
+      "numero": 1479,
+      "leadingCase": "RE 1577069",
+      "relator": "MINISTRO PRESIDENTE",
+      "titulo": "Composição da base de cálculo da contribuição facultativa para o custeio da assistência à saúde na hipótese de acumulação lícita de cargos públicos.",
+      "descricao": "Recurso extraordinário em que se discute, à luz do artigo 149 da Constituição Federal, se, na hipótese de acumulação lícita de cargos públicos, a base de cálculo da contribuição facultativa destinada ao custeio do Sistema de Assistência à Saúde dos Servidores Públicos do Estado de Pernambuco (SASSEPE), instituído pela Lei Complementar Estadual nº 30/2001, deve abranger a remuneração de apenas um ou de ambos os vínculos funcionais.",
+      "repercussao": "Não há (questão infraconstitucional)",
+      "situacao": "Em julgamento",
+      "dataJulgamento": "",
+      "tese": "",
+      "dataTese": "",
+      "observacao": "",
+      "links": {
+        "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1479",
+        "manifestacao": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=12565983",
+        "detalhamento": "https://portal.stf.jus.br/jurisprudenciaRepercussao/detalharProcesso.asp?numeroTema=1479"
       }
     }
   }

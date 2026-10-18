@@ -57,6 +57,19 @@ nenhuma delas é redistribuída dentro deste repositório.
 
 ## Contribuições
 
+- **Michelle Flores** — Nexx1 Contabilidade — contadora, especialista na nova arquitetura
+  tributária, conectou o acervo ao assistente e testou o MCP em matéria tributária (split payment,
+  créditos de IBS e CBS, Súmula Vinculante 13). O retorno veio por escrito, com número de tema, data
+  e o passo a passo para reproduzir cada ponto — foi a primeira contribuição externa ao projeto
+  (23/07/2026) e abriu os itens `BASE-033` a `BASE-041` do
+  [BACKLOG](base-juridica/BACKLOG.md). Do que já entrou: as duas datas dos temas de repercussão
+  geral, cada uma com o nome que a fonte lhe dá (julgamento da repercussão geral e fixação da tese);
+  a ferramenta `cobertura_da_base`, que mostra a quem consulta pelo MCP a data do snapshot e os
+  limites da base; o léxico de equivalências curado, declarado na própria resposta; os 227
+  precedentes representativos das 63 súmulas vinculantes, extraídos da página oficial do STF em vez
+  de inferidos; e a indexação da LC 214/2025 (IBS, CBS e Imposto Seletivo) junto com as LC 227/2026,
+  LC 225/2026 e LC 220/2025 — o acervo passou de 273 para 277 diplomas e de 22.180 para 23.064
+  dispositivos. Os itens `BASE-038` a `BASE-041`, ainda abertos, também vieram daí.
 - **Rafael Nogueira Reis** ([@rafael-reis-advogados](https://github.com/rafael-reis-advogados))
   — sócio-administrador do Girotto e Reis Advogados (Jandaia do Sul-PR) — achou e corrigiu
   o defeito do `BASE-042` nos temas repetitivos: a consulta por

@@ -41,7 +41,7 @@ O manifesto versionado está em [fontes.json](fontes.json), validado pelo contra
 
 | Conjunto | Origem oficial | Coleta | Transformação |
 |---|---|---|---|
-| Legislação | páginas compiladas do Planalto | um HTML por diploma | separa dispositivos, normaliza números como `1.072`, preserva hierarquia e retém registros antigos não reencontrados para revisão |
+| Legislação | páginas compiladas do Planalto | um HTML por diploma | separa dispositivos, normaliza números como `1.072`, preserva hierarquia, retém registros antigos não reencontrados para revisão e deixa de fora a redação anterior que a fonte exibe **riscada** quando o caput está em vigor — inclusive quando o `<strike>` abre dentro do próprio `<p>`, padrão das páginas não compiladas (`BASE-050`); artigo inteiro riscado (revogado, sem substituto) segue retido com os seus parágrafos |
 | Súmulas STJ | catálogo de Súmulas Anotadas do STJ | catálogo completo em HTML | extrai número, enunciado, estado, ramo, tema, órgão, data e URL oficial |
 | Súmulas STF | aplicação das Súmulas no STF | catálogo e uma página de detalhe por verbete | junta estado do catálogo, enunciado/data do detalhe e classificação já curada quando existente |
 | Súmulas vinculantes | aplicação das Súmulas Vinculantes no STF | catálogo e uma página de detalhe por verbete | mesma transformação do STF, com metadados de vinculância separados |

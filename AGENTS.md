@@ -105,6 +105,39 @@ nunca tudo de uma vez sem necessidade.
   última verificação na fonte. Acervo parado há semanas e conferido hoje está em
   dia — a fonte é que não mudou.
 
+## Crédito de contribuição externa
+
+A origem externa de um item é registrada em dois lugares com réguas diferentes, e
+**um não alimenta o outro**:
+
+| onde | o que registra | nomeia a pessoa? |
+|---|---|---|
+| `base-juridica/BACKLOG.md` e `base-juridica/verificacoes/BASE-0NN.md` | a contribuição como **fato** | não — "relatado pela comunidade", "levantado em contribuição externa" |
+| `CREDITOS.md` e a página de créditos do site (repo `advocacia-aberta-site`: `src/pages/creditos.astro` e a lista curta em `index.astro`) | a **pessoa** | sim |
+
+Por isso, **fechar um item de origem externa não credita ninguém.** Ao concluir um
+item assim, o mesmo trabalho tem de chegar aos três lugares: o backlog, o
+`CREDITOS.md` e o site. O `BASE-050` fechou sem isso — relatado em 06/10/2026,
+corrigido em 17/10, mergeado em 18/10 citando "contribuição da comunidade — issue
+#26", e creditado só em 18/10, depois de alguém perguntar; doze dias em que a
+correção estava em produção e a contribuição não aparecia na vitrine.
+
+O que guarda cada parte:
+
+- `ferramentas/manutencao/tests/test_credito_contribuicao.py` recusa item de origem
+  externa ausente do `CREDITOS.md` — o irmão, para o crédito, do teste que recusa
+  limitação omitida. Ele **não** alcança o site, que é outro repositório: essa parte
+  é esta régua.
+- Autoria que o repositório não registra (contribuição que chegou fora do GitHub)
+  entra em `SEM_AUTORIA_CONHECIDA` no teste, com o motivo, e vira pergunta ao
+  mantenedor — não se credita por inferência.
+
+Como creditar: pelo que a contribuição **mudou no acervo**, não pelo elogio — é a
+régua já escrita no topo de `creditos.astro`. E **pelo que a pessoa tornou público**:
+perfil sem nome é escolha dela, então credita-se o handle (precedente: `@peraivo`,
+`@ruanlucas-adv`) e se oferece no próprio canal a troca da forma do crédito. Nomear
+quem optou por não se identificar não é do mantenedor.
+
 ## Gerenciamento de contexto
 
 `GERENCIAR-CONTEXTO.md` é um protocolo fundamental, aplicável a todos os protocolos. Ele

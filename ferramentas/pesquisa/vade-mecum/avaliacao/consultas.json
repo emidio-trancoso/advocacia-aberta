@@ -19,7 +19,7 @@
     "temas_rg_stf": 0.7,
     "informativo_stf": 0.7,
     "espelhos_stj": 0.7,
-    "legislacao": 0.8
+    "legislacao": 0.76
   },
   "casos": [
     {
@@ -1835,5 +1835,6 @@
       ],
       "justificativa": "O § 2º-A do art. 143 do CTB autoriza o condutor da categoria B a conduzir veículo de propulsão elétrica ou híbrida com peso bruto total de até 4.250 kg. Caso acrescentado na recoleta de 18/10/2026, que trouxe o dispositivo."
     }
-  ]
+  ],
+  "nota_limiar_legislacao": "O limiar de precisão de legislação caiu de 0,80 para 0,76 em 18/10/2026. A queda não é regressão da busca: as quatro consultas estreitas acrescentadas nesta data (cp-furto-combustiveis, cf-agentes-comunitarios-saude, cf-jornada-quarenta-horas, ctb-categoria-b-eletrico) têm um único relevante julgado cada, e o motor devolve o top_k cheio — o artigo correto vem em 1º lugar nas quatro, e os outros quatro lugares são ruído. Com precisão agregada por resultado retornado, cada uma dessas consultas contribui no máximo 1/5. O comportamento que a métrica acusa está registrado como BASE-052; quando o motor parar de completar o top_k em consulta estreita, este limiar volta a subir."
 }

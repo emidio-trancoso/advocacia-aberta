@@ -89,3 +89,17 @@ nenhuma delas é redistribuída dentro deste repositório.
   IPv6, entrada vazia e malformada —, todos verificados contra o comportamento real da função
   antes do aceite. Não muda comportamento; protege contra regressão silenciosa o índice que
   alimenta o relatório de acesso ao acervo.
+- **[@peraivo](https://github.com/peraivo)** — comunidade — relatou o `BASE-050` na
+  [issue #26](https://github.com/emidio-trancoso/advocacia-aberta/issues/26) (06/10/2026): nos
+  diplomas cuja página do Planalto exibe a redação anterior **riscada**, os parágrafos e incisos
+  revogados entravam no texto do artigo como texto comum, a redação revogada **primeiro** e sob o
+  rótulo "FONTE OFICIAL". Quem lesse o art. 26, § 2º, da Lei 9.514 pegava a versão revogada, e a
+  busca por palavras casava com o texto antigo (`"quarenta por cento"` só existe no § 1º riscado do
+  art. 3º do DL 911). O relato chegou com comando de reprodução, cinco dispositivos conferidos um a
+  um na fonte, a medida do alcance com as próprias ressalvas de super e subcontagem, e a causa
+  localizada no código — a checagem de riscado era aplicada só ao caput. A observação que decidiu a
+  correção é dele: o `<strike>` fica **dentro** do `<p>`, e a função subia apenas pelos ancestrais.
+  Apontou também que nenhum teste mencionava texto riscado. Corrigido em 17/10/2026: 3.697
+  parágrafos riscados deixaram de entrar nos artigos em 195 dos 277 diplomas, com quatro testes de
+  regressão sobre padrões reais. Verificação em
+  [`base-juridica/verificacoes/BASE-050.md`](base-juridica/verificacoes/BASE-050.md).

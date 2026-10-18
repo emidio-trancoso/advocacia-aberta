@@ -120,12 +120,11 @@
     },
     {
       "id": "BASE-052",
-      "afetaCobertura": false,
-      "razao": "Não é lacuna de acervo: o conteúdo está na base e é devolvido em 1º lugar. O que a limitação descreve é ruído na cauda do resultado.",
+      "afetaCobertura": true,
       "familias": [
         "legislacao"
       ],
-      "resumo": "Em consulta estreita, a busca completa a janela de resultados em vez de devolver menos: o artigo certo vem em primeiro lugar, e os lugares seguintes podem trazer artigos sem relação com a pergunta. Confira a pertinência de cada artigo devolvido, do segundo em diante, antes de citar."
+      "resumo": "Em consulta estreita, a busca completa a janela de resultados em vez de devolver menos: o artigo que responde vem em primeiro lugar, e os lugares seguintes podem trazer artigos sem relação com a pergunta. Confira a pertinência de cada artigo devolvido, do segundo em diante, antes de citar."
     }
   ]
 }

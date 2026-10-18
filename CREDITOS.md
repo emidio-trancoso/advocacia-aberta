@@ -8,6 +8,21 @@ aberto e execução local) e a
 [Política de sigilo e dados](SIGILO-E-DADOS.md). A licença MIT não relicencia direitos que o
 projeto não possui.
 
+## Quem mantém
+
+- **Emidio Trancoso** (OAB/PR 119.075 · Maringá/PR) — autor do projeto: o método, a taxonomia, a
+  curadoria do acervo e a decisão sobre o que entra na base.
+- **[Apolus.ai](https://apolus.ai)** — mantenedora da infraestrutura desde 30/07/2026: hospeda o
+  endpoint público de consulta (`mcp.advocaciaaberta.org/mcp`) e responde pela sua operação e pela
+  rotina de atualização, para que o serviço se sustente ao longo do tempo.
+
+A mantenedora banca a máquina, não o método. Seguem como estão o [Manifesto](MANIFESTO.md), os
+[Princípios](PRINCIPIOS.md), o domínio `advocaciaaberta.org`, a licença [MIT](LICENSE) e o
+repositório público — a iniciativa continua aberta. O acesso ao endpoint permanece **gratuito**; a
+autenticação prevista (ainda não implementada) serve para conter abuso, não para cobrar. E quem
+preferir não depender de quem hospeda clona o repositório e roda o acervo inteiro na própria
+máquina: é o que o Manifesto chama de não haver aprisionamento a fornecedor.
+
 ## Fontes jurídicas oficiais
 
 A base jurídica reúne legislação, súmulas, teses, temas e julgados a partir de **fontes

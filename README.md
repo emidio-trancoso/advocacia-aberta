@@ -114,8 +114,9 @@ https://mcp.advocaciaaberta.org/mcp
 - **No ChatGPT (plano pago, com Modo desenvolvedor):** Configurações → Conectores → Avançado → ative
   o *Modo desenvolvedor* → Conectores → *Criar* → cole o endereço → ative na conversa em + → Mais.
 
-Conectar usa o recurso de conectores do próprio Claude ou ChatGPT (disponível nos planos pagos
-deles); a Advocacia Aberta é aberta e sem custo. Hoje o assistente **consulta o acervo**; o **método**
+O endpoint é hospedado e mantido pela [Apolus.ai](https://apolus.ai), mantenedora da infraestrutura
+do projeto (ver [Quem mantém](#quem-mantém)). Conectar usa o recurso de conectores do próprio Claude
+ou ChatGPT (disponível nos planos pagos deles); a Advocacia Aberta é aberta e sem custo. Hoje o assistente **consulta o acervo**; o **método**
 (os protocolos) você **adota** à parte — colando um protocolo no chat ou clonando o repositório para a
 via plena, abaixo.
 
@@ -246,6 +247,23 @@ como plugin instalado, a variável aponta para a raiz do plugin; dentro do repos
 nível projeto ou Codex) ela fica vazia e o caminho cai para o diretório de trabalho. Assim o mesmo
 comando funciona nos dois contextos, sem depender de uma ferramenta de um fornecedor específico.
 
+## Quem mantém
+
+O projeto é de **Emidio Trancoso** (OAB/PR 119.075 · Maringá/PR), autor do método, da taxonomia e da
+curadoria do acervo. Desde 30/07/2026, a infraestrutura tem uma mantenedora: a
+[Apolus.ai](https://apolus.ai) hospeda o endpoint público de consulta
+(`mcp.advocaciaaberta.org/mcp`) e responde pela sua operação e pela rotina de atualização, para que
+o serviço se sustente.
+
+A mantenedora banca a máquina, não o método: o [Manifesto](MANIFESTO.md), os
+[Princípios](PRINCIPIOS.md), o domínio `advocaciaaberta.org`, a licença [MIT](LICENSE) e o
+repositório público seguem como estão, e a iniciativa continua aberta. O acesso ao endpoint
+permanece gratuito — a autenticação prevista (ainda não implementada) serve para conter abuso, não
+para cobrar —, e quem preferir não depender de quem hospeda clona o repositório e roda o acervo
+inteiro na própria máquina.
+
+Quem já contribuiu com o acervo e com os motores está em [CREDITOS.md](CREDITOS.md#contribuições).
+
 ## Licença
 
 Salvo indicação em contrário, o código, os protocolos, as ferramentas, os templates e a
@@ -275,6 +293,8 @@ Federal Court and Superior Court of Justice — tens of thousands of sourced rec
 protocols (“skills”), and local search and processing engines. It connects to Claude or ChatGPT over
 a hosted MCP endpoint (`mcp.advocaciaaberta.org/mcp`), or can be cloned and run locally in Claude
 Code, Claude Cowork, or Codex. Every search change is guarded by a hand-judged regression eval, and a
-scheduled job watches the official sources. The method is public; client data stays private. Licensed
-under [MIT](LICENSE). Start with the [Manifesto](MANIFESTO.md) and the
+scheduled job watches the official sources. The method is public; client data stays private. The
+project is authored by Emidio Trancoso; its infrastructure — the hosted endpoint and the update
+routine — is maintained by [Apolus.ai](https://apolus.ai), while the corpus and the method remain
+open and self-hostable. Licensed under [MIT](LICENSE). Start with the [Manifesto](MANIFESTO.md) and the
 [getting-started guide](COMECE-AQUI.md).

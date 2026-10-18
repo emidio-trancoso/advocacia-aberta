@@ -16,6 +16,8 @@ import {
   type CallToolResult,
 } from "@modelcontextprotocol/sdk/types.js";
 
+import { ICONES_DA_MARCA } from "./marca.js";
+
 import {
   buscarSumulasAmpliado,
   formatSumula,
@@ -131,7 +133,17 @@ function registrarUso(
 
 export function buildServer(contexto?: ContextoDeUso): Server {
   const server = new Server(
-    { name: "vade-mecum", version: "1.0.0" },
+    {
+      // `name` é o identificador programático e não muda: clientes já conectados
+      // guardam o servidor por ele. O nome de exibição vai em `title`.
+      name: "vade-mecum",
+      title: "Advocacia Aberta",
+      version: "1.0.0",
+      description:
+        "Consulta ao acervo jurídico brasileiro — súmulas, teses, temas repetitivos e de repercussão geral, informativos e legislação — sempre com a fonte oficial.",
+      websiteUrl: "https://advocaciaaberta.org",
+      icons: ICONES_DA_MARCA,
+    },
     { capabilities: { tools: {} } }
   );
 

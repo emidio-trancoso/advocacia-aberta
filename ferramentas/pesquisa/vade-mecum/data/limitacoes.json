@@ -3,7 +3,7 @@
     "descricao": "Limitações declaradas da base, espelhando os itens abertos de base-juridica/BACKLOG.md. Serve à ferramenta cobertura_da_base: quem consulta precisa saber o que a base NÃO cobre antes de interpretar um resultado vazio como ausência de norma ou de precedente.",
     "fonte": "base-juridica/BACKLOG.md",
     "regra": "Todo item aberto do backlog precisa aparecer aqui, inclusive os que não afetam cobertura — nesse caso com afetaCobertura=false e a razão. O teste cobertura.test.ts recusa omissão silenciosa.",
-    "atualizado_em": "2026-09-14"
+    "atualizado_em": "2026-10-18"
   },
   "itens": [
     {
@@ -109,6 +109,23 @@
         "legislacao"
       ],
       "resumo": "No CPC, a compilação do Planalto aplica o § 2º da Lei 15.484/2026 ao art. 1.041 em vez do art. 1.042 (conferido no texto da lei em 14/09/2026). A base espelha a compilação como está: o art. 1.041, § 2º, e o art. 1.042, § 2º, devolvem texto divergente da lei — confira na Lei 15.484/2026 antes de citar."
+    },
+    {
+      "id": "BASE-051",
+      "afetaCobertura": true,
+      "familias": [
+        "espelhos_stj"
+      ],
+      "resumo": "A conferência completa de 18/10/2026 não alcançou os espelhos de acórdãos do STJ: o portal de dados abertos respondeu lentamente e a coleta, sem retomada, caiu numa falha de rede. O acervo publicado é o recoletado em 14/09/2026 (sinal semanal \"sem mudança\" em 12/10/2026). Para acórdão posterior a setembro de 2026, confira o SCON do STJ."
+    },
+    {
+      "id": "BASE-052",
+      "afetaCobertura": false,
+      "razao": "Não é lacuna de acervo: o conteúdo está na base e é devolvido em 1º lugar. O que a limitação descreve é ruído na cauda do resultado.",
+      "familias": [
+        "legislacao"
+      ],
+      "resumo": "Em consulta estreita, a busca completa a janela de resultados em vez de devolver menos: o artigo certo vem em primeiro lugar, e os lugares seguintes podem trazer artigos sem relação com a pergunta. Confira a pertinência de cada artigo devolvido, do segundo em diante, antes de citar."
     }
   ]
 }

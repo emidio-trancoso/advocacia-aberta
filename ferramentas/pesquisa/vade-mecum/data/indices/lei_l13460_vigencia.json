@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_l13460.json",
       "colecao": "artigos",
-      "sha256": "4fb32df46b73a349785c001b55ccced069fd850ee39f625bae6747372b434a5e",
+      "sha256": "f263cf20d673b04fa69c76c519ce00332f6a611c9ce417853eb6a775470fec8f",
       "total_registros": 26,
-      "gerado_em": "2026-08-21T22:36:29+00:00"
+      "gerado_em": "2026-10-18T12:49:37+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 4,
-      "anotacoes": 15,
-      "anotacoes_sem_diploma_nomeado": 5
+      "anotacoes": 13,
+      "anotacoes_sem_diploma_nomeado": 4
     }
   },
   "vigencia": {
@@ -132,24 +132,6 @@
           "unidade": "caput",
           "diploma": null,
           "trecho": "… identificação do cidadão, dispensada a apresentação de qualquer outro documento. (Incluído pela Lei nº 14.129, de 2021)",
-          "literal": "(Vigência)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "14.129",
-            "ano": 2021
-          },
-          "trecho": "…, que será suficiente para sua identificação, vedada a exigência de apresentação de qualquer outro número para esse fim.",
-          "literal": "(Incluído pela Lei nº 14.129, de 2021)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 1º",
-          "diploma": null,
-          "trecho": "…cação, vedada a exigência de apresentação de qualquer outro número para esse fim. (Incluído pela Lei nº 14.129, de 2021)",
           "literal": "(Vigência)"
         },
         {

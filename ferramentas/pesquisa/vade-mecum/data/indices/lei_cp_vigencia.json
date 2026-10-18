@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_cp.json",
       "colecao": "artigos",
-      "sha256": "7bb58fc441e80da4c33e11e5c32e8f64cd947890b0c7520ec8835337f6880fef",
+      "sha256": "a0b4f1221aa98e0257e587c923926d721f744b47d5cd9310ff066b5969934571",
       "total_registros": 432,
-      "gerado_em": "2026-09-14T13:55:50+00:00"
+      "gerado_em": "2026-10-18T12:46:39+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 298,
-      "anotacoes": 1169,
-      "anotacoes_sem_diploma_nomeado": 86
+      "anotacoes": 1190,
+      "anotacoes_sem_diploma_nomeado": 87
     }
   },
   "vigencia": {
@@ -7195,6 +7195,149 @@
           },
           "trecho": "…consecução das condutas previstas no art. 2º da lei que institui o marco legal do combate ao crime organizado no Brasil.",
           "literal": "(Incluído pela Lei nº 15.358, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 10º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.517",
+            "ano": 2026
+          },
+          "trecho": "…nstalações de armazenamento e de transporte de combustíveis, incluídos dutos e unidades de transporte em qualquer modal.",
+          "literal": "(Incluído pela Lei nº 15.517, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 11º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.517",
+            "ano": 2026
+          },
+          "trecho": "§ 11. Na hipótese do § 10 deste artigo, a pena é aumentada de 1/3 (um terço), se o crime é praticado:",
+          "literal": "(Incluído pela Lei nº 15.517, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso I",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.517",
+            "ano": 2026
+          },
+          "trecho": "I – com destruição, rompimento de obstáculo à subtração da coisa ou dano de qualquer natureza;",
+          "literal": "(Incluído pela Lei nº 15.517, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso II",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.517",
+            "ano": 2026
+          },
+          "trecho": "II – mediante o concurso de 2 (duas) ou mais pessoas;",
+          "literal": "(Incluído pela Lei nº 15.517, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso III",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.517",
+            "ano": 2026
+          },
+          "trecho": "III – com abuso de confiança ou valendo-se de vínculo atual ou passado com o ente lesado; ou",
+          "literal": "(Incluído pela Lei nº 15.517, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso IV",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.517",
+            "ano": 2026
+          },
+          "trecho": "IV – por ocupante de cargo, de emprego ou de função pública.",
+          "literal": "(Incluído pela Lei nº 15.517, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 12º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.517",
+            "ano": 2026
+          },
+          "trecho": "§ 12. Na hipótese do § 10 deste artigo, a pena é aumentada de 2/3 (dois terços) se do crime resulta:",
+          "literal": "(Incluído pela Lei nº 15.517, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso I",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.517",
+            "ano": 2026
+          },
+          "trecho": "I – suspensão ou paralisação das atividades do estabelecimento;",
+          "literal": "(Incluído pela Lei nº 15.517, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso II",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.517",
+            "ano": 2026
+          },
+          "trecho": "II – desabastecimento;",
+          "literal": "(Incluído pela Lei nº 15.517, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso III",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.517",
+            "ano": 2026
+          },
+          "trecho": "III – incêndio;",
+          "literal": "(Incluído pela Lei nº 15.517, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso IV",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.517",
+            "ano": 2026
+          },
+          "trecho": "IV – poluição efetiva ou potencial ao meio ambiente;",
+          "literal": "(Incluído pela Lei nº 15.517, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso V",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.517",
+            "ano": 2026
+          },
+          "trecho": "V – lesão corporal grave; ou",
+          "literal": "(Incluído pela Lei nº 15.517, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso VI",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.517",
+            "ano": 2026
+          },
+          "trecho": "VI – morte.",
+          "literal": "(Incluído pela Lei nº 15.517, de 2026)"
         }
       ]
     },
@@ -7331,6 +7474,17 @@
         },
         {
           "tipo": "inclusao",
+          "unidade": "inciso XI",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.517",
+            "ano": 2026
+          },
+          "trecho": "…nstalações de armazenamento e de transporte de combustíveis, incluídos dutos e unidades de transporte em qualquer modal.",
+          "literal": "(Incluído pela Lei nº 15.517, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
           "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
@@ -7361,6 +7515,79 @@
           },
           "trecho": "… há destruição ou rompimento de obstáculo mediante o emprego de explosivo ou de artefato análogo que cause perigo comum.",
           "literal": "(Incluído pela Lei nº 13.654, de 2018)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso III",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.517",
+            "ano": 2026
+          },
+          "trecho": "III – se do crime previsto no inciso XI do § 2º deste artigo resulta:",
+          "literal": "(Incluído pela Lei nº 15.517, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "alínea a",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.517",
+            "ano": 2026
+          },
+          "trecho": "a) suspensão ou paralisação das atividades do estabelecimento;",
+          "literal": "(Incluído pela Lei nº 15.517, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "alínea b",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.517",
+            "ano": 2026
+          },
+          "trecho": "b) desabastecimento;",
+          "literal": "(Incluído pela Lei nº 15.517, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "alínea c",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.517",
+            "ano": 2026
+          },
+          "trecho": "c) incêndio;",
+          "literal": "(Incluído pela Lei nº 15.517, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "alínea d",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.517",
+            "ano": 2026
+          },
+          "trecho": "d) poluição efetiva ou potencial ao meio ambiente; ou",
+          "literal": "(Incluído pela Lei nº 15.517, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "alínea e",
+          "diploma": null,
+          "trecho": "e)",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "alínea e",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.517",
+            "ano": 2026
+          },
+          "trecho": "e) (VETADO).",
+          "literal": "(Incluído pela Lei nº 15.517, de 2026)"
         },
         {
           "tipo": "inclusao",

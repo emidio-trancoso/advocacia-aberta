@@ -1035,6 +1035,80 @@ class RedacaoCompiladaTest(unittest.TestCase):
         self.assertNotIn("revogado", artigos["5"]["texto"])
         self.assertIn("§ 1º Parágrafo do vigente", artigos["5"]["texto"])
 
+    def test_paragrafo_riscado_dentro_do_p_fica_fora_do_artigo(self) -> None:
+        # Padrão do art. 26 da Lei 9.514 (issue #26, BASE-050): o <strike> abre
+        # dentro do <p>, depois da âncora, e a redação anterior entrava no
+        # artigo como texto comum, antes da vigente.
+        artigos = self.transformar(
+            '<p><font><a name="art26"></a><strike>Art. 26. Vencida e não paga, '
+            "no todo ou em parte, a dívida.</strike></font></p>"
+            '<p><span><a name="art26.0"></a><font>Art. 26. Vencida e não paga a '
+            "dívida, no todo ou em parte, e constituídos em mora o devedor.</font> "
+            '<a href="L14711.htm#art2">(Redação dada pela Lei nº 14.711, de 2023)'
+            "</a></span></p>"
+            '<p><font><a name="art26§2"></a><strike>§ 2º O contrato definirá o '
+            "prazo de carência após o qual será expedida a intimação.</strike>"
+            "</font></p>"
+            '<p><font><a name="art26§2.0"></a>§ 2º O contrato poderá estabelecer '
+            "o prazo de carência, após o qual será expedida a intimação. "
+            "(Redação dada pela Lei nº 14.711, de 2023)</font></p>"
+            "<p>Art. 27. Seguinte.</p>"
+        )
+        texto = artigos["26"]["texto"]
+        self.assertIn("constituídos em mora o devedor", texto)
+        self.assertNotIn("no todo ou em parte, a dívida.", texto)
+        self.assertIn("poderá estabelecer", texto)
+        self.assertNotIn("definirá", texto)
+        self.assertEqual(texto.count("§ 2º"), 1)
+        self.assertNotIn("27", artigos["26"]["texto"])
+
+    def test_inciso_riscado_sob_caput_vigente_fica_fora(self) -> None:
+        # Lei 8.009, art. 3º, III: o caput não mudou; só o inciso traz a
+        # redação anterior riscada e, logo abaixo, a vigente.
+        artigos = self.transformar(
+            "<p>Art. 3º A impenhorabilidade é oponível em qualquer processo:</p>"
+            "<p>I - em razão dos créditos de trabalhadores.</p>"
+            '<p><font><a name="art3iii"></a><strike>III -- pelo credor de pensão '
+            "alimentícia;</strike></font></p>"
+            "<p>III - pelo credor da pensão alimentícia, resguardados os direitos. "
+            "(Redação dada pela Lei nº 13.144 de 2015)</p>"
+            "<p>Art. 4º Seguinte.</p>"
+        )
+        texto = artigos["3"]["texto"]
+        self.assertIn("I - em razão", texto)
+        self.assertIn("resguardados os direitos", texto)
+        self.assertNotIn("III -- pelo credor", texto)
+
+    def test_artigo_inteiro_riscado_sem_substituto_mantem_os_paragrafos(self) -> None:
+        # Art. 7º da Lei 9.514 (revogado): tudo riscado e nenhuma redação nova.
+        # O artigo fica retido com os seus parágrafos, como já era.
+        artigos = self.transformar(
+            "<p><strike>Art. 7º O CRI terá as seguintes características:</strike></p>"
+            "<p><strike>I - nome da companhia emitente;</strike> "
+            "(Revogado pela Lei nº 14.430, de 2022)</p>"
+            "<p><strike>II - número de ordem.</strike></p>"
+            "<p>Art. 8º Seguinte.</p>"
+        )
+        texto = artigos["7"]["texto"]
+        self.assertIn("I - nome da companhia", texto)
+        self.assertIn("II - número de ordem", texto)
+
+    def test_riscado_com_anotacao_fora_da_marca_e_preservado(self) -> None:
+        # Estatuto da OAB, art. 7º, I: texto riscado por decisão em ADI, com a
+        # anotação "(Vide ADIN ...)" fora da marca. A anotação é informação da
+        # fonte sobre o dispositivo; o parágrafo fica, com ela.
+        artigos = self.transformar(
+            "<p>Art. 7º Ao advogado é assegurado:</p>"
+            "<p><strike>I - a postulação a qualquer órgão do Poder Judiciário;"
+            "</strike> (Vide ADIN 1.127-8)</p>"
+            "<p>II - a inviolabilidade de seu escritório.</p>"
+            "<p>Art. 8º Seguinte.</p>"
+        )
+        texto = artigos["7"]["texto"]
+        self.assertIn("I - a postulação", texto)
+        self.assertIn("(Vide ADIN 1.127-8)", texto)
+        self.assertIn("II - a inviolabilidade", texto)
+
 
     def test_rotulo_repetido_sem_marca_nao_apaga_o_artigo(self) -> None:
         # Defeito tipográfico da LGPD: "Art. 5 7." é o art. 57, mas casa como 5º.

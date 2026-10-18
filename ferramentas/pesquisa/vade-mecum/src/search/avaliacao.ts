@@ -58,6 +58,13 @@ export interface ResultadoCaso {
   readonly grupo: GrupoAvaliacao;
   readonly retornados: readonly string[];
   readonly acertos: readonly string[];
+  /**
+   * Janela em que o recall é medido: `max(top_k, nº de relevantes do caso)`.
+   * Igual a `top_k` em todo caso cujo conjunto relevante caiba na janela.
+   */
+  readonly janelaRecall: number;
+  /** Acertos dentro de `janelaRecall` — numerador do recall julgado. */
+  readonly acertosNaJanela: readonly string[];
   readonly obrigatoriosAusentes: readonly string[];
   readonly precisaoAtK: number;
   readonly recallJulgadoAtK: number;
@@ -203,9 +210,18 @@ export function executarConsulta(caso: CasoAvaliacao, limite: number): string[] 
 }
 
 export function avaliarCaso(caso: CasoAvaliacao, topK: number): ResultadoCaso {
-  const retornados = executarConsulta(caso, topK);
+  // Precisão, MRR e obrigatórios continuam medidos na janela de `topK` — é o que
+  // o usuário recebe. O recall é medido numa janela por caso, larga o bastante
+  // para o conjunto relevante julgado caber nela: com janela fixa, um caso com
+  // mais relevantes do que `topK` tem o recall limitado por aritmética
+  // (5 de 8 = 0,625 no melhor resultado possível), e a base crescer desloca um
+  // relevante antigo para fora da janela sem que a busca tenha piorado.
+  const janelaRecall = Math.max(topK, caso.relevantes.length);
+  const retornadosNaJanela = executarConsulta(caso, janelaRecall);
+  const retornados = retornadosNaJanela.slice(0, topK);
   const relevantes = new Set(caso.relevantes);
   const acertos = retornados.filter((id) => relevantes.has(id));
+  const acertosNaJanela = retornadosNaJanela.filter((id) => relevantes.has(id));
   const primeiraPosicao = retornados.findIndex((id) => relevantes.has(id));
 
   return {
@@ -213,9 +229,11 @@ export function avaliarCaso(caso: CasoAvaliacao, topK: number): ResultadoCaso {
     grupo: caso.grupo,
     retornados,
     acertos,
+    janelaRecall,
+    acertosNaJanela,
     obrigatoriosAusentes: caso.obrigatorios.filter((id) => !retornados.includes(id)),
     precisaoAtK: retornados.length === 0 ? 0 : acertos.length / retornados.length,
-    recallJulgadoAtK: acertos.length / caso.relevantes.length,
+    recallJulgadoAtK: acertosNaJanela.length / caso.relevantes.length,
     reciprocalRank: primeiraPosicao < 0 ? 0 : 1 / (primeiraPosicao + 1),
   };
 }
@@ -230,6 +248,10 @@ function agregarMetricas(
   );
   const acertos = resultados.reduce(
     (total, resultado) => total + resultado.acertos.length,
+    0,
+  );
+  const acertosNaJanela = resultados.reduce(
+    (total, resultado) => total + resultado.acertosNaJanela.length,
     0,
   );
   const relevantesJulgados = casos.reduce(
@@ -250,7 +272,7 @@ function agregarMetricas(
     acertos,
     precisaoAtK: retornados === 0 ? 0 : acertos / retornados,
     recallJulgadoAtK:
-      relevantesJulgados === 0 ? 0 : acertos / relevantesJulgados,
+      relevantesJulgados === 0 ? 0 : acertosNaJanela / relevantesJulgados,
     coberturaCasos: coberturaCasos / casos.length,
     coberturaObrigatorios: coberturaObrigatorios / casos.length,
     mrr:

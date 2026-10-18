@@ -15,7 +15,9 @@ function formatar(metricas: MetricasAvaliacao): string {
   return [
     `casos=${metricas.casos}`,
     `precisão@${corpus.top_k}=${metricas.precisaoAtK.toFixed(4)}`,
-    `recall-julgado@${corpus.top_k}=${metricas.recallJulgadoAtK.toFixed(4)}`,
+    // O recall usa janela por caso — `máx(top_k, nº de relevantes)` —, então o
+    // rótulo não leva `@k`: ele não é o mesmo corte da precisão.
+    `recall-julgado=${metricas.recallJulgadoAtK.toFixed(4)}`,
     `cobertura=${metricas.coberturaCasos.toFixed(4)}`,
     `obrigatórios=${metricas.coberturaObrigatorios.toFixed(4)}`,
     `MRR=${metricas.mrr.toFixed(4)}`,

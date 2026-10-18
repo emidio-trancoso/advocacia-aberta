@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": "2.0",
-    "generatedAt": "2026-09-14T13:56:00+00:00",
-    "totalTemas": 1473,
+    "generatedAt": "2026-10-18T12:47:23+00:00",
+    "totalTemas": 1474,
     "source": {
       "provenanceStatus": "reproducible_pipeline",
       "dataset": "Precedentes qualificados — Portal de Dados Abertos do STJ",
@@ -22,8 +22,8 @@
         }
       },
       "method": "Junção determinística de Temas.csv e Processos.csv por sequencialPrecedente; seleção preferencial do leading case.",
-      "metadata_sha256": "3d318eb5b8727fda84f82d01842a259b595a7326160ec9e11d06a96b03ca3bf8",
-      "collectedAt": "2026-09-14T13:56:00+00:00"
+      "metadata_sha256": "be46c6d75168abd21096f765a6c1ec0cd8fbd77155995f0f90938d76b28133f9",
+      "collectedAt": "2026-10-18T12:47:23+00:00"
     },
     "transformacao": "temas_stj_csv_v1"
   },
@@ -1452,18 +1452,18 @@
     },
     "50": {
       "numero": 50,
-      "situacao": "Em Julgamento",
+      "situacao": "Mérito Julgado",
       "ramo": "Seguro",
       "assuntos": [
         "Seguro"
       ],
       "questao": "Discussão sobre a necessidade de participação da Caixa Econômica Federal nos feitos que envolvam contratos de seguro habitacional vinculados ao Sistema Financeiro Habitacional e que não tenham relação com o Fundo de Compensação de Variações Salariais (FCVS).",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
       "orgaoJulgador": "Corte Especial",
       "processo": "REsp 1091363/SC",
       "relator": "CARLOS FERNANDO MATHIAS (JUIZ FEDERAL CONVOCADO DO TRF 1ª REGIÃO)",
       "dataAfetacao": "15/10/2008",
-      "dataJulgamento": "",
+      "dataJulgamento": "15/09/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=50&cod_tema_final=50",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%221091363%22&O=JT",
@@ -1479,18 +1479,18 @@
     },
     "51": {
       "numero": 51,
-      "situacao": "Em Julgamento",
+      "situacao": "Mérito Julgado",
       "ramo": "Seguro",
       "assuntos": [
         "Seguro"
       ],
       "questao": "Discussão sobre a necessidade de participação da Caixa Econômica Federal nos feitos que envolvam contratos de seguro habitacional vinculados ao Sistema Financeiro Habitacional e que não tenham relação com o Fundo de Compensação de Variações Salariais (FCVS).",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
       "orgaoJulgador": "Corte Especial",
       "processo": "REsp 1091363/SC",
       "relator": "CARLOS FERNANDO MATHIAS (JUIZ FEDERAL CONVOCADO DO TRF 1ª REGIÃO)",
       "dataAfetacao": "15/10/2008",
-      "dataJulgamento": "",
+      "dataJulgamento": "15/09/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=51&cod_tema_final=51",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%221091363%22&O=JT",
@@ -1868,7 +1868,7 @@
     },
     "65": {
       "numero": 65,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Acórdão Publicado - RE Pendente",
       "ramo": "DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO",
       "assuntos": [
         "DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO"
@@ -21064,7 +21064,7 @@
     },
     "737": {
       "numero": 737,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Acórdão Publicado - RE Pendente",
       "ramo": "DIREITO TRIBUTÁRIO",
       "assuntos": [
         "DIREITO TRIBUTÁRIO",
@@ -26581,18 +26581,18 @@
     },
     "929": {
       "numero": 929,
-      "situacao": "Em Julgamento",
+      "situacao": "Mérito Julgado",
       "ramo": "Empréstimo consignado",
       "assuntos": [
         "Empréstimo consignado"
       ],
       "questao": "Discussão quanto às hipóteses de aplicação da repetição em dobro prevista no art. 42, parágrafo único, do CDC.",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
       "orgaoJulgador": "Corte Especial",
       "processo": "REsp 1963770/CE",
       "relator": "PAULO DE TARSO SANSEVERINO",
       "dataAfetacao": "14/05/2021",
-      "dataJulgamento": "",
+      "dataJulgamento": "15/09/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=929&cod_tema_final=929",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%221963770%22&O=JT",
@@ -32179,14 +32179,14 @@
     },
     "1119": {
       "numero": 1119,
-      "situacao": "Mérito Julgado",
+      "situacao": "Acórdão Publicado",
       "ramo": "DIREITO DO CONSUMIDOR",
       "assuntos": [
         "DIREITO DO CONSUMIDOR",
         "Contratos Bancários"
       ],
       "questao": "Aplicabilidade (ou não) do art. 39, inciso IX, do CDC à resilição unilateral de contrato de conta corrente bancária por iniciativa da instituição financeira.",
-      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
+      "teseFirmada": "A vedação prevista no art. 39, inciso IX, do CDC não se aplica à resilição unilateral de contrato de conta-corrente bancária por iniciativa da instituição financeira.",
       "orgaoJulgador": "Segunda Seção",
       "processo": "REsp 1941347/SP",
       "relator": "PAULO DE TARSO SANSEVERINO",
@@ -32329,7 +32329,7 @@
         "Concessão"
       ],
       "questao": "Caso superada a ausência do interesse de agir, definir o termo inicial dos efeitos financeiros dos benefícios previdenciários concedidos ou revisados judicialmente, por meio de prova não submetida ao crivo administrativo do INSS, se a contar da data do requerimento administrativo ou da citação da autarquia previdenciária.",
-      "teseFirmada": "1) Configuração do interesse de agir para a propositura da ação judicial previdenciária: 1.1) O segurado deve apresentar requerimento administrativo apto, ou seja, com documentação minimamente suficiente para viabilizar a compreensão e a análise do requerimento.1.2) A apresentação de requerimento sem as mínimas condições de admissão (\"indeferimento forçado\") pode levar ao indeferimento imediato por parte do INSS. 1.3) O indeferimento de requerimento administrativo por falta de documentação mínima, configurando indeferimento forçado, ou a omissão do segurado na complementação da documentação após ser intimado, impede o reconhecimento do interesse de agir do segurado; ao reunir a documentação necessária, o segurado deverá apresentar novo requerimento administrativo.1.4) Quando o requerimento administrativo for acompanhado de documentação apta ao seu conhecimento, porém insuficiente à concessão do benefício, o INSS tem o dever legal de intimar o segurado a complementar a documentação ou a prova, por carta de exigência ou outro meio idôneo. Caso o INSS não o faça, o interesse de agir estará configurado.1.5) Sempre caberá a análise fundamentada, pelo Juiz, sobre se houve ou não desídia do segurado na apresentação de documentos ou de provas de seu alegado direito ou, por outro lado, se ocorreu uma ação não colaborativa do INSS ao deixar de oportunizar ao segurado a complementação da documentação ou a produção de prova. 1.6) O interesse de agir do segurado se configura quando este levar a Juízo os mesmos fatos e as mesmas provas que levou ao processo administrativo. Se desejar apresentar novos documentos ou arguir novos fatos para pleitear seu benefício, deverá apresentar novo requerimento administrativo (Tema 350/STF). A ação judicial proposta nessas condições deve ser extinta sem julgamento do mérito por falta de interesse de agir. A exceção a este tópico ocorrerá apenas quando o segurado apresentar em juízo documentos tidos pelo juiz como não essenciais, mas complementares ou em reforço à prova já apresentada na via administrativa e considerada pelo Juiz como apta, por si só, a levar à concessão do benefício. 2) Data do início do benefício e seus efeitos financeiros: 2.1) Configurado o interesse de agir, por serem levados a Juízo os mesmos fatos e mesmas provas apresentadas ao INSS no processo administrativo, em caso de procedência da ação o Magistrado fixará a Data do Início do Benefício na Data de Entrada do Requerimento, se entender que os requisitos já estariam preenchidos quando da apresentação do requerimento administrativo, a partir da análise da prova produzida no processo administrativo ou da prova produzida em juízo que confirme o conjunto probatório do processo administrativo. Se entender que os requisitos foram preenchidos depois, fixará a DIB na data do preenchimento posterior dos requisitos, nos termos do Tema 995/STJ. 2.2) Quando o INSS, ao receber um pedido administrativo apto, mas com instrução deficiente, deixar de oportunizar a complementação da prova, quando tinha a obrigação de fazê-lo, e a prova for levada a Juízo pelo segurado ou produzida em Juízo, o magistrado poderá fixar a Data do Início do Benefício na Data da Entrada do Requerimento Administrativo, quando entender que o segurado já faria jus ao benefício na DER, ou em data posterior em que os requisitos para o benefício teriam sido cumpridos, ainda que anterior à citação, reafirmando a DER nos termos doTema 995/STJ. 2.3) Quando presente o interesse de agir e for apresentada prova somente em juízo, não levada ao conhecimento do INSS na via administrativa porque surgida após a propositura da ação ou por comprovada impossibilidade material (como por exemplo uma perícia judicial que reconheça atividade especial, um PPP novo ou LTCAT, o reconhecimento de vínculo ou de trabalho rural a partir de prova surgida após a propositura da ação), o juiz fixará a Data do Início do Benefício na citação válida ou na data posterior em que preenchidos os requisitos, nos termos do Tema 995/STJ. 2.4) Em qualquer caso deve ser respeitada a prescrição das parcelas anteriores aos cinco últimos anos contados da propositura da ação.",
+      "teseFirmada": "1) Configuração do interesse de agir para a propositura da ação judicial previdenciária:1.1) O segurado deve apresentar requerimento administrativo apto, ou seja, com documentação minimamente suficiente para viabilizar a compreensão e a análise do requerimento.1.2) A apresentação de requerimento sem as mínimas condições de admissão (\"indeferimento forçado\") pode levar ao indeferimento imediato por parte do INSS.1.3) O indeferimento de requerimento administrativo por falta de documentação mínima, configurando indeferimento forçado, ou a omissão do segurado na complementação da documentação após ser intimado, impede o reconhecimento do interesse de agir do segurado; ao reunir a documentação necessária, o segurado deverá apresentar novo requerimento administrativo.1.4) Quando o requerimento administrativo for acompanhado de documentação apta ao seu conhecimento, porém insuficiente à concessão do benefício, o INSS tem o dever legal de intimar o segurado a complementar a documentação ou a prova, por carta de exigência ou outro meio idôneo. Caso o INSS não o faça, o interesse de agir estará configurado.1.5) Sempre caberá a análise fundamentada, pelo Juiz, sobre se houve ou não desídia do segurado na apresentação de documentos ou de provas de seu alegado direito ou, por outro lado, se ocorreu uma ação não colaborativa do INSS ao deixar de oportunizar ao segurado a complementação da documentação ou a produção de prova. 1.6) O interesse de agir do segurado se configura quando este levar a Juízo os mesmos fatos e as mesmas provas que levou ao processo administrativo. Se desejar apresentar novos documentos ou arguir novos fatos para pleitear seu benefício, deverá apresentar novo requerimento administrativo (Tema 350/STF). A ação judicial proposta nessas condições deve ser extinta sem julgamento do mérito por falta de interesse de agir. A exceção a este tópico ocorrerá apenas quando o segurado apresentar em juízo documentos tidos pelo juiz como não essenciais, mas complementares ou em reforço à prova já apresentada na via administrativa e considerada pelo Juiz como apta, por si só, a levar à concessão do benefício.2) Data do início do benefício e seus efeitos financeiros:2.1) Configurado o interesse de agir, por serem levados a Juízo os mesmos fatos e mesmas provas apresentadas ao INSS no processo administrativo, em caso de procedência da ação o Magistrado fixará a Data do Início do Benefício na Data de Entrada do Requerimento, se entender que os requisitos já estariam preenchidos quando da apresentação do requerimento administrativo, a partir da análise da prova produzida no processo administrativo ou da prova produzida em juízo que confirme o conjunto probatório do processo administrativo. Se entender que os requisitos foram preenchidos depois, fixará a DIB na data do preenchimento posterior dos requisitos, nos termos do Tema 995/STJ.2.2) Quando o INSS, ao receber um pedido administrativo apto, mas com instrução deficiente, deixar de oportunizar a complementação da prova, quando tinha a obrigação de fazê-lo, e a prova for levada a Juízo pelo segurado ou produzida em Juízo, o magistrado poderá fixar a Data do Início do Benefício na Data da Entrada do Requerimento Administrativo, quando entender que o segurado já faria jus ao benefício na DER, ou em data posterior em que os requisitos para o benefício teriam sido cumpridos, ainda que anterior à citação, reafirmando a DER nos termos doTema 995/STJ.2.3) Quando presente o interesse de agir e for apresentada prova somente em juízo, não levada ao conhecimento do INSS na via administrativa porque surgida após a propositura da ação ou por comprovada impossibilidade material (como por exemplo uma perícia judicial que reconheça atividade especial, um PPP novo ou LTCAT, o reconhecimento de vínculo ou de trabalho rural a partir de prova surgida após a propositura da ação), o juiz fixará a Data do Início do Benefício na citação válida ou na data posterior em que preenchidos os requisitos, nos termos do Tema 995/STJ.2.4) Em qualquer caso deve ser respeitada a prescrição das parcelas anteriores aos cinco últimos anos contados da propositura da ação.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 1913152/SP",
       "relator": "HERMAN BENJAMIN",
@@ -33193,7 +33193,7 @@
         "Crimes de Tráfico Ilícito e Uso Indevido de Drogas"
       ],
       "questao": "Isoladamente consideradas, a natureza e a quantidade do entorpecente apreendido, por si sós, não são suficientes para embasar conclusão acerca da presença das referidas condições obstativas e, assim, afastar o reconhecimento da minorante do tráfico privilegiado.",
-      "teseFirmada": "A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante, configura fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. Fora dessa hipótese, a natureza e a quantidade das drogas podem afastar a minorante quando associadas a outros elementos do caso concreto - como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento -, dos quais se possa inferir, mediante fundamentação concreta, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa.",
+      "teseFirmada": "A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante, configura fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. Fora dessa hipótese, a natureza e a quantidade das drogas podem afastar a minorante quando associadas a outros elementos do caso concreto - como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento -, dos quais se possa inferir, mediante fundamentação concreta, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 1963433/SP",
       "relator": "JOÃO OTÁVIO DE NORONHA",
@@ -33827,14 +33827,14 @@
     },
     "1177": {
       "numero": 1177,
-      "situacao": "Mérito Julgado",
+      "situacao": "Acórdão Publicado",
       "ramo": "DIREITO PROCESSUAL CIVIL E DO TRABALHO",
       "assuntos": [
         "DIREITO PROCESSUAL CIVIL E DO TRABALHO",
         "Sucumbência"
       ],
       "questao": "Definir se é possível ou não a condenação da União ao pagamento de honorários de sucumbência em sede de ação civil pública.",
-      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
+      "teseFirmada": "À luz do princípio da simetria, a isenção prevista no art. 18 da Lei n. 7.347/1985 (LACP) impede a condenação da União, quando vencida em ação civil pública, ao pagamento de honorários advocatícios de sucumbência, salvo comprovada má-fé.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 1991439/RS",
       "relator": "BENEDITO GONÇALVES",
@@ -35184,19 +35184,19 @@
     },
     "1225": {
       "numero": 1225,
-      "situacao": "Em Julgamento",
+      "situacao": "Acórdão Publicado",
       "ramo": "Indenização por Dano Moral",
       "assuntos": [
         "Indenização por Dano Moral",
         "Acidente de Trânsito"
       ],
       "questao": "I. Tema Principal: Possibilidade de redirecionamento da execução a pessoa jurídica de direito público, em razão da insolvência de concessionária de serviço público, ainda que aquela não tenha participado da fase de conhecimento e não conste do título executivo judicial; II. Tema Subsidiário: Termo inicial do prazo prescricional quinquenal para fins de redirecionamento da execução contra o ente público.",
-      "teseFirmada": "",
+      "teseFirmada": "É inviável o redirecionamento automático do cumprimento de sentença contra o poder concedente, apenas em razão de posterior insolvência da concessionária ou permissionária de serviço público, quando o ente público não foi convocado a participar da fase cognitiva da ação, por violação aos limites subjetivos da coisa julgada (CPC, arts. 506 e 513, § 5º) e ao devido processo legal (CPC, arts. 7º, 9º e 10).",
       "orgaoJulgador": "Corte Especial",
       "processo": "REsp 2005469/RJ",
       "relator": "RAUL ARAÚJO",
       "dataAfetacao": "12/12/2023",
-      "dataJulgamento": "",
+      "dataJulgamento": "15/09/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1225&cod_tema_final=1225",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222005469%22&O=JT",
@@ -35297,7 +35297,7 @@
     },
     "1229": {
       "numero": 1229,
-      "situacao": "Acórdão Publicado - RE Pendente",
+      "situacao": "Trânsito em Julgado",
       "ramo": "DIREITO PROCESSUAL CIVIL E DO TRABALHO",
       "assuntos": [
         "DIREITO PROCESSUAL CIVIL E DO TRABALHO",
@@ -35326,18 +35326,18 @@
     },
     "1230": {
       "numero": 1230,
-      "situacao": "Em Julgamento",
+      "situacao": "Acórdão Publicado",
       "ramo": "Compromisso",
       "assuntos": [
         "Compromisso"
       ],
       "questao": "Alcance da exceção prevista no § 2º do art. 833 do CPC, em relação à regra da impenhorabilidade da verba de natureza salarial tratada no inciso IV do mesmo dispositivo, para efeito de pagamento de dívidas não alimentares, inclusive quando a renda do devedor for inferior a cinquenta (50) salários mínimos.",
-      "teseFirmada": "",
+      "teseFirmada": "A regra geral da impenhorabilidade de verbas de natureza remuneratória (CPC de 2015, art. 833, IV) pode ser mitigada, em caráter excepcional, para pagamento de dívida de natureza não alimentar, desde que:(a) inviabilizados outros meios executórios que possam garantir a efetividade da execução; e(b) comprovado que a constrição não comprometa a subsistência digna do devedor e de sua família, cabendo a este o respectivo ônus probatório.",
       "orgaoJulgador": "Corte Especial",
       "processo": "REsp 1894973/PR",
       "relator": "RAUL ARAÚJO",
       "dataAfetacao": "20/12/2023",
-      "dataJulgamento": "",
+      "dataJulgamento": "15/09/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1230&cod_tema_final=1230",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%221894973%22&O=JT",
@@ -35886,14 +35886,14 @@
     },
     "1250": {
       "numero": 1250,
-      "situacao": "Mérito Julgado",
+      "situacao": "Acórdão Publicado",
       "ramo": "Recuperação judicial e Falência",
       "assuntos": [
         "Recuperação judicial e Falência",
         "Honorários Advocatícios"
       ],
       "questao": "Definir se é devida a condenação em honorários advocatícios sucumbenciais - em caso de acolhimento do incidente de impugnação ao crédito - nas ações de recuperação judicial e de falência.",
-      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
+      "teseFirmada": "Nos incidentes de habilitação e de impugnação de crédito em processos de recuperação judicial ou de falência:I) a condenação ao pagamento de honorários de sucumbência exige a efetiva instauração de controvérsia judicial entre as partes.II) a base de cálculo dos honorários deve observar a natureza da controvérsia instaurada, considerando-se como critérios orientadores:a) nas hipóteses em que se discuta a existência ou o valor do crédito, deve-se priorizar o proveito econômico, correspondente ao valor efetivamente controvertido;b) nas hipóteses em que se discuta a exigibilidade, a natureza, a classificação do crédito ou a legitimidade da parte, os honorários devem ser fixados com base na equidade.",
       "orgaoJulgador": "Segunda Seção",
       "processo": "REsp 2090060/SP",
       "relator": "HUMBERTO MARTINS",
@@ -36276,7 +36276,7 @@
     },
     "1264": {
       "numero": 1264,
-      "situacao": "Afetado",
+      "situacao": "Em Julgamento",
       "ramo": "Bancários",
       "assuntos": [
         "Bancários"
@@ -36611,19 +36611,19 @@
     },
     "1276": {
       "numero": 1276,
-      "situacao": "Afetado",
+      "situacao": "Acórdão Publicado",
       "ramo": "Cofins",
       "assuntos": [
         "Cofins",
         "PIS"
       ],
       "questao": "Decidir sobre a possibilidade de exclusão da base de cálculo das contribuições ao PIS/PASEP e COFINS do montante da contribuição previdenciária substitutiva incidente sobre a receita bruta (CPRB) considerando a identidade dos fatos geradores dos tributos.",
-      "teseFirmada": "",
+      "teseFirmada": "A contribuição previdenciária substitutiva incidente sobre a receita bruta (CPRB) compõe as bases de cálculo da contribuição ao PIS/Pasep e da Cofins, não podendo delas ser excluída.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2123906/SP",
       "relator": "MAURO CAMPBELL MARQUES",
       "dataAfetacao": "20/08/2024",
-      "dataJulgamento": "",
+      "dataJulgamento": "09/09/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1276&cod_tema_final=1276",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222123906%22&O=JT",
@@ -36753,18 +36753,18 @@
     },
     "1281": {
       "numero": 1281,
-      "situacao": "Afetado",
+      "situacao": "Acórdão Publicado",
       "ramo": "Limitada",
       "assuntos": [
         "Limitada"
       ],
       "questao": "Possibilidade da aplicação do princípio da fungibilidade em apelação interposta contra ato judicial que julga a primeira fase da ação de exigir/prestar contas, ou sua impossibilidade, por se tratar de erro grosseiro, pelo entendimento de ser uma decisão parcial de mérito, quando procedente, desafiando o recurso de agravo de instrumento, ou terminativa de mérito, quando improcedente, a autorizar o manejo da apelação.",
-      "teseFirmada": "",
+      "teseFirmada": "O ato judicial que julga procedente a primeira fase da ação de exigir/prestar contas é decisão interlocutória (parcial de mérito), impugnável por agravo de instrumento; neste caso, a apelação é erro grosseiro, salvo hipóteses de imprecisão jurisdicional conhecível de plano, quando se admite, excepcionalmente, a fungibilidade.",
       "orgaoJulgador": "Segunda Seção",
       "processo": "REsp 2109502/SP",
       "relator": "MOURA RIBEIRO",
       "dataAfetacao": "16/09/2024",
-      "dataJulgamento": "",
+      "dataJulgamento": "09/09/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1281&cod_tema_final=1281",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222109502%22&O=JT",
@@ -37338,7 +37338,7 @@
     },
     "1302": {
       "numero": 1302,
-      "situacao": "Afetado",
+      "situacao": "Em Julgamento",
       "ramo": "DIREITO CIVIL",
       "assuntos": [
         "DIREITO CIVIL",
@@ -37395,7 +37395,7 @@
     },
     "1304": {
       "numero": 1304,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Acórdão Publicado - RE Pendente",
       "ramo": "IPI/ Imposto sobre Produtos Industrializados",
       "assuntos": [
         "IPI/ Imposto sobre Produtos Industrializados"
@@ -37708,7 +37708,7 @@
     },
     "1315": {
       "numero": 1315,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Trânsito em Julgado",
       "ramo": "Indenização por Dano Moral",
       "assuntos": [
         "Indenização por Dano Moral"
@@ -38041,19 +38041,19 @@
     },
     "1327": {
       "numero": 1327,
-      "situacao": "Afetado",
+      "situacao": "Acórdão Publicado",
       "ramo": "Anuidades OAB",
       "assuntos": [
         "Anuidades OAB",
         "Multas e demais Sanções"
       ],
       "questao": "Possibilidade de aplicação retroativa da Resolução ANTT 5.847/2019, por ser mais benéfica ao infrator, ainda que a infração cometida seja anterior à sua edição.",
-      "teseFirmada": "",
+      "teseFirmada": "1) A sanção administrativa prevista na Resolução ANTT 5.847/2019, ainda que mais benéfica ao infrator, não retroage para incidir sobre condutas e sanções aplicadas regularmente à luz da norma vigente à época dos fatos.2) A penalidade administrativa deve se basear pelo princípio do tempus regit actum, salvo se houver previsão legal, específica e expressa, autorizativa de aplicação do normativo mais benéfico posterior às condutas pretéritas.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2175768/RJ",
       "relator": "PAULO SÉRGIO DOMINGUES",
       "dataAfetacao": "10/04/2025",
-      "dataJulgamento": "",
+      "dataJulgamento": "09/09/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1327&cod_tema_final=1327",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222175768%22&O=JT",
@@ -38069,7 +38069,7 @@
     },
     "1328": {
       "numero": 1328,
-      "situacao": "Afetado",
+      "situacao": "Cancelado",
       "ramo": "Contratos Bancários",
       "assuntos": [
         "Contratos Bancários",
@@ -38081,7 +38081,7 @@
       "orgaoJulgador": "Segunda Seção",
       "processo": "REsp 2145244/SC",
       "relator": "RAUL ARAÚJO",
-      "dataAfetacao": "11/04/2025",
+      "dataAfetacao": "",
       "dataJulgamento": "",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1328&cod_tema_final=1328",
@@ -38883,7 +38883,7 @@
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 2006460/SP",
       "relator": "CARLOS CINI MARCHIONATTI (DESEMBARGADOR CONVOCADO TJRS)",
-      "dataAfetacao": "11/06/2025",
+      "dataAfetacao": "",
       "dataJulgamento": "",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1356&cod_tema_final=1356",
@@ -39441,18 +39441,18 @@
     },
     "1376": {
       "numero": 1376,
-      "situacao": "Mérito Julgado",
+      "situacao": "Cancelado",
       "ramo": "Pena Privativa de Liberdade",
       "assuntos": [
         "Pena Privativa de Liberdade"
       ],
       "questao": "Definir se, ao reeducando que recebeu o benefício de remição da pena, em razão da aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA), poderá ser concedida nova remição, na mesma execução penal, devido à superveniente aprovação no Exame Nacional do Ensino Médio (ENEM).",
-      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
+      "teseFirmada": "",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 2208609/RS",
       "relator": "CARLOS CINI MARCHIONATTI (DESEMBARGADOR CONVOCADO TJRS)",
-      "dataAfetacao": "02/09/2025",
-      "dataJulgamento": "03/09/2026",
+      "dataAfetacao": "",
+      "dataJulgamento": "",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1376&cod_tema_final=1376",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222208609%22&O=JT",
@@ -39642,7 +39642,7 @@
     },
     "1383": {
       "numero": 1383,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Trânsito em Julgado",
       "ramo": "Extinção da Punibilidade",
       "assuntos": [
         "Extinção da Punibilidade",
@@ -39670,7 +39670,7 @@
     },
     "1384": {
       "numero": 1384,
-      "situacao": "Afetado",
+      "situacao": "Mérito Julgado",
       "ramo": "Reintegração de Posse",
       "assuntos": [
         "Reintegração de Posse",
@@ -39678,12 +39678,12 @@
         "Reintegração de Posse"
       ],
       "questao": "Estabelecer se a União, o DNIT e/ou a ANTT devem obrigatoriamente participar de ações possessórias ajuizadas por concessionárias de serviços públicos federais contra particulares que ocupam faixas de domínio de ferrovias ou rodovias federais, independentemente de sua manifestação de vontade, ou se a declaração de ausência de interesse jurídico por esses entes é suficiente para afastar a competência da Justiça Federal, deslocando o feito para a Justiça estadual.",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2195089/RS",
       "relator": "GURGEL DE FARIA",
       "dataAfetacao": "22/09/2025",
-      "dataJulgamento": "",
+      "dataJulgamento": "09/09/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1384&cod_tema_final=1384",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222195089%22&O=JT",
@@ -40081,18 +40081,18 @@
     },
     "1399": {
       "numero": 1399,
-      "situacao": "Afetado",
+      "situacao": "Acórdão Publicado",
       "ramo": "Gratificações de Atividade",
       "assuntos": [
         "Gratificações de Atividade"
       ],
       "questao": "Definir se, na execução individual de sentença coletiva, extinta em decorrência da desconstituição do título judicial que lhe dava suporte, operada pela procedência de ação rescisória manejada pela Fazenda Pública, é cabível ou não a condenação da parte exequente ao pagamento de honorários advocatícios.",
-      "teseFirmada": "",
+      "teseFirmada": "Na execução individual de sentença coletiva, extinta em decorrência da desconstituição do título judicial que lhe dava suporte, operada pela procedência de ação rescisória manejada pela Fazenda Pública, não é cabível a condenação, de qualquer das partes, ao pagamento de honorários advocatícios.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2199392/RJ",
       "relator": "MARCO AURÉLIO BELLIZZE",
       "dataAfetacao": "18/12/2025",
-      "dataJulgamento": "",
+      "dataJulgamento": "09/09/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1399&cod_tema_final=1399",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222199392%22&O=JT",
@@ -40193,7 +40193,7 @@
     },
     "1403": {
       "numero": 1403,
-      "situacao": "Afetado",
+      "situacao": "Em Julgamento",
       "ramo": "DIREITO PENAL",
       "assuntos": [
         "DIREITO PENAL"
@@ -40276,13 +40276,13 @@
     },
     "1406": {
       "numero": 1406,
-      "situacao": "Mérito Julgado",
+      "situacao": "Acórdão Publicado",
       "ramo": "Cédula de Crédito Rural",
       "assuntos": [
         "Cédula de Crédito Rural"
       ],
       "questao": "Definir se as Leis 11.775/2008, 12.716/2012, 12.844/2013, 13.001/2014, 13.340/2016, 13.306/2018, 13.606/2018 e 13.729/2018 - que instituíram medidas de estímulo à liquidação ou renegociação de operações de crédito rural - suspenderam automaticamente o prazo de prescrição nas execuções fundadas em título executivo extrajudicial ou judicial, ou se a referida suspensão estava condicionada à manifestação expressa do executado quanto ao interesse em renegociar ou liquidar a dívida.",
-      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
+      "teseFirmada": "I - A suspensão do prazo prescricional prevista nas leis que instituíram medidas de liquidação ou renegociação de dívidas de crédito rural opera de pleno direito, independentemente de manifestação ou adesão do devedor, quando o respectivo dispositivo legal a estabelecer diretamente para as operações nele enquadráveis.II - A suspensão somente dependerá de manifestação, adesão ou outra providência do devedor quando o próprio dispositivo legal expressamente a estabelecer como condição para a sua incidência, observados os requisitos objetivos de enquadramento da operação.",
       "orgaoJulgador": "Corte Especial",
       "processo": "REsp 2219068/MA",
       "relator": "RAUL ARAÚJO",
@@ -40419,7 +40419,7 @@
     },
     "1413": {
       "numero": 1413,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Trânsito em Julgado",
       "ramo": "Dívida Ativa (Execução Fiscal)",
       "assuntos": [
         "Dívida Ativa (Execução Fiscal)",
@@ -40446,7 +40446,7 @@
       "assuntos": [
         "Cartão de Crédito"
       ],
-      "questao": "Delimitação da controvérsia nos seguintes termos:I) Definir parâmetros objetivos para a aferição da validade e eventual caráter abusivo dos contratos de cartão de crédito consignado, considerando: (i) o dever de prestar informações suficientes, claras e adequadas ao consumidor,em especial quando este alega que pretendia contratar simples empréstimo consignado; e (ii) o prolongamento indeterminado da dívida, ante a aparente insuficiência dos descontos mensais para amortizá-la, frente aos juros rotativos aplicados no refinanciamento do saldo.II) Em caso de invalidação do contrato, aferir se a consequência a ser adotada deverá ser a restituição das partes ao estado anterior, a conversão do contrato em empréstimo consignado ou a revisão das cláusulas contratuais, bem como se haverá configuração de dano moral in re ipsa.",
+      "questao": "I - Definir se os alegados vícios que atingem os contratos de cartão de crédito com reserva de margem consignável (RMC) sujeitam a pretensão do autor:a) ao prazo decadencial do art. 178 do Código Civil, com fixação do termo inicial de contagem desse prazo; oub) não se sujeitam a prazos extintivos em razão de nulidade, conforme o art. 169 do CC.II - Definir parâmetros objetivos para a aferição da validade e eventual caráter abusivo dos contratos de cartão de crédito consignado, considerando:a) o dever de prestar informações suficientes, claras e adequadas ao consumidor, em especial quando este alega que pretendia contratar simples empréstimo consignado; eb) o prolongamento indeterminado da dívida, ante a aparente insuficiência dos descontos mensais para amortizá-la, frente aos juros rotativos aplicados no refinanciamento do saldo.III - Em caso de vício no contrato, aferir se a consequência a ser adotada deverá ser:a) a restituição das partes ao estado anterior;b) a conversão do contrato em empréstimo consignado; ouc) a revisão de cláusulas contratuais; ed) se haverá configuração de dano moral in re ipsa.",
       "teseFirmada": "",
       "orgaoJulgador": "Segunda Seção",
       "processo": "REsp 2224599/PE",
@@ -41293,7 +41293,7 @@
     },
     "1455": {
       "numero": 1455,
-      "situacao": "Afetado",
+      "situacao": "Acórdão Publicado",
       "ramo": "Cofins",
       "assuntos": [
         "Cofins",
@@ -41301,12 +41301,12 @@
         "Repetição de indébito"
       ],
       "questao": "Definir se a diferença entre o valor antecipado com base na multiplicação do preço de tabela por multiplicador ou coeficiente e o valor apurado com base no preço de venda efetivamente praticado deve ser restituída ao comerciante varejista de cigarros e de cigarrilhas nas contribuições para o Programa de Integração Social - PIS e para o Financiamento da Seguridade Social - Cofins.",
-      "teseFirmada": "",
+      "teseFirmada": "A diferença entre o valor antecipado com base na multiplicação do preço de tabela por multiplicador ou coeficiente e o valor apurado com base no preço de venda efetivamente praticado não deve ser restituída ao comerciante varejista de cigarros e de cigarrilhas nas contribuições para o Programa de Integração Social - PIS e para o Financiamento da Seguridade Social - Cofins.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2215075/RS",
       "relator": "MARIA THEREZA DE ASSIS MOURA",
       "dataAfetacao": "19/06/2026",
-      "dataJulgamento": "",
+      "dataJulgamento": "09/09/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1455&cod_tema_final=1455",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222215075%22&O=JT",
@@ -41685,6 +41685,26 @@
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1473&cod_tema_final=1473",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222239211%22&O=JT",
         "consultaProcessual": "https://processo.stj.jus.br/processo/pesquisa/?aplicacao=processos.ea&tipoPesquisa=tipoPesquisaNumeroRegistro&termo=202504004315"
+      }
+    },
+    "1474": {
+      "numero": 1474,
+      "situacao": "Afetado",
+      "ramo": "Alienação Fiduciária",
+      "assuntos": [
+        "Alienação Fiduciária"
+      ],
+      "questao": "Definir se, nos contratos bancários, para a cobrança de juros com capitalização diária, basta a previsão contratual da periodicidade diária ou se é indispensável a informação expressa da taxa diária de juros aplicada.",
+      "teseFirmada": "",
+      "orgaoJulgador": "Segunda Seção",
+      "processo": "REsp 2252171/RS",
+      "relator": "RICARDO VILLAS BÔAS CUEVA",
+      "dataAfetacao": "16/09/2026",
+      "dataJulgamento": "",
+      "links": {
+        "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1474&cod_tema_final=1474",
+        "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222252171%22&O=JT",
+        "consultaProcessual": "https://processo.stj.jus.br/processo/pesquisa/?aplicacao=processos.ea&tipoPesquisa=tipoPesquisaNumeroRegistro&termo=202505061042"
       }
     }
   },

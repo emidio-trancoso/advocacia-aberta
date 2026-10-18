@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l9430.json",
       "colecao": "artigos",
-      "sha256": "90ad350731aff0cd4edbc534887bb873ba4e3f89c1713cdb973c2423c3e09248",
+      "sha256": "ebcdff4174d299955144e59651a514b69c3f1be9de300dbf139d747a3b6d78bd",
       "total_registros": 103,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:50:05+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 55,
-      "anotacoes": 271,
+      "anotacoes": 272,
       "anotacoes_sem_diploma_nomeado": 40
     }
   },
@@ -56,6 +56,17 @@
           "diploma": null,
           "trecho": "…rt. 29 e nos arts. 30, 32, 34 e 35 da Lei no 8.981, de 20 de janeiro de 1995. (Redação dada pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 5º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.525",
+            "ano": 2026
+          },
+          "trecho": "… resseguradoras locais de que trata o inciso I do caput do art. 4º da Lei Complementar nº 126, de 15 de janeiro de 2007.",
+          "literal": "(Incluído pela Lei nº 15.525, de 2026)"
         }
       ]
     },

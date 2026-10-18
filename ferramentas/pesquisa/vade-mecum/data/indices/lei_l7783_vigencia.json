@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l7783.json",
       "colecao": "artigos",
-      "sha256": "e174bf1745d52163ff6ecfc959f62e835385d177e5d5c502b55786c18c2d61fe",
+      "sha256": "ab4b7ecc8ef956a0dd58c5aafaf81b2e0e00732a7a6ba6885a817a1a18fb5baa",
       "total_registros": 19,
-      "gerado_em": "2026-08-21T22:36:34+00:00"
+      "gerado_em": "2026-10-18T12:50:02+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 1,
-      "anotacoes": 10,
+      "anotacoes": 8,
       "anotacoes_sem_diploma_nomeado": 1
     }
   },
@@ -67,17 +67,6 @@
           "diploma": null,
           "trecho": "…vegação aérea; e (Redação dada pela Medida Provisória nº 866, de 2018) (Revogada pela Medida Provisória nº 883, de 2019)",
           "literal": "(Vigência Encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso X",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "866",
-            "ano": 2018
-          },
-          "trecho": "X - controle de tráfego aéreo e navegação aérea; e",
-          "literal": "(Redação dada pela Medida Provisória nº 866, de 2018)"
         },
         {
           "tipo": "redacao",
@@ -122,17 +111,6 @@
           },
           "trecho": "…-periciais da carreira de Perito Médico Federal indispensáveis ao atendimento das necessidades inadiáveis da comunidade.",
           "literal": "(Incluído pela Lei nº 13.846, de 2019)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XV",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "945",
-            "ano": 2020
-          },
-          "trecho": "XV - atividades portuárias.",
-          "literal": "(Incluído pela Medida Provisória nº 945, de 2020)"
         },
         {
           "tipo": "inclusao",

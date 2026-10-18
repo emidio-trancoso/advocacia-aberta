@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_l9296.json",
       "colecao": "artigos",
-      "sha256": "4d9631b7d5231a889d9199e2630670527fdcf9ee105c9f1d95c9de42f3d3f23d",
+      "sha256": "71657acc748a6a678a9daf37800af3e6eac8ea6c1900de985cb94f73d482f5be",
       "total_registros": 14,
-      "gerado_em": "2026-08-21T22:36:32+00:00"
+      "gerado_em": "2026-10-18T12:49:53+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 3,
-      "anotacoes": 22,
-      "anotacoes_sem_diploma_nomeado": 7
+      "anotacoes": 20,
+      "anotacoes_sem_diploma_nomeado": 5
     }
   },
   "vigencia": {
@@ -84,13 +84,6 @@
           "literal": "(Incluído pela Lei nº 13.964, de 2019)"
         },
         {
-          "tipo": "veto",
-          "unidade": "§ 2º",
-          "diploma": null,
-          "trecho": "§ 2º",
-          "literal": "(VETADO)"
-        },
-        {
           "tipo": "inclusao",
           "unidade": "§ 2º",
           "diploma": {
@@ -118,13 +111,6 @@
           },
           "trecho": "…omprovada a indispensabilidade do meio de prova e quando presente atividade criminal permanente, habitual ou continuada.",
           "literal": "(Incluído pela Lei nº 13.964, de 2019)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "§ 4º",
-          "diploma": null,
-          "trecho": "§ 4º",
-          "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",

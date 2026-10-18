@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l11598.json",
       "colecao": "artigos",
-      "sha256": "c335906096d5584fb26fcafe23d7f4bb8d564e188bea8f17a633a7d963c807e8",
+      "sha256": "4a2f1756b5d7555d81add5553a72947361e762a84976e68b16bd68054d050d5e",
       "total_registros": 24,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:49:47+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 13,
-      "anotacoes": 68,
+      "anotacoes": 65,
       "anotacoes_sem_diploma_nomeado": 11
     }
   },
@@ -39,28 +39,6 @@
     "2": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "revogacao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.040",
-            "ano": 2021
-          },
-          "trecho": "…envolvimento, Indústria e Comércio Exterior, e sua composição, estrutura e funcionamento serão definidos em regulamento.",
-          "literal": "(Revogado dada pela Medida Provisória nº 1.040, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.040",
-            "ano": 2021
-          },
-          "trecho": "§ 1º A Redesim será administrada por um Comitê Gestor presidido pelo Ministério da Economia, conforme regulamento.",
-          "literal": "(Incluído pela Medida Provisória nº 1.040, de 2021)"
-        },
         {
           "tipo": "inclusao",
           "unidade": "§ 1º",
@@ -71,17 +49,6 @@
           },
           "trecho": "…e Negócios (CGSIM), presidido por representante indicado pelo Ministro de Estado da Economia, nos termos de regulamento.",
           "literal": "(Incluído pela Lei nº 14.195, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.040",
-            "ano": 2021
-          },
-          "trecho": "…egistro e legalização de empresários e pessoas jurídicas e no processo de licenciamento e autorizações de funcionamento.",
-          "literal": "(Incluído pela Medida Provisória nº 1.040, de 2021)"
         },
         {
           "tipo": "inclusao",
@@ -124,17 +91,6 @@
         {
           "tipo": "revogacao",
           "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.040",
-            "ano": 2021
-          },
-          "trecho": "…ato constitutivo ou de sua alteração deverão bastar a que o usuário seja informado pelos órgãos e entidades competentes:",
-          "literal": "(Revogado dada pela Medida Provisória nº 1.040, de 2021)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º",
           "literal": "(Revogado)"
@@ -149,17 +105,6 @@
           },
           "trecho": "§ 1º (Revogado).",
           "literal": "(Redação dada pela Lei nº 14.195, de 2021)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.040",
-            "ano": 2021
-          },
-          "trecho": "…descrição oficial do endereço de seu interesse e da possibilidade de exercício da atividade desejada no local escolhido;",
-          "literal": "(Revogado dada pela Medida Provisória nº 1.040, de 2021)"
         },
         {
           "tipo": "revogacao",
@@ -182,17 +127,6 @@
         {
           "tipo": "revogacao",
           "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.040",
-            "ano": 2021
-          },
-          "trecho": "…s de autorização de funcionamento, segundo a natureza da atividade pretendida, o porte, o grau de risco e a localização;",
-          "literal": "(Revogado dada pela Medida Provisória nº 1.040, de 2021)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "inciso II",
           "diploma": null,
           "trecho": "II -",
           "literal": "(revogado)"
@@ -207,17 +141,6 @@
           },
           "trecho": "II - (revogado);",
           "literal": "(Redação dada pela Lei nº 14.195, de 2021)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.040",
-            "ano": 2021
-          },
-          "trecho": "…ssibilidade de uso do nome empresarial ou de denominação de sociedade simples, associação ou fundação, de seu interesse.",
-          "literal": "(Revogado dada pela Medida Provisória nº 1.040, de 2021)"
         },
         {
           "tipo": "revogacao",
@@ -240,17 +163,6 @@
         {
           "tipo": "revogacao",
           "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.040",
-            "ano": 2021
-          },
-          "trecho": "… órgão executor do Registro Público de Empresas Mercantis e Atividades Afins ou de Registro Civil das Pessoas Jurídicas.",
-          "literal": "(Revogado dada pela Medida Provisória nº 1.040, de 2021)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º",
           "literal": "(Revogado)"
@@ -269,17 +181,6 @@
         {
           "tipo": "revogacao",
           "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.040",
-            "ano": 2021
-          },
-          "trecho": "…rio ou sócio indicado na consulta, pelo prazo de 48 (quarenta e oito) horas, contadas da manifestação oficial favorável.",
-          "literal": "(Revogado dada pela Medida Provisória nº 1.040, de 2021)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º",
           "literal": "(Revogado)"
@@ -294,17 +195,6 @@
           },
           "trecho": "§ 3º (Revogado).",
           "literal": "(Redação dada pela Lei nº 14.195, de 2021)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.040",
-            "ano": 2021
-          },
-          "trecho": "§ 4o A pesquisa prévia de que tratam o caput e inciso III do § 1o deste artigo será gratuita.",
-          "literal": "(Revogado dada pela Medida Provisória nº 1.040, de 2021)"
         },
         {
           "tipo": "revogacao",
@@ -328,17 +218,6 @@
           "tipo": "inclusao",
           "unidade": "§ 5º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "881",
-            "ano": 2019
-          },
-          "trecho": "…pótese que, a autodeclaração de enquadramento será requerimento suficiente, até que seja apresentada prova em contrário.",
-          "literal": "(Incluído pela Medida Provisória nº 881, de 2019)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 5º",
-          "diploma": {
             "especie": "Lei",
             "numero": "13.874",
             "ano": 2019
@@ -355,12 +234,34 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.040",
+            "especie": "Lei",
+            "numero": "14.195",
             "ano": 2021
           },
-          "trecho": "…o do disposto no § 1º do art. 3º da Lei nº 13.874, de 20 de setembro de 2019, e observado o disposto no § 5º do art. 4º.",
-          "literal": "(Incluído pela Medida Provisória nº 1.040, de 2021)"
+          "trecho": "…sto no § 1º do art. 3º da Lei nº 13.874, de 20 de setembro de 2019, e observado o disposto no § 5º do art. 4º desta Lei.",
+          "literal": "(Incluído pela Lei nº 14.195, de 2021)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 1º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.195",
+            "ano": 2021
+          },
+          "trecho": "…a classificação de atividades, o ente federativo que editar a norma específica informará a alteração realizada ao CGSIM.",
+          "literal": "(Incluído pela Lei nº 14.195, de 2021)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.195",
+            "ano": 2021
+          },
+          "trecho": "…tatado o descumprimento de requisitos ou de condições, vedada a atribuição de prazo de vigência por tempo indeterminado.",
+          "literal": "(Incluído pela Lei nº 14.195, de 2021)"
         }
       ]
     },
@@ -718,12 +619,78 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.040",
+            "especie": "Lei",
+            "numero": "14.195",
             "ano": 2021
           },
-          "trecho": "Art. 11-A. Não poderão ser exigidos, no processo de registro de empresários e pessoas jurídicas realizado pela Redesim:",
-          "literal": "(Incluído pela Medida Provisória nº 1.040, de 2021)"
+          "trecho": "…resários, incluídos produtores rurais estabelecidos como pessoas físicas, e de pessoas jurídicas realizado pela Redesim:",
+          "literal": "(Incluído pela Lei nº 14.195, de 2021)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso I",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.195",
+            "ano": 2021
+          },
+          "trecho": "…ção cadastral única, nos termos do inciso III do caput do art. 8º da Lei Complementar nº 123, de 14 de dezembro de 2006;",
+          "literal": "(Incluído pela Lei nº 14.195, de 2021)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso II",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.195",
+            "ano": 2021
+          },
+          "trecho": "II - dados ou informações que constem da base de dados do governo federal;",
+          "literal": "(Incluído pela Lei nº 14.195, de 2021)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso III",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.195",
+            "ano": 2021
+          },
+          "trecho": "…inclusive no CNPJ, e para a emissão das licenças e dos alvarás para o funcionamento do empresário ou da pessoa jurídica.",
+          "literal": "(Incluído pela Lei nº 14.195, de 2021)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 1º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.195",
+            "ano": 2021
+          },
+          "trecho": "…os respectivos entes federativos deverão adaptar seus sistemas, de modo que o CNPJ seja o único identificador cadastral.",
+          "literal": "(Incluído pela Lei nº 14.195, de 2021)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.195",
+            "ano": 2021
+          },
+          "trecho": "…o de inscrições fiscais, devendo o sistema federal compartilhar os dados coletados com os órgãos estaduais e municipais.",
+          "literal": "(Incluído pela Lei nº 14.195, de 2021)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 3º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.195",
+            "ano": 2021
+          },
+          "trecho": "§ 3º Os dados coletados para inscrições e para licenças deverão ser previamente aprovados pelo CGSIM.",
+          "literal": "(Incluído pela Lei nº 14.195, de 2021)"
         }
       ]
     },

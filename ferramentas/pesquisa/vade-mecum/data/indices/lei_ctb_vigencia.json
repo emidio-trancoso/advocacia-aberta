@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_ctb.json",
       "colecao": "artigos",
-      "sha256": "ac80a3899b24e73d245e17aa5dc08ffedfb8b366087ae128c56d97985536d318",
+      "sha256": "804e942ad176b8d36724883600df75726719626347b2fb4b74ab17fff585feca",
       "total_registros": 391,
-      "gerado_em": "2026-09-14T13:55:51+00:00"
+      "gerado_em": "2026-10-18T12:46:43+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 208,
-      "anotacoes": 1289,
+      "anotacoes": 1292,
       "anotacoes_sem_diploma_nomeado": 515
     }
   },
@@ -4447,15 +4447,26 @@
       "situacao": null,
       "eventos": [
         {
-          "tipo": "redacao",
+          "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.360",
-            "ano": 2026
+            "especie": "Lei",
+            "numero": "12.009",
+            "ano": 2009
           },
-          "trecho": "…letas e motonetas destinadas ao transporte remunerado de mercadorias (moto-frete) somente poderão circular nas vias com:",
-          "literal": "(Redação dada pela Medida Provisória nº 1.360, de 2026)"
+          "trecho": "…rização emitida pelo órgão ou entidade executivo de trânsito dos Estados e do Distrito Federal, exigindo-se, para tanto:",
+          "literal": "(Incluído pela Lei nº 12.009, de 2009)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso I",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "12.009",
+            "ano": 2009
+          },
+          "trecho": "I – registro como veículo da categoria de aluguel;",
+          "literal": "(Incluído pela Lei nº 12.009, de 2009)"
         },
         {
           "tipo": "revogacao",
@@ -4465,7 +4476,7 @@
             "numero": "1.360",
             "ano": 2026
           },
-          "trecho": "I –",
+          "trecho": "I – registro como veículo da categoria de aluguel; (Incluído pela Lei nº 12.009, de 2009)",
           "literal": "(Revogado pela Medida Provisória nº 1.360, de 2026)"
         },
         {
@@ -4491,6 +4502,17 @@
           "literal": "(Incluído pela Lei nº 12.009, de 2009)"
         },
         {
+          "tipo": "inclusao",
+          "unidade": "inciso IV",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "12.009",
+            "ano": 2009
+          },
+          "trecho": "IV – inspeção semestral para verificação dos equipamentos obrigatórios e de segurança.",
+          "literal": "(Incluído pela Lei nº 12.009, de 2009)"
+        },
+        {
           "tipo": "revogacao",
           "unidade": "inciso IV",
           "diploma": {
@@ -4498,7 +4520,7 @@
             "numero": "1.360",
             "ano": 2026
           },
-          "trecho": "IV –",
+          "trecho": "…inspeção semestral para verificação dos equipamentos obrigatórios e de segurança. (Incluído pela Lei nº 12.009, de 2009)",
           "literal": "(Revogado pela Medida Provisória nº 1.360, de 2026)"
         },
         {
@@ -4637,6 +4659,17 @@
           },
           "trecho": "…so não exceda a 6.000 kg (seis mil quilogramas), ou cuja lotação não exceda a 8 (oito) lugares, excluído o do motorista.",
           "literal": "(Incluído pela Lei nº 12.452, de 2011)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.503",
+            "ano": 2026
+          },
+          "trecho": "…o mil, duzentos e cinquenta quilogramas), observados eventuais critérios adicionais dispostos em regulamento do Contran.",
+          "literal": "(Incluído pela Lei nº 15.503, de 2026)"
         },
         {
           "tipo": "renumeracao",

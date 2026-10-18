@@ -6,14 +6,14 @@
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm",
     "total_artigos": 26,
     "version": "2.0",
-    "gerado_em": "2026-09-14T13:56:05+00:00",
+    "gerado_em": "2026-10-18T12:49:44+00:00",
     "transformacao": "planalto_html_v1",
     "registros_retidos_sem_correspondencia": []
   },
   "artigos": {
     "1": {
       "numero": "1",
-      "texto": "Art 1º O tratamento tributário das operações de arrendamento mercantil reger-se-á pelas disposições desta Lei.\n\nParágrafo único. Considera-se arrendamento mercantil a operação realizada entre pessoas jurídicas, que tenha por objeto o arrendamento de bens adquiridos a terceiros pela arrendadora, para fins de uso próprio da arrendatária e que atendam às especificações desta.\n\nParágrafo único - Considera-se arrendamento mercantil, para os efeitos desta Lei, o negócio jurídico realizado entre pessoa jurídica, na qualidade de arrendadora, e pessoa física ou jurídica, na qualidade de arrendatária, e que tenha por objeto o arrendamento de bens adquiridos pela arrendadora, segundo especificações da arrendatária e para uso próprio desta. (Redação dada pela Lei nº 7.132, de 1983)",
+      "texto": "Art 1º O tratamento tributário das operações de arrendamento mercantil reger-se-á pelas disposições desta Lei.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%201%C2%BA%20O%20tratamento%20tribut%C3%A1rio%20das%20opera%C3%A7%C3%B5es%20de%20arrendamento%20mercantil%20reger-se-%C3%A1%20pelas%20disposi%C3%A7%C3%B5es%20desta%20Lei.",
       "keywords": [],
       "hierarchy": {
@@ -141,7 +141,7 @@
     },
     "8": {
       "numero": "8",
-      "texto": "Art. 8o O Conselho Monetário Nacional poderá baixar resolução disciplinando as condições segundo as quais as instituições financeiras poderão financiar suas controladas, coligadas ou interdependentes que se especializarem em operações de arrendamento mercantil. (Redação dada pela Medida Provisória nº 442, de 2008). Parágrafo único. A aquisição de debêntures emitidas por sociedades de arrendamento mercantil, em mercado primário ou secundário, constitui obrigação de natureza cambial, não caracterizando operação de empréstimo ou adiantamento. (Incluído pela Medida Provisória nº 442, de 2008).",
+      "texto": "Art. 8o O Conselho Monetário Nacional poderá baixar resolução disciplinando as condições segundo as quais as instituições financeiras poderão financiar suas controladas, coligadas ou interdependentes que se especializarem em operações de arrendamento mercantil. (Redação dada pela Lei nº 11.882, de 2008)\n\nParágrafo único. A aquisição de debêntures emitidas por sociedades de arrendamento mercantil em mercado primário ou secundário constitui obrigação de natureza cambiária, não caracterizando operação de empréstimo ou adiantamento. (Redação dada pela Lei nº 11.882, de 2008)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%208%C2%BA%20O%20Conselho%20Monet%C3%A1rio%20Nacional%20poder%C3%A1%20baixar%20resolu%C3%A7%C3%A3o%20disciplinando%20as%20condi%C3%A7%C3%B5es%20segundo%20as%20quais%20as%20institui%C3%A7%C3%B5es%20financeiras%20poder%C3%A3o%20financiar%20suas%20coligadas",
       "keywords": [],
       "hierarchy": {
@@ -157,7 +157,7 @@
     },
     "9": {
       "numero": "9",
-      "texto": "Art 9º As operações de arrendamento mercantil contratadas com o próprio vendedor do bem ou com pessoas jurídicas a ele vinculadas, mediante qualquer das relações previstas no artigo 2º desta Lei, poderão enquadrar-se no tratamento tributário previsto nesta Lei.\n\n§ 1º Serão privativas das instituições financeiras as operações de que trata este artigo.\n\n§ 2º O Conselho Monetário Nacional estabelecerá às condições para a realização das operações previstas neste artigo.\n\n§ 3º Nos casos deste artigo, não se admitirá a dedução do prejuízo decorrente da venda dos bens, quando da apuração do lucro tributável pelo imposto de renda.",
+      "texto": "Art. 9º - As operações de arrendamento mercantil contratadas com o próprio vendedor do bem ou com pessoas jurídicas a ele vinculadas, mediante quaisquer das relações previstas no art. 2º desta Lei, poderão também ser realizadas por instituições financeiras expressamente autorizadas pelo Conselho Monetário Nacional, que estabelecerá as condições para a realização das operações previstas neste artigo. (Redação dada pela Lei nº 7.132, de 1983)\n\nParágrafo único - Nos casos deste artigo, o prejuízo decorrente da venda do bem não será dedutível na determinação do lucro real. (Incluído pela Lei nº 7.132, de 1983)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%209%C2%BA%20As%20opera%C3%A7%C3%B5es%20de%20arrendamento%20mercantil%20contratadas%20com%20o%20pr%C3%B3prio%20vendedor%20do%20bem%20ou%20com%20pessoas%20jur%C3%ADdicas%20a%20ele%20vinculadas%2C%20mediante",
       "keywords": [],
       "hierarchy": {
@@ -333,7 +333,7 @@
     },
     "20": {
       "numero": "20",
-      "texto": "Art 20. São assegurados ao vendedor dos bens de que trata o artigo anterior todos os benefícios fiscais concedidos por lei para incentivo a exportação, observadas as condições de qualidade da pessoa do vendedor e outras exigidas para os casos de exportação direta ou indireta. (Vide Decreto-Lei nº 2.397, de 1987) (Vide Decreto-Lei nº 2.413, de 1988)\n\n§ 1º Os benefícios fiscais de que trata este artigo serão concedidos sobre o equivalente em moeda nacional de garantia irrevogável do pagamento das contraprestações do arrendamento contratado, limitada a base de cálculo ao preço da compra e venda.\n\n§ 2º Para os fins do parágrafo anterior, a equivalência em moeda nacional será determinada pela maior taxa de câmbio do dia da utilização dos benefícios fiscais.\n\n§ 2o Para os fins do disposto no § 1o, a equivalência em moeda nacional será determinada pela maior taxa de câmbio do dia da utilização dos benefícios fiscais, quando o pagamento das contraprestações do arrendamento contratado for efetivado em moeda estrangeira de livre conversibilidade. (Redação dada pela Lei nº 12.024, de 2009)",
+      "texto": "Art 20. São assegurados ao vendedor dos bens de que trata o artigo anterior todos os benefícios fiscais concedidos por lei para incentivo a exportação, observadas as condições de qualidade da pessoa do vendedor e outras exigidas para os casos de exportação direta ou indireta. (Vide Decreto-Lei nº 2.397, de 1987) (Vide Decreto-Lei nº 2.413, de 1988)\n\n§ 1º Os benefícios fiscais de que trata este artigo serão concedidos sobre o equivalente em moeda nacional de garantia irrevogável do pagamento das contraprestações do arrendamento contratado, limitada a base de cálculo ao preço da compra e venda.\n\n§ 2o Para os fins do disposto no § 1o, a equivalência em moeda nacional será determinada pela maior taxa de câmbio do dia da utilização dos benefícios fiscais, quando o pagamento das contraprestações do arrendamento contratado for efetivado em moeda estrangeira de livre conversibilidade. (Redação dada pela Lei nº 12.024, de 2009)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%2020.%20S%C3%A3o%20assegurados%20ao%20vendedor%20dos%20bens%20de%20que%20trata%20o%20artigo%20anterior%20todos%20os%20benef%C3%ADcios%20fiscais%20concedidos%20por%20lei%20para",
       "keywords": [],
       "hierarchy": {
@@ -381,7 +381,7 @@
     },
     "23": {
       "numero": "23",
-      "texto": "Art 23. Fica o Conselho Monetário Nacional autorizado a:\n\na) baixar normas que visem estabelecer mecanismos reguladores das atividades previstas nesta Lei, inclusive excluir modalidades de operações do tratamento nela previsto;\n\na) expedir normas que visem a estabelecer mecanismos reguladores das atividades previstas nesta Lei, inclusive excluir modalidades de operações do tratamento neIa previsto e limitar ou proibir sua prática por determinadas categorias de pessoas físicas ou jurídicas; (Redação dada pela Lei nº 7.132, de 1983)\n\nb) enumerar restritivamente os bens que não poderão ser objeto de arrendamento mercantil, tendo em vista a política econômica-financeira do País.",
+      "texto": "Art 23. Fica o Conselho Monetário Nacional autorizado a:\n\na) expedir normas que visem a estabelecer mecanismos reguladores das atividades previstas nesta Lei, inclusive excluir modalidades de operações do tratamento neIa previsto e limitar ou proibir sua prática por determinadas categorias de pessoas físicas ou jurídicas; (Redação dada pela Lei nº 7.132, de 1983)\n\nb) enumerar restritivamente os bens que não poderão ser objeto de arrendamento mercantil, tendo em vista a política econômica-financeira do País.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm#:~:text=Art%2023.%20Fica%20o%20Conselho%20Monet%C3%A1rio%20Nacional%20autorizado%20a%3A",
       "keywords": [],
       "hierarchy": {

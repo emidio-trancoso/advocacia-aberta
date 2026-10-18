@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_dl167.json",
       "colecao": "artigos",
-      "sha256": "a4c957817e037fb744e20e6ac3ae40f9e26c2c8f89fb8939f9744f030d453d52",
+      "sha256": "737347289c247f1f43d7735bf07281c4dd9768111641b2458fec295674fab1f5",
       "total_registros": 84,
-      "gerado_em": "2026-08-21T22:36:32+00:00"
+      "gerado_em": "2026-10-18T12:49:51+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 20,
-      "anotacoes": 43,
-      "anotacoes_sem_diploma_nomeado": 0
+      "artigos_com_anotacao": 15,
+      "anotacoes": 39,
+      "anotacoes_sem_diploma_nomeado": 2
     }
   },
   "vigencia": {
@@ -43,78 +43,78 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
           "trecho": "Art. 10-A. A cédula de crédito rural poderá ser emitida sob a forma escritural em sistema eletrônico de escrituração.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "…caput será mantido em entidade autorizada pelo Banco Central do Brasil a exercer a atividade de escrituração eletrônica.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "…put deste artigo será mantido em entidade autorizada pelo Banco Central do Brasil a exercer a atividade de escrituração.",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 2º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
           "trecho": "§ 2º Compete ao Banco Central do Brasil:",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso I",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "I - estabelecer as condições para o exercício da atividade de escrituração eletrônica de que trata o § 1º; e",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "I - estabelecer as condições para o exercício da atividade de escrituração de que trata o § 1º deste artigo; e",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso II",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "II - autorizar e supervisionar o exercício da atividade prevista no inciso I.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "II - autorizar e supervisionar o exercício da atividade prevista no inciso I deste parágrafo.",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 3º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
           "trecho": "…o, por espécie ou por grupos de entidades que atendam a critérios específicos, dispensada a autorização individualizada.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 4º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
           "trecho": "…radores e os membros de seus órgãos estatutários ou contratuais ao disposto na Lei nº 13.506, de 13 de novembro de 2017.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         }
       ]
     },
@@ -125,23 +125,23 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
           "trecho": "…edirá, mediante solicitação, certidão de inteiro teor do título, inclusive para fins de protesto e de execução judicial.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "parágrafo único",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
           "trecho": "…da na forma eletrônica, observados os requisitos de segurança que garantam a autenticidade e a integridade do documento.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         }
       ]
     },
@@ -152,12 +152,12 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "…tar aspectos relativos à emissão, à negociação e à liquidação da Cédula de Crédito Rural emitida sob a forma escritural.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "…tar aspectos relativos à emissão, à negociação e à liquidação da cédula de crédito rural emitida sob a forma escritural.",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         }
       ]
     },
@@ -168,84 +168,95 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "Art. 10-D. O sistema eletrônico de escrituração de que trata o caput do art. 10-A registrará:",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "Art. 10-D. O sistema eletrônico de escrituração de que trata o caput do art. 10-A deste Decreto-Lei fará constar:",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso I",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "I - a emissão do título com seus requisitos essenciais;",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "I - os requisitos essenciais do título;",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso II",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "II - o endosso;",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "II - o endosso e a respectiva cadeia de endossos, se houver;",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso III",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "III - os aditamentos, as ratificações e as retificações de que trata o art. 12; e",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "III - a forma de pagamento ajustada no título;",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso IV",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "…de notificações, de cláusulas contratuais, de informações ou de outras declarações referentes à cédula de crédito rural.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "IV - os aditamentos, as ratificações e as retificações de que trata o art. 12 deste Decreto-Lei;",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso V",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
+          },
+          "trecho": "… notificações, de cláusulas contratuais, de informações ou de outras declarações referentes à cédula de crédito rural; e",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso VI",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
+          },
+          "trecho": "VI - as ocorrências de pagamento, se houver.",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "parágrafo único",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "…o. Na hipótese de serem constituídos gravames e ônus, tal ocorrência será informada no sistema de que trata o art. 10-A.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "…aisquer outros gravames e ônus, tais ocorrências serão informadas no sistema de que trata o art. 10-A deste Decreto-Lei.",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         }
       ]
     },
     "14": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "redacao",
-          "unidade": "inciso IX",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
-          },
-          "trecho": "…peciais, admitida a assinatura sob a forma eletrônica, desde que garantida a identificação inequívoca de seu signatário.",
-          "literal": "(Redação dada pela Medida Provisória nº 897, de 2019)"
-        },
         {
           "tipo": "inclusao",
           "unidade": "§ 3º",
@@ -308,54 +319,6 @@
         }
       ]
     },
-    "20": {
-      "situacao": null,
-      "eventos": [
-        {
-          "tipo": "redacao",
-          "unidade": "inciso IX",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
-          },
-          "trecho": "…peciais, admitida a assinatura sob a forma eletrônica, desde que garantida a identificação inequívoca de seu signatário.",
-          "literal": "(Redação dada pela Medida Provisória nº 897, de 2019)"
-        }
-      ]
-    },
-    "25": {
-      "situacao": null,
-      "eventos": [
-        {
-          "tipo": "redacao",
-          "unidade": "inciso X",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
-          },
-          "trecho": "…peciais, admitida a assinatura sob a forma eletrônica, desde que garantida a identificação inequívoca de seu signatário.",
-          "literal": "(Redação dada pela Medida Provisória nº 897, de 2019)"
-        }
-      ]
-    },
-    "27": {
-      "situacao": null,
-      "eventos": [
-        {
-          "tipo": "redacao",
-          "unidade": "inciso VIII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
-          },
-          "trecho": "…peciais, admitida a assinatura sob a forma eletrônica, desde que garantida a identificação inequívoca de seu signatário.",
-          "literal": "(Redação dada pela Medida Provisória nº 897, de 2019)"
-        }
-      ]
-    },
     "29": {
       "situacao": "revogado",
       "eventos": [
@@ -372,63 +335,9 @@
         }
       ]
     },
-    "30": {
-      "situacao": "revogado",
-      "eventos": [
-        {
-          "tipo": "revogacao",
-          "unidade": "caput",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.986",
-            "ano": 2020
-          },
-          "trecho": "… 30. As cédulas de crédito rural, para terem eficácia contra terceiros, inscrevem-se no Cartório do Registro de Imóveis:",
-          "literal": "(Revogado pela Lei nº 13.986, de 2020 a)"
-        }
-      ]
-    },
-    "32": {
-      "situacao": "revogado",
-      "eventos": [
-        {
-          "tipo": "revogacao",
-          "unidade": "caput",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.986",
-            "ano": 2020
-          },
-          "trecho": "Art 32. A inscrição consistirá na anotação dos seguintes requisitos celulares:",
-          "literal": "(Revogado pela Lei nº 13.986, de 2020 a)"
-        }
-      ]
-    },
     "42": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
-          },
-          "trecho": "…istema eletrônico de escrituração, observado, no que couber, o disposto nos art. 10-A, art. 10-B, art. 10-C e art. 10-D.",
-          "literal": "(Redação dada pela Medida Provisória nº 897, de 2019)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
-          },
-          "trecho": "…es, constitui promessa de pagamento representativa de adiantamento por conta do preço dos produtos recebidos para venda.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
-        },
         {
           "tipo": "inclusao",
           "unidade": "§ 2º",
@@ -439,22 +348,6 @@
           },
           "trecho": "…ma eletrônico de escrituração, observado, no que couber, o disposto nos arts. 10-A, 10-B, 10-C e 10-D deste Decreto-Lei.",
           "literal": "(Incluído pela Lei nº 13.986, de 2020)"
-        }
-      ]
-    },
-    "43": {
-      "situacao": null,
-      "eventos": [
-        {
-          "tipo": "redacao",
-          "unidade": "inciso VIII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
-          },
-          "trecho": "…s especiais, admitida a assinatura sob a forma eletrônica, desde que garantida a identificação inequívoca do signatário.",
-          "literal": "(Redação dada pela Medida Provisória nº 897, de 2019)"
         }
       ]
     },
@@ -465,17 +358,6 @@
           "tipo": "inclusao",
           "unidade": "parágrafo único",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
-          },
-          "trecho": "…istema eletrônico de escrituração, observado, no que couber, o disposto nos art. 10-A, art. 10-B, art. 10-C e art. 10-D.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "parágrafo único",
-          "diploma": {
             "especie": "Lei",
             "numero": "13.986",
             "ano": 2020
@@ -485,19 +367,19 @@
         }
       ]
     },
-    "48": {
+    "57": {
       "situacao": null,
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "inciso XI",
+          "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "14.421",
+            "ano": 2022
           },
-          "trecho": "…peciais, admitida a assinatura sob a forma eletrônica, desde que garantida a identificação inequívoca de seu signatário.",
-          "literal": "(Redação dada pela Medida Provisória nº 897, de 2019)"
+          "trecho": "…57. Os bens apenhados poderão ser objeto de novo penhor cedular em grau subsequente ao penhor originalmente constituído.",
+          "literal": "(Redação dada pela Lei nº 14.421, de 2022)"
         }
       ]
     },
@@ -573,23 +455,64 @@
           "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "619",
-            "ano": 2013
+            "especie": "Lei",
+            "numero": "14.421",
+            "ano": 2022
           },
-          "trecho": "…o da obrigação garantida e, embora vencido o prazo, permanece a garantia, enquanto subsistirem os bens que a constituem.",
-          "literal": "(Redação dada pela Medida Provisória nº 619, de 2013)"
+          "trecho": "…antida e, embora vencido, permanecerá a garantia enquanto subsistirem os bens que a constituem ou a obrigação garantida.",
+          "literal": "(Redação dada pela Lei nº 14.421, de 2022)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "parágrafo único",
+          "diploma": null,
+          "trecho": "Parágrafo único.",
+          "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
           "unidade": "parágrafo único",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "619",
-            "ano": 2013
+            "especie": "Lei",
+            "numero": "14.421",
+            "ano": 2022
           },
-          "trecho": "…sta no caput, ocorre mediante a averbação à margem do registro respectivo, mediante requerimento do credor e do devedor.",
-          "literal": "(Redação dada pela Medida Provisória nº 619, de 2013)"
+          "trecho": "Parágrafo único. (Revogado).",
+          "literal": "(Redação dada pela Lei nº 14.421, de 2022)"
+        }
+      ]
+    },
+    "62": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.421",
+            "ano": 2022
+          },
+          "trecho": "…odos os efeitos, a anotação pelo credor no instrumento de crédito, salvo nas hipóteses estabelecidas pelo poder público.",
+          "literal": "(Redação dada pela Lei nº 14.421, de 2022)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "parágrafo único",
+          "diploma": null,
+          "trecho": "Parágrafo único.",
+          "literal": "(Revogado)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "parágrafo único",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.421",
+            "ano": 2022
+          },
+          "trecho": "Parágrafo único. (Revogado).",
+          "literal": "(Redação dada pela Lei nº 14.421, de 2022)"
         }
       ]
     },

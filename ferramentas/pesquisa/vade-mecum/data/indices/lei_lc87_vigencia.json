@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_lc87.json",
       "colecao": "artigos",
-      "sha256": "504d2e700ed14f478389efbc7fafded8a1419452ee755af1c10d34c6651f2142",
+      "sha256": "d78fd4f0e435c47e43dcdea7410e30a3042265f495d4542762494c0d73407051",
       "total_registros": 40,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:50:06+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 24,
-      "anotacoes": 138,
+      "anotacoes": 120,
       "anotacoes_sem_diploma_nomeado": 8
     }
   },
@@ -82,17 +82,6 @@
     "4": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "redacao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "114",
-            "ano": 2002
-          },
-          "trecho": "Parágrafo único. É também contribuinte a pessoa física ou jurídica que, mesmo sem habitualidade ou intuito comercial:",
-          "literal": "(Redação dada pela Lcp 114, de 16.12.2002)"
-        },
         {
           "tipo": "redacao",
           "unidade": "inciso I",
@@ -566,17 +555,6 @@
           "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei Complementar",
-            "numero": "114",
-            "ano": 2002
-          },
-          "trecho": "§ 1o Integra a base de cálculo do imposto, inclusive na hipótese do inciso V do caput deste artigo:",
-          "literal": "(Redação dada pela Lcp 114, de 16.12.2002)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Lei Complementar",
             "numero": "190",
             "ano": 2022
           },
@@ -1041,17 +1019,6 @@
           "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei Complementar",
-            "numero": "102",
-            "ano": 2000
-          },
-          "trecho": "…inanceiros de 2000, 2001 e 2002 e a partir de 1o de janeiro de 2003, os recursos do Tesouro Nacional serão provenientes:",
-          "literal": "(Redação dada pela LCP nº 102, de 11.7.2000)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Lei Complementar",
             "numero": "115",
             "ano": 2002
           },
@@ -1063,33 +1030,11 @@
           "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei Complementar",
-            "numero": "102",
-            "ano": 2000
-          },
-          "trecho": "…Nacional e aos demais entes da administração federal. O saldo remanescente, se houver, será creditado em moeda corrente.",
-          "literal": "(Redação dada pela LCP nº 102, de 11.7.2000)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Lei Complementar",
             "numero": "115",
             "ano": 2002
           },
           "trecho": "… garantias honradas de operações de crédito externas. O saldo remanescente, se houver, será creditado em moeda corrente.",
           "literal": "(Redação dada pela LCP nº 115, de 26.12.2002)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "102",
-            "ano": 2000
-          },
-          "trecho": "…Nacional e aos demais entes da administração federal. O saldo remanescente, se houver, será creditado em moeda corrente.",
-          "literal": "(Redação dada pela LCP nº 102, de 11.7.2000)"
         },
         {
           "tipo": "redacao",
@@ -1364,61 +1309,6 @@
           "unidade": "inciso I",
           "diploma": {
             "especie": "Lei Complementar",
-            "numero": "92",
-            "ano": 1997
-          },
-          "trecho": "…crédito as mercadorias destinadas ao uso ou consumo do estabelecimento, nele entradas a partir de 1º de janeiro de 2000;",
-          "literal": "(Redação dada pela LCP nº 92, de 23.12.1997)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "99",
-            "ano": 1999
-          },
-          "trecho": "…crédito as mercadorias destinadas ao uso ou consumo do estabelecimento, nele entradas a partir de 1o de janeiro de 2003;",
-          "literal": "(Redação dada pela LCP nº 99, de 20.12.1999)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "114",
-            "ano": 2002
-          },
-          "trecho": "…crédito as mercadorias destinadas ao uso ou consumo do estabelecimento, nele entradas a partir de 1o de janeiro de 2007;",
-          "literal": "(Redação dada pela Lcp 114, de 16.12.2002)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "122",
-            "ano": 2006
-          },
-          "trecho": "… crédito as mercadorias destinadas ao uso ou consumo do estabelecimento nele entradas a partir de 1o de janeiro de 2011;",
-          "literal": "(Redação dada pela Lcp nº 122, de 2006)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "138",
-            "ano": 2010
-          },
-          "trecho": "… crédito as mercadorias destinadas ao uso ou consumo do estabelecimento nele entradas a partir de 1o de janeiro de 2020;",
-          "literal": "(Redação dada pela Lcp nº 138, de 2010)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Lei Complementar",
             "numero": "171",
             "ano": 2019
           },
@@ -1470,50 +1360,6 @@
           "literal": "(Incluída pela LCP nº 102, de 11.7.2000)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "alínea d",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "102",
-            "ano": 2000
-          },
-          "trecho": "d) a partir de 1o de janeiro de 2003, nas demais hipóteses;",
-          "literal": "(Incluída pela LCP nº 102, de 11.7.2000)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "alínea d",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "114",
-            "ano": 2002
-          },
-          "trecho": "d) a partir de 1o de janeiro de 2007, nas demais hipóteses;",
-          "literal": "(Redação dada pela Lcp 114, de 16.12.2002)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "alínea d",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "122",
-            "ano": 2006
-          },
-          "trecho": "d) a partir de 1o de janeiro de 2011, nas demais hipóteses;",
-          "literal": "(Redação dada pela Lcp nº 122, de 2006)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "alínea d",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "138",
-            "ano": 2010
-          },
-          "trecho": "d) a partir de 1o de janeiro de 2020 nas demais hipóteses;",
-          "literal": "(Redação dada pela Lcp nº 138, de 2010)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "alínea d",
           "diploma": {
@@ -1556,50 +1402,6 @@
           },
           "trecho": "…o resultar em operação de saída ou prestação para o exterior, na proporção desta sobre as saídas ou prestações totais; e",
           "literal": "(Incluída pela LCP nº 102, de 11.7.2000)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea c",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "102",
-            "ano": 2000
-          },
-          "trecho": "c) a partir de 1o de janeiro de 2003, nas demais hipóteses.",
-          "literal": "(Incluída pela LCP nº 102, de 11.7.2000)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "alínea c",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "114",
-            "ano": 2002
-          },
-          "trecho": "c) a partir de 1o de janeiro de 2007, nas demais hipóteses.",
-          "literal": "(Redação dada pela Lcp 114, de 16.12.2002)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "alínea c",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "122",
-            "ano": 2006
-          },
-          "trecho": "c) a partir de 1o de janeiro de 2011, nas demais hipóteses.",
-          "literal": "(Redação dada pela Lcp nº 122, de 2006)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "alínea c",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "138",
-            "ano": 2010
-          },
-          "trecho": "c) a partir de 1o de janeiro de 2020 nas demais hipóteses.",
-          "literal": "(Redação dada pela Lcp nº 138, de 2010)"
         },
         {
           "tipo": "redacao",

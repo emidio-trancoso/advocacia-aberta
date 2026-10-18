@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_eoab.json",
       "colecao": "artigos",
-      "sha256": "d8d106622edc28626d0fc317cb456a902b4f824195fa10cf77f0752970370c95",
+      "sha256": "e50c35315f4aaf62a69e3b56f00db132e54e7521d2f9690033c90b61a6d243d1",
       "total_registros": 96,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:50:08+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 34,
-      "anotacoes": 148,
+      "artigos_com_anotacao": 36,
+      "anotacoes": 149,
       "anotacoes_sem_diploma_nomeado": 12
     }
   },
@@ -802,17 +802,6 @@
             "ano": 2019
           },
           "trecho": "…ui crime violar direito ou prerrogativa de advogado previstos nos incisos II, III, IV e V do caput do art. 7º desta Lei:",
-          "literal": "(Incluído pela Lei nº 13.869. de 2019)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "caput",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.869",
-            "ano": 2019
-          },
-          "trecho": "Pena - detenção, de 3 (três) meses a 1 (um) ano, e multa.",
           "literal": "(Incluído pela Lei nº 13.869. de 2019)"
         },
         {
@@ -1663,6 +1652,38 @@
           },
           "trecho": "…re advogados e sociedades de advogados, observado o disposto no inciso XXXV do caput do art. 5º da Constituição Federal.",
           "literal": "(Incluído pela Lei nº 14.365, de 2022)"
+        }
+      ]
+    },
+    "55": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.511",
+            "ano": 2026
+          },
+          "trecho": "…rio-Geral, 1 (um) Corregedor-Geral, 1 (um) Diretor Tesoureiro, 1 (um) Diretor Administrativo e 1 (um) Diretor Executivo.",
+          "literal": "(Redação dada pela Lei nº 15.511, de 2026)"
+        }
+      ]
+    },
+    "57": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "inclusao",
+          "unidade": "parágrafo único",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.511",
+            "ano": 2026
+          },
+          "trecho": "…onselhos Seccionais, na forma do Regulamento Geral, a criação de diretorias regimentais temporárias de caráter temático.",
+          "literal": "(Incluído pela Lei nº 15.511, de 2026)"
         }
       ]
     },

@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l9605.json",
       "colecao": "artigos",
-      "sha256": "fe0a23b30e67c2d1a88ec1bb56ff969b4710ff482061c81dbafafc9a25cc2b6f",
+      "sha256": "9d56964408f577df600298de0d95db20172988970e1a4527449937e164d777d0",
       "total_registros": 87,
-      "gerado_em": "2026-08-21T22:36:32+00:00"
+      "gerado_em": "2026-10-18T12:49:53+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 25,
-      "anotacoes": 72,
+      "anotacoes": 71,
       "anotacoes_sem_diploma_nomeado": 13
     }
   },
@@ -73,17 +73,6 @@
           },
           "trecho": "… zoológicos, fundações ou entidades assemelhadas, para guarda e cuidados sob a responsabilidade de técnicos habilitados.",
           "literal": "(Redação dada pela Lei nº 13.052, de 2014)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "62",
-            "ano": 2002
-          },
-          "trecho": "…ecíveis, serão estes avaliados e doados a instituições científicas, hospitalares, penais e outras com fins beneficentes.",
-          "literal": "(Redação dada pela Medida provisória nº 62, de 2002)"
         },
         {
           "tipo": "redacao",
@@ -727,165 +716,165 @@
           "unidade": "caput",
           "diploma": {
             "especie": "Medida Provisória",
-            "numero": "1.710-1",
-            "ano": 1998
+            "numero": "2.163-41",
+            "ano": 2001
           },
           "trecho": "…de estabelecimentos e atividades utilizadores de recursos ambientais, considerados efetiva ou potencialmente poluidores.",
-          "literal": "(Redação dada pela Medida Provisória nº 1.710-1, de 1998)"
+          "literal": "(Redação dada pela Medida Provisória nº 2.163-41, de 2001)"
         },
         {
           "tipo": "redacao",
           "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
-            "numero": "1.710-1",
-            "ano": 1998
+            "numero": "2.163-41",
+            "ano": 2001
           },
           "trecho": "…ências impostas pelas autoridades ambientais competentes, sendo obrigatório que o respectivo instrumento disponha sobre:",
-          "literal": "(Redação dada pela Medida Provisória nº 1.710-1, de 1998)"
+          "literal": "(Redação dada pela Medida Provisória nº 2.163-41, de 2001)"
         },
         {
           "tipo": "redacao",
           "unidade": "inciso I",
           "diploma": {
             "especie": "Medida Provisória",
-            "numero": "1.710-1",
-            "ano": 1998
+            "numero": "2.163-41",
+            "ano": 2001
           },
           "trecho": "I - o nome, a qualificação e o endereço das partes compromissadas e dos respectivos representantes legais;",
-          "literal": "(Redação dada pela Medida Provisória nº 1.710-1, de 1998)"
+          "literal": "(Redação dada pela Medida Provisória nº 2.163-41, de 2001)"
         },
         {
           "tipo": "redacao",
           "unidade": "inciso II",
           "diploma": {
             "especie": "Medida Provisória",
-            "numero": "1.710-1",
-            "ano": 1998
+            "numero": "2.163-41",
+            "ano": 2001
           },
           "trecho": "…oderá variar entre o mínimo de noventa dias e o máximo de três anos, com possibilidade de prorrogação por igual período;",
-          "literal": "(Redação dada pela Medida Provisória nº 1.710-1, de 1998)"
+          "literal": "(Redação dada pela Medida Provisória nº 2.163-41, de 2001)"
         },
         {
           "tipo": "redacao",
           "unidade": "inciso III",
           "diploma": {
             "especie": "Medida Provisória",
-            "numero": "1.710-1",
-            "ano": 1998
+            "numero": "2.163-41",
+            "ano": 2001
           },
           "trecho": "…o cronograma físico de execução e de implantação das obras e serviços exigidos, com metas trimestrais a serem atingidas;",
-          "literal": "(Redação dada pela Medida Provisória nº 1.710-1, de 1998)"
+          "literal": "(Redação dada pela Medida Provisória nº 2.163-41, de 2001)"
         },
         {
           "tipo": "redacao",
           "unidade": "inciso IV",
           "diploma": {
             "especie": "Medida Provisória",
-            "numero": "1.710-1",
-            "ano": 1998
+            "numero": "2.163-41",
+            "ano": 2001
           },
           "trecho": "…ísica ou jurídica compromissada e os casos de rescisão, em decorrência do não-cumprimento das obrigações nele pactuadas;",
-          "literal": "(Redação dada pela Medida Provisória nº 1.710-1, de 1998)"
+          "literal": "(Redação dada pela Medida Provisória nº 2.163-41, de 2001)"
         },
         {
           "tipo": "redacao",
           "unidade": "inciso V",
           "diploma": {
             "especie": "Medida Provisória",
-            "numero": "1.710-1",
-            "ano": 1998
+            "numero": "2.163-41",
+            "ano": 2001
           },
-          "trecho": "V - o valor da multa de que trata o inciso anterior não poderá ser superior ao valor do investimento previsto;",
-          "literal": "(Redação dada pela Medida Provisória nº 1.710-1, de 1998)"
+          "trecho": "V - o valor da multa de que trata o inciso IV não poderá ser superior ao valor do investimento previsto;",
+          "literal": "(Redação dada pela Medida Provisória nº 2.163-41, de 2001)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso VI",
           "diploma": {
             "especie": "Medida Provisória",
-            "numero": "1.710-1",
-            "ano": 1998
+            "numero": "2.163-41",
+            "ano": 2001
           },
           "trecho": "VI - o foro competente para dirimir litígios entre as partes.",
-          "literal": "(Incluído pela Medida Provisória nº 1.710-1, de 1998)"
+          "literal": "(Incluído pela Medida Provisória nº 2.163-41, de 2001)"
         },
         {
           "tipo": "redacao",
           "unidade": "§ 2º",
           "diploma": {
             "especie": "Medida Provisória",
-            "numero": "1.710-1",
-            "ano": 1998
+            "numero": "2.163-41",
+            "ano": 2001
           },
           "trecho": "…ito protocolizado junto aos órgãos competentes do SISNAMA, devendo ser firmado pelo dirigente máximo do estabelecimento.",
-          "literal": "(Redação dada pela Medida Provisória nº 1.710-1, de 1998)"
+          "literal": "(Redação dada pela Medida Provisória nº 2.163-41, de 2001)"
         },
         {
           "tipo": "redacao",
           "unidade": "§ 3º",
           "diploma": {
             "especie": "Medida Provisória",
-            "numero": "1.710-1",
-            "ano": 1998
+            "numero": "2.163-41",
+            "ano": 2001
           },
           "trecho": "…lebração do instrumento, a aplicação de sanções administrativas contra a pessoa física ou jurídica que o houver firmado.",
-          "literal": "(Redação dada pela Medida Provisória nº 1.710-1, de 1998)"
+          "literal": "(Redação dada pela Medida Provisória nº 2.163-41, de 2001)"
         },
         {
           "tipo": "redacao",
           "unidade": "§ 4º",
           "diploma": {
             "especie": "Medida Provisória",
-            "numero": "1.710-1",
-            "ano": 1998
+            "numero": "2.163-41",
+            "ano": 2001
           },
           "trecho": "…so de que trata este artigo não impede a execução de eventuais multas aplicadas antes da protocolização do requerimento.",
-          "literal": "(Redação dada pela Medida Provisória nº 1.710-1, de 1998)"
+          "literal": "(Redação dada pela Medida Provisória nº 2.163-41, de 2001)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 5º",
           "diploma": {
             "especie": "Medida Provisória",
-            "numero": "1.710-1",
-            "ano": 1998
+            "numero": "2.163-41",
+            "ano": 2001
           },
           "trecho": "…ito o termo de compromisso, quando descumprida qualquer de suas cláusulas, ressalvado o caso fortuito ou de força maior.",
-          "literal": "(Incluído pela Medida Provisória nº 1.710-1, de 1998)"
+          "literal": "(Incluído pela Medida Provisória nº 2.163-41, de 2001)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 6º",
           "diploma": {
             "especie": "Medida Provisória",
-            "numero": "1.710-1",
-            "ano": 1998
+            "numero": "2.163-41",
+            "ano": 2001
           },
           "trecho": "§ 6o O termo de compromisso deverá ser firmado em até noventa dias, contados da protocolização do requerimento.",
-          "literal": "(Incluído pela Medida Provisória nº 1.710-1, de 1998)"
+          "literal": "(Incluído pela Medida Provisória nº 2.163-41, de 2001)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 7º",
           "diploma": {
             "especie": "Medida Provisória",
-            "numero": "1.710-1",
-            "ano": 1998
+            "numero": "2.163-41",
+            "ano": 2001
           },
           "trecho": "…nter as informações necessárias à verificação da sua viabilidade técnica e jurídica, sob pena de indeferimento do plano.",
-          "literal": "(Incluído pela Medida Provisória nº 1.710-1, de 1998)"
+          "literal": "(Incluído pela Medida Provisória nº 2.163-41, de 2001)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 8º",
           "diploma": {
             "especie": "Medida Provisória",
-            "numero": "1.710-1",
-            "ano": 1998
+            "numero": "2.163-41",
+            "ano": 2001
           },
           "trecho": "…o Sob pena de ineficácia, os termos de compromisso deverão ser publicados no órgão oficial competente, mediante extrato.",
-          "literal": "(Incluído pela Medida Provisória nº 1.710-1, de 1998)"
+          "literal": "(Incluído pela Medida Provisória nº 2.163-41, de 2001)"
         }
       ]
     },

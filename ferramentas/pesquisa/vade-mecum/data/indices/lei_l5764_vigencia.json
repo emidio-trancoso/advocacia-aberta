@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l5764.json",
       "colecao": "artigos",
-      "sha256": "86007274262b2c034ccd6a43d10e450900ea4c8012c9cf7a57a284362afa30d3",
+      "sha256": "1d6388c5f65720171966294c1cb956485a7b227af1e8173ab3520d0da10d7070",
       "total_registros": 119,
-      "gerado_em": "2026-09-14T13:56:05+00:00"
+      "gerado_em": "2026-10-18T12:49:44+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 10,
-      "anotacoes": 13,
+      "artigos_com_anotacao": 12,
+      "anotacoes": 22,
       "anotacoes_sem_diploma_nomeado": 0
     }
   },
@@ -116,6 +116,88 @@
         }
       ]
     },
+    "42": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "6.981",
+            "ano": null
+          },
+          "trecho": "…lares, cada associado presente não terá direito a mais de 1 (um) voto, qualquer que seja o número de suas quotas-partes.",
+          "literal": "(Redação dada pela Lei nº 6.981, de 30/03/82)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 1º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "6.981",
+            "ano": null
+          },
+          "trecho": "§ 1° Não será permitida a representação por meio de mandatário.",
+          "literal": "(Redação dada pela Lei nº 6.981, de 30/03/82)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "6.981",
+            "ano": null
+          },
+          "trecho": "…egados que tenham a qualidade de associados no gozo de seus direitos sociais e não exerçam cargos eletivos na sociedade.",
+          "literal": "(Redação dada pela Lei nº 6.981, de 30/03/82)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 3º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "6.981",
+            "ano": null
+          },
+          "trecho": "…s, a época e forma de sua escolha por grupos seccionais de associados de igual número e o tempo de duração da delegação.",
+          "literal": "(Redação dada pela Lei nº 6.981, de 30/03/82)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 4º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "6.981",
+            "ano": null
+          },
+          "trecho": "…dos seja inferior a 3.000 (três mil), desde que haja filiados residindo a mais de 50 km (cinqüenta quilômetros) da sede.",
+          "literal": "(Redação dada pela Lei nº 6.981, de 30/03/82)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 5º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "6.981",
+            "ano": null
+          },
+          "trecho": "… grupos seccionais, que não sejam delegados, poderão comparecer às Assembléias Gerais, privados, contudo, de voz e voto.",
+          "literal": "(Redação dada pela Lei nº 6.981, de 30/03/82)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 6º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "6.981",
+            "ano": null
+          },
+          "trecho": "…as as matérias que, nos termos da lei ou dos estatutos, constituem objeto de decisão da assembléia geral dos associados.",
+          "literal": "(Redação dada pela Lei nº 6.981, de 30/03/82)"
+        }
+      ]
+    },
     "43-A": {
       "situacao": null,
       "eventos": [
@@ -123,12 +205,23 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "931",
+            "especie": "Lei",
+            "numero": "14.030",
             "ano": 2020
           },
-          "trecho": "…mpresarial e Integração da Secretaria Especial de Desburocratização, Gestão e Governo Digital do Ministério da Economia.",
-          "literal": "(Incluído pela Medida Provisória nº 931, de 2020)"
+          "trecho": "…a, que poderão ser realizadas em meio digital, nos termos do regulamento do órgão competente do Poder Executivo federal.",
+          "literal": "(Incluído pela Lei nº 14.030, de 2020)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "parágrafo único",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.030",
+            "ano": 2020
+          },
+          "trecho": "…os direitos legalmente previstos de participação e de manifestação dos associados e os demais requisitos regulamentares.",
+          "literal": "(Incluído pela Lei nº 14.030, de 2020)"
         }
       ]
     },
@@ -210,6 +303,22 @@
           },
           "trecho": "… agrícolas mistas, o disposto neste artigo só se aplicará com base em regras a serem estabelecidas pelo órgão normativo.",
           "literal": "(Revogado pela Lei Complementar nº 130, de 20090)"
+        }
+      ]
+    },
+    "88": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Medida Provisória",
+            "numero": "2.168-40",
+            "ano": 2001
+          },
+          "trecho": "…edades não cooperativas para melhor atendimento dos próprios objetivos e de outros de caráter acessório ou complementar.",
+          "literal": "(Redação dada pela Medida Provisória nº 2.168-40, de 24 de agosto de 2001)"
         }
       ]
     },

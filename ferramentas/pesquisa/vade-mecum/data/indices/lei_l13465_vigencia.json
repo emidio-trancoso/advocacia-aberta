@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l13465.json",
       "colecao": "artigos",
-      "sha256": "06182e89d70c9190b6f027a0a4c3307fb603238139952af7f327a92479ee9c2d",
+      "sha256": "5336481b50bd8d999dd9b714db24dabe7b2591c307f3e39bd343e342ada20184",
       "total_registros": 111,
-      "gerado_em": "2026-08-21T22:36:32+00:00"
+      "gerado_em": "2026-10-18T12:49:52+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 18,
-      "anotacoes": 61,
+      "anotacoes": 51,
       "anotacoes_sem_diploma_nomeado": 22
     }
   },
@@ -165,17 +165,6 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "996",
-            "ano": 2020
-          },
-          "trecho": "I - na Reurb-S:",
-          "literal": "(Revogado pela Medida Provisória nº 996, de 2020)"
-        },
-        {
-          "tipo": "revogacao",
           "unidade": "alínea a",
           "diploma": {
             "especie": "Medida Provisória",
@@ -217,72 +206,6 @@
           },
           "trecho": "…diária e a implantação da infraestrutura essencial, quando necessária; (Revogado pela Medida Provisória nº 996, de 2020)",
           "literal": "(Revogado pela Lei nº 14.118, de 2021)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "996",
-            "ano": 2020
-          },
-          "trecho": "…urb-E, a regularização fundiária será contratada e custeada por seus potenciais beneficiários ou requerentes privados; e",
-          "literal": "(Revogado pela Medida Provisória nº 996, de 2020)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "996",
-            "ano": 2020
-          },
-          "trecho": "… de regularização fundiária e da implantação da infraestrutura essencial, com posterior cobrança aos seus beneficiários.",
-          "literal": "(Revogado pela Medida Provisória nº 996, de 2020)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "996",
-            "ano": 2020
-          },
-          "trecho": "… projeto de regularização fundiária e da implantação da infraestrutura essencial obedecerão aos seguintes procedimentos:",
-          "literal": "(Incluído pela Medida Provisória nº 996, de 2020)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "996",
-            "ano": 2020
-          },
-          "trecho": "… elaborar e custear o projeto de regularização fundiária e a implantação da infraestrutura essencial, quando necessária;",
-          "literal": "(Incluído pela Medida Provisória nº 996, de 2020)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "996",
-            "ano": 2020
-          },
-          "trecho": "…urb-E, a regularização fundiária será contratada e custeada por seus potenciais beneficiários ou requerentes privados; e",
-          "literal": "(Incluído pela Medida Provisória nº 996, de 2020)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "996",
-            "ano": 2020
-          },
-          "trecho": "… de regularização fundiária e da implantação da infraestrutura essencial, com posterior cobrança aos seus beneficiários.",
-          "literal": "(Incluído pela Medida Provisória nº 996, de 2020)"
         },
         {
           "tipo": "inclusao",
@@ -341,17 +264,6 @@
           },
           "trecho": "b) (revogada);",
           "literal": "(Redação dada pela Lei nº 14.118, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "996",
-            "ano": 2020
-          },
-          "trecho": "…mados promover, às suas expensas, os projetos e os demais documentos técnicos necessários à regularização de seu imóvel.",
-          "literal": "(Incluído pela Medida Provisória nº 996, de 2020)"
         },
         {
           "tipo": "inclusao",
@@ -503,17 +415,6 @@
           "tipo": "redacao",
           "unidade": "parágrafo único",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "996",
-            "ano": 2020
-          },
-          "trecho": "…alquer título terão suas matrículas abertas em nome do adquirente, conforme procedimento previsto nos art. 84 e art. 98.",
-          "literal": "(Redação dada pela Medida Provisória nº 996, de 2020)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "parágrafo único",
-          "diploma": {
             "especie": "Lei",
             "numero": "14.118",
             "ano": 2021
@@ -538,17 +439,6 @@
     "76": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.085",
-            "ano": 2021
-          },
-          "trecho": "…b serão feitos por meio eletrônico, nos termos do disposto no art. 37 a art. 41 da Lei nº 11.977, de 7 de julho de 2009.",
-          "literal": "(Redação dada Pela Medida Provisória nº 1.085, de 2021)"
-        },
         {
           "tipo": "redacao",
           "unidade": "§ 1º",

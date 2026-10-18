@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_eir.json",
       "colecao": "artigos",
-      "sha256": "8cb4e5ee424496f827ae83db22d96315419fdea35cd719e8f2c381a8f31c7264",
+      "sha256": "0d47f5bca9d09d7f35894d9384146abadec4c003a8a1944628366c4e204e577f",
       "total_registros": 65,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:50:07+00:00"
     },
     "relacao": {
       "chave": "numero",

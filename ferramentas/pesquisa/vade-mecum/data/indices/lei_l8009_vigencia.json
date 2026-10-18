@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l8009.json",
       "colecao": "artigos",
-      "sha256": "7c92675ec146d4f8babee33f59a933c2be4d457c2d796518d34f385cda7c57e2",
+      "sha256": "850c646412b21156396ad35c972c25e1f12ccf1332f3634ac0da9b96529d6298",
       "total_registros": 8,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:49:41+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 1,
-      "anotacoes": 6,
+      "anotacoes": 3,
       "anotacoes_sem_diploma_nomeado": 0
     }
   },
@@ -71,39 +71,6 @@
           },
           "trecho": "VII - por obrigação decorrente de fiança concedida em contrato de locação.",
           "literal": "(Incluído pela Lei nº 8.245, de 1991)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso VII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "871",
-            "ano": 2019
-          },
-          "trecho": "VII - por obrigação decorrente de fiança concedida em contrato de locação; e",
-          "literal": "(Redação dada pela Medida Provisória nº 871, de 2019)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso VII",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "8.245",
-            "ano": 1991
-          },
-          "trecho": "VII - por obrigação decorrente de fiança concedida em contrato de locação.",
-          "literal": "(Incluído pela Lei nº 8.245, de 1991)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso VIII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "871",
-            "ano": 2019
-          },
-          "trecho": "…evidamente por dolo, fraude ou coação, inclusive por terceiro que sabia ou deveria saber da origem ilícita dos recursos.",
-          "literal": "(Incluído pela Medida Provisória nº 871, de 2019)"
         }
       ]
     }

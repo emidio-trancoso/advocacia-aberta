@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l12815.json",
       "colecao": "artigos",
-      "sha256": "1904cabdd3b6448df738b4110dc3f51d8a71d382f41cdf7a16134802331cf8fc",
+      "sha256": "d9c943aba0c567a10d9255bcf02b901f0783523b776513ed4cf9c7e44e4922ba",
       "total_registros": 81,
-      "gerado_em": "2026-08-21T22:36:34+00:00"
+      "gerado_em": "2026-10-18T12:50:01+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 22,
-      "anotacoes": 70,
+      "anotacoes": 69,
       "anotacoes_sem_diploma_nomeado": 28
     }
   },
@@ -558,17 +558,6 @@
     "40": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 5º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "945",
-            "ano": 2020
-          },
-          "trecho": "…a o § 1º, vedada a exigência de novo registro ou cadastro específico, independentemente de acordo ou convenção coletiva.",
-          "literal": "(Incluído pela Medida Provisória nº 945, de 2020)"
-        },
         {
           "tipo": "inclusao",
           "unidade": "§ 5º",

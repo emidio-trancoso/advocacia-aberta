@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_l11445.json",
       "colecao": "artigos",
-      "sha256": "8b8fed886aa0aba30dafe80240b864c98f68d22faaed896f7446e530cd30cea7",
+      "sha256": "49eaab2e402b189482a63f5da4f9eb97ab156f7dbec21ebf2b3953f69342fe02",
       "total_registros": 91,
-      "gerado_em": "2026-08-21T22:36:29+00:00"
+      "gerado_em": "2026-10-18T12:49:37+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 76,
-      "anotacoes": 790,
-      "anotacoes_sem_diploma_nomeado": 270
+      "artigos_com_anotacao": 77,
+      "anotacoes": 629,
+      "anotacoes_sem_diploma_nomeado": 196
     }
   },
   "vigencia": {
@@ -365,17 +365,6 @@
           },
           "trecho": "Art. 3º Para fins do disposto nesta Lei, considera-se:",
           "literal": "(Redação dada pela Lei nº 14.026, de 2020)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "alínea d",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.308",
-            "ano": 2016
-          },
-          "trecho": "…o para o amortecimento de vazões de cheias, tratamento e disposição final das águas pluviais drenadas nas áreas urbanas;",
-          "literal": "(Redação dada pela Lei nº 13.308, de 2016)"
         },
         {
           "tipo": "redacao",
@@ -1046,78 +1035,6 @@
           "tipo": "redacao",
           "unidade": "inciso I",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "I - de coleta, transbordo e transporte dos resíduos relacionados na alínea “c” do inciso I do caput do art. 2º;",
-          "literal": "(Redação dada pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso I",
-          "diploma": null,
-          "trecho": "…síduos relacionados na alínea “c” do inciso I do caput do art. 2º; (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "I - de coleta, transbordo e transporte dos resíduos relacionados na alínea “c” do inciso I do caput do art. 2º;",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso I",
-          "diploma": null,
-          "trecho": "…síduos relacionados na alínea “c” do inciso I do caput do art. 2º; (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "…lusive por compostagem, e de disposição final dos resíduos relacionados na alínea “c” do inciso I do caput do art. 2º; e",
-          "literal": "(Redação dada pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso II",
-          "diploma": null,
-          "trecho": "…duos relacionados na alínea “c” do inciso I do caput do art. 2º; e (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "…lusive por compostagem, e de disposição final dos resíduos relacionados na alínea “c” do inciso I do caput do art. 2º; e",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso II",
-          "diploma": null,
-          "trecho": "…duos relacionados na alínea “c” do inciso I do caput do art. 2º; e (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
             "especie": "Lei",
             "numero": "14.026",
             "ano": 2020
@@ -1265,151 +1182,18 @@
       ]
     },
     "8-A": {
-      "situacao": "vigencia_encerrada",
+      "situacao": null,
       "eventos": [
         {
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
+            "especie": "Lei",
+            "numero": "14.026",
+            "ano": 2020
           },
-          "trecho": "Art. 8º-A. Os Municípios e o Distrito Federal são os titulares dos serviços públicos de saneamento básico.",
-          "literal": "(Incluído pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "caput",
-          "diploma": null,
-          "trecho": "…o Federal são os titulares dos serviços públicos de saneamento básico. (Incluído pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "…viços de saneamento básico pelos Municípios e pelo Distrito Federal fica restrito às suas respectivas áreas geográficas.",
-          "literal": "(Incluído pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 1º",
-          "diploma": null,
-          "trecho": "… Distrito Federal fica restrito às suas respectivas áreas geográficas. (Incluído pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "…º Na hipótese de interesse comum, o exercício da titularidade dos serviços de saneamento básico será realizado por meio:",
-          "literal": "(Incluído pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 2º",
-          "diploma": null,
-          "trecho": "…itularidade dos serviços de saneamento básico será realizado por meio: (Incluído pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "…olegiado interfederativo formado a partir da instituição de região metropolitana, aglomeração urbana ou microrregião; ou",
-          "literal": "(Incluído pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso I",
-          "diploma": null,
-          "trecho": "…tuição de região metropolitana, aglomeração urbana ou microrregião; ou (Incluído pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "…da, por meio de consórcios públicos ou de convênios de cooperação, nos termos estabelecidos no art. 241 da Constituição.",
-          "literal": "(Incluído pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso II",
-          "diploma": null,
-          "trecho": "…s de cooperação, nos termos estabelecidos no art. 241 da Constituição. (Incluído pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "…titularidade dos serviços públicos de saneamento básico observará o disposto na Lei nº 13.089, de 12 de janeiro de 2015.",
-          "literal": "(Incluído pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 3º",
-          "diploma": null,
-          "trecho": "…ásico observará o disposto na Lei nº 13.089, de 12 de janeiro de 2015. (Incluído pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "…no § 2º poderá ter como objeto a prestação conjunta de uma ou mais atividades previstas no inciso I do caput do art. 2º.",
-          "literal": "(Incluído pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 4º",
-          "diploma": null,
-          "trecho": "…a de uma ou mais atividades previstas no inciso I do caput do art. 2º. (Incluído pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 5º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "…tidade reguladora estadual, distrital, regional ou intermunicipal, que observará os princípios estabelecidos no art. 21.",
-          "literal": "(Incluído pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 5º",
-          "diploma": null,
-          "trecho": "… intermunicipal, que observará os princípios estabelecidos no art. 21. (Incluído pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
+          "trecho": "…os titulares dos serviços públicos de saneamento de interesse local às estruturas das formas de prestação regionalizada.",
+          "literal": "(Incluído pela Lei nº 14.026, de 2020)"
         }
       ]
     },
@@ -1469,17 +1253,6 @@
           "diploma": null,
           "trecho": "§ 2º A comunicação formal a que se refere o § 1º deverá: (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "… a prestação dos serviços de saneamento, a serem observados pela companhia após a alienação do seu controle acionário; e",
-          "literal": "(Incluído pela Medida Provisória nº 844, de 2018)"
         },
         {
           "tipo": "inclusao",
@@ -1908,258 +1681,6 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "II - prestar diretamente ou delegar a prestação dos serviços;",
-          "literal": "(Redação dada pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso II",
-          "diploma": null,
-          "trecho": "II - prestar diretamente ou delegar a prestação dos serviços; (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "II - prestar diretamente ou delegar a prestação dos serviços;",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso II",
-          "diploma": null,
-          "trecho": "II - prestar diretamente ou delegar a prestação dos serviços; (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "…serviços públicos de saneamento básico e os procedimentos para a sua atuação, observado o disposto no § 5º do art. 8º-A;",
-          "literal": "(Redação dada pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso III",
-          "diploma": null,
-          "trecho": "…tos para a sua atuação, observado o disposto no § 5º do art. 8º-A; (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "…serviços públicos de saneamento básico e os procedimentos para a sua atuação, observado o disposto no § 5º do art. 8º-C;",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso III",
-          "diploma": null,
-          "trecho": "…tos para a sua atuação, observado o disposto no § 5º do art. 8º-C; (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso IV",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "…e mínimo per capita de água para abastecimento público, observadas as normas nacionais relativas à potabilidade da água;",
-          "literal": "(Redação dada pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso IV",
-          "diploma": null,
-          "trecho": "…, observadas as normas nacionais relativas à potabilidade da água; (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso IV",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "…e mínimo per capita de água para abastecimento público, observadas as normas nacionais relativas à potabilidade da água;",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso IV",
-          "diploma": null,
-          "trecho": "…, observadas as normas nacionais relativas à potabilidade da água; (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso V",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "V - estabelecer os direitos e os deveres dos usuários;",
-          "literal": "(Redação dada pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso V",
-          "diploma": null,
-          "trecho": "V - estabelecer os direitos e os deveres dos usuários; (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso V",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "V - estabelecer os direitos e os deveres dos usuários;",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso V",
-          "diploma": null,
-          "trecho": "V - estabelecer os direitos e os deveres dos usuários; (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso VI",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "… estabelecer os mecanismos e os procedimentos de controle social, observado o disposto no inciso IV do caput do art. 2º;",
-          "literal": "(Redação dada pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso VI",
-          "diploma": null,
-          "trecho": "…ole social, observado o disposto no inciso IV do caput do art. 2º; (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso VI",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "… estabelecer os mecanismos e os procedimentos de controle social, observado o disposto no inciso IV do caput do art. 2º;",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso VI",
-          "diploma": null,
-          "trecho": "…ole social, observado o disposto no inciso IV do caput do art. 2º; (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso VII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "…enciamento de Recursos Hídricos, observadas a metodologia e a periodicidade estabelecidas pelo Ministério das Cidades; e",
-          "literal": "(Redação dada pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso VII",
-          "diploma": null,
-          "trecho": "…gia e a periodicidade estabelecidas pelo Ministério das Cidades; e (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso VII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "…enciamento de Recursos Hídricos, observadas a metodologia e a periodicidade estabelecidas pelo Ministério das Cidades; e",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso VII",
-          "diploma": null,
-          "trecho": "…gia e a periodicidade estabelecidas pelo Ministério das Cidades; e (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso VIII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "… delegados, por indicação da entidade reguladora, nas hipóteses e nas condições previstas na legislação e nos contratos.",
-          "literal": "(Incluído pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso VIII",
-          "diploma": null,
-          "trecho": "…nas hipóteses e nas condições previstas na legislação e nos contratos. (Incluído pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso VIII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "… delegados, por indicação da entidade reguladora, nas hipóteses e nas condições previstas na legislação e nos contratos.",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso VIII",
-          "diploma": null,
-          "trecho": "…hipóteses e nas condições previstas na legislação e nos contratos. (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
           "unidade": "inciso I",
           "diploma": {
             "especie": "Lei",
@@ -2218,28 +1739,6 @@
           "unidade": "inciso VI",
           "diploma": {
             "especie": "Lei",
-            "numero": "14.026",
-            "ano": 2020
-          },
-          "trecho": "…ricos (Singreh), observadas a metodologia e a periodicidade estabelecidas pelo Ministério do Desenvolvimento Regional; e",
-          "literal": "(Redação dada pela Lei nº 14.026, de 2020)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso VI",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.154",
-            "ano": 2023
-          },
-          "trecho": "…Singreh, observadas a metodologia e a periodicidade estabelecidas pelo Ministério do Meio Ambiente e Mudança do Clima; e",
-          "literal": "(Redação dada pela Medida Provisória nº 1.154, de 2023)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso VI",
-          "diploma": {
-            "especie": "Lei",
             "numero": "14.600",
             "ano": 2023
           },
@@ -2266,6 +1765,141 @@
             "ano": 2020
           },
           "trecho": "…poderá receber cooperação técnica do respectivo Estado e basear-se em estudos fornecidos pelos prestadores dos serviços.",
+          "literal": "(Incluído pela Lei nº 14.026, de 2020)"
+        }
+      ]
+    },
+    "10": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.026",
+            "ano": 2020
+          },
+          "trecho": "…a sua disciplina mediante contrato de programa, convênio, termo de parceria ou outros instrumentos de natureza precária.",
+          "literal": "(Redação dada pela Lei nº 14.026, de 2020)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "§ 1º",
+          "diploma": null,
+          "trecho": "§ 1º",
+          "literal": "(Revogado)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 1º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.026",
+            "ano": 2020
+          },
+          "trecho": "§ 1º (Revogado).",
+          "literal": "(Redação dada pela Lei nº 14.026, de 2020)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "inciso I",
+          "diploma": null,
+          "trecho": "I -",
+          "literal": "(revogado)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso I",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.026",
+            "ano": 2020
+          },
+          "trecho": "I - (revogado).",
+          "literal": "(Incluído pela Lei nº 14.026, de 2020)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "alínea a",
+          "diploma": null,
+          "trecho": "a)",
+          "literal": "(revogado)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "alínea a",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.026",
+            "ano": 2020
+          },
+          "trecho": "a) (revogado).",
+          "literal": "(Incluído pela Lei nº 14.026, de 2020)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "alínea b",
+          "diploma": null,
+          "trecho": "b)",
+          "literal": "(revogado)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "alínea b",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.026",
+            "ano": 2020
+          },
+          "trecho": "b) (revogado).",
+          "literal": "(Incluído pela Lei nº 14.026, de 2020)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "inciso II",
+          "diploma": null,
+          "trecho": "II -",
+          "literal": "(revogado)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso II",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.026",
+            "ano": 2020
+          },
+          "trecho": "II - (revogado).",
+          "literal": "(Incluído pela Lei nº 14.026, de 2020)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "§ 2º",
+          "diploma": null,
+          "trecho": "§ 2º",
+          "literal": "(Revogado)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.026",
+            "ano": 2020
+          },
+          "trecho": "§ 2º (Revogado).",
+          "literal": "(Redação dada pela Lei nº 14.026, de 2020)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 3º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.026",
+            "ano": 2020
+          },
+          "trecho": "§ 3º Os contratos de programa regulares vigentes permanecem em vigor até o advento do seu termo contratual.",
           "literal": "(Incluído pela Lei nº 14.026, de 2020)"
         }
       ]
@@ -2428,42 +2062,6 @@
           "tipo": "redacao",
           "unidade": "inciso II",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "…ica e econômico-financeira da prestação dos serviços, nos termos estabelecidos no respectivo plano de saneamento básico;",
-          "literal": "(Redação dada pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso II",
-          "diploma": null,
-          "trecho": "…nos termos estabelecidos no respectivo plano de saneamento básico; (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "…ica e econômico-financeira da prestação dos serviços, nos termos estabelecidos no respectivo plano de saneamento básico;",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso II",
-          "diploma": null,
-          "trecho": "…nos termos estabelecidos no respectivo plano de saneamento básico; (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
             "especie": "Lei",
             "numero": "14.026",
             "ano": 2020
@@ -2481,24 +2079,6 @@
           },
           "trecho": "V - a existência de metas e cronograma de universalização dos serviços de saneamento básico.",
           "literal": "(Incluído pela Lei nº 14.026, de 2020)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "… e de uso racional da água, da energia e de outros recursos naturais, em conformidade com os serviços a serem prestados;",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso II",
-          "diploma": null,
-          "trecho": "…ursos naturais, em conformidade com os serviços a serem prestados; (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
@@ -3057,184 +2637,59 @@
       "situacao": null,
       "eventos": [
         {
-          "tipo": "inclusao",
+          "tipo": "redacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.026",
+            "ano": 2020
+          },
+          "trecho": "…neamento básico poderá obedecer a plano regional de saneamento básico elaborado para o conjunto de Municípios atendidos.",
+          "literal": "(Redação dada pela Lei nº 14.026, de 2020)"
+        },
+        {
+          "tipo": "redacao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
+            "especie": "Lei",
+            "numero": "14.026",
+            "ano": 2020
           },
-          "trecho": "…ntemplar um ou mais elementos do saneamento básico, com vistas à otimização do planejamento e da prestação dos serviços.",
-          "literal": "(Incluído pela Medida Provisória nº 844, de 2018)"
+          "trecho": "…emplar um ou mais componentes do saneamento básico, com vistas à otimização do planejamento e da prestação dos serviços.",
+          "literal": "(Redação dada pela Lei nº 14.026, de 2020)"
         },
         {
-          "tipo": "vigencia",
-          "unidade": "§ 1º",
-          "diploma": null,
-          "trecho": "…, com vistas à otimização do planejamento e da prestação dos serviços. (Incluído pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "…ntemplar um ou mais elementos do saneamento básico, com vistas à otimização do planejamento e da prestação dos serviços.",
-          "literal": "(Incluído pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 1º",
-          "diploma": null,
-          "trecho": "…, com vistas à otimização do planejamento e da prestação dos serviços. (Incluído pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "inclusao",
+          "tipo": "redacao",
           "unidade": "§ 2º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
+            "especie": "Lei",
+            "numero": "14.026",
+            "ano": 2020
           },
-          "trecho": "…ra o conjunto de Municípios prevalecerão sobre aquelas constantes dos planos municipais de saneamento, quando existirem.",
-          "literal": "(Incluído pela Medida Provisória nº 844, de 2018)"
+          "trecho": "…es do plano regional de saneamento básico prevalecerão sobre aquelas constantes dos planos municipais, quando existirem.",
+          "literal": "(Redação dada pela Lei nº 14.026, de 2020)"
         },
         {
-          "tipo": "vigencia",
-          "unidade": "§ 2º",
-          "diploma": null,
-          "trecho": "…elas constantes dos planos municipais de saneamento, quando existirem. (Incluído pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "…ra o conjunto de Municípios prevalecerão sobre aquelas constantes dos planos municipais de saneamento, quando existirem.",
-          "literal": "(Incluído pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 2º",
-          "diploma": null,
-          "trecho": "…elas constantes dos planos municipais de saneamento, quando existirem. (Incluído pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "inclusao",
+          "tipo": "redacao",
           "unidade": "§ 3º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
+            "especie": "Lei",
+            "numero": "14.026",
+            "ano": 2020
           },
-          "trecho": "…sará a necessidade de elaboração e publicação de planos de saneamento pelos Municípios contemplados pelo plano regional.",
-          "literal": "(Incluído pela Medida Provisória nº 844, de 2018)"
+          "trecho": "…onal de saneamento básico dispensará a necessidade de elaboração e publicação de planos municipais de saneamento básico.",
+          "literal": "(Redação dada pela Lei nº 14.026, de 2020)"
         },
         {
-          "tipo": "vigencia",
-          "unidade": "§ 3º",
-          "diploma": null,
-          "trecho": "…lanos de saneamento pelos Municípios contemplados pelo plano regional. (Incluído pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "…sará a necessidade de elaboração e publicação de planos de saneamento pelos Municípios contemplados pelo plano regional.",
-          "literal": "(Incluído pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 3º",
-          "diploma": null,
-          "trecho": "…lanos de saneamento pelos Municípios contemplados pelo plano regional. (Incluído pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "inclusao",
+          "tipo": "redacao",
           "unidade": "§ 4º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
+            "especie": "Lei",
+            "numero": "14.026",
+            "ano": 2020
           },
-          "trecho": "…adual e será convalidado em cada um dos Municípios por ele abrangidos, por meio da publicação de ato do Poder Executivo.",
-          "literal": "(Incluído pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 4º",
-          "diploma": null,
-          "trecho": "… por ele abrangidos, por meio da publicação de ato do Poder Executivo. (Incluído pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "…adual e será convalidado em cada um dos Municípios por ele abrangidos, por meio da publicação de ato do Poder Executivo.",
-          "literal": "(Incluído pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 4º",
-          "diploma": null,
-          "trecho": "… por ele abrangidos, por meio da publicação de ato do Poder Executivo. (Incluído pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 5º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "…art. 8º da Lei nº 13.089, de 2015, naquilo que concernir ao interesse comum, dispensada a convalidação prevista no § 4º.",
-          "literal": "(Incluído pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 5º",
-          "diploma": null,
-          "trecho": "…cernir ao interesse comum, dispensada a convalidação prevista no § 4º. (Incluído pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 5º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "…t. 8º da Lei nº 13.089, de 2015, naquilo que concernir ao interesse comum, dispensada a convalidação prevista no § 4º-A.",
-          "literal": "(Incluído pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 5º",
-          "diploma": null,
-          "trecho": "…rnir ao interesse comum, dispensada a convalidação prevista no § 4º-A. (Incluído pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
+          "trecho": "…porte de órgãos e entidades das administrações públicas federal, estaduais e municipais, além de prestadores de serviço.",
+          "literal": "(Redação dada pela Lei nº 14.026, de 2020)"
         }
       ]
     },
@@ -3295,42 +2750,6 @@
     "19": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "…Poder Executivo dos titulares e poderão ser elaborados com base em estudos fornecidos pelos prestadores de cada serviço.",
-          "literal": "(Redação dada pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 1º",
-          "diploma": null,
-          "trecho": "… com base em estudos fornecidos pelos prestadores de cada serviço. (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "…rovados por ato dos titulares e poderão ser elaborados com base em estudos fornecidos pelos prestadores de cada serviço.",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 1º",
-          "diploma": null,
-          "trecho": "… com base em estudos fornecidos pelos prestadores de cada serviço. (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
         {
           "tipo": "redacao",
           "unidade": "§ 1º",
@@ -3482,78 +2901,6 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "…o do poder econômico, ressalvada a competência dos órgãos integrantes do Sistema Brasileiro de Defesa da Concorrência; e",
-          "literal": "(Redação dada pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso III",
-          "diploma": null,
-          "trecho": "…ãos integrantes do Sistema Brasileiro de Defesa da Concorrência; e (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "…o do poder econômico, ressalvada a competência dos órgãos integrantes do Sistema Brasileiro de Defesa da Concorrência; e",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso III",
-          "diploma": null,
-          "trecho": "…ãos integrantes do Sistema Brasileiro de Defesa da Concorrência; e (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso IV",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "…am a eficiência e a eficácia dos serviços e que permitam o compartilhamento dos ganhos de produtividade com os usuários.",
-          "literal": "(Redação dada pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso IV",
-          "diploma": null,
-          "trecho": "…am o compartilhamento dos ganhos de produtividade com os usuários. (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso IV",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "…am a eficiência e a eficácia dos serviços e que permitam o compartilhamento dos ganhos de produtividade com os usuários.",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso IV",
-          "diploma": null,
-          "trecho": "…am o compartilhamento dos ganhos de produtividade com os usuários. (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
           "unidade": "inciso I",
           "diploma": {
             "especie": "Lei",
@@ -3652,42 +2999,6 @@
           "tipo": "redacao",
           "unidade": "inciso XI",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "XI - medidas de segurança, de contingência e de emergência, inclusive quanto a racionamento; e",
-          "literal": "(Redação dada pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso XI",
-          "diploma": null,
-          "trecho": "…e contingência e de emergência, inclusive quanto a racionamento; e (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XI",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "XI - medidas de segurança, de contingência e de emergência, inclusive quanto a racionamento;",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso XI",
-          "diploma": null,
-          "trecho": "… de contingência e de emergência, inclusive quanto a racionamento; (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XI",
-          "diploma": {
             "especie": "Lei",
             "numero": "14.026",
             "ano": 2020
@@ -3776,24 +3087,6 @@
           "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…ncia das atividades a serem desempenhadas pelas partes envolvidas. (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "…e delegação explicitará a forma de atuação e a abrangência das atividades a serem desempenhadas pelas partes envolvidas.",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 1º",
-          "diploma": null,
-          "trecho": "…ncia das atividades a serem desempenhadas pelas partes envolvidas. (Redação dada pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
@@ -4348,17 +3641,6 @@
           "literal": "(Redação dada pela Lei nº 14.026, de 2020)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "14.026",
-            "ano": 2020
-          },
-          "trecho": "…medição individualizada do consumo hídrico por unidade imobiliária, nos termos da Lei nº 13.312, de 12 de julho de 2016.",
-          "literal": "(Incluído pela Lei nº 14.026, de 2020)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "§ 3º",
           "diploma": {
@@ -4783,42 +4065,6 @@
           "tipo": "redacao",
           "unidade": "inciso II",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "…lquer natureza nos sistemas, respeitados os padrões de qualidade e continuidade estabelecidos pela regulação do serviço;",
-          "literal": "(Redação dada pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso II",
-          "diploma": null,
-          "trecho": "… qualidade e continuidade estabelecidos pela regulação do serviço; (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "…lquer natureza nos sistemas, respeitados os padrões de qualidade e continuidade estabelecidos pela regulação do serviço;",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso II",
-          "diploma": null,
-          "trecho": "… qualidade e continuidade estabelecidos pela regulação do serviço; (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
             "especie": "Lei",
             "numero": "14.026",
             "ano": 2020
@@ -4865,60 +4111,6 @@
     "43": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "revogacao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "Parágrafo único. A União definirá parâmetros mínimos para a potabilidade da água.",
-          "literal": "(Revogado pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "parágrafo único",
-          "diploma": null,
-          "trecho": "…nico. A União definirá parâmetros mínimos para a potabilidade da água. (Revogado pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "§ 1º A União definirá os parâmetros mínimos de potabilidade da água.",
-          "literal": "(Incluído pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 1º",
-          "diploma": null,
-          "trecho": "§ 1º A União definirá os parâmetros mínimos de potabilidade da água. (Incluído pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "…conforme sejam verificados os avanços tecnológicos e os maiores investimentos em medidas para diminuição do desperdício.",
-          "literal": "(Incluído pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 2º",
-          "diploma": null,
-          "trecho": "… e os maiores investimentos em medidas para diminuição do desperdício. (Incluído pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
         {
           "tipo": "redacao",
           "unidade": "§ 1º",
@@ -5405,84 +4597,12 @@
           "tipo": "redacao",
           "unidade": "inciso III",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "…I - uniformização da regulação do setor e divulgação de melhores práticas, conforme o disposto na Lei nº 9.984, de 2000;",
-          "literal": "(Redação dada pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso III",
-          "diploma": null,
-          "trecho": "…e melhores práticas, conforme o disposto na Lei nº 9.984, de 2000; (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "…I - uniformização da regulação do setor e divulgação de melhores práticas, conforme o disposto na Lei nº 9.984, de 2000;",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso III",
-          "diploma": null,
-          "trecho": "…e melhores práticas, conforme o disposto na Lei nº 9.984, de 2000; (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso III",
-          "diploma": {
             "especie": "Lei",
             "numero": "14.026",
             "ano": 2020
           },
           "trecho": "…ão da regulação do setor e divulgação de melhores práticas, conforme o disposto na Lei nº 9.984, de 17 de julho de 2000;",
           "literal": "(Redação dada pela Lei nº 14.026, de 2020)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso VII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "…l, inclusive por meio da utilização de soluções compatíveis com as suas características econômicas e sociais peculiares;",
-          "literal": "(Redação dada pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso VII",
-          "diploma": null,
-          "trecho": "…íveis com as suas características econômicas e sociais peculiares; (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso VII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "…l, inclusive por meio da utilização de soluções compatíveis com as suas características econômicas e sociais peculiares;",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso VII",
-          "diploma": null,
-          "trecho": "…íveis com as suas características econômicas e sociais peculiares; (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
@@ -5499,59 +4619,12 @@
           "tipo": "redacao",
           "unidade": "inciso IX",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "…rurais e comunidades tradicionais e indígenas, disponibilidade hídrica, riscos sanitários, epidemiológicos e ambientais;",
-          "literal": "(Redação dada pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso IX",
-          "diploma": null,
-          "trecho": "…bilidade hídrica, riscos sanitários, epidemiológicos e ambientais; (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso IX",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "…rurais e comunidades tradicionais e indígenas, disponibilidade hídrica, riscos sanitários, epidemiológicos e ambientais;",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso IX",
-          "diploma": null,
-          "trecho": "…bilidade hídrica, riscos sanitários, epidemiológicos e ambientais; (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso IX",
-          "diploma": {
             "especie": "Lei",
             "numero": "14.026",
             "ano": 2020
           },
           "trecho": "…urais e comunidades tradicionais e indígenas, disponibilidade hídrica e riscos sanitários, epidemiológicos e ambientais;",
           "literal": "(Redação dada pela Lei nº 14.026, de 2020)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XII",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.862",
-            "ano": 2013
-          },
-          "trecho": "XII - estímulo ao desenvolvimento e aperfeiçoamento de equipamentos e métodos economizadores de água.",
-          "literal": "(Incluído pela Lei nº 12.862, de 2013)"
         },
         {
           "tipo": "redacao",
@@ -5570,35 +4643,6 @@
           "diploma": null,
           "trecho": "…te à perda de água e racionalização de seu consumo pelos usuários; (Redação dada pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "XII - combate à perda de água e racionalização de seu consumo pelos usuários;",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso XII",
-          "diploma": null,
-          "trecho": "…te à perda de água e racionalização de seu consumo pelos usuários; (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XII",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.862",
-            "ano": 2013
-          },
-          "trecho": "XII - estímulo ao desenvolvimento e aperfeiçoamento de equipamentos e métodos economizadores de água.",
-          "literal": "(Incluído pela Lei nº 12.862, de 2013)"
         },
         {
           "tipo": "redacao",
@@ -5810,42 +4854,6 @@
           "tipo": "redacao",
           "unidade": "inciso I",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "…a redução das desigualdades regionais, a geração de emprego e de renda, a inclusão social e a promoção da saúde pública;",
-          "literal": "(Redação dada pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso I",
-          "diploma": null,
-          "trecho": "…prego e de renda, a inclusão social e a promoção da saúde pública; (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "…a redução das desigualdades regionais, a geração de emprego e de renda, a inclusão social e a promoção da saúde pública;",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso I",
-          "diploma": null,
-          "trecho": "…prego e de renda, a inclusão social e a promoção da saúde pública; (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
             "especie": "Lei",
             "numero": "14.026",
             "ano": 2020
@@ -5875,66 +4883,12 @@
           "tipo": "redacao",
           "unidade": "inciso II",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "…ões de baixa renda, incluídos os núcleos urbanos informais consolidados, quando não se encontrarem em situação de risco;",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso II",
-          "diploma": null,
-          "trecho": "…mais consolidados, quando não se encontrarem em situação de risco; (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
             "especie": "Lei",
             "numero": "14.026",
             "ano": 2020
           },
           "trecho": "…ões de baixa renda, incluídos os núcleos urbanos informais consolidados, quando não se encontrarem em situação de risco;",
           "literal": "(Redação dada pela Lei nº 14.026, de 2020)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso IV",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "IV - proporcionar condições adequadas de salubridade ambiental às populações rurais e às pequenas comunidades;",
-          "literal": "(Redação dada pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso IV",
-          "diploma": null,
-          "trecho": "…ubridade ambiental às populações rurais e às pequenas comunidades; (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso IV",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "IV - proporcionar condições adequadas de salubridade ambiental às populações rurais e às pequenas comunidades;",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso IV",
-          "diploma": null,
-          "trecho": "…ubridade ambiental às populações rurais e às pequenas comunidades; (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
@@ -5956,64 +4910,6 @@
             "ano": 2013
           },
           "trecho": "XI - incentivar a adoção de equipamentos sanitários que contribuam para a redução do consumo de água;",
-          "literal": "(Incluído pela Lei nº 12.862, de 2013)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XII",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.862",
-            "ano": 2013
-          },
-          "trecho": "XII - promover educação ambiental voltada para a economia de água pelos usuários.",
-          "literal": "(Incluído pela Lei nº 12.862, de 2013)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "XII - promover a educação ambiental destinada à economia de água pelos usuários; e",
-          "literal": "(Redação dada pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso XII",
-          "diploma": null,
-          "trecho": "… educação ambiental destinada à economia de água pelos usuários; e (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "XII - promover a educação ambiental destinada à economia de água pelos usuários; e",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso XII",
-          "diploma": null,
-          "trecho": "… educação ambiental destinada à economia de água pelos usuários; e (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XII",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.862",
-            "ano": 2013
-          },
-          "trecho": "XII - promover educação ambiental voltada para a economia de água pelos usuários.",
           "literal": "(Incluído pela Lei nº 12.862, de 2013)"
         },
         {
@@ -6379,28 +5275,6 @@
           "unidade": "inciso IV",
           "diploma": {
             "especie": "Lei",
-            "numero": "14.026",
-            "ano": 2020
-          },
-          "trecho": "… de índice de perda de água na distribuição, conforme definido em ato do Ministro de Estado do Desenvolvimento Regional;",
-          "literal": "(Redação dada pela Lei nº 14.026, de 2020)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso IV",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.154",
-            "ano": 2023
-          },
-          "trecho": "…e perda de água na distribuição, conforme estabelecido em ato do Ministro de Estado do Meio Ambiente e Mudança do Clima;",
-          "literal": "(Redação dada pela Medida Provisória nº 1.154, de 2023)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso IV",
-          "diploma": {
-            "especie": "Lei",
             "numero": "14.600",
             "ano": 2023
           },
@@ -6442,28 +5316,6 @@
           "diploma": null,
           "trecho": "…s métodos e a periodicidade estabelecidos pelo Ministério das Cidades. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso V",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "14.026",
-            "ano": 2020
-          },
-          "trecho": "…as para o Sinisa, conforme critérios, métodos e periodicidade estabelecidos pelo Ministério do Desenvolvimento Regional;",
-          "literal": "(Redação dada pela Lei nº 14.026, de 2020)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso V",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.154",
-            "ano": 2023
-          },
-          "trecho": "…o Sinisa, conforme critérios, métodos e periodicidade estabelecidos pelo Ministério do Meio Ambiente e Mudança do Clima;",
-          "literal": "(Redação dada pela Medida Provisória nº 1.154, de 2023)"
         },
         {
           "tipo": "redacao",
@@ -6543,24 +5395,6 @@
           "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "…com a viabilidade econômico-financeira dos serviços, vedada a aplicação em empreendimentos contratados de forma onerosa.",
-          "literal": "(Redação dada pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 1º",
-          "diploma": null,
-          "trecho": "…edada a aplicação em empreendimentos contratados de forma onerosa. (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Medida Provisória",
             "numero": "868",
             "ano": 2018
           },
@@ -6584,24 +5418,6 @@
           },
           "trecho": "…eamento cuja população não tenha capacidade de pagamento compatível com a viabilidade econômico-financeira dos serviços.",
           "literal": "(Redação dada pela Lei nº 14.026, de 2020)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 5º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "…rios, fiscais ou creditícios como contrapartida ao alcance de metas de desempenho operacional previamente estabelecidas.",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 5º",
-          "diploma": null,
-          "trecho": "…ance de metas de desempenho operacional previamente estabelecidas. (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
@@ -6783,42 +5599,6 @@
           "tipo": "redacao",
           "unidade": "inciso I",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "I - o Plano Nacional de Saneamento Básico, que conterá:",
-          "literal": "(Redação dada pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso I",
-          "diploma": null,
-          "trecho": "I - o Plano Nacional de Saneamento Básico, que conterá: (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "I - o Plano Nacional de Saneamento Básico, que conterá:",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso I",
-          "diploma": null,
-          "trecho": "I - o Plano Nacional de Saneamento Básico, que conterá: (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
             "especie": "Lei",
             "numero": "14.026",
             "ano": 2020
@@ -6830,84 +5610,12 @@
           "tipo": "redacao",
           "unidade": "alínea c",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "…básico, com identificação das fontes de financiamento, de forma a ampliar os investimentos públicos e privados no setor;",
-          "literal": "(Redação dada pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "alínea c",
-          "diploma": null,
-          "trecho": "… de forma a ampliar os investimentos públicos e privados no setor; (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "alínea c",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "…básico, com identificação das fontes de financiamento, de forma a ampliar os investimentos públicos e privados no setor;",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "alínea c",
-          "diploma": null,
-          "trecho": "… de forma a ampliar os investimentos públicos e privados no setor; (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "alínea c",
-          "diploma": {
             "especie": "Lei",
             "numero": "14.026",
             "ano": 2020
           },
           "trecho": "…básico, com identificação das fontes de financiamento, de forma a ampliar os investimentos públicos e privados no setor;",
           "literal": "(Redação dada pela Lei nº 14.026, de 2020)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "§ 1º O Plano Nacional de Saneamento Básico deverá:",
-          "literal": "(Redação dada pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 1º",
-          "diploma": null,
-          "trecho": "§ 1º O Plano Nacional de Saneamento Básico deverá: (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "§ 1º O Plano Nacional de Saneamento Básico deverá:",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 1º",
-          "diploma": null,
-          "trecho": "§ 1º O Plano Nacional de Saneamento Básico deverá: (Redação dada pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
@@ -6936,42 +5644,6 @@
           "unidade": "inciso I",
           "diploma": null,
           "trecho": "…ento de banheiros e unidades hidrossanitárias para populações de baixa renda; (Redação dada pela Lei nº 13.308, de 2016)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "…o relativas ao saneamento básico nas áreas indígenas, nas reservas extrativistas da União e nas comunidades quilombolas;",
-          "literal": "(Redação dada pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso II",
-          "diploma": null,
-          "trecho": "…nas reservas extrativistas da União e nas comunidades quilombolas; (Redação dada pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "…o relativas ao saneamento básico nas áreas indígenas, nas reservas extrativistas da União e nas comunidades quilombolas;",
-          "literal": "(Redação dada pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso II",
-          "diploma": null,
-          "trecho": "…nas reservas extrativistas da União e nas comunidades quilombolas; (Redação dada pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
@@ -7183,28 +5855,6 @@
           "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
-            "numero": "14.026",
-            "ano": 2020
-          },
-          "trecho": "…ões pelos titulares, pelas entidades reguladoras e pelos prestadores dos serviços e para a auditoria própria do sistema.",
-          "literal": "(Redação dada pela Lei nº 14.026, de 2020)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.154",
-            "ano": 2023
-          },
-          "trecho": "…ões pelos titulares, pelas entidades reguladoras e pelos prestadores dos serviços e para a auditoria própria do sistema.",
-          "literal": "(Redação dada pela Medida Provisória nº 1.154, de 2023)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Lei",
             "numero": "14.600",
             "ano": 2023
           },
@@ -7230,17 +5880,6 @@
           "literal": "(Vigência encerrada)"
         },
         {
-          "tipo": "redacao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "14.026",
-            "ano": 2020
-          },
-          "trecho": "…egional promoverão a interoperabilidade do Sistema Nacional de Informações sobre Recursos Hídricos (SNIRH) com o Sinisa.",
-          "literal": "(Redação dada pela Lei nº 14.026, de 2020)"
-        },
-        {
           "tipo": "inclusao",
           "unidade": "§ 4º",
           "diploma": {
@@ -7257,17 +5896,6 @@
           "diploma": null,
           "trecho": "… Sistema Nacional de Informações sobre Recursos Hídricos com o Sinisa. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.154",
-            "ano": 2023
-          },
-          "trecho": "…o Clima promoverão a interoperabilidade do Sistema Nacional de Informações sobre Recursos Hídricos - SNIRH com o Sinisa.",
-          "literal": "(Redação dada pela Medida Provisória nº 1.154, de 2023)"
         },
         {
           "tipo": "redacao",
@@ -7321,28 +5949,6 @@
           "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
-            "numero": "14.026",
-            "ano": 2020
-          },
-          "trecho": "…co para fornecer os dados necessários ao desenvolvimento, à implementação e à avaliação das políticas públicas do setor.",
-          "literal": "(Redação dada pela Lei nº 14.026, de 2020)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 5º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.154",
-            "ano": 2023
-          },
-          "trecho": "…co para fornecer os dados necessários ao desenvolvimento, à implementação e à avaliação das políticas públicas do setor.",
-          "literal": "(Redação dada pela Medida Provisória nº 1.154, de 2023)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 5º",
-          "diploma": {
-            "especie": "Lei",
             "numero": "14.600",
             "ano": 2023
           },
@@ -7361,46 +5967,6 @@
           "literal": "(Incluído pela Medida Provisória nº 844, de 2018)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "§ 6º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "§ 6º-A O Ministério das Cidades estabelecerá mecanismo sistemático de auditoria das informações inseridas no Sinisa.",
-          "literal": "(Incluído pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 6º",
-          "diploma": null,
-          "trecho": "…ecanismo sistemático de auditoria das informações inseridas no Sinisa. (Incluído pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 6º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "14.026",
-            "ano": 2020
-          },
-          "trecho": "…istério do Desenvolvimento Regional estabelecerá mecanismo sistemático de auditoria das informações inseridas no Sinisa.",
-          "literal": "(Redação dada pela Lei nº 14.026, de 2020)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 6º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.154",
-            "ano": 2023
-          },
-          "trecho": "…do Meio Ambiente e Mudança do Clima estabelecerá mecanismo sistemático de auditoria das informações inseridas no Sinisa.",
-          "literal": "(Redação dada pela Medida Provisória nº 1.154, de 2023)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "§ 6º",
           "diploma": {
@@ -7410,42 +5976,6 @@
           },
           "trecho": "§ 6º O Ministério das Cidades estabelecerá mecanismo sistemático de auditoria das informações inseridas no Sinisa.",
           "literal": "(Redação dada pela Lei nº 14.600, de 2023)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 7º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "844",
-            "ano": 2018
-          },
-          "trecho": "…dores de serviços de saneamento básico e as entidades reguladoras fornecerão as informações a serem inseridas no Sinisa.",
-          "literal": "(Incluído pela Medida Provisória nº 844, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 7º",
-          "diploma": null,
-          "trecho": "…des reguladoras fornecerão as informações a serem inseridas no Sinisa. (Incluído pela Medida Provisória nº 844, de 2018)",
-          "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 7º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "868",
-            "ano": 2018
-          },
-          "trecho": "…dores de serviços de saneamento básico e as entidades reguladoras fornecerão as informações a serem inseridas no Sinisa.",
-          "literal": "(Incluído pela Medida Provisória nº 868, de 2018)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 7º",
-          "diploma": null,
-          "trecho": "…des reguladoras fornecerão as informações a serem inseridas no Sinisa. (Incluído pela Medida Provisória nº 868, de 2018)",
-          "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",

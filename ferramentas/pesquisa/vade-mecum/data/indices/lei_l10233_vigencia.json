@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l10233.json",
       "colecao": "artigos",
-      "sha256": "b85aadc08ebea2bf1d4a91371037c951ea5199487ae202a3b0a22c6336fe09c7",
+      "sha256": "26d31215b6a682bd914605cb6e57099956eba16df8b1741097d4f89f285f3d14",
       "total_registros": 154,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:49:57+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 113,
-      "anotacoes": 521,
+      "anotacoes": 433,
       "anotacoes_sem_diploma_nomeado": 65
     }
   },
@@ -191,17 +191,6 @@
           "tipo": "redacao",
           "unidade": "inciso V",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "369",
-            "ano": 2007
-          },
-          "trecho": "…érios dos Transportes, da Defesa, da Justiça, das Cidades e à Secretaria Especial de Portos da Presidência da República.",
-          "literal": "(Redação dada pela Medida Provisória nº 369, de 2007)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso V",
-          "diploma": {
             "especie": "Lei",
             "numero": "11.518",
             "ano": 2007
@@ -279,17 +268,6 @@
           },
           "trecho": "…ário e terrestre e a harmonização das respectivas políticas setoriais; (Revogado pela Medida Provisória nº 870, de 2019)",
           "literal": "(Revogado pela Lei nº 13.844, de 2019)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "369",
-            "ano": 2007
-          },
-          "trecho": "…ortes, conforme estabelece esta Lei, pela Secretaria Especial de Portos e pela Agência Nacional de Aviação Civil - ANAC;",
-          "literal": "(Redação dada pela Medida Provisória nº 369, de 2007)"
         },
         {
           "tipo": "redacao",
@@ -556,17 +534,6 @@
           "literal": "(VETADO)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "inciso IV",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.217-3",
-            "ano": 2001
-          },
-          "trecho": "…ação regular de serviços de transporte terrestre coletivo de passageiros desvinculados da exploração da infra-estrutura;",
-          "literal": "(Incluído pela Medida Provisória nº 2.217-3, de 4.9.2001)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "inciso IV",
           "diploma": {
@@ -622,94 +589,6 @@
           "literal": "(Revogada pela Lei nº 14.273, de 2021)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "inciso V",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.217-3",
-            "ano": 2001
-          },
-          "trecho": "… de passageiros, de prestação de serviço de transporte aquaviário, ou de exploração de infra-estrutura de uso privativo.",
-          "literal": "(Incluído pela Medida Provisória nº 2.217-3, de 4.9.2001)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso V",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "576",
-            "ano": 2012
-          },
-          "trecho": "V - autorização, quando se tratar de:",
-          "literal": "(Redação dada pela Medida Provisória nº 576, de 2012)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea a",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "576",
-            "ano": 2012
-          },
-          "trecho": "a) prestação não regular de serviços de transporte terrestre coletivo de passageiros;",
-          "literal": "(Incluída pela Medida Provisória nº 576, de 2012)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea b",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "576",
-            "ano": 2012
-          },
-          "trecho": "b) prestação de serviço de transporte aquaviário;",
-          "literal": "(Incluída pela Medida Provisória nº 576, de 2012)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea c",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "576",
-            "ano": 2012
-          },
-          "trecho": "c) exploração de infraestrutura de uso privativo; e",
-          "literal": "(Incluída pela Medida Provisória nº 576, de 2012)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea d",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "576",
-            "ano": 2012
-          },
-          "trecho": "…e ferroviário de cargas não associado à exploração da infraestrutura ferroviária, por operador ferroviário independente.",
-          "literal": "(Incluída pela Medida Provisória nº 576, de 2012)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "576",
-            "ano": 2012
-          },
-          "trecho": "…oa jurídica detentora de autorização para transporte ferroviário de cargas desvinculado da exploração da infraestrutura.",
-          "literal": "(Incluído pela Medida Provisória nº 576, de 2012)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso V",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.743",
-            "ano": 2012
-          },
-          "trecho": "V - autorização, quando se tratar de:",
-          "literal": "(Redação dada pela Lei nº 12.743, de 2012)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "inciso V",
           "diploma": {
@@ -719,17 +598,6 @@
           },
           "trecho": "V - autorização, quando se tratar de:",
           "literal": "(Redação dada pela Lei nº 12.996, de 2014)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea a",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.743",
-            "ano": 2012
-          },
-          "trecho": "a) prestação não regular de serviços de transporte terrestre coletivo de passageiros;",
-          "literal": "(Incluída pela Lei nº 12.743, de 2012)"
         },
         {
           "tipo": "redacao",
@@ -807,17 +675,6 @@
           },
           "trecho": "…ransporte terrestre coletivo interestadual e internacional de passageiros desvinculados da exploração da infraestrutura.",
           "literal": "(Incluído pela Lei nº 12.996, de 2014)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.743",
-            "ano": 2012
-          },
-          "trecho": "…oa jurídica detentora de autorização para transporte ferroviário de cargas desvinculado da exploração da infraestrutura.",
-          "literal": "(Incluído pela Lei nº 12.743, de 2012)"
         },
         {
           "tipo": "redacao",
@@ -912,17 +769,6 @@
           "tipo": "redacao",
           "unidade": "inciso III",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "III - depende de autorização:",
-          "literal": "(Redação dada pela Medida Provisória nº 595, de 2012)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso III",
-          "diploma": {
             "especie": "Lei",
             "numero": "12.815",
             "ano": 2013
@@ -936,28 +782,6 @@
           "diploma": null,
           "trecho": "a)",
           "literal": "(VETADO)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "alínea c",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.217-3",
-            "ano": 2001
-          },
-          "trecho": "c) a construção e operação de terminais de uso privativo, conforme disposto na Lei nº 8.630, de 25 de fevereiro de 1993;",
-          "literal": "(Redação dada pela Medida Provisória nº 2.217-3, de 4.9.2001)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "alínea c",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "… e a exploração das instalações portuárias de que trata o art. 8o da Medida Provisória no 595, de 6 de dezembro de 2012.",
-          "literal": "(Redação dada pela Medida Provisória nº 595, de 2012)"
         },
         {
           "tipo": "redacao",
@@ -1022,28 +846,6 @@
           "literal": "(Revogada pela Lei nº 14.273, de 2021)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "alínea g",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.518",
-            "ano": 2007
-          },
-          "trecho": "g) a construção e exploração de Estações de Transbordo de Cargas;",
-          "literal": "(Incluído pela Lei nº 11.518, de 2007)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "alínea g",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "g) a construção e exploração de Estações de Transbordo de Cargas; (Incluído pela Lei nº 11.518, de 2007)",
-          "literal": "(Revogada pela Medida Provisória nº 595, de 2012)"
-        },
-        {
           "tipo": "revogacao",
           "unidade": "alínea g",
           "diploma": null,
@@ -1062,28 +864,6 @@
           "literal": "(Redação dada pela Lei nº 12.815, de 2013)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "alínea h",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.518",
-            "ano": 2007
-          },
-          "trecho": "h) a construção e exploração de Instalação Portuária Pública de Pequeno Porte;",
-          "literal": "(Incluído pela Lei nº 11.518, de 2007)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "alínea h",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "h) a construção e exploração de Instalação Portuária Pública de Pequeno Porte; (Incluído pela Lei nº 11.518, de 2007)",
-          "literal": "(Revogada pela Medida Provisória nº 595, de 2012)"
-        },
-        {
           "tipo": "revogacao",
           "unidade": "alínea h",
           "diploma": null,
@@ -1100,17 +880,6 @@
           },
           "trecho": "h) (revogada);",
           "literal": "(Redação dada pela Lei nº 12.815, de 2013)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea i",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "576",
-            "ano": 2012
-          },
-          "trecho": "… transporte ferroviário de cargas não associado à exploração da infraestrutura, por operador ferroviário independente; e",
-          "literal": "(Incluída pela Medida Provisória nº 576, de 2012)"
         },
         {
           "tipo": "inclusao",
@@ -1168,19 +937,8 @@
           "literal": "(Incluída pela Medida Provisória nº 2.217-3, de 4.9.2001)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "alínea a",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.217-3",
-            "ano": 2001
-          },
-          "trecho": "a) o transporte rodoviário coletivo regular de passageiros;",
-          "literal": "(Incluída pela Medida Provisória nº 2.217-3, de 4.9.2001)"
-        },
-        {
           "tipo": "redacao",
-          "unidade": "alínea a",
+          "unidade": "inciso IV",
           "diploma": {
             "especie": "Lei",
             "numero": "12.996",
@@ -1188,17 +946,6 @@
           },
           "trecho": "'a) transporte rodoviário coletivo regular interestadual semiurbano de passageiros;",
           "literal": "(Redação dada pela Lei nº 12.996, de 2014)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea b",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "353",
-            "ano": 2007
-          },
-          "trecho": "b) o transporte ferroviário de passageiros não associado à infra-estrutura.",
-          "literal": "(Incluída pela Medida Provisória nº 353, de 2007)"
         },
         {
           "tipo": "redacao",
@@ -1389,17 +1136,6 @@
           "tipo": "redacao",
           "unidade": "inciso I",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "…ncia da República, em suas respectivas áreas de competência, segundo os princípios e diretrizes estabelecidos nesta Lei;",
-          "literal": "(Redação dada pela Medida Provisória nº 595, de 2012)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
             "especie": "Lei",
             "numero": "12.815",
             "ano": 2013
@@ -1451,28 +1187,6 @@
           "literal": "(Redação dada pela Lei nº 12.815, de 2013)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.518",
-            "ano": 2007
-          },
-          "trecho": "II - os portos organizados e as Instalações Portuárias Públicas de Pequeno Porte;",
-          "literal": "(Incluído pela Lei nº 11.518, de 2007)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "II - os portos organizados e as instalações portuárias neles localizadas;",
-          "literal": "(Redação dada pela Medida Provisória nº 595, de 2012)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "inciso II",
           "diploma": {
@@ -1482,28 +1196,6 @@
           },
           "trecho": "II - os portos organizados e as instalações portuárias neles localizadas;",
           "literal": "(Redação dada pela Lei nº 12.815, de 2013)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.518",
-            "ano": 2007
-          },
-          "trecho": "III - os terminais portuários privativos e as Estações de Transbordo de Cargas;",
-          "literal": "(Incluído pela Lei nº 11.518, de 2007)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "III - as instalações portuárias de que trata o art. 8o da Medida Provisória no 595, de 6 de dezembro de 2012;",
-          "literal": "(Redação dada pela Medida Provisória nº 595, de 2012)"
         },
         {
           "tipo": "redacao",
@@ -1526,17 +1218,6 @@
           },
           "trecho": "V - a exploração da infra-estrutura aquaviária federal.",
           "literal": "(Incluído pela Medida Provisória nº 2.217-3, de 4.9.2001)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "…lidades de transporte, com a finalidade de promover a movimentação intermodal mais econômica e segura de pessoas e bens.",
-          "literal": "(Redação dada pela Medida Provisória nº 595, de 2012)"
         },
         {
           "tipo": "redacao",
@@ -1570,28 +1251,6 @@
           "unidade": "inciso IX",
           "diploma": {
             "especie": "Medida Provisória",
-            "numero": "2.217-3",
-            "ano": 2001
-          },
-          "trecho": "…ecidas, encaminhando ao Ministro de Estado dos Transportes, se for o caso, propostas de declaração de utilidade pública;",
-          "literal": "(Redação dada pela Medida Provisória nº 2.217-3, de 4.9.2001)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso IX",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.448",
-            "ano": 2017
-          },
-          "trecho": "IX - autorizar projetos e investimentos no âmbito das outorgas estabelecidas;",
-          "literal": "(Redação dada pela Lei nº 13.448, de 2017)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso IX",
-          "diploma": {
-            "especie": "Medida Provisória",
             "numero": "1.065",
             "ano": 2021
           },
@@ -1619,17 +1278,6 @@
           },
           "trecho": "… observadas as diretrizes do Ministro de Estado dos Transportes e as atribuições específicas dos demais órgãos federais.",
           "literal": "(Incluído pela Medida Provisória nº 2.217-3, de 4.9.2001)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XVII",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "10.561",
-            "ano": 2002
-          },
-          "trecho": "…da Lei no 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro, nas rodovias federais por ela administradas.",
-          "literal": "(Incluído pela Lei nº 10.561, de 13.11.2002)"
         },
         {
           "tipo": "redacao",
@@ -1780,28 +1428,6 @@
           "literal": "(Redação dada pela Lei nº 14.273, de 2021)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "inciso VIII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "576",
-            "ano": 2012
-          },
-          "trecho": "…para cessão a terceiros de capacidade de tráfego disponível na infraestrutura ferroviária explorada por concessionários.",
-          "literal": "(Incluído pela Medida Provisória nº 576, de 2012)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso VIII",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.743",
-            "ano": 2012
-          },
-          "trecho": "…para cessão a terceiros de capacidade de tráfego disponível na infraestrutura ferroviária explorada por concessionários.",
-          "literal": "(Incluído pela Lei nº 12.743, de 2012)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "inciso VIII",
           "diploma": {
@@ -1932,67 +1558,12 @@
           "tipo": "redacao",
           "unidade": "inciso I",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "I - promover estudos específicos de demanda de transporte aquaviário e de atividades portuárias;",
-          "literal": "(Redação dada pela Medida Provisória nº 595, de 2012)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
             "especie": "Lei",
             "numero": "12.815",
             "ano": 2013
           },
           "trecho": "I - promover estudos específicos de demanda de transporte aquaviário e de atividades portuárias;",
           "literal": "(Redação dada pela Lei nº 12.815, de 2013)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "369",
-            "ano": 2007
-          },
-          "trecho": "… exploração da infra-estrutura aquaviária e portuária e de prestação de serviços de transporte aquaviário; III - propor:",
-          "literal": "(Redação dada pela Medida Provisória nº 369, de 2007)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "369",
-            "ano": 2007
-          },
-          "trecho": "…l e lacustre, excluídos os portos outorgados às companhias docas, e de prestação de serviços de transporte aquaviário; e",
-          "literal": "(Incluído pela Medida Provisória nº 369, de 2007)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "369",
-            "ano": 2007
-          },
-          "trecho": "…plano geral de outorgas de exploração da infra-estrutura portuária marítima e dos portos outorgados às companhias docas;",
-          "literal": "(Incluído pela Medida Provisória nº 369, de 2007)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.518",
-            "ano": 2007
-          },
-          "trecho": "III - propor:",
-          "literal": "(Redação dada pela Lei nº 11.518, de 2007)"
         },
         {
           "tipo": "inclusao",
@@ -2037,17 +1608,6 @@
           },
           "trecho": "…os e terminais portuários marítimos, bem como dos outorgados às companhias docas; (Incluído pela Lei nº 11.518, de 2007)",
           "literal": "(Revogado pela Medida Provisória nº 595, de 2012)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "… plano geral de outorgas de exploração da infraestrutura aquaviária e de prestação de serviços de transporte aquaviário;",
-          "literal": "(Redação dada pela Medida Provisória nº 595, de 2012)"
         },
         {
           "tipo": "redacao",
@@ -2100,28 +1660,6 @@
           "tipo": "redacao",
           "unidade": "inciso VII",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.217-3",
-            "ano": 2001
-          },
-          "trecho": "…e de reajuste de tarifas encaminhadas pelas Administrações Portuárias, após prévia comunicação ao Ministério da Fazenda;",
-          "literal": "(Redação dada pela Medida Provisória nº 2.217-3, de 4.9.2001)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso VII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "…rada a comunicação prévia, com antecedência mínima de quinze dias úteis, ao poder concedente e ao Ministério da Fazenda;",
-          "literal": "(Redação dada pela Medida Provisória nº 595, de 2012)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso VII",
-          "diploma": {
             "especie": "Lei",
             "numero": "12.815",
             "ano": 2013
@@ -2154,34 +1692,12 @@
           "tipo": "redacao",
           "unidade": "inciso XIV",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "…arrendatários, autorizatários e operadores portuários, nos termos da Medida Provisória no 595, de 6 de dezembro de 2012;",
-          "literal": "(Redação dada pela Medida Provisória nº 595, de 2012)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XIV",
-          "diploma": {
             "especie": "Lei",
             "numero": "12.815",
             "ano": 2013
           },
           "trecho": "… e operadores portuários, nos termos da Lei na qual foi convertida a Medida Provisória nº 595, de 6 de dezembro de 2012;",
           "literal": "(Redação dada pela Lei nº 12.815, de 2013)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XV",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "… com as diretrizes do poder concedente, em obediência ao disposto na Medida Provisória nº 595, de 6 de dezembro de 2012;",
-          "literal": "(Redação dada pela Medida Provisória nº 595, de 2012)"
         },
         {
           "tipo": "redacao",
@@ -2198,45 +1714,12 @@
           "tipo": "redacao",
           "unidade": "inciso XVI",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "…eversíveis à União de que trata o inciso VIII do caput do art. 5o da Medida Provisória no 595, de 6 de dezembro de 2012;",
-          "literal": "(Redação dada pela Medida Provisória nº 595, de 2012)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XVI",
-          "diploma": {
             "especie": "Lei",
             "numero": "12.815",
             "ano": 2013
           },
           "trecho": "…ta o inciso VIII do caput do art. 5o da Lei na qual foi convertida a Medida Provisória nº 595, de 6 de dezembro de 2012;",
           "literal": "(Redação dada pela Lei nº 12.815, de 2013)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XVII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.217-3",
-            "ano": 2001
-          },
-          "trecho": "…e de reajuste de tarifas encaminhadas pelas Administrações Portuárias, após prévia comunicação ao Ministério da Fazenda;",
-          "literal": "(Redação dada pela Medida Provisória nº 2.217-3, de 4.9.2001)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XVII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "369",
-            "ano": 2007
-          },
-          "trecho": "…tado dos Transportes ou ao Secretário Especial de Portos, conforme o caso, propostas de declaração de utilidade pública;",
-          "literal": "(Redação dada pela Medida Provisória nº 369, de 2007)"
         },
         {
           "tipo": "redacao",
@@ -2266,28 +1749,6 @@
           },
           "trecho": "…viços das empresas de navegação de longo curso, de cabotagem, de apoio marítimo, de apoio portuário, fluvial e lacustre;",
           "literal": "(Incluído pela Medida Provisória nº 2.217-3, de 4.9.2001)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XXII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.217-3",
-            "ano": 2001
-          },
-          "trecho": "…orizar a construção e a exploração de terminais portuários de uso privativo, conforme previsto na Lei no 8.630, de 1993;",
-          "literal": "(Incluído pela Medida Provisória nº 2.217-3, de 4.9.2001)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XXII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "…o das autorizações de instalação portuária de que trata o art. 8o da Medida Provisória no 595, de 6 de dezembro de 2012;",
-          "literal": "(Redação dada pela Medida Provisória nº 595, de 2012)"
         },
         {
           "tipo": "redacao",
@@ -2323,28 +1784,6 @@
           "literal": "(Incluído pela Medida Provisória nº 2.217-3, de 4.9.2001)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "inciso XXV",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.217-3",
-            "ano": 2001
-          },
-          "trecho": "…estrutura aquaviária e portuária, gerindo e fiscalizando os respectivos contratos e demais instrumentos administrativos.",
-          "literal": "(Incluído pela Medida Provisória nº 2.217-3, de 4.9.2001)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XXV",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "…ção da infraestrutura aquaviária, gerindo e fiscalizando os respectivos contratos e demais instrumentos administrativos;",
-          "literal": "(Redação dada pela Medida Provisória nº 595, de 2012)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "inciso XXV",
           "diploma": {
@@ -2354,28 +1793,6 @@
           },
           "trecho": "…ção da infraestrutura aquaviária, gerindo e fiscalizando os respectivos contratos e demais instrumentos administrativos;",
           "literal": "(Redação dada pela Lei nº 12.815, de 2013)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XXVI",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.518",
-            "ano": 2007
-          },
-          "trecho": "XXVI - celebrar atos de outorga de autorização para construção e exploração de Estação de Transbordo de Carga;",
-          "literal": "(Incluído pela Lei nº 11.518, de 2007)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XXVI",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "…endamento de instalação portuária, em conformidade com o disposto na Medida Provisória no 595, de 6 de dezembro de 2012.",
-          "literal": "(Redação dada pela Medida Provisória nº 595, de 2012)"
         },
         {
           "tipo": "redacao",
@@ -2387,28 +1804,6 @@
           },
           "trecho": "…ária, em conformidade com o disposto na Lei na qual foi convertida a Medida Provisória nº 595, de 6 de dezembro de 2012;",
           "literal": "(Redação dada pela Lei nº 12.815, de 2013)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XXVII",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.518",
-            "ano": 2007
-          },
-          "trecho": "…- celebrar atos de outorga de autorização para construção e exploração de Instalação Portuária Pública de Pequeno Porte.",
-          "literal": "(Incluído pela Lei nº 11.518, de 2007)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "inciso XXVII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "…ão para construção e exploração de Instalação Portuária Pública de Pequeno Porte. (Incluído pela Lei nº 11.518, de 2007)",
-          "literal": "(Revogado pela Medida Provisória nº 595, de 2012)"
         },
         {
           "tipo": "revogacao",
@@ -2476,17 +1871,6 @@
           "tipo": "redacao",
           "unidade": "inciso II",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "II - participar de foros internacionais, sob a coordenação do Poder Executivo; e",
-          "literal": "(Redação dada pela Medida Provisória nº 595, de 2012)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
             "especie": "Lei",
             "numero": "12.815",
             "ano": 2013
@@ -2508,17 +1892,6 @@
         {
           "tipo": "revogacao",
           "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "…art. 31 da Lei no 8.630, de 25 de fevereiro de 1993, será indicado pela ANTAQ e a representará em cada porto organizado.",
-          "literal": "(Revogado pela Medida Provisória nº 595, de 2012)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3o",
           "literal": "(Revogado)"
@@ -2533,17 +1906,6 @@
           },
           "trecho": "§ 3o (Revogado).",
           "literal": "(Redação dada pela Lei nº 12.815, de 2013)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "…u de recurso a que se refere o §2 do art. 5o da Lei no 8.630, de 25 de fevereiro de 1993, passa a ser atribuído à ANTAQ.",
-          "literal": "(Revogado pela Medida Provisória nº 595, de 2012)"
         },
         {
           "tipo": "revogacao",
@@ -2683,28 +2045,6 @@
           },
           "trecho": "§ 1o As condições básicas do edital de licitação serão submetidas à prévia consulta pública.",
           "literal": "(Incluído pela Medida Provisória nº 2.217-3, de 4.9.2001)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.217-3",
-            "ano": 2001
-          },
-          "trecho": "§ 2o O edital de licitação indicará obrigatoriamente:",
-          "literal": "(Incluído pela Medida Provisória nº 2.217-3, de 4.9.2001)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "§ 2o O edital de licitação indicará obrigatoriamente, ressalvado o disposto em legislação específica:",
-          "literal": "(Redação dada pela Medida Provisória nº 595, de 2012)"
         },
         {
           "tipo": "redacao",
@@ -2938,17 +2278,6 @@
           "literal": "(Redação dada pela Lei nº 14.298, de 2022)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.996",
-            "ano": 2014
-          },
-          "trecho": "…, observados os princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência, na forma do regulamento.",
-          "literal": "(Incluído pela Lei nº 12.996, de 2014)"
-        },
-        {
           "tipo": "revogacao",
           "unidade": "parágrafo único",
           "diploma": null,
@@ -3058,34 +2387,34 @@
           "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
+            "especie": "Lei",
+            "numero": "12.815",
+            "ano": 2013
           },
-          "trecho": "…ou autorizatárias de instalações portuárias, observado o disposto na Medida Provisória no 595, de 6 de dezembro de 2012.",
-          "literal": "(Redação dada pela Medida Provisória nº 595, de 2012)"
+          "trecho": "…ões portuárias, observado o disposto na Lei na qual foi convertida a Medida Provisória no 595, de 6 de dezembro de 2012.",
+          "literal": "(Redação dada pela Lei nº 12.815, de 2013)"
         },
         {
           "tipo": "redacao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
+            "especie": "Lei",
+            "numero": "12.815",
+            "ano": 2013
           },
-          "trecho": "…administrações dos portos objeto de convênios de delegação celebrados nos termos da Lei no 9.277, de 10 de maio de 1996.",
-          "literal": "(Redação dada pela Medida Provisória nº 595, de 2012)"
+          "trecho": "…administrações dos portos objeto de convênios de delegação celebrados nos termos da Lei nº 9.277, de 10 de maio de 1996.",
+          "literal": "(Redação dada pela Lei nº 12.815, de 2013)"
         },
         {
           "tipo": "redacao",
           "unidade": "§ 2º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
+            "especie": "Lei",
+            "numero": "12.815",
+            "ano": 2013
           },
           "trecho": "…tes ou à Secretaria de Portos da Presidência da República todo apoio necessário à celebração dos convênios de delegação.",
-          "literal": "(Redação dada pela Medida Provisória nº 595, de 2012)"
+          "literal": "(Redação dada pela Lei nº 12.815, de 2013)"
         }
       ]
     },
@@ -3177,17 +2506,6 @@
           "tipo": "redacao",
           "unidade": "parágrafo único",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "…, competindo ao Presidente da República determinar o afastamento preventivo, quando for o caso, e proferir o julgamento.",
-          "literal": "(Redação dada pela Medida Provisória nº 595, de 2012)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "parágrafo único",
-          "diploma": {
             "especie": "Lei",
             "numero": "12.815",
             "ano": 2013
@@ -3244,37 +2562,33 @@
       "situacao": null,
       "eventos": [
         {
+          "tipo": "redacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.848",
+            "ano": 2019
+          },
+          "trecho": "Art. 63. O Ouvidor será nomeado pelo Presidente da República para mandato de 3 (três) anos, vedada a recondução.",
+          "literal": "(Redação dada pela Lei nº 13.848, de 2019)"
+        },
+        {
           "tipo": "revogacao",
+          "unidade": "parágrafo único",
+          "diploma": null,
+          "trecho": "Parágrafo único.",
+          "literal": "(Revogado)"
+        },
+        {
+          "tipo": "redacao",
           "unidade": "parágrafo único",
           "diploma": {
             "especie": "Lei",
             "numero": "13.848",
             "ano": 2019
           },
-          "trecho": "Parágrafo único. São atribuições do Ouvidor:",
-          "literal": "(Revogado pela Lei nº 13.848, de 2019)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.848",
-            "ano": 2019
-          },
-          "trecho": "…dos de informações, esclarecimentos e reclamações afetos à respectiva Agência, e responder diretamente aos interessados;",
-          "literal": "(Revogado pela Lei nº 13.848, de 2019)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.848",
-            "ano": 2019
-          },
-          "trecho": "…produzir semestralmente, ou quando a Diretoria da Agência julgar oportuno, relatório circunstanciado de suas atividades.",
-          "literal": "(Revogado pela Lei nº 13.848, de 2019)"
+          "trecho": "Parágrafo único. (Revogado).",
+          "literal": "(Redação dada pela Lei nº 13.848, de 2019)"
         }
       ]
     },
@@ -3303,28 +2617,6 @@
           },
           "trecho": "…ria absoluta de seus membros, cabendo aos respectivos Diretores-Gerais o voto de qualidade, e serão registradas em atas.",
           "literal": "(Redação dada pela Lei nº 13.848, de 2019)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "…entos que as instruam, deverão ser objeto de ampla publicidade, inclusive por meio da internet, na forma do regulamento.",
-          "literal": "(Redação dada pela Medida Provisória nº 595, de 2012)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.815",
-            "ano": 2013
-          },
-          "trecho": "…entos que as instruam, deverão ser objeto de ampla publicidade, inclusive por meio da internet, na forma do regulamento.",
-          "literal": "(Redação dada pela Lei nº 12.815, de 2013)"
         },
         {
           "tipo": "redacao",
@@ -3400,17 +2692,6 @@
           "tipo": "redacao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "155",
-            "ano": 2003
-          },
-          "trecho": "…s níveis de cargos comissionados da ANTT e da ANTAQ encontram-se estabelecidos nas Tabelas II e IV do Anexo I desta Lei.",
-          "literal": "(Redação dada pela Medida Provisória nº 155, de 23.12.2003)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
             "especie": "Lei",
             "numero": "10.871",
             "ano": 2004
@@ -3428,17 +2709,6 @@
           },
           "trecho": "… médio da ANTT e da ANTAQ são fixados na Tabela VII do Anexo I desta Lei. (Vide Medida Provisória nº 155, de 23.12.2003)",
           "literal": "(Revogado pela Lei 10.871, de 2004)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "155",
-            "ano": 2003
-          },
-          "trecho": "…fissional, inclusive gestão operacional de empresa ou direção político-partidária, excetuados os casos admitidos em lei.",
-          "literal": "(Redação dada pela Medida Provisória nº 155, de 23.12.2003)"
         },
         {
           "tipo": "redacao",
@@ -3558,12 +2828,34 @@
           "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.217-3",
-            "ano": 2001
+            "especie": "Lei",
+            "numero": "10.871",
+            "ano": 2004
           },
-          "trecho": "… em Extinção de que tratam os arts. 113 e 114-A e de requisitados de outros órgãos e entidades da Administração Pública.",
-          "literal": "(Redação dada pela Medida Provisória nº 2.217-3, de 4.9.2001)"
+          "trecho": "…ão de que tratam os arts. 113 e 114-A desta Lei e de requisitados de outros órgãos e entidades da Administração Pública.",
+          "literal": "(Redação dada pela Lei nº 10.871, de 2004)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "parágrafo único",
+          "diploma": {
+            "especie": "Medida Provisória",
+            "numero": "375",
+            "ano": 2007
+          },
+          "trecho": "…o Comissionado Técnico será pago um valor acrescido ao salário ou vencimento, conforme a Tabela VI do Anexo I desta Lei.",
+          "literal": "(Revogado pela Medida Provisória nº 375, de 2007)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "parágrafo único",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "11.526",
+            "ano": 2007
+          },
+          "trecho": "…o ao salário ou vencimento, conforme a Tabela VI do Anexo I desta Lei. (Revogado pela Medida Provisória nº 375, de 2007)",
+          "literal": "(Revogado pela Lei nº 11.526, de 2007)"
         }
       ]
     },
@@ -3776,28 +3068,6 @@
           "literal": "(Incluído pela Lei nº 12.996, de 2014)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.217-3",
-            "ano": 2001
-          },
-          "trecho": "… de 1993, inclusive no que diz respeito às atribuições da Administração Portuária e do Conselho de Autoridade Portuária.",
-          "literal": "(Incluído pela Medida Provisória nº 2.217-3, de 4.9.2001)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "…ação das sanções referidas no caput, a ANTAQ observará o disposto na Medida Provisória no 595, de 6 de dezembro de 2012.",
-          "literal": "(Incluído pela Medida Provisória nº 595, de 2012)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "§ 1º",
           "diploma": {
@@ -3807,17 +3077,6 @@
           },
           "trecho": "… caput, a Antaq observará o disposto na Lei na qual foi convertida a Medida Provisória nº 595, de 6 de dezembro de 2012.",
           "literal": "(Redação dada pela Lei nº 12.815, de 2013)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "…rganizado ou arrendamento e autorização de instalação portuária, caberá ao poder concedente, mediante proposta da ANTAQ.",
-          "literal": "(Incluído pela Medida Provisória nº 595, de 2012)"
         },
         {
           "tipo": "redacao",
@@ -4066,28 +3325,6 @@
           "unidade": "inciso III",
           "diploma": {
             "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "III - instalações e vias de transbordo e de interface intermodal, exceto as portuárias.",
-          "literal": "(Redação dada pela Medida Provisória nº 595, de 2012)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.815",
-            "ano": 2013
-          },
-          "trecho": "III - instalações e vias de transbordo e de interface intermodal, exceto as portuárias;",
-          "literal": "(Redação dada pela Lei nº 12.815, de 2013)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Medida Provisória",
             "numero": "882",
             "ano": 2019
           },
@@ -4106,33 +3343,11 @@
           "unidade": "inciso III",
           "diploma": {
             "especie": "Lei",
-            "numero": "12.815",
-            "ano": 2013
-          },
-          "trecho": "III - instalações e vias de transbordo e de interface intermodal, exceto as portuárias;",
-          "literal": "(Redação dada pela Lei nº 12.815, de 2013)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Lei",
             "numero": "14.301",
             "ano": 2022
           },
           "trecho": "III - instalações e vias de transbordo e de interface intermodal; e",
           "literal": "(Redação dada pela Lei nº 14.301, de 2022)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso IV",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "369",
-            "ano": 2007
-          },
-          "trecho": "… instalações portuárias. IV - instalações portuárias fluviais e lacustres, excetuadas as outorgadas às companhias docas.",
-          "literal": "(Redação dada pela Medida Provisória nº 369, de 2007)"
         },
         {
           "tipo": "redacao",
@@ -4246,33 +3461,11 @@
           "unidade": "inciso IV",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.518",
-            "ano": 2007
-          },
-          "trecho": "… vias navegáveis, terminais e instalações portuárias fluviais e lacustres, excetuadas as outorgadas às companhias docas;",
-          "literal": "(Redação dada pela Lei nº 11.518, de 2007)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso IV",
-          "diploma": {
-            "especie": "Lei",
             "numero": "13.081",
             "ano": 2015
           },
           "trecho": "…níveis, em hidrovias situadas em corpos de água de domínio da União, e instalações portuárias públicas de pequeno porte;",
           "literal": "(Redação dada pela Lei nº 13.081, de 2015)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso V",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.518",
-            "ano": 2007
-          },
-          "trecho": "…s, decorrentes de investimentos programados pelo Ministério dos Transportes e autorizados pelo Orçamento Geral da União;",
-          "literal": "(Redação dada pela Lei nº 11.518, de 2007)"
         },
         {
           "tipo": "redacao",
@@ -4341,17 +3534,6 @@
           "literal": "(Incluído pela Lei nº 11.483, de 2007)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "inciso XVIII",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.483",
-            "ano": 2007
-          },
-          "trecho": "… destinação dos ativos operacionais devolvidos pelas concessionárias, na forma prevista nos contratos de arrendamento; e",
-          "literal": "(Incluído pela Lei nº 11.483, de 2007)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "inciso XVIII",
           "diploma": {
@@ -4370,17 +3552,6 @@
           "literal": "(Vigência encerrada)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "inciso XVIII",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.483",
-            "ano": 2007
-          },
-          "trecho": "… destinação dos ativos operacionais devolvidos pelas concessionárias, na forma prevista nos contratos de arrendamento; e",
-          "literal": "(Incluído pela Lei nº 11.483, de 2007)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "inciso XVIII",
           "diploma": {
@@ -4390,17 +3561,6 @@
           },
           "trecho": "… à destinação dos ativos operacionais devolvidos pelas concessionárias, na forma prevista nos contratos de arrendamento;",
           "literal": "(Redação dada pela Lei nº 14.301, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XIX",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.483",
-            "ano": 2007
-          },
-          "trecho": "… dos Transportes, em conjunto com a ANTT, a destinação dos ativos operacionais ao término dos contratos de arrendamento.",
-          "literal": "(Incluído pela Lei nº 11.483, de 2007)"
         },
         {
           "tipo": "redacao",
@@ -4419,17 +3579,6 @@
           "diploma": null,
           "trecho": "…os ativos operacionais ao término dos contratos de arrendamento; e (Redação dada pela Medida Provisória nº 882, de 2019)",
           "literal": "(Vigência encerrada)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XIX",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.483",
-            "ano": 2007
-          },
-          "trecho": "… dos Transportes, em conjunto com a ANTT, a destinação dos ativos operacionais ao término dos contratos de arrendamento.",
-          "literal": "(Incluído pela Lei nº 11.483, de 2007)"
         },
         {
           "tipo": "redacao",
@@ -4475,17 +3624,6 @@
           "tipo": "redacao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Lei",
-            "numero": "10.561",
-            "ano": 2002
-          },
-          "trecho": "…a que se refere o caput não se aplicam aos elementos da infra-estrutura concedidos ou arrendados pela ANTT e pela ANTAQ.",
-          "literal": "(Redação dada pela Lei nº 10.561, de 13.11.2002)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
             "especie": "Medida Provisória",
             "numero": "1.065",
             "ano": 2021
@@ -4498,44 +3636,11 @@
           "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
-            "numero": "10.561",
-            "ano": 2002
-          },
-          "trecho": "…a que se refere o caput não se aplicam aos elementos da infra-estrutura concedidos ou arrendados pela ANTT e pela ANTAQ.",
-          "literal": "(Redação dada pela Lei nº 10.561, de 13.11.2002)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Lei",
             "numero": "14.273",
             "ano": 2021
           },
           "trecho": "…não se aplicam aos elementos da infraestrutura arrendados ou outorgados para exploração indireta pela ANTT e pela Antaq.",
           "literal": "(Redação dada pela Lei nº 14.273, de 2021)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.217-3",
-            "ano": 2001
-          },
-          "trecho": "…ativas a vias navegáveis e instalações portuárias, o DNIT observará as prerrogativas específicas da Autoridade Marítima.",
-          "literal": "(Redação dada pela Medida Provisória nº 2.217-3, de 4.9.2001)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "595",
-            "ano": 2012
-          },
-          "trecho": "…vistas neste artigo e relativas a vias navegáveis, o DNIT observará as prerrogativas específicas da autoridade marítima.",
-          "literal": "(Redação dada pela Medida Provisória nº 595, de 2012)"
         },
         {
           "tipo": "redacao",
@@ -5175,13 +4280,6 @@
           "literal": "(Revogado pela Lei 10.871, de 2004)"
         },
         {
-          "tipo": "veto",
-          "unidade": "inciso I",
-          "diploma": null,
-          "trecho": "…e nível médio de Técnico em Infra-Estrutura de Transporte e de Técnico em Suporte à Infra-Estrutura de Transporte; III –",
-          "literal": "(VETADO)"
-        },
-        {
           "tipo": "revogacao",
           "unidade": "§ 1º",
           "diploma": {
@@ -5235,17 +4333,6 @@
           "tipo": "redacao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "155",
-            "ano": 2003
-          },
-          "trecho": "…ente, análise de curriculum vitae sem prejuízo de outras modalidades que, a critério da entidade, venham a ser exigidas.",
-          "literal": "(Redação dada pela Medida Provisória nº 155, de 23.12.2003)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
             "especie": "Lei",
             "numero": "10.871",
             "ano": 2004
@@ -5259,50 +4346,6 @@
           "diploma": null,
           "trecho": "§ 2o",
           "literal": "(VETADO)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "155",
-            "ano": 2003
-          },
-          "trecho": "… 3º Às contratações referidas no caput aplica-se o disposto nos arts. 5º e 6º da Lei nº 8.745, de 9 de dezembro de 1993.",
-          "literal": "(Redação dada pela Medida Provisória nº 155, de 23.12.2003)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "155",
-            "ano": 2003
-          },
-          "trecho": "…o ultrapasse o prazo de vinte e quatro meses, ficando limitada sua vigência, em qualquer caso, a 31 de dezembro de 2005.",
-          "literal": "(Redação dada pela Medida Provisória nº 155, de 23.12.2003)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 5º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "155",
-            "ano": 2003
-          },
-          "trecho": "…es definidos em ato conjunto da Agência e do órgão central do Sistema de Pessoal Civil da Administração Federal - SIPEC.",
-          "literal": "(Redação dada pela Medida Provisória nº 155, de 23.12.2003)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 6º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "155",
-            "ano": 2003
-          },
-          "trecho": "…ado pelo DNIT o disposto no § 1º do art. 7º, nos arts. 8º, 9º, 10, 11,12 e 16 da Lei nº 8.745, de 9 de dezembro de 1993.",
-          "literal": "(Redação dada pela Medida Provisória nº 155, de 23.12.2003)"
         },
         {
           "tipo": "redacao",
@@ -5972,17 +5015,6 @@
           "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.120",
-            "ano": 2022
-          },
-          "trecho": "… 5 – CARGOS COMISSIONADOS TÉCNICOS CCT I 24 CCT II 20 CCT III 15 CCT IV 10 CCT V 7 SUBTOTAL 76 TOTAL GERAL 143 TABELA IV",
-          "literal": "(Redação dada pela Medida Provisória nº 1.120, de 2022)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "caput",
-          "diploma": {
             "especie": "Lei",
             "numero": "14.465",
             "ano": 2022
@@ -6049,7 +5081,7 @@
           "tipo": "veto",
           "unidade": "caput",
           "diploma": null,
-          "trecho": "…rtes - DNIT Quadro de Pessoal Efetivo 1.051 728 850 1.578 2.629 TABELA II (Vide Medida Provisória nº 155, de 23.12.2003)",
+          "trecho": "…ória nº 155, de 23.12.2003) (Revogada pela Lei 10.871, de 2004) TABELA II (Vide Medida Provisória nº 155, de 23.12.2003)",
           "literal": "(VETADO)"
         },
         {
@@ -6067,7 +5099,7 @@
           "tipo": "veto",
           "unidade": "caput",
           "diploma": null,
-          "trecho": "…s Empregos Públicos NÍVEL VALOR MÍNIMO (R$) VALOR MÁXIMO (R$) Superior 1.890,00 5.680,00 Médio 488,00 2.200,00 TABELA IV",
+          "trecho": "…BELA II (Vide Medida Provisória nº 155, de 23.12.2003) (VETADO) TABELA III (Revogada pela Lei 10.871, de 2004) TABELA IV",
           "literal": "(VETADO)"
         }
       ]

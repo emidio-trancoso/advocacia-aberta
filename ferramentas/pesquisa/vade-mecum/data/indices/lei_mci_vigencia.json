@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_mci.json",
       "colecao": "artigos",
-      "sha256": "95db7c78df8fb529315eedc6e6101adc1b0a4c44353abce9a87c8a00ae616d0c",
+      "sha256": "e4a53149249c4da770f855587701b2654c4f80d6ff78aba29519a9a7d461b600",
       "total_registros": 37,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:50:01+00:00"
     },
     "relacao": {
       "chave": "numero",

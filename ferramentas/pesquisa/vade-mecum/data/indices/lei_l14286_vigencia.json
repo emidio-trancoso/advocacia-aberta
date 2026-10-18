@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_l14286.json",
       "colecao": "artigos",
-      "sha256": "65d5d510d413ee61d34d5ae91e63fad68179cc0abf100755b6625ce1c93de9e7",
+      "sha256": "a29e40910dd294602dd581fc74fc875619106fe656cd03c38b439bd9eb3784c4",
       "total_registros": 29,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:49:48+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 4,
-      "anotacoes": 9,
-      "anotacoes_sem_diploma_nomeado": 6
+      "anotacoes": 8,
+      "anotacoes_sem_diploma_nomeado": 5
     }
   },
   "vigencia": {
@@ -102,13 +102,6 @@
           },
           "trecho": "… observados os limites e as condições estabelecidos pela legislação. (Vide Medida Provisória nº 1.152, de 2022) Vigência",
           "literal": "(Revogado pela Lei nº 14.596, de 2023)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "parágrafo único",
-          "diploma": null,
-          "trecho": "Parágrafo único.",
-          "literal": "(Revogado)"
         }
       ]
     },

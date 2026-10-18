@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_lc64.json",
       "colecao": "artigos",
-      "sha256": "de0ea14b078dfab8813f5806d32b7fa49b5a5cf1b9f4c372af6e8a6923f923c4",
+      "sha256": "9194f9fd1d596bc5c67f4dc186810ddcca0c821c083b9e1cad9ea3c2b32a5f18",
       "total_registros": 33,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:49:46+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 8,
-      "anotacoes": 69,
+      "anotacoes": 63,
       "anotacoes_sem_diploma_nomeado": 5
     }
   },
@@ -44,33 +44,11 @@
           "unidade": "alínea b",
           "diploma": {
             "especie": "Lei Complementar",
-            "numero": "81",
-            "ano": null
-          },
-          "trecho": "…ante o período remanescente do mandato para o qual foram eleitos e nos oito anos subseqüentes ao término da legislatura;",
-          "literal": "(Redação dada pela LCP 81, de 13/04/94)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "alínea b",
-          "diploma": {
-            "especie": "Lei Complementar",
             "numero": "219",
             "ano": 2025
           },
           "trecho": "…unicípios e do Distrito Federal, nos 8 (oito) anos subsequentes à data da decisão que decretar a perda do cargo eletivo;",
           "literal": "(Redação dada pela Lei Complementar nº 219, de 2025)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "alínea c",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "135",
-            "ano": 2010
-          },
-          "trecho": "…m durante o período remanescente e nos 8 (oito) anos subsequentes ao término do mandato para o qual tenham sido eleitos;",
-          "literal": "(Redação dada pela Lei Complementar nº 135, de 2010)"
         },
         {
           "tipo": "redacao",
@@ -92,17 +70,6 @@
             "ano": 2010
           },
           "trecho": "…a a eleição na qual concorrem ou tenham sido diplomados, bem como para as que se realizarem nos 8 (oito) anos seguintes;",
-          "literal": "(Redação dada pela Lei Complementar nº 135, de 2010)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "alínea e",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "135",
-            "ano": 2010
-          },
-          "trecho": "…icial colegiado, desde a condenação até o transcurso do prazo de 8 (oito) anos após o cumprimento da pena, pelos crimes:",
           "literal": "(Redação dada pela Lei Complementar nº 135, de 2010)"
         },
         {
@@ -271,17 +238,6 @@
           "literal": "(Incluído pela Lei Complementar nº 135, de 2010)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "alínea k",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "135",
-            "ano": 2010
-          },
-          "trecho": "… o período remanescente do mandato para o qual foram eleitos e nos 8 (oito) anos subsequentes ao término da legislatura;",
-          "literal": "(Incluído pela Lei Complementar nº 135, de 2010)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "alínea k",
           "diploma": {
@@ -291,17 +247,6 @@
           },
           "trecho": "… Distrito Federal ou da Lei Orgânica dos Municípios, nos 8 (oito) anos subsequentes à data da renúncia ao cargo eletivo;",
           "literal": "(Redação dada pela Lei Complementar nº 219, de 2025)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea l",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "135",
-            "ano": 2010
-          },
-          "trecho": "…cito, desde a condenação ou o trânsito em julgado até o transcurso do prazo de 8 (oito) anos após o cumprimento da pena;",
-          "literal": "(Incluído pela Lei Complementar nº 135, de 2010)"
         },
         {
           "tipo": "redacao",
@@ -334,17 +279,6 @@
             "ano": 2010
           },
           "trecho": "…tável para evitar caracterização de inelegibilidade, pelo prazo de 8 (oito) anos após a decisão que reconhecer a fraude;",
-          "literal": "(Incluído pela Lei Complementar nº 135, de 2010)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea o",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "135",
-            "ano": 2010
-          },
-          "trecho": "…, pelo prazo de 8 (oito) anos, contado da decisão, salvo se o ato houver sido suspenso ou anulado pelo Poder Judiciário;",
           "literal": "(Incluído pela Lei Complementar nº 135, de 2010)"
         },
         {

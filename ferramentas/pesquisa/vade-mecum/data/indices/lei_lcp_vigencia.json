@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_lcp.json",
       "colecao": "artigos",
-      "sha256": "a57172e0d359e7c231b051bfcdda8a92dd511d35ae256b171957e50e4323c499",
+      "sha256": "2073cb33f2ea7f2ab4b842a275d09a4eab096bdfec63be422e8dd0940230d98f",
       "total_registros": 72,
-      "gerado_em": "2026-08-21T22:36:32+00:00"
+      "gerado_em": "2026-10-18T12:49:54+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 15,
-      "anotacoes": 34,
+      "anotacoes": 33,
       "anotacoes_sem_diploma_nomeado": 3
     }
   },
@@ -141,17 +141,6 @@
     "21": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "inclusao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "10.741",
-            "ano": 2003
-          },
-          "trecho": "Parágrafo único. Aumenta-se a pena de 1/3 (um terço) até a metade se a vítima é maior de 60 (sessenta) anos.",
-          "literal": "(Incluído pela Lei nº 10.741, de 2003)"
-        },
         {
           "tipo": "renumeracao",
           "unidade": "§ 1º",

@@ -329,7 +329,7 @@ describe("cobertura declarada pelo motor", () => {
     const legislacoes = listarLegislacaoDisponivel();
     expect(legislacoes).toHaveLength(277);
     expect(legislacoes.reduce((total, item) => total + item.registros, 0)).toBe(
-      23090,
+      23092,
     );
     for (const item of legislacoes) {
       expect(item.registros).toBeGreaterThan(0);
@@ -345,10 +345,10 @@ describe("cobertura declarada pelo motor", () => {
     });
     expect(TOTAL_TESES_STJ).toBe(3526);
     expect(TOTAL_EDICOES_JT).toBe(284);
-    expect(TOTAL_TEMAS_STJ).toBe(1473);
-    expect(TOTAL_TEMAS_RG_STF).toBe(1481);
-    expect(TOTAL_INFORMATIVOS_STF).toBe(11593);
-    expect(TOTAL_EDICOES_INFORMATIVO).toBe(1215);
+    expect(TOTAL_TEMAS_STJ).toBe(1474);
+    expect(TOTAL_TEMAS_RG_STF).toBe(1491);
+    expect(TOTAL_INFORMATIVOS_STF).toBe(11629);
+    expect(TOTAL_EDICOES_INFORMATIVO).toBe(1221);
     expect(TOTAL_ESPELHOS_STJ).toBe(12156);
     expect(TOTAL_ORGAOS_ESPELHOS).toBe(4);
   });

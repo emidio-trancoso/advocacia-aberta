@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l12865.json",
       "colecao": "artigos",
-      "sha256": "c3d00197c3632d168d649c82694ecd0e79f9e1bdc50fe96a2e22e0cd62bd5cbe",
+      "sha256": "a5069a941d4905b3593b3df078aa0bd77ebf0eac727cceda81e69338f07d7164",
       "total_registros": 46,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:49:47+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 19,
-      "anotacoes": 76,
+      "artigos_com_anotacao": 18,
+      "anotacoes": 66,
       "anotacoes_sem_diploma_nomeado": 6
     }
   },
@@ -97,100 +97,111 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "930",
+            "especie": "Lei",
+            "numero": "14.031",
             "ano": 2020
           },
           "trecho": "…ento pelo usuário final recebedor ou o direito ao recebimento desses recursos para o cumprimento dessa mesma finalidade:",
-          "literal": "(Incluído pela Medida Provisória nº 930, de 2020)"
+          "literal": "(Incluído pela Lei nº 14.031, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso I",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "930",
+            "especie": "Lei",
+            "numero": "14.031",
             "ano": 2020
           },
           "trecho": "…mprimento de obrigações de liquidação das transações de pagamento no âmbito do arranjo de pagamento ao qual se vinculem;",
-          "literal": "(Incluído pela Medida Provisória nº 930, de 2020)"
+          "literal": "(Incluído pela Lei nº 14.031, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso II",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "930",
+            "especie": "Lei",
+            "numero": "14.031",
             "ano": 2020
           },
           "trecho": "…ntes do arranjo de pagamento até o recebimento pelo usuário final recebedor, conforme as regras do arranjo de pagamento;",
-          "literal": "(Incluído pela Medida Provisória nº 930, de 2020)"
+          "literal": "(Incluído pela Lei nº 14.031, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso III",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "930",
+            "especie": "Lei",
+            "numero": "14.031",
             "ano": 2020
           },
-          "trecho": "…às transações de pagamento até o recebimento pelo usuário final recebedor, conforme as regras do arranjo de pagamento; e",
-          "literal": "(Incluído pela Medida Provisória nº 930, de 2020)"
+          "trecho": "… usuário final recebedor, ou para assegurar o cumprimento dessas obrigações, conforme as regras do arranjo de pagamento;",
+          "literal": "(Incluído pela Lei nº 14.031, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso IV",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "930",
+            "especie": "Lei",
+            "numero": "14.031",
             "ano": 2020
           },
           "trecho": "…ção ou dissolução a que seja submetido o participante do arranjo de pagamento pelo qual transitem os referidos recursos.",
-          "literal": "(Incluído pela Medida Provisória nº 930, de 2020)"
+          "literal": "(Incluído pela Lei nº 14.031, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "930",
+            "especie": "Lei",
+            "numero": "14.031",
             "ano": 2020
           },
           "trecho": "…elo usuário final recebedor para recebimento desses recursos, conforme as regras do arranjo de pagamento correspondente.",
-          "literal": "(Incluído pela Medida Provisória nº 930, de 2020)"
+          "literal": "(Incluído pela Lei nº 14.031, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 2º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "930",
+            "especie": "Lei",
+            "numero": "14.031",
             "ano": 2020
           },
-          "trecho": "…io final recebedor participante que entregar previamente recursos próprios, com ou sem ônus, ao usuário final recebedor.",
-          "literal": "(Incluído pela Medida Provisória nº 930, de 2020)"
+          "trecho": "…or o participante ou o terceiro que entregar previamente recursos próprios, com ou sem ônus, ao usuário final recebedor.",
+          "literal": "(Incluído pela Lei nº 14.031, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 3º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "930",
+            "especie": "Lei",
+            "numero": "14.031",
             "ano": 2020
           },
           "trecho": "…mento ao usuário final recebedor, ainda que permaneçam depositados na instituição de escolha do usuário final recebedor.",
-          "literal": "(Incluído pela Medida Provisória nº 930, de 2020)"
+          "literal": "(Incluído pela Lei nº 14.031, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 4º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "930",
+            "especie": "Lei",
+            "numero": "14.031",
             "ano": 2020
           },
-          "trecho": "…ut para outro participante ou agente, na forma prevista no regulamento do arranjo aprovado pelo Banco Central do Brasil.",
-          "literal": "(Incluído pela Medida Provisória nº 930, de 2020)"
+          "trecho": "…go para outro participante ou agente, na forma prevista no regulamento do arranjo aprovado pelo Banco Central do Brasil.",
+          "literal": "(Incluído pela Lei nº 14.031, de 2020)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 5º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.031",
+            "ano": 2020
+          },
+          "trecho": "…antia nem ineficácia da cessão ou da garantia, salvo se comprovado ter o cessionário ou o beneficiário atuado com má-fé.",
+          "literal": "(Incluído pela Lei nº 14.031, de 2020)"
         }
       ]
     },
@@ -201,12 +212,12 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "930",
+            "especie": "Lei",
+            "numero": "14.031",
             "ano": 2020
           },
-          "trecho": "…o, ainda que esses arranjos não sejam alcançados pelas disposições desta Lei, nos termos do disposto no § 4º do art. 6º.",
-          "literal": "(Incluído pela Medida Provisória nº 930, de 2020)"
+          "trecho": "… que esses arranjos não sejam alcançados pelas disposições desta Lei, nos termos previstos no § 4º do art. 6º desta Lei.",
+          "literal": "(Incluído pela Lei nº 14.031, de 2020)"
         }
       ]
     },
@@ -217,56 +228,56 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "930",
+            "especie": "Lei",
+            "numero": "14.031",
             "ano": 2020
           },
           "trecho": "…ansações de pagamento, na forma e na extensão definidas no regulamento do arranjo aprovado pelo Banco Central do Brasil:",
-          "literal": "(Incluído pela Medida Provisória nº 930, de 2020)"
+          "literal": "(Incluído pela Lei nº 14.031, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso I",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "930",
+            "especie": "Lei",
+            "numero": "14.031",
             "ano": 2020
           },
-          "trecho": "…de qualquer outro ato de constrição judicial, exceto para o cumprimento das obrigações assumidas no âmbito do arranjo; e",
-          "literal": "(Incluído pela Medida Provisória nº 930, de 2020)"
+          "trecho": "…u de qualquer outro ato de constrição judicial, exceto para o cumprimento das obrigações assumidas no âmbito do arranjo;",
+          "literal": "(Incluído pela Lei nº 14.031, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso II",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "930",
+            "especie": "Lei",
+            "numero": "14.031",
             "ano": 2020
           },
           "trecho": "…ção ou dissolução a que seja submetido o participante do arranjo de pagamento pelo qual transitem os referidos recursos.",
-          "literal": "(Incluído pela Medida Provisória nº 930, de 2020)"
+          "literal": "(Incluído pela Lei nº 14.031, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "930",
+            "especie": "Lei",
+            "numero": "14.031",
             "ano": 2020
           },
-          "trecho": "…emanescentes serão revertidos ao participante, de forma que não mais se aplicará o disposto nos incisos I e II do caput.",
-          "literal": "(Incluído pela Medida Provisória nº 930, de 2020)"
+          "trecho": "…serão revertidos ao participante, de forma que não mais se aplicará o disposto nos incisos I e II do caput deste artigo.",
+          "literal": "(Incluído pela Lei nº 14.031, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 2º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "930",
+            "especie": "Lei",
+            "numero": "14.031",
             "ano": 2020
           },
           "trecho": "…artigo não se aplica aos arranjos de pagamento fechados, conforme parâmetros estabelecidos pelo Banco Central do Brasil.",
-          "literal": "(Incluído pela Medida Provisória nº 930, de 2020)"
+          "literal": "(Incluído pela Lei nº 14.031, de 2020)"
         }
       ]
     },
@@ -432,55 +443,6 @@
           "diploma": null,
           "trecho": "Art. 19.",
           "literal": "(VETADO)"
-        }
-      ]
-    },
-    "23": {
-      "situacao": null,
-      "eventos": [
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.097",
-            "ano": 2015
-          },
-          "trecho": "…bservado o disposto nos arts. 7º a 10 da Lei nº 8.159, de 8 de janeiro de 1991, quando se tratar de documentos públicos.",
-          "literal": "(Incluído pela Lei nº 13.097, de 2015)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.097",
-            "ano": 2015
-          },
-          "trecho": "…to para o descarte das matrizes físicas dos documentos digitalizados e armazenados eletronicamente, nos termos do § 1º .",
-          "literal": "(Incluído pela Lei nº 13.097, de 2015)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
-          },
-          "trecho": "…ado o disposto nos art. 7º ao art. 10 da Lei nº 8.159, de 8 de janeiro de 1991, quando se tratar de documentos públicos.",
-          "literal": "(Redação dada pela Medida Provisória nº 897, de 2019)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
-          },
-          "trecho": "…ressalvados os documentos para os quais lei específica exija a guarda do documento original para o exercício de direito.",
-          "literal": "(Redação dada pela Medida Provisória nº 897, de 2019)"
         }
       ]
     },
@@ -720,17 +682,6 @@
           "tipo": "redacao",
           "unidade": "inciso I",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "627",
-            "ano": 2013
-          },
-          "trecho": "… por cento das multas isoladas, de cem por cento dos juros de mora e de cem por cento sobre o valor do encargo legal; ou",
-          "literal": "(Redação dada pela Medida Provisória nº 627, de 2013)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
             "especie": "Lei",
             "numero": "12.973",
             "ano": 2014
@@ -772,17 +723,6 @@
           "literal": "(Redação dada pela Lei nº 12.973, de 2014)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "§ 16º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "627",
-            "ano": 2013
-          },
-          "trecho": "…parcela equivalente à redução do valor das multas, dos juros e do encargo legal em decorrência do disposto neste artigo.",
-          "literal": "(Incluído pela Medida Provisória nº 627, de 2013)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "§ 16º",
           "diploma": {
@@ -813,44 +753,11 @@
           "tipo": "redacao",
           "unidade": "inciso II",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "627",
-            "ano": 2013
-          },
-          "trecho": "…r cento das multas isoladas, de cinquenta por cento dos juros de mora e de cem por cento sobre o valor do encargo legal.",
-          "literal": "(Redação dada pela Medida Provisória nº 627, de 2013)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
             "especie": "Lei",
             "numero": "12.973",
             "ano": 2014
           },
           "trecho": "…ultas isoladas, de 50% (cinquenta por cento) dos juros de mora e de 100% (cem por cento) sobre o valor do encargo legal.",
-          "literal": "(Redação dada pela Lei nº 12.973, de 2014)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 7º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "627",
-            "ano": 2013
-          },
-          "trecho": "…e dezembro de 2011, domiciliadas no Brasil, desde que se mantenham nesta condição até a data da opção pelo parcelamento.",
-          "literal": "(Redação dada pela Medida Provisória nº 627, de 2013)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 7º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.973",
-            "ano": 2014
-          },
-          "trecho": "…e dezembro de 2011, domiciliadas no Brasil, desde que se mantenham nesta condição até a data da opção pelo parcelamento.",
           "literal": "(Redação dada pela Lei nº 12.973, de 2014)"
         },
         {
@@ -868,34 +775,12 @@
           "tipo": "redacao",
           "unidade": "inciso II",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "627",
-            "ano": 2013
-          },
-          "trecho": "… sobre o Lucro Líquido próprios ou incorridos pelas sociedades controladoras e controladas até 31 de dezembro de 2012; e",
-          "literal": "(Redação dada pela Medida Provisória nº 627, de 2013)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
             "especie": "Lei",
             "numero": "12.973",
             "ano": 2014
           },
           "trecho": "…adoras e controladas e pelas sociedades que estejam sob controle comum, direto e indireto, até 31 de dezembro de 2012; e",
           "literal": "(Redação dada pela Lei nº 12.973, de 2014)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "627",
-            "ano": 2013
-          },
-          "trecho": "…uição social sobre o lucro líquido, o conceito previsto no § 2º do art. 243 da Lei nº 6.404, de 15 de dezembro de 1976 .",
-          "literal": "(Incluído pela Medida Provisória nº 627, de 2013)"
         },
         {
           "tipo": "redacao",

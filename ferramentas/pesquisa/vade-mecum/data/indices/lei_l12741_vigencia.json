@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_l12741.json",
       "colecao": "artigos",
-      "sha256": "882238754acdb1724b4df6c32b2ba46da5e362257e3b55556125b1f961d9c77f",
+      "sha256": "c0ec4d3c6d836d4eac3e4db1e2ea62e015acfcb7d989d5f342ab6b42d434720e",
       "total_registros": 6,
-      "gerado_em": "2026-09-14T13:56:05+00:00"
+      "gerado_em": "2026-10-18T12:49:43+00:00"
     },
     "relacao": {
       "chave": "numero",
@@ -88,12 +88,12 @@
           "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "620",
+            "especie": "Lei",
+            "numero": "12.868",
             "ano": 2013
           },
           "trecho": "…ições sujeitará o infrator às sanções previstas no Capítulo VII do Título I da Lei nº 8.078, de 11 de setembro de 1990 .",
-          "literal": "(Redação dada pela Medida Provisória nº 620, de 2013)"
+          "literal": "(Redação dada pela Lei nº 12.868, de 2013)"
         }
       ]
     }

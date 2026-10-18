@@ -23,33 +23,22 @@
     "fonte": {
       "arquivo": "lei_l6360.json",
       "colecao": "artigos",
-      "sha256": "863556bed554a3d652b36b4d135f978f8014e46de6ae4c8c55cc13a3d52ec9ef",
+      "sha256": "7b54f298058e9735edf2813dac00a9bcc3580cf050d4a2a61badb44066317174",
       "total_registros": 92,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:49:57+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 20,
-      "anotacoes": 108,
-      "anotacoes_sem_diploma_nomeado": 33
+      "artigos_com_anotacao": 21,
+      "anotacoes": 107,
+      "anotacoes_sem_diploma_nomeado": 35
     }
   },
   "vigencia": {
     "3": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XX",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.190-34",
-            "ano": 2001
-          },
-          "trecho": "… de validade, embalagem, rotulagem, excipientes e veículos, devendo sempre ser identificado por nome comercial ou marca;",
-          "literal": "(Redação dada pela Medida Provisória nº 2.190-34, de 2001)"
-        },
         {
           "tipo": "redacao",
           "unidade": "inciso XX",
@@ -67,17 +56,6 @@
           "diploma": null,
           "trecho": "…nça e qualidade, devendo sempre ser identificado por nome comercial ou marca; (Redação dada pela Lei nº 13.235, de 2015)",
           "literal": "(Vigência)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.190-34",
-            "ano": 2001
-          },
-          "trecho": "…o medicamento de referência internacional utilizado no estudo de bioequivalência e o medicamento de referência nacional.",
-          "literal": "(Incluído pela Medida Provisória nº 2.190-34, de 2001)"
         },
         {
           "tipo": "redacao",
@@ -146,17 +124,6 @@
           },
           "trecho": "… denominação constante da Farmacopéia Brasileira, não podendo, em hipótese alguma, ter nomes ou designações de fantasia.",
           "literal": "(Incluído pela Lei nº 6.480, de 1.12.1977)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 5º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.236",
-            "ano": 2015
-          },
-          "trecho": "… entre os erros mencionados no caput os de dispensação e de administração de medicamentos, drogas e produtos correlatos.",
-          "literal": "(Incluído pela Lei nº 13.236, de 2015)"
         },
         {
           "tipo": "redacao",
@@ -335,6 +302,22 @@
           "diploma": null,
           "trecho": "III - fundamentos técnicos das decisões sobre o processo. (Incluído pela Lei nº 13.411, de 2016)",
           "literal": "(Vigência)"
+        }
+      ]
+    },
+    "14": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Decreto",
+            "numero": "6.480",
+            "ano": 1977
+          },
+          "trecho": "…nesta Lei, os nomes ou designações de fantasia dos produtos licenciados e industrializados anteriormente à sua vigência.",
+          "literal": "(Redação dada pelo Decreto nº 6.480, de 1.12.1977)"
         }
       ]
     },
@@ -805,48 +788,51 @@
       "situacao": null,
       "eventos": [
         {
-          "tipo": "inclusao",
-          "unidade": "§ 1º",
+          "tipo": "redacao",
+          "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.190-34",
-            "ano": 2001
+            "especie": "Lei",
+            "numero": "15.440",
+            "ano": 2026
           },
-          "trecho": "…de sanitária internacional e aprovado em ato próprio da Agência Nacional de Vigilância Sanitária do Ministério da Saúde.",
-          "literal": "(Incluído pela Medida Provisória nº 2.190-34, de 2001)"
+          "trecho": "…mprovação da certificação em Boas Práticas de Fabricação (BPF), na forma do regulamento emanado da autoridade sanitária.",
+          "literal": "(Redação dada pela Lei nº 15.440, de 2026)"
         },
         {
           "tipo": "revogacao",
+          "unidade": "§ 1º",
+          "diploma": null,
+          "trecho": "§ 1º",
+          "literal": "(Revogado)"
+        },
+        {
+          "tipo": "redacao",
           "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "15.440",
             "ano": 2026
           },
-          "trecho": "… Agência Nacional de Vigilância Sanitária do Ministério da Saúde. (Incluído pela Medida Provisória nº 2.190-34, de 2001)",
-          "literal": "(Revogado pela Lei nº 15.440, de 2026)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.190-34",
-            "ano": 2001
-          },
-          "trecho": "…abricante deverá apresentar comprovação do cumprimento das Boas Práticas de Fabricação, reconhecidas no âmbito nacional.",
-          "literal": "(Incluído pela Medida Provisória nº 2.190-34, de 2001)"
+          "trecho": "§ 1º (Revogado).",
+          "literal": "(Redação dada pela Lei nº 15.440, de 2026)"
         },
         {
           "tipo": "revogacao",
+          "unidade": "§ 2º",
+          "diploma": null,
+          "trecho": "§ 2º",
+          "literal": "(Revogado)"
+        },
+        {
+          "tipo": "redacao",
           "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "15.440",
             "ano": 2026
           },
-          "trecho": "…das Boas Práticas de Fabricação, reconhecidas no âmbito nacional. (Incluído pela Medida Provisória nº 2.190-34, de 2001)",
-          "literal": "(Revogado pela Lei nº 15.440, de 2026)"
+          "trecho": "§ 2º (Revogado).",
+          "literal": "(Redação dada pela Lei nº 15.440, de 2026)"
         }
       ]
     },

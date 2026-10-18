@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_l9249.json",
       "colecao": "artigos",
-      "sha256": "fcda0eb18b983ecf46a69a67c87e2f216676f99246353571c51d552fe2bf7882",
+      "sha256": "936bdf55823c9b5d047cf0fad7f77a30a38c9ebfebf5ebe5afed62c2e47899bf",
       "total_registros": 37,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:50:05+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 15,
-      "anotacoes": 72,
-      "anotacoes_sem_diploma_nomeado": 15
+      "anotacoes": 89,
+      "anotacoes_sem_diploma_nomeado": 19
     }
   },
   "vigencia": {
@@ -60,29 +60,288 @@
           },
           "trecho": "…, inclusive, nos casos de incorporação, fusão ou cisão e de extinção da pessoa jurídica pelo encerramento da liquidação.",
           "literal": "(Redação dada pela Lei 9.430, de 1996)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 5º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.525",
+            "ano": 2026
+          },
+          "trecho": "… resseguradoras locais de que trata o inciso I do caput do art. 4º da Lei Complementar nº 126, de 15 de janeiro de 2007.",
+          "literal": "(Incluído pela Lei nº 15.525, de 2026)"
         }
       ]
     },
     "9": {
-      "situacao": "vigencia_encerrada",
+      "situacao": null,
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "caput",
+          "unidade": "§ 1º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "9.430",
+            "ano": 1996
+          },
+          "trecho": "…mulados e reservas de lucros, em montante igual ou superior ao valor de duas vezes os juros a serem pagos ou creditados.",
+          "literal": "(Redação dada pela Lei nº 9.430, de 1996)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "694",
             "ano": 2015
           },
-          "trecho": "…o líquido e limitados, pro rata die, à Taxa de Juros de Longo Prazo - TJLP ou a cinco por cento ao ano, o que for menor.",
+          "trecho": "…ncidência do imposto de renda na fonte à alíquota de dezoito por cento, na data do pagamento ou crédito ao beneficiário.",
           "literal": "(Redação dada pela Medida Provisória nº 694, de 2015)"
         },
         {
           "tipo": "vigencia",
-          "unidade": "caput",
+          "unidade": "§ 2º",
           "diploma": null,
-          "trecho": "…u a cinco por cento ao ano, o que for menor. (Redação dada pela Medida Provisória nº 694, de 2015) (Produção de efeitos)",
+          "trecho": "…ata do pagamento ou crédito ao beneficiário. (Redação dada pela Medida Provisória nº 694, de 2015) (Produção de efeitos)",
           "literal": "(Vigência encerrada)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Lei Complementar",
+            "numero": "224",
+            "ano": 2025
+          },
+          "trecho": "…e à alíquota de 17,5% (dezessete inteiros e cinco décimos por cento) na data do pagamento ou do crédito ao beneficiário.",
+          "literal": "(Redação dada pela Lei Complementar nº 224, de 2025)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "§ 4º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "9.430",
+            "ano": 1996
+          },
+          "trecho": "…ros de que trata este artigo serão adicionados à base de cálculo de incidência do adicional previsto no § 1º do art. 3º.",
+          "literal": "(Revogado pela Lei nº 9.430, de 1996)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 8º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "12.973",
+            "ano": 2014
+          },
+          "trecho": "…lculo da remuneração prevista neste artigo, serão consideradas exclusivamente as seguintes contas do patrimônio líquido:",
+          "literal": "(Redação dada pela Lei nº 12.973, de 2014)"
+        },
+        {
+          "tipo": "vigencia",
+          "unidade": "§ 8º",
+          "diploma": null,
+          "trecho": "… serão consideradas exclusivamente as seguintes contas do patrimônio líquido: (Redação dada pela Lei nº 12.973, de 2014)",
+          "literal": "(Vigência)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "inciso I",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.789",
+            "ano": 2023
+          },
+          "trecho": "I - capital social integralizado;",
+          "literal": "(Redação dada pela Lei nº 14.789, de 2023)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "inciso II",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.789",
+            "ano": 2023
+          },
+          "trecho": "…as de capital de que tratam o § 2º do art. 13 e o parágrafo único do art. 14 da Lei nº 6.404, de 15 de dezembro de 1976;",
+          "literal": "(Redação dada pela Lei nº 14.789, de 2023)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "inciso III",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.789",
+            "ano": 2023
+          },
+          "trecho": "…as de lucros, exceto a reserva de incentivo fiscal de que trata o art. 195-A da Lei nº 6.404, de 15 de dezembro de 1976;",
+          "literal": "(Redação dada pela Lei nº 14.789, de 2023)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso IV",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "12.973",
+            "ano": 2014
+          },
+          "trecho": "IV - ações em tesouraria; e",
+          "literal": "(Incluído pela Lei nº 12.973, de 2014)"
+        },
+        {
+          "tipo": "vigencia",
+          "unidade": "inciso IV",
+          "diploma": null,
+          "trecho": "IV - ações em tesouraria; e (Incluído pela Lei nº 12.973, de 2014)",
+          "literal": "(Vigência)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "inciso V",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.789",
+            "ano": 2023
+          },
+          "trecho": "V - lucros ou prejuízos acumulados.",
+          "literal": "(Redação dada pela Lei nº 14.789, de 2023)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 8º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.789",
+            "ano": 2023
+          },
+          "trecho": "§ 8º-A. Para fins de apuração da base de cálculo dos juros sobre capital próprio:",
+          "literal": "(Incluído pela Lei nº 14.789, de 2023)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso I",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.789",
+            "ano": 2023
+          },
+          "trecho": "… à pessoa jurídica, com aumento patrimonial em caráter definitivo, independentemente do disposto nas normas contábeis; e",
+          "literal": "(Incluído pela Lei nº 14.789, de 2023)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso II",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.789",
+            "ano": 2023
+          },
+          "trecho": "II - deverão ser considerados, salvo os casos em que for aplicado o disposto no inciso I deste parágrafo:",
+          "literal": "(Incluído pela Lei nº 14.789, de 2023)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "alínea a",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.789",
+            "ano": 2023
+          },
+          "trecho": "…mesmos fatos que deram origem a lançamentos contábeis positivos efetuados em rubricas previstas no referido parágrafo; e",
+          "literal": "(Incluída pela Lei nº 14.789, de 2023)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "alínea b",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.789",
+            "ano": 2023
+          },
+          "trecho": "…ativos registrados em conta de ajuste de avaliação patrimonial decorrentes de atos societários entre partes dependentes.",
+          "literal": "(Incluída pela Lei nº 14.789, de 2023)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 8º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.789",
+            "ano": 2023
+          },
+          "trecho": "…a definição de parte dependente prevista nos incisos I e II do caput do art. 25 da Lei nº 12.973, de 13 de maio de 2014.",
+          "literal": "(Incluído pela Lei nº 14.789, de 2023)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 8º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.789",
+            "ano": 2023
+          },
+          "trecho": "…ste artigo aplicar-se-á ao cômputo da base de cálculo dos juros sobre capital próprio a partir de 1º de janeiro de 2024.",
+          "literal": "(Incluído pela Lei nº 14.789, de 2023)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "§ 9º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "9.430",
+            "ano": 1996
+          },
+          "trecho": "…el o imposto pago para fins de apuração do lucro real e da base de cálculo da contribuição social sobre o lucro líquido.",
+          "literal": "(Revogado pela Lei nº 9.430, de 1996)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "§ 9º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "9.430",
+            "ano": 1996
+          },
+          "trecho": "…everá ser adicionado ao lucro líquido para determinação da base de cálculo da contribuição social sobre o lucro líquido.",
+          "literal": "(Revogado pela Lei nº 9.430, de 1996)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 11º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "12.973",
+            "ano": 2014
+          },
+          "trecho": "§ 11. O disposto neste artigo aplica-se à Contribuição Social sobre o Lucro Líquido.",
+          "literal": "(Incluído pela Lei nº 12.973, de 2014)"
+        },
+        {
+          "tipo": "vigencia",
+          "unidade": "§ 11º",
+          "diploma": null,
+          "trecho": "…1. O disposto neste artigo aplica-se à Contribuição Social sobre o Lucro Líquido. (Incluído pela Lei nº 12.973, de 2014)",
+          "literal": "(Vigência)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 12º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "12.973",
+            "ano": 2014
+          },
+          "trecho": "…. 15 da Lei no 6.404, de 15 de dezembro de 1976, ainda que classificadas em contas de passivo na escrituração comercial.",
+          "literal": "(Incluído pela Lei nº 12.973, de 2014)"
+        },
+        {
+          "tipo": "vigencia",
+          "unidade": "§ 12º",
+          "diploma": null,
+          "trecho": "… de 1976, ainda que classificadas em contas de passivo na escrituração comercial. (Incluído pela Lei nº 12.973, de 2014)",
+          "literal": "(Vigência)"
         }
       ]
     },
@@ -498,17 +757,6 @@
           "literal": "(Incluído pela Lei Complementar nº 167, de 2019)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "10.684",
-            "ano": 2003
-          },
-          "trecho": "… 2003, optar pelo lucro real, sendo definitiva a tributação pelo lucro presumido relativa aos três primeiros trimestres.",
-          "literal": "(Incluído pela Lei nº 10.684, de 2003)"
-        },
-        {
           "tipo": "renumeracao",
           "unidade": "§ 1º",
           "diploma": {
@@ -587,17 +835,6 @@
           "tipo": "redacao",
           "unidade": "§ 2º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "449",
-            "ano": 2008
-          },
-          "trecho": "…ridade Social - COFINS, da Contribuição para o PIS/PASEP e das contribuições previdenciárias incidentes sobre a receita.",
-          "literal": "(Redação dada pela Medida Provisória nº 449, de 2008)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 2º",
-          "diploma": {
             "especie": "Lei",
             "numero": "11.941",
             "ano": 2009
@@ -615,61 +852,6 @@
           },
           "trecho": "… dos tributos e contribuições devidos, observado o disposto no § 1º do art. 4º da Lei nº 8.218, de 29 de agosto de 1991.",
           "literal": "(Revogado pela Lei nº 9.430, de 1996)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "449",
-            "ano": 2008
-          },
-          "trecho": "…da, aplicar-se-á a esta a alíquota mais elevada entre aquelas previstas para as receitas auferidas pela pessoa jurídica.",
-          "literal": "(Incluído pela Medida Provisória nº 449, de 2008)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "449",
-            "ano": 2008
-          },
-          "trecho": "…da com base na alíquota ad valorem mais elevada entre aquelas previstas para as receitas auferidas pela pessoa jurídica.",
-          "literal": "(Incluído pela Medida Provisória nº 449, de 2008)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "449",
-            "ano": 2008
-          },
-          "trecho": "…dica. (Incluído pela Medida Provisória nº 449, de 2008) § 6o Na determinação da alíquota mais elevada, considerar-se-ão:",
-          "literal": "(Incluído pela Medida Provisória nº 449, de 2008)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "449",
-            "ano": 2008
-          },
-          "trecho": "… 4o e 5o, as alíquotas aplicáveis às receitas auferidas pela pessoa jurídica no ano-calendário em que ocorreu a omissão;",
-          "literal": "(Incluído pela Medida Provisória nº 449, de 2008)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "449",
-            "ano": 2008
-          },
-          "trecho": "…as por unidade de medida do produto, bem como as alíquotas aplicáveis às demais receitas auferidas pela pessoa jurídica.",
-          "literal": "(Incluído pela Medida Provisória nº 449, de 2008)"
         },
         {
           "tipo": "inclusao",
@@ -731,17 +913,6 @@
     "25": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 7º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "627",
-            "ano": 2013
-          },
-          "trecho": "§ 7º Os lucros serão apurados segundo as normas da legislação comercial do país de domicílio.",
-          "literal": "(Incluído pela Medida Provisória nº 627, de 2013)"
-        },
         {
           "tipo": "redacao",
           "unidade": "§ 7º",

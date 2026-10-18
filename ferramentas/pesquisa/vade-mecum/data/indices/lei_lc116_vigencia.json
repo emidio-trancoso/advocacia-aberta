@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_lc116.json",
       "colecao": "artigos",
-      "sha256": "46c24af4ace29c917ed72fbf362eead4a1a11e692239e2c368c069c6e53df2d0",
+      "sha256": "50dbf24533fa9060f93a576e526e31d22657b7ccb21743ecde89320ff8e5a086",
       "total_registros": 12,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:50:06+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 7,
-      "anotacoes": 66,
+      "anotacoes": 65,
       "anotacoes_sem_diploma_nomeado": 11
     }
   },
@@ -128,17 +128,6 @@
             "ano": 2016
           },
           "trecho": "…no caso dos serviços prestados pelas administradoras de cartão de crédito ou débito e demais descritos no subitem 15.01;",
-          "literal": "(Incluído pela Lei Complementar nº 157, de 2016)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XXV",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "157",
-            "ano": 2016
-          },
-          "trecho": "XXV - do domicílio do tomador dos serviços dos subitens 10.04 e 15.09.",
           "literal": "(Incluído pela Lei Complementar nº 157, de 2016)"
         },
         {

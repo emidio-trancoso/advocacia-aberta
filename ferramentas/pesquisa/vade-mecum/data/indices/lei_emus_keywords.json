@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_emus.json",
       "colecao": "artigos",
-      "sha256": "fa6b6959dc1f014c37a57ff104390d3db14f7bfda1155ab3b59f769dc74f8df7",
+      "sha256": "164e974c40a32d658e012d8298f124fd7dffc3ab11a0d60f46117aed69f67311",
       "total_registros": 70,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:50:08+00:00"
     },
     "relacao": {
       "chave": "numero",

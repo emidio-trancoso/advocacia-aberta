@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l4886.json",
       "colecao": "artigos",
-      "sha256": "ec37fd4e1b23625b5a93bafb611d8d663b8643e5fbddfd67892bcee44c0b4488",
+      "sha256": "51a889000896905fe07e82c123d4ba10eba78023954740ae0c064ac66f54f6c5",
       "total_registros": 49,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:49:49+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 16,
-      "anotacoes": 73,
+      "anotacoes": 72,
       "anotacoes_sem_diploma_nomeado": 10
     }
   },
@@ -795,17 +795,6 @@
           },
           "trecho": "…a mesma natureza dos créditos trabalhistas para fins de inclusão no pedido de falência ou plano de recuperação judicial.",
           "literal": "(Redação dada pela Lei nº 14.195, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "8.420",
-            "ano": 1992
-          },
-          "trecho": "…entante comercial para pleitear a retribuição que lhe é devida e os demais direitos que lhe são garantidos por esta lei.",
-          "literal": "(Incluído pela Lei nº 8.420, de 8.5.1992)"
         },
         {
           "tipo": "redacao",

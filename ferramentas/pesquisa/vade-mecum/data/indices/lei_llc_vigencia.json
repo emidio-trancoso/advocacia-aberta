@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_llc.json",
       "colecao": "artigos",
-      "sha256": "40931b5a1fd71e861f812927eb78709910c15f7cf11dc2aac62d5b11de1fb16c",
+      "sha256": "6c30a3f9af0d4c2e5bf9b5072a76b5b5905183ce58fd73adc91dc5e9b3352ee2",
       "total_registros": 196,
-      "gerado_em": "2026-09-14T13:55:51+00:00"
+      "gerado_em": "2026-10-18T12:46:46+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 33,
-      "anotacoes": 105,
-      "anotacoes_sem_diploma_nomeado": 40
+      "anotacoes": 100,
+      "anotacoes_sem_diploma_nomeado": 36
     }
   },
   "vigencia": {
@@ -144,13 +144,6 @@
     "37": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "veto",
-          "unidade": "§ 2º",
-          "diploma": null,
-          "trecho": "§ 2º",
-          "literal": "(VETADO)"
-        },
         {
           "tipo": "vigencia",
           "unidade": "§ 2º",
@@ -304,18 +297,6 @@
         }
       ]
     },
-    "54": {
-      "situacao": null,
-      "eventos": [
-        {
-          "tipo": "veto",
-          "unidade": "§ 1º",
-          "diploma": null,
-          "trecho": "§ 1º",
-          "literal": "(VETADO)"
-        }
-      ]
-    },
     "70": {
       "situacao": null,
       "eventos": [
@@ -351,28 +332,6 @@
           "diploma": null,
           "trecho": "…so de obras e serviços de engenharia, ao valor de R$ 300.000,00 (trezentos mil reais); (Vide Decreto nº 10.922, de 2021)",
           "literal": "(Vigência)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XVI",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.166",
-            "ano": 2023
-          },
-          "trecho": "…m data anterior à entrada em vigor desta Lei, desde que o preço contratado seja compatível com o praticado no mercado; e",
-          "literal": "(Redação dada pela Medida Provisória nº 1.166, de 2023)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XVI",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "14.628",
-            "ano": 2023
-          },
-          "trecho": "… em data anterior à entrada em vigor desta Lei, desde que o preço contratado seja compatível com o praticado no mercado;",
-          "literal": "(Redação dada pela Lei nº 14.628, de 2023)"
         },
         {
           "tipo": "redacao",
@@ -580,6 +539,22 @@
         }
       ]
     },
+    "87": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "inclusao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.266",
+            "ano": 2025
+          },
+          "trecho": "…o de cadastro unificado de licitantes e de contratados, na forma estabelecida em regulamento do Poder Executivo federal.",
+          "literal": "(Incluído pela Lei nº 15.266, de 2025)"
+        }
+      ]
+    },
     "90": {
       "situacao": null,
       "eventos": [
@@ -702,13 +677,6 @@
           "diploma": null,
           "trecho": "§ 3º",
           "literal": "(VETADO)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "§ 4º",
-          "diploma": null,
-          "trecho": "§ 4º",
-          "literal": "(VETADO)"
         }
       ]
     },
@@ -795,13 +763,6 @@
           },
           "trecho": "…trônico fornecido por pessoa jurídica de direito público ou privado, na forma de regulamento do Poder Executivo federal.",
           "literal": "(Redação dada pela Lei nº 15.266, de 2025)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "§ 2º",
-          "diploma": null,
-          "trecho": "§ 2º",
-          "literal": "(VETADO)"
         }
       ]
     },

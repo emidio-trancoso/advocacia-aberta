@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_epd.json",
       "colecao": "artigos",
-      "sha256": "13ad3ab6a4785d78153efec8620832a78edc2697deef00249b310ff08324d7a8",
+      "sha256": "83a91296a0427ab2c8642ea02291d42a499701f11647dd2d29b9b27f354ead59",
       "total_registros": 130,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:50:08+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 26,
-      "anotacoes": 59,
+      "anotacoes": 56,
       "anotacoes_sem_diploma_nomeado": 33
     }
   },
@@ -637,39 +637,6 @@
     "125": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "917",
-            "ano": 2019
-          },
-          "trecho": "II - § 6º do art. 44, 60 (sessenta) meses;",
-          "literal": "(Redação dada pela Medida Provisória nº 917, de 2019)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "14.009",
-            "ano": 2020
-          },
-          "trecho": "II - § 6º do art. 44, 60 (sessenta) meses;",
-          "literal": "(Redação dada pela Lei nº 14.009, de 2020)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.025",
-            "ano": 2020
-          },
-          "trecho": "II - § 6º do art. 44, 84 (oitenta e quatro) meses;",
-          "literal": "(Redação dada pela Medida Provisória nº 1.025, de 2020)"
-        },
         {
           "tipo": "redacao",
           "unidade": "inciso II",

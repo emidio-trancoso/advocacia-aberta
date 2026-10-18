@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_l6938.json",
       "colecao": "artigos",
-      "sha256": "bcef02f52b88dc30e51fc9ef51cf599749c8ae94b8012e88b0f3554c2d6e10e2",
+      "sha256": "08aeab796ec944d854d26c7a26071d234e1de9c4ca006af19841f08805e9f1a8",
       "total_registros": 40,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:49:58+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 26,
-      "anotacoes": 189,
-      "anotacoes_sem_diploma_nomeado": 4
+      "artigos_com_anotacao": 35,
+      "anotacoes": 195,
+      "anotacoes_sem_diploma_nomeado": 7
     }
   },
   "vigencia": {
@@ -44,11 +44,27 @@
           "unidade": "caput",
           "diploma": {
             "especie": "Lei",
-            "numero": "7.804",
-            "ano": 1989
+            "numero": "8.028",
+            "ano": 1990
           },
-          "trecho": "…do Meio Ambiente - SISNAMA, cria o Conselho Superior do Meio Ambiente - CSMA, e institui o Cadastro de Defesa Ambiental.",
-          "literal": "(Redação dada pela Lei nº 7.804, de 1989)"
+          "trecho": "…rmulação e aplicação, constitui o Sistema Nacional do Meio Ambiente - Sisnama e institui o Cadastro de Defesa Ambiental.",
+          "literal": "(Redação dada pela Lei nº 8.028, de 1990)"
+        }
+      ]
+    },
+    "2": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso XI",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.512",
+            "ano": 2026
+          },
+          "trecho": "XI – garantia do acesso prioritário de crianças e adolescentes à natureza e ao meio ambiente ecologicamente equilibrado.",
+          "literal": "(Incluído pela Lei nº 15.512, de 2026)"
         }
       ]
     },
@@ -71,83 +87,6 @@
     "6": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "7.804",
-            "ano": 1989
-          },
-          "trecho": "…ública na formulação da política nacional e nas diretrizes governamentais para o meio ambiente e os recursos ambientais;",
-          "literal": "(Redação dada pela Lei nº 7.804, de 1989)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "7.804",
-            "ano": 1989
-          },
-          "trecho": "…sobre normas e padrões compatíveis com o meio ambiente ecologicamente equilibrado e essencial à sadia qualidade de vida;",
-          "literal": "(Redação dada pela Lei nº 7.804, de 1989)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "7.804",
-            "ano": 1989
-          },
-          "trecho": "… o meio ambiente, e a preservação, conservação e uso racional, fiscalização, controle e fomento dos recursos ambientais;",
-          "literal": "(Redação dada pela Lei nº 7.804, de 1989)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso IV",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "7.804",
-            "ano": 1989
-          },
-          "trecho": "…es estejam associadas às de proteção da qualidade ambiental ou àquelas de disciplinamento do uso de recursos ambientais;",
-          "literal": "(Redação dada pela Lei nº 7.804, de 1989)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso V",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "7.804",
-            "ano": 1989
-          },
-          "trecho": "…execução de programas, projetos e pelo controle e fiscalização de atividades capazes de provocar a degradação ambiental;",
-          "literal": "(Redação dada pela Lei nº 7.804, de 1989)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso VI",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "7.804",
-            "ano": 1989
-          },
-          "trecho": "… ou entidades municipais, responsáveis pelo controle e fiscalização dessas atividades, nas suas respectivas jurisdições;",
-          "literal": "(Incluído pela Lei nº 7.804, de 1989)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "8.028",
-            "ano": 1990
-          },
-          "trecho": "…ública na formulação da política nacional e nas diretrizes governamentais para o meio ambiente e os recursos ambientais;",
-          "literal": "(Redação dada pela Lei nº 8.028, de 1990)"
-        },
         {
           "tipo": "redacao",
           "unidade": "inciso I",
@@ -179,17 +118,6 @@
             "ano": 1990
           },
           "trecho": "…sionar e controlar, como órgão federal, a política nacional e as diretrizes governamentais fixadas para o meio ambiente;",
-          "literal": "(Redação dada pela Lei nº 8.028, de 1990)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso IV",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "8.028",
-            "ano": 1990
-          },
-          "trecho": "…e de executar e fazer executar, como órgão federal, a política e diretrizes governamentais fixadas para o meio ambiente;",
           "literal": "(Redação dada pela Lei nº 8.028, de 1990)"
         },
         {
@@ -801,17 +729,6 @@
           "unidade": "inciso II",
           "diploma": {
             "especie": "Lei",
-            "numero": "7.804",
-            "ano": 1989
-          },
-          "trecho": "… atividades de significativa degradação ambiental, nas áreas consideradas Patrimônio Nacional pela Constituição Federal;",
-          "literal": "(Redação dada pela Lei nº 7.804, de 1989)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Lei",
             "numero": "8.028",
             "ano": 1990
           },
@@ -1360,45 +1277,77 @@
           "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Lei",
-            "numero": "7.804",
-            "ano": 1989
+            "especie": "Lei Complementar",
+            "numero": "140",
+            "ano": 2011
           },
-          "trecho": "…o Meio Ambiente e Recursos Naturais Renováveis - IBAMA, em caráter supletivo, sem prejuízo de outras licenças exigíveis.",
-          "literal": "(Redação dada pela Lei nº 7.804, de 1989)"
+          "trecho": "… poluidores ou capazes, sob qualquer forma, de causar degradação ambiental dependerão de prévio licenciamento ambiental.",
+          "literal": "(Redação dada pela Lei Complementar nº 140, de 2011)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 1º",
+          "diploma": {
+            "especie": "Lei Complementar",
+            "numero": "140",
+            "ano": 2011
+          },
+          "trecho": "…co regional ou local de grande circulação, ou em meio eletrônico de comunicação mantido pelo órgão ambiental competente.",
+          "literal": "(Redação dada pela Lei Complementar nº 140, de 2011)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "§ 2º",
+          "diploma": null,
+          "trecho": "§ 2o",
+          "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
           "unidade": "§ 2º",
           "diploma": {
-            "especie": "Lei",
-            "numero": "7.804",
-            "ano": 1989
+            "especie": "Lei Complementar",
+            "numero": "140",
+            "ano": 2011
           },
-          "trecho": "…s e prazos previstos em resolução do CONAMA, o licenciamento de que trata este artigo dependerá de homologação do IBAMA.",
-          "literal": "(Redação dada pela Lei nº 7.804, de 1989)"
+          "trecho": "§ 2o (Revogado).",
+          "literal": "(Redação dada pela Lei Complementar nº 140, de 2011)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "§ 3º",
+          "diploma": null,
+          "trecho": "§ 3o",
+          "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
           "unidade": "§ 3º",
           "diploma": {
-            "especie": "Lei",
-            "numero": "7.804",
-            "ano": 1989
+            "especie": "Lei Complementar",
+            "numero": "140",
+            "ano": 2011
           },
-          "trecho": "…osas, os efluentes líquidos e os resíduos sólidos dentro das condições e limites estipulados no licenciamento concedido.",
-          "literal": "(Redação dada pela Lei nº 7.804, de 1989)"
+          "trecho": "§ 3o (Revogado).",
+          "literal": "(Redação dada pela Lei Complementar nº 140, de 2011)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "§ 4º",
+          "diploma": null,
+          "trecho": "§ 4o",
+          "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
           "unidade": "§ 4º",
           "diploma": {
-            "especie": "Lei",
-            "numero": "7.804",
-            "ano": 1989
+            "especie": "Lei Complementar",
+            "numero": "140",
+            "ano": 2011
           },
-          "trecho": "…o caput deste artigo, no caso de atividades e obras com significativo impacto ambiental, de âmbito nacional ou regional.",
-          "literal": "(Redação dada pela Lei nº 7.804, de 1989)"
+          "trecho": "§ 4o (Revogado).",
+          "literal": "(Redação dada pela Lei Complementar nº 140, de 2011)"
         }
       ]
     },
@@ -1625,6 +1574,109 @@
         }
       ]
     },
+    "17-A": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "inclusao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "9.960",
+            "ano": 2000
+          },
+          "trecho": "…io Ambiente e dos Recursos Naturais Renováveis - IBAMA, a serem aplicados em âmbito nacional, conforme Anexo a esta Lei.",
+          "literal": "(Incluído pela Lei nº 9.960, de 2000)"
+        }
+      ]
+    },
+    "17-B": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "10.165",
+            "ano": 2000
+          },
+          "trecho": "…áveis – IBAMA para controle e fiscalização das atividades potencialmente poluidoras e utilizadoras de recursos naturais.",
+          "literal": "(Redação dada pela Lei nº 10.165, de 2000)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 1º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "10.165",
+            "ano": 2000
+          },
+          "trecho": "§ 1o Revogado.",
+          "literal": "(Redação dada pela Lei nº 10.165, de 2000)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "10.165",
+            "ano": 2000
+          },
+          "trecho": "§ 2o Revogado.",
+          "literal": "(Redação dada pela Lei nº 10.165, de 2000)"
+        }
+      ]
+    },
+    "17-C": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "10.165",
+            "ano": 2000
+          },
+          "trecho": "Art. 17-C. É sujeito passivo da TCFA todo aquele que exerça as atividades constantes do Anexo VIII desta Lei.",
+          "literal": "(Redação dada pela Lei nº 10.165, de 2000)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 1º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "10.165",
+            "ano": 2000
+          },
+          "trecho": "…anterior, cujo modelo será definido pelo IBAMA, para o fim de colaborar com os procedimentos de controle e fiscalização.",
+          "literal": "(Redação dada pela Lei nº 10.165, de 2000)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "10.165",
+            "ano": 2000
+          },
+          "trecho": "…minada no § 1o sujeita o infrator a multa equivalente a vinte por cento da TCFA devida, sem prejuízo da exigência desta.",
+          "literal": "(Redação dada pela Lei nº 10.165, de 2000)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 3º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "10.165",
+            "ano": 2000
+          },
+          "trecho": "§ 3o Revogado.",
+          "literal": "(Redação dada pela Lei nº 10.165, de 2000)"
+        }
+      ]
+    },
     "17-D": {
       "situacao": null,
       "eventos": [
@@ -1704,6 +1756,22 @@
           },
           "trecho": "…a mais de uma atividade sujeita à fiscalização, pagará a taxa relativamente a apenas uma delas, pelo valor mais elevado.",
           "literal": "(Incluído pela Lei nº 10.165, de 2000)"
+        }
+      ]
+    },
+    "17-E": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "inclusao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "9.960",
+            "ano": 2000
+          },
+          "trecho": "… autorizado a cancelar débitos de valores inferiores a R$ 40,00 (quarenta reais), existentes até 31 de dezembro de 1999.",
+          "literal": "(Incluído pela Lei nº 9.960, de 2000)"
         }
       ]
     },
@@ -1914,6 +1982,103 @@
         }
       ]
     },
+    "17-J": {
+      "situacao": "revogado",
+      "eventos": [
+        {
+          "tipo": "inclusao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "9.960",
+            "ano": 2000
+          },
+          "trecho": "…e que trata o parágrafo único do art. 17-I terá como valor a importância correspondente a R$ 20.000,00 (vinte mil reais)",
+          "literal": "(Incluído pela Lei nº 9.960, de 2000)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "10.165",
+            "ano": 2000
+          },
+          "trecho": "…ncia correspondente a R$ 20.000,00 (vinte mil reais) (Incluído pela Lei nº 9.960, de 2000) (Vide ADI nº 2178-8, de 2000)",
+          "literal": "(Revogado pela Lei nº 10.165, de 2000)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "parágrafo único",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "9.960",
+            "ano": 2000
+          },
+          "trecho": "… pequeno porte, em 90% (noventa por cento) para microempresas e em 95% (noventa e cinco por cento) para pessoas físicas.",
+          "literal": "(Incluído pela Lei nº 9.960, de 2000)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "parágrafo único",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "10.165",
+            "ano": 2000
+          },
+          "trecho": "…nto) para microempresas e em 95% (noventa e cinco por cento) para pessoas físicas. (Incluído pela Lei nº 9.960, de 2000)",
+          "literal": "(Revogado pela Lei nº 10.165, de 2000)"
+        }
+      ]
+    },
+    "17-L": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "inclusao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "9.960",
+            "ano": 2000
+          },
+          "trecho": "…flora, e ao controle ambiental são de competência exclusiva dos órgãos integrantes do Sistema Nacional do Meio Ambiente.",
+          "literal": "(Incluído pela Lei nº 9.960, de 2000)"
+        }
+      ]
+    },
+    "17-M": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "inclusao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "9.960",
+            "ano": 2000
+          },
+          "trecho": "…, serão definidos em portaria do Ministro de Estado do Meio Ambiente, mediante proposta do Presidente daquele Instituto.",
+          "literal": "(Incluído pela Lei nº 9.960, de 2000)"
+        }
+      ]
+    },
+    "17-N": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "inclusao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "9.960",
+            "ano": 2000
+          },
+          "trecho": "…também, definidos em portaria do Ministro de Estado do Meio Ambiente, mediante proposta do Presidente daquele Instituto.",
+          "literal": "(Incluído pela Lei nº 9.960, de 2000)"
+        }
+      ]
+    },
     "17-O": {
       "situacao": null,
       "eventos": [
@@ -1927,17 +2092,6 @@
           },
           "trecho": "… importância prevista no item 3.11 do Anexo VII da Lei no 9.960, de 29 de janeiro de 2000, a título de Taxa de Vistoria.",
           "literal": "(Redação dada pela Lei nº 10.165, de 2000)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "9.960",
-            "ano": 2000
-          },
-          "trecho": "§ 1o A utilização do ADA para efeito de redução do valor a pagar do ITR é opcional.",
-          "literal": "(Incluído pela Lei nº 9.960, de 2000)"
         },
         {
           "tipo": "redacao",
@@ -1973,17 +2127,6 @@
           "literal": "(Incluído pela Lei nº 10.165, de 2000)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "9.960",
-            "ano": 2000
-          },
-          "trecho": "…s, nos mesmos moldes escolhidos, pelo contribuinte, para pagamento do ITR, em documento próprio de arrecadação do Ibama.",
-          "literal": "(Incluído pela Lei nº 9.960, de 2000)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "§ 2º",
           "diploma": {
@@ -1993,17 +2136,6 @@
           },
           "trecho": "…s, nos mesmos moldes escolhidos pelo contribuinte para o pagamento do ITR, em documento próprio de arrecadação do IBAMA.",
           "literal": "(Redação dada pela Lei nº 10.165, de 2000)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "9.960",
-            "ano": 2000
-          },
-          "trecho": "§ 3o Nenhuma parcela poderá ser inferior a R$ 50,00 (cinqüenta reais).",
-          "literal": "(Incluído pela Lei nº 9.960, de 2000)"
         },
         {
           "tipo": "redacao",
@@ -2017,17 +2149,6 @@
           "literal": "(Redação dada pela Lei nº 10.165, de 2000)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "9.960",
-            "ano": 2000
-          },
-          "trecho": "…o-pagamento de qualquer parcela ensejará a cobrança de juros e multa nos termos da Lei no 8.005, de 22 de março de 1990.",
-          "literal": "(Incluído pela Lei nº 9.960, de 2000)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "§ 4º",
           "diploma": {
@@ -2037,17 +2158,6 @@
           },
           "trecho": "…nsejará a cobrança de juros e multa nos termos dos incisos I e II do caput e §§ 1o-A e 1o, todos do art. 17-H desta Lei.",
           "literal": "(Redação dada pela Lei nº 10.165, de 2000)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 5º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "9.960",
-            "ano": 2000
-          },
-          "trecho": "…ados efetivamente levantados, o qual será encaminhado à Secretaria da Receita Federal, para as providências decorrentes.",
-          "literal": "(Incluído pela Lei nº 9.960, de 2000)"
         },
         {
           "tipo": "redacao",
@@ -2185,17 +2295,6 @@
           "unidade": "inciso D",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.105",
-            "ano": 2005
-          },
-          "trecho": "…dades previamente identificadas pela CTNBio como potencialmente causadoras de significativa degradação do meio ambiente.",
-          "literal": "(Redação dada pela Lei nº 11.105, de 2005)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso D",
-          "diploma": {
-            "especie": "Lei",
             "numero": "14.876",
             "ano": 2024
           },
@@ -2206,14 +2305,14 @@
           "tipo": "veto",
           "unidade": "inciso D",
           "diploma": null,
-          "trecho": "…mente causadoras de significativa degradação do meio ambiente. (Redação dada pela Lei nº 14.876, de 2024) Médio Médio 21",
+          "trecho": "…encialmente causadoras de significativa degradação do meio ambiente. (Redação dada pela Lei nº 14.876, de 2024) Médio 21",
           "literal": "(VETADO)"
         },
         {
           "tipo": "veto",
           "unidade": "inciso D",
           "diploma": null,
-          "trecho": "…oras de significativa degradação do meio ambiente. (Redação dada pela Lei nº 14.876, de 2024) Médio Médio 21 (VETADO) 22",
+          "trecho": "…causadoras de significativa degradação do meio ambiente. (Redação dada pela Lei nº 14.876, de 2024) Médio 21 (VETADO) 22",
           "literal": "(VETADO)"
         },
         {

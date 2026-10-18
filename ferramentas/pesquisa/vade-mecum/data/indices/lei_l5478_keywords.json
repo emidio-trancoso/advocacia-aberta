@@ -22,14 +22,14 @@
     "fonte": {
       "arquivo": "lei_l5478.json",
       "colecao": "artigos",
-      "sha256": "694a058a822cc635631f5c49205196c4d06457d00bd10dac1cbe454018562eb8",
-      "total_registros": 29,
-      "gerado_em": "2026-07-23"
+      "sha256": "86fab6ec167fc037933724232a2abde129674da3cdadbb60eb7e0792fc962096",
+      "total_registros": 30,
+      "gerado_em": "2026-10-18T12:49:41+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
-      "dispositivos_indexados": 29,
+      "dispositivos_indexados": 30,
       "dispositivos_no_indice_curado": 0
     }
   },
@@ -38,7 +38,7 @@
     "2": "art credor pessoalmente por intermedio advogado dirigir juiz competente qualificando expora suas necessidades provando apenas parentesco obrigacao alimentar devedor indicando seu nome sobrenome residencia local trabalho profissao naturalidade quanto ganha aproximadamente recursos que dispoe dispensar producao inicial documentos probatorios quando existente notas registros reparticoes estabelecimentos publicos ocorrer impedimento demora extrair certidoes estiverem poder obrigado prestacoes alimenticias terceiro residente lugar incerto nao sabido ficam isentos reconhecimento firma comparecer indicar profissional haja concordado assisti designara desde logo quem deva fazer",
     "3": "art pedido sera apresentado por escrito tres vias devera conter indicacao juiz quem for dirigido elementos referidos artigo anterior historico sumario dos fatos houver sido designado pelo defensor para assistir solicitante forma prevista formulara dentro vinte quatro horas nomeacao podendo achar conveniente indicar seja solicitacao verbal reduzida termo previsto paragrafo datadas assinadas escrivao observado que couber disposto caput presente",
     "4": "art despachar pedido juiz fixara desde logo alimentos provisorios serem pagos pelo devedor salvo credor expressamente declarar que deles nao necessita paragrafo unico tratar pedidos conjuge casado regime comunhao universal bens determinara igualmente seja entregue mensalmente parte renda liquida dos comuns administrados",
-    "5": "art escrivao dentro quarenta oito horas remetera devedor segunda via peticao termo juntamente com copia despacho juiz comunicacao dia hora realizacao audiencia conciliacao julgamento designacao fixara prazo razoavel que possibilite reu contestacao acao proposta eventualidade citacao por edital sera feita mediante registro postal isento taxas aviso recebimento importa para todos efeitos legais criar embaracoes nao for encontrado repetir diligencia intermedio oficial justica servindo mandado terceira impossibilitada qualquer dos modos acima previstos ele citado afixado sede juizo publicado tres vezes consecutivas orgao estado correndo despesa conta vencido final sendo previamente juntada aos autos devera conter resumo pedido inicial integra nele exarado data autor notificado ato lavratura marcar oficiara empregador mesmo funcionario publico responsavel sua reparticao solicitando envio maximo ate marcada informacoes sobre salario vencimentos sob penas previstas desta lei nos casos arts 175 176 codigo processo civil far forma caso artigos 200 201 artigo redacao dada pela 014",
+    "5": "art escrivao dentro quarenta oito horas remetera devedor segunda via peticao termo juntamente com copia despacho juiz comunicacao dia hora realizacao audiencia conciliacao julgamento designacao fixara prazo razoavel que possibilite reu contestacao acao proposta eventualidade citacao por edital sera feita mediante registro postal isento taxas aviso recebimento importa para todos efeitos legais criar embaracoes nao for encontrado repetir diligencia intermedio oficial justica servindo mandado terceira impossibilitada qualquer dos modos acima previstos ele citado afixado sede juizo publicado tres vezes consecutivas orgao estado correndo despesa conta vencido final sendo previamente juntada aos autos devera conter resumo pedido inicial integra nele exarado data autor notificado ato lavratura marcar oficiara empregador mesmo funcionario publico responsavel sua reparticao solicitando envio maximo ate marcada informacoes sobre salario vencimentos sob penas previstas desta lei caso artigos 200 201 codigo processo civil far forma artigo redacao dada pela 014",
     "6": "art audiencia conciliacao julgamento deverao estar presentes autor reu independentemente intimacao comparecimento seus representantes",
     "7": "art nao comparecimento autor determina arquivamento pedido ausencia reu importa revelia alem confissao quanto materia fato",
     "8": "art autor reu comparecerao audiencia acompanhados suas testemunhas tres maximo apresentando nessa ocasiao demais provas",
@@ -52,7 +52,7 @@
     "16": "art execucao sentenca acordo nas acoes alimentos sera observado disposto artigo 734 seu paragrafo unico codigo processo civil redacao dada pela lei 014 revogado 105 2015 vigencia",
     "17": "art quando nao for possivel efetivacao executiva sentenca acordo mediante desconto folha poderao ser prestacoes cobradas alugueres predios quaisquer outros rendimentos devedor que serao recebidos diretamente pelo alimentando por depositario nomeado juiz revogado pela lei 105 2015 vigencia",
     "18": "art ainda assim nao for possivel satisfacao debito podera credor requerer execucao sentenca forma dos artigos 732 733 735 codigo processo civil redacao dada pela lei 014 revogado 105 2015 vigencia",
-    "19": "art juiz para instrucao causa execucao sentenca acordo podera tomar todas providencias necessarias seu esclarecimento cumprimento julgado inclusive decretacao prisao devedor ate sessenta dias artigo 921 codigo processo civil decreto lei 608 setembro 1939 passa vigorar com seguinte redacao",
+    "19": "art juiz para instrucao causa execucao sentenca acordo podera tomar todas providencias necessarias seu esclarecimento cumprimento julgado inclusive decretacao prisao devedor ate sessenta dias",
     "20": "art reparticoes publicas civis militares inclusive imposto renda darao todas informacoes necessarias instrucao dos processos previstos nesta lei execucao que for decidido acordado juizo",
     "21": "art 244 codigo penal passa vigorar com seguinte redacao deixar sem justa causa prover subsistencia conjuge filho menor anos inapto para trabalho ascendente invalido valetudinario nao lhes proporcionando recursos necessarios faltando pagamento pensao alimenticia judicialmente acordada fixada majorada socorrer descendente gravemente enfermo pena detencao ano quatro multa uma dez vezes maior salario minimo vigente pais paragrafo unico nas mesmas penas incide quem sendo solvente frustra ilide qualquer modo inclusive por abandono injustificado emprego funcao",
     "22": "art constitui crime contra administracao justica deixar empregador funcionario publico prestar juizo competente informacoes necessarias instrucao processo execucao sentenca acordo que fixe pensao alimenticia pena detencao seis meses ano sem prejuizo acessoria suspensao emprego trinta noventa dias paragrafo unico nas mesmas penas incide quem qualquer modo ajuda devedor eximir pagamento judicialmente acordada fixada majorada recusa procrastina executar ordem descontos folhas expedida pelo juiz",
@@ -62,6 +62,7 @@
     "26": "art competente para acoes alimentos decorrentes aplicacao decreto legislativo novembro 1958 826 setembro 1965 juizo federal capital unidade federativa brasileira que reside devedor sendo considerada instituicao intermediaria fins dos referidos decretos procuradoria geral republica paragrafo unico nos termos inciso iii convencao internacional sobre governo brasileiro comunicara sem demora secretario das nacoes unidas disposto neste artigo",
     "27": "art aplicam supletivamente nos processos regulados por esta lei disposicoes codigo processo civil",
     "28": "art esta lei entrara vigor trinta dias depois sua publicacao",
-    "29": "art revogam disposicoes contrario brasilia julho 1968 147 independencia republica costa silva luis antonio gama este texto nao substitui publicado dou retificado republicado 1974"
+    "29": "art revogam disposicoes contrario brasilia julho 1968 147 independencia republica costa silva luis antonio gama este texto nao substitui publicado dou retificado republicado 1974",
+    "921": "art 921 cumprimento integral pena prisao nao eximira devedor pagamento das prestacoes alimenticias vincendas vencidas pagas redacao dada pela lei 014 despacho que decretar cabera agravo instrumento decisao artigo 843 codigo processo civil decreto 608 setembro 1939 passara vigorar com seguinte nos casos previstos salvo tratar proferida pedido execucao alimentos xvii juiz suspendera puder suspender apenas ordem interposicao suspende"
   }
 }

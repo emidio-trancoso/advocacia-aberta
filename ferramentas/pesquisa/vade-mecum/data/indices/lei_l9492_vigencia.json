@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l9492.json",
       "colecao": "artigos",
-      "sha256": "c27077584b1261fe241d06801a6b3f45273af65698f192c6616319038ae490b7",
+      "sha256": "957b1a223ce4ecae24277252ab959fe3b20f1d955a62e184baca1f47acfe2e27",
       "total_registros": 46,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:49:50+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 11,
-      "anotacoes": 45,
+      "anotacoes": 46,
       "anotacoes_sem_diploma_nomeado": 2
     }
   },
@@ -342,34 +342,45 @@
           "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.894-22",
+            "especie": "Lei",
+            "numero": "9.841",
             "ano": 1999
           },
-          "trecho": "…a nota de se cuidar de informação reservada da qual não se poderá dar publicidade pela imprensa, nem mesmo parcialmente.",
-          "literal": "(Redação dada pela Medida Provisória nº 1.894-22, de 1999)"
+          "trecho": "… nota de se cuidar de informação reservada, da qual não se poderá dar publicidade pela imprensa, nem mesmo parcialmente.",
+          "literal": "(Redação dada pela Lei nº 9.841, de 5.10.1999)"
         },
         {
           "tipo": "redacao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.894-22",
+            "especie": "Lei",
+            "numero": "9.841",
             "ano": 1999
           },
           "trecho": "…nto da certidão será suspenso caso se desatenda ao disposto no caput ou se forneçam informações de protestos cancelados.",
-          "literal": "(Redação dada pela Medida Provisória nº 1.894-22, de 1999)"
+          "literal": "(Redação dada pela Lei nº 9.841, de 5.10.1999)"
         },
         {
           "tipo": "redacao",
           "unidade": "§ 2º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.894-22",
+            "especie": "Lei",
+            "numero": "9.841",
             "ano": 1999
           },
-          "trecho": "… de crédito oriundas de títulos ou documentos de dívidas regularmente protestados, cujos registros não foram cancelados.",
-          "literal": "(Redação dada pela Medida Provisória nº 1.894-22, de 1999)"
+          "trecho": "…s de crédito oriundas de títulos ou documentos de dívidas regularmente protestados cujos registros não foram cancelados.",
+          "literal": "(Redação dada pela Lei nº 9.841, de 5.10.1999)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 3º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "9.841",
+            "ano": 1999
+          },
+          "trecho": "§ 3º Revogado.",
+          "literal": "(Redação dada pela Lei nº 9.841, de 5.10.1999)"
         }
       ]
     },
@@ -380,12 +391,12 @@
           "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.894-22",
+            "especie": "Lei",
+            "numero": "9.841",
             "ano": 1999
           },
           "trecho": "…derão ser fornecidas certidões de protestos, não cancelados, a quaisquer interessados, desde que requeridas por escrito.",
-          "literal": "(Redação dada pela Medida Provisória nº 1.894-22, de 1999)"
+          "literal": "(Redação dada pela Lei nº 9.841, de 5.10.1999)"
         }
       ]
     },

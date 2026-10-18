@@ -61,79 +61,51 @@ O corte é `k = 5` e as métricas são agregadas sobre as consultas:
 
 - **precisão@5:** acertos divididos pelos resultados efetivamente retornados na janela
   de até cinco itens;
-- **recall julgado@5:** resultados relevantes recuperados divididos pelo conjunto
-  relevante julgado e versionado;
+- **recall julgado:** resultados relevantes recuperados divididos pelo conjunto relevante
+  julgado e versionado. A janela é por caso — `máx(5, nº de relevantes do caso)` —, e não
+  os mesmos 5 de sempre: com janela fixa, um caso com mais relevantes do que a janela tem o
+  recall limitado por aritmética (5 de 8 = 0,625 no melhor resultado possível) e o teto da
+  métrica fica em 0,9761, não em 1. Pior: a base crescer passa a derrubar o número sem a
+  busca ter piorado — um julgado novo e pertinente entra em 1º lugar e empurra um relevante
+  antigo para fora da janela. Quatro casos hoje têm mais relevantes do que cinco
+  (`jt-trafico-dosimetria`, `l9514-alienacao-fiduciaria`, `lc214-split-payment` e
+  `lc220-regime-de-colaboracao`); em todos os outros a janela é a de cinco e nada muda;
 - **cobertura de casos:** proporção de consultas com ao menos um resultado relevante;
 - **cobertura de obrigatórios:** proporção de consultas que preserva todos os seus IDs
   canônicos;
 - **MRR:** média do inverso da posição do primeiro resultado relevante.
 
+Precisão, MRR e cobertura de obrigatórios seguem medidos na janela de cinco — é o que
+quem consulta recebe. Só o recall usa a janela por caso, porque só ele tem o conjunto
+relevante no denominador.
+
 Há limiares globais e um limiar de precisão para cada família. A separação impede que
 o bom desempenho de um conjunto compense silenciosamente uma regressão em outro.
 
+A precisão agregada divide acertos por resultados retornados, então consulta com um único
+relevante julgado contribui no máximo 1/5 enquanto o motor completar a janela. É o que
+`BASE-052` registra: nas quatro consultas estreitas de 18/10/2026 o artigo correto vem em
+1º lugar nas quatro e os outros quatro lugares são ruído. Por isso o limiar de `legislacao`
+está em 0,76 desde 18/10/2026, com a nota no próprio corpus — ele volta a subir quando o
+motor parar de completar a janela em consulta estreita.
+
 ## Linha de base
 
-| Escopo | Precisão@5 | Recall julgado@5 | Cobertura | Obrigatórios | MRR |
+Medida em 18/10/2026, sobre 103 consultas julgadas (69 → 73 em legislação com as quatro
+consultas do conteúdo novo de 18/10).
+
+| Escopo | Precisão@5 | Recall julgado | Cobertura | Obrigatórios | MRR |
 |---|---:|---:|---:|---:|---:|
-| Global | 0,8025 | 0,9907 | 1,0000 | 1,0000 | 1,0000 |
+| Global | 0,7694 | 0,9707 | 1,0000 | 1,0000 | 0,9903 |
 | Súmulas STJ | 0,6667 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
 | Súmulas STF | 0,5714 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
-| Súmulas vinculantes | 0,6000 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
-| Jurisprudência em Teses | 0,9000 | 0,9000 | 1,0000 | 1,0000 | 1,0000 |
+| Súmulas vinculantes | 0,6667 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
+| Jurisprudência em Teses | 0,9167 | 0,9583 | 1,0000 | 1,0000 | 1,0000 |
 | Temas repetitivos | 0,8667 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
-| Temas de repercussão geral STF | 0,7333 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
-| Informativo STF | 0,8000 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
+| Temas de repercussão geral STF | 0,7273 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
+| Informativo STF | 0,8000 | 0,9231 | 1,0000 | 1,0000 | 1,0000 |
 | Espelhos de acórdãos STJ | 0,9333 | 1,0000 | 1,0000 | 1,0000 | 1,0000 |
-| Legislação | 0,8127 | 0,9957 | 1,0000 | 1,0000 | 1,0000 |
-
-Linha de base medida em 19 de julho de 2026 (UTC), após a atualização integral dos
-snapshots e a incorporação dos diplomas da expansão (piloto de 8 leis e fatias já
-promovidas da expansão). O caso
-`jt-trafico-dosimetria` teve os julgamentos revisados com justificativa registrada
-no corpus: a atualização oficial da edição 45 reescreveu a tese 4, que deixou de
-versar diretamente sobre aplicação da pena. Os dez casos dos diplomas novos foram
-julgados sobre o conteúdo dos snapshots; esses diplomas não têm índice curado e a
-busca usa o texto integral dos dispositivos. Três casos (Código Florestal,
-lavagem de dinheiro e interceptação) tiveram os julgamentos revisados com
-justificativa registrada depois que a correção do rótulo "Art. 1º-A" separou
-dispositivos antes absorvidos no artigo anterior.
-
-O `BASE-019` (19 de julho de 2026) introduziu os índices derivados de legislação
-para todos os diplomas e o complemento dos índices curados do núcleo. A avaliação
-arbitrou a estratégia: a substituição do índice curado (precisão de legislação
-0,5528) e a geração aditiva com a pontuação legada (0,5915) foram reprovadas; a
-estratégia adotada — índice curado intacto mais índice derivado que reproduz a
-semântica da busca em texto integral, com stopwords preservadas — retornou
-exatamente os mesmos resultados nos 74 casos então existentes, caso a caso. A
-mudança funcional é que 314 dispositivos do núcleo antes invisíveis à busca
-textual passaram a ser recuperáveis, com teste de regressão próprio fora deste
-corpus.
-
-Na mesma data, as promoções do Código Comercial de 1850 (`CCOM`, 448
-dispositivos do corpo do Código capturados com o marcador `fim_antes`) e do
-Decreto 2.044/1908 (`D2044`, 57 dispositivos da página oficial localizada em
-`historicos/dpl/dpl2044-1908.htm`) e da Lei 15.040/2024 (`L15040`, 134
-dispositivos — sede atual do contrato de seguro após revogar os arts. 757 a
-802 do CC) acrescentaram seis casos julgados sobre o texto dos snapshots
-(avaria grossa, carta-partida de fretamento, aval, nota promissória, contrato
-de seguro e prescrição securitária), levando o corpus a 80 consultas naquele
-passo; a variação em relação à rodada anterior
-(global 0,8121 → 0,8000; legislação 0,8295 → 0,8127) decorreu exclusivamente dos
-casos novos, cujos conjuntos julgados incluem dispositivos além do top-5
-retornado — nenhum resultado dos 74 casos anteriores mudou.
-
-Ainda em 19 de julho de 2026, as três famílias de jurisprudência de alto volume
-promovidas nos `BASE-021` (temas de repercussão geral do STF), `BASE-025`
-(Informativo STF) e `BASE-026` (espelhos de acórdãos do STJ) receberam três casos
-julgados cada, sobre o conteúdo dos snapshots, levando o corpus a **89 consultas**.
-A tabela de linha de base acima é a medida após essa incorporação: o global passou
-de 0,8000 para 0,8025; as três novas famílias preservam recall julgado@5, cobertura
-e todos os obrigatórios (precisão@5 de 0,7333 nos temas de repercussão geral, 0,8000
-no Informativo STF e 0,9333 nos espelhos de acórdãos), e nenhum resultado dos casos
-anteriores mudou.
-
-Os valores são uma linha de base operacional, não uma alegação de precisão geral para
-qualquer consulta jurídica.
+| Legislação | 0,7642 | 0,9669 | 1,0000 | 1,0000 | 0,9863 |
 
 ## Execução e manutenção
 

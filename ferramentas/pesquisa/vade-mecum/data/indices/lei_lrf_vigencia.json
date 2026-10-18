@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_lrf.json",
       "colecao": "artigos",
-      "sha256": "29e1af5a84670994bb2237a998f788b36ef99e72edb4a33ef821b0104f853eb9",
+      "sha256": "540ffb99b8475cd576377031bd59413000cbe41b7938913886d95910afb846b5",
       "total_registros": 83,
-      "gerado_em": "2026-08-21T22:36:30+00:00"
+      "gerado_em": "2026-10-18T12:49:40+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 34,
-      "anotacoes": 127,
+      "anotacoes": 124,
       "anotacoes_sem_diploma_nomeado": 19
     }
   },
@@ -889,17 +889,6 @@
           "unidade": "inciso I",
           "diploma": {
             "especie": "Lei Complementar",
-            "numero": "206",
-            "ano": 2024
-          },
-          "trecho": "… ente da Federação afetado pelo estado de calamidade pública reconhecido pelo Congresso Nacional de que trata o art. 65;",
-          "literal": "(Redação dada pela Lei Complementar nº 206, de 2024)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Lei Complementar",
             "numero": "212",
             "ano": 2025
           },
@@ -1005,17 +994,6 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "131",
-            "ano": 2009
-          },
-          "trecho": "Parágrafo único. A transparência será assegurada também mediante:",
-          "literal": "(Redação dada pela Lei Complementar nº 131, de 2009)"
-        },
-        {
-          "tipo": "redacao",
           "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei Complementar",
@@ -1034,17 +1012,6 @@
             "ano": 2009
           },
           "trecho": "…ncias públicas, durante os processos de elaboração e discussão dos planos, lei de diretrizes orçamentárias e orçamentos;",
-          "literal": "(Incluído pela Lei Complementar nº 131, de 2009)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "131",
-            "ano": 2009
-          },
-          "trecho": "… real, de informações pormenorizadas sobre a execução orçamentária e financeira, em meios eletrônicos de acesso público;",
           "literal": "(Incluído pela Lei Complementar nº 131, de 2009)"
         },
         {

@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l12618.json",
       "colecao": "artigos",
-      "sha256": "812fe5f405c38752b6247955877955f160d2c58af6d9b5c9bcaf8f7bc1c44f56",
+      "sha256": "e894fdca6ff19ed993ca492a6caa7b927c735f73ad47a122861206cd6788d720",
       "total_registros": 33,
-      "gerado_em": "2026-08-21T22:36:32+00:00"
+      "gerado_em": "2026-10-18T12:49:54+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 6,
-      "anotacoes": 64,
+      "anotacoes": 36,
       "anotacoes_sem_diploma_nomeado": 0
     }
   },
@@ -114,39 +114,6 @@
           "tipo": "redacao",
           "unidade": "§ 2º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "…ão Instituto Brasileiro de Geografia e Estatística - IBGE, ou pelo índice que vier a substituí-lo, e será equivalente a:",
-          "literal": "(Redação dada pela Medida Provisória nº 1.119, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "…ão, se posterior àquela competência, e o limite máximo a que se refere o caput, multiplicada pelo fator de conversão; ou",
-          "literal": "(Incluído pela Medida Provisória nº 1.119, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "…ributivo desde o início da contribuição e o limite máximo a que se refere o caput, multiplicada pelo fator de conversão.",
-          "literal": "(Incluído pela Medida Provisória nº 1.119, de 2022)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 2º",
-          "diploma": {
             "especie": "Lei",
             "numero": "14.463",
             "ano": 2022
@@ -175,105 +142,6 @@
           },
           "trecho": "…uição, se posterior àquela competência, e o limite máximo a que se refere o caput, multiplicada pelo fator de conversão.",
           "literal": "(Incluído pela Lei nº 14.463, de 2022)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "…nversão de que trata o § 2º, cujo resultado é limitado ao máximo de um, será calculado pela fórmula FC = Tc/Tt, na qual:",
-          "literal": "(Redação dada pela Medida Provisória nº 1.119, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "I - FC = fator de conversão;",
-          "literal": "(Incluído pela Medida Provisória nº 1.119, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "…a União ou por membro do Poder Judiciário, do Tribunal de Contas e do Ministério Público da União até a data da opção; e",
-          "literal": "(Incluído pela Medida Provisória nº 1.119, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "III - Tt:",
-          "literal": "(Incluído pela Medida Provisória nº 1.119, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea a",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "a) para os termos de opção firmados até 2021:",
-          "literal": "(Incluído pela Medida Provisória nº 1.119, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea a",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "… Judiciário, do Tribunal de Contas da União, do Ministério Público da União ou da Defensoria Pública da União, se homem;",
-          "literal": "(Incluído pela Medida Provisória nº 1.119, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea a",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "… da União, se mulher, ou servidor titular de cargo efetivo de professor da educação infantil e do ensino fundamental; ou",
-          "literal": "(Incluído pela Medida Provisória nº 1.119, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea a",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "… e cinco, quando servidor titular de cargo efetivo da União de professor da educação infantil e do ensino fundamental; e",
-          "literal": "(Incluído pela Medida Provisória nº 1.119, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea b",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "b) para os termos de opção firmados a partir de 2022: igual a quinhentos e vinte.",
-          "literal": "(Incluído pela Medida Provisória nº 1.119, de 2022)"
         },
         {
           "tipo": "redacao",
@@ -378,89 +246,12 @@
           "tipo": "redacao",
           "unidade": "§ 4º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "…ais que prejudiquem a saúde ou a integridade física, for inferior ao Tt de que trata a alínea “a” do inciso III do § 3º.",
-          "literal": "(Redação dada pela Medida Provisória nº 1.119, de 2022)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 4º",
-          "diploma": {
             "especie": "Lei",
             "numero": "14.463",
             "ano": 2022
           },
           "trecho": "…diquem a saúde ou a integridade física, for inferior ao Tt de que trata a alínea “a” do inciso III do § 3º deste artigo.",
           "literal": "(Redação dada pela Lei nº 14.463, de 2022)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 6º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "§ 6º O benefício especial:",
-          "literal": "(Redação dada pela Medida Provisória nº 1.119, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "I - é opção que importa ato jurídico perfeito;",
-          "literal": "(Incluído pela Medida Provisória nº 1.119, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "…culado de acordo com as regras vigentes no momento do exercício da opção de que trata o § 16 do art. 40 da Constituição;",
-          "literal": "(Incluído pela Medida Provisória nº 1.119, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "…ado pelo mesmo índice aplicável ao benefício de aposentadoria ou pensão mantido pelo Regime Geral de Previdência Social;",
-          "literal": "(Incluído pela Medida Provisória nº 1.119, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso IV",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "IV - não está sujeito à incidência de contribuição previdenciária; e",
-          "literal": "(Incluído pela Medida Provisória nº 1.119, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso V",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "V - está sujeito à incidência de imposto sobre a renda.",
-          "literal": "(Incluído pela Medida Provisória nº 1.119, de 2022)"
         },
         {
           "tipo": "redacao",
@@ -537,50 +328,6 @@
           "tipo": "redacao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "§ 1º A Funpresp-Exe, a Funpresp-Leg e a Funpresp-Jud:",
-          "literal": "(Redação dada pela Medida Provisória nº 1.119, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "I - serão estruturadas na forma de fundação, com personalidade jurídica de direito privado;",
-          "literal": "(Incluído pela Medida Provisória nº 1.119, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "II - gozarão de autonomia administrativa, financeira e gerencial; e",
-          "literal": "(Incluído pela Medida Provisória nº 1.119, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "III - terão sede e foro no Distrito Federal.",
-          "literal": "(Incluído pela Medida Provisória nº 1.119, de 2022)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
             "especie": "Lei",
             "numero": "14.463",
             "ano": 2022
@@ -630,34 +377,12 @@
           "tipo": "inclusao",
           "unidade": "§ 3º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.286",
-            "ano": 2024
-          },
-          "trecho": "…es fechadas representantes dos participantes e dos assistidos poderá ser delegada pelas autoridades de que trata o § 3º.",
-          "literal": "(Incluído pela Medida Provisória nº 1.286, de 2024)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 3º",
-          "diploma": {
             "especie": "Lei",
             "numero": "15.141",
             "ano": 2025
           },
           "trecho": "…es fechadas representantes dos participantes e dos assistidos poderá ser delegada pelas autoridades de que trata o § 3º.",
           "literal": "(Incluído pela Lei nº 15.141, de 2025)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 8º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "…valecentes no mercado de trabalho para profissionais de graus equivalentes de formação profissional e de especialização.",
-          "literal": "(Redação dada pela Medida Provisória nº 1.119, de 2022)"
         },
         {
           "tipo": "redacao",
@@ -702,39 +427,6 @@
     "11": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "§ 3º As transferências referidas no caput incluirão aquelas:",
-          "literal": "(Incluído pela Medida Provisória nº 1.119, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "I - contratadas pelo servidor para cobertura de riscos de invalidez ou morte; e",
-          "literal": "(Incluído pela Medida Provisória nº 1.119, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.119",
-            "ano": 2022
-          },
-          "trecho": "II - referidas no § 4º do art. 16.",
-          "literal": "(Incluído pela Medida Provisória nº 1.119, de 2022)"
-        },
         {
           "tipo": "inclusao",
           "unidade": "§ 3º",

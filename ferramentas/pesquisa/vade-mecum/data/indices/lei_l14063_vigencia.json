@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_l14063.json",
       "colecao": "artigos",
-      "sha256": "ef5bcfadc1fcf785b2a41547e00269f6c228c8da62e722af8e3d5fa453f9226f",
+      "sha256": "b1326200c54e8b24755b6942f72ed066ce427f14208af35f8851a64775eb7bc1",
       "total_registros": 21,
-      "gerado_em": "2026-08-21T22:36:29+00:00"
+      "gerado_em": "2026-10-18T12:49:38+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 6,
-      "anotacoes": 11,
-      "anotacoes_sem_diploma_nomeado": 10
+      "anotacoes": 13,
+      "anotacoes_sem_diploma_nomeado": 11
     }
   },
   "vigencia": {
@@ -138,12 +138,30 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.162",
+            "especie": "Lei",
+            "numero": "14.620",
             "ano": 2023
           },
           "trecho": "…respondentes poderão fazer uso das assinaturas eletrônicas nas modalidades avançada e qualificada de que trata esta Lei.",
-          "literal": "(Incluído pela Medida Provisória nº 1.162, de 2023)"
+          "literal": "(Incluído pela Lei nº 14.620, de 2023)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "parágrafo único",
+          "diploma": null,
+          "trecho": "Parágrafo único.",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "parágrafo único",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.620",
+            "ano": 2023
+          },
+          "trecho": "Parágrafo único. (VETADO).",
+          "literal": "(Incluído pela Lei nº 14.620, de 2023)"
         }
       ]
     }

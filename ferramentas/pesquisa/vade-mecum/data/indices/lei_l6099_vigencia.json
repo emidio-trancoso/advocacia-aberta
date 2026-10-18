@@ -23,35 +23,19 @@
     "fonte": {
       "arquivo": "lei_l6099.json",
       "colecao": "artigos",
-      "sha256": "b7a2d913aafda0884eed0342cf1d52cf4632660a99e7dbd85a7a95cce0467a03",
+      "sha256": "cd51dceb037edd5a091ef431fdfaa92db4b751e4b4ccca4de15354df717d8f7d",
       "total_registros": 26,
-      "gerado_em": "2026-09-14T13:56:05+00:00"
+      "gerado_em": "2026-10-18T12:49:44+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 10,
-      "anotacoes": 60,
+      "anotacoes": 61,
       "anotacoes_sem_diploma_nomeado": 19
     }
   },
   "vigencia": {
-    "1": {
-      "situacao": null,
-      "eventos": [
-        {
-          "tipo": "redacao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "7.132",
-            "ano": 1983
-          },
-          "trecho": "…eto o arrendamento de bens adquiridos pela arrendadora, segundo especificações da arrendatária e para uso próprio desta.",
-          "literal": "(Redação dada pela Lei nº 7.132, de 1983)"
-        }
-      ]
-    },
     "1-A": {
       "situacao": null,
       "eventos": [
@@ -111,23 +95,50 @@
           "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "442",
+            "especie": "Lei",
+            "numero": "11.882",
             "ano": 2008
           },
           "trecho": "… financiar suas controladas, coligadas ou interdependentes que se especializarem em operações de arrendamento mercantil.",
-          "literal": "(Redação dada pela Medida Provisória nº 442, de 2008)"
+          "literal": "(Redação dada pela Lei nº 11.882, de 2008)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "parágrafo único",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "11.882",
+            "ano": 2008
+          },
+          "trecho": "…ário ou secundário constitui obrigação de natureza cambiária, não caracterizando operação de empréstimo ou adiantamento.",
+          "literal": "(Redação dada pela Lei nº 11.882, de 2008)"
+        }
+      ]
+    },
+    "9": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "7.132",
+            "ano": 1983
+          },
+          "trecho": "… pelo Conselho Monetário Nacional, que estabelecerá as condições para a realização das operações previstas neste artigo.",
+          "literal": "(Redação dada pela Lei nº 7.132, de 1983)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "caput",
+          "unidade": "parágrafo único",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "442",
-            "ano": 2008
+            "especie": "Lei",
+            "numero": "7.132",
+            "ano": 1983
           },
-          "trecho": "…mário ou secundário, constitui obrigação de natureza cambial, não caracterizando operação de empréstimo ou adiantamento.",
-          "literal": "(Incluído pela Medida Provisória nº 442, de 2008)"
+          "trecho": "… único - Nos casos deste artigo, o prejuízo decorrente da venda do bem não será dedutível na determinação do lucro real.",
+          "literal": "(Incluído pela Lei nº 7.132, de 1983)"
         }
       ]
     },

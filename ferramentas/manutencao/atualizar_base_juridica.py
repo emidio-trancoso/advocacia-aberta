@@ -282,6 +282,44 @@ def tem_ancestral_riscado(no: Elemento) -> bool:
     return False
 
 
+def paragrafo_riscado(no: Elemento) -> bool:
+    """Parágrafo que a página exibe inteiramente riscado (redação anterior).
+
+    O Planalto marca a redação anterior de duas formas: riscando um ancestral
+    do parágrafo (``<p style="text-decoration: line-through">``) ou, com muito
+    mais frequência, abrindo o ``<strike>`` dentro do próprio ``<p>``, depois da
+    âncora (``<p><font><a name="art26§2"></a><strike>§ 2º ...</strike>``, Lei
+    9.514). A segunda forma escapava à checagem por ancestrais, e a redação
+    revogada entrava no artigo como texto comum, antes da vigente (BASE-050).
+
+    Vale riscado quando **todo** o texto visível do parágrafo está dentro de
+    uma marca de riscado. Parágrafo parcialmente riscado — texto riscado seguido
+    de "(Revogado pela Lei ...)" ou "(Vide ADIN ...)" fora da marca — não conta:
+    a anotação é informação da fonte sobre aquele dispositivo e fica preservada
+    junto dele.
+    """
+    if tem_ancestral_riscado(no):
+        return True
+    total = riscados = 0
+
+    def visitar(item: Elemento | str, dentro: bool) -> None:
+        nonlocal total, riscados
+        if isinstance(item, str):
+            if item.replace("\xa0", " ").strip():
+                total += 1
+                riscados += dentro
+            return
+        if item.tag in {"script", "style", "noscript"}:
+            return
+        estilo = item.atributos.get("style", "").lower()
+        dentro = dentro or item.tag in {"s", "strike", "del"} or "line-through" in estilo
+        for filho in item.filhos:
+            visitar(filho, dentro)
+
+    visitar(no, False)
+    return total > 0 and riscados == total
+
+
 def ler_cabecalhos(path: Path) -> dict[str, str]:
     texto = path.read_text(encoding="latin-1", errors="replace")
     blocos = re.split(r"\r?\n\r?\n", texto.strip())
@@ -788,8 +826,9 @@ def transformar_legislacao(
                 # Redação pontilhada ("Art. 155. ....."): citação parcial de
                 # dispositivo de outra norma alterada; não é artigo desta lei.
                 continue
+            ativo = not paragrafo_riscado(paragrafo)
             if (
-                not tem_ancestral_riscado(paragrafo)
+                ativo
                 and rotulo_inicial_em_link(paragrafo)
                 and not re.match(r"^\(?\s*VETADO", resto, re.IGNORECASE)
             ):
@@ -809,6 +848,13 @@ def transformar_legislacao(
                     break
                 if re.match(r"^(T[ÍI]TULO|CAP[ÍI]TULO|SEC?ÇÃO)\s+", proximo, re.I):
                     break
+                if ativo and paragrafo_riscado(seguinte):
+                    # Redação anterior, riscada na fonte, de um dispositivo que
+                    # tem a vigente logo abaixo: fica de fora, para o artigo
+                    # trazer uma única redação por dispositivo (BASE-050). Um
+                    # artigo inteiro riscado (revogado, sem substituto) segue
+                    # retido com os seus parágrafos, como antes.
+                    continue
                 if proximo and not proximo.lower().startswith(("voltar", "presidência da república")):
                     blocos.append(proximo)
             texto_artigo = "\n\n".join(blocos)
@@ -830,7 +876,6 @@ def transformar_legislacao(
                     "section_name": secao_nome,
                 },
             }
-            ativo = not tem_ancestral_riscado(paragrafo)
             anterior = ocorrencias.get(numero)
             # Em lei compilada o Planalto mostra a redação anterior e, logo abaixo,
             # a vigente. Quando a anterior não vem riscada, as duas ocorrências são

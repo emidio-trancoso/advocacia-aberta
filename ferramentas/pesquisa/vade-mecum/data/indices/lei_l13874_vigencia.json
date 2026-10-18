@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l13874.json",
       "colecao": "artigos",
-      "sha256": "0bb1ed0f5c4978d6360e30e7e28d78a5f671a43a184828c9971850d0dcd5f462",
+      "sha256": "387296f99d57f6c1835548e77a66b7c7c3327811d40064d612808c0da3fcc9b0",
       "total_registros": 21,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:49:48+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 8,
-      "anotacoes": 40,
+      "anotacoes": 39,
       "anotacoes_sem_diploma_nomeado": 22
     }
   },
@@ -97,17 +97,6 @@
           "diploma": null,
           "trecho": "§ 9º",
           "literal": "(VETADO)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 12º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "915",
-            "ano": 2019
-          },
-          "trecho": "… aplica às atividades com impacto significativo no meio ambiente, conforme estabelecido pelo órgão ambiental competente.",
-          "literal": "(Incluído pela Medida Provisória nº 915, de 2019)"
         }
       ]
     },

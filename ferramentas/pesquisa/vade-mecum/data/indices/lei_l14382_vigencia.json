@@ -23,40 +23,22 @@
     "fonte": {
       "arquivo": "lei_l14382.json",
       "colecao": "artigos",
-      "sha256": "88a2d1e912239f95260b98a314e263a5b5e303a369e5a7837c483ef47f019a05",
+      "sha256": "7e24a7beb81d3af32d60b045bd9c72fa0566cfa56a9377b46123a92f925a1fb4",
       "total_registros": 21,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:49:41+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 6,
-      "anotacoes": 37,
-      "anotacoes_sem_diploma_nomeado": 28
+      "anotacoes": 31,
+      "anotacoes_sem_diploma_nomeado": 23
     }
   },
   "vigencia": {
     "6": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "veto",
-          "unidade": "inciso III",
-          "diploma": null,
-          "trecho": "III -",
-          "literal": "(VETADO)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso IV",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.162",
-            "ano": 2023
-          },
-          "trecho": "…stro eletrônico de imóveis e as referidas instituições financeiras arquivarão o instrumento contratual em pasta própria.",
-          "literal": "(Incluído pela Medida Provisória nº 1.162, de 2023)"
-        },
         {
           "tipo": "inclusao",
           "unidade": "inciso IV",
@@ -155,20 +137,6 @@
     "10": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "veto",
-          "unidade": "§ 1º",
-          "diploma": null,
-          "trecho": "§ 1º",
-          "literal": "(VETADO)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "§ 3º",
-          "diploma": null,
-          "trecho": "§ 3º",
-          "literal": "(VETADO)"
-        },
         {
           "tipo": "revogacao",
           "unidade": "alínea o",
@@ -313,20 +281,6 @@
           "diploma": null,
           "trecho": "IV -",
           "literal": "(revogado)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "inciso III",
-          "diploma": null,
-          "trecho": "III -",
-          "literal": "(VETADO)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "§ 2º",
-          "diploma": null,
-          "trecho": "§ 2º",
-          "literal": "(VETADO)"
         }
       ]
     },

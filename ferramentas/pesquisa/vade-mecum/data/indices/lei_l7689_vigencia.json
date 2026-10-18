@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l7689.json",
       "colecao": "artigos",
-      "sha256": "f3959a55e8f44661d68f6f0f65839452180ec595f1884bcd16d9abe103ae054c",
+      "sha256": "d757ea1c397e871e5ce546be7b847a2687a8f1a7c65a6c53d6c1137b1bdfb6e9",
       "total_registros": 13,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:50:05+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 3,
-      "anotacoes": 52,
+      "anotacoes": 29,
       "anotacoes_sem_diploma_nomeado": 2
     }
   },
@@ -39,105 +39,6 @@
     "2": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "revogacao",
-          "unidade": "alínea c",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "7.856",
-            "ano": 1989
-          },
-          "trecho": "…988, apurado segundo o disposto no art. 19 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, e alterações posteriores;",
-          "literal": "(Revogado pela Lei nº 7.856, de 1989)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "alínea c",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "7.988",
-            "ano": 1989
-          },
-          "trecho": "…. 19 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, e alterações posteriores; (Revogado pela Lei nº 7.856, de 1989)",
-          "literal": "(Revogado pela Lei nº 7.988, de 1989)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "alínea c",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "161",
-            "ano": 1990
-          },
-          "trecho": "c) o resultado do período-base, apurado com observância da legislação comercial, será ajustado pela:",
-          "literal": "(Redação dada pela Medida Provisória nº 161, de 1990)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "alínea c",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "161",
-            "ano": 1990
-          },
-          "trecho": "1 - adição do resultado negativo da avaliação de investimentos pelo valor de patrimônio líquido;",
-          "literal": "(Redação dada pela Medida Provisória nº 161, de 1990)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "alínea c",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "161",
-            "ano": 1990
-          },
-          "trecho": "…e reavaliação, baixado durante o período-base, cuja contrapartida não tenha sido computada no resultado do período-base;",
-          "literal": "(Redação dada pela Medida Provisória nº 161, de 1990)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "alínea c",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "161",
-            "ano": 1990
-          },
-          "trecho": "… - adição do valor das provisões não deduzíeis na determinação do lucro real, exceto a provisão para o Imposto de Renda;",
-          "literal": "(Redação dada pela Medida Provisória nº 161, de 1990)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "alínea c",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "161",
-            "ano": 1990
-          },
-          "trecho": "4 - exclusão do resultado positivo da avaliação de investimentos pelo valor de patrimônio líquido;",
-          "literal": "(Redação dada pela Medida Provisória nº 161, de 1990)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea c",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "161",
-            "ano": 1990
-          },
-          "trecho": "…cros e dividendos derivados de investimentos avaliados pelo custo de aquisição, que tenham sido computados como receita;",
-          "literal": "(Incluído pela Medida Provisória nº 161, de 1990)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea c",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "161",
-            "ano": 1990
-          },
-          "trecho": "…rigido monetariamente, das provisões adicionadas, na forma do item 3, que tenham sido baixados no curso de período-base.",
-          "literal": "(Incluído pela Medida Provisória nº 161, de 1990)"
-        },
         {
           "tipo": "redacao",
           "unidade": "alínea c",
@@ -194,17 +95,6 @@
           "literal": "(Redação dada pela Lei nº 8.034, de 1990)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "alínea c",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "8.034",
-            "ano": 1990
-          },
-          "trecho": "…cros e dividendos derivados de investimentos avaliados pelo custo de aquisição, que tenham sido computados como receita;",
-          "literal": "(Incluído pela Lei nº 8.034, de 1990)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "alínea c",
           "diploma": {
@@ -250,39 +140,6 @@
           "literal": "(Redação dada pela Lei nº 11.727, de 2008)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "413",
-            "ano": 2008
-          },
-          "trecho": "…apitalização e as referidas nos incisos I a XII do § 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001;",
-          "literal": "(Incluído pela Medida Provisória nº 413, de 2008)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.727",
-            "ano": 2008
-          },
-          "trecho": "…o e das referidas nos incisos I a VII, IX e X do § 1o do art. 1o da Lei Complementar no 105, de 10 de janeiro de 2001; e",
-          "literal": "(Incluído pela Lei nº 11.727, de 2008)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "675",
-            "ano": 2015
-          },
-          "trecho": "…o e das referidas nos incisos I a VII, IX e X do § 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001; e",
-          "literal": "(Redação dada pela Medida provisória nº 675, de 2015)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "inciso I",
           "diploma": {
@@ -292,28 +149,6 @@
           },
           "trecho": "…lização e das referidas nos incisos I a VII e X do § 1o do art. 1o da Lei Complementar no 105, de 10 de janeiro de 2001;",
           "literal": "(Redação dada pela Lei nº 13.169, de 2015)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.034",
-            "ano": 2021
-          },
-          "trecho": "…zação e das referidas nos incisos II ao VII e X do § 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001;",
-          "literal": "(Redação dada pela Medida Provisória nº 1.034, de 2021)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "14.183",
-            "ano": 2021
-          },
-          "trecho": "…das nos incisos II, III, IV, V, VI, VII, IX e X do § 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001;",
-          "literal": "(Redação dada pela Lei nº 14.183, de 2021)"
         },
         {
           "tipo": "redacao",
@@ -331,44 +166,11 @@
           "unidade": "inciso I",
           "diploma": {
             "especie": "Lei",
-            "numero": "14.183",
-            "ano": 2021
-          },
-          "trecho": "…das nos incisos II, III, IV, V, VI, VII, IX e X do § 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001;",
-          "literal": "(Redação dada pela Lei nº 14.183, de 2021)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "224",
-            "ano": 2025
+            "numero": "15.525",
+            "ano": 2026
           },
           "trecho": "…feridas nos incisos II, III, V, VI, VII, IX e X do § 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001;",
-          "literal": "(Redação dada pela Lei Complementar nº 224, de 2025)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "413",
-            "ano": 2008
-          },
-          "trecho": "II - nove por cento, no caso das demais pessoas jurídicas.",
-          "literal": "(Incluído pela Medida Provisória nº 413, de 2008)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.727",
-            "ano": 2008
-          },
-          "trecho": "II – 9% (nove por cento), no caso das demais pessoas jurídicas.",
-          "literal": "(Incluído pela Lei nº 11.727, de 2008)"
+          "literal": "(Redação dada pela Lei nº 15.525, de 2026)"
         },
         {
           "tipo": "redacao",
@@ -380,17 +182,6 @@
           },
           "trecho": "…so das pessoas jurídicas referidas no inciso IX do § 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001;",
           "literal": "(Redação dada pela Lei nº 13.169, de 2015)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.034",
-            "ano": 2021
-          },
-          "trecho": "…ro de 2022, no caso das pessoas jurídicas referidas no inciso IX do § 1º do art. 1º da Lei Complementar nº 105, de 2001;",
-          "literal": "(Redação dada pela Medida Provisória nº 1.034, de 2021)"
         },
         {
           "tipo": "revogacao",
@@ -411,17 +202,6 @@
           "literal": "(Redação dada pela Lei nº 14.183, de 2021)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "14.183",
-            "ano": 2021
-          },
-          "trecho": "…o das pessoas jurídicas referidas no inciso I do § 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001; e",
-          "literal": "(Incluído pela Lei nº 14.183, de 2021)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "inciso II",
           "diploma": {
@@ -431,17 +211,6 @@
           },
           "trecho": "… § 1º, incisos I e IV, da Lei Complementar nº 105, de 10 de janeiro de 2001, e das pessoas jurídicas de capitalização; e",
           "literal": "(Redação dada pela Medida Provisória nº 1.303, de 2025)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "14.183",
-            "ano": 2021
-          },
-          "trecho": "…o das pessoas jurídicas referidas no inciso I do § 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001; e",
-          "literal": "(Incluído pela Lei nº 14.183, de 2021)"
         },
         {
           "tipo": "redacao",
@@ -532,17 +301,6 @@
           "literal": "(Incluído pela Lei nº 13.169, de 2015)"
         },
         {
-          "tipo": "redacao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.034",
-            "ano": 2021
-          },
-          "trecho": "…o de 2022, no caso das pessoas jurídicas referidas no inciso I do § 1º do art. 1º da Lei Complementar nº 105, de 2001; e",
-          "literal": "(Redação dada pela Medida Provisória nº 1.034, de 2021)"
-        },
-        {
           "tipo": "inclusao",
           "unidade": "inciso III",
           "diploma": {
@@ -555,25 +313,14 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "inciso IV",
+          "unidade": "inciso V",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.034",
-            "ano": 2021
+            "especie": "Lei",
+            "numero": "15.525",
+            "ano": 2026
           },
-          "trecho": "IV - nove por cento, no caso das demais pessoas jurídicas.",
-          "literal": "(Incluído pela Medida Provisória nº 1.034, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.115",
-            "ano": 2022
-          },
-          "trecho": "…o caput serão de 16% (dezesseis por cento) e de 21% (vinte e um por cento), respectivamente, até 31 de dezembro de 2022.",
-          "literal": "(Incluído Medida Provisória nº 1.115, de 2022)"
+          "trecho": "… resseguradoras locais de que trata o inciso I do caput do art. 4º da Lei Complementar nº 126, de 15 de janeiro de 2007.",
+          "literal": "(Incluído pela Lei nº 15.525, de 2026)"
         },
         {
           "tipo": "inclusao",

@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l5584.json",
       "colecao": "artigos",
-      "sha256": "60dbb09fc902396d091d8a0ef63e071ae139271d46ed526cd41b991dfdc6f64c",
+      "sha256": "39dc1470206d988d35b348e53861f49842d91f99dcfca5de65e7b936efc33033",
       "total_registros": 20,
-      "gerado_em": "2026-08-21T22:36:34+00:00"
+      "gerado_em": "2026-10-18T12:50:01+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 2,
-      "anotacoes": 2,
+      "artigos_com_anotacao": 3,
+      "anotacoes": 3,
       "anotacoes_sem_diploma_nomeado": 0
     }
   },
@@ -49,6 +49,22 @@
           },
           "trecho": "…que se refere o parágrafo anterior, considerado, para esse fim, o valor do salário mínimo à data do ajuizamento da ação.",
           "literal": "(Redação dada pela Lei nº 7.402, de 1985)"
+        }
+      ]
+    },
+    "9": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "7.033",
+            "ano": 1982
+          },
+          "trecho": "…orme deste Tribunal já compendiada, poderá o Relator negar prosseguimento ao recurso, indicando a correspondente súmula.",
+          "literal": "(Redação dada pela Lei nº 7.033, de 1982)"
         }
       ]
     },

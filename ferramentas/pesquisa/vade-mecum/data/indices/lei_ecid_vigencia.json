@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_ecid.json",
       "colecao": "artigos",
-      "sha256": "136af9c88e4bb37023fec9882973651b8f427a3ddec725415eaa6a00f5849731",
+      "sha256": "4816b619da6204466f2c241cf72d77719442ff36c91224b02b4aaadf48f62120",
       "total_registros": 62,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:50:07+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 28,
-      "anotacoes": 69,
+      "anotacoes": 65,
       "anotacoes_sem_diploma_nomeado": 16
     }
   },
@@ -39,17 +39,6 @@
     "2": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea h",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "547",
-            "ano": 2011
-          },
-          "trecho": "h) a exposição da população a riscos de desastres naturais;",
-          "literal": "(Incluído pela Medida Provisória nº 547, de 2011)"
-        },
         {
           "tipo": "inclusao",
           "unidade": "alínea h",
@@ -144,17 +133,6 @@
           "unidade": "inciso IV",
           "diploma": {
             "especie": "Lei",
-            "numero": "13.116",
-            "ano": 2015
-          },
-          "trecho": "…ento urbano, inclusive habitação, saneamento básico, transportes urbanos e infraestrutura de energia e telecomunicações;",
-          "literal": "(Redação dada pela Lei nº 13.116, de 2015)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso IV",
-          "diploma": {
-            "especie": "Lei",
             "numero": "13.146",
             "ano": 2015
           },
@@ -177,34 +155,12 @@
           "tipo": "inclusao",
           "unidade": "alínea t",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "459",
-            "ano": 2009
-          },
-          "trecho": "t) demarcação urbanística para fins de regularização fundiária;",
-          "literal": "(Incluído pela Medida Provisória nº 459, de 2009)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea t",
-          "diploma": {
             "especie": "Lei",
             "numero": "11.977",
             "ano": 2009
           },
           "trecho": "t) demarcação urbanística para fins de regularização fundiária;",
           "literal": "(Incluído pela Lei nº 11.977, de 2009)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea u",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "459",
-            "ano": 2009
-          },
-          "trecho": "u) legitimação de posse.",
-          "literal": "(Incluído pela Medida Provisória nº 459, de 2009)"
         },
         {
           "tipo": "inclusao",
@@ -470,122 +426,122 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "547",
-            "ano": 2011
+            "especie": "Lei",
+            "numero": "12.608",
+            "ano": 2012
           },
-          "trecho": "… municípios que possuam áreas de expansão urbana deverão elaborar Plano de Expansão Urbana no qual constarão, no mínimo:",
-          "literal": "(Incluído pela Medida Provisória nº 547, de 2011)"
+          "trecho": "…de deslizamentos de grande impacto, inundações bruscas ou processos geológicos ou hidrológicos correlatos deverá conter:",
+          "literal": "(Incluído pela Lei nº 12.608, de 2012)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso I",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "547",
-            "ano": 2011
+            "especie": "Lei",
+            "numero": "12.608",
+            "ano": 2012
           },
-          "trecho": "I - demarcação da área de expansão urbana;",
-          "literal": "(Incluído pela Medida Provisória nº 547, de 2011)"
+          "trecho": "…ento, uso e ocupação do solo, de modo a promover a diversidade de usos e a contribuir para a geração de emprego e renda;",
+          "literal": "(Incluído pela Lei nº 12.608, de 2012)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso II",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "547",
-            "ano": 2011
+            "especie": "Lei",
+            "numero": "12.608",
+            "ano": 2012
           },
-          "trecho": "…echos com restrições à urbanização e dos trechos sujeitos a controle especial em função de ameaça de desastres naturais;",
-          "literal": "(Incluído pela Medida Provisória nº 547, de 2011)"
+          "trecho": "… à ocorrência de deslizamentos de grande impacto, inundações bruscas ou processos geológicos ou hidrológicos correlatos;",
+          "literal": "(Incluído pela Lei nº 12.608, de 2012)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso III",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "547",
-            "ano": 2011
+            "especie": "Lei",
+            "numero": "12.608",
+            "ano": 2012
           },
-          "trecho": "… áreas que serão utilizadas para infraestrutura, sistema viário, equipamentos e instalações públicas, urbanas e sociais;",
-          "literal": "(Incluído pela Medida Provisória nº 547, de 2011)"
+          "trecho": "III - planejamento de ações de intervenção preventiva e realocação de população de áreas de risco de desastre;",
+          "literal": "(Incluído pela Lei nº 12.608, de 2012)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso IV",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "547",
-            "ano": 2011
+            "especie": "Lei",
+            "numero": "12.608",
+            "ano": 2012
           },
-          "trecho": "…amento, uso e ocupação do solo, de modo a promover a diversidade de usos e contribuir para a geração de emprego e renda;",
-          "literal": "(Incluído pela Medida Provisória nº 547, de 2011)"
+          "trecho": "IV - medidas de drenagem urbana necessárias à prevenção e à mitigação de impactos de desastres; e",
+          "literal": "(Incluído pela Lei nº 12.608, de 2012)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso V",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "547",
-            "ano": 2011
+            "especie": "Lei",
+            "numero": "12.608",
+            "ano": 2012
           },
-          "trecho": "…onas especiais de interesse social e de outros instrumentos de política urbana, quando o uso habitacional for permitido;",
-          "literal": "(Incluído pela Medida Provisória nº 547, de 2011)"
+          "trecho": "… zonas especiais de interesse social e de outros instrumentos de política urbana, onde o uso habitacional for permitido.",
+          "literal": "(Incluído pela Lei nº 12.608, de 2012)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso VI",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "547",
-            "ano": 2011
+            "especie": "Lei",
+            "numero": "12.983",
+            "ano": 2014
           },
-          "trecho": "VI - definição de diretrizes e instrumentos específicos para proteção ambiental e do patrimônio histórico e cultural; e",
-          "literal": "(Incluído pela Medida Provisória nº 547, de 2011)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso VII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "547",
-            "ano": 2011
-          },
-          "trecho": "…o de expansão urbana e a recuperação para a coletividade da valorização imobiliária resultante da ação do Poder Público.",
-          "literal": "(Incluído pela Medida Provisória nº 547, de 2011)"
+          "trecho": "…rvação e ocupação das áreas verdes municipais, quando for o caso, com vistas à redução da impermeabilização das cidades.",
+          "literal": "(Incluído pela Lei nº 12.983, de 2014)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "547",
-            "ano": 2011
+            "especie": "Lei",
+            "numero": "12.608",
+            "ano": 2012
           },
-          "trecho": "…úcleos urbanos, bem como aquelas que forem incluídas no perímetro urbano a partir da publicação desta Medida Provisória.",
-          "literal": "(Incluído pela Medida Provisória nº 547, de 2011)"
+          "trecho": "§ 1o A identificação e o mapeamento de áreas de risco levarão em conta as cartas geotécnicas.",
+          "literal": "(Incluído pela Lei nº 12.608, de 2012)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 2º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "547",
-            "ano": 2011
+            "especie": "Lei",
+            "numero": "12.608",
+            "ano": 2012
           },
-          "trecho": "§ 2o O Plano de Expansão Urbana deverá atender às diretrizes do Plano Diretor, quando houver.",
-          "literal": "(Incluído pela Medida Provisória nº 547, de 2011)"
+          "trecho": "…m as disposições insertas nos planos de recursos hídricos, formulados consoante a Lei no 9.433, de 8 de janeiro de 1997.",
+          "literal": "(Incluído pela Lei nº 12.608, de 2012)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 3º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "12.608",
+            "ano": 2012
+          },
+          "trecho": "…nicípios adequarão o plano diretor às disposições deste artigo, por ocasião de sua revisão, observados os prazos legais.",
+          "literal": "(Incluído pela Lei nº 12.608, de 2012)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 4º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "547",
-            "ano": 2011
+            "especie": "Lei",
+            "numero": "12.608",
+            "ano": 2012
           },
-          "trecho": "…ontemplar as exigências estabelecidas no caput, o Município ficará dispensado da elaboração do Plano de Expansão Urbana.",
-          "literal": "(Incluído pela Medida Provisória nº 547, de 2011)"
+          "trecho": "…m plano diretor aprovado terão o prazo de 5 (cinco) anos para o seu encaminhamento para aprovação pela Câmara Municipal.",
+          "literal": "(Incluído pela Lei nº 12.608, de 2012)"
         }
       ]
     },

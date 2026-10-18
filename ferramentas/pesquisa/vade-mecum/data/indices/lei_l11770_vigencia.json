@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l11770.json",
       "colecao": "artigos",
-      "sha256": "cc6c5b797f7fc08da799d46285af39207c02198aed97b1f7fee2128350b414d0",
+      "sha256": "df3084c5ee153d2db8ceff254765147f6297888eb1d579619956b67240148ec1",
       "total_registros": 9,
-      "gerado_em": "2026-08-21T22:36:34+00:00"
+      "gerado_em": "2026-10-18T12:50:01+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 6,
-      "anotacoes": 24,
+      "anotacoes": 22,
       "anotacoes_sem_diploma_nomeado": 2
     }
   },
@@ -120,28 +120,6 @@
           "tipo": "inclusao",
           "unidade": "§ 3º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.116",
-            "ano": 2022
-          },
-          "trecho": "…e pessoa jurídica aderente ao programa e que a decisão seja adotada conjuntamente, na forma estabelecida em regulamento.",
-          "literal": "(Incluído pela Medida Provisória nº 1.116, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.116",
-            "ano": 2022
-          },
-          "trecho": "…rir ao programa somente após o término da licença-maternidade, desde que seja requerida com trinta dias de antecedência.",
-          "literal": "(Incluído pela Medida Provisória nº 1.116, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 3º",
-          "diploma": {
             "especie": "Lei",
             "numero": "14.457",
             "ano": 2022
@@ -169,56 +147,56 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.116",
+            "especie": "Lei",
+            "numero": "14.457",
             "ano": 2022
           },
-          "trecho": "…so I do caput do art. 1º, pela redução de jornada de trabalho em cinquenta por cento pelo período de cento e vinte dias.",
-          "literal": "(Incluído pela Medida Provisória nº 1.116, de 2022)"
+          "trecho": "… 1º desta Lei pela redução de jornada de trabalho em 50% (cinquenta por cento) pelo período de 120 (cento e vinte) dias.",
+          "literal": "(Incluído pela Lei nº 14.457, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.116",
+            "especie": "Lei",
+            "numero": "14.457",
             "ano": 2022
           },
-          "trecho": "§ 1º São requisitos para efetuar a substituição de que trata o caput:",
-          "literal": "(Incluído pela Medida Provisória nº 1.116, de 2022)"
+          "trecho": "§ 1º São requisitos para efetuar a substituição de que trata o caput deste artigo:",
+          "literal": "(Incluído pela Lei nº 14.457, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso I",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.116",
+            "especie": "Lei",
+            "numero": "14.457",
             "ano": 2022
           },
-          "trecho": "I - pagamento integral do salário à empregada ou ao empregado pelo período de cento e vinte dias; e",
-          "literal": "(Incluído pela Medida Provisória nº 1.116, de 2022)"
+          "trecho": "I - pagamento integral do salário à empregada ou ao empregado pelo período de 120 (cento e vinte) dias; e",
+          "literal": "(Incluído pela Lei nº 14.457, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso II",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.116",
+            "especie": "Lei",
+            "numero": "14.457",
             "ano": 2022
           },
-          "trecho": "II - acordo individual firmado entre o empregador e a empregada ou o empregado.",
-          "literal": "(Incluído pela Medida Provisória nº 1.116, de 2022)"
+          "trecho": "II - acordo individual firmado entre o empregador e a empregada ou o empregado interessados em adotar a medida.",
+          "literal": "(Incluído pela Lei nº 14.457, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 2º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.116",
+            "especie": "Lei",
+            "numero": "14.457",
             "ano": 2022
           },
-          "trecho": "§ 2º A substituição de que trata o caput poderá ser concedida na forma prevista no § 3º do art. 1º.",
-          "literal": "(Incluído pela Medida Provisória nº 1.116, de 2022)"
+          "trecho": "…2º A substituição de que trata o caput deste artigo poderá ser concedida na forma prevista no § 3º do art. 1º desta Lei.",
+          "literal": "(Incluído pela Lei nº 14.457, de 2022)"
         }
       ]
     },

@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_lc123.json",
       "colecao": "artigos",
-      "sha256": "5324283fbf8ce000236107010c5ea78072940b0a52baeea3b3fbccf3893ad73a",
+      "sha256": "d65731bef9152383542cb05734f71ecfabb264d20bba49267f3c17f0ffe6fd87",
       "total_registros": 134,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:50:10+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 90,
-      "anotacoes": 573,
-      "anotacoes_sem_diploma_nomeado": 139
+      "anotacoes": 528,
+      "anotacoes_sem_diploma_nomeado": 132
     }
   },
   "vigencia": {
@@ -133,33 +133,11 @@
           "unidade": "inciso I",
           "diploma": {
             "especie": "Lei Complementar",
-            "numero": "188",
-            "ano": 2021
-          },
-          "trecho": "…eno porte referidas no art. 11 da Lei Complementar nº 147, de 7 de agosto de 2014, para tratar dos aspectos tributários;",
-          "literal": "(Redação dada pela Lei Complementar nº 188, de 2021)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Lei Complementar",
             "numero": "214",
             "ano": 2025
           },
           "trecho": "…eno porte referidas no art. 11 da Lei Complementar nº 147, de 7 de agosto de 2014, para tratar dos aspectos tributários;",
           "literal": "(Redação dada pela Lei Complementar nº 214, de 2025)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "147",
-            "ano": 2014
-          },
-          "trecho": "…finida pelo Poder Executivo, para tratar do processo de registro e de legalização de empresários e de pessoas jurídicas.",
-          "literal": "(Redação pela Lei Complementar nº 147, de 2014)"
         },
         {
           "tipo": "redacao",
@@ -182,17 +160,6 @@
           },
           "trecho": "…arão seus regimentos internos mediante resolução, observado, quanto ao CGSN, o disposto nos §§ 4º-A e 4º-B deste artigo.",
           "literal": "(Redação dada pela Lei Complementar nº 188, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "188",
-            "ano": 2021
-          },
-          "trecho": "…o das reuniões do CGSN será de 3/4 (três quartos) dos componentes, dos quais um deles será necessariamente o Presidente.",
-          "literal": "(Incluído pela Lei Complementar nº 188, de 2021)"
         },
         {
           "tipo": "redacao",
@@ -232,44 +199,11 @@
           "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei Complementar",
-            "numero": "147",
-            "ano": 2014
-          },
-          "trecho": "…Secretaria da Micro e Pequena Empresa da Presidência da República, mediante indicação dos órgãos e entidades vinculados.",
-          "literal": "(Redação pela Lei Complementar nº 147, de 2014)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 8º",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "188",
-            "ano": 2021
-          },
-          "trecho": "…deste artigo serão designados pelo Ministro de Estado da Economia, mediante indicação dos órgãos e entidades vinculados.",
-          "literal": "(Redação dada pela Lei Complementar nº 188, de 2021)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 8º",
-          "diploma": {
-            "especie": "Lei Complementar",
             "numero": "214",
             "ano": 2025
           },
           "trecho": "…SN e do CGSIM serão designados pelo Ministro de Estado da Fazenda, mediante indicação dos órgãos e entidades vinculados.",
           "literal": "(Redação dada pela Lei Complementar nº 214, de 2025)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 8º",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "188",
-            "ano": 2021
-          },
-          "trecho": "…eendedorismo e Artesanato da Secretaria Especial de Produtividade e Competitividade ou do órgão que vier a substituí-la.",
-          "literal": "(Incluído pela Lei Complementar nº 188, de 2021)"
         },
         {
           "tipo": "redacao",
@@ -1022,24 +956,6 @@
       "eventos": [
         {
           "tipo": "veto",
-          "unidade": "parágrafo único",
-          "diploma": null,
-          "trecho": "Parágrafo único.",
-          "literal": "(VETADO)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "155",
-            "ano": 2016
-          },
-          "trecho": "Parágrafo único. (VETADO).",
-          "literal": "(Incluído pela Lei Complementar nº 155, de 2016)"
-        },
-        {
-          "tipo": "veto",
           "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º",
@@ -1730,17 +1646,6 @@
           "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei Complementar",
-            "numero": "147",
-            "ano": 2014
-          },
-          "trecho": "…abelas dos Anexos I a VI desta Lei Complementar devem ser proporcionalizados ao número de meses de atividade no período.",
-          "literal": "(Redação dada pela Lei Complementar nº 147, de 2014)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Lei Complementar",
             "numero": "155",
             "ano": 2016
           },
@@ -2214,17 +2119,6 @@
           "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei Complementar",
-            "numero": "147",
-            "ano": 2014
-          },
-          "trecho": "…alguma dessas atividades, houver previsão expressa de tributação na forma dos Anexos IV, V ou VI desta Lei Complementar.",
-          "literal": "(Redação dada pela Lei Complementar nº 147, de 2014)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 5º",
-          "diploma": {
-            "especie": "Lei Complementar",
             "numero": "155",
             "ano": 2016
           },
@@ -2248,17 +2142,6 @@
           },
           "trecho": "§ 5o-G. (Revogado).",
           "literal": "(Redação dada pela Lei Complementar nº 147, de 2014)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 5º",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "147",
-            "ano": 2014
-          },
-          "trecho": "…lementar, as seguintes atividades de prestação de serviços serão tributadas na forma do Anexo VI desta Lei Complementar:",
-          "literal": "(Incluído pela Lei Complementar nº 147, de 2014)"
         },
         {
           "tipo": "redacao",
@@ -2381,17 +2264,6 @@
           "literal": "(Incluído pela Lei Complementar nº 147, de 2014)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "inciso VI",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "147",
-            "ano": 2014
-          },
-          "trecho": "…pografia, geologia, geodésia, testes, suporte e análises técnicas e tecnológicas, pesquisa, design, desenho e agronomia;",
-          "literal": "(Incluído pela Lei Complementar nº 147, de 2014)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "inciso VI",
           "diploma": {
@@ -2455,17 +2327,6 @@
             "ano": 2014
           },
           "trecho": "XI - agenciamento, exceto de mão de obra;",
-          "literal": "(Incluído pela Lei Complementar nº 147, de 2014)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XII",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "147",
-            "ano": 2014
-          },
-          "trecho": "…issão regulamentada ou não, desde que não sujeitas à tributação na forma dos Anexos III, IV ou V desta Lei Complementar.",
           "literal": "(Incluído pela Lei Complementar nº 147, de 2014)"
         },
         {
@@ -2579,33 +2440,11 @@
           "unidade": "§ 13º",
           "diploma": {
             "especie": "Lei Complementar",
-            "numero": "147",
-            "ano": 2014
-          },
-          "trecho": "…m comerciais, industriais ou de prestação de serviços na forma dos Anexos I, II, III, IV, V e VI desta Lei Complementar.",
-          "literal": "(Redação dada pela Lei Complementar nº 147, de 2014)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 13º",
-          "diploma": {
-            "especie": "Lei Complementar",
             "numero": "155",
             "ano": 2016
           },
           "trecho": "…s em comerciais, industriais ou de prestação de serviços, na forma dos Anexos I, II, III, IV e V desta Lei Complementar.",
           "literal": "(Redação dada pela Lei Complementar nº 155, de 2016)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 14º",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "147",
-            "ano": 2014
-          },
-          "trecho": "… Cofins, à Contribuição para o PIS/Pasep, ao IPI, ao ICMS e ao ISS, constantes dos Anexos I a VI desta Lei Complementar.",
-          "literal": "(Redação dada pela Lei Complementar nº 147, de 2014)"
         },
         {
           "tipo": "redacao",
@@ -2659,33 +2498,11 @@
           "unidade": "§ 16º",
           "diploma": {
             "especie": "Lei Complementar",
-            "numero": "147",
-            "ano": 2014
-          },
-          "trecho": "…vistas nos Anexos I a VI desta Lei Complementar, proporcionalmente conforme o caso, acrescidas de 20% (vinte por cento).",
-          "literal": "(Redação dada pela Lei Complementar nº 147, de 2014)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 16º",
-          "diploma": {
-            "especie": "Lei Complementar",
             "numero": "155",
             "ano": 2016
           },
           "trecho": "…tará sujeita às alíquotas máximas previstas nos Anexos I a V desta Lei Complementar, proporcionalmente, conforme o caso.",
           "literal": "(Redação dada pela Lei Complementar nº 155, de 2016)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 17º",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "147",
-            "ano": 2014
-          },
-          "trecho": "…vistas nos Anexos I a VI desta Lei Complementar, proporcionalmente conforme o caso, acrescidas de 20% (vinte por cento).",
-          "literal": "(Redação dada pela Lei Complementar nº 147, de 2014)"
         },
         {
           "tipo": "redacao",
@@ -2743,17 +2560,6 @@
           "unidade": "§ 24º",
           "diploma": {
             "especie": "Lei Complementar",
-            "numero": "147",
-            "ano": 2014
-          },
-          "trecho": "…ró-labore, acrescidos do montante efetivamente recolhido a título de contribuição patronal previdenciária e para o FGTS.",
-          "literal": "(Redação dada pela Lei Complementar nº 147, de 2014)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 24º",
-          "diploma": {
-            "especie": "Lei Complementar",
             "numero": "155",
             "ano": 2016
           },
@@ -2783,17 +2589,6 @@
     "18-A": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "155",
-            "ano": 2016
-          },
-          "trecho": "…eais), que seja optante pelo Simples Nacional e que não esteja impedido de optar pela sistemática prevista neste artigo.",
-          "literal": "(Redação dada pela Lei Complementar nº 155, de 2016)"
-        },
         {
           "tipo": "redacao",
           "unidade": "§ 1º",
@@ -3159,17 +2954,6 @@
           "literal": "(Incluído pela Lei Complementar nº 147, de 2014)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "147",
-            "ano": 2014
-          },
-          "trecho": "…EI relativamente ao exercício de profissão ou participação em licitações, em função da sua respectiva natureza jurídica.",
-          "literal": "(Incluído pela Lei Complementar nº 147, de 2014)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "§ 4º",
           "diploma": {
@@ -3375,17 +3159,6 @@
           "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei Complementar",
-            "numero": "147",
-            "ano": 2014
-          },
-          "trecho": "…valente aos percentuais relativos a esses impostos constantes dos Anexos I a VI desta Lei Complementar, conforme o caso.",
-          "literal": "(Redação dada pela Lei Complementar nº 147, de 2014)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Lei Complementar",
             "numero": "155",
             "ano": 2016
           },
@@ -3409,17 +3182,6 @@
           "unidade": "inciso I",
           "diploma": {
             "especie": "Lei Complementar",
-            "numero": "147",
-            "ano": 2014
-          },
-          "trecho": "…ixa de receita bruta a que a microempresa ou a empresa de pequeno porte estiver sujeita no mês anterior ao da prestação;",
-          "literal": "(Redação dada pela Lei Complementar nº 147, de 2014)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Lei Complementar",
             "numero": "155",
             "ano": 2016
           },
@@ -3431,33 +3193,11 @@
           "unidade": "inciso II",
           "diploma": {
             "especie": "Lei Complementar",
-            "numero": "147",
-            "ano": 2014
-          },
-          "trecho": "…respondente ao percentual de ISS referente à menor alíquota prevista nos Anexos III, IV, V ou VI desta Lei Complementar;",
-          "literal": "(Redação dada pela Lei Complementar nº 147, de 2014)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Lei Complementar",
             "numero": "155",
             "ano": 2016
           },
           "trecho": "…microempresa ou da empresa de pequeno porte, deverá ser aplicada pelo tomador a alíquota efetiva de 2% (dois por cento);",
           "literal": "(Redação dada pela Lei Complementar nº 155, de 2016)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso V",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "147",
-            "ano": 2014
-          },
-          "trecho": "…respondente ao percentual de ISS referente à maior alíquota prevista nos Anexos III, IV, V ou VI desta Lei Complementar;",
-          "literal": "(Redação dada pela Lei Complementar nº 147, de 2014)"
         },
         {
           "tipo": "redacao",
@@ -3750,17 +3490,6 @@
             "ano": 2014
           },
           "trecho": "I - autorização específica do CGSN, que estabelecerá as condições para a obrigatoriedade;",
-          "literal": "(Incluído pela Lei Complementar nº 147, de 2014)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "147",
-            "ano": 2014
-          },
-          "trecho": "…- disponibilização por parte da administração tributária estipulante de aplicativo gratuito para uso da empresa optante.",
           "literal": "(Incluído pela Lei Complementar nº 147, de 2014)"
         },
         {
@@ -4254,17 +3983,6 @@
           "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei Complementar",
-            "numero": "214",
-            "ano": 2025
-          },
-          "trecho": "…ue não tenham sido recolhidos resultantes das informações prestadas nas declarações a que se referem os arts. 25 e 25-B.",
-          "literal": "(Redação dada pela Lei Complementar nº 214, de 2025)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Lei Complementar",
             "numero": "227",
             "ano": 2026
           },
@@ -4371,17 +4089,6 @@
           },
           "trecho": "…ação exigida para efeito de comprovação de regularidade fiscal e trabalhista, mesmo que esta apresente alguma restrição.",
           "literal": "(Redação dada pela Lei Complementar nº 155, de 2016)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "147",
-            "ano": 2014
-          },
-          "trecho": "…mento ou parcelamento do débito e emissão de eventuais certidões negativas ou positivas com efeito de certidão negativa.",
-          "literal": "(Redação dada pela Lei Complementar nº 147, de 2014)"
         },
         {
           "tipo": "redacao",
@@ -4563,17 +4270,6 @@
             "ano": 2014
           },
           "trecho": "…emplará procedimentos simplificados de habilitação, licenciamento, despacho aduaneiro e câmbio, na forma do regulamento.",
-          "literal": "(Incluído pela Lei Complementar nº 147, de 2014)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "147",
-            "ano": 2014
-          },
-          "trecho": "…ção de seguro, câmbio, transporte e armazenagem de mercadorias, objeto da prestação do serviço, na forma do regulamento.",
           "literal": "(Incluído pela Lei Complementar nº 147, de 2014)"
         },
         {
@@ -4908,17 +4604,6 @@
           "literal": "(Incluído pela Lei Complementar nº 155, de 2016)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "155",
-            "ano": 2016
-          },
-          "trecho": "§ 2o O aporte de capital poderá ser realizado por pessoa física ou por pessoa jurídica, denominadas investidor-anjo.",
-          "literal": "(Incluído pela Lei Complementar nº 155, de 2016)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "§ 2º",
           "diploma": {
@@ -4952,17 +4637,6 @@
           "literal": "(Incluído pela Lei Complementar nº 155, de 2016)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "155",
-            "ano": 2016
-          },
-          "trecho": "I - não será considerado sócio nem terá qualquer direito a gerência ou voto na administração da empresa;",
-          "literal": "(Incluído pela Lei Complementar nº 155, de 2016)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "inciso I",
           "diploma": {
@@ -4982,17 +4656,6 @@
             "ano": 2016
           },
           "trecho": "…ive em recuperação judicial, não se aplicando a ele o art. 50 da Lei no 10.406, de 10 de janeiro de 2002 - Código Civil;",
-          "literal": "(Incluído pela Lei Complementar nº 155, de 2016)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "155",
-            "ano": 2016
-          },
-          "trecho": "III - será remunerado por seus aportes, nos termos do contrato de participação, pelo prazo máximo de cinco anos.",
           "literal": "(Incluído pela Lei Complementar nº 155, de 2016)"
         },
         {
@@ -5040,17 +4703,6 @@
           "literal": "(Incluído pela Lei Complementar nº 155, de 2016)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "§ 6º",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "155",
-            "ano": 2016
-          },
-          "trecho": "…o superior a 50% (cinquenta por cento) dos lucros da sociedade enquadrada como microempresa ou empresa de pequeno porte.",
-          "literal": "(Incluído pela Lei Complementar nº 155, de 2016)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "§ 6º",
           "diploma": {
@@ -5082,17 +4734,6 @@
           },
           "trecho": "II - prever a possibilidade de conversão do aporte de capital em participação societária.",
           "literal": "(Incluído pela Lei Complementar nº 182, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 7º",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "155",
-            "ano": 2016
-          },
-          "trecho": "…Lei no 10.406, de 10 de janeiro de 2002 - Código Civil, não podendo ultrapassar o valor investido devidamente corrigido.",
-          "literal": "(Incluído pela Lei Complementar nº 155, de 2016)"
         },
         {
           "tipo": "redacao",
@@ -5451,17 +5092,6 @@
           "literal": "(Redação dada pela Lei Complementar nº 182, de 2021)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "167",
-            "ano": 2019
-          },
-          "trecho": "…za incremental, ou, quando relacionados à criação de algo totalmente novo, caracterizam startups de natureza disruptiva.",
-          "literal": "(Incluído pela Lei Complementar nº 167, de 2019)"
-        },
-        {
           "tipo": "revogacao",
           "unidade": "§ 1º",
           "diploma": null,
@@ -5478,17 +5108,6 @@
           },
           "trecho": "§ 1º (Revogado).",
           "literal": "(Redação dada pela Lei Complementar nº 182, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "167",
-            "ano": 2019
-          },
-          "trecho": "…e mediante comercialização experimental provisória, antes de procederem à comercialização plena e à obtenção de receita.",
-          "literal": "(Incluído pela Lei Complementar nº 167, de 2019)"
         },
         {
           "tipo": "revogacao",
@@ -5539,17 +5158,6 @@
             "ano": 2019
           },
           "trecho": "I - qualificação civil, domicílio e CPF;",
-          "literal": "(Incluído pela Lei Complementar nº 167, de 2019)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "167",
-            "ano": 2019
-          },
-          "trecho": "…mpresarial inovadora e definição da razão social, que deverá conter obrigatoriamente a expressão “Inova Simples (I.S.)”;",
           "literal": "(Incluído pela Lei Complementar nº 167, de 2019)"
         },
         {
@@ -5619,17 +5227,6 @@
           "literal": "(Incluído pela Lei Complementar nº 167, de 2019)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "§ 7º",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "167",
-            "ano": 2019
-          },
-          "trecho": "…zo de o titular providenciar os registros de propriedade intelectual e industrial diretamente, de moto próprio, no INPI.",
-          "literal": "(Incluído pela Lei Complementar nº 167, de 2019)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "§ 7º",
           "diploma": {
@@ -5641,17 +5238,6 @@
           "literal": "(Redação dada pela Lei Complementar nº 182, de 2021)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "§ 8º",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "167",
-            "ano": 2019
-          },
-          "trecho": "…ene desde a recepção dos dados ao processamento sumário das solicitações de marcas e patentes de empresas Inova Simples.",
-          "literal": "(Incluído pela Lei Complementar nº 167, de 2019)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "§ 8º",
           "diploma": {
@@ -5661,17 +5247,6 @@
           },
           "trecho": "…e artigo, que tenham sido depositados por empresas participantes do Inova Simples será realizado em caráter prioritário.",
           "literal": "(Redação dada pela Lei Complementar nº 182, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 9º",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "167",
-            "ano": 2019
-          },
-          "trecho": "…a e destinar-se-ão exclusivamente ao custeio do desenvolvimento de projetos de startup de que trata o § 1º deste artigo.",
-          "literal": "(Incluído pela Lei Complementar nº 167, de 2019)"
         },
         {
           "tipo": "revogacao",
@@ -6071,21 +5646,14 @@
       "situacao": "revogado",
       "eventos": [
         {
-          "tipo": "vigencia",
+          "tipo": "redacao",
           "unidade": "caput",
-          "diploma": null,
+          "diploma": {
+            "especie": "Lei Complementar",
+            "numero": "155",
+            "ano": 2016
+          },
           "trecho": "….2009, republicado em 31.1.2012 e republicado em 6.3.2012. ANEXO I DA LEI COMPLEMENTAR No 123, DE 14 DE DEZEMBRO DE 2006",
-          "literal": "(vigência: 01/01/2012)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "caput",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "155",
-            "ano": 2016
-          },
-          "trecho": "… a 3.600.000,00 11,61% 0,54% 0,54% 1,60% 0,38% 4,60% 3,95% ANEXO I DA LEI COMPLEMENTAR No 123, DE 14 DE DEZEMBRO DE 2006",
           "literal": "(Redação dada pela Lei Complementar nº 155, de 2016)"
         },
         {
@@ -6096,21 +5664,14 @@
           "literal": "(Vigência: 01/01/2018)"
         },
         {
-          "tipo": "vigencia",
+          "tipo": "redacao",
           "unidade": "caput",
-          "diploma": null,
+          "diploma": {
+            "especie": "Lei Complementar",
+            "numero": "155",
+            "ano": 2016
+          },
           "trecho": "…2,00% 33,50% 6a Faixa 13,50% 10,00% 28,27% 6,13% 42,10% - ANEXO II DA LEI COMPLEMENTAR No 123, DE 14 DE DEZEMBRO DE 2006",
-          "literal": "(vigência: 01/01/2012)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "caput",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "155",
-            "ano": 2016
-          },
-          "trecho": "…0.000,00 12,11% 0,54% 0,54% 1,60% 0,38% 4,60% 3,95% 0,50% ANEXO II DA LEI COMPLEMENTAR No 123, DE 14 DE DEZEMBRO DE 2006",
           "literal": "(Redação dada pela Lei Complementar nº 155, de 2016)"
         },
         {
@@ -6121,21 +5682,14 @@
           "literal": "(Vigência: 01/01/2018)"
         },
         {
-          "tipo": "vigencia",
+          "tipo": "redacao",
           "unidade": "caput",
-          "diploma": null,
+          "diploma": {
+            "especie": "Lei Complementar",
+            "numero": "155",
+            "ano": 2016
+          },
           "trecho": "…32,00% 6a Faixa 8,50% 7,50% 20,96% 4,54% 23,50% 35,00% - ANEXO III DA LEI COMPLEMENTAR No 123, DE 14 DE DEZEMBRO DE 2006",
-          "literal": "(vigência: 01/01/2012)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "caput",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "155",
-            "ano": 2016
-          },
-          "trecho": "… 3.600.000,00 17,42% 0,81% 0,79% 2,42% 0,57% 7,83% 5,00% ANEXO III DA LEI COMPLEMENTAR No 123, DE 14 DE DEZEMBRO DE 2006",
           "literal": "(Redação dada pela Lei Complementar nº 155, de 2016)"
         },
         {
@@ -6146,13 +5700,6 @@
           "literal": "(Vigência: 01/01/2018)"
         },
         {
-          "tipo": "vigencia",
-          "unidade": "caput",
-          "diploma": null,
-          "trecho": "…ota efetiva – 5%) x 19,28% (Alíquota efetiva – 5%) x 4,18% (Alíquota efetiva – 5%) x 65,26% Percentual de ISS fixo em 5%",
-          "literal": "(vigência: 01/01/2012)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
@@ -6160,7 +5707,7 @@
             "numero": "155",
             "ano": 2016
           },
-          "trecho": "…00,01 a 3.600.000,00 16,85% 6,12% 2,53% 2,63% 0,57% 5,00% ANEXO IV DA LEI COMPLEMENTAR No 123, DE 14 DE DEZEMBRO DE 2006",
+          "trecho": "…quota efetiva – 5%) x 65,26% Percentual de ISS fixo em 5% ANEXO IV DA LEI COMPLEMENTAR No 123, DE 14 DE DEZEMBRO DE 2006",
           "literal": "(Redação dada pela Lei Complementar nº 155, de 2016)"
         },
         {
@@ -6171,21 +5718,14 @@
           "literal": "(Vigência: 01/01/2018)"
         },
         {
-          "tipo": "vigencia",
+          "tipo": "redacao",
           "unidade": "caput",
-          "diploma": null,
+          "diploma": {
+            "especie": "Lei Complementar",
+            "numero": "155",
+            "ano": 2016
+          },
           "trecho": "…íquota efetiva – 5%) x 6,54% Percentual de ISS fixo em 5% ANEXO V DA LEI COMPLEMENTAR No 123, DE 14 DE DEZEMBRO DE 2006.",
-          "literal": "(vigência: 01/01/2012)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "caput",
-          "diploma": {
-            "especie": "Lei Complementar",
-            "numero": "155",
-            "ano": 2016
-          },
-          "trecho": "…100 - I) X P 0,75 X (100 - I - J - K) 100 - I - J - K - L ANEXO V DA LEI COMPLEMENTAR No 123, DE 14 DE DEZEMBRO DE 2006.",
           "literal": "(Redação dada pela Lei Complementar nº 155, de 2016)"
         },
         {
@@ -6223,13 +5763,6 @@
           "diploma": null,
           "trecho": "…I (Incluído pela Lei Complementar nº 147, de 2014) (Produção de efeito) (Revogado pela Lei Complementar nº 155, de 2016)",
           "literal": "(Vigência)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "caput",
-          "diploma": null,
-          "trecho": "… pela Lei Complementar nº 147, de 2014) (Produção de efeito) (Revogado pela Lei Complementar nº 155, de 2016) (Vigência)",
-          "literal": "(Vigência: 1o de janeiro de 2015)"
         }
       ]
     }

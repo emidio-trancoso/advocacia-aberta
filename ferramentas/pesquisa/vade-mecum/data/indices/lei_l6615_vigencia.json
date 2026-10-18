@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_l6615.json",
       "colecao": "artigos",
-      "sha256": "ebfa5e6154849b9eb5869728c65c258a41137444892e3e621acefb0bbfc3ee0d",
+      "sha256": "7ff4983d605a3af7062e36304cd88a5dbe7c255fd98a8aa3e31ec320a165cc3d",
       "total_registros": 37,
-      "gerado_em": "2026-08-21T22:36:34+00:00"
+      "gerado_em": "2026-10-18T12:50:02+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 12,
-      "anotacoes": 69,
-      "anotacoes_sem_diploma_nomeado": 1
+      "anotacoes": 67,
+      "anotacoes_sem_diploma_nomeado": 0
     }
   },
   "vigencia": {
@@ -753,47 +753,29 @@
       ]
     },
     "27": {
-      "situacao": null,
+      "situacao": "revogado",
       "eventos": [
         {
-          "tipo": "revogacao",
-          "unidade": "parágrafo único",
+          "tipo": "redacao",
+          "unidade": "caput",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "905",
             "ano": 2019
           },
-          "trecho": "…iscalização, emprego de artifício ou simulação com objetivo de fraudar a lei, a multa será aplicada em seu valor máximo.",
-          "literal": "(Revogado pela Medida Provisória nº 905, de 2019)"
+          "trecho": "…I do caput do art. 634-A da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943",
+          "literal": "(Redação pela Medida Provisória nº 905, de 2019)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "parágrafo único",
+          "unidade": "caput",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "955",
             "ano": 2020
           },
-          "trecho": "… objetivo de fraudar a lei, a multa será aplicada em seu valor máximo. (Revogado pela Medida Provisória nº 905, de 2019)",
+          "trecho": "… do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 (Redação pela Medida Provisória nº 905, de 2019)",
           "literal": "(Revogada pela Medida Provisória nº 955, de 2020)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "905",
-            "ano": 2019
-          },
-          "trecho": "…iscalização, emprego de artifício ou simulação com objetivo de fraudar a lei, a multa será aplicada em seu valor máximo.",
-          "literal": "(Revogado pela Medida Provisória nº 905, de 2019)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "parágrafo único",
-          "diploma": null,
-          "trecho": "… objetivo de fraudar a lei, a multa será aplicada em seu valor máximo. (Revogado pela Medida Provisória nº 905, de 2019)",
-          "literal": "(Vigência encerrada)"
         }
       ]
     },

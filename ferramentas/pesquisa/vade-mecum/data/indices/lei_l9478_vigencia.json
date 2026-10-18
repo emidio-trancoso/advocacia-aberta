@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_l9478.json",
       "colecao": "artigos",
-      "sha256": "cbff271dd5e8b11324082860a780fd5e5b1b5ce116a51e78c79eeed9d2732cf5",
+      "sha256": "ee0b46cec3c0404f17dc7a385a22da95675d542f55312720ed90314d0cb852e3",
       "total_registros": 110,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:49:59+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 56,
-      "anotacoes": 421,
-      "anotacoes_sem_diploma_nomeado": 34
+      "anotacoes": 348,
+      "anotacoes_sem_diploma_nomeado": 35
     }
   },
   "vigencia": {
@@ -49,17 +49,6 @@
           },
           "trecho": "…ncrementar, em bases econômicas, sociais e ambientais, a participação dos biocombustíveis na matriz energética nacional.",
           "literal": "(Redação dada pela Lei nº 11.097, de 2005)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XIII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "532",
-            "ano": 2011
-          },
-          "trecho": "XIII - garantir o fornecimento de biocombustíveis em todo o território nacional..",
-          "literal": "(Incluído pela Medida Provisória nº 532, de 2011)"
         },
         {
           "tipo": "inclusao",
@@ -115,39 +104,6 @@
           },
           "trecho": "XVII - fomentar a pesquisa e o desenvolvimento relacionados à energia renovável;",
           "literal": "(Incluído pela Lei nº 12.490, de 2011)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XVIII",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.490",
-            "ano": 2011
-          },
-          "trecho": "…sadores de efeito estufa e de poluentes nos setores de energia e de transportes, inclusive com o uso de biocombustíveis.",
-          "literal": "(Incluído pela Lei nº 12.490, de 2011)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XVIII",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "14.948",
-            "ano": 2024
-          },
-          "trecho": "…e de transportes, inclusive com o uso de biocombustíveis e de hidrogênio de baixa emissão de carbono e seus derivados; e",
-          "literal": "(Redação dada pela Lei nº 14.948, de 2024)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XVIII",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "14.993",
-            "ano": 2024
-          },
-          "trecho": "…ia e de transportes, inclusive com o uso de biocombustíveis e da captura e da estocagem geológica de dióxido de carbono;",
-          "literal": "(Redação dada pela Lei nº 14.993, de 2024)"
         },
         {
           "tipo": "redacao",
@@ -225,44 +181,11 @@
           "unidade": "inciso IV",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.097",
-            "ano": 2005
-          },
-          "trecho": "…uclear, dos biocombustíveis, da energia solar, da energia eólica e da energia proveniente de outras fontes alternativas;",
-          "literal": "(Redação dada pela Lei nº 11.097, de 2005)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso IV",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "14.993",
-            "ano": 2024
-          },
-          "trecho": "…is, da energia solar, da energia eólica, do biogás, do biometano e da energia proveniente de outras fontes alternativas;",
-          "literal": "(Redação dada pela Lei nº 14.993, de 2024)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso IV",
-          "diploma": {
-            "especie": "Lei",
             "numero": "15.269",
             "ano": 2025
           },
           "trecho": "…a energia eólica, do biogás, do biometano, da energia hidráulica e da energia proveniente de outras fontes alternativas;",
           "literal": "(Redação dada pela Lei nº 15.269, de 2025)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso V",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "532",
-            "ano": 2011
-          },
-          "trecho": "…ano Anual de Estoques Estratégicos de Combustíveis, de que trata o art. 4o da Lei no 8.176, de 8 de fevereiro de 1991; .",
-          "literal": "(Redação dada pela Medida Provisória nº 532, de 2011)"
         },
         {
           "tipo": "redacao",
@@ -309,28 +232,6 @@
           "literal": "(Incluído pela Lei nº 12.351, de 2010)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "inciso IX",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.351",
-            "ano": 2010
-          },
-          "trecho": "…co da indústria de petróleo, de gás natural e de outros hidrocarbonetos fluidos, bem como da sua cadeia de suprimento; .",
-          "literal": "(Incluído pela Lei nº 12.351, de 2010)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso IX",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "532",
-            "ano": 2011
-          },
-          "trecho": "…petróleo, de gás natural, de outros hidrocarbonetos fluidos e de biocombustíveis, bem como da sua cadeia de suprimento;.",
-          "literal": "(Redação dada pela Medida Provisória nº 532, de 2011)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "inciso IX",
           "diploma": {
@@ -356,67 +257,12 @@
           "tipo": "inclusao",
           "unidade": "inciso XI",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "647",
-            "ano": 2014
-          },
-          "trecho": "… estabelecer, em caráter autorizativo, quantidade superior ao percentual de adição obrigatória fixado em lei específica.",
-          "literal": "(Incluído pela Medida Provisória nº 647, de 2014)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XI",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.033",
-            "ano": 2014
-          },
-          "trecho": "…estabelecer, em caráter autorizativo, quantidade superior ao percentual de adição obrigatória fixado em lei específica..",
-          "literal": "(Incluído pela Lei nº 13.033, de 2014)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XI",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "688",
-            "ano": 2015
-          },
-          "trecho": "…abelecer, em caráter autorizativo, quantidade superior ao percentual de adição obrigatória fixado em lei específica; e .",
-          "literal": "(Redação dada pela Medida Provisória nº 688, de 2015)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XI",
-          "diploma": {
             "especie": "Lei",
             "numero": "13.033",
             "ano": 2014
           },
           "trecho": "… estabelecer, em caráter autorizativo, quantidade superior ao percentual de adição obrigatória fixado em lei específica.",
           "literal": "(Incluído pela Lei nº 13.033, de 2014)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "688",
-            "ano": 2015
-          },
-          "trecho": "…ão, transmissão e distribuição de energia elétrica, de que trata o art. 8º da Lei nº 12.783, de 11 de janeiro de 2013. .",
-          "literal": "(Incluído pela Medida Provisória nº 688, de 2015)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XII",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.203",
-            "ano": 2015
-          },
-          "trecho": "…ão, transmissão e distribuição de energia elétrica, de que trata o art. 8º da Lei nº 12.783, de 11 de janeiro de 2013; e",
-          "literal": "(Redação dada pela Lei nº 13.203, de 2015)"
         },
         {
           "tipo": "redacao",
@@ -430,17 +276,6 @@
           "literal": "(Redação dada pela Lei nº 14.993, de 2024)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "inciso XIII",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.203",
-            "ano": 2015
-          },
-          "trecho": "XIII - definir a estratégia e a política de desenvolvimento tecnológico do setor de energia elétrica.",
-          "literal": "(Incluído pela Lei nº 13.203, de 2015)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "inciso XIII",
           "diploma": {
@@ -450,17 +285,6 @@
           },
           "trecho": "XIII - definir a estratégia e a política de desenvolvimento tecnológico do setor de energia elétrica;",
           "literal": "(Redação dada pela Lei nº 14.993, de 2024)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XIV",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "14.134",
-            "ano": 2021
-          },
-          "trecho": "…etrizes para o suprimento de gás natural nas situações caracterizadas como de contingência, nos termos previstos em lei.",
-          "literal": "(Incluído pela Lei nº 14.134, de 2021)"
         },
         {
           "tipo": "redacao",
@@ -474,17 +298,6 @@
           "literal": "(Redação dada pela Lei nº 14.993, de 2024)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "inciso XV",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "14.948",
-            "ano": 2024
-          },
-          "trecho": "XV - estabelecer diretrizes para o desenvolvimento da indústria do hidrogênio de baixa emissão de carbono.",
-          "literal": "(Incluído pela Lei nº 14.948, de 2024)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "inciso XV",
           "diploma": {
@@ -494,17 +307,6 @@
           },
           "trecho": "…- estabelecer diretrizes para a regulação e a fiscalização da captura e da estocagem geológica de dióxido de carbono; e;",
           "literal": "(Redação dada pela Lei nº 14.993, de 2024)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XVI",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.255",
-            "ano": 2024
-          },
-          "trecho": "…erem beneficiados por quotas diferenciadas de depreciação acelerada de que trata a Lei nº 14.871, de 28 de maio de 2024.",
-          "literal": "(Incluído pela Medida Provisória nº 1.255, de 2024)"
         },
         {
           "tipo": "inclusao",
@@ -530,17 +332,6 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "inciso XVIII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.304",
-            "ano": 2025
-          },
-          "trecho": "… aos sistemas integrados de escoamento, de processamento e de transporte para a comercialização do gás natural da União.",
-          "literal": "(Incluído pela Medida Provisória nº 1.304, de 2025)"
-        },
-        {
-          "tipo": "inclusao",
           "unidade": "inciso XIX",
           "diploma": {
             "especie": "Lei",
@@ -560,17 +351,6 @@
           },
           "trecho": "…a o § 3º do art. 1º da Lei nº 13.033, de 24 de setembro de 2014, para as demais fontes de energia de que trata esta Lei.",
           "literal": "(Incluído pela Lei nº 14.993, de 2024)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.255",
-            "ano": 2024
-          },
-          "trecho": "…de da indústria, de forma a garantir que os custos decorrentes da política sejam proporcionais aos benefícios auferidos.",
-          "literal": "(Incluído pela Medida Provisória nº 1.255, de 2024)"
         },
         {
           "tipo": "inclusao",
@@ -750,28 +530,6 @@
           "tipo": "redacao",
           "unidade": "inciso VII",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "532",
-            "ano": 2011
-          },
-          "trecho": "…entação de petróleo, seus derivados, biocombustíveis ou gás natural em meio ou percurso considerado de interesse geral;.",
-          "literal": "(Redação dada pela Medida Provisória nº 532, de 2011)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso VIII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "532",
-            "ano": 2011
-          },
-          "trecho": "…ural em meio ou percurso considerado de interesse específico e exclusivo do proprietário ou explorador das facilidades;.",
-          "literal": "(Redação dada pela Medida Provisória nº 532, de 2011)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso VII",
-          "diploma": {
             "especie": "Lei",
             "numero": "12.490",
             "ano": 2011
@@ -800,39 +558,6 @@
           },
           "trecho": "…m exclusividade pelos Estados, diretamente ou mediante concessão, nos termos do § 2º do art. 25 da Constituição Federal;",
           "literal": "(Revogado pela Lei nº 14.134, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XXIV",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.097",
-            "ano": 2005
-          },
-          "trecho": "…ento, para outro tipo de geração de energia, que possa substituir parcial ou totalmente combustíveis de origem fóssil; .",
-          "literal": "(Incluído pela Lei nº 11.097, de 2005)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XXIV",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "532",
-            "ano": 2011
-          },
-          "trecho": "…te combustíveis de origem fóssil, tal como biodiesel, etanol e outras substâncias estabelecidas em regulamento da ANP; .",
-          "literal": "(Redação dada pela Medida Provisória nº 532, de 2011)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XXIV",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.490",
-            "ano": 2011
-          },
-          "trecho": "…nterna ou para outro tipo de geração de energia, podendo substituir parcial ou totalmente combustíveis de origem fóssil;",
-          "literal": "(Redação dada pela Lei nº 12.490, de 2011)"
         },
         {
           "tipo": "redacao",
@@ -882,28 +607,6 @@
           "tipo": "inclusao",
           "unidade": "inciso XXVIII",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "532",
-            "ano": 2011
-          },
-          "trecho": "…rmazenagem, comercialização, distribuição, avaliação de conformidade e certificação de qualidade de biocombustíveis; e .",
-          "literal": "(incluído pela Medida Provisória nº 532, de 2011)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XXIX",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "532",
-            "ano": 2011
-          },
-          "trecho": "…junto de operações industriais para a transformação de biomassa renovável, de origem vegetal ou animal, em combustível..",
-          "literal": "(incluído pela Medida Provisória nº 532, de 2011)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XXVIII",
-          "diploma": {
             "especie": "Lei",
             "numero": "12490",
             "ano": 2011
@@ -923,17 +626,6 @@
           "literal": "(Incluído pela Lei nº 12.490, de 2011)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "inciso XXX",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.490",
-            "ano": 2011
-          },
-          "trecho": "… em indústria petroquímica, podendo ser obtido por rotas tecnológicas distintas, conforme especificado em regulamento; e",
-          "literal": "(Incluído pela Lei nº 12.490, de 2011)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "inciso XXX",
           "diploma": {
@@ -943,17 +635,6 @@
           },
           "trecho": "…ou em indústria petroquímica, podendo ser obtido por rotas tecnológicas distintas, conforme especificado em regulamento;",
           "literal": "(Redação dada pela Lei nº 14.993, de 2024)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XXXI",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.490",
-            "ano": 2011
-          },
-          "trecho": "…onforme regulamento, em outro tipo de aplicação que possa substituir parcial ou totalmente combustível de origem fóssil.",
-          "literal": "(Incluído pela Lei nº 12.490, de 2011)"
         },
         {
           "tipo": "redacao",
@@ -1080,17 +761,6 @@
           "unidade": "inciso I",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.097",
-            "ano": 2005
-          },
-          "trecho": "…do o território nacional, e na proteção dos interesses dos consumidores quanto a preço, qualidade e oferta dos produtos;",
-          "literal": "(Redação dada pela Lei nº 11.097, de 2005)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Lei",
             "numero": "14.993",
             "ano": 2024
           },
@@ -1124,44 +794,11 @@
           "unidade": "inciso VII",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.097",
-            "ano": 2005
-          },
-          "trecho": "… biocombustíveis, bem como aplicar as sanções administrativas e pecuniárias previstas em lei, regulamento ou contrato; .",
-          "literal": "(Redação dada pela Lei nº 11.097, de 2005)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso VII",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.909",
-            "ano": 2009
-          },
-          "trecho": "…os biocombustíveis, bem como aplicar as sanções administrativas e pecuniárias previstas em lei, regulamento ou contrato;",
-          "literal": "(Redação dada pela Lei nº 11.909, de 2009)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso VII",
-          "diploma": {
-            "especie": "Lei",
             "numero": "14.993",
             "ano": 2024
           },
           "trecho": "…gica de dióxido de carbono e aplicar as sanções administrativas e pecuniárias previstas em lei, regulamento ou contrato;",
           "literal": "(Redação dada pela Lei nº 14.993, de 2024)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso VIII",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "14.134",
-            "ano": 2021
-          },
-          "trecho": "…finarias, de unidades de processamento de gás natural, de instalações de estocagem subterrânea, de dutos e de terminais;",
-          "literal": "(Redação dada pela Lei nº 14.134, de 2021)"
         },
         {
           "tipo": "redacao",
@@ -1179,17 +816,6 @@
           "unidade": "inciso IX",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.097",
-            "ano": 2005
-          },
-          "trecho": "…conservação e uso racional do petróleo, gás natural, seus derivados e biocombustíveis e de preservação do meio ambiente;",
-          "literal": "(Redação dada pela Lei nº 11.097, de 2005)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso IX",
-          "diploma": {
-            "especie": "Lei",
             "numero": "14.993",
             "ano": 2024
           },
@@ -1201,44 +827,11 @@
           "unidade": "inciso XI",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.097",
-            "ano": 2005
-          },
-          "trecho": "…ações e dados técnicos relativos às atividades reguladas da indústria do petróleo, do gás natural e dos biocombustíveis;",
-          "literal": "(Redação dada pela Lei nº 11.097, de 2005)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XI",
-          "diploma": {
-            "especie": "Lei",
             "numero": "14.993",
             "ano": 2024
           },
           "trecho": "…s natural, dos combustíveis sintéticos, dos biocombustíveis e da captura e da estocagem geológica de dióxido de carbono;",
           "literal": "(Redação dada pela Lei nº 14.993, de 2024)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XVI",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.097",
-            "ano": 2005
-          },
-          "trecho": "…fiscalizando-as diretamente ou mediante convênios com outros órgãos da União, Estados, Distrito Federal ou Municípios; .",
-          "literal": "(Incluído pela Lei nº 11.097, de 2005)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XVI",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "532",
-            "ano": 2011
-          },
-          "trecho": "…, fiscalizando-as diretamente ou mediante convênios com outros órgãos da União, Estados, Distrito Federal ou Municípios;",
-          "literal": "(Redação dada pela Medida Provisória nº 532, de 2011)"
         },
         {
           "tipo": "redacao",
@@ -1263,39 +856,6 @@
           "literal": "(Incluído pela Lei nº 11.097, de 2005)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "inciso XVIII",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.097",
-            "ano": 2005
-          },
-          "trecho": "XVIII - especificar a qualidade dos derivados de petróleo, gás natural e seus derivados e dos biocombustíveis.",
-          "literal": "(Incluído pela Lei nº 11.097, de 2005)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XVIII",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "14.948",
-            "ano": 2024
-          },
-          "trecho": "… - especificar a qualidade dos derivados de petróleo, gás natural e seus derivados, dos biocombustíveis e do hidrogênio;",
-          "literal": "(Redação dada pela Lei nº 14.948, de 2024)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XVIII",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "14.993",
-            "ano": 2024
-          },
-          "trecho": "…qualidade dos derivados de petróleo, do gás natural e seus derivados, dos combustíveis sintéticos e dos biocombustíveis;",
-          "literal": "(Redação dada pela Lei nº 14.993, de 2024)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "inciso XVIII",
           "diploma": {
@@ -1305,17 +865,6 @@
           },
           "trecho": "…erivados de petróleo, do gás natural e seus derivados, dos combustíveis sintéticos, dos biocombustíveis e do hidrogênio;",
           "literal": "(Redação dada pela Lei nº 15.103, de 2025)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XIX",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.909",
-            "ano": 2009
-          },
-          "trecho": "XIX - regular e fiscalizar o acesso à capacidade dos gasodutos;",
-          "literal": "(Incluído pela Lei nº 11.909, de 2009)"
         },
         {
           "tipo": "redacao",
@@ -1449,17 +998,6 @@
           "literal": "(Redação dada pela Lei nº 14.134, de 2021)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "inciso XXIII",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.909",
-            "ano": 2009
-          },
-          "trecho": "…ade de estocagem de gás natural, inclusive no que se refere ao direito de acesso de terceiros às instalações concedidas;",
-          "literal": "(Incluído pela Lei nº 11.909, de 2009)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "inciso XXIII",
           "diploma": {
@@ -1549,17 +1087,6 @@
           },
           "trecho": "XXV – (revogado);",
           "literal": "(Redação dada pela Lei nº 14.134, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XXVI",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.909",
-            "ano": 2009
-          },
-          "trecho": "XXVI - autorizar a prática da atividade de comercialização de gás natural, dentro da esfera de competência da União;",
-          "literal": "(Incluído pela Lei nº 11.909, de 2009)"
         },
         {
           "tipo": "redacao",
@@ -1661,17 +1188,6 @@
           "literal": "(Incluído pela Lei nº 14.134, de 2021)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "inciso XXXV",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "14.134",
-            "ano": 2021
-          },
-          "trecho": "…terminais de Gás Natural Liquefeito (GNL) e às infraestruturas de escoamento, tratamento e processamento de gás natural.",
-          "literal": "(Incluído pela Lei nº 14.134, de 2021)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "inciso XXXV",
           "diploma": {
@@ -1714,17 +1230,6 @@
           },
           "trecho": "…ssão de carbono que utilizem em seus processos produtivos insumos regulados por essas agências, na forma de regulamento.",
           "literal": "(Incluído pela Lei nº 14.948, de 2024)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12490",
-            "ano": 2011
-          },
-          "trecho": "…desde que em bases econômicas sustentáveis, a ANP poderá exigir dos agentes regulados, conforme disposto em regulamento:",
-          "literal": "(Incluído pela Lei nº 12490, de 2011)"
         },
         {
           "tipo": "redacao",
@@ -1989,17 +1494,6 @@
             "ano": 2009
           },
           "trecho": "…pacidades de movimentação existentes que não estejam sendo utilizadas e às modalidades possíveis para sua contratação; e",
-          "literal": "(Incluído pela Lei nº 11.909, de 2009)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso V",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.909",
-            "ano": 2009
-          },
-          "trecho": "…elecer padrões e parâmetros para a operação e manutenção eficientes do sistema de transporte e estocagem de gás natural.",
           "literal": "(Incluído pela Lei nº 11.909, de 2009)"
         },
         {
@@ -2273,12 +1767,12 @@
           "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "532",
+            "especie": "Lei",
+            "numero": "12490",
             "ano": 2011
           },
-          "trecho": "…s, permitida a sua gravação por meios eletrônicos e assegurado aos interessados o direito de delas obter transcrições. .",
-          "literal": "(Redação dada pela Medida Provisória nº 532, de 2011)"
+          "trecho": "…cas, permitida a sua gravação por meios eletrônicos e assegurado aos interessados o direito de delas obter transcrições.",
+          "literal": "(Redação dada pela Lei nº 12490, de 2011)"
         }
       ]
     },
@@ -2289,12 +1783,12 @@
           "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "532",
+            "especie": "Lei",
+            "numero": "12490",
             "ano": 2011
           },
-          "trecho": "…de petróleo, de gás natural ou de biocombustíveis serão precedidas de audiência pública convocada e dirigida pela ANP. .",
-          "literal": "(Redação dada pela Medida Provisória nº 532, de 2011)"
+          "trecho": "…s de petróleo, de gás natural ou de biocombustíveis serão precedidas de audiência pública convocada e dirigida pela ANP.",
+          "literal": "(Redação dada pela Lei nº 12490, de 2011)"
         }
       ]
     },
@@ -2922,28 +2416,6 @@
           "unidade": "alínea d",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.097",
-            "ano": 2005
-          },
-          "trecho": "…a científica e ao desenvolvimento tecnológico aplicados à indústria do petróleo, do gás natural e dos biocombustíveis; .",
-          "literal": "(Redação dada pela Lei nº 11.097, de 2005)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "alínea d",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.921",
-            "ano": 2009
-          },
-          "trecho": "…atureza que tenham por finalidade a prevenção e a recuperação de danos causados ao meio ambiente por essas indústrias; .",
-          "literal": "(Redação dada pela Lei nº 11.921, de 2009)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "alínea d",
-          "diploma": {
-            "especie": "Lei",
             "numero": "12.734",
             "ano": 2012
           },
@@ -3120,44 +2592,11 @@
           "unidade": "alínea f",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.097",
-            "ano": 2005
-          },
-          "trecho": "…sa científica e ao desenvolvimento tecnológico aplicados à indústria do petróleo, do gás natural e dos biocombustíveis..",
-          "literal": "(Redação dada pela Lei nº 11.097, de 2005)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "alínea f",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.921",
-            "ano": 2009
-          },
-          "trecho": "…natureza que tenham por finalidade a prevenção e a recuperação de danos causados ao meio ambiente por essas indústrias..",
-          "literal": "(Redação dada pela Lei nº 11.921, de 2009)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "alínea f",
-          "diploma": {
-            "especie": "Lei",
             "numero": "12.734",
             "ano": 2012
           },
           "trecho": "…rcelas destinadas aos órgãos específicos da Administração Direta da União, nos termos do regulamento do Poder Executivo.",
           "literal": "(Redação dada pela Lei nº 12.734, de 2012)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.540",
-            "ano": 2007
-          },
-          "trecho": "…o das regiões Norte e Nordeste, incluindo as respectivas áreas de abrangência das Agências de Desenvolvimento Regional..",
-          "literal": "(Redação dada pela Lei nº 11.540, de 2007)"
         },
         {
           "tipo": "revogacao",
@@ -3194,17 +2633,6 @@
           },
           "trecho": "§ 2o (Revogado).",
           "literal": "(Redação dada pela Lei nº 12.734, de 2012)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.351",
-            "ano": 2010
-          },
-          "trecho": "…de mitigação e adaptação às mudanças climáticas, vedada sua destinação aos órgãos específicos de que trata este artigo..",
-          "literal": "(Incluído pela Lei nº 12.351, de 2010)"
         },
         {
           "tipo": "revogacao",
@@ -3501,132 +2929,11 @@
           "unidade": "inciso I",
           "diploma": {
             "especie": "Lei",
-            "numero": "10.848",
-            "ano": 2004
-          },
-          "trecho": "…ento de estudos, pesquisas, projetos, atividades e serviços de levantamentos geológicos básicos no território nacional;.",
-          "literal": "(Redação dada pela lei nº 10.848, de 2004)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Lei",
             "numero": "12.734",
             "ano": 2012
           },
           "trecho": "…rcelas destinadas aos órgãos específicos da Administração Direta da União, nos termos do regulamento do Poder Executivo;",
           "literal": "(Redação dada pela Lei nº 12.734, de 2012)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.114",
-            "ano": 2009
-          },
-          "trecho": "…ividades de gestão ambiental relacionadas à cadeia produtiva do petróleo, incluindo as consequências de sua utilização:.",
-          "literal": "(Redação dada pela lei nº 12.114, de 2009)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea a",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.114",
-            "ano": 2009
-          },
-          "trecho": "…iamento e instrumentos voluntários), planejamento e ordenamento do uso sustentável dos espaços e dos recursos naturais;.",
-          "literal": "(Incluído pela lei nº 12.114, de 2009)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea b",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.114",
-            "ano": 2009
-          },
-          "trecho": "…tudos e estratégias de conservação ambiental, uso sustentável dos recursos naturais e recuperação de danos ambientais; .",
-          "literal": "(Incluído pela lei nº 12.114, de 2009)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea c",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.114",
-            "ano": 2009
-          },
-          "trecho": "…rgética e ações consorciadas para o tratamento de resíduos e rejeitos oleosos e outras substâncias nocivas e perigosas;.",
-          "literal": "(Incluído pela lei nº 12.114, de 2009)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea d",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.114",
-            "ano": 2009
-          },
-          "trecho": "…emático, agregando o estabelecimento de padrões de qualidade ambiental específicos, na escala das bacias sedimentares; .",
-          "literal": "(Incluído pela lei nº 12.114, de 2009)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea e",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.114",
-            "ano": 2009
-          },
-          "trecho": "e) sistemas de contingência que incluam prevenção, controle e combate e resposta à poluição por óleo;.",
-          "literal": "(Incluído pela lei nº 12.114, de 2009)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea f",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.114",
-            "ano": 2009
-          },
-          "trecho": "f) mapeamento de áreas sensíveis a derramamentos de óleo nas águas jurisdicionais brasileiras;.",
-          "literal": "(Incluído pela lei nº 12.114, de 2009)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea g",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.114",
-            "ano": 2009
-          },
-          "trecho": "…ra reduzir a vulnerabilidade dos sistemas naturais e humanos frente aos efeitos atuais e esperados da mudança do clima;.",
-          "literal": "(Incluído pela lei nº 12.114, de 2009)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea h",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.114",
-            "ano": 2009
-          },
-          "trecho": "h) estudos e projetos de prevenção, controle e remediação relacionados ao desmatamento e à poluição atmosférica; .",
-          "literal": "(Incluído pela lei nº 12.114, de 2009)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea i",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.114",
-            "ano": 2009
-          },
-          "trecho": "i) iniciativas de fortalecimento do Sistema Nacional do Meio Ambiente - SISNAMA; .",
-          "literal": "(Incluído pela lei nº 12.114, de 2009)"
         },
         {
           "tipo": "redacao",
@@ -3748,17 +3055,6 @@
           },
           "trecho": "…s Recursos Hídricos e da Amazônia Legal, com o apoio técnico da ANP, no cumprimento do disposto no inciso IX do art. 8°.",
           "literal": "(Revogado pela Lei nº 12.114, de 2009)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.351",
-            "ano": 2010
-          },
-          "trecho": "… de mitigação e adaptação às mudanças climáticas, vedada sua destinação aos órgãos específicos de que trata este artigo.",
-          "literal": "(Incluído pela Lei nº 12.351, de 2010)"
         },
         {
           "tipo": "revogacao",
@@ -3994,17 +3290,6 @@
           },
           "trecho": "…itular das instalações ou da capacidade de movimentação de gás natural, nos termos da lei e da regulamentação aplicável.",
           "literal": "(Redação dada pela Lei nº 14.134, de 2021)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.909",
-            "ano": 2009
-          },
-          "trecho": "…idos, caso não haja acordo entre as partes, cabendo-lhe também verificar se o valor acordado é compatível com o mercado.",
-          "literal": "(Redação dada pela Lei nº 11.909, de 2009)"
         },
         {
           "tipo": "redacao",
@@ -4283,110 +3568,29 @@
           },
           "trecho": "…mpresa comercializadora de etanol ou o importador de etanol hidratado combustível fica autorizado a comercializá-lo com:",
           "literal": "(Redação dada pela Medida Provisória nº 1.069, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.063",
-            "ano": 2021
-          },
-          "trecho": "I - agente distribuidor;",
-          "literal": "(Incluído pela Medida Provisória nº 1.063, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.063",
-            "ano": 2021
-          },
-          "trecho": "II - revendedor varejista de combustíveis;",
-          "literal": "(Incluído pela Medida Provisória nº 1.063, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.063",
-            "ano": 2021
-          },
-          "trecho": "III - transportador-revendedor-retalhista; e",
-          "literal": "(Incluído pela Medida Provisória nº 1.063, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso IV",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.063",
-            "ano": 2021
-          },
-          "trecho": "IV - mercado externo.",
-          "literal": "(Incluído pela Medida Provisória nº 1.063, de 2021)"
         }
       ]
     },
     "68-C": {
-      "situacao": null,
+      "situacao": "vetado",
       "eventos": [
         {
-          "tipo": "inclusao",
+          "tipo": "veto",
           "unidade": "caput",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.063",
-            "ano": 2021
-          },
-          "trecho": "…revistas na regulação, o agente revendedor fica autorizado a adquirir e a comercializar etanol hidratado combustível do:",
-          "literal": "(Incluído pela Medida Provisória nº 1.063, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.063",
-            "ano": 2021
-          },
-          "trecho": "I - agente produtor ou importador;",
-          "literal": "(Incluído pela Medida Provisória nº 1.063, de 2021)"
+          "diploma": null,
+          "trecho": "Art. 68-C.",
+          "literal": "(VETADO)"
         },
         {
           "tipo": "redacao",
-          "unidade": "inciso I",
+          "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.069",
-            "ano": 2021
+            "especie": "Lei",
+            "numero": "14.292",
+            "ano": 2022
           },
-          "trecho": "…agente produtor, cooperativa de produção ou comercialização de etanol, empresa comercializadora de etanol ou importador;",
-          "literal": "(Redação dada pela Medida Provisória nº 1.069, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.063",
-            "ano": 2021
-          },
-          "trecho": "II - agente distribuidor; e",
-          "literal": "(Incluído pela Medida Provisória nº 1.063, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.063",
-            "ano": 2021
-          },
-          "trecho": "III - transportador-revendedor-retalhista.",
-          "literal": "(Incluído pela Medida Provisória nº 1.063, de 2021)"
+          "trecho": "Art. 68-C. (VETADO).",
+          "literal": "(Redação dada pela Lei nº 14.292, de 2022)"
         }
       ]
     },
@@ -4397,23 +3601,12 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.063",
-            "ano": 2021
+            "especie": "Lei",
+            "numero": "14.292",
+            "ano": 2022
           },
-          "trecho": "…r combustíveis de outros fornecedores, na forma da regulação aplicável, e desde que devidamente informado ao consumidor.",
-          "literal": "(Incluído pela Medida Provisória nº 1.063, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.063",
-            "ano": 2021
-          },
-          "trecho": "…ontrário, inclusive dos contratos vigentes na data de publicação da Medida Provisória nº 1.063, de 11 de agosto de 2021.",
-          "literal": "(Incluído pela Medida Provisória nº 1.063, de 2021)"
+          "trecho": "…ndedor varejista autorizado, na forma da regulação da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP).",
+          "literal": "(Incluído pela Lei nº 14.292, de 2022)"
         }
       ]
     },
@@ -4424,67 +3617,67 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.100",
+            "especie": "Lei",
+            "numero": "14.367",
             "ano": 2022
           },
           "trecho": "…utor, a empresa comercializadora e o importador de etanol hidratado combustível ficam autorizados a comercializá-lo com:",
-          "literal": "(Incluído pela Medida Provisória nº 1.100, de 2022)"
+          "literal": "(Incluído pela Lei nº 14.367, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso I",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.100",
+            "especie": "Lei",
+            "numero": "14.367",
             "ano": 2022
           },
           "trecho": "I - agente distribuidor;",
-          "literal": "(Incluído pela Medida Provisória nº 1.100, de 2022)"
+          "literal": "(Incluído pela Lei nº 14.367, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso II",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.100",
+            "especie": "Lei",
+            "numero": "14.367",
             "ano": 2022
           },
           "trecho": "II - revendedor varejista de combustíveis;",
-          "literal": "(Incluído pela Medida Provisória nº 1.100, de 2022)"
+          "literal": "(Incluído pela Lei nº 14.367, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso III",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.100",
+            "especie": "Lei",
+            "numero": "14.367",
             "ano": 2022
           },
           "trecho": "III - transportador-revendedor-retalhista; e",
-          "literal": "(Incluído pela Medida Provisória nº 1.100, de 2022)"
+          "literal": "(Incluído pela Lei nº 14.367, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso IV",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.100",
+            "especie": "Lei",
+            "numero": "14.367",
             "ano": 2022
           },
           "trecho": "IV - mercado externo.",
-          "literal": "(Incluído pela Medida Provisória nº 1.100, de 2022)"
+          "literal": "(Incluído pela Lei nº 14.367, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "parágrafo único",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.100",
+            "especie": "Lei",
+            "numero": "14.367",
             "ano": 2022
           },
           "trecho": "… fins do disposto neste artigo, a cooperativa de produção de etanol hidratado combustível equipara-se a agente produtor.",
-          "literal": "(Incluído pela Medida Provisória nº 1.100, de 2022)"
+          "literal": "(Incluído pela Lei nº 14.367, de 2022)"
         }
       ]
     },
@@ -4495,56 +3688,56 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.100",
+            "especie": "Lei",
+            "numero": "14.367",
             "ano": 2022
           },
           "trecho": "…s previstas na regulação, o agente revendedor fica autorizado a adquirir e a comercializar etanol hidratado combustível:",
-          "literal": "(Incluído pela Medida Provisória nº 1.100, de 2022)"
+          "literal": "(Incluído pela Lei nº 14.367, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso I",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.100",
+            "especie": "Lei",
+            "numero": "14.367",
             "ano": 2022
           },
           "trecho": "I - do agente produtor, da empresa comercializadora ou do importador;",
-          "literal": "(Incluído pela Medida Provisória nº 1.100, de 2022)"
+          "literal": "(Incluído pela Lei nº 14.367, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso II",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.100",
+            "especie": "Lei",
+            "numero": "14.367",
             "ano": 2022
           },
           "trecho": "II - do agente distribuidor; e",
-          "literal": "(Incluído pela Medida Provisória nº 1.100, de 2022)"
+          "literal": "(Incluído pela Lei nº 14.367, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso III",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.100",
+            "especie": "Lei",
+            "numero": "14.367",
             "ano": 2022
           },
           "trecho": "III - do transportador-revendedor-retalhista.",
-          "literal": "(Incluído pela Medida Provisória nº 1.100, de 2022)"
+          "literal": "(Incluído pela Lei nº 14.367, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "parágrafo único",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.100",
+            "especie": "Lei",
+            "numero": "14.367",
             "ano": 2022
           },
           "trecho": "… fins do disposto neste artigo, a cooperativa de produção de etanol hidratado combustível equipara-se a agente produtor.",
-          "literal": "(Incluído pela Medida Provisória nº 1.100, de 2022)"
+          "literal": "(Incluído pela Lei nº 14.367, de 2022)"
         }
       ]
     },
@@ -4661,56 +3854,56 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.112",
+            "especie": "Lei",
+            "numero": "14.440",
             "ano": 2022
           },
-          "trecho": "…ar recursos para promover a atividade de desmonte ou de destruição como sucata dos veículos pesados em fim de vida útil.",
-          "literal": "(Incluído pela Medida Provisória nº 1.112, de 2022)"
+          "trecho": "…a renovação da frota circulante no âmbito do Programa de Aumento da Produtividade da Frota Rodoviária no País (Renovar).",
+          "literal": "(Incluído pela Lei nº 14.440, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.112",
+            "especie": "Lei",
+            "numero": "14.440",
             "ano": 2022
           },
-          "trecho": "…derados no cálculo de adimplemento de obrigações contratuais de pesquisa, de desenvolvimento e de inovação referentes a:",
-          "literal": "(Incluído pela Medida Provisória nº 1.112, de 2022)"
+          "trecho": "… considerados no cálculo de adimplemento de obrigações contratuais de pesquisa, desenvolvimento e inovação referentes a:",
+          "literal": "(Incluído pela Lei nº 14.440, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso I",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.112",
+            "especie": "Lei",
+            "numero": "14.440",
             "ano": 2022
           },
           "trecho": "I - obrigações relativas aos anos de 2022 a 2027; e",
-          "literal": "(Incluído pela Medida Provisória nº 1.112, de 2022)"
+          "literal": "(Incluído pela Lei nº 14.440, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso II",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.112",
+            "especie": "Lei",
+            "numero": "14.440",
             "ano": 2022
           },
           "trecho": "II - obrigações ainda não adimplidas relativas a períodos anteriores ao ano de 2022.",
-          "literal": "(Incluído pela Medida Provisória nº 1.112, de 2022)"
+          "literal": "(Incluído pela Lei nº 14.440, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 2º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.112",
+            "especie": "Lei",
+            "numero": "14.440",
             "ano": 2022
           },
-          "trecho": "…o federal disciplinará a utilização dos recursos destinados a pesquisa, desenvolvimento e inovação de que trata o caput.",
-          "literal": "(Incluído pela Medida Provisória nº 1.112, de 2022)"
+          "trecho": "…ual máximo do valor total das obrigações contratuais de pesquisa, desenvolvimento e inovação a ser destinado ao Renovar.",
+          "literal": "(Incluído pela Lei nº 14.440, de 2022)"
         }
       ]
     },
@@ -4763,7 +3956,7 @@
             "numero": "592",
             "ano": 2012
           },
-          "trecho": "… Iris Rezende Raimundo Brito Luiz Carlos Bresser Pereira Este texto não substitui o publicado no DOU de 7.8.1997 ANEXO I",
+          "trecho": "… CARDOSO Iris Rezende Raimundo Brito Luiz Carlos Bresser Pereira Este texto não substitui o publicado no DOU de 7.8.1997",
           "literal": "(Incluído pela Medida Provisória nº 592, de 2012)"
         },
         {
@@ -4781,7 +3974,7 @@
             "numero": "592",
             "ano": 2012
           },
-          "trecho": "…da Constituição 21 22 23 24 25,5 26,5 27 27 União 20 20 20 20 20 20 20 20 Total 100 100 100 100 100 100 100 100 ANEXO II",
+          "trecho": "…exto não substitui o publicado no DOU de 7.8.1997 (Incluído pela Medida Provisória nº 592, de 2012) (Vigência encerrada)",
           "literal": "(Incluído pela Medida Provisória nº 592, de 2012)"
         },
         {
@@ -4799,7 +3992,7 @@
             "numero": "592",
             "ano": 2012
           },
-          "trecho": "…a Constituição 21 22 23 24 25,5 26,5 27 27 União 20 20 20 20 20 20 20 20 Total 100 100 100 100 100 100 100 100 ANEXO III",
+          "trecho": "… Provisória nº 592, de 2012) (Vigência encerrada) (Incluído pela Medida Provisória nº 592, de 2012) (Vigência encerrada)",
           "literal": "(Incluído pela Medida Provisória nº 592, de 2012)"
         },
         {

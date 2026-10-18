@@ -109,6 +109,14 @@
         "legislacao"
       ],
       "resumo": "No CPC, a compilação do Planalto aplica o § 2º da Lei 15.484/2026 ao art. 1.041 em vez do art. 1.042 (conferido no texto da lei em 14/09/2026). A base espelha a compilação como está: o art. 1.041, § 2º, e o art. 1.042, § 2º, devolvem texto divergente da lei — confira na Lei 15.484/2026 antes de citar."
+    },
+    {
+      "id": "BASE-051",
+      "afetaCobertura": true,
+      "familias": [
+        "espelhos_stj"
+      ],
+      "resumo": "A conferência completa de 18/10/2026 não alcançou os espelhos de acórdãos do STJ: o portal de dados abertos respondeu lentamente e a coleta, sem retomada, caiu numa falha de rede. O acervo publicado é o recoletado em 14/09/2026 (sinal semanal \"sem mudança\" em 12/10/2026). Para acórdão posterior a setembro de 2026, confira o SCON do STJ."
     }
   ]
 }

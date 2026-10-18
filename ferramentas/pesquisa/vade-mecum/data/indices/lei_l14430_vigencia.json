@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_l14430.json",
       "colecao": "artigos",
-      "sha256": "c76a764b0dc070de6ba866f7d8959de49a9bccd2166cf6f745eceece3a414c09",
+      "sha256": "24a61619afaf6fded34e89daaa1fecb735eeb328243faf4be6454cd8ac70f022",
       "total_registros": 39,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:49:48+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 4,
-      "anotacoes": 19,
-      "anotacoes_sem_diploma_nomeado": 19
+      "anotacoes": 16,
+      "anotacoes_sem_diploma_nomeado": 16
     }
   },
   "vigencia": {
@@ -87,13 +87,6 @@
           "literal": "(Revogado)"
         },
         {
-          "tipo": "veto",
-          "unidade": "§ 3º",
-          "diploma": null,
-          "trecho": "“Art. 124.",
-          "literal": "(VETADO)"
-        },
-        {
           "tipo": "revogacao",
           "unidade": "alínea a",
           "diploma": null,
@@ -113,13 +106,6 @@
           "diploma": null,
           "trecho": "c)",
           "literal": "(revogada)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "parágrafo único",
-          "diploma": null,
-          "trecho": "“Art. 128-A.",
-          "literal": "(VETADO)"
         }
       ]
     },
@@ -173,13 +159,6 @@
     "38": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "veto",
-          "unidade": "alínea g",
-          "diploma": null,
-          "trecho": "g)",
-          "literal": "(VETADO)"
-        },
         {
           "tipo": "vigencia",
           "unidade": "alínea i",

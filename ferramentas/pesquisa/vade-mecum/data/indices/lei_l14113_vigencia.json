@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l14113.json",
       "colecao": "artigos",
-      "sha256": "1e51e1729d8b1d18a9d46cc8d6fb16d84867ec94fbdd39e6fbae4bc50df436b5",
+      "sha256": "5aabf82c00c298ca2597ec0a927eca1fbea05bbb4d3d8a736b529a33d7725bfb",
       "total_registros": 58,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:49:57+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 17,
-      "anotacoes": 47,
+      "anotacoes": 46,
       "anotacoes_sem_diploma_nomeado": 0
     }
   },
@@ -299,17 +299,6 @@
     "21": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 9º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "14.276",
-            "ano": 2021
-          },
-          "trecho": "…r instituição financeira, que deverá receber os recursos em conta específica e observar o disposto no § 6º deste artigo.",
-          "literal": "(Incluído pela Lei nº 14.276, de 2021)"
-        },
         {
           "tipo": "redacao",
           "unidade": "§ 9º",

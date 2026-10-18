@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l9790.json",
       "colecao": "artigos",
-      "sha256": "39272eee55370302098ced1cc9c4666d3ab425483fc2f0662b3658c480b3673d",
+      "sha256": "54f7e4b7a13d1bbd1abb78f5356f1507467f957fa8da519408414305793df4f0",
       "total_registros": 22,
-      "gerado_em": "2026-09-14T13:56:05+00:00"
+      "gerado_em": "2026-10-18T12:49:44+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 7,
-      "anotacoes": 35,
+      "anotacoes": 33,
       "anotacoes_sem_diploma_nomeado": 15
     }
   },
@@ -62,17 +62,6 @@
     "2": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "inclusao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.999",
-            "ano": 2020
-          },
-          "trecho": "…instituições financeiras na forma de recebimento de repasses, venda de operações realizadas ou atuação como mandatárias.",
-          "literal": "(Incluído pela Lei nº 13.999, de 2020)"
-        },
         {
           "tipo": "redacao",
           "unidade": "parágrafo único",
@@ -123,17 +112,6 @@
     "4": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "inclusao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "10.539",
-            "ano": 2002
-          },
-          "trecho": "…resse Público, vedada a percepção de remuneração ou subsídio, a qualquer título. (Vide Medida Provisória nº 37, de 2002)",
-          "literal": "(Incluído pela Lei nº 10.539, de 2002)"
-        },
         {
           "tipo": "redacao",
           "unidade": "parágrafo único",

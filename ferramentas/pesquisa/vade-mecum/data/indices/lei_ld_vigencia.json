@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_ld.json",
       "colecao": "artigos",
-      "sha256": "c525a37a8d6ca08ee9ccbdc72dc46601836450c3d9a1d1f2ced69800ad06b78a",
+      "sha256": "19b84e50444629c51285794c07e286485f0ee7091b193c19c62602c41708fa38",
       "total_registros": 99,
-      "gerado_em": "2026-09-14T13:55:51+00:00"
+      "gerado_em": "2026-10-18T12:46:45+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 47,
-      "anotacoes": 257,
+      "anotacoes": 249,
       "anotacoes_sem_diploma_nomeado": 38
     }
   },
@@ -1644,15 +1644,15 @@
       "situacao": null,
       "eventos": [
         {
-          "tipo": "inclusao",
+          "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
             "especie": "Lei",
-            "numero": "12.961",
-            "ano": 2014
+            "numero": "13.840",
+            "ano": 2019
           },
-          "trecho": "…stra necessária à realização do laudo definitivo, aplicando-se, no que couber, o procedimento dos §§ 3º a 5º do art. 50.",
-          "literal": "(Incluído pela Lei nº 12.961, de 2014)"
+          "trecho": "…imo de 30 (trinta) dias contados da data da apreensão, guardando-se amostra necessária à realização do laudo definitivo.",
+          "literal": "(Redação dada pela Lei nº 13.840, de 2019)"
         }
       ]
     },
@@ -1786,56 +1786,56 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
-          "trecho": "…mobiliários ou cheques emitidos como ordem de pagamento, será determinada, imediatamente, a conversão em moeda nacional.",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "trecho": "…liários ou cheques emitidos como ordem de pagamento, será determinada, imediatamente, a sua conversão em moeda nacional.",
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
-          "trecho": "…rá encaminhada a instituição financeira ou equiparada para alienação na forma prevista pelo Conselho Monetário Nacional.",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "trecho": "… encaminhada a instituição financeira, ou equiparada, para alienação na forma prevista pelo Conselho Monetário Nacional.",
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 2º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
-          "trecho": "…a que se refere o § 1º, a moeda estrangeira será custodiada pela instituição financeira até decisão sobre o seu destino.",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "trecho": "…re o § 1º deste artigo, a moeda estrangeira será custodiada pela instituição financeira até decisão sobre o seu destino.",
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 3º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
-          "trecho": "…existência de valor de mercado, a moeda poderá ser doada à representação diplomática do seu país de origem ou destruída.",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "trecho": "…ncia de valor de mercado, seus espécimes poderão ser destruídos ou doados à representação diplomática do país de origem.",
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 4º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
-          "trecho": "…essenta dias, à Caixa Econômica Federal para que se proceda à alienação ou custódia, de acordo com o previsto nesta Lei.",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "trecho": "…azo de 360 (trezentos e sessenta) dias, para que se proceda à alienação ou custódia, de acordo com o previsto nesta Lei.",
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         }
       ]
     },
@@ -1914,72 +1914,6 @@
           },
           "trecho": "§ 5º (VETADO).",
           "literal": "(Incluído pela Lei nº 13.840, de 2019)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 6º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.840",
-            "ano": 2019
-          },
-          "trecho": "…depositados em conta judicial remunerada e, após sentença condenatória transitada em julgado, serão revertidos ao Funad.",
-          "literal": "(Incluído pela Lei nº 13.840, de 2019)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "§ 6º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
-            "ano": 2019
-          },
-          "trecho": "…a e, após sentença condenatória transitada em julgado, serão revertidos ao Funad. (Incluído pela Lei nº 13.840, de 2019)",
-          "literal": "(Revogado pela Medida Provisória nº 885, de 2019)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 7º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.840",
-            "ano": 2019
-          },
-          "trecho": "…nteriores, sem prejuízo da cobrança de débitos fiscais, os quais permanecem sob responsabilidade do antigo proprietário.",
-          "literal": "(Incluído pela Lei nº 13.840, de 2019)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "§ 7º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
-            "ano": 2019
-          },
-          "trecho": "…débitos fiscais, os quais permanecem sob responsabilidade do antigo proprietário. (Incluído pela Lei nº 13.840, de 2019)",
-          "literal": "(Revogado pela Medida Provisória nº 885, de 2019)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 8º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.840",
-            "ano": 2019
-          },
-          "trecho": "…depositada em conta judicial remunerada, e, após sentença condenatória com trânsito em julgado, será revertida ao Funad.",
-          "literal": "(Incluído pela Lei nº 13.840, de 2019)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "§ 8º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
-            "ano": 2019
-          },
-          "trecho": "…, e, após sentença condenatória com trânsito em julgado, será revertida ao Funad. (Incluído pela Lei nº 13.840, de 2019)",
-          "literal": "(Revogado pela Medida Provisória nº 885, de 2019)"
         },
         {
           "tipo": "revogacao",
@@ -2127,17 +2061,6 @@
           },
           "trecho": "…ervação, mediante autorização judicial, ouvido o Ministério Público e garantida a prévia avaliação dos respectivos bens.",
           "literal": "(Redação dada pela Lei nº 13.840, de 2019)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
-            "ano": 2019
-          },
-          "trecho": "…ob sua responsabilidade e com o objetivo de sua conservação, mediante autorização judicial, ouvido o Ministério Público.",
-          "literal": "(Revogado pela Medida Provisória nº 885, de 2019)"
         },
         {
           "tipo": "revogacao",
@@ -2323,28 +2246,6 @@
           },
           "trecho": "§ 11. (Revogado).",
           "literal": "(Redação dada pela Lei nº 13.840, de 2019)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 12º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
-            "ano": 2019
-          },
-          "trecho": "… pagamento de multas, encargos e tributos anteriores, sem prejuízo de execução fiscal em relação ao antigo proprietário.",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 13º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
-            "ano": 2019
-          },
-          "trecho": "… trata o § 12, a autoridade de trânsito ou o órgão de registro equivalente poderá emitir novos identificadores dos bens.",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
         }
       ]
     },
@@ -2355,67 +2256,78 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
-          "trecho": "…nvertidos, serão efetuados na Caixa Econômica Federal, por meio de documento de arrecadação destinado a essa finalidade.",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "trecho": "…vertidos deve ser efetuado na Caixa Econômica Federal, por meio de documento de arrecadação destinado a essa finalidade.",
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
-          "trecho": "…dependentemente de qualquer formalidade, no prazo de vinte e quatro horas, contado do momento da realização do depósito.",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "trecho": "…no prazo de 24 (vinte e quatro) horas, contado do momento da realização do depósito, onde ficarão à disposição do Funad.",
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 2º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
-          "trecho": "… dias úteis, acrescido de juros, na forma estabelecida pelo § 4º do art. 39 da Lei nº 9.250, de 26 de dezembro de 1995 .",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "trecho": "…) dias úteis, acrescido de juros, na forma estabelecida pelo § 4º do art. 39 da Lei nº 9.250, de 26 de dezembro de 1995.",
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.973",
+            "ano": 2024
+          },
+          "trecho": "…rma estabelecida pelo § 4º do art. 39 da Lei nº 9.250, de 26 de dezembro de 1995. (Incluído pela Lei nº 13.886, de 2019)",
+          "literal": "(Revogado pela Lei nº 14.973, de 2024)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 3º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
           "trecho": "…pósito será transformado em pagamento definitivo, respeitados os direitos de eventuais lesados e de terceiros de boa-fé.",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 4º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
-          "trecho": "…judicial, serão efetuados como anulação de receita do Fundo Nacional Antidrogas no exercício em que ocorrer a devolução.",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "trecho": "…al, por decisão judicial, devem ser efetuados como anulação de receita do Funad no exercício em que ocorrer a devolução.",
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 5º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
-          "trecho": "§ 5º A Caixa Econômica Federal manterá o controle dos valores depositados ou devolvidos.",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "trecho": "§ 5º A Caixa Econômica Federal deve manter o controle dos valores depositados ou devolvidos.",
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         }
       ]
     },
@@ -2476,17 +2388,6 @@
           },
           "trecho": "…ncontram e a entidade ou o órgão em cujo poder estejam, para os fins de sua destinação nos termos da legislação vigente.",
           "literal": "(Redação dada pela Lei nº 13.840, de 2019)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
-            "ano": 2019
-          },
-          "trecho": "…º A Senad poderá firmar convênios de cooperação, a fim de dar imediato cumprimento ao estabelecido no § 2º deste artigo.",
-          "literal": "(Revogado pela Medida Provisória nº 885, de 2019)"
         },
         {
           "tipo": "revogacao",
@@ -2609,166 +2510,177 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
           "trecho": "…não leiloados em caráter cautelar, cujo perdimento seja decretado em favor da União, por meio das seguintes modalidades:",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso I",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
-          "trecho": "I - alienação, mediante:",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "trecho": "I – alienação, mediante:",
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         },
         {
           "tipo": "inclusao",
           "unidade": "alínea a",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
           "trecho": "a) licitação;",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         },
         {
           "tipo": "inclusao",
           "unidade": "alínea b",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
-          "trecho": "…om encargo a entidades ou órgãos públicos que contribuam para o alcance das finalidades do Fundo Nacional Antidrogas; ou",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "trecho": "…ãos públicos, bem como a comunidades terapêuticas acolhedoras que contribuam para o alcance das finalidades do Funad; ou",
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         },
         {
           "tipo": "inclusao",
           "unidade": "alínea c",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
-          "trecho": "c) venda direta, observado o disposto no inciso II do caput do art. 24 da Lei nº 8.666, de 21 de junho de 1993 ;",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "trecho": "c) venda direta, observado o disposto no inciso II do caput do art. 24 da Lei nº 8.666, de 21 de junho de 1993;",
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso II",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
-          "trecho": "… - incorporação ao patrimônio de órgão da administração pública, observadas as finalidades do Fundo Nacional Antidrogas;",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "trecho": "II – incorporação ao patrimônio de órgão da administração pública, observadas as finalidades do Funad;",
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso III",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
-          "trecho": "III - destruição; ou",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "trecho": "III – destruição; ou",
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso IV",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
-          "trecho": "IV - inutilização.",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "trecho": "IV – inutilização.",
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
-          "trecho": "…lotes, assegurada a venda pelo maior lance, por preço que não seja inferior a cinquenta por cento do valor da avaliação.",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "trecho": "…de lotes, assegurada a venda pelo maior lance, por preço não inferior a 50% (cinquenta por cento) do valor da avaliação.",
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 2º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
           "trecho": "…tios eletrônicos oficiais, principalmente no Município em que será realizado, dispensada a publicação em diário oficial.",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 3º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
           "trecho": "…o pública, a publicidade dada pelo sistema substituirá a publicação em diário oficial e em jornais de grande circulação.",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 4º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
-          "trecho": "… pagamento de multas, encargos e tributos anteriores, sem prejuízo de execução fiscal em relação ao antigo proprietário.",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "trecho": "…livre do pagamento de encargos e tributos anteriores, sem prejuízo de execução fiscal em relação ao antigo proprietário.",
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 5º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
-          "trecho": "…ótese do § 4º, a autoridade de trânsito ou o órgão de registro equivalente poderá emitir novos identificadores dos bens.",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "trecho": "…ienação de veículos, embarcações ou aeronaves deverão ser observadas as disposições dos §§ 13 e 15 do art. 61 desta Lei.",
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 6º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
-          "trecho": "…ião, dos Estados, do Distrito Federal ou dos Municípios, a fim de dar imediato cumprimento ao estabelecido neste artigo.",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "trecho": "…trata este artigo a proibição relativa à cobrança de multas, encargos ou tributos prevista no § 14 do art. 61 desta Lei.",
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 7º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
-          "trecho": "… iniciativa privada para a execução das ações de avaliação, administração e alienação dos bens a que se refere esta Lei.",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "trecho": "…pios, bem como com comunidades terapêuticas acolhedoras, a fim de dar imediato cumprimento ao estabelecido neste artigo.",
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 8º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.886",
+            "ano": 2019
+          },
+          "trecho": "…ativa privada para a execução das ações de avaliação, de administração e de alienação dos bens a que se refere esta Lei.",
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         }
       ]
     },
@@ -2779,12 +2691,12 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "885",
+            "especie": "Lei",
+            "numero": "13.886",
             "ano": 2019
           },
           "trecho": "… de delitos e atos ilícitos e estabelecer os valores abaixo dos quais se deve proceder à sua destruição ou inutilização.",
-          "literal": "(Incluído pela Medida Provisória nº 885, de 2019)"
+          "literal": "(Incluído pela Lei nº 13.886, de 2019)"
         }
       ]
     },

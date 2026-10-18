@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_cdc.json",
       "colecao": "artigos",
-      "sha256": "7e8cb9704ccdcb11932be9183866e184238848cd8614a512eb04e0641aa85304",
+      "sha256": "24f1f34f4ffd7c5ea9a15039056ce817e041e85c8a476d3c1a2ce79b0bb1f62f",
       "total_registros": 131,
-      "gerado_em": "2026-09-14T13:55:49+00:00"
+      "gerado_em": "2026-10-18T12:46:34+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 53,
-      "anotacoes": 137,
+      "anotacoes": 139,
       "anotacoes_sem_diploma_nomeado": 45
     }
   },
@@ -1115,6 +1115,28 @@
           },
           "trecho": "…1985, os valores cabíveis à União, ou para os Fundos estaduais ou municipais de proteção ao consumidor nos demais casos.",
           "literal": "(Redação dada pela Lei nº 8.656, de 21.5.1993)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 1º",
+          "diploma": {
+            "especie": "Medida Provisória",
+            "numero": "1.393",
+            "ano": 2026
+          },
+          "trecho": "… a três milhões de vezes o valor da Unidade Fiscal de Referência (Ufir), ou índice equivalente que venha a substituí-lo.",
+          "literal": "(Redação dada pela Medida Provisória nº 1.393, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Medida Provisória",
+            "numero": "1.393",
+            "ano": 2026
+          },
+          "trecho": "…e mil reais) a R$ 500.000.000,00 (quinhentos milhões de reais), hipótese em que não se aplica o limite previsto no § 1º.",
+          "literal": "(Incluído pela Medida Provisória nº 1.393, de 2026)"
         }
       ]
     },

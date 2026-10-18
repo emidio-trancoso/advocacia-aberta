@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_l13488.json",
       "colecao": "artigos",
-      "sha256": "e3f48fd5a96bee6de8ecb8c93f8116ae0fd5ebc3bae55b6b58cbb67e0047af09",
+      "sha256": "cdff69a21610d5127a4cdadcb04c3840b78804f81a1314dc6edd9bea6e8d7837",
       "total_registros": 11,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:49:45+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 4,
-      "anotacoes": 8,
-      "anotacoes_sem_diploma_nomeado": 7
+      "artigos_com_anotacao": 3,
+      "anotacoes": 7,
+      "anotacoes_sem_diploma_nomeado": 6
     }
   },
   "vigencia": {
@@ -101,18 +101,6 @@
           },
           "trecho": "… 2017 e, nas eleições subsequentes, apurado no último dia da sessão legislativa imediatamente anterior ao ano eleitoral.",
           "literal": "(Revogado pela Lei nº 13.877, de 2019)"
-        }
-      ]
-    },
-    "11": {
-      "situacao": "vetado",
-      "eventos": [
-        {
-          "tipo": "veto",
-          "unidade": "caput",
-          "diploma": null,
-          "trecho": "Art. 11.",
-          "literal": "(VETADO)"
         }
       ]
     }

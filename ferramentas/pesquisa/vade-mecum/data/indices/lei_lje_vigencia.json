@@ -23,14 +23,14 @@
     "fonte": {
       "arquivo": "lei_lje.json",
       "colecao": "artigos",
-      "sha256": "9c836ce1268080ab89dbf644e9210a12e393fdd5bd93e00f9536fc5ea9fa7092",
+      "sha256": "72462dde96b04aa89078a5478be6d7b7f1a7c5fd3530aa56fba7d98ee6dd7084",
       "total_registros": 99,
-      "gerado_em": "2026-09-14T13:56:07+00:00"
+      "gerado_em": "2026-10-18T12:49:56+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 14,
+      "artigos_com_anotacao": 15,
       "anotacoes": 28,
       "anotacoes_sem_diploma_nomeado": 5
     }
@@ -59,17 +59,6 @@
             "ano": 2009
           },
           "trecho": "I - as pessoas físicas capazes, excluídos os cessionários de direito de pessoas jurídicas;",
-          "literal": "(Incluído pela Lei nº 12.126, de 2009)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.126",
-            "ano": 2009
-          },
-          "trecho": "II - as microempresas, assim definidas pela Lei no 9.841, de 5 de outubro de 1999;",
           "literal": "(Incluído pela Lei nº 12.126, de 2009)"
         },
         {
@@ -264,6 +253,22 @@
           },
           "trecho": "…ão das regras de conexão e continência, observar-se-ão os institutos da transação penal e da composição dos danos civis.",
           "literal": "(Incluído pela Lei nº 11.313, de 2006)"
+        }
+      ]
+    },
+    "61": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "11.313",
+            "ano": 2006
+          },
+          "trecho": "…contravenções penais e os crimes a que a lei comine pena máxima não superior a 2 (dois) anos, cumulada ou não com multa.",
+          "literal": "(Redação dada pela Lei nº 11.313, de 2006)"
         }
       ]
     },

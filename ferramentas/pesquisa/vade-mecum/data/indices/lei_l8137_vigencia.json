@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l8137.json",
       "colecao": "artigos",
-      "sha256": "f079c1e725dd8e4c97f692da16cddd3d04ef1f196ae7a04b3500c5bd99d24cf5",
+      "sha256": "4a6568d5109d0a6d9aabad953addce403c7af254d355222c2eec5dcf0b9fc8ee",
       "total_registros": 23,
-      "gerado_em": "2026-08-21T22:36:32+00:00"
+      "gerado_em": "2026-10-18T12:49:53+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 7,
-      "anotacoes": 45,
+      "anotacoes": 44,
       "anotacoes_sem_diploma_nomeado": 12
     }
   },
@@ -39,17 +39,6 @@
     "4": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "redacao",
-          "unidade": "inciso VII",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "8.884",
-            "ano": 1994
-          },
-          "trecho": "VII - elevar sem justa causa o preço de bem ou serviço, valendo-se de posição dominante no mercado.",
-          "literal": "(Redação dada pela Lei nº 8.884, de 11.6.1994)"
-        },
         {
           "tipo": "redacao",
           "unidade": "inciso I",

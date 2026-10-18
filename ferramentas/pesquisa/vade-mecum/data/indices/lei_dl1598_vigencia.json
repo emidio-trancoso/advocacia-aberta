@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_dl1598.json",
       "colecao": "artigos",
-      "sha256": "413538db8ff442c9af997d548b438bad0a5657d8f885a4600cf786445b24e1c7",
+      "sha256": "8e89a4d9c761ff424ed0e183f1e2cefc1962abde8a8a3d94eb5b49e90e1bdf9d",
       "total_registros": 71,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:50:03+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 46,
-      "anotacoes": 465,
-      "anotacoes_sem_diploma_nomeado": 175
+      "artigos_com_anotacao": 47,
+      "anotacoes": 439,
+      "anotacoes_sem_diploma_nomeado": 172
     }
   },
   "vigencia": {
@@ -487,39 +487,6 @@
           "tipo": "redacao",
           "unidade": "§ 2º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "449",
-            "ano": 2008
-          },
-          "trecho": "…tar da escrituração contábil, ou forem diferentes dos lançamentos dessa escrituração, serão efetuados exclusivamente em:",
-          "literal": "(Redação dada pela Medida Provisória nº 449, de 2008)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "449",
-            "ano": 2008
-          },
-          "trecho": "…xclusivamente em: (Redação dada pela Medida Provisória nº 449, de 2008) I - livros ou registros contábeis auxiliares; ou",
-          "literal": "(Incluído pela Medida Provisória nº 449, de 2008)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "449",
-            "ano": 2008
-          },
-          "trecho": "…cluído pela Medida Provisória nº 449, de 2008) II - livros fiscais, inclusive no livro de que trata o inciso I do caput.",
-          "literal": "(Incluído pela Medida Provisória nº 449, de 2008)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 2º",
-          "diploma": {
             "especie": "Lei",
             "numero": "11.941",
             "ano": 2009
@@ -547,28 +514,6 @@
             "ano": 2009
           },
           "trecho": "II – livros fiscais, inclusive no livro de que trata o inciso I do caput deste artigo.",
-          "literal": "(Incluído pela Lei nº 11.941, de 2009)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "449",
-            "ano": 2008
-          },
-          "trecho": "§ 3o O disposto no § 2o será disciplinado pela Secretaria da Receita Federal do Brasil.",
-          "literal": "(Incluído pela Medida Provisória nº 449, de 2008)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.941",
-            "ano": 2009
-          },
-          "trecho": "§ 3o O disposto no § 2o deste artigo será disciplinado pela Secretaria da Receita Federal do Brasil.",
           "literal": "(Incluído pela Lei nº 11.941, de 2009)"
         },
         {
@@ -1199,17 +1144,6 @@
           "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
-            "numero": "7.959",
-            "ano": 1989
-          },
-          "trecho": "…ça em relação à avaliação procedida pelos critérios anteriores, cabendo à autoridade fiscal provar a eventual diferença.",
-          "literal": "(Redação dada pela Lei nº 7.959, de 1989)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Lei",
             "numero": "8.541",
             "ano": 1992
           },
@@ -1508,28 +1442,6 @@
           "tipo": "redacao",
           "unidade": "inciso I",
           "diploma": {
-            "especie": "Decreto-Lei",
-            "numero": "2.303",
-            "ano": 1986
-          },
-          "trecho": "…oma das despesas financeiras (art. 17, parágrafo único) com as variações monetárias passivas (art. 18, parágrafo único).",
-          "literal": "(Redação dada pelo Decreto-lei nº 2.303, de 1986)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "114",
-            "ano": 1989
-          },
-          "trecho": "…ra-se receita ou despesa financeira a parcela que exceder, no mesmo período, à correção monetária dos valores aplicados;",
-          "literal": "(Redação dada pela Medida Provisória nº 114, de 1989)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
             "especie": "Lei",
             "numero": "7.959",
             "ano": 1989
@@ -1547,17 +1459,6 @@
           },
           "trecho": "…as receitas ou outras despesas de que trata o inciso IV do caput do art. 187 da Lei no 6.404, de 15 de dezembro de 1976;",
           "literal": "(Redação dada pela Lei nº 11.941, de 2009)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso IV",
-          "diploma": {
-            "especie": "Decreto-Lei",
-            "numero": "2.065",
-            "ano": 1983
-          },
-          "trecho": "… parte das variações monetárias ativas (art.18) que exceder as variações monetárias passivas (art. 18, parágrafo único).",
-          "literal": "(Incluído pelo Decreto-lei nº 2.065, de 1983)"
         },
         {
           "tipo": "redacao",
@@ -1737,31 +1638,6 @@
           "literal": "(Vigência)"
         },
         {
-          "tipo": "vigencia",
-          "unidade": "§ 3º",
-          "diploma": null,
-          "trecho": "…de capital da pessoa jurídica, que somente poderá ser utilizada para absorção de prejuízos ou aumento do capital social.",
-          "literal": "(Vigência)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Decreto-Lei",
-            "numero": "1.730",
-            "ano": 1979
-          },
-          "trecho": "…da pessoa jurídica, que somente poderá ser utilizada para absorção de prejuízos ou aumento do capital social. (Vigência)",
-          "literal": "(Redação dada pelo Decreto-lei nº 1.730, de 1979)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 3º",
-          "diploma": null,
-          "trecho": "…da para absorção de prejuízos ou aumento do capital social. (Vigência) (Redação dada pelo Decreto-lei nº 1.730, de 1979)",
-          "literal": "(Vigência)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "§ 3º",
           "diploma": {
@@ -1838,13 +1714,6 @@
           "unidade": "alínea b",
           "diploma": null,
           "trecho": "…reserva de que trata o art. 195-A da Lei nº 6.404, de 15 de dezembro de 1976. (Redação dada pela Lei nº 12.973, de 2014)",
-          "literal": "(Vigência)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 5º",
-          "diploma": null,
-          "trecho": "…iver deixado de pagar, sem prejuízo da incidência do imposto sobre o lucro distribuído, como rendimento do beneficiário.",
           "literal": "(Vigência)"
         },
         {
@@ -2379,6 +2248,51 @@
         }
       ]
     },
+    "23": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Decreto-Lei",
+            "numero": "1.648",
+            "ano": 1978
+          },
+          "trecho": "…por aumento ou redução no valor de patrimônio liquido do investimento, não será computada na determinação do lucro real.",
+          "literal": "(Redação dada pelo Decreto-lei nº 1.648, de 1978)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "parágrafo único",
+          "diploma": {
+            "especie": "Decreto-Lei",
+            "numero": "1.648",
+            "ano": 1978
+          },
+          "trecho": "…das de capital derivados de investimentos em sociedades estrangeiras coligadas ou controladas que não funcionem no País.",
+          "literal": "(Incluído pelo Decreto-lei nº 1.648, de 1978)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "parágrafo único",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "12.973",
+            "ano": 2014
+          },
+          "trecho": "…s incisos II e III do caput do art. 20, derivados de investimentos em sociedades estrangeiras que não funcionem no País.",
+          "literal": "(Redação dada pela Lei nº 12.973, de 2014)"
+        },
+        {
+          "tipo": "vigencia",
+          "unidade": "parágrafo único",
+          "diploma": null,
+          "trecho": "…ivados de investimentos em sociedades estrangeiras que não funcionem no País. (Redação dada pela Lei nº 12.973, de 2014)",
+          "literal": "(Vigência)"
+        }
+      ]
+    },
     "24": {
       "situacao": null,
       "eventos": [
@@ -2625,48 +2539,22 @@
       "situacao": null,
       "eventos": [
         {
-          "tipo": "revogacao",
-          "unidade": "§ 1º",
+          "tipo": "redacao",
+          "unidade": "caput",
           "diploma": {
-            "especie": "Decreto-Lei",
-            "numero": "1.730",
-            "ano": 1979
+            "especie": "Lei",
+            "numero": "12.973",
+            "ano": 2014
           },
-          "trecho": "…putada na determinação do lucro real pela diferença entre o montante da amortização e o da participação do contribuinte:",
-          "literal": "(Revogado pelo Decreto-lei nº 1.730, 1979)"
+          "trecho": "…incisos II e III do caput do art. 20 não será computada na determinação do lucro real, ressalvado o disposto no art. 33.",
+          "literal": "(Redação dada pela Lei nº 12.973, de 2014)"
         },
         {
-          "tipo": "revogacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Decreto-Lei",
-            "numero": "1.730",
-            "ano": 1979
-          },
-          "trecho": "…olada na alienação ou baixa dos bens do ativo cujo valor tenha constituído o fundamento econômico do ágio ou deságio; ou",
-          "literal": "(Revogado pelo Decreto-lei nº 1.730, 1979)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Decreto-Lei",
-            "numero": "1.730",
-            "ano": 1979
-          },
-          "trecho": "…i nº 1.730, 1979) b) no valor realizado pela coligada ou controlada na depreciação, amortização ou exaustão desses bens.",
-          "literal": "(Revogado pelo Decreto-lei nº 1.730, 1979)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Decreto-Lei",
-            "numero": "1.730",
-            "ano": 1979
-          },
-          "trecho": "…etras b e c de § 2º de artigo 20 não serão computadas na determinação do lucro real, ressalvado o disposto no artigo 33.",
-          "literal": "(Revogado pelo Decreto-lei nº 1.730, 1979)"
+          "tipo": "vigencia",
+          "unidade": "caput",
+          "diploma": null,
+          "trecho": "…rá computada na determinação do lucro real, ressalvado o disposto no art. 33. (Redação dada pela Lei nº 12.973, de 2014)",
+          "literal": "(Vigência)"
         }
       ]
     },
@@ -2988,13 +2876,6 @@
           "literal": "(Vigência)"
         },
         {
-          "tipo": "vigencia",
-          "unidade": "§ 2º",
-          "diploma": null,
-          "trecho": "…ra efeito de determinar o lucro real, reconhecer o lucro na proporção da parcela do preço recebida em cada período-base.",
-          "literal": "(Vigência)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "§ 2º",
           "diploma": {
@@ -3224,24 +3105,6 @@
           "tipo": "redacao",
           "unidade": "inciso II",
           "diploma": {
-            "especie": "Decreto-Lei",
-            "numero": "1.730",
-            "ano": 1979
-          },
-          "trecho": "…cial do contribuinte, excluídos os computados, nos exercícios financeiros de 1979 e 1980, na determinação do lucro real.",
-          "literal": "(Redação dada pelo Decreto-lei nº 1.730, 1979)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "inciso II",
-          "diploma": null,
-          "trecho": "…nos exercícios financeiros de 1979 e 1980, na determinação do lucro real. (Redação dada pelo Decreto-lei nº 1.730, 1979)",
-          "literal": "(Vigência)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
             "especie": "Lei",
             "numero": "12.973",
             "ano": 2014
@@ -3302,17 +3165,6 @@
           "diploma": null,
           "trecho": "§ 1º - Os valores de que tratam os itens II a IV serão corrigidos monetariamente. (Revogado pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Decreto-Lei",
-            "numero": "1.648",
-            "ano": 1978
-          },
-          "trecho": "…erda de capital por variação na porcentagem de participação do contribuinte no capital social da coligada ou controlada.",
-          "literal": "(Redação dada pelo Decreto-lei nº 1.648, de 1978)"
         },
         {
           "tipo": "redacao",
@@ -4090,17 +3942,6 @@
           "literal": "(Redação dada pelo Decreto-lei nº 2.064, de 1983)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "inciso VII",
-          "diploma": {
-            "especie": "Decreto-Lei",
-            "numero": "2.064",
-            "ano": 1983
-          },
-          "trecho": "…ntajosas para a pessoa ligada do que as que prevaleçam no mercado ou em que a pessoa jurídica contrataria com terceiros;",
-          "literal": "(Incluído pelo Decreto-lei nº 2.064, de 1983)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "inciso VII",
           "diploma": {
@@ -4112,17 +3953,6 @@
           "literal": "(Redação dada pelo Decreto-lei nº 2.065, de 1983)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Decreto-Lei",
-            "numero": "2.064",
-            "ano": 1983
-          },
-          "trecho": "…to, desde que realizadas nas condições que prevaleçam no mercado, ou em que a pessoa jurídica contrataria com terceiros.",
-          "literal": "(Incluído pelo Decreto-lei nº 2.064, de 1983)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "§ 1º",
           "diploma": {
@@ -4132,50 +3962,6 @@
           },
           "trecho": "…to, desde que realizadas nas condições que prevaleçam no mercado, ou em que a pessoa jurídica contrataria com terceiros.",
           "literal": "(Redação dada pelo Decreto-lei nº 2.065, de 1983)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Decreto-Lei",
-            "numero": "2.064",
-            "ano": 1983
-          },
-          "trecho": "…até o 3º grau, inclusive afim, das pessoas de que trata a letra a . § 3º - Considera-se pessoa ligada à pessoa jurídica:",
-          "literal": "(Redação dada pelo Decreto-lei nº 2.064, de 1983)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Decreto-Lei",
-            "numero": "2.064",
-            "ano": 1983
-          },
-          "trecho": "…pessoa jurídica: (Redação dada pelo Decreto-lei nº 2.064, de 1983) a) o sócio desta, mesmo quando outra pessoa jurídica;",
-          "literal": "(Redação dada pelo Decreto-lei nº 2.064, de 1983)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Decreto-Lei",
-            "numero": "2.064",
-            "ano": 1983
-          },
-          "trecho": "…a pessoa jurídica; (Redação dada pelo Decreto-lei nº 2.064, de 1983) b) o administrador ou o titular da pessoa jurídica;",
-          "literal": "(Redação dada pelo Decreto-lei nº 2.064, de 1983)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Decreto-Lei",
-            "numero": "2.064",
-            "ano": 1983
-          },
-          "trecho": "…ro grau, inclusive os afins, do sócio pessoa física de que trata a letra a e das demais pessoas mencionadas na letra b.\"",
-          "literal": "(Incluído pelo Decreto-lei nº 2.064, de 1983)"
         },
         {
           "tipo": "redacao",
@@ -4222,17 +4008,6 @@
           "literal": "(Incluída pelo Decreto-lei nº 2.065, de 1983)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "§ 8º",
-          "diploma": {
-            "especie": "Decreto-Lei",
-            "numero": "2.064",
-            "ano": 1983
-          },
-          "trecho": "…empréstimo, o disposto no item V aplicar-se-á a partir da formação do lucro ou da reserva, até o montante do empréstimo.",
-          "literal": "(Incluído pelo Decreto-lei nº 2.064, de 1983)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "§ 8º",
           "diploma": {
@@ -4272,33 +4047,11 @@
           "unidade": "inciso IV",
           "diploma": {
             "especie": "Decreto-Lei",
-            "numero": "2.064",
-            "ano": 1983
-          },
-          "trecho": "…feito de correção monetária do patrimônio líquido, deduzida dos lucros acumulados ou reservas de lucros, exceto a legal.",
-          "literal": "(Redação dada pelo Decreto-lei nº 2.064, de 1983)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso IV",
-          "diploma": {
-            "especie": "Decreto-Lei",
             "numero": "2.065",
             "ano": 1983
           },
           "trecho": "…feito de correção monetária do patrimônio líquido, deduzida dos lucros acumulados ou reservas de lucros, exceto a legal.",
           "literal": "(Redação dada pelo Decreto-lei nº 2.065, de 1983)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso VI",
-          "diploma": {
-            "especie": "Decreto-Lei",
-            "numero": "2.064",
-            "ano": 1983
-          },
-          "trecho": "…mportâncias pagas ou creditadas à pessoa ligada, que caracterizarem as condições de favorecimento, não serão dedutíveis.",
-          "literal": "(Redação dada pelo Decreto-lei nº 2.064, de 1983)"
         },
         {
           "tipo": "redacao",
@@ -4316,33 +4069,11 @@
           "unidade": "§ 1º",
           "diploma": {
             "especie": "Decreto-Lei",
-            "numero": "2.064",
-            "ano": 1983
-          },
-          "trecho": "…cios econômicos da distribuição, ou cujo cônjuge ou parente até o 3º grau, inclusive os afins, auferiu esses benefícios.",
-          "literal": "(Redação dada pelo Decreto-lei nº 2.064, de 1983)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Decreto-Lei",
             "numero": "2.065",
             "ano": 1983
           },
           "trecho": "…cios econômicos da distribuição, ou cujo cônjuge ou parente até o 3º grau, inclusive os afins, auferiu esses benefícios.",
           "literal": "(Redação dada pelo Decreto-lei nº 2.065, de 1983)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Decreto-Lei",
-            "numero": "2.064",
-            "ano": 1983
-          },
-          "trecho": "… do fato gerador do imposto da pessoa jurídica ou da pessoa física beneficiária dos lucros distribuídos disfarçadamente.",
-          "literal": "(Redação dada pelo Decreto-lei nº 2.064, de 1983)"
         },
         {
           "tipo": "redacao",

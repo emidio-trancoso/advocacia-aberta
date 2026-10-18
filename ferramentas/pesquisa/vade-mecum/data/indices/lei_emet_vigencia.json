@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_emet.json",
       "colecao": "artigos",
-      "sha256": "7fe588e03a1583c7c0a21369b590b4a8c5b2dcbd684784acc0c69970b4f28a1f",
+      "sha256": "4a5fb07959b489b33ce34afd52fb1a8f0cb1fa380409079b4d1600d40f2f8055",
       "total_registros": 27,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:50:07+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 16,
-      "anotacoes": 51,
+      "anotacoes": 49,
       "anotacoes_sem_diploma_nomeado": 9
     }
   },
@@ -82,17 +82,6 @@
             "ano": 2018
           },
           "trecho": "…para o desenvolvimento territorial estratégico e os projetos estruturantes da região metropolitana e aglomeração urbana;",
-          "literal": "(Redação dada pela Lei nº 13.683, de 2018)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso VII",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.683",
-            "ano": 2018
-          },
-          "trecho": "…e Municípios limítrofes para integrar a organização, o planejamento e a execução de funções públicas de interesse comum;",
           "literal": "(Redação dada pela Lei nº 13.683, de 2018)"
         },
         {
@@ -384,17 +373,6 @@
           },
           "trecho": "…ção de efetiva política pública de regularização fundiária urbana, nos termos da Lei nº 13.465, de 11 de julho de 2017 .",
           "literal": "(Incluído pela Lei nº 13.683, de 2018)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "818",
-            "ano": 2018
-          },
-          "trecho": "I - a promoção de audiências públicas com a participação de representantes da sociedade civil e da população;",
-          "literal": "(Redação dada pela Medida Provisória nº 818, de 2018)"
         },
         {
           "tipo": "inclusao",

@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_l14711.json",
       "colecao": "artigos",
-      "sha256": "7585d88564104e3bc3633c6db6e98bcaa2b8a7045d7d3dbdb061172f7a96f8c0",
+      "sha256": "166bd8b19b323a86742daa3803379f0adc6a69dbc598c754ad784f51b5e1e706",
       "total_registros": 19,
-      "gerado_em": "2026-09-14T13:56:05+00:00"
+      "gerado_em": "2026-10-18T12:49:43+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 6,
-      "anotacoes": 35,
-      "anotacoes_sem_diploma_nomeado": 35
+      "artigos_com_anotacao": 5,
+      "anotacoes": 23,
+      "anotacoes_sem_diploma_nomeado": 23
     }
   },
   "vigencia": {
@@ -59,95 +59,6 @@
           "diploma": null,
           "trecho": "II -",
           "literal": "(revogado)"
-        }
-      ]
-    },
-    "6": {
-      "situacao": null,
-      "eventos": [
-        {
-          "tipo": "veto",
-          "unidade": "§ 1º",
-          "diploma": null,
-          "trecho": "§ 1º",
-          "literal": "(VETADO)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "§ 2º",
-          "diploma": null,
-          "trecho": "§ 2º",
-          "literal": "(VETADO)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "§ 3º",
-          "diploma": null,
-          "trecho": "§ 3º",
-          "literal": "(VETADO)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "§ 4º",
-          "diploma": null,
-          "trecho": "§ 4º",
-          "literal": "(VETADO)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "§ 5º",
-          "diploma": null,
-          "trecho": "§ 5º",
-          "literal": "(VETADO)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "§ 6º",
-          "diploma": null,
-          "trecho": "§ 6º",
-          "literal": "(VETADO)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "§ 7º",
-          "diploma": null,
-          "trecho": "§ 7º",
-          "literal": "(VETADO)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "§ 8º",
-          "diploma": null,
-          "trecho": "§ 8º",
-          "literal": "(VETADO)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "§ 9º",
-          "diploma": null,
-          "trecho": "§ 9º",
-          "literal": "(VETADO)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "§ 10º",
-          "diploma": null,
-          "trecho": "§ 10.",
-          "literal": "(VETADO)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "§ 11º",
-          "diploma": null,
-          "trecho": "§ 11.",
-          "literal": "(VETADO)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "parágrafo único",
-          "diploma": null,
-          "trecho": "Parágrafo único.",
-          "literal": "(VETADO)"
         }
       ]
     },

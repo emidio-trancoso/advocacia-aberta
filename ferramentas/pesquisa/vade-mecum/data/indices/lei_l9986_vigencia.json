@@ -23,14 +23,14 @@
     "fonte": {
       "arquivo": "lei_l9986.json",
       "colecao": "artigos",
-      "sha256": "59b2f7571bdb24378d4a9ad8ee904b9690f553e483d82d2f1077729b30a176e6",
+      "sha256": "5443fa98b4e2114d01a1f1308329fc91d34823dea15bf9deb18fe4c0319b462d",
       "total_registros": 41,
-      "gerado_em": "2026-08-21T22:36:29+00:00"
+      "gerado_em": "2026-10-18T12:49:39+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 29,
+      "artigos_com_anotacao": 30,
       "anotacoes": 132,
       "anotacoes_sem_diploma_nomeado": 8
     }
@@ -49,6 +49,22 @@
           },
           "trecho": "…egislação trabalhista correlata, em regime de emprego público. (Vide ADIN 2310) (Vide Medida Provisória nº 155, de 2003)",
           "literal": "(Revogado pela Lei nº 10.871, de 2004)"
+        }
+      ]
+    },
+    "2": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "10.871",
+            "ano": 2004
+          },
+          "trecho": "…E, de Assessoria - CA e de Assistência - CAS, e os Cargos Comissionados Técnicos - CCT, constantes do Anexo I desta Lei.",
+          "literal": "(Redação dada pela Lei nº 10.871, de 2004)"
         }
       ]
     },
@@ -845,17 +861,6 @@
             "ano": 2004
           },
           "trecho": "…ego público, conforme disponibilidade orçamentária e de vagas. (Vide ADIN 2310) (Vide Medida Provisória nº 155, de 2003)",
-          "literal": "(Revogado pela Lei nº 10.871, de 2004)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "10.871",
-            "ano": 2004
-          },
-          "trecho": "… em edital de cada Agência, podendo ser constituído das seguintes etapas: (Vide Medida Provisória nº 155, de 23.12.2003)",
           "literal": "(Revogado pela Lei nº 10.871, de 2004)"
         },
         {

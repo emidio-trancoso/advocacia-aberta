@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_et.json",
       "colecao": "artigos",
-      "sha256": "05bf7fd114789c68b0d728dd9b27d16f1dfc1de9ff9020f3f6242d6be4ef745b",
+      "sha256": "170446f823389611bffe7067a7c8e3e8bc8e7a3bce073af4f0076ed28045e8c8",
       "total_registros": 129,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:50:09+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 14,
-      "anotacoes": 93,
+      "artigos_com_anotacao": 16,
+      "anotacoes": 99,
       "anotacoes_sem_diploma_nomeado": 1
     }
   },
@@ -219,6 +219,93 @@
           },
           "trecho": "…do referido Instituto, em quatro parcelas, até 31 de janeiro, 30 de abril, 31 de julho e 31 de outubro, respectivamente.",
           "literal": "(Revogado pelo Decreto Lei nº 2.431, de 1988 e rejeitado pelo Ato Declaratório de 14.6.1989)"
+        }
+      ]
+    },
+    "37": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "582",
+            "ano": 1969
+          },
+          "trecho": "Art. 37. São órgãos específicos para a execução da Reforma Agrária:",
+          "literal": "(Redação dada pela Decreto Lei nº 582, de 1969)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "inciso I",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "582",
+            "ano": 1969
+          },
+          "trecho": "I - O Grupo Executivo da Reforma Agrária (GERA);",
+          "literal": "(Redação dada pela Decreto Lei nº 582, de 1969)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "inciso I",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "582",
+            "ano": 1969
+          },
+          "trecho": "Il - O Instituto Brasileiro de Reforma Agrária (IBRA), diretamente, ou através de suas Delegacias Regionais;",
+          "literal": "(Redação dada pela Decreto Lei nº 582, de 1969)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "inciso III",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "582",
+            "ano": 1969
+          },
+          "trecho": "III - as Comissões Agrárias.",
+          "literal": "(Redação dada pela Decreto Lei nº 582, de 1969)"
+        }
+      ]
+    },
+    "38": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "582",
+            "ano": 1969
+          },
+          "trecho": "Art. 38. O IBRA será dirigido por um Presidente nomeado pelo Presidente da República.",
+          "literal": "(Redação dada pela Decreto Lei nº 582, de 1969)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 1º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "582",
+            "ano": 1969
+          },
+          "trecho": "…ente do IBRA terá a remuneração correspondente a 75% (setenta e cinco por cento) do que percebem os Ministros de Estado.",
+          "literal": "(Redação dada pela Decreto Lei nº 582, de 1969)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "582",
+            "ano": 1969
+          },
+          "trecho": "…stração Superior do IBRA Diretores, até o máximo de seis, de nomeação do Presidente do IBRA, mediante aprovação do GERA.",
+          "literal": "(Redação dada pela Decreto Lei nº 582, de 1969)"
         }
       ]
     },
@@ -800,17 +887,6 @@
     "95": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "redacao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "4.947",
-            "ano": 1966
-          },
-          "trecho": "…arrendamento, deverá ajustar, previamente, com o locador, a forma de pagamento do uso da terra por esse prazo excedente.",
-          "literal": "(Redação dada pela Lei nº 4.947, de 1966)"
-        },
         {
           "tipo": "redacao",
           "unidade": "inciso III",

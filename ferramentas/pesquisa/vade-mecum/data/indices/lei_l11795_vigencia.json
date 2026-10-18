@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_l11795.json",
       "colecao": "artigos",
-      "sha256": "94780e90881fad91c4820b705574481a7ff9bf81c417d72f10177adf3312ae92",
+      "sha256": "47450bd6a9734ec04eaa4211a1b64a50a49ce2a5fad2f7e0efe4bb75a104de13",
       "total_registros": 49,
-      "gerado_em": "2026-09-14T13:56:05+00:00"
+      "gerado_em": "2026-10-18T12:49:43+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 12,
-      "anotacoes": 18,
-      "anotacoes_sem_diploma_nomeado": 12
+      "artigos_com_anotacao": 13,
+      "anotacoes": 37,
+      "anotacoes_sem_diploma_nomeado": 21
     }
   },
   "vigencia": {
@@ -177,6 +177,184 @@
           "diploma": null,
           "trecho": "Art. 41.",
           "literal": "(VETADO)"
+        }
+      ]
+    },
+    "42": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.506",
+            "ano": 2017
+          },
+          "trecho": "…rmas regulamentares aplica-se a ação punitiva do Banco Central do Brasil, nos termos definidos pela legislação em vigor.",
+          "literal": "(Redação dada pela Lei nº 13.506, de 2017)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "inciso I",
+          "diploma": null,
+          "trecho": "I -",
+          "literal": "(revogado)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "inciso I",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.506",
+            "ano": 2017
+          },
+          "trecho": "I - (revogado);",
+          "literal": "(Redação dada pela Lei nº 13.506, de 2017)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "inciso II",
+          "diploma": null,
+          "trecho": "II -",
+          "literal": "(revogado)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "inciso II",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.506",
+            "ano": 2017
+          },
+          "trecho": "II - (revogado);",
+          "literal": "(Redação dada pela Lei nº 13.506, de 2017)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "inciso III",
+          "diploma": null,
+          "trecho": "III -",
+          "literal": "(revogado)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "inciso III",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.506",
+            "ano": 2017
+          },
+          "trecho": "III - (revogado);",
+          "literal": "(Redação dada pela Lei nº 13.506, de 2017)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "inciso IV",
+          "diploma": null,
+          "trecho": "IV -",
+          "literal": "(revogado)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "inciso IV",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.506",
+            "ano": 2017
+          },
+          "trecho": "IV - (revogado);",
+          "literal": "(Redação dada pela Lei nº 13.506, de 2017)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "inciso V",
+          "diploma": null,
+          "trecho": "V -",
+          "literal": "(revogado)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "inciso V",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.506",
+            "ano": 2017
+          },
+          "trecho": "V - (revogado);",
+          "literal": "(Redação dada pela Lei nº 13.506, de 2017)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "inciso VI",
+          "diploma": null,
+          "trecho": "VI -",
+          "literal": "(revogado)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "inciso VI",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.506",
+            "ano": 2017
+          },
+          "trecho": "VI - (revogado);",
+          "literal": "(Redação dada pela Lei nº 13.506, de 2017)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "inciso VII",
+          "diploma": null,
+          "trecho": "VII -",
+          "literal": "(revogado)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "inciso VII",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.506",
+            "ano": 2017
+          },
+          "trecho": "VII - (revogado);",
+          "literal": "(Redação dada pela Lei nº 13.506, de 2017)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "inciso VIII",
+          "diploma": null,
+          "trecho": "VIII -",
+          "literal": "(revogado)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "inciso VIII",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.506",
+            "ano": 2017
+          },
+          "trecho": "VIII - (revogado).",
+          "literal": "(Redação dada pela Lei nº 13.506, de 2017)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "parágrafo único",
+          "diploma": null,
+          "trecho": "Parágrafo único.",
+          "literal": "(revogado)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "parágrafo único",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.506",
+            "ano": 2017
+          },
+          "trecho": "Parágrafo único. (revogado).",
+          "literal": "(Redação dada pela Lei nº 13.506, de 2017)"
         }
       ]
     },

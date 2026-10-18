@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_l13165.json",
       "colecao": "artigos",
-      "sha256": "1526fce194679d79d9d3548647c17dea2320b54d91b04b0190889e543556a6d4",
+      "sha256": "965541dc67f5a99ac4cded7a1c34926a193dcb7d218540883b8717ae56a5d8f0",
       "total_registros": 15,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:49:45+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 9,
-      "anotacoes": 32,
-      "anotacoes_sem_diploma_nomeado": 18
+      "artigos_com_anotacao": 8,
+      "anotacoes": 30,
+      "anotacoes_sem_diploma_nomeado": 16
     }
   },
   "vigencia": {
@@ -136,13 +136,6 @@
           "diploma": null,
           "trecho": "II -",
           "literal": "(revogado)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "inciso IV",
-          "diploma": null,
-          "trecho": "“Art. 59-A.",
-          "literal": "(VETADO)"
         }
       ]
     },
@@ -346,18 +339,6 @@
           },
           "trecho": "…o IV do art. 45 da Lei nº 9.096, de 19 de setembro de 1995 , será de 15% (quinze por cento) do programa e das inserções.",
           "literal": "(Revogado pela Lei nº 13.488, de 2017)"
-        }
-      ]
-    },
-    "12": {
-      "situacao": "vetado",
-      "eventos": [
-        {
-          "tipo": "veto",
-          "unidade": "caput",
-          "diploma": null,
-          "trecho": "Art. 12.",
-          "literal": "(VETADO)"
         }
       ]
     }

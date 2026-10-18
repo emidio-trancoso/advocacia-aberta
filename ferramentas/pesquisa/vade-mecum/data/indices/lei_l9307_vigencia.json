@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_l9307.json",
       "colecao": "artigos",
-      "sha256": "89caf793e1fa2f03312977ec06e4885c2fe251f0072967633224e7f026d054dd",
+      "sha256": "1cd0b75aedd72cc7f30abd6382d90abd43bd09383b404e6ccab7176db7658848",
       "total_registros": 47,
-      "gerado_em": "2026-09-14T13:56:05+00:00"
+      "gerado_em": "2026-10-18T12:49:44+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 16,
-      "anotacoes": 65,
-      "anotacoes_sem_diploma_nomeado": 34
+      "anotacoes": 62,
+      "anotacoes_sem_diploma_nomeado": 32
     }
   },
   "vigencia": {
@@ -584,31 +584,6 @@
           "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…á, se for o caso, que o árbitro ou o tribunal profira nova sentença arbitral. (Redação dada pela Lei nº 13.129, de 2015)",
-          "literal": "(Vigência)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 3º",
-          "diploma": null,
-          "trecho": "… conforme o art. 741 e seguintes do Código de Processo Civil, se houver execução judicial. (Vide Lei nº 13.105, de 2015)",
-          "literal": "(Vigência)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.129",
-            "ano": 2015
-          },
-          "trecho": "…rt. 475-L e seguintes da Lei no 5.869, de 11 de janeiro de 1973 (Código de Processo Civil), se houver execução judicial.",
-          "literal": "(Redação dada pela Lei nº 13.129, de 2015)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 3º",
-          "diploma": null,
-          "trecho": "…1 de janeiro de 1973 (Código de Processo Civil), se houver execução judicial. (Redação dada pela Lei nº 13.129, de 2015)",
           "literal": "(Vigência)"
         },
         {

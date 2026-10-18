@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_ce.json",
       "colecao": "artigos",
-      "sha256": "ac4647c1486deaf2cd5c1b6417a3189abfb09875c924959df5b915be182b4664",
+      "sha256": "f7c4b93b3adc6d2d7e3eaf5db9c7c1db3092febccea5fd1230fa4e616d4dea48",
       "total_registros": 387,
-      "gerado_em": "2026-09-14T13:55:49+00:00"
+      "gerado_em": "2026-10-18T12:46:35+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 101,
-      "anotacoes": 288,
+      "anotacoes": 287,
       "anotacoes_sem_diploma_nomeado": 13
     }
   },
@@ -1943,17 +1943,6 @@
           },
           "trecho": "…se possa identificar o de sua preferência, escrever duas ou mais legendas diferentes no espaço relativo à mesma eleição.",
           "literal": "(Renumerado do § 3º pela Lei nº 4.961, de 4 5.66)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso IV",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "6.989",
-            "ano": 1982
-          },
-          "trecho": "IV-",
-          "literal": "(Incluído pela Lei nº 6.989, de 5.5.1982 e restabelecido pela Lei nº 7.332, de 1º.7.1985)"
         },
         {
           "tipo": "renumeracao",

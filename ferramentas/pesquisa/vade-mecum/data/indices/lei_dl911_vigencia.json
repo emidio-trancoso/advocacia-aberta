@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_dl911.json",
       "colecao": "artigos",
-      "sha256": "c8ee58777cc7dcb39233e2a730c532cc5b1d4d8563b613c27da8cee1a381fcff",
+      "sha256": "8064d7d6e06d80fe11ddc0a49eef01fc28ab1b46c4dcd26fcb74b5bd65b8f3a1",
       "total_registros": 16,
-      "gerado_em": "2026-09-14T13:56:04+00:00"
+      "gerado_em": "2026-10-18T12:49:42+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 11,
-      "anotacoes": 72,
+      "anotacoes": 71,
       "anotacoes_sem_diploma_nomeado": 0
     }
   },
@@ -87,17 +87,6 @@
           },
           "trecho": "…eensão do bem alienado fiduciariamente, a qual será concedida liminarmente, podendo ser apreciada em plantão judiciário.",
           "literal": "(Redação dada pela Lei nº 13.043, de 2014)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "6.014",
-            "ano": 1973
-          },
-          "trecho": "…. Preferida pelo credor a venda judicial, aplicar-se-á o disposto nos artigos 1.113 a 1.119 do Código de Processo Civil.",
-          "literal": "(Redação dada pela Lei nº 6.014, de 1973)"
         },
         {
           "tipo": "redacao",

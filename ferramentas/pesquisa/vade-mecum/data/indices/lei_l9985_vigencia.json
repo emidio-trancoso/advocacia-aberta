@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l9985.json",
       "colecao": "artigos",
-      "sha256": "3ea3460ffeba0dc5a598b322e9b797a54ba2968f32cb4339c65d027fb662f4df",
+      "sha256": "2bc6b2b9015e4b961d9729491966373a0855aad035d9277dc45d0ba87c7d68a0",
       "total_registros": 62,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:50:00+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 13,
-      "anotacoes": 23,
+      "anotacoes": 22,
       "anotacoes_sem_diploma_nomeado": 9
     }
   },
@@ -51,17 +51,6 @@
     "6": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "redacao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "366",
-            "ano": 2007
-          },
-          "trecho": "…e criação e administrar as unidades de conservação federais, estaduais e municipais, nas respectivas esferas de atuação.",
-          "literal": "(Redação dada Medida Provisória nº 366, de 2007)"
-        },
         {
           "tipo": "redacao",
           "unidade": "inciso III",
@@ -298,23 +287,23 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "327",
-            "ano": 2006
+            "especie": "Lei",
+            "numero": "11.460",
+            "ano": 2007
           },
-          "trecho": "…m as unidades de conservação, até que seja fixada sua zona de amortecimento e aprovado o seu respectivo Plano de Manejo.",
-          "literal": "(Incluído pela Medida Provisória nº 327, de 2006)"
+          "trecho": "…am as unidades de conservação até que seja fixada sua zona de amortecimento e aprovado o seu respectivo Plano de Manejo.",
+          "literal": "(Incluído pela Lei nº 11.460, de 2007)"
         },
         {
           "tipo": "inclusao",
           "unidade": "parágrafo único",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "327",
-            "ano": 2006
+            "especie": "Lei",
+            "numero": "11.460",
+            "ano": 2007
           },
-          "trecho": "…nico. O disposto no caput não se aplica às Áreas de Proteção Ambiental e Reservas de Particulares do Patrimônio Natural.",
-          "literal": "(Incluído pela Medida Provisória nº 327, de 2006)"
+          "trecho": "…to no caput deste artigo não se aplica às Áreas de Proteção Ambiental e Reservas de Particulares do Patrimônio Nacional.",
+          "literal": "(Incluído pela Lei nº 11.460, de 2007)"
         }
       ]
     }

@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l9514.json",
       "colecao": "artigos",
-      "sha256": "fb2edb049e9925ff21b580a9be0c44ae561853f6ac20749d20ca4f93eb751c16",
+      "sha256": "aa76a102c810e5f0dc5b8d2f32ce7e16933d795fe02e45ed27e0a87734528446",
       "total_registros": 53,
-      "gerado_em": "2026-08-21T22:36:32+00:00"
+      "gerado_em": "2026-10-18T12:49:53+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 36,
-      "anotacoes": 249,
+      "artigos_com_anotacao": 35,
+      "anotacoes": 226,
       "anotacoes_sem_diploma_nomeado": 4
     }
   },
@@ -62,28 +62,6 @@
     "5": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "revogacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.223",
-            "ano": 2001
-          },
-          "trecho": "§ 1º As partes poderão estabelecer os critérios do reajuste de que trata o inciso I, observada a legislação vigente.",
-          "literal": "(Revogado pela Medida Provisória nº 2.223, de 2001)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.223",
-            "ano": 2001
-          },
-          "trecho": "…obiliário em geral, poderão ser pactuadas nas mesmas condições permitidas para as entidades autorizadas a operar no SFI.",
-          "literal": "(Redação dada pela Medida Provisória nº 2.223, de 2001)"
-        },
         {
           "tipo": "redacao",
           "unidade": "§ 2º",
@@ -461,17 +439,6 @@
           },
           "trecho": "… companhia securitizadora, do qual constarão os seguintes elementos: (Revogado pela Medida Provisória nº 1.103, de 2022)",
           "literal": "(Revogado pela Lei nº 14.430, de 2022)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.223",
-            "ano": 2001
-          },
-          "trecho": "… de Imóveis em que esteja registrado e respectiva matrícula, bem como a indicação do ato pelo qual o crédito foi cedido;",
-          "literal": "(Redação dada pela Medida Provisória nº 2.223, de 2001)"
         },
         {
           "tipo": "redacao",
@@ -1408,17 +1375,6 @@
           "tipo": "inclusao",
           "unidade": "§ 3º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.223",
-            "ano": 2001
-          },
-          "trecho": "…istros de Imóveis para cancelamento do regime fiduciário e das garantias reais existentes serão cobrados como ato único.",
-          "literal": "(Incluído pela Medida Provisória nº 2.223, de 2001)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 3º",
-          "diploma": {
             "especie": "Lei",
             "numero": "10.931",
             "ano": 2004
@@ -1465,50 +1421,6 @@
           "literal": "(Redação dada pela Lei nº 14.711, de 2023)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.223",
-            "ano": 2001
-          },
-          "trecho": "…ção fiduciária poderá ser contratada por pessoa física ou jurídica, não sendo privativa das entidades que operam no SFI.",
-          "literal": "(Incluído pela Medida Provisória nº 2.223, de 2001)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.223",
-            "ano": 2001
-          },
-          "trecho": "…bens enfitêuticos, sendo também exigível o pagamento do laudêmio se houver a consolidação do domínio útil no fiduciário.",
-          "literal": "(Incluído pela Medida Provisória nº 2.223, de 2001)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "10.931",
-            "ano": 2004
-          },
-          "trecho": "…bens enfitêuticos, sendo também exigível o pagamento do laudêmio se houver a consolidação do domínio útil no fiduciário.",
-          "literal": "(Redação dada pela Lei nº 10.931, de 2004)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.076",
-            "ano": 2004
-          },
-          "trecho": "…têuticos, hipótese em que será exigível o pagamento do laudêmio, se houver a consolidação do domínio útil no fiduciário.",
-          "literal": "(Redação dada pela Lei nº 11.076, de 2004)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "§ 1º",
           "diploma": {
@@ -1550,17 +1462,6 @@
             "ano": 2007
           },
           "trecho": "III - o direito real de uso, desde que suscetível de alienação;",
-          "literal": "(Incluído pela Lei nº 11.481, de 2007)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso IV",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.481",
-            "ano": 2007
-          },
-          "trecho": "IV - a propriedade superficiária.",
           "literal": "(Incluído pela Lei nº 11.481, de 2007)"
         },
         {
@@ -1792,50 +1693,6 @@
           },
           "trecho": "…riedade em nome do credor fiduciário, este último será o valor mínimo para efeito de venda do imóvel no primeiro leilão.",
           "literal": "(Incluído pela Lei nº 13.465, de 2017)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.162",
-            "ano": 2023
-          },
-          "trecho": "…ste último será o valor mínimo para efeito de venda do imóvel no primeiro leilão. (Incluído pela Lei nº 13.465, de 2017)",
-          "literal": "(Revogado pela Medida Provisória nº 1.162, de 2023)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.162",
-            "ano": 2023
-          },
-          "trecho": "…riedade em nome do credor fiduciário, este último será o valor mínimo para efeito de venda do imóvel no primeiro leilão.",
-          "literal": "(Incluído pela Medida Provisória nº 1.162, de 2023)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.162",
-            "ano": 2023
-          },
-          "trecho": "…posto sobre a Propriedade Predial e Territorial Urbana - IPTU incidente sobre o bem e das taxas condominiais existentes.",
-          "literal": "(Incluído pela Medida Provisória nº 1.162, de 2023)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.465",
-            "ano": 2017
-          },
-          "trecho": "…riedade em nome do credor fiduciário, este último será o valor mínimo para efeito de venda do imóvel no primeiro leilão.",
-          "literal": "(Incluído pela Lei nº 13.465, de 2017)"
         }
       ]
     },
@@ -1984,17 +1841,6 @@
           "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
-            "numero": "13.043",
-            "ano": 2014
-          },
-          "trecho": "…o, se no local não houver imprensa diária, contado o prazo para purgação da mora da data da última publicação do edital.",
-          "literal": "(Redação dada pela Lei nº 13.043, de 2014)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Lei",
             "numero": "14.711",
             "ano": 2023
           },
@@ -2060,17 +1906,6 @@
           "tipo": "redacao",
           "unidade": "§ 7º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.223",
-            "ano": 2001
-          },
-          "trecho": "…rio, à vista da prova do pagamento, pelo fiduciário, do imposto de transmissão inter-vivos e, se for o caso, do laudêmio",
-          "literal": "(Redação dada pela Medida Provisória nº 2.223, de 2001)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 7º",
-          "diploma": {
             "especie": "Lei",
             "numero": "10.931",
             "ano": 2004
@@ -2114,17 +1949,6 @@
             "ano": 2017
           },
           "trecho": "…egistro de imóveis trinta dias após a expiração do prazo para purgação da mora de que trata o § 1o do art. 26 desta Lei.",
-          "literal": "(Incluído pela Lei nº 13.465, de 2017)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.465",
-            "ano": 2017
-          },
-          "trecho": "…s despesas de que trata o inciso II do § 3o do art. 27, hipótese em que convalescerá o contrato de alienação fiduciária.",
           "literal": "(Incluído pela Lei nº 13.465, de 2017)"
         },
         {
@@ -2210,17 +2034,6 @@
           "literal": "(Redação dada pela Lei nº 14.711, de 2023)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.465",
-            "ano": 2017
-          },
-          "trecho": "…dos ao devedor mediante correspondência dirigida aos endereços constantes do contrato, inclusive ao endereço eletrônico.",
-          "literal": "(Incluído pela Lei nº 13.465, de 2017)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "§ 2º",
           "diploma": {
@@ -2230,17 +2043,6 @@
           },
           "trecho": "…fiduciante, por meio de correspondência dirigida aos endereços constantes do contrato, inclusive ao endereço eletrônico.",
           "literal": "(Redação dada pela Lei nº 14.711, de 2023)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.465",
-            "ano": 2017
-          },
-          "trecho": "…ários e despesas exigíveis para a nova aquisição do imóvel, de que trata este parágrafo, inclusive custas e emolumentos.",
-          "literal": "(Incluído pela Lei nº 13.465, de 2017)"
         },
         {
           "tipo": "redacao",
@@ -2341,34 +2143,12 @@
           "tipo": "inclusao",
           "unidade": "§ 7º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.223",
-            "ano": 2001
-          },
-          "trecho": "…condição constar expressamente em cláusula contratual específica, destacando-se das demais por sua apresentação gráfica.",
-          "literal": "(Incluído pela Medida Provisória nº 2.223, de 2001)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 7º",
-          "diploma": {
             "especie": "Lei",
             "numero": "10.931",
             "ano": 2004
           },
           "trecho": "…condição constar expressamente em cláusula contratual específica, destacando-se das demais por sua apresentação gráfica.",
           "literal": "(Incluído pela Lei nº 10.931, de 2004)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 8º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.223",
-            "ano": 2001
-          },
-          "trecho": "…sido transferida para o fiduciário, nos termos deste artigo, até a data em que o fiduciário vier a ser imitido na posse.",
-          "literal": "(Incluído pela Medida Provisória nº 2.223, de 2001)"
         },
         {
           "tipo": "inclusao",
@@ -2500,17 +2280,6 @@
           },
           "trecho": "…(sessenta) dias, desde que comprovada a consolidação da propriedade em seu nome, na forma prevista no art. 26 desta Lei.",
           "literal": "(Redação dada pela Lei nº 14.711, de 2023)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.465",
-            "ano": 2017
-          },
-          "trecho": "… devedor fiduciante, serão resolvidas em perdas e danos e não obstarão a reintegração de posse de que trata este artigo.",
-          "literal": "(Incluído pela Lei nº 13.465, de 2017)"
         },
         {
           "tipo": "redacao",
@@ -2769,22 +2538,6 @@
         }
       ]
     },
-    "36": {
-      "situacao": "revogado",
-      "eventos": [
-        {
-          "tipo": "revogacao",
-          "unidade": "caput",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.223",
-            "ano": 2001
-          },
-          "trecho": "… respeitada a legislação pertinente, a estipulação de cláusula de reajuste e das condições e critérios de sua aplicação.",
-          "literal": "(Revogado pela Medida Provisória nº 2.223, de 2001)"
-        }
-      ]
-    },
     "37-A": {
       "situacao": null,
       "eventos": [
@@ -2819,12 +2572,12 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.223",
-            "ano": 2001
+            "especie": "Lei",
+            "numero": "10.931",
+            "ano": 2004
           },
           "trecho": "…ão de locação de imóvel alienado fiduciariamente por prazo superior a um ano sem concordância por escrito do fiduciário.",
-          "literal": "(Incluído pela Medida Provisória nº 2.223, de 2001)"
+          "literal": "(Incluído pela Lei nº 10.931, de 2004)"
         }
       ]
     },
@@ -2851,12 +2604,12 @@
           "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.223",
-            "ano": 2001
+            "especie": "Lei",
+            "numero": "11.076",
+            "ano": 2004
           },
-          "trecho": "…ter de escritura pública, para todos os fins de direito, não se lhes aplicando a norma do art. 134, II, do Código Civil.",
-          "literal": "(Redação dada pela Medida Provisória nº 2.223, de 2001)"
+          "trecho": "…re imóveis, poderão ser celebrados por escritura pública ou por instrumento particular com efeitos de escritura pública.",
+          "literal": "(Redação dada pela Lei nº 11.076, de 2004)"
         }
       ]
     },
@@ -2893,17 +2646,6 @@
           "literal": "(Redação dada pela Lei nº 14.711, de 2023)"
         },
         {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.465",
-            "ano": 2017
-          },
-          "trecho": "…-Lei nº 70, de 21 de novembro de 1966, exclusivamente aos procedimentos de execução de créditos garantidos por hipoteca.",
-          "literal": "(Redação dada pela Lei nº 13.465, de 2017)"
-        },
-        {
           "tipo": "revogacao",
           "unidade": "inciso II",
           "diploma": null,
@@ -2930,12 +2672,12 @@
           "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "656",
-            "ano": 2014
+            "especie": "Lei",
+            "numero": "13.097",
+            "ano": 2015
           },
           "trecho": "…ais condições de acordo com o tipo de crédito imobiliário vinculado à emissão e com o indexador adotado contratualmente.",
-          "literal": "(Redação dada pela Medida Provisória nº 656, de 2014)"
+          "literal": "(Redação dada pela Lei nº 13.097, de 2015)"
         }
       ]
     }

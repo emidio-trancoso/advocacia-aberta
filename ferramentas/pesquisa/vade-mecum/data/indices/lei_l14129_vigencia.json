@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_l14129.json",
       "colecao": "artigos",
-      "sha256": "d9daeda1f3a15d757c85bc89c5219cb828091d8236f3c38fa73fe7b9ab712c43",
+      "sha256": "ac9ccc0e81db21cc6544830cd024eeda840b68a1c2f0eafde1a66874acf15ab6",
       "total_registros": 55,
-      "gerado_em": "2026-08-21T22:36:29+00:00"
+      "gerado_em": "2026-10-18T12:49:38+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 7,
-      "anotacoes": 8,
-      "anotacoes_sem_diploma_nomeado": 8
+      "artigos_com_anotacao": 5,
+      "anotacoes": 6,
+      "anotacoes_sem_diploma_nomeado": 6
     }
   },
   "vigencia": {
@@ -87,30 +87,6 @@
           "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º",
-          "literal": "(VETADO)"
-        }
-      ]
-    },
-    "32": {
-      "situacao": "vetado",
-      "eventos": [
-        {
-          "tipo": "veto",
-          "unidade": "caput",
-          "diploma": null,
-          "trecho": "Art. 32.",
-          "literal": "(VETADO)"
-        }
-      ]
-    },
-    "35": {
-      "situacao": "vetado",
-      "eventos": [
-        {
-          "tipo": "veto",
-          "unidade": "caput",
-          "diploma": null,
-          "trecho": "Art. 35.",
           "literal": "(VETADO)"
         }
       ]

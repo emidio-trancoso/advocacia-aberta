@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_cf.json",
       "colecao": "artigos",
-      "sha256": "27764583018b3b8527aeabac88d2de3bdbcc142babcbefa6a6a4e54f1d437b9b",
+      "sha256": "cf827c876811d8b93e037e91722c77936b6a78a3d8e917c251d1f790aeb8cfb4",
       "total_registros": 276,
-      "gerado_em": "2026-09-14T13:55:49+00:00"
+      "gerado_em": "2026-10-18T12:46:36+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 166,
-      "anotacoes": 1198,
-      "anotacoes_sem_diploma_nomeado": 33
+      "anotacoes": 1207,
+      "anotacoes_sem_diploma_nomeado": 34
     }
   },
   "vigencia": {
@@ -135,6 +135,24 @@
         },
         {
           "tipo": "redacao",
+          "unidade": "inciso XIII",
+          "diploma": {
+            "especie": "Emenda Constitucional",
+            "numero": "141",
+            "ano": 2026
+          },
+          "trecho": "…semanais, facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho;",
+          "literal": "(Redação dada pela Emenda Constitucional nº 141, de 2026)"
+        },
+        {
+          "tipo": "vigencia",
+          "unidade": "inciso XV",
+          "diploma": null,
+          "trecho": "XV - repouso semanal remunerado, preferencialmente aos domingos; (Vide Emenda Constitucional nº 141, de 2026)",
+          "literal": "(Vigência)"
+        },
+        {
+          "tipo": "redacao",
           "unidade": "inciso XXV",
           "diploma": {
             "especie": "Emenda Constitucional",
@@ -204,14 +222,36 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "parágrafo único",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
-            "numero": "72",
-            "ano": 2013
+            "numero": "141",
+            "ano": 2026
           },
           "trecho": "…uliaridades, os previstos nos incisos I, II, III, IX, XII, XXV e XXVIII, bem como a sua integração à previdência social.",
-          "literal": "(Redação dada pela Emenda Constitucional nº 72, de 2013)"
+          "literal": "(Redação dada pela Emenda Constitucional nº 141, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Emenda Constitucional",
+            "numero": "141",
+            "ano": 2026
+          },
+          "trecho": "…o mês-calendário, garantido o gozo de pelo menos 1 (um) dos dias dentro do período máximo de 1 (uma) semana de trabalho.",
+          "literal": "(Incluído pela Emenda Constitucional nº 141, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 3º",
+          "diploma": {
+            "especie": "Emenda Constitucional",
+            "numero": "141",
+            "ano": 2026
+          },
+          "trecho": "…derão observar regimes diferenciados, respeitados os limites previstos nos incisos XIII, XIV e XV do caput deste artigo.",
+          "literal": "(Incluído pela Emenda Constitucional nº 141, de 2026)"
         }
       ]
     },
@@ -2172,11 +2212,11 @@
           "unidade": "§ 4º",
           "diploma": {
             "especie": "Emenda Constitucional",
-            "numero": "103",
-            "ano": 2019
+            "numero": "140",
+            "ano": 2026
           },
-          "trecho": "…ara concessão de benefícios em regime próprio de previdência social, ressalvado o disposto nos §§ 4º-A, 4º-B, 4º-C e 5º.",
-          "literal": "(Redação dada pela Emenda Constitucional nº 103, de 2019)"
+          "trecho": "…nefícios em regime próprio de previdência social, ressalvado o disposto nos §§ 4º-A, 4º-B, 4º-C, 5º e 5º-A deste artigo.",
+          "literal": "(Redação dada pela Emenda Constitucional nº 140, de 2026)"
         },
         {
           "tipo": "inclusao",
@@ -2221,6 +2261,17 @@
           },
           "trecho": "…agistério na educação infantil e no ensino fundamental e médio fixado em lei complementar do respectivo ente federativo.",
           "literal": "(Redação dada pela Emenda Constitucional nº 103, de 2019)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 5º",
+          "diploma": {
+            "especie": "Emenda Constitucional",
+            "numero": "140",
+            "ano": 2026
+          },
+          "trecho": "… mínimo de 25 (vinte e cinco) anos de tempo de contribuição e de efetivo exercício na respectiva atividade profissional.",
+          "literal": "(Incluído pela Emenda Constitucional nº 140, de 2026)"
         },
         {
           "tipo": "redacao",
@@ -11837,6 +11888,17 @@
       "eventos": [
         {
           "tipo": "inclusao",
+          "unidade": "inciso IV",
+          "diploma": {
+            "especie": "Emenda Constitucional",
+            "numero": "140",
+            "ano": 2026
+          },
+          "trecho": "…e saúde e de agentes de combate às endemias, cuja atividade é essencial ao sistema único de saúde e exclusiva de Estado.",
+          "literal": "(Incluído pela Emenda Constitucional nº 140, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
           "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
@@ -11953,6 +12015,28 @@
           "literal": "(Incluído pela Emenda Constitucional nº 51, de 2006)"
         },
         {
+          "tipo": "inclusao",
+          "unidade": "§ 4º",
+          "diploma": {
+            "especie": "Emenda Constitucional",
+            "numero": "140",
+            "ano": 2026
+          },
+          "trecho": "…nitários de saúde e de agentes de combate às endemias, salvo a hipótese de emergência em saúde pública, na forma da lei.",
+          "literal": "(Incluído pela Emenda Constitucional nº 140, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 4º",
+          "diploma": {
+            "especie": "Emenda Constitucional",
+            "numero": "140",
+            "ano": 2026
+          },
+          "trecho": "…e que trata o § 4º deste artigo submetem-se ao regime jurídico dos servidores nomeados para cargo de provimento efetivo.",
+          "literal": "(Incluído pela Emenda Constitucional nº 140, de 2026)"
+        },
+        {
           "tipo": "redacao",
           "unidade": "§ 5º",
           "diploma": {
@@ -12008,15 +12092,15 @@
           "literal": "(Incluído pela Emenda Constitucional nº 120, de 2022)"
         },
         {
-          "tipo": "inclusao",
+          "tipo": "redacao",
           "unidade": "§ 10º",
           "diploma": {
             "especie": "Emenda Constitucional",
-            "numero": "120",
-            "ano": 2022
+            "numero": "140",
+            "ano": 2026
           },
-          "trecho": "…s inerentes às funções desempenhadas, aposentadoria especial e, somado aos seus vencimentos, adicional de insalubridade.",
-          "literal": "(Incluído pela Emenda Constitucional nº 120, de 2022)"
+          "trecho": "…iferenciados, na forma do § 5º-A do art. 40 e do § 8º-A do art. 201 desta Constituição, e ao adicional de insalubridade.",
+          "literal": "(Redação dada pela Emenda Constitucional nº 140, de 2026)"
         },
         {
           "tipo": "inclusao",
@@ -12291,6 +12375,17 @@
           },
           "trecho": "…ivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio fixado em lei complementar.",
           "literal": "(Redação dada pela Emenda Constitucional nº 103, de 2019)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 8º",
+          "diploma": {
+            "especie": "Emenda Constitucional",
+            "numero": "140",
+            "ano": 2026
+          },
+          "trecho": "… mínimo de 25 (vinte e cinco) anos de tempo de contribuição e de efetivo exercício na respectiva atividade profissional.",
+          "literal": "(Incluído pela Emenda Constitucional nº 140, de 2026)"
         },
         {
           "tipo": "redacao",

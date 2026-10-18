@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l9961.json",
       "colecao": "artigos",
-      "sha256": "c15f6bd30b0dba6224ae780515a7d1639e53e7d9ea9100306c3b5f7527867046",
+      "sha256": "b2548b44a6ce397c298e7bc59104dfbccca5e59d6f740af01a05be2e1461baf9",
       "total_registros": 41,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:49:59+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 16,
-      "anotacoes": 122,
+      "anotacoes": 117,
       "anotacoes_sem_diploma_nomeado": 0
     }
   },
@@ -360,39 +360,6 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "alínea a",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.177-43",
-            "ano": 2001
-          },
-          "trecho": "a) assistência farmacêutica;",
-          "literal": "(Incluída pela Medida Provisória nº 2.177-43, de 2001)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea b",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.177-43",
-            "ano": 2001
-          },
-          "trecho": "b) ampliação das ações de prevenção e promoção à saúde;",
-          "literal": "(Incluída pela Medida Provisória nº 2.177-43, de 2001)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "alínea c",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.177-43",
-            "ano": 2001
-          },
-          "trecho": "c) mobilidade de beneficiários entre operadoras e portabilidade de suas carências;",
-          "literal": "(Incluída pela Medida Provisória nº 2.177-43, de 2001)"
-        },
-        {
-          "tipo": "inclusao",
           "unidade": "inciso XLII",
           "diploma": {
             "especie": "Medida Provisória",
@@ -598,28 +565,6 @@
     "10": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.177-43",
-            "ano": 2001
-          },
-          "trecho": "…iretores, dentre eles o Diretor-Presidente ou seu substituto legal, e deliberará com, no mínimo, três votos coincidentes",
-          "literal": "(Redação dada pela Medida Provisória nº 2.177-43, de 2001)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.177-44",
-            "ano": 2001
-          },
-          "trecho": "…o legal, e deliberará com, no mínimo, três votos coincidentes (Redação dada pela Medida Provisória nº 2.177-43, de 2001)",
-          "literal": "(Redação dada pela Medida Provisória nº 2.177-44, de 2001)"
-        },
         {
           "tipo": "redacao",
           "unidade": "§ 1º",

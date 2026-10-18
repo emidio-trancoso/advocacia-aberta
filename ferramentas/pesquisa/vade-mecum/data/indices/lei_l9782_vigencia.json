@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l9782.json",
       "colecao": "artigos",
-      "sha256": "339794a66767304b997c4dfdc5dc639e7a41402c3188c2ee95ce58a41f687ed4",
-      "total_registros": 49,
-      "gerado_em": "2026-07-23"
+      "sha256": "758fc50be4446eb39274974f31fd22af8b53f31bed342dfc56f414bdbf80be04",
+      "total_registros": 50,
+      "gerado_em": "2026-10-18T12:49:59+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 26,
-      "anotacoes": 127,
+      "artigos_com_anotacao": 27,
+      "anotacoes": 129,
       "anotacoes_sem_diploma_nomeado": 14
     }
   },
@@ -309,6 +309,55 @@
         }
       ]
     },
+    "8-A": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "inclusao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.524",
+            "ano": 2026
+          },
+          "trecho": "…m até 100 (cem) vezes, se necessário para garantir sua eficácia, em razão da situação econômica do prestador de serviço.",
+          "literal": "(Incluído pela Lei nº 15.524, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "parágrafo único",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.524",
+            "ano": 2026
+          },
+          "trecho": "Parágrafo único. A penalidade de que trata o caput deste artigo aplica-se sem prejuízo:",
+          "literal": "(Incluído pela Lei nº 15.524, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso I",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.524",
+            "ano": 2026
+          },
+          "trecho": "I – da responsabilidade civil em caso de danos à saúde dos pacientes;",
+          "literal": "(Incluído pela Lei nº 15.524, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso II",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.524",
+            "ano": 2026
+          },
+          "trecho": "…ncomitante das normas de proteção ao consumidor e das normas expedidas pela Agência Nacional de Saúde Suplementar (ANS).",
+          "literal": "(Incluído pela Lei nº 15.524, de 2026)"
+        }
+      ]
+    },
     "9": {
       "situacao": null,
       "eventos": [
@@ -424,17 +473,6 @@
           "tipo": "redacao",
           "unidade": "inciso III",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.190-34",
-            "ano": 2001
-          },
-          "trecho": "III - editar normas sobre matérias de competência da Agência; (Vide Medida Provisória nº 2.000-16, de 2000)",
-          "literal": "(Redação dada pela Medida Provisória nº 2.190-34, de 2001)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso III",
-          "diploma": {
             "especie": "Lei",
             "numero": "13.411",
             "ano": 2017
@@ -503,17 +541,6 @@
           },
           "trecho": "…romulgar o regimento interno, definir a área de atuação das unidades organizacionais e a estrutura executiva da Agência.",
           "literal": "(Incluído pela Lei nº 13.097, de 2015)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.190-34",
-            "ano": 2001
-          },
-          "trecho": "… pelo menos, três Diretores, dentre eles o Diretor-Presidente ou seu substituto legal, e deliberará por maioria simples.",
-          "literal": "(Redação dada pela Medida Provisória nº 2.190-34, de 2001)"
         },
         {
           "tipo": "redacao",
@@ -1485,7 +1512,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "alínea c",
+          "unidade": "caput",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "2.190-34",
@@ -1496,7 +1523,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "alínea c",
+          "unidade": "caput",
           "diploma": {
             "especie": "Lei",
             "numero": "12.546",

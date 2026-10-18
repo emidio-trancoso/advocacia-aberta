@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l5889.json",
       "colecao": "artigos",
-      "sha256": "c07db23828dc3fbc6850f30abfbdcb0d7044d8cd58e63e2921c9a71c8f2db724",
+      "sha256": "17a9da72558b1dc38ded4cd9b31c7f67ca9f9499d4a84a1a5915df096041ad0f",
       "total_registros": 22,
-      "gerado_em": "2026-08-21T22:36:34+00:00"
+      "gerado_em": "2026-10-18T12:50:02+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 4,
-      "anotacoes": 21,
+      "anotacoes": 25,
       "anotacoes_sem_diploma_nomeado": 1
     }
   },
@@ -75,111 +75,166 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "410",
-            "ano": 2007
+            "especie": "Lei",
+            "numero": "11.718",
+            "ano": 2008
           },
           "trecho": "…oderá realizar contratação de trabalhador rural por pequeno prazo para o exercício de atividades de natureza temporária.",
-          "literal": "(Incluído pela Medida Provisória nº 410, de 2007)"
+          "literal": "(Incluído pela Lei nº 11.718, de 2008)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "410",
-            "ano": 2007
+            "especie": "Lei",
+            "numero": "11.718",
+            "ano": 2008
           },
-          "trecho": "…razo que superar dois meses dentro do período de um ano fica convertido em contrato de trabalho por prazo indeterminado.",
-          "literal": "(Incluído pela Medida Provisória nº 410, de 2007)"
+          "trecho": "… meses fica convertida em contrato de trabalho por prazo indeterminado, observando-se os termos da legislação aplicável.",
+          "literal": "(Incluído pela Lei nº 11.718, de 2008)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 2º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "410",
-            "ano": 2007
+            "especie": "Lei",
+            "numero": "11.718",
+            "ano": 2008
           },
-          "trecho": "…formações à Previdência Social - GFIP, cabendo à Previdência Social instituir mecanismo que permita a sua identificação.",
-          "literal": "(Incluído pela Medida Provisória nº 410, de 2007)"
+          "trecho": "…formações à Previdência Social – GFIP, cabendo à Previdência Social instituir mecanismo que permita a sua identificação.",
+          "literal": "(Incluído pela Lei nº 11.718, de 2008)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 3º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "410",
-            "ano": 2007
+            "especie": "Lei",
+            "numero": "11.718",
+            "ano": 2008
           },
-          "trecho": "…ncia de contrato escrito com o fim específico de comprovação para a fiscalização trabalhista da situação do trabalhador.",
-          "literal": "(Incluído pela Medida Provisória nº 410, de 2007)"
+          "trecho": "… prazo deverá ser formalizado mediante a inclusão do trabalhador na GFIP, na forma do disposto no § 2o deste artigo, e :",
+          "literal": "(Incluído pela Lei nº 11.718, de 2008)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso II",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "11.718",
+            "ano": 2008
+          },
+          "trecho": "II – mediante contrato escrito, em 2 (duas) vias, uma para cada parte, onde conste, no mínimo:",
+          "literal": "(Incluído pela Lei nº 11.718, de 2008)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "alínea a",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "11.718",
+            "ano": 2008
+          },
+          "trecho": "a) expressa autorização em acordo coletivo ou convenção coletiva;",
+          "literal": "(Incluído pela Lei nº 11.718, de 2008)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "alínea b",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "11.718",
+            "ano": 2008
+          },
+          "trecho": "b) identificação do produtor rural e do imóvel rural onde o trabalho será realizado e indicação da respectiva matrícula;",
+          "literal": "(Incluído pela Lei nº 11.718, de 2008)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "alínea c",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "11.718",
+            "ano": 2008
+          },
+          "trecho": "c) identificação do trabalhador, com indicação do respectivo Número de Inscrição do Trabalhador – NIT.",
+          "literal": "(Incluído pela Lei nº 11.718, de 2008)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 4º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "410",
-            "ano": 2007
+            "especie": "Lei",
+            "numero": "11.718",
+            "ano": 2008
           },
-          "trecho": "…ento sobre o respectivo salário-de-contribuição definido no inciso I do art. 28 da Lei no 8.212, de 24 de julho de 1991.",
-          "literal": "(Incluído pela Medida Provisória nº 410, de 2007)"
+          "trecho": "…rá ser realizada por produtor rural pessoa física, proprietário ou não, que explore diretamente atividade agroeconômica.",
+          "literal": "(Incluído pela Lei nº 11.718, de 2008)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 5º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "410",
-            "ano": 2007
+            "especie": "Lei",
+            "numero": "11.718",
+            "ano": 2008
           },
-          "trecho": "…e artigo, sem prejuízo de comprovação, por qualquer meio admitido em direito, da existência de relação jurídica diversa.",
-          "literal": "(Incluído pela Medida Provisória nº 410, de 2007)"
+          "trecho": "…e o respectivo salário-de-contribuição definido no inciso I do caput do art. 28 da Lei no 8.212, de 24 de julho de 1991.",
+          "literal": "(Incluído pela Lei nº 11.718, de 2008)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 6º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "410",
-            "ano": 2007
+            "especie": "Lei",
+            "numero": "11.718",
+            "ano": 2008
           },
-          "trecho": "§ 6o O recolhimento das contribuições previdenciárias far-se-á nos termos da legislação da Previdência Social.",
-          "literal": "(Incluído pela Medida Provisória nº 410, de 2007)"
+          "trecho": "…e artigo, sem prejuízo de comprovação, por qualquer meio admitido em direito, da existência de relação jurídica diversa.",
+          "literal": "(Incluído pela Lei nº 11.718, de 2008)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 7º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "410",
-            "ano": 2007
+            "especie": "Lei",
+            "numero": "11.718",
+            "ano": 2008
           },
-          "trecho": "…no prazo, além de remuneração equivalente à do trabalhador rural permanente, os demais direitos de natureza trabalhista.",
-          "literal": "(Incluído pela Medida Provisória nº 410, de 2007)"
+          "trecho": "…ilitem o acesso do trabalhador e da entidade sindical que o representa às informações sobre as contribuições recolhidas.",
+          "literal": "(Incluído pela Lei nº 11.718, de 2008)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 8º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "410",
-            "ano": 2007
+            "especie": "Lei",
+            "numero": "11.718",
+            "ano": 2008
           },
-          "trecho": "…as devidas ao trabalhador de que trata este artigo serão calculadas dia-a-dia e pagas diretamente a ele mediante recibo.",
-          "literal": "(Incluído pela Medida Provisória nº 410, de 2007)"
+          "trecho": "…no prazo, além de remuneração equivalente à do trabalhador rural permanente, os demais direitos de natureza trabalhista.",
+          "literal": "(Incluído pela Lei nº 11.718, de 2008)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 9º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "410",
-            "ano": 2007
+            "especie": "Lei",
+            "numero": "11.718",
+            "ano": 2008
           },
-          "trecho": "…o O Fundo de Garantia do Tempo de Serviço - FGTS deverá ser recolhido nos termos da Lei no 8.036, de 11 de maio de 1990.",
-          "literal": "(Incluído pela Medida Provisória nº 410, de 2007)"
+          "trecho": "…as devidas ao trabalhador de que trata este artigo serão calculadas dia a dia e pagas diretamente a ele mediante recibo.",
+          "literal": "(Incluído pela Lei nº 11.718, de 2008)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 10º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "11.718",
+            "ano": 2008
+          },
+          "trecho": "…o Tempo de Serviço – FGTS deverá ser recolhido e poderá ser levantado nos termos da Lei no 8.036, de 11 de maio de 1990.",
+          "literal": "(Incluído pela Lei nº 11.718, de 2008)"
         }
       ]
     },
@@ -217,17 +272,6 @@
             "ano": 2001
           },
           "trecho": "…aplicadas pela autoridade competente do Ministério do Trabalho e Emprego, de acordo com o disposto no Título VII da CLT.",
-          "literal": "(Redação dada pela Medida Provisória nº 2.164-41, de 2001)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.164-41",
-            "ano": 2001
-          },
-          "trecho": "…utores equiparados a comprovação do recolhimento da Contribuição Sindical Rural das categorias econômica e profissional.",
           "literal": "(Redação dada pela Medida Provisória nº 2.164-41, de 2001)"
         },
         {

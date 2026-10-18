@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l9610.json",
       "colecao": "artigos",
-      "sha256": "19025351eb95806efef1fb7bf1386de86e8c73e80f94ce82a5757562b42a770b",
+      "sha256": "c00a9ef836a353d1c0be0e1c4ce4cb3c7353cf1bc6f8ab70d5f8a506094ca13e",
       "total_registros": 124,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:49:50+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 19,
-      "anotacoes": 84,
+      "anotacoes": 82,
       "anotacoes_sem_diploma_nomeado": 2
     }
   },
@@ -57,17 +57,6 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "907",
-            "ano": 2019
-          },
-          "trecho": "…e e aéreo, espaços públicos e comuns de meios de hospedagens e de meios de transporte de passageiros marítimo e fluvial.",
-          "literal": "(Redação dada pela Medida Provisória nº 907, de 2019)"
-        },
-        {
-          "tipo": "redacao",
           "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
@@ -87,17 +76,6 @@
           },
           "trecho": "…á até o décimo dia útil de cada mês, relativamente à relação completa das obras e fonogramas utilizados no mês anterior.",
           "literal": "(Incluído pela Lei nº 12.853, de 2013)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 9º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "907",
-            "ano": 2019
-          },
-          "trecho": "…as unidades habitacionais dos meios de hospedagem e de cabines de meios de transporte de passageiros marítimo e fluvial.",
-          "literal": "(Incluído pela Medida Provisória nº 907, de 2019)"
         }
       ]
     },

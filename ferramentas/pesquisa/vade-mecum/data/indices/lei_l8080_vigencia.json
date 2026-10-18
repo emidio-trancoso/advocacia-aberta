@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l8080.json",
       "colecao": "artigos",
-      "sha256": "1f7f7b382e3ab6fda65f60408d7546001faae03fdd12f12233ea95d16a727d67",
+      "sha256": "f464b98b60c27158600bcee1ff489e569772aeda5a86ec160d03b65f419b3a02",
       "total_registros": 89,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:49:58+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 56,
-      "anotacoes": 171,
+      "anotacoes": 164,
       "anotacoes_sem_diploma_nomeado": 30
     }
   },
@@ -372,17 +372,6 @@
           },
           "trecho": "…atrimônio genético de que trata o § 2º deste artigo serão repartidos nos termos da Lei nº 13.123, de 20 de maio de 2015.",
           "literal": "(Incluído pela Lei nº 14.141, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.301",
-            "ano": 2025
-          },
-          "trecho": "… atenção especializada nos Estados, no Distrito Federal e nos Municípios, conforme regulamento do gestor federal do SUS.",
-          "literal": "(Incluído pela Medida Provisória nº 1.301, de 2025)"
         },
         {
           "tipo": "inclusao",
@@ -753,17 +742,6 @@
           "literal": "(Redação dada pela Lei nº 14.737, de 2023)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.108",
-            "ano": 2005
-          },
-          "trecho": "§ 1o O acompanhante de que trata o caput deste artigo será indicado pela parturiente.",
-          "literal": "(Incluído pela Lei nº 11.108, de 2005)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "§ 1º",
           "diploma": {
@@ -773,17 +751,6 @@
           },
           "trecho": "…l, e estará obrigado a preservar o sigilo das informações de saúde de que tiver conhecimento em razão do acompanhamento.",
           "literal": "(Redação dada pela Lei nº 14.737, de 2023)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "11.108",
-            "ano": 2005
-          },
-          "trecho": "…itos de que trata este artigo constarão do regulamento da lei, a ser elaborado pelo órgão competente do Poder Executivo.",
-          "literal": "(Incluído pela Lei nº 11.108, de 2005)"
         },
         {
           "tipo": "redacao",
@@ -806,17 +773,6 @@
           },
           "trecho": "… seus direitos, com no mínimo 24 (vinte e quatro) horas de antecedência, assinada por ela e arquivada em seu prontuário.",
           "literal": "(Incluído pela Lei nº 14.737, de 2023)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.895",
-            "ano": 2013
-          },
-          "trecho": "…os a manter, em local visível de suas dependências, aviso informando sobre o direito estabelecido no caput deste artigo.",
-          "literal": "(Incluído pela Lei nº 12.895, de 2013)"
         },
         {
           "tipo": "redacao",
@@ -956,17 +912,6 @@
           "literal": "(Incluído pela Lei nº 12.401, de 2011)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.401",
-            "ano": 2011
-          },
-          "trecho": "…ividade e custo-efetividade para as diferentes fases evolutivas da doença ou do agravo à saúde de que trata o protocolo.",
-          "literal": "(Incluído pela Lei nº 12.401, de 2011)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "§ 1º",
           "diploma": {
@@ -1052,28 +997,6 @@
           },
           "trecho": "…utica, são atribuições do Ministério da Saúde, assessorado pela Comissão Nacional de Incorporação de Tecnologias no SUS.",
           "literal": "(Incluído pela Lei nº 12.401, de 2011)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.401",
-            "ano": 2011
-          },
-          "trecho": "… Conselho Nacional de Saúde e de 1 (um) representante, especialista na área, indicado pelo Conselho Federal de Medicina.",
-          "literal": "(Incluído pela Lei nº 12.401, de 2011)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "14.655",
-            "ano": 2023
-          },
-          "trecho": "…onselho Federal de Medicina e de 1 (um) representante, especialista na área, indicado pela Associação Médica Brasileira.",
-          "literal": "(Redação dada pela Lei nº 14.655, de 2023)"
         },
         {
           "tipo": "inclusao",
@@ -1971,45 +1894,45 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.301",
+            "especie": "Lei",
+            "numero": "15.233",
             "ano": 2025
           },
-          "trecho": "…espera para a realização de consultas, procedimentos, exames e demais ações e serviços da atenção especializada à saúde.",
-          "literal": "(Incluído pela Medida Provisória nº 1.301, de 2025)"
+          "trecho": "…ra a realização de consultas, de procedimentos, de exames e de demais ações e serviços de atenção especializada à saúde.",
+          "literal": "(Incluído pela Lei nº 15.233, de 2025)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.301",
+            "especie": "Lei",
+            "numero": "15.233",
             "ano": 2025
           },
-          "trecho": "…atendimento aos princípios e os parâmetros estabelecidos pela Lei nº 13.709, de 14 de agosto de 2018, quando aplicáveis.",
-          "literal": "(Incluído pela Medida Provisória nº 1.301, de 2025)"
+          "trecho": "…os estabelecidos na Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais), quando aplicáveis.",
+          "literal": "(Incluído pela Lei nº 15.233, de 2025)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1º",
+          "unidade": "§ 2º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.301",
+            "especie": "Lei",
+            "numero": "15.233",
             "ano": 2025
           },
           "trecho": "…formações da regulação assistencial em seu âmbito de gestão e enviar, obrigatoriamente, os dados ao Ministério da Saúde.",
-          "literal": "(Incluído pela Medida Provisória nº 1.301, de 2025)"
+          "literal": "(Incluído pela Lei nº 15.233, de 2025)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 3º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.301",
+            "especie": "Lei",
+            "numero": "15.233",
             "ano": 2025
           },
-          "trecho": "…didos, na forma prevista no regulamento de que trata o § 1º, para os entes federativos que cumprirem o disposto no § 2º.",
-          "literal": "(Incluído pela Medida Provisória nº 1.301, de 2025)"
+          "trecho": "…ma prevista no regulamento de que trata o § 1º, para os entes federativos que cumprirem o disposto no § 2º deste artigo.",
+          "literal": "(Incluído pela Lei nº 15.233, de 2025)"
         }
       ]
     },

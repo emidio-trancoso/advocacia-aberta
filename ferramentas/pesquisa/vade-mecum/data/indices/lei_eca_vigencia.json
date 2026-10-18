@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_eca.json",
       "colecao": "artigos",
-      "sha256": "2cecab80c4feb90b2f6187da4ffd057c28010028e749689b0e162088731cd8ff",
+      "sha256": "dc6be8c36144169c812e406e5a19c9262e0dfc54a90d4b10aef8b8cbfad17e15",
       "total_registros": 329,
-      "gerado_em": "2026-09-14T13:55:51+00:00"
+      "gerado_em": "2026-10-18T12:46:44+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 143,
-      "anotacoes": 662,
+      "anotacoes": 663,
       "anotacoes_sem_diploma_nomeado": 12
     }
   },
@@ -55,6 +55,17 @@
     "4": {
       "situacao": null,
       "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.512",
+            "ano": 2026
+          },
+          "trecho": "…profissionalização, à cultura, à dignidade, ao respeito, à liberdade, à natureza e à convivência familiar e comunitária.",
+          "literal": "(Redação dada pela Lei nº 15.512, de 2026)"
+        },
         {
           "tipo": "inclusao",
           "unidade": "§ 1º",

@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_l9656.json",
       "colecao": "artigos",
-      "sha256": "b77f5448cd1f319a7202a6c9e6f530acecff9a802ef15b2cca1712ed914615e8",
+      "sha256": "ccaa8f61b8a83ea6b835e2296379fae14d6a49f7e2ce06fc239954e6e0387c06",
       "total_registros": 58,
-      "gerado_em": "2026-09-14T13:56:05+00:00"
+      "gerado_em": "2026-10-18T12:49:44+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 56,
-      "anotacoes": 404,
-      "anotacoes_sem_diploma_nomeado": 14
+      "anotacoes": 387,
+      "anotacoes_sem_diploma_nomeado": 13
     }
   },
   "vigencia": {
@@ -229,17 +229,6 @@
             "ano": 2001
           },
           "trecho": "… aos prestadores, livremente escolhidos pelo segurado, as despesas advindas de eventos cobertos, nos limites da apólice.",
-          "literal": "(Revogado pela Medida Provisória nº 2.177-44, de 2001)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.177-44",
-            "ano": 2001
-          },
-          "trecho": "…lha dos segurados, as sociedades seguradoras podem apresentar relação de prestadores de serviços de assistência à saúde.",
           "literal": "(Revogado pela Medida Provisória nº 2.177-44, de 2001)"
         }
       ]
@@ -1228,39 +1217,6 @@
           "literal": "(Redação dada pela Medida Provisória nº 2.177-44, de 2001)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.177-44",
-            "ano": 2001
-          },
-          "trecho": "…ocedimentos de alta complexidade, será definida por normas editadas pela ANS. (Vide Medida Provisória nº 1.665, de 1998)",
-          "literal": "(Incluído pela Medida Provisória nº 2.177-44, de 2001)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.067",
-            "ano": 2021
-          },
-          "trecho": "…spostas nas alíneas “c” do inciso I e “g” do inciso II do caput do art. 12, será estabelecida em norma editada pela ANS.",
-          "literal": "(Redação dada pela Medida Provisória nº 1.067, de 2021)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "14.307",
-            "ano": 2022
-          },
-          "trecho": "…ementar, inclusive de transplantes e de procedimentos de alta complexidade, será estabelecida em norma editada pela ANS.",
-          "literal": "(Redação dada pela Lei nº 14.307, de 2022)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "§ 4º",
           "diploma": {
@@ -1270,17 +1226,6 @@
           },
           "trecho": "…rma editada pela ANS, que publicará rol de procedimentos e eventos em saúde suplementar, atualizado a cada incorporação.",
           "literal": "(Redação dada pela Lei nº 14.454, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 5º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.067",
-            "ano": 2021
-          },
-          "trecho": "…norma editada pela ANS, assessorada pela Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar.",
-          "literal": "(Incluído pela Medida Provisória nº 1.067, de 2021)"
         },
         {
           "tipo": "inclusao",
@@ -1297,34 +1242,12 @@
           "tipo": "inclusao",
           "unidade": "§ 6º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.067",
-            "ano": 2021
-          },
-          "trecho": "… no prazo de cento e vinte dias, que poderá ser prorrogado por sessenta dias corridos quando as circunstâncias exigirem.",
-          "literal": "(Incluído pela Medida Provisória nº 1.067, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 6º",
-          "diploma": {
             "especie": "Lei",
             "numero": "14.307",
             "ano": 2022
           },
           "trecho": "…la vigilância sanitária, com uso terapêutico aprovado para essas finalidades, observado o disposto no § 7º deste artigo.",
           "literal": "(Incluído pela Lei nº 14.307, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 7º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.067",
-            "ano": 2021
-          },
-          "trecho": "…ue haja decisão da ANS, garantida a continuidade da assistência iniciada mesmo se a decisão for desfavorável à inclusão.",
-          "literal": "(Incluído pela Medida Provisória nº 1.067, de 2021)"
         },
         {
           "tipo": "inclusao",
@@ -1341,89 +1264,12 @@
           "tipo": "inclusao",
           "unidade": "§ 8º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.067",
-            "ano": 2021
-          },
-          "trecho": "…enha sido publicada, serão incluídas no Rol de Procedimentos e Eventos em Saúde Suplementar no prazo de até trinta dias.",
-          "literal": "(Incluído pela Medida Provisória nº 1.067, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 8º",
-          "diploma": {
             "especie": "Lei",
             "numero": "14.307",
             "ano": 2022
           },
           "trecho": "…a data em que foi protocolado o pedido, prorrogável por 60 (sessenta) dias corridos quando as circunstâncias o exigirem.",
           "literal": "(Incluído pela Lei nº 14.307, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 9º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.067",
-            "ano": 2021
-          },
-          "trecho": "…rata o § 6º observará o disposto na Lei nº 9.784, de 29 de janeiro de 1999, no que couber, e as seguintes determinações:",
-          "literal": "(Incluído pela Medida Provisória nº 1.067, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.067",
-            "ano": 2021
-          },
-          "trecho": "…mentos com as informações necessárias ao atendimento do disposto no § 3º do art. 10-D, na forma prevista em regulamento;",
-          "literal": "(Incluído pela Medida Provisória nº 1.067, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.067",
-            "ano": 2021
-          },
-          "trecho": "II - apresentação do preço estabelecido pela Câmara de Regulação do Mercado de Medicamentos, no caso de medicamentos;",
-          "literal": "(Incluído pela Medida Provisória nº 1.067, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.067",
-            "ano": 2021
-          },
-          "trecho": "…ção de relatório preliminar emitido pela Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar;",
-          "literal": "(Incluído pela Medida Provisória nº 1.067, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso IV",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.067",
-            "ano": 2021
-          },
-          "trecho": "IV - realização de audiência pública, na hipótese de matéria relevante; e",
-          "literal": "(Incluído pela Medida Provisória nº 1.067, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso V",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.067",
-            "ano": 2021
-          },
-          "trecho": "…inal de que trata o § 3º do art. 10-D da Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar.",
-          "literal": "(Incluído pela Medida Provisória nº 1.067, de 2021)"
         },
         {
           "tipo": "inclusao",
@@ -1585,17 +1431,6 @@
           "literal": "(Redação dada pela Lei nº 15.171, de 2025)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.770",
-            "ano": 2018
-          },
-          "trecho": "…condições técnicas, a reconstrução da mama será efetuada no tempo cirúrgico da mutilação referida no caput deste artigo.",
-          "literal": "(Incluído pela Lei nº 13.770, de 2018)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "§ 1º",
           "diploma": {
@@ -1705,111 +1540,155 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.067",
-            "ano": 2021
+            "especie": "Lei",
+            "numero": "14.307",
+            "ano": 2022
           },
-          "trecho": "…edimentos e Eventos em Saúde Suplementar à qual compete assessorar a ANS nas atribuições de que trata o § 4º do art. 10.",
-          "literal": "(Incluído pela Medida Provisória nº 1.067, de 2021)"
+          "trecho": "…e Eventos em Saúde Suplementar à qual compete assessorar a ANS nas atribuições de que trata o § 4º do art. 10 desta Lei.",
+          "literal": "(Incluído pela Lei nº 14.307, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.067",
-            "ano": 2021
+            "especie": "Lei",
+            "numero": "14.307",
+            "ano": 2022
           },
           "trecho": "…ão da Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar serão estabelecidos em regulamento.",
-          "literal": "(Incluído pela Medida Provisória nº 1.067, de 2021)"
+          "literal": "(Incluído pela Lei nº 14.307, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 2º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.067",
-            "ano": 2021
+            "especie": "Lei",
+            "numero": "14.307",
+            "ano": 2022
           },
-          "trecho": "…ol de Procedimentos e Eventos em Saúde Suplementar será composta, no mínimo, por representantes das seguintes entidades:",
-          "literal": "(Incluído pela Medida Provisória nº 1.067, de 2021)"
+          "trecho": "… Eventos em Saúde Suplementar terá composição e regimento definidos em regulamento, com a participação nos processos de:",
+          "literal": "(Incluído pela Lei nº 14.307, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso I",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.067",
-            "ano": 2021
+            "especie": "Lei",
+            "numero": "14.307",
+            "ano": 2022
           },
-          "trecho": "I - um do Conselho Federal de Medicina;",
-          "literal": "(Incluído pela Medida Provisória nº 1.067, de 2021)"
+          "trecho": "I - 1 (um) representante indicado pelo Conselho Federal de Medicina;",
+          "literal": "(Incluído pela Lei nº 14.307, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso II",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.067",
-            "ano": 2021
+            "especie": "Lei",
+            "numero": "14.307",
+            "ano": 2022
           },
-          "trecho": "II - um do Conselho Federal de Odontologia; e",
-          "literal": "(Incluído pela Medida Provisória nº 1.067, de 2021)"
+          "trecho": "… médica, conforme a área terapêutica ou o uso da tecnologia a ser analisada, indicado pela Associação Médica Brasileira;",
+          "literal": "(Incluído pela Lei nº 14.307, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso III",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.067",
-            "ano": 2021
+            "especie": "Lei",
+            "numero": "14.307",
+            "ano": 2022
           },
-          "trecho": "III - um do Conselho Federal de Enfermagem.",
-          "literal": "(Incluído pela Medida Provisória nº 1.067, de 2021)"
+          "trecho": "III - 1 (um) representante de entidade representativa de consumidores de planos de saúde;",
+          "literal": "(Incluído pela Lei nº 14.307, de 2022)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso IV",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.307",
+            "ano": 2022
+          },
+          "trecho": "IV - 1 (um) representante de entidade representativa dos prestadores de serviços na saúde suplementar;",
+          "literal": "(Incluído pela Lei nº 14.307, de 2022)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso V",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.307",
+            "ano": 2022
+          },
+          "trecho": "V - 1 (um) representante de entidade representativa das operadoras de planos privados de assistência à saúde;",
+          "literal": "(Incluído pela Lei nº 14.307, de 2022)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso VI",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.307",
+            "ano": 2022
+          },
+          "trecho": "VI - representantes de áreas de atuação profissional da saúde relacionadas ao evento ou procedimento sob análise.",
+          "literal": "(Incluído pela Lei nº 14.307, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 3º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.067",
-            "ano": 2021
+            "especie": "Lei",
+            "numero": "14.307",
+            "ano": 2022
           },
           "trecho": "…issão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar deverá apresentar relatório que considerará:",
-          "literal": "(Incluído pela Medida Provisória nº 1.067, de 2021)"
+          "literal": "(Incluído pela Lei nº 14.307, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso I",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.067",
-            "ano": 2021
+            "especie": "Lei",
+            "numero": "14.307",
+            "ano": 2022
           },
-          "trecho": "…produto ou do procedimento analisado, reconhecidas pelo órgão competente para o registro ou a para a autorização de uso;",
-          "literal": "(Incluído pela Medida Provisória nº 1.067, de 2021)"
+          "trecho": "…o produto ou do procedimento analisado, reconhecidas pelo órgão competente para o registro ou para a autorização de uso;",
+          "literal": "(Incluído pela Lei nº 14.307, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso II",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.067",
-            "ano": 2021
+            "especie": "Lei",
+            "numero": "14.307",
+            "ano": 2022
           },
           "trecho": "…os custos em relação às coberturas já previstas no rol de procedimentos e eventos em saúde suplementar, quando couber; e",
-          "literal": "(Incluído pela Medida Provisória nº 1.067, de 2021)"
+          "literal": "(Incluído pela Lei nº 14.307, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso III",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.067",
-            "ano": 2021
+            "especie": "Lei",
+            "numero": "14.307",
+            "ano": 2022
           },
           "trecho": "III - a análise de impacto financeiro da ampliação da cobertura no âmbito da saúde suplementar.",
-          "literal": "(Incluído pela Medida Provisória nº 1.067, de 2021)"
+          "literal": "(Incluído pela Lei nº 14.307, de 2022)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 4º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.307",
+            "ano": 2022
+          },
+          "trecho": "…ormação técnica suficiente para compreensão adequada das evidências científicas e dos critérios utilizados na avaliação.",
+          "literal": "(Incluído pela Lei nº 14.307, de 2022)"
         }
       ]
     },
@@ -2027,24 +1906,6 @@
           "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…nte, ouvidas as sociedades médicas de especialistas da área, publicados pela ANS. (Incluído pela Lei nº 12.880, de 2013)",
-          "literal": "(Vigência)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 5º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.880",
-            "ano": 2013
-          },
-          "trecho": "…ira fracionada por ciclo, observadas as normas estabelecidas pelos órgãos reguladores e de acordo com prescrição médica.",
-          "literal": "(Incluído pela Lei nº 12.880, de 2013)"
-        },
-        {
-          "tipo": "vigencia",
-          "unidade": "§ 5º",
-          "diploma": null,
-          "trecho": "… normas estabelecidas pelos órgãos reguladores e de acordo com prescrição médica. (Incluído pela Lei nº 12.880, de 2013)",
           "literal": "(Vigência)"
         },
         {
@@ -3354,15 +3215,15 @@
       "situacao": null,
       "eventos": [
         {
-          "tipo": "revogacao",
-          "unidade": "parágrafo único",
+          "tipo": "redacao",
+          "unidade": "caput",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "2.177-44",
             "ano": 2001
           },
-          "trecho": "…uir-se-ão em receitas da SUSEP. (Vide Medida Provisória nº 1.665, de 1998) (Vide Medida Provisória nº 1.908-20, de 1999)",
-          "literal": "(Revogado pela Medida Provisória nº 2.177-44, de 2001)"
+          "trecho": "…rte econômico da operadora ou prestadora de serviço e a gravidade da infração, ressalvado o disposto no § 6o do art. 19.",
+          "literal": "(Redação dada pela Medida Provisória nº 2.177-44, de 2001)"
         }
       ]
     },
@@ -3695,17 +3556,6 @@
           "tipo": "redacao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.177-44",
-            "ano": 2001
-          },
-          "trecho": "… quando esta possuir personalidade jurídica própria, e ao SUS, mediante tabela de procedimentos a ser aprovada pela ANS.",
-          "literal": "(Redação dada pela Medida Provisória nº 2.177-44, de 2001)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 1º",
-          "diploma": {
             "especie": "Lei",
             "numero": "12.469",
             "ano": 2011
@@ -3722,17 +3572,6 @@
             "ano": 2001
           },
           "trecho": "…do ressarcimento, a ANS disponibilizará às operadoras a discriminação dos procedimentos realizados para cada consumidor.",
-          "literal": "(Redação dada pela Medida Provisória nº 2.177-44, de 2001)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.177-44",
-            "ano": 2001
-          },
-          "trecho": "… pela ANS, creditando os valores correspondentes à entidade prestadora ou ao respectivo fundo de saúde, conforme o caso.",
           "literal": "(Redação dada pela Medida Provisória nº 2.177-44, de 2001)"
         },
         {
@@ -3799,17 +3638,6 @@
             "ano": 2001
           },
           "trecho": "§ 6o O produto da arrecadação dos juros e da multa de mora serão revertidos ao Fundo Nacional de Saúde.",
-          "literal": "(Incluído pela Medida Provisória nº 2.177-44, de 2001)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 7º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.177-44",
-            "ano": 2001
-          },
-          "trecho": "…as aplicáveis ao processo de glosa ou impugnação dos procedimentos encaminhados, conforme previsto no § 2o deste artigo.",
           "literal": "(Incluído pela Medida Provisória nº 2.177-44, de 2001)"
         },
         {
@@ -4356,17 +4184,6 @@
           },
           "trecho": "…arem risco imediato de vida ou de lesões irreparáveis para o paciente, caracterizado em declaração do médico assistente;",
           "literal": "(Redação dada pela Lei nº 11.935, de 2009)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "2.177-44",
-            "ano": 2001
-          },
-          "trecho": "II - de urgência, assim entendidos os resultantes de acidentes pessoais ou de complicações no processo gestacional.",
-          "literal": "(Incluído pela Medida Provisória nº 2.177-44, de 2001)"
         },
         {
           "tipo": "redacao",

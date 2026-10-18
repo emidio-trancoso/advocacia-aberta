@@ -26,7 +26,7 @@ python3 ferramentas/manutencao/auditar_base_juridica.py --json
 
 | Acervo | Arquivos principais | Quantidade observada | Tamanho ou cobertura |
 |---|---:|---:|---|
-| Legislação | 277 | 23.064 registros | 277 diplomas |
+| Legislação | 277 | 23.092 registros | 277 diplomas |
 | Súmulas | 3 | 1.475 registros | STJ, STF e vinculantes do STF |
 | Jurisprudência em Teses | 1 | 3.508 teses | 283 edições do STJ |
 | Temas repetitivos | 1 | 1.462 temas | STJ |
@@ -42,7 +42,7 @@ indicam geração do arquivo, não garantem a data de vigência do conteúdo.
 
 ## Legislação
 
-Todos os 23.064 registros legislativos possuem URL individual. Os metadados apontam
+Todos os 23.092 registros legislativos possuem URL individual. Os metadados apontam
 para páginas compiladas do Planalto.
 
 | Código | Diploma | Gerado em | Registros | Índice | Situação estrutural |
@@ -95,6 +95,18 @@ adaptador passou a tolerá-los. A recaptura dos diplomas do núcleo com a regra
 corrigida recuperou o art. 1.636 do CC (antes absorvido no art. 1.635) e
 reconciliou com a fonte oficial os arts. 554, 555, 571, 572 e 575 da CLT e o
 art. 67-B do CTB, que estavam retidos do snapshot legado sem rótulo.
+
+Em 17/10/2026 (`BASE-050`, relatado pela comunidade na issue #26) a transformação
+passou a reconhecer a redação anterior que o Planalto exibe **riscada** também
+quando a marca `<strike>` abre dentro do próprio parágrafo — o padrão das
+páginas não compiladas, 195 dos 277 diplomas. Até então esse texto entrava no
+artigo como texto comum, antes da redação vigente e sem marca (o art. 26, § 2º,
+da Lei 9.514 saía duas vezes, a revogada primeiro). Sob caput em vigor, o
+parágrafo riscado fica de fora e o artigo volta a trazer uma única redação por
+dispositivo, como o `BASE-044` declara; artigo inteiro riscado (revogado, sem
+substituto) segue retido com os seus parágrafos, e parágrafo riscado seguido de
+"(Revogado ...)" ou "(Vide ADIN ...)" fora da marca é preservado com a anotação.
+Detalhe e medição em [verificacoes/BASE-050.md](verificacoes/BASE-050.md).
 
 Os diplomas incorporados pela expansão (piloto de 8 leis e fatias do manifesto
 [`expansao/normas.json`](expansao/normas.json)) não possuem índice curado: a
@@ -234,7 +246,7 @@ tribunais.
 | `sumulas_keywords.json` | 676 súmulas STJ | 2026-07-19 | `tokens-significativos-v1` local, regenerado após a atualização das súmulas |
 | `sumulas_stf_keywords.json` | 736 súmulas STF | 2026-07-19 | `tokens-significativos-v1` local, regenerado após a atualização das súmulas |
 | `indices/lei_*_keywords.json` (277 arquivos) | 17.306 dispositivos fora dos índices curados; a união cobre os 23.090 em relação 1:1 | 2026-09-14 | `tokens-texto-integral-v1` local, regenerado após cada promoção de legislação |
-| `indices/lei_*_vigencia.json` (277 arquivos) | 32.342 anotações de alteração em 7.359 dispositivos: 872 artigos revogados, 395 vetados, 33 com vigência encerrada | 2026-09-14 | `anotacoes-planalto-v1` local, regenerado após cada promoção de legislação |
+| `indices/lei_*_vigencia.json` (277 arquivos) | 31.824 anotações de alteração em 7.381 dispositivos: 872 artigos revogados, 392 vetados, 31 com vigência encerrada | 2026-10-18 | `anotacoes-planalto-v1` local, regenerado após cada promoção de legislação |
 
 São dados derivados para recuperação, não fontes jurídicas. Desde o `BASE-010`
 (súmulas) e o `BASE-019` (legislação), o repositório contém gerador, manifesto,

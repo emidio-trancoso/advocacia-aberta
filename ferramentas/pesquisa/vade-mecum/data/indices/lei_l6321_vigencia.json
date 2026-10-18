@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l6321.json",
       "colecao": "artigos",
-      "sha256": "38e2b533baf50e8a6d869c8ae113d4c3860cf0d6d570bcd86a6180435c37caf4",
+      "sha256": "00104e62cd7d976e66b74a538983ea7d18600e36a2b925a626d662cfea8f9d9a",
       "total_registros": 7,
-      "gerado_em": "2026-08-21T22:36:34+00:00"
+      "gerado_em": "2026-10-18T12:50:02+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 4,
-      "anotacoes": 32,
+      "anotacoes": 23,
       "anotacoes_sem_diploma_nomeado": 1
     }
   },
@@ -49,72 +49,6 @@
           },
           "trecho": "…Ministério do Trabalho e Previdência, na forma e de acordo com os limites dispostos no decreto que regulamenta esta Lei.",
           "literal": "(Redação dada pela Lei nº 14.442, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 3º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.108",
-            "ano": 2022
-          },
-          "trecho": "…ições em restaurantes e estabelecimentos similares e a aquisição de gêneros alimentícios em estabelecimentos comerciais.",
-          "literal": "(Incluído pela Medida Provisória nº 1.108, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.108",
-            "ano": 2022
-          },
-          "trecho": "§ 4º As pessoas jurídicas beneficiárias não poderão exigir ou receber:",
-          "literal": "(Incluído pela Medida Provisória nº 1.108, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.108",
-            "ano": 2022
-          },
-          "trecho": "I - qualquer tipo de deságio ou imposição de descontos sobre o valor contratado;",
-          "literal": "(Incluído pela Medida Provisória nº 1.108, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.108",
-            "ano": 2022
-          },
-          "trecho": "… repasse ou pagamento que descaracterizem a natureza pré-paga dos valores a serem disponibilizados aos trabalhadores; ou",
-          "literal": "(Incluído pela Medida Provisória nº 1.108, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.108",
-            "ano": 2022
-          },
-          "trecho": "…o trabalhador, no âmbito do contrato firmado com empresas emissoras de instrumentos de pagamento de auxílio-alimentação.",
-          "literal": "(Incluído pela Medida Provisória nº 1.108, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 5º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.108",
-            "ano": 2022
-          },
-          "trecho": "…ação de que trata o § 4º terá vigência conforme definido em regulamento para os programas de alimentação do trabalhador.",
-          "literal": "(Incluído pela Medida Provisória nº 1.108, de 2022)"
         },
         {
           "tipo": "inclusao",
@@ -199,17 +133,6 @@
           "literal": "(Incluído pela Lei nº 14.442, de 2022)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "14.442",
-            "ano": 2022
-          },
-          "trecho": "…mente, com o objetivo de compartilhar a rede credenciada de estabelecimentos comerciais, a partir de 1º de maio de 2023;",
-          "literal": "(Incluído pela Lei nº 14.442, de 2022)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "inciso I",
           "diploma": {
@@ -230,28 +153,6 @@
           },
           "trecho": "…mente, com o objetivo de compartilhar a rede credenciada de estabelecimentos comerciais, a partir de 1º de maio de 2023;",
           "literal": "(Incluído pela Lei nº 14.442, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "14.442",
-            "ano": 2022
-          },
-          "trecho": "…ão expressa do trabalhador, além de outras normas fixadas em decreto do Poder Executivo, a partir de 1º de maio de 2023;",
-          "literal": "(Incluído pela Lei nº 14.442, de 2022)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.173",
-            "ano": 2023
-          },
-          "trecho": "…icitação expressa do trabalhador, conforme o disposto em ato do Poder Executivo federal, a partir de 1º de maio de 2024;",
-          "literal": "(Redação dada pela Medida Provisória nº 1.173, de 2023)"
         },
         {
           "tipo": "inclusao",
@@ -329,78 +230,78 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.108",
+            "especie": "Lei",
+            "numero": "14.442",
             "ano": 2022
           },
-          "trecho": "…o Trabalho e Previdência, sem prejuízo da aplicação de outras penalidades cabíveis pelos órgãos competentes, acarretará:",
-          "literal": "(Incluído pela Medida Provisória nº 1.108, de 2022)"
+          "trecho": "… Trabalho e Previdência, sem prejuízo da aplicação de outras penalidades cabíveis pelos órgãos competentes, acarretarão:",
+          "literal": "(Incluído pela Lei nº 14.442, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso I",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.108",
+            "especie": "Lei",
+            "numero": "14.442",
             "ano": 2022
           },
-          "trecho": "…o mil reais) a R$ 50.000,00 (cinquenta mil reais), aplicada em dobro em caso de reincidência ou embaraço à fiscalização;",
-          "literal": "(Incluído pela Medida Provisória nº 1.108, de 2022)"
+          "trecho": "…R$ 50.000,00 (cinquenta mil reais), a qual será aplicada em dobro em caso de reincidência ou de embaraço à fiscalização;",
+          "literal": "(Incluído pela Lei nº 14.442, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso II",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.108",
+            "especie": "Lei",
+            "numero": "14.442",
             "ano": 2022
           },
           "trecho": "…revidência, desde a data da primeira irregularidade passível de cancelamento, conforme estabelecido em ato específico; e",
-          "literal": "(Incluído pela Medida Provisória nº 1.108, de 2022)"
+          "literal": "(Incluído pela Lei nº 14.442, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso III",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.108",
+            "especie": "Lei",
+            "numero": "14.442",
             "ano": 2022
           },
-          "trecho": "…II - a perda do incentivo fiscal da pessoa jurídica beneficiária, em consequência do cancelamento previsto no inciso II.",
-          "literal": "(Incluído pela Medida Provisória nº 1.108, de 2022)"
+          "trecho": "… do incentivo fiscal da pessoa jurídica beneficiária, em consequência do cancelamento previsto no inciso II deste caput.",
+          "literal": "(Incluído pela Lei nº 14.442, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.108",
+            "especie": "Lei",
+            "numero": "14.442",
             "ano": 2022
           },
-          "trecho": "…dação da multa prevista no inciso I do caput serão estabelecidos em ato do Ministro de Estado do Trabalho e Previdência.",
-          "literal": "(Incluído pela Medida Provisória nº 1.108, de 2022)"
+          "trecho": "…a prevista no inciso I do caput deste artigo serão estabelecidos em ato do Ministro de Estado do Trabalho e Previdência.",
+          "literal": "(Incluído pela Lei nº 14.442, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 2º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.108",
+            "especie": "Lei",
+            "numero": "14.442",
             "ano": 2022
           },
-          "trecho": "…limentação do trabalhador, e a empresa que o credenciou, sujeitam-se à aplicação da multa prevista no inciso I do caput.",
-          "literal": "(Incluído pela Medida Provisória nº 1.108, de 2022)"
+          "trecho": "…do trabalhador e a empresa que o credenciou sujeitam-se à aplicação da multa prevista no inciso I do caput deste artigo.",
+          "literal": "(Incluído pela Lei nº 14.442, de 2022)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 3º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.108",
+            "especie": "Lei",
+            "numero": "14.442",
             "ano": 2022
           },
-          "trecho": "…to ao Ministério do Trabalho e Previdência somente poderá ser pleiteado decorrido o prazo a ser definido em regulamento.",
-          "literal": "(Incluído pela Medida Provisória nº 1.108, de 2022)"
+          "trecho": "…nte o Ministério do Trabalho e Previdência somente poderá ser pleiteado decorrido o prazo a ser definido em regulamento.",
+          "literal": "(Incluído pela Lei nº 14.442, de 2022)"
         }
       ]
     }

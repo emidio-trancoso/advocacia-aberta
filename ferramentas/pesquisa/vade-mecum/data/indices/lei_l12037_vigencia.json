@@ -23,35 +23,19 @@
     "fonte": {
       "arquivo": "lei_l12037.json",
       "colecao": "artigos",
-      "sha256": "57bf0ffe27ef88b24d2bc7fd784357b2a2c2d64d96d98e7ee5bee2201e8ff1db",
+      "sha256": "873883eca7c3022869d7ebd64540a28a96d77a6967fb35e21abe3a7d456c6124",
       "total_registros": 13,
-      "gerado_em": "2026-09-14T13:56:06+00:00"
+      "gerado_em": "2026-10-18T12:49:55+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 7,
-      "anotacoes": 29,
+      "artigos_com_anotacao": 6,
+      "anotacoes": 27,
       "anotacoes_sem_diploma_nomeado": 0
     }
   },
   "vigencia": {
-    "2": {
-      "situacao": null,
-      "eventos": [
-        {
-          "tipo": "revogacao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "905",
-            "ano": 2019
-          },
-          "trecho": "II – carteira de trabalho;",
-          "literal": "(Revogado pela Medida Provisória nº 905, de 2019)"
-        }
-      ]
-    },
     "3": {
       "situacao": null,
       "eventos": [
@@ -115,17 +99,6 @@
     "5": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "inclusao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.654",
-            "ano": 2012
-          },
-          "trecho": "…V do art. 3o, a identificação criminal poderá incluir a coleta de material biológico para a obtenção do perfil genético.",
-          "literal": "(Incluído pela Lei nº 12.654, de 2012)"
-        },
         {
           "tipo": "inclusao",
           "unidade": "§ 1º",

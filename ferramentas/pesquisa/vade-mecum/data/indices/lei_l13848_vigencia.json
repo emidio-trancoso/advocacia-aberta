@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l13848.json",
       "colecao": "artigos",
-      "sha256": "dc101b625f58a69c29baed7720bb243e59b56bf22922e0a5e448e14781dcebe2",
+      "sha256": "face199e981c9edcdc481b33e51adef15f9f27a8ddc0f8690b9178b2aa2b9890",
       "total_registros": 53,
-      "gerado_em": "2026-08-21T22:36:29+00:00"
+      "gerado_em": "2026-10-18T12:49:37+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 8,
-      "anotacoes": 15,
+      "anotacoes": 14,
       "anotacoes_sem_diploma_nomeado": 13
     }
   },
@@ -39,17 +39,6 @@
     "2": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XII",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.317",
-            "ano": 2025
-          },
-          "trecho": "XII - a Agência Nacional de Proteção de Dados (ANPD).",
-          "literal": "(Incluído pela Medida Provisória nº 1.317, de 2025)"
-        },
         {
           "tipo": "redacao",
           "unidade": "inciso XII",

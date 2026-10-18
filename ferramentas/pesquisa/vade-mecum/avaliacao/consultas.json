@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "descricao": "Consultas e julgamentos de relevância para regressão da recuperação local do Vade Mecum.",
-  "avaliado_em": "2026-07-19",
+  "avaliado_em": "2026-10-18",
   "top_k": 5,
   "limiares": {
     "precisao_at_k": 0.75,
@@ -1508,12 +1508,13 @@
         "INF_0857_009",
         "INF_1121_009",
         "INF_1037_012",
-        "INF_1047_007"
+        "INF_1047_007",
+        "INF_1228_005"
       ],
       "obrigatorios": [
         "INF_0857_009"
       ],
-      "justificativa": "Julgados do Informativo sobre a composição da base de cálculo do PIS/COFINS (ICMS, IPI, crédito de IPI e parcela não dedutível); a CPRB (contribuição sobre receita bruta, base distinta) foi excluída."
+      "justificativa": "Julgados do Informativo sobre a composição da base de cálculo do PIS/COFINS (ICMS, IPI, crédito de IPI, parcela não dedutível e, desde a edição 1228, de 02/09/2026, as receitas de aplicações financeiras das reservas técnicas de seguradoras — RE 1.479.774); a CPRB (contribuição sobre receita bruta, base distinta) foi excluída."
     },
     {
       "id": "inf-execucao-provisoria-pena",
@@ -1773,6 +1774,66 @@
         "JT_279_T03"
       ],
       "justificativa": "O acervo escreve as duas formas: JT_069_T19 e JT_111_T07 nomeiam o WhatsApp e saem na busca direta; JT_279_T03 e JT_279_T04 dizem apenas 'conversas em aplicativos de mensagens' e só aparecem pela equivalência declarada. O obrigatório é a tese que a busca direta não alcança."
+    },
+    {
+      "id": "cp-furto-combustiveis",
+      "grupo": "legislacao",
+      "consulta": "furto de petróleo derivados gás natural combustíveis",
+      "filtro": {
+        "codigo": "CP"
+      },
+      "relevantes": [
+        "CP:155"
+      ],
+      "obrigatorios": [
+        "CP:155"
+      ],
+      "justificativa": "A Lei nº 15.517/2026 incluiu os §§ 10 a 12 no art. 155 do CP (furto de petróleo e derivados, gás natural, etanol e demais combustíveis, com pena própria e causas de aumento). O roubo da mesma mercadoria (art. 157, § 2º, XI) é crime distinto e fica fora da consulta sobre furto. Caso acrescentado na recoleta de 18/10/2026, que trouxe o dispositivo."
+    },
+    {
+      "id": "cf-agentes-comunitarios-saude",
+      "grupo": "legislacao",
+      "consulta": "agentes comunitários de saúde agentes de combate às endemias",
+      "filtro": {
+        "codigo": "CF"
+      },
+      "relevantes": [
+        "CF:198"
+      ],
+      "obrigatorios": [
+        "CF:198"
+      ],
+      "justificativa": "O art. 198 da CF concentra o regime dos agentes comunitários de saúde e de combate às endemias (§§ 4º a 11), ampliado pela Emenda Constitucional nº 140, de 2026 com o inciso IV e os §§ 4º-A e 4º-B. Caso acrescentado na recoleta de 18/10/2026, que trouxe os dispositivos novos."
+    },
+    {
+      "id": "cf-jornada-quarenta-horas",
+      "grupo": "legislacao",
+      "consulta": "duração do trabalho oito horas diárias quarenta horas semanais",
+      "filtro": {
+        "codigo": "CF"
+      },
+      "relevantes": [
+        "CF:7"
+      ],
+      "obrigatorios": [
+        "CF:7"
+      ],
+      "justificativa": "A Emenda Constitucional nº 141/2026 deu nova redação ao art. 7º, XIII, da CF (jornada normal de 8 horas diárias e 40 semanais) e acrescentou os §§ 1º a 3º sobre regimes diferenciados por negociação coletiva e por lei. Caso acrescentado na recoleta de 18/10/2026, que trouxe a nova redação."
+    },
+    {
+      "id": "ctb-categoria-b-eletrico",
+      "grupo": "legislacao",
+      "consulta": "condutor categoria B veículo elétrico híbrido peso bruto total",
+      "filtro": {
+        "codigo": "CTB"
+      },
+      "relevantes": [
+        "CTB:143"
+      ],
+      "obrigatorios": [
+        "CTB:143"
+      ],
+      "justificativa": "O § 2º-A do art. 143 do CTB autoriza o condutor da categoria B a conduzir veículo de propulsão elétrica ou híbrida com peso bruto total de até 4.250 kg. Caso acrescentado na recoleta de 18/10/2026, que trouxe o dispositivo."
     }
   ]
 }

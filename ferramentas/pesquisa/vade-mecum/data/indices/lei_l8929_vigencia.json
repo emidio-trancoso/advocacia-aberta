@@ -23,19 +23,101 @@
     "fonte": {
       "arquivo": "lei_l8929.json",
       "colecao": "artigos",
-      "sha256": "f0237df5ac2b745a2a2149300ec1f79b28f56dec294f4a81132a5658c77181a1",
+      "sha256": "a18a51473de8dbe3de983f5a6c95f2ea67c68fd99529c520c197fa7f1c58b49d",
       "total_registros": 28,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:49:49+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 15,
-      "anotacoes": 77,
-      "anotacoes_sem_diploma_nomeado": 2
+      "artigos_com_anotacao": 18,
+      "anotacoes": 94,
+      "anotacoes_sem_diploma_nomeado": 5
     }
   },
   "vigencia": {
+    "1": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 1º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
+          },
+          "trecho": "§ 1º Fica permitida a liquidação financeira da CPR, desde que observadas as condições estipuladas nesta Lei.",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
+          },
+          "trecho": "§ 2º Para os efeitos desta Lei, produtos rurais são aqueles obtidos nas atividades:",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "inciso I",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.421",
+            "ano": 2022
+          },
+          "trecho": "… subprodutos e resíduos de valor econômico, inclusive quando submetidos a beneficiamento ou a primeira industrialização;",
+          "literal": "(Redação dada pela Lei nº 14.421, de 2022)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "inciso II",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.421",
+            "ano": 2022
+          },
+          "trecho": "…ços ambientais na propriedade rural ou que vierem a ser definidas pelo Poder Executivo como ambientalmente sustentáveis;",
+          "literal": "(Redação dada pela Lei nº 14.421, de 2022)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso III",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.421",
+            "ano": 2022
+          },
+          "trecho": "III - de industrialização dos produtos resultantes das atividades relacionadas no inciso I deste parágrafo;",
+          "literal": "(Incluído pela Lei nº 14.421, de 2022)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso IV",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.421",
+            "ano": 2022
+          },
+          "trecho": "…odução ou de comercialização de insumos agrícolas, de máquinas e implementos agrícolas e de equipamentos de armazenagem.",
+          "literal": "(Incluído pela Lei nº 14.421, de 2022)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 3º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
+          },
+          "trecho": "…der Executivo poderá regulamentar o disposto neste artigo, inclusive relacionar os produtos passíveis de emissão de CPR.",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
+        }
+      ]
+    },
     "2": {
       "situacao": null,
       "eventos": [
@@ -73,17 +155,6 @@
           "literal": "(Incluído pela Lei nº 14.421, de 2022)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.986",
-            "ano": 2020
-          },
-          "trecho": "…u plantada ou que beneficiem ou promovam a primeira industrialização dos produtos rurais referidos no art. 1º desta Lei.",
-          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
-        },
-        {
           "tipo": "revogacao",
           "unidade": "§ 1º",
           "diploma": null,
@@ -100,17 +171,6 @@
           },
           "trecho": "§ 1º (Revogado).",
           "literal": "(Redação dada pela Lei nº 14.421, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.986",
-            "ano": 2020
-          },
-          "trecho": "…cado o disposto no inciso V do caput do art. 3º da Lei nº 11.033, de 21 de dezembro 2004, nem quaisquer outras isenções.",
-          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "redacao",
@@ -140,17 +200,6 @@
       "situacao": null,
       "eventos": [
         {
-          "tipo": "redacao",
-          "unidade": "inciso VI",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
-          },
-          "trecho": "VI - descrição dos bens vinculados em garantia por cédula e das garantias pessoais existentes;",
-          "literal": "(Redação dada pela Medida Provisória nº 897, de 2019)"
-        },
-        {
           "tipo": "inclusao",
           "unidade": "inciso IX",
           "diploma": {
@@ -171,50 +220,6 @@
           },
           "trecho": "X - critérios adotados para obtenção do valor de liquidação da cédula.",
           "literal": "(Incluído pela Lei nº 13.986, de 2020)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.986",
-            "ano": 2020
-          },
-          "trecho": "…utenticação emitido por dispositivo pessoal e intransferível, inclusive para fins de validade, eficácia e executividade.",
-          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.104",
-            "ano": 2022
-          },
-          "trecho": "…ura eletrônica que serão admitidos para fins de validade, eficácia e executividade, observadas as seguintes disposições:",
-          "literal": "(Redação dada pela Medida Provisória nº 1.104, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.104",
-            "ano": 2022
-          },
-          "trecho": "…nculados em garantia, se houver, será admitida a utilização de assinatura eletrônica simples, avançada ou qualificada; e",
-          "literal": "(Incluído pela Medida Provisória nº 1.104, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.104",
-            "ano": 2022
-          },
-          "trecho": "…real constituída por bens móveis e imóveis, será admitida a utilização de assinatura eletrônica avançada ou qualificada.",
-          "literal": "(Incluído pela Medida Provisória nº 1.104, de 2022)"
         },
         {
           "tipo": "redacao",
@@ -291,45 +296,56 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "Art. 3º-A A CPR poderá ser emitida sob a forma cartular ou escritural.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "Art. 3º-A. A CPR poderá ser emitida sob a forma cartular ou escritural.",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
           "trecho": "…ônico de escrituração gerido por entidade autorizada pelo Banco Central do Brasil a exercer a atividade de escrituração.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 2º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "…l enquanto permanecer depositada em depositário central, nos termos do disposto na Lei nº 12.810, de 15 de maio de 2013.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "… Banco Central do Brasil a exercer a atividade de depósito centralizado de ativos financeiros ou de valores mobiliários.",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 3º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "…durante o período em que a CPR emitida sob a forma cartular estiver depositada não serão transcritos no verso do título.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "…a não serão transcritos no verso do título, cabendo ao sistema referido no § 1º deste artigo o controle da titularidade.",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 4º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
+          },
+          "trecho": "… para os fins de registro e de depósito em entidades autorizadas pelo Banco Central do Brasil a exercer tais atividades.",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         }
       ]
     },
@@ -340,67 +356,89 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "Art. 3º-B Compete ao Banco Central do Brasil:",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "Art. 3º-B. Compete ao Banco Central do Brasil:",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso I",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "I - estabelecer as condições para o exercício da atividade de escrituração de que trata o § 1º do art. 3º-A; e",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "I - estabelecer as condições para o exercício da atividade de escrituração de que trata o § 1º do art. 3º-A desta Lei; e",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso II",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "II - autorizar e supervisionar o exercício da atividade prevista no inciso I.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "II - autorizar e supervisionar o exercício da atividade prevista no inciso I do caput deste artigo.",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
           "trecho": "…o, por espécie ou por grupos de entidades que atendam a critérios específicos, dispensada a autorização individualizada.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 2º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "…edirá, mediante solicitação, certidão de inteiro teor do título, inclusive para fins de protesto e de execução judicial.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "§ 2º A entidade de que trata o § 1º do art. 3º-A desta Lei deverá expedir, mediante solicitação:",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso I",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
+          },
+          "trecho": "…título, inclusive para fins de protesto, de procedimento extrajudicial ou de medida judicial, mesmo contra garantidores;",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso II",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
+          },
+          "trecho": "II - certidão de registro de cédulas escrituradas em nome do emitente e garantidor, quando aplicável.",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "§ 3º",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "…da na forma eletrônica, observados os requisitos de segurança que garantam a autenticidade e a integridade do documento.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "…segurança que garantam a autenticidade e a integridade do documento, que lhe conferem liquidez, certeza e exigibilidade.",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         }
       ]
     },
@@ -411,67 +449,100 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "Art. 3º-C O sistema de que trata o § 1º do art. 3º-A registrará:",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "Art. 3º-C. O sistema eletrônico de escrituração de que trata o § 1º do art. 3º-A desta Lei fará constar:",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso I",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "I - a emissão do título com seus requisitos essenciais;",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "I - os requisitos essenciais do título;",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso II",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "II - o endosso;",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "II - as transferências de titularidade realizadas;",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso III",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "III - os aditamentos, as ratificações e as retificações; e",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "III - os aditamentos, as ratificações e as retificações;",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso IV",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "IV - a inclusão de notificações, de cláusulas contratuais e de outras informações..",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "IV - a inclusão de notificações, de cláusulas contratuais e de outras informações;",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso V",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
+          },
+          "trecho": "V - a forma de liquidação de entrega ajustada no título;",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso VI",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
+          },
+          "trecho": "VI - a entrega ou pagamento em até 30 (trinta) dias após suas ocorrências; e",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso VII",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
+          },
+          "trecho": "VII - as garantias do título.",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "parágrafo único",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "…pótese de serem constituídos gravames e ônus, tal ocorrência será informada no sistema de que trata o § 1º do art. 3º-A.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "…ão de ônus e gravames sobre o título, deverão ser informadas no sistema ao qual se refere o § 1º do art. 3º-A desta Lei.",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         }
       ]
     },
@@ -482,23 +553,23 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
           "trecho": "…utorizada pelo Banco Central do Brasil a exercer a atividade de registro ou depósito centralizado de ativos financeiros.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "parágrafo único",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "…o e seguro, ou relativas a títulos ou valores mobiliários, na hipótese de ocorrência da negociação de que trata o caput.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "…u relativas a títulos ou valores mobiliários, na hipótese de ocorrência da negociação de que trata o caput deste artigo.",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         }
       ]
     },
@@ -509,12 +580,28 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
           "trecho": "…radores e os membros de seus órgãos estatutários ou contratuais ao disposto na Lei nº 13.506, de 13 de novembro de 2017.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
+        }
+      ]
+    },
+    "4": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "inclusao",
+          "unidade": "parágrafo único",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
+          },
+          "trecho": "… parcelada, hipótese em que as condições e o cronograma de cumprimento das obrigações deverão estar previstos no título.",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         }
       ]
     },
@@ -522,15 +609,70 @@
       "situacao": null,
       "eventos": [
         {
+          "tipo": "redacao",
+          "unidade": "inciso I",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.421",
+            "ano": 2022
+          },
+          "trecho": "… a instituição responsável por sua apuração ou divulgação, a praça ou o mercado de formação do preço e o nome do índice;",
+          "literal": "(Redação dada pela Lei nº 14.421, de 2022)"
+        },
+        {
           "tipo": "inclusao",
-          "unidade": "caput",
+          "unidade": "inciso II",
           "diploma": {
             "especie": "Lei",
             "numero": "10.200",
             "ano": 2001
           },
-          "trecho": "… 4o-A. Fica permitida a liquidação financeira da CPR de que trata esta Lei, desde que observadas as seguintes condições:",
+          "trecho": "…ária, e ampla divulgação ou facilidade de acesso, de forma a estarem facilmente disponíveis para as partes contratantes;",
           "literal": "(Incluído pela Lei nº 10.200, de 2001)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso III",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "10.200",
+            "ano": 2001
+          },
+          "trecho": "III - que seja caracterizada por seu nome, seguido da expressão \"financeira\".",
+          "literal": "(Incluído pela Lei nº 10.200, de 2001)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "10.200",
+            "ano": 2001
+          },
+          "trecho": "§ 2o Para cobrança da CPR com liquidação financeira, cabe ação de execução por quantia certa.",
+          "literal": "(Incluído pela Lei nº 10.200, de 2001)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 3º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
+          },
+          "trecho": "…er emitida com cláusula de correção pela variação cambial, podendo o Conselho Monetário Nacional regulamentar o assunto.",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 4º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.421",
+            "ano": 2022
+          },
+          "trecho": "… com liquidação financeira quando se tratar dos produtos relacionados nos incisos III e IV do § 2º do art. 1º desta Lei.",
+          "literal": "(Incluído pela Lei nº 14.421, de 2022)"
         }
       ]
     },
@@ -541,23 +683,82 @@
           "tipo": "inclusao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
           "trecho": "…Sistema de Pagamentos Brasileiro, constituirá prova de pagamento total ou parcial da CPR emitida sob a forma escritural.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "inclusao",
           "unidade": "parágrafo único",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "897",
-            "ano": 2019
+            "especie": "Lei",
+            "numero": "13.986",
+            "ano": 2020
           },
-          "trecho": "…tema eletrônico de escrituração de que trata o § 1º do art. 3º-A, com referência expressa à CPR amortizada ou liquidada.",
-          "literal": "(Incluído pela Medida Provisória nº 897, de 2019)"
+          "trecho": "…ônico de escrituração de que trata o § 1º do art. 3º-A desta Lei, com referência expressa à CPR amortizada ou liquidada.",
+          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
+        }
+      ]
+    },
+    "5": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "revogacao",
+          "unidade": "inciso I",
+          "diploma": null,
+          "trecho": "I -",
+          "literal": "(revogado)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "inciso II",
+          "diploma": null,
+          "trecho": "II -",
+          "literal": "(revogado)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "inciso III",
+          "diploma": null,
+          "trecho": "III -",
+          "literal": "(revogado)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 1º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.421",
+            "ano": 2022
+          },
+          "trecho": "…is dados em garantia fiduciária a sua atividade empresarial deverá constar na cédula a partir do momento de sua emissão.",
+          "literal": "(Redação dada pela Lei nº 14.421, de 2022)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.421",
+            "ano": 2022
+          },
+          "trecho": "… ser constituídas por instrumento público ou particular, independentemente do seu valor ou do valor do título garantido.",
+          "literal": "(Incluído pela Lei nº 14.421, de 2022)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 3º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.421",
+            "ano": 2022
+          },
+          "trecho": "…mo instrumento para fixar limite de crédito e garantir dívida futura concedida por meio de outras CPRs a ela vinculadas.",
+          "literal": "(Incluído pela Lei nº 14.421, de 2022)"
         }
       ]
     },
@@ -666,17 +867,6 @@
           },
           "trecho": "…do Brasil a exercer a atividade de registro ou de depósito centralizado de ativos financeiros ou de valores mobiliários.",
           "literal": "(Incluído pela Lei nº 14.421, de 2022)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 4º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.986",
-            "ano": 2020
-          },
-          "trecho": "…ação fiduciária sobre bem móvel, será averbada no cartório de registro de títulos e documentos do domicílio do emitente.",
-          "literal": "(Incluído pela Lei nº 13.986, de 2020)"
         },
         {
           "tipo": "redacao",

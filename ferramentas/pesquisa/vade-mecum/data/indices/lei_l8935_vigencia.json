@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l8935.json",
       "colecao": "artigos",
-      "sha256": "373a57013c4718c8bc2bd68b489a49ed0ad90365dab867bf01fa7c723108af94",
+      "sha256": "0aea4c3c0d897cafdc77ccde52cf9ef2d46ff1691dd4cc99b2ea0c10eafb6970",
       "total_registros": 58,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:49:41+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 15,
-      "anotacoes": 48,
+      "artigos_com_anotacao": 16,
+      "anotacoes": 46,
       "anotacoes_sem_diploma_nomeado": 13
     }
   },
@@ -404,28 +404,6 @@
           "tipo": "redacao",
           "unidade": "inciso XIV",
           "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.085",
-            "ano": 2021
-          },
-          "trecho": "XIV - observar as normas técnicas estabelecidas pelo juízo competente; e",
-          "literal": "(Redação dada pela Medida Provisória nº 1.085, de 2021)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso XV",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.085",
-            "ano": 2021
-          },
-          "trecho": "…os emolumentos, das custas e das despesas por meios eletrônicos, a critério do usuário, inclusive mediante parcelamento.",
-          "literal": "(Incluído pela Medida Provisória nº 1.085, de 2021)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso XIV",
-          "diploma": {
             "especie": "Lei",
             "numero": "14.382",
             "ano": 2022
@@ -443,6 +421,22 @@
           },
           "trecho": "… dos emolumentos, das custas e das despesas por meio eletrônico, a critério do usuário, inclusive mediante parcelamento.",
           "literal": "(Incluído pela Lei nº 14.382, de 2022)"
+        }
+      ]
+    },
+    "34": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "inclusao",
+          "unidade": "parágrafo único",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.509",
+            "ano": 2026
+          },
+          "trecho": "…contados a partir da ocorrência do fato ou, no caso de infrações permanentes, do dia em que tiver cessado a permanência.",
+          "literal": "(Incluído pela Lei nº 15.509, de 2026)"
         }
       ]
     },
@@ -511,7 +505,7 @@
       ]
     },
     "42-A": {
-      "situacao": "revogado",
+      "situacao": null,
       "eventos": [
         {
           "tipo": "inclusao",
@@ -523,17 +517,6 @@
           },
           "trecho": "…gratuidades pelos serviços de natureza complementar que prestam e disponibilizam aos seus usuários de forma facultativa.",
           "literal": "(Incluído pela Lei nº 14.206, de 2021)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "caput",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "1.085",
-            "ano": 2021
-          },
-          "trecho": "…complementar que prestam e disponibilizam aos seus usuários de forma facultativa. (Incluído pela Lei nº 14.206, de 2021)",
-          "literal": "(Revogado Pela Medida Provisória nº 1.085, de 2021)"
         }
       ]
     },

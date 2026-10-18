@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_lmp.json",
       "colecao": "artigos",
-      "sha256": "093e9da49cd98f9905eff2ebe63de2609b2b42e34c574d3f6f90c718bf3069e5",
+      "sha256": "4ad72e06128b0d60f576bb0ff388602a41067e0c99d8f5d6dce89eaa19088278",
       "total_registros": 57,
-      "gerado_em": "2026-09-14T13:55:51+00:00"
+      "gerado_em": "2026-10-18T12:46:46+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 21,
-      "anotacoes": 76,
+      "anotacoes": 73,
       "anotacoes_sem_diploma_nomeado": 5
     }
   },
@@ -677,17 +677,6 @@
           "literal": "(Redação dada pela Lei nº 15.412, de 2026)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "§ 5º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "15.125",
-            "ano": 2025
-          },
-          "trecho": "…monitoração eletrônica, disponibilizando-se à vítima dispositivo de segurança que alerte sobre sua eventual aproximação.",
-          "literal": "(Incluído pela Lei nº 15.125, de 2025)"
-        },
-        {
           "tipo": "revogacao",
           "unidade": "§ 5º",
           "diploma": null,
@@ -804,17 +793,6 @@
           "literal": "(Incluído pela Lei nº 13.641, de 2018)"
         },
         {
-          "tipo": "inclusao",
-          "unidade": "caput",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.641",
-            "ano": 2018
-          },
-          "trecho": "Pena – detenção, de 3 (três) meses a 2 (dois) anos.",
-          "literal": "(Incluído pela Lei nº 13.641, de 2018)"
-        },
-        {
           "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
@@ -899,17 +877,6 @@
             "ano": 2019
           },
           "trecho": "Art. 38-A. O juiz competente providenciará o registro da medida protetiva de urgência.",
-          "literal": "(Incluído pela Lei nº 13.827, de 2019)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.827",
-            "ano": 2019
-          },
-          "trecho": "…s órgãos de segurança pública e de assistência social, com vistas à fiscalização e à efetividade das medidas protetivas.",
           "literal": "(Incluído pela Lei nº 13.827, de 2019)"
         },
         {

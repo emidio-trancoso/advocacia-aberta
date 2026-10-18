@@ -23,17 +23,45 @@
     "fonte": {
       "arquivo": "lei_l6533.json",
       "colecao": "artigos",
-      "sha256": "fcb385a7ecf519b735f3756e2997999e22c66619178dbd6567f9dba41527de1b",
+      "sha256": "d87803836ef211b6d859cfd77fe58fdecc589fe0a500bbe65aab7bce1744485a",
       "total_registros": 37,
-      "gerado_em": "2026-08-21T22:36:34+00:00"
+      "gerado_em": "2026-10-18T12:50:02+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 0,
-      "anotacoes": 0,
+      "artigos_com_anotacao": 1,
+      "anotacoes": 2,
       "anotacoes_sem_diploma_nomeado": 0
     }
   },
-  "vigencia": {}
+  "vigencia": {
+    "33": {
+      "situacao": "revogado",
+      "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Medida Provisória",
+            "numero": "905",
+            "ano": 2019
+          },
+          "trecho": "… do caput do art. 634-A da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943.",
+          "literal": "(Redação dada pela Medida Provisória nº 905, de 2019)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Medida Provisória",
+            "numero": "955",
+            "ano": 2020
+          },
+          "trecho": "…abalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943. (Redação dada pela Medida Provisória nº 905, de 2019)",
+          "literal": "(Revogada pela Medida Provisória nº 955, de 2020)"
+        }
+      ]
+    }
+  }
 }

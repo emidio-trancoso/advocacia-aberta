@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_lgt.json",
       "colecao": "artigos",
-      "sha256": "1fe160222c30adc7c373a6b0e8a7843552170d2c5e7d61ac6fafb3b06235f9ef",
+      "sha256": "360da284b0b61059f98bbbbbd702da686abab12c5be19cd78aedb40997edc5de",
       "total_registros": 221,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:50:00+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 44,
-      "anotacoes": 88,
-      "anotacoes_sem_diploma_nomeado": 4
+      "artigos_com_anotacao": 46,
+      "anotacoes": 95,
+      "anotacoes_sem_diploma_nomeado": 7
     }
   },
   "vigencia": {
@@ -552,6 +552,22 @@
         }
       ]
     },
+    "74": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.116",
+            "ano": 2015
+          },
+          "trecho": "…adora do atendimento às normas de engenharia e às leis municipais, estaduais ou distritais relativas à construção civil.",
+          "literal": "(Redação dada pela Lei nº 13.116, de 2015)"
+        }
+      ]
+    },
     "76": {
       "situacao": null,
       "eventos": [
@@ -793,26 +809,51 @@
       "situacao": null,
       "eventos": [
         {
+          "tipo": "redacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.879",
+            "ano": 2019
+          },
+          "trecho": "… obtenção de autorização de serviço a disponibilidade de radiofrequência necessária, no caso de serviços que a utilizem.",
+          "literal": "(Redação dada pela Lei nº 13.879, de 2019)"
+        },
+        {
           "tipo": "revogacao",
+          "unidade": "inciso I",
+          "diploma": null,
+          "trecho": "I -",
+          "literal": "(revogado)"
+        },
+        {
+          "tipo": "redacao",
           "unidade": "inciso I",
           "diploma": {
             "especie": "Lei",
             "numero": "13.879",
             "ano": 2019
           },
-          "trecho": "I - disponibilidade de radiofreqüência necessária, no caso de serviços que a utilizem;",
-          "literal": "(Revogado pela Lei nº 13.879, de 2019)"
+          "trecho": "I - (revogado);",
+          "literal": "(Redação dada pela Lei nº 13.879, de 2019)"
         },
         {
           "tipo": "revogacao",
+          "unidade": "inciso II",
+          "diploma": null,
+          "trecho": "II -",
+          "literal": "(revogado)"
+        },
+        {
+          "tipo": "redacao",
           "unidade": "inciso II",
           "diploma": {
             "especie": "Lei",
             "numero": "13.879",
             "ano": 2019
           },
-          "trecho": "II - apresentação de projeto viável tecnicamente e compatível com as normas aplicáveis.",
-          "literal": "(Revogado pela Lei nº 13.879, de 2019)"
+          "trecho": "II - (revogado).",
+          "literal": "(Redação dada pela Lei nº 13.879, de 2019)"
         }
       ]
     },
@@ -829,17 +870,6 @@
           },
           "trecho": "…São condições subjetivas para obtenção de autorização de serviço de interesse coletivo pela empresa ou pela cooperativa:",
           "literal": "(Redação dada pela Lei nº 15.324, de 2026)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "13.879",
-            "ano": 2019
-          },
-          "trecho": "…ndo se mostrar relevante, requerer comprovação de regularidade perante as esferas municipal e estadual do Poder Público.",
-          "literal": "(Incluído pela Lei nº 13.879, de 2019)"
         },
         {
           "tipo": "redacao",
@@ -1173,6 +1203,51 @@
           },
           "trecho": "…cias sem a correspondente transferência da concessão, permissão ou autorização de prestação do serviço a elas vinculada.",
           "literal": "(Revogado pela Lei nº 13.879, de 2019)"
+        }
+      ]
+    },
+    "172": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.879",
+            "ano": 2019
+          },
+          "trecho": "§ 2º O direito de exploração será conferido mediante processo administrativo estabelecido pela Agência.",
+          "literal": "(Redação dada pela Lei nº 13.879, de 2019)"
+        },
+        {
+          "tipo": "revogacao",
+          "unidade": "§ 3º",
+          "diploma": null,
+          "trecho": "§ 3º",
+          "literal": "(Revogado)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 3º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.879",
+            "ano": 2019
+          },
+          "trecho": "§ 3º (Revogado).",
+          "literal": "(Redação dada pela Lei nº 13.879, de 2019)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 4º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "13.879",
+            "ano": 2019
+          },
+          "trecho": "…to, conforme dispuser a Agência, ser convertido em compromissos de investimento, conforme diretrizes do Poder Executivo.",
+          "literal": "(Redação dada pela Lei nº 13.879, de 2019)"
         }
       ]
     },

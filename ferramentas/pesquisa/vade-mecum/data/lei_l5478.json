@@ -4,9 +4,9 @@
     "nome": "Alimentos",
     "lei": "Lei 5.478/1968",
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm",
-    "total_artigos": 29,
+    "total_artigos": 30,
     "version": "2.0",
-    "gerado_em": "2026-07-23",
+    "gerado_em": "2026-10-18T12:49:41+00:00",
     "transformacao": "planalto_html_v1",
     "registros_retidos_sem_correspondencia": []
   },
@@ -77,7 +77,7 @@
     },
     "5": {
       "numero": "5",
-      "texto": "Art. 5º O escrivão, dentro de 48 (quarenta e oito) horas, remeterá ao devedor a segunda via da petição ou do termo, juntamente com a cópia do despacho do juiz, e a comunicação do dia e hora da realização da audiência de conciliação e julgamento.\n\n§ 1º. Na designação da audiência, o juiz fixará o prazo razoável que possibilite ao réu a contestação da ação proposta e a eventualidade de citação por edital.\n\n§ 2º. A comunicação, que será feita mediante registro postal isento de taxas e com aviso de recebimento, importa em citação, para todos os efeitos legais.\n\n§ 3º. Se o réu criar embarações ao recebimento da citação, ou não for encontrado, repetir-se-á a diligência por intermédio do oficial de justiça, servindo de mandado a terceira via da petição ou do termo.\n\n§ 4º. Impossibilitada a citação do réu por qualquer dos modos acima previstos, será ele citado por edital afixado na sede do juízo e publicado 3 (três) vezes consecutivas no órgão oficial do Estado, correndo a despesa por conta do vencido, a final, sendo previamente a conta juntada aos autos.\n\n§ 5º. O edital deverá conter um resumo do pedido inicial, a íntegra do despacho nele exarado, a data e a hora da audiência.\n\n§ 6º. O autor será notificado da data e hora da audiência no ato de recebimento da petição, ou da lavratura do termo.\n\n§ 7º. O juiz, ao marcar a audiência, oficiará ao empregador do réu, ou , se o mesmo for funcionário público, ao responsável por sua repartição, solicitando o envio, no máximo até a data marcada para a audiência, de informações sobre o salário ou os vencimentos do devedor, sob as penas previstas no art. 22 desta lei.\n\n§ 8º A citação do réu, mesmo nos casos dos arts. 175 e 176 do Código de Processo Civil, far-se-á na forma do § 2º do art. 5º desta Lei.\n\n§ 8º. A citação do réu, mesmo no caso dos artigos 200 e 201 do Código de Processo Civil, far-se-á na forma do § 2º do artigo 5º desta lei. (Redação dada pela Lei nº 6.014, de 27/12/73)",
+      "texto": "Art. 5º O escrivão, dentro de 48 (quarenta e oito) horas, remeterá ao devedor a segunda via da petição ou do termo, juntamente com a cópia do despacho do juiz, e a comunicação do dia e hora da realização da audiência de conciliação e julgamento.\n\n§ 1º. Na designação da audiência, o juiz fixará o prazo razoável que possibilite ao réu a contestação da ação proposta e a eventualidade de citação por edital.\n\n§ 2º. A comunicação, que será feita mediante registro postal isento de taxas e com aviso de recebimento, importa em citação, para todos os efeitos legais.\n\n§ 3º. Se o réu criar embarações ao recebimento da citação, ou não for encontrado, repetir-se-á a diligência por intermédio do oficial de justiça, servindo de mandado a terceira via da petição ou do termo.\n\n§ 4º. Impossibilitada a citação do réu por qualquer dos modos acima previstos, será ele citado por edital afixado na sede do juízo e publicado 3 (três) vezes consecutivas no órgão oficial do Estado, correndo a despesa por conta do vencido, a final, sendo previamente a conta juntada aos autos.\n\n§ 5º. O edital deverá conter um resumo do pedido inicial, a íntegra do despacho nele exarado, a data e a hora da audiência.\n\n§ 6º. O autor será notificado da data e hora da audiência no ato de recebimento da petição, ou da lavratura do termo.\n\n§ 7º. O juiz, ao marcar a audiência, oficiará ao empregador do réu, ou , se o mesmo for funcionário público, ao responsável por sua repartição, solicitando o envio, no máximo até a data marcada para a audiência, de informações sobre o salário ou os vencimentos do devedor, sob as penas previstas no art. 22 desta lei.\n\n§ 8º. A citação do réu, mesmo no caso dos artigos 200 e 201 do Código de Processo Civil, far-se-á na forma do § 2º do artigo 5º desta lei. (Redação dada pela Lei nº 6.014, de 27/12/73)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%205%C2%BA%20O%20escriv%C3%A3o%2C%20dentro%20de%2048%20%28quarenta%20e%20oito%29%20horas%2C%20remeter%C3%A1%20ao%20devedor%20a%20segunda%20via%20da%20peti%C3%A7%C3%A3o%20ou%20do%20termo%2C",
       "keywords": [],
       "hierarchy": {
@@ -301,7 +301,7 @@
     },
     "19": {
       "numero": "19",
-      "texto": "Art. 19. O juiz, para instrução da causa ou na execução da sentença ou do acordo, poderá tomar todas as providências necessárias para seu esclarecimento ou para o cumprimento do julgado ou do acordo, inclusive a decretação de prisão do devedor até 60 (sessenta) dias.\n\n§ 1º O artigo 921 do Código de Processo Civil (Decreto-lei nº 1.608, de 18 de setembro de 1939) passa a vigorar com a seguinte redação:",
+      "texto": "Art. 19. O juiz, para instrução da causa ou na execução da sentença ou do acordo, poderá tomar todas as providências necessárias para seu esclarecimento ou para o cumprimento do julgado ou do acordo, inclusive a decretação de prisão do devedor até 60 (sessenta) dias.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%2019.%20O%20juiz%2C%20para%20instru%C3%A7%C3%A3o%20da%20causa%20ou%20na%20execu%C3%A7%C3%A3o%20da%20senten%C3%A7a%20ou%20do%20acordo%2C%20poder%C3%A1%20tomar%20todas%20as%20provid%C3%AAncias%20necess%C3%A1rias",
       "keywords": [],
       "hierarchy": {
@@ -473,6 +473,22 @@
         "section_name": null
       },
       "prev": "28",
+      "next": "921"
+    },
+    "921": {
+      "numero": "921",
+      "texto": "Art. 921. O cumprimento integral da pena de prisão não eximirá o devedor do pagamento das prestações alimentícias vincendas ou vencidas e não pagas.\n\n§ 1º O cumprimento integral da pena de prisão não eximirá o devedor do pagamento das prestações alimentícias, vincendas ou vencidas e não pagas. (Redação dada pela Lei nº 6.014, de 27/12/73)\n\n§ 2º Do despacho que decretar a prisão do devedor caberá agravo de instrumento.\n\n§ 2º Da decisão que decretar a prisão do devedor, caberá agravo de instrumento. (Redação dada pela Lei nº 6.014, de 27/12/73)\n\n§ 3º O § 2º do artigo 843 do Código de Processo Civil (Decreto-lei nº 1 608, de 18 de setembro de 1939), passará a vigorar com a seguinte redação:\n\n§ 2º Nos casos previstos nos nº VI, salvo se se tratar de decisão proferida em pedido ou execução de alimentos, XI e XVII, o Juiz suspenderá o processo se não puder suspender apenas a execução da ordem.\n\n§ 3º A interposição do agravo não suspende a execução da ordem de prisão. (Redação dada pela Lei nº 6.014, de 27/12/73)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5478.htm#:~:text=Art.%20921.%20O%20cumprimento%20integral%20da%20pena%20de%20pris%C3%A3o%20n%C3%A3o%20eximir%C3%A1%20o%20devedor%20do%20pagamento%20das%20presta%C3%A7%C3%B5es%20aliment%C3%ADcias%20vincendas%20ou%20vencidas%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "29",
       "next": null
     }
   }

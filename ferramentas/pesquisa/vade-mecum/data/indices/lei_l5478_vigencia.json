@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l5478.json",
       "colecao": "artigos",
-      "sha256": "694a058a822cc635631f5c49205196c4d06457d00bd10dac1cbe454018562eb8",
-      "total_registros": 29,
-      "gerado_em": "2026-07-23"
+      "sha256": "86fab6ec167fc037933724232a2abde129674da3cdadbb60eb7e0792fc962096",
+      "total_registros": 30,
+      "gerado_em": "2026-10-18T12:49:41+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 6,
-      "anotacoes": 11,
+      "artigos_com_anotacao": 7,
+      "anotacoes": 14,
       "anotacoes_sem_diploma_nomeado": 3
     }
   },
@@ -172,6 +172,44 @@
           "diploma": null,
           "trecho": "…e 735 do Código de Processo Civil. (Redação dada pela Lei nº 6.014, de 27/12/73) (Revogado pela Lei n º 13.105, de 2015)",
           "literal": "(Vigência)"
+        }
+      ]
+    },
+    "921": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "§ 1º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "6.014",
+            "ano": null
+          },
+          "trecho": "…ral da pena de prisão não eximirá o devedor do pagamento das prestações alimentícias, vincendas ou vencidas e não pagas.",
+          "literal": "(Redação dada pela Lei nº 6.014, de 27/12/73)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "6.014",
+            "ano": null
+          },
+          "trecho": "§ 2º Da decisão que decretar a prisão do devedor, caberá agravo de instrumento.",
+          "literal": "(Redação dada pela Lei nº 6.014, de 27/12/73)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 3º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "6.014",
+            "ano": null
+          },
+          "trecho": "§ 3º A interposição do agravo não suspende a execução da ordem de prisão.",
+          "literal": "(Redação dada pela Lei nº 6.014, de 27/12/73)"
         }
       ]
     }

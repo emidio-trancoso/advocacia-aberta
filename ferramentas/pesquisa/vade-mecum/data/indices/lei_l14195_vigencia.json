@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_l14195.json",
       "colecao": "artigos",
-      "sha256": "aa510ea137a7652fb6fb591b0b2a08840eaf3140834216aa1a49e1301cd0eb8c",
+      "sha256": "ad90b0088e316e797ef1be5d851b1abaa4c8cf185a011fe7ff6812a449d608dd",
       "total_registros": 58,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:49:48+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 14,
-      "anotacoes": 66,
-      "anotacoes_sem_diploma_nomeado": 64
+      "anotacoes": 56,
+      "anotacoes_sem_diploma_nomeado": 54
     }
   },
   "vigencia": {
@@ -411,76 +411,6 @@
           },
           "trecho": "Art. 43. (VETADO): (Revogado Pela Medida Provisória nº 1.085, de 2021)",
           "literal": "(Revogado pela Lei nº 14.382, de 2022)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "caput",
-          "diploma": null,
-          "trecho": "“Art. 981.",
-          "literal": "(VETADO)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "caput",
-          "diploma": null,
-          "trecho": "“Art. 983.",
-          "literal": "(VETADO)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "caput",
-          "diploma": null,
-          "trecho": "“Art. 986.",
-          "literal": "(VETADO)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "caput",
-          "diploma": null,
-          "trecho": "“Art. 996.",
-          "literal": "(VETADO)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "inciso V",
-          "diploma": null,
-          "trecho": "V -",
-          "literal": "(VETADO)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "inciso V",
-          "diploma": null,
-          "trecho": "“Art. 1.007.",
-          "literal": "(VETADO)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "inciso V",
-          "diploma": null,
-          "trecho": "“Art. 1.053.",
-          "literal": "(VETADO)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "inciso V",
-          "diploma": null,
-          "trecho": "“Art. 1.096.",
-          "literal": "(VETADO)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "§ 3º",
-          "diploma": null,
-          "trecho": "“Art. 1.150.",
-          "literal": "(VETADO)"
-        },
-        {
-          "tipo": "veto",
-          "unidade": "§ 3º",
-          "diploma": null,
-          "trecho": "“Art. 1.155.",
-          "literal": "(VETADO)"
         }
       ]
     },

@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l10684.json",
       "colecao": "artigos",
-      "sha256": "208ef44b013f50f4d94598d3647a15f50b6ce9a1421d7aa46cfa60ebd15edf90",
+      "sha256": "2692ac9cd9f6fbe9d668670effbe1e00d7859ecef5de3d8e5561fb87614b7133",
       "total_registros": 29,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:50:04+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 6,
-      "anotacoes": 9,
+      "anotacoes": 8,
       "anotacoes_sem_diploma_nomeado": 5
     }
   },
@@ -87,17 +87,6 @@
             "ano": 2008
           },
           "trecho": "Art. 21. O art. 18 da Lei no 8.742, de 7 de dezembro de 1993, passa a vigorar acrescido do seguinte parágrafo único:",
-          "literal": "(Revogado pela Medida Provisória nº 446, de 2008)"
-        },
-        {
-          "tipo": "revogacao",
-          "unidade": "caput",
-          "diploma": {
-            "especie": "Medida Provisória",
-            "numero": "446",
-            "ano": 2008
-          },
-          "trecho": "…ssada, do Instituto Nacional do Seguro Social - INSS ou da Secretaria da Receita Federal do Ministério da Fazenda.\" (NR)",
           "literal": "(Revogado pela Medida Provisória nº 446, de 2008)"
         }
       ]

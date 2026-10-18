@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_lmig.json",
       "colecao": "artigos",
-      "sha256": "d490098a3263ee0165325a1bac2c89437167eab141f289d56408acddc555f14c",
+      "sha256": "8cc25bbeb11f3834d12ccc6d721b33e61c3a78e255a0efe8f2111ce00610280c",
       "total_registros": 125,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-10-18T12:50:11+00:00"
     },
     "relacao": {
       "chave": "numero",

@@ -23,19 +23,35 @@
     "fonte": {
       "arquivo": "lei_d2181.json",
       "colecao": "artigos",
-      "sha256": "2dd534ead2c3a9f04010cc00be2948680f2a88a81956f51dbf12c2d9c59161f6",
+      "sha256": "b2b703b45235add1d26aeb32eb31bc7b1547a79ac7070f68b4e3743abb2608ab",
       "total_registros": 80,
-      "gerado_em": "2026-09-14T13:56:04+00:00"
+      "gerado_em": "2026-10-18T12:49:42+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 42,
-      "anotacoes": 154,
+      "artigos_com_anotacao": 44,
+      "anotacoes": 155,
       "anotacoes_sem_diploma_nomeado": 0
     }
   },
   "vigencia": {
+    "2": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Decreto",
+            "numero": "7.738",
+            "ano": 2012
+          },
+          "trecho": "…ça e os demais órgãos federais, estaduais, do Distrito Federal, municipais e as entidades civis de defesa do consumidor.",
+          "literal": "(Redação dada pelo Decreto nº 7.738, de 2012)"
+        }
+      ]
+    },
     "3": {
       "situacao": null,
       "eventos": [
@@ -82,17 +98,6 @@
     "5": {
       "situacao": null,
       "eventos": [
-        {
-          "tipo": "redacao",
-          "unidade": "parágrafo único",
-          "diploma": {
-            "especie": "Decreto",
-            "numero": "7.738",
-            "ano": 2012
-          },
-          "trecho": "…r - CNPDC, levando sempre em consideração a competência federativa para legislar sobre a respectiva atividade econômica.",
-          "literal": "(Redação dada pelo Decreto nº 7.738, de 2012)"
-        },
         {
           "tipo": "redacao",
           "unidade": "parágrafo único",
@@ -508,6 +513,22 @@
           },
           "trecho": "II - a fixação da pena-base para a aplicação da pena de multa.",
           "literal": "(Incluído pelo Decreto nº 10.887, de 2021)"
+        }
+      ]
+    },
+    "30": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Decreto",
+            "numero": "10.887",
+            "ano": 2021
+          },
+          "trecho": "…o caput do art. 13 da Lei nº 7.347, de 1985, após aprovação pelo respectivo Conselho Gestor, em cada unidade federativa.",
+          "literal": "(Redação dada pelo Decreto nº 10.887, de 2021)"
         }
       ]
     },

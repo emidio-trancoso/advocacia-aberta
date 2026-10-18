@@ -50,9 +50,20 @@ VOCABULARIO_ORIGEM_EXTERNA = re.compile(
 # dispensa: sair desta lista é creditar ou confirmar que não há quem creditar.
 SEM_AUTORIA_CONHECIDA = {
     # "Levantado em contribuição externa de 2026-07-27" (BACKLOG) e "A lacuna veio
-    # de contribuição externa em 2026-07-27" (verificacoes/BASE-043.md). A
-    # contribuição não chegou por issue nem por PR — não há nome, handle ou canal
-    # no repositório. Pendente de confirmação de quem foi.
+    # de contribuição externa em 2026-07-27" (verificacoes/BASE-043.md). A leitura
+    # contribuída foi que os campos da legislação eram todos estruturais e nenhum
+    # temporal, enquanto a jurisprudência já trazia data e situação — e foi dela
+    # que nasceu o índice de vigência inteiro.
+    #
+    # Procurado em 18/10/2026, sem achar o nome: o commit que abriu o item
+    # (6d348cc, que só repete "contribuição externa de 27/07/2026"), o backlog, a
+    # verificação, as issues e os PRs do repositório (não houve nenhuma atividade
+    # no GitHub em 27/07) e as comunicações dos repos orion e hermes na janela de
+    # 25 a 29/07. A contribuição chegou por canal privado, como a primeira.
+    #
+    # Pendente de confirmação do mantenedor — não se credita por inferência, e as
+    # datas vizinhas (23/07 e 30/07) são de outras duas pessoas, o que torna o
+    # palpite pior que a lacuna.
     "BASE-043",
 }
 

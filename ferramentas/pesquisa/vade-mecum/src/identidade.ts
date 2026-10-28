@@ -14,10 +14,9 @@
  * Consequência prática, que não dá para contornar do lado do servidor: um consumo
  * excessivo vindo do claude.ai é atribuível a uma sessão, nunca a uma pessoa.
  *
- * O identificador da OpenAI é guardado como veio, sem hash. Ele é opaco (não tem nome
- * nem e-mail) e existe um uso administrativo concreto para o valor original: em caso de
- * abuso, é o que permite pedir providência a quem sabe de quem se trata. Por isso ele
- * vive só aqui, na telemetria de uso — no log de acesso do Caddy continua mascarado.
+ * A chave completa (IP ou identificador da OpenAI) só existe em memória, para o limite
+ * de taxa. Nada a grava como veio: a telemetria (telemetria.ts) guarda a faixa do IP e
+ * um resumo do identificador, e o log de acesso do Caddy mascara os dois.
  */
 
 import type { IncomingMessage } from "node:http";

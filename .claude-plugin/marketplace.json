@@ -1,15 +1,17 @@
 {
   "name": "advocacia-aberta",
-  "description": "Marketplace da Advocacia Aberta — método jurídico aberto e executável por agentes de IA.",
   "owner": {
     "name": "Emidio Trancoso",
     "url": "https://github.com/emidio-trancoso"
   },
+  "metadata": {
+    "description": "Marketplace da Advocacia Aberta — método jurídico aberto e executável por agentes de IA."
+  },
   "plugins": [
     {
       "name": "advocacia-aberta",
-      "source": ".",
-      "version": "0.1.0",
+      "source": "./",
+      "version": "0.2.0",
       "description": "Método jurídico aberto e executável por agentes de IA: base curada de STF/STJ, legislação, súmulas, temas e teses; 10 protocolos e motores locais. Fontes verificáveis, casos privados. Direito brasileiro, PT-BR.",
       "homepage": "https://github.com/emidio-trancoso/advocacia-aberta",
       "license": "MIT",

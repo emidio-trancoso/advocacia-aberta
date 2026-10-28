@@ -17,6 +17,7 @@ import {
 } from "@modelcontextprotocol/sdk/types.js";
 
 import { ICONES_DA_MARCA } from "./marca.js";
+import { contador, type ContextoDeUso } from "./telemetria.js";
 
 import {
   buscarSumulasAmpliado,
@@ -80,27 +81,16 @@ const ANOTACOES_LEITURA = {
 
 // ── Telemetria de uso ────────────────────────────────────────────────────────
 //
-// Registra QUAL ferramenta foi chamada, se houve resultado e quanto demorou. Serve
+// Conta QUAL ferramenta foi chamada, se houve resultado e quanto demorou. Serve
 // para saber que partes do acervo são realmente usadas e onde a busca falha.
 //
 // O termo pesquisado NUNCA é registrado: a consulta de um advogado revela a matéria
 // e, muitas vezes, o caso — isso é sigilo (ver SIGILO-E-DADOS.md). Só saem daqui
-// categorias fixas do próprio catálogo (tribunal, código) e medidas.
-//
-// A linha vai para a saída de ERRO, não a padrão: no transporte stdio a saída padrão
-// é o canal do protocolo MCP, e escrever nela corromperia as mensagens. O journald
-// recolhe as duas:  journalctl -u vade-mecum-mcp | grep uso_ferramenta
+// categorias fixas do próprio catálogo (tribunal, código) e medidas, somadas por dia
+// (ver telemetria.ts).
 const SEM_RESULTADO = /^Nenhum[ao]?\s/;
 
-/**
- * Quem está do outro lado da sessão. Preenchido pelo entrypoint HTTP; no uso local
- * (stdio) não existe ator remoto e o campo fica ausente.
- */
-export interface ContextoDeUso {
-  readonly ator: string;
-  readonly cliente: string;
-  readonly identificaPessoa: boolean;
-}
+export type { ContextoDeUso };
 
 function registrarUso(
   request: CallToolRequest,
@@ -111,23 +101,14 @@ function registrarUso(
   const facetaTexto = (valor: unknown): string | undefined =>
     typeof valor === "string" && valor.length > 0 ? valor : undefined;
 
-  console.error(
-    JSON.stringify({
-      evento: "uso_ferramenta",
-      ts: new Date().toISOString(),
+  contador.registrar(
+    {
       tool: request.params.name,
-      ator: contexto?.ator,
-      cliente: contexto?.cliente,
-      // Distingue "consumo de uma pessoa" de "consumo de uma origem compartilhada":
-      // sem isso, o relatório somaria usuários distintos do claude.ai como se fossem um.
-      pessoa: contexto ? contexto.identificaPessoa : undefined,
       tribunal: facetaTexto(args.tribunal),
       codigo: facetaTexto(args.codigo),
-      achou: medida.achou,
-      falhou: medida.falhou || undefined,
-      ms: medida.ms,
-      bytes: medida.bytes,
-    }),
+      ...medida,
+    },
+    contexto,
   );
 }
 

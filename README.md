@@ -146,7 +146,9 @@ descrição.
 /plugin install advocacia-aberta
 ```
 
-Os protocolos ficam disponíveis com namespace, como `/advocacia-aberta:organizar-caso`.
+Os protocolos ficam disponíveis com namespace, como `/advocacia-aberta:organizar-caso`. Desde a
+versão 0.2.0, o plugin também conecta o acervo hospedado (`mcp.advocaciaaberta.org`): a pesquisa
+funciona sem instalar o Bun.
 
 ## Protocolos operacionais disponíveis
 

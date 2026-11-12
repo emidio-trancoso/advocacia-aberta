@@ -1,7 +1,7 @@
 {
   "_meta": {
     "version": "2.0",
-    "generatedAt": "2026-10-18T12:47:23+00:00",
+    "generatedAt": "2026-11-12T19:51:16+00:00",
     "totalTemas": 1474,
     "source": {
       "provenanceStatus": "reproducible_pipeline",
@@ -22,10 +22,18 @@
         }
       },
       "method": "Junção determinística de Temas.csv e Processos.csv por sequencialPrecedente; seleção preferencial do leading case.",
-      "metadata_sha256": "be46c6d75168abd21096f765a6c1ec0cd8fbd77155995f0f90938d76b28133f9",
-      "collectedAt": "2026-10-18T12:47:23+00:00"
+      "metadata_sha256": "2591c95dea2770cac69dca0ec662cb97b1004529d128cffd063937483f3ac33d",
+      "collectedAt": "2026-11-12T19:51:16+00:00"
     },
-    "transformacao": "temas_stj_csv_v1"
+    "transformacao": "temas_stj_csv_v1",
+    "retidosPorInconsistenciaDaFonte": {
+      "temas": [
+        "1154",
+        "1241"
+      ],
+      "data": "2026-11-12",
+      "motivo": "O CSV de Temas do STJ passou a trazer situação \"Mérito Julgado\" e a tese substituída por \"*Aguardando a publicação do acórdão\", embora o mesmo registro informe publicação do acórdão em 2026-09-08. Mantidos situação e tese publicadas anteriormente até a fonte se corrigir; conferir no portal do STJ."
+    }
   },
   "temas": {
     "1": {
@@ -1452,13 +1460,13 @@
     },
     "50": {
       "numero": 50,
-      "situacao": "Mérito Julgado",
+      "situacao": "Acórdão Publicado",
       "ramo": "Seguro",
       "assuntos": [
         "Seguro"
       ],
       "questao": "Discussão sobre a necessidade de participação da Caixa Econômica Federal nos feitos que envolvam contratos de seguro habitacional vinculados ao Sistema Financeiro Habitacional e que não tenham relação com o Fundo de Compensação de Variações Salariais (FCVS).",
-      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
+      "teseFirmada": "1) Considerando que, a partir da MP 513/2010 (que originou a Lei 12.409/2011 e suas alterações posteriores, MP 633/2013 e Lei 13.000/2014), a CEF passou a ser administradora do FCVS, é aplicável o art. 1º da MP 513/2010 aos processos em trâmite na data de sua entrada em vigor (26.11.2010):1.1) sem sentença de mérito (na fase de conhecimento), devendo os autos ser remetidos à Justiça Federal para análise do preenchimento dos requisitos legais acerca do interesse da CEF ou da União, caso haja provocação nesse sentido de quaisquer das partes ou intervenientes e respeitados os §§ 4º e 6º do art. 1º-A da Lei 12.409/2011;e1.2) com sentença de mérito (na fase de conhecimento), podendo a União e/ou a CEF intervir na causa na defesa do FCVS, de forma espontânea ou provocada, no estágio em que se encontre, em qualquer tempo e grau de jurisdição, nos termos do parágrafo único do art. 5º da Lei 9.469/1997, devendo o feito continuar tramitando na Justiça Comum Estadual até o exaurimento do cumprimento de sentença;2) A partir de 26.11.2010, é da Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS, devendo haver o deslocamento do feito para aquele ramo judiciário a partir do momento em que a referida empresa pública federal ou a União, de forma espontânea ou provocada, indique o interesse em intervir na causa, observados os §§ 4º do art. 64 do CPC e/ou os §§ 4º e 6º do art. 1º-A da Lei12.409/2011.3) Em observância à modulação dos efeitos das teses fixadas no Tema 1011 pelo STF, mantém-se a eficácia preclusiva da coisa julgada envolvendo os processos transitados em julgado, na fase de conhecimento, antes da publicação do resultado do julgamento de mérito pelo STF no Diário de Justiça Eletrônico (13.7.2020), restando inadmitida futura ação rescisória.4) A intervenção da CEF ou da União, em defesa do FCVS, nas ações de indenização securitária, com base em contrato vinculado à apólice pública (ramo 66) do seguro habitacional no âmbito do SFH, deve ser admitida na seguinte forma:a) a CEF, na condição de parte, e a União, como assistente litisconsorcial, nos processos a partir de 26.11.2010, data da entrada em vigor da MP 513/2010;b) de assistente litisconsorcial, nos processos ajuizados em face da seguradora, em trâmite em 26.11.2010, sem sentença de mérito no processo de conhecimento, e;c) em razão da modulação feita pelo STF, na forma da intervenção anômala prevista no parágrafo único do art. 5º da Lei 9.469/1997, nos processos já sentenciados, em 26.11.2010.",
       "orgaoJulgador": "Corte Especial",
       "processo": "REsp 1091363/SC",
       "relator": "CARLOS FERNANDO MATHIAS (JUIZ FEDERAL CONVOCADO DO TRF 1ª REGIÃO)",
@@ -1479,13 +1487,13 @@
     },
     "51": {
       "numero": 51,
-      "situacao": "Mérito Julgado",
+      "situacao": "Acórdão Publicado",
       "ramo": "Seguro",
       "assuntos": [
         "Seguro"
       ],
       "questao": "Discussão sobre a necessidade de participação da Caixa Econômica Federal nos feitos que envolvam contratos de seguro habitacional vinculados ao Sistema Financeiro Habitacional e que não tenham relação com o Fundo de Compensação de Variações Salariais (FCVS).",
-      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
+      "teseFirmada": "1) Considerando que, a partir da MP 513/2010 (que originou a Lei 12.409/2011 e suas alterações posteriores, MP 633/2013 e Lei 13.000/2014), a CEF passou a ser administradora do FCVS, é aplicável o art. 1º da MP 513/2010 aos processos em trâmite na data de sua entrada em vigor (26.11.2010):1.1) sem sentença de mérito (na fase de conhecimento), devendo os autos ser remetidos à Justiça Federal para análise do preenchimento dos requisitos legais acerca do interesse da CEF ou da União, caso haja provocação nesse sentido de quaisquer das partes ou intervenientes e respeitados os §§ 4º e 6º do art. 1º-A da Lei 12.409/2011;e1.2) com sentença de mérito (na fase de conhecimento), podendo a União e/ou a CEF intervir na causa na defesa do FCVS, de forma espontânea ou provocada, no estágio em que se encontre, em qualquer tempo e grau de jurisdição, nos termos do parágrafo único do art. 5º da Lei 9.469/1997, devendo o feito continuar tramitando na Justiça Comum Estadual até o exaurimento do cumprimento de sentença;2) A partir de 26.11.2010, é da Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS, devendo haver o deslocamento do feito para aquele ramo judiciário a partir do momento em que a referida empresa pública federal ou a União, de forma espontânea ou provocada, indique o interesse em intervir na causa, observados os §§ 4º do art. 64 do CPC e/ou os §§ 4º e 6º do art. 1º-A da Lei12.409/2011.3) Em observância à modulação dos efeitos das teses fixadas no Tema 1011 pelo STF, mantém-se a eficácia preclusiva da coisa julgada envolvendo os processos transitados em julgado, na fase de conhecimento, antes da publicação do resultado do julgamento de mérito pelo STF no Diário de Justiça Eletrônico (13.7.2020), restando inadmitida futura ação rescisória.4) A intervenção da CEF ou da União, em defesa do FCVS, nas ações de indenização securitária, com base em contrato vinculado à apólice pública (ramo 66) do seguro habitacional no âmbito do SFH, deve ser admitida na seguinte forma:a) a CEF, na condição de parte, e a União, como assistente litisconsorcial, nos processos a partir de 26.11.2010, data da entrada em vigor da MP 513/2010;b) de assistente litisconsorcial, nos processos ajuizados em face da seguradora, em trâmite em 26.11.2010, sem sentença de mérito no processo de conhecimento, e;c) em razão da modulação feita pelo STF, na forma da intervenção anômala prevista no parágrafo único do art. 5º da Lei 9.469/1997, nos processos já sentenciados, em 26.11.2010.",
       "orgaoJulgador": "Corte Especial",
       "processo": "REsp 1091363/SC",
       "relator": "CARLOS FERNANDO MATHIAS (JUIZ FEDERAL CONVOCADO DO TRF 1ª REGIÃO)",
@@ -1895,7 +1903,7 @@
     },
     "66": {
       "numero": 66,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Acórdão Publicado - RE Pendente",
       "ramo": "DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO",
       "assuntos": [
         "DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO"
@@ -1922,7 +1930,7 @@
     },
     "67": {
       "numero": 67,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Acórdão Publicado - RE Pendente",
       "ramo": "DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO",
       "assuntos": [
         "DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO"
@@ -5058,7 +5066,7 @@
         "DIREITO PROCESSUAL PENAL",
         "Ação Penal"
       ],
-      "questao": "A Terceira Seção, na sessão de 09/11/2016, decidiu afetar o julgamento de questão de ordem a fim de propor a revisão da tese firmada no REsp 1.097.042/DF, relator para acórdão o Ministro Jorge Mussi (art. 927, § 4º, do CPC e art. 256-S do RISTJ - Emenda Regimental nº 24, de 28 de setembro de 2016), acerca da: Natureza da ação penal nos crimes de lesão corporal cometidos contra a mulher, no âmbito doméstico e familiar.",
+      "questao": "A Terceira Seção, na sessão de 09/11/2016, decidiu afetar o julgamento de questão de ordem a fim de propor a revisão da tese firmada no REsp 1.097.042/DF, relator para acórdão o Ministro Jorge Mussi (art. 927, § 4º, do CPC e art. 256-S do RISTJ - Emenda Regimental nº 24, de 28 de setembro de 2016), acerca da:Natureza da ação penal nos crimes de lesão corporal cometidos contra a mulher, no âmbito doméstico e familiar.",
       "teseFirmada": "A ação penal nos crimes de lesão corporal leve cometidos em detrimento da mulher, no âmbito doméstico e familiar, é pública incondicionada.",
       "orgaoJulgador": "Terceira Seção",
       "processo": "Pet 11805/DF",
@@ -27748,8 +27756,8 @@
         "DIREITO CIVIL",
         "Obrigações",
         "Espécies de Contratos",
-        "Juros de Mora - Legais / Contratuais",
-        "Mútuo"
+        "Mútuo",
+        "Juros de Mora - Legais / Contratuais"
       ],
       "questao": "i. Cabimento ou não da incidência de juros remuneratórios na repetição de indébito apurado em favor do mutuário de contrato de mútuo feneratício; ii. taxa de juros remuneratórios a ser aplicada na hipótese do item anterior.",
       "teseFirmada": "Descabimento da repetição do indébito com os mesmos encargos do contrato.",
@@ -27899,10 +27907,10 @@
       "ramo": "DIREITO PROCESSUAL CIVIL E DO TRABALHO",
       "assuntos": [
         "DIREITO PROCESSUAL CIVIL E DO TRABALHO",
-        "Honorários Advocatícios",
         "Partes e Procuradores",
-        "Sucumbência",
-        "Honorários Advocatícios em Execução Contra a Fazenda Pública"
+        "Honorários Advocatícios",
+        "Honorários Advocatícios em Execução Contra a Fazenda Pública",
+        "Sucumbência"
       ],
       "questao": "Análise acerca da aplicabilidade da Súmula 345 do STJ diante da superveniência do art. 85, § 7º, do CPC/2015.",
       "teseFirmada": "O art. 85, § 7º, do CPC/2015 não afasta a aplicação do entendimento consolidado na Súmula 345 do STJ, de modo que são devidos honorários advocatícios nos procedimentos individuais de cumprimento de sentença decorrente de ação coletiva, ainda que não impugnados e promovidos em litisconsórcio.",
@@ -28580,8 +28588,8 @@
         "Obrigações",
         "Espécies de Contratos",
         "Compra e Venda",
-        "DIREITO CIVIL",
-        "Compromisso"
+        "Compromisso",
+        "DIREITO CIVIL"
       ],
       "questao": "Definir se:1.1) na aquisição de unidades autônomas futuras, financiadas na forma associativa, o contrato deverá estabelecer de forma expressa, clara e inteligível, o prazo certo para a formação do grupo de adquirentes e para a entrega do imóvel.1.2) o atraso da entrega do imóvel objeto de compromisso de compra e venda gera, para o promitente vendedor, a obrigação de indenizar o adquirente pela privação injusta do uso do bem, na forma de valor locatício, que pode ser calculado em percentual sobre o valor atualizado do contrato ou de mercado, correspondente ao que este deixou de receber, ou teve de pagar para fazer uso de imóvel semelhante, com termo final na data da disponibilização da posse direta da unidade autônoma já regularizada.1.3) é lícito o repasse dos \"juros de obra\", ou \"juros de evolução da obra\", ou \"taxa de evolução da obra\", ou outros encargos equivalentes, após o prazo ajustado no contrato para entrega das chaves da unidade autônoma, incluído o período de tolerância.1.4) o descumprimento do prazo de entrega de imóvel objeto de compromisso de venda e compra, computado o período de tolerância, faz cessar a incidência de correção monetária sobre o saldo devedor com base em indexador setorial, que reflete o custo da construção civil, o qual deverá ser substituído por indexador geral, salvo quando este último for mais gravoso ao consumidor.Será submetido à deliberação da Segunda Seção, por ocasião do julgamento do mérito do recurso especial, se apropriado atribuir tratamento distinto, a depender da origem e da finalidade do financiamento, na fixação e aplicação das teses firmadas, a saber: a) se alcançam apenas a aquisição de imóvel residencial ou também o comercial; e b) se a aquisição do imóvel se deu a título de investimento ou com o objetivo de moradia da família.",
       "teseFirmada": "As teses firmadas, para os fins do artigo 1.036 do CPC/2015, em contrato de promessa de compra e venda de imóvel na planta, no âmbito do Programa Minha Casa, Minha Vida, para os beneficiários das faixas de renda 1, 5, 2 e 3, foram as seguintes:1.1. Na aquisição de unidades autônomas em construção, o contrato deverá estabelecer, de forma clara, expressa e inteligível, o prazo certo para a entrega do imóvel, o qual não poderá estar vinculado à concessão do financiamento, ou a nenhum outro negócio jurídico, exceto o acréscimo do prazo de tolerância; 1.2. No caso de descumprimento do prazo para a entrega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma. 1.3. É ilícito cobrar do adquirente juros de obra, ou outro encargo equivalente, após o prazo ajustado no contrato para a entrega das chaves da unidade autônoma, incluído o período de tolerância.1.4. O descumprimento do prazo de entrega do imóvel, computado o período de tolerância, faz cessar a incidência de correção monetária sobre o saldo devedor com base em indexador setorial, que reflete o custo da construção civil, o qual deverá ser substituído pelo IPCA, salvo quando este último for mais gravoso ao consumidor.",
@@ -30510,8 +30518,8 @@
       "assuntos": [
         "Contratos de Consumo",
         "Bancários",
-        "Empréstimo consignado",
-        "DIREITO DO CONSUMIDOR"
+        "DIREITO DO CONSUMIDOR",
+        "Empréstimo consignado"
       ],
       "questao": "Se nas hipóteses em que o consumidor/autor impugnar a autenticidade da assinatura constante do contrato juntado ao processo, cabe à instituição financeira/ré o ônus de provar essa autenticidade (CPC, art. 429, II), por intermédio de perícia grafotécnica ou mediante os meios de prova legais ou moralmente legítimos (CPC, art. 369).",
       "teseFirmada": "Na hipótese em que o consumidor/autor impugnar a autenticidade da assinatura constante em contrato bancário juntado ao processo pela instituição financeira, caberá a esta o ônus de provar a autenticidade (CPC, arts. 6º, 369 e 429, II).",
@@ -30714,8 +30722,8 @@
       "ramo": "Contratos de Consumo",
       "assuntos": [
         "Contratos de Consumo",
-        "DIREITO DO CONSUMIDOR",
-        "Seguro"
+        "Seguro",
+        "DIREITO DO CONSUMIDOR"
       ],
       "questao": "Definir a legalidade da cláusula que prevê a cobertura adicional de invalidez funcional permanente total por doença (IFPD) em contrato de seguro de vida em grupo, condicionando o pagamento da indenização securitária à perda da existência independente do segurado.",
       "teseFirmada": "Não é ilegal ou abusiva a cláusula que prevê a cobertura adicional de invalidez funcional permanente total por doença (IFPD) em contrato de seguro de vida em grupo, condicionando o pagamento da indenização securitária à perda da existência independente do segurado, comprovada por declaração médica.",
@@ -32492,7 +32500,7 @@
     },
     "1130": {
       "numero": 1130,
-      "situacao": "Acórdão Publicado - RE Pendente",
+      "situacao": "Trânsito em Julgado",
       "ramo": "Sistema Remuneratório e Benefícios",
       "assuntos": [
         "Sistema Remuneratório e Benefícios",
@@ -34191,7 +34199,7 @@
     },
     "1190": {
       "numero": 1190,
-      "situacao": "Acórdão Publicado - RE Pendente",
+      "situacao": "Trânsito em Julgado",
       "ramo": "Adicional por Tempo de Serviço",
       "assuntos": [
         "Adicional por Tempo de Serviço"
@@ -34415,7 +34423,7 @@
     },
     "1198": {
       "numero": 1198,
-      "situacao": "Acórdão Publicado - RE Pendente",
+      "situacao": "Trânsito em Julgado",
       "ramo": "Empréstimo consignado",
       "assuntos": [
         "Empréstimo consignado"
@@ -34787,7 +34795,7 @@
     },
     "1211": {
       "numero": 1211,
-      "situacao": "Afetado",
+      "situacao": "Acórdão Publicado",
       "ramo": "DIREITO DO CONSUMIDOR",
       "assuntos": [
         "DIREITO DO CONSUMIDOR",
@@ -34796,12 +34804,12 @@
         "Cláusulas Abusivas"
       ],
       "questao": "Legalidade de cláusula contratual que estabeleça reajuste do prêmio de seguro de vida em grupo de acordo com a faixa etária.",
-      "teseFirmada": "",
+      "teseFirmada": "I - Em contratos de seguro de vida em grupo, é válida a cláusula de reajuste do prêmio por mudança de faixa etária do segurado ou beneficiário, desde que haja previsão expressa nas condições contratuais, com prévia comunicação ao segurado nas renovações, observadas as normas setoriais da Superintendência de Seguros Privados (SUSEP) e do Conselho Nacional de Seguros Privados (CNSP);II - É descabida a aplicação, por analogia, dos art. 15 da Lei 9.656/1998 (Lei de Planos de Saúde) e art. 15, § 3º, da Lei 10.741/2003 (Estatuto do Idoso).",
       "orgaoJulgador": "Segunda Seção",
       "processo": "REsp 1887666/SC",
       "relator": "RAUL ARAÚJO",
       "dataAfetacao": "29/08/2023",
-      "dataJulgamento": "",
+      "dataJulgamento": "08/10/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1211&cod_tema_final=1211",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%221887666%22&O=JT",
@@ -35184,7 +35192,7 @@
     },
     "1225": {
       "numero": 1225,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Acórdão Publicado - RE Pendente",
       "ramo": "Indenização por Dano Moral",
       "assuntos": [
         "Indenização por Dano Moral",
@@ -35269,14 +35277,14 @@
     },
     "1228": {
       "numero": 1228,
-      "situacao": "Mérito Julgado",
+      "situacao": "Acórdão Publicado",
       "ramo": "Salário-Educação",
       "assuntos": [
         "Salário-Educação",
         "Suspensão do Processo"
       ],
       "questao": "Definir se a pessoa física que exerce serviço notarial ou registral é contribuinte da contribuição social do salário-educação, prevista no § 5º do art. 212 da Constituição Federal de 1988 e instituída pelo art. 15 da Lei 9.424/96.",
-      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
+      "teseFirmada": "A contribuição social do salário-educação, prevista no § 5º do art. 212 da Constituição Federal de 1988 e instituída pelo art. 15 da Lei n. 9.424/96, não é exigível da pessoa física que exerce serviço notarial ou registral, a qual não se enquadra na definição de contribuinte trazida na legislação que rege o tributo.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2068273/RS",
       "relator": "ASSUSETE MAGALHÃES",
@@ -36445,18 +36453,18 @@
     },
     "1270": {
       "numero": 1270,
-      "situacao": "Afetado",
+      "situacao": "Acórdão Publicado",
       "ramo": "Pena Privativa de Liberdade",
       "assuntos": [
         "Pena Privativa de Liberdade"
       ],
       "questao": "Discute-se se a possibilidade de remição da pena por estudo, diante da aprovação parcial no Enem, à luz da Resolução n. 391 do CNJ, substitutiva da Recomendação n. 44/2013, e que permite a concessão do benefício em comento.",
-      "teseFirmada": "",
+      "teseFirmada": "1) É cabível a remição proporcional da pena em favor da pessoa privada de liberdade que consiga aprovação parcial no Enem, assim entendida a obtenção, em ao menos uma das quatro áreas de conhecimento ou na redação, da pontuação mínima fixada pelo Inep para fins de certificação (atualmente, 450 pontos por área de conhecimento e 500 pontos na redação), vedada nova remição pelo mesmo fato gerador educacional, nos termos da Tese n. 3 do Tema Repetitivo n. 1.357 do STJ;2) A obtenção da pontuação mínima em cada área de conhecimento ou na redação corresponde a 20 dias de remição da pena, consideradas a base de cálculo de 1.200 horas e a razão de 1 dia de pena a cada 12 horas de estudo, de modo a totalizar 100 dias na hipótese de aprovação plena (art. 126, § 1º, I, da Lei n. 7.210/1984);3) O acréscimo de 1/3 previsto no art. 126, § 5º, da Lei n. 7.210/1984 pressupõe aprovação plena de que resulte a certificação da conclusão do ensino médio durante o cumprimento da pena.",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 2101592/SP",
       "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "03/07/2024",
-      "dataJulgamento": "",
+      "dataJulgamento": "23/10/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1270&cod_tema_final=1270",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222101592%22&O=JT",
@@ -36861,7 +36869,7 @@
     },
     "1285": {
       "numero": 1285,
-      "situacao": "Em Julgamento",
+      "situacao": "Mérito Julgado",
       "ramo": "ISS/ Imposto sobre Serviços",
       "assuntos": [
         "ISS/ Imposto sobre Serviços",
@@ -36870,12 +36878,12 @@
         "Penhora / Depósito/ Avaliação"
       ],
       "questao": "Definir se é ou não impenhorável a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel-moeda; em conta corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos.",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
       "orgaoJulgador": "Corte Especial",
       "processo": "REsp 2015693/PR",
       "relator": "MARIA THEREZA DE ASSIS MOURA",
       "dataAfetacao": "07/10/2024",
-      "dataJulgamento": "",
+      "dataJulgamento": "21/10/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1285&cod_tema_final=1285",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222015693%22&O=JT",
@@ -37588,7 +37596,7 @@
     },
     "1311": {
       "numero": 1311,
-      "situacao": "Acórdão Publicado - RE Pendente",
+      "situacao": "Trânsito em Julgado",
       "ramo": "Correção Monetária",
       "assuntos": [
         "Correção Monetária",
@@ -37959,18 +37967,18 @@
     },
     "1324": {
       "numero": 1324,
-      "situacao": "Afetado",
+      "situacao": "Acórdão Publicado",
       "ramo": "Multas e demais Sanções",
       "assuntos": [
         "Multas e demais Sanções"
       ],
       "questao": "Definir a responsabilidade do alienante de veículo automotor por infrações administrativas e/ou de trânsito cometidas após a alienação, nos casos em que esta não é comunicada ao órgão de trânsito competente na forma e no prazo legais.",
-      "teseFirmada": "",
+      "teseFirmada": "O proprietário alienante de veículo automotor que deixa de comunicar a venda ao órgão de trânsito competente, na forma e no prazo estabelecidos pelo art. 134 do Código de Trânsito Brasileiro, responde solidariamente pelas penalidades decorrentes das infrações administrativas e/ou de trânsito cometidas após a alienação e até a efetiva comunicação.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2152197/SP",
       "relator": "PAULO SÉRGIO DOMINGUES",
       "dataAfetacao": "04/04/2025",
-      "dataJulgamento": "",
+      "dataJulgamento": "14/10/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1324&cod_tema_final=1324",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222152197%22&O=JT",
@@ -38180,7 +38188,7 @@
     },
     "1332": {
       "numero": 1332,
-      "situacao": "Afetado",
+      "situacao": "Em Julgamento",
       "ramo": "Execução Penal e de Medidas Alternativas",
       "assuntos": [
         "Execução Penal e de Medidas Alternativas",
@@ -38728,7 +38736,7 @@
     },
     "1351": {
       "numero": 1351,
-      "situacao": "Afetado",
+      "situacao": "Em Julgamento",
       "ramo": "Decorrente de Violência Doméstica",
       "assuntos": [
         "Decorrente de Violência Doméstica",
@@ -39100,19 +39108,19 @@
     },
     "1364": {
       "numero": 1364,
-      "situacao": "Afetado",
+      "situacao": "Acórdão Publicado",
       "ramo": "Cofins",
       "assuntos": [
         "Cofins",
         "PIS"
       ],
       "questao": "Possibilidade de apuração de créditos de PIS /COFINS em regime não cumulativo sobre o valor do ICMS incidente sobre a operação de aquisição, à luz do disposto no art. 3º, § 2º, III, das Leis 10.637/2002 e 10.833/2003, incluído pela Lei 14.592/2023.",
-      "teseFirmada": "",
+      "teseFirmada": "É vedada a apuração de créditos da contribuição ao PIS e da COFINS, no regime não cumulativo, sobre o valor do ICMS que tenha incidido sobre a operação de aquisição, nos termos do art. 3 º, § 2º, III, das Leis 10.637/2002 e 10.833/2003, incluído pela Lei 14.592/2023.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2150894/RS",
       "relator": "PAULO SÉRGIO DOMINGUES",
       "dataAfetacao": "24/06/2025",
-      "dataJulgamento": "",
+      "dataJulgamento": "14/10/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1364&cod_tema_final=1364",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222150894%22&O=JT",
@@ -39522,7 +39530,7 @@
     },
     "1379": {
       "numero": 1379,
-      "situacao": "Afetado",
+      "situacao": "Mérito Julgado",
       "ramo": "Contribuições Previdenciárias",
       "assuntos": [
         "Contribuições Previdenciárias",
@@ -39537,12 +39545,12 @@
         "IRPF/Imposto de Renda de Pessoa Física"
       ],
       "questao": "Deliberar acerca da incidência, ou não, de contribuição previdenciária e de terceiros no momento em que se exerce a opção de compra de ações no âmbito do plano denominado stock option.",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2199631/SP",
       "relator": "SÉRGIO KUKINA",
       "dataAfetacao": "11/09/2025",
-      "dataJulgamento": "",
+      "dataJulgamento": "14/10/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1379&cod_tema_final=1379",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222199631%22&O=JT",
@@ -39558,7 +39566,7 @@
     },
     "1380": {
       "numero": 1380,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Acórdão Publicado - RE Pendente",
       "ramo": "PIS - Importação",
       "assuntos": [
         "PIS - Importação",
@@ -39670,7 +39678,7 @@
     },
     "1384": {
       "numero": 1384,
-      "situacao": "Mérito Julgado",
+      "situacao": "Acórdão Publicado - RE Pendente",
       "ramo": "Reintegração de Posse",
       "assuntos": [
         "Reintegração de Posse",
@@ -39678,7 +39686,7 @@
         "Reintegração de Posse"
       ],
       "questao": "Estabelecer se a União, o DNIT e/ou a ANTT devem obrigatoriamente participar de ações possessórias ajuizadas por concessionárias de serviços públicos federais contra particulares que ocupam faixas de domínio de ferrovias ou rodovias federais, independentemente de sua manifestação de vontade, ou se a declaração de ausência de interesse jurídico por esses entes é suficiente para afastar a competência da Justiça Federal, deslocando o feito para a Justiça estadual.",
-      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
+      "teseFirmada": "(i) Nas ações possessórias ajuizadas por concessionária de serviço público em defesa da posse direta exercida sobre faixa de domínio de rodovia ou ferrovia federal, a União, o Departamento Nacional de Infraestrutura de Transportes (DNIT) e a Agência Nacional de Transportes Terrestres (ANTT) não podem ser compelidos a integrar a relação processual contra sua vontade, seja a título de assistência — modalidade de intervenção voluntária (arts. 119 a 124 do CPC) —, seja a título de litisconsórcio necessário, que não se configura, dada a natureza cindível da relação possessória (art. 114 do CPC);(ii) A titularidade dominial do bem público assim como o exercício de atribuições legais de administração, fiscalização ou regulação não caracterizam, por si sós, interesse jurídico direto apto a impor a participação obrigatória desses entes na demanda e a atrair a competência da Justiça Federal (art. 109, I, da CF/1988);(iii) A legitimidade reconhecida ao ente público para intervir em ações possessórias entre particulares, nos termos da Súmula 637 do STJ, traduz faculdade processual e não se confunde com hipótese de litisconsórcio necessário.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2195089/RS",
       "relator": "GURGEL DE FARIA",
@@ -39727,18 +39735,18 @@
     },
     "1386": {
       "numero": 1386,
-      "situacao": "Afetado",
+      "situacao": "Mérito Julgado",
       "ramo": "Concessão",
       "assuntos": [
         "Concessão"
       ],
       "questao": "Definir se, nas hipóteses de indeferimento administrativo do pedido de pensão por morte de servidor público, o prazo prescricional do Decreto n. 20.910/1932 atinge apenas as prestações vencidas ou alcança o próprio direito à pensão (fundo do direito), impedindo definitivamente o reconhecimento judicial do benefício após cinco anos contados do ato denegatório.",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2227232/RS",
       "relator": "GURGEL DE FARIA",
       "dataAfetacao": "15/10/2025",
-      "dataJulgamento": "",
+      "dataJulgamento": "14/10/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1386&cod_tema_final=1386",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222227232%22&O=JT",
@@ -40193,18 +40201,18 @@
     },
     "1403": {
       "numero": 1403,
-      "situacao": "Em Julgamento",
+      "situacao": "Mérito Julgado",
       "ramo": "DIREITO PENAL",
       "assuntos": [
         "DIREITO PENAL"
       ],
       "questao": "Definir o termo inicial da contagem do prazo para o Ministério Público impugnar decisão judicial proferida pelo Tribunal do Júri.",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 2225548/PA",
       "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "22/12/2025",
-      "dataJulgamento": "",
+      "dataJulgamento": "08/10/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1403&cod_tema_final=1403",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222225548%22&O=JT",
@@ -40592,7 +40600,7 @@
     },
     "1421": {
       "numero": 1421,
-      "situacao": "Acórdão Publicado - RE Pendente",
+      "situacao": "Trânsito em Julgado",
       "ramo": "Parcelas de benefício não pagas",
       "assuntos": [
         "Parcelas de benefício não pagas",
@@ -40779,7 +40787,7 @@
     },
     "1430": {
       "numero": 1430,
-      "situacao": "Afetado",
+      "situacao": "Em Julgamento",
       "ramo": "DIREITO PENAL",
       "assuntos": [
         "DIREITO PENAL",
@@ -40800,7 +40808,7 @@
     },
     "1431": {
       "numero": 1431,
-      "situacao": "Afetado",
+      "situacao": "Em Julgamento",
       "ramo": "Tráfico de Drogas e Condutas Afins",
       "assuntos": [
         "Tráfico de Drogas e Condutas Afins",
@@ -40821,7 +40829,7 @@
     },
     "1432": {
       "numero": 1432,
-      "situacao": "Afetado",
+      "situacao": "Mérito Julgado",
       "ramo": "Desapropriação por Interesse Social para Reforma Agrária",
       "assuntos": [
         "Desapropriação por Interesse Social para Reforma Agrária",
@@ -40829,12 +40837,12 @@
         "Penhora / Depósito/ Avaliação"
       ],
       "questao": "Definir o teor do conceito de contemporaneidade da avaliação para identificação do preço atual de mercado em ação expropriatória direta ou indireta, para fins de fixar o momento a ser considerado na apuração do montante indenizatório, tanto em termos de parâmetro geral, quanto das exceções cabíveis.",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2004109/PE",
       "relator": "AFRÂNIO VILELA",
       "dataAfetacao": "07/05/2026",
-      "dataJulgamento": "",
+      "dataJulgamento": "14/10/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1432&cod_tema_final=1432",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222004109%22&O=JT",
@@ -40843,7 +40851,7 @@
     },
     "1433": {
       "numero": 1433,
-      "situacao": "Afetado",
+      "situacao": "Em Julgamento",
       "ramo": "Índice de 28",
       "assuntos": [
         "Índice de 28",
@@ -41273,7 +41281,7 @@
     },
     "1454": {
       "numero": 1454,
-      "situacao": "Afetado",
+      "situacao": "Em Julgamento",
       "ramo": "Repetição de indébito",
       "assuntos": [
         "Repetição de indébito"
@@ -41293,7 +41301,7 @@
     },
     "1455": {
       "numero": 1455,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Acórdão Publicado - RE Pendente",
       "ramo": "Cofins",
       "assuntos": [
         "Cofins",

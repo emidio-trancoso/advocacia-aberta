@@ -23,19 +23,90 @@
     "fonte": {
       "arquivo": "lei_l9289.json",
       "colecao": "artigos",
-      "sha256": "f7931d5830d942743583b7561398db28b931372f6f4be382f3d3b0f829f1befb",
-      "total_registros": 18,
-      "gerado_em": "2026-10-18T12:49:55+00:00"
+      "sha256": "d604f5c83cae841418480e9954e746a7ffd59a2bb9f0f284c2012c441278d6f4",
+      "total_registros": 21,
+      "gerado_em": "2026-11-12T19:41:39+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 1,
-      "anotacoes": 2,
-      "anotacoes_sem_diploma_nomeado": 1
+      "artigos_com_anotacao": 6,
+      "anotacoes": 64,
+      "anotacoes_sem_diploma_nomeado": 17
     }
   },
   "vigencia": {
+    "1": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 3º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "… da taxa referencial do Índice Nacional de Preços ao Consumidor Amplo (IPCA) ou de outro índice que vier a substituí-lo.",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 4º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "…nte vinculada a ações de modernização e aparelhamento do Poder Judiciário no exercício de sua independência e autonomia.",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 5º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "…dos à disciplina das custas judiciais, no âmbito da Justiça Federal, respeitada a gratuidade de justiça prevista em lei.",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 6º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "…imento em faixa superior, o juiz poderá conceder a gratuidade de justiça em vista das particularidades do caso concreto.",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 7º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "…emonstrar a efetiva insuficiência de recursos para pagamento das custas, despesas processuais e honorários advocatícios.",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 8º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "… presunção de que trata o § 6º deste artigo é relativa, admitida prova em contrário, a ser produzida pela parte adversa.",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        }
+      ]
+    },
     "14": {
       "situacao": null,
       "eventos": [
@@ -56,6 +127,578 @@
           "diploma": null,
           "trecho": "…bservado o disposto nos §§ 1o a 7o do art. 1.007 do Código de Processo Civil; (Redação dada pela Lei nº 13.105, de 2015)",
           "literal": "(Vigência)"
+        }
+      ]
+    },
+    "14-A": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "inclusao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "…pecial da Justiça Federal (Fejufe), que integrará a estrutura administrativa da Justiça Federal, subordinando-se ao CJF.",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 1º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "…s de organização, funcionamento, composição, receitas, destinação dos recursos e demais aspectos relacionados ao Fejufe.",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "…de Fortalecimento do Acesso à Justiça, Promoção dos Direitos Fundamentais e Estruturação da Defensoria Pública da União.",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 3º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "…do-lhe dirigir e supervisionar os trabalhos relativos à implementação, à execução e ao controle das atividades do Fundo.",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 4º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "…ção dos recursos do Fejufe entre os Tribunais Regionais Federais, observados, cumulativamente, indicadores relacionados:",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso I",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "I - à arrecadação das receitas que compõem o Fundo;",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso II",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "…considerados a quantidade de processos em tramitação, os casos novos, os processos distribuídos e os processos baixados;",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso III",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "III - ao desempenho institucional, incluídos indicadores de produtividade e eficiência administrativa;",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso IV",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "…ulação atendida, a dispersão geográfica das unidades judiciárias e os custos necessários à garantia do acesso à justiça;",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso V",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "…genas e povos e comunidades tradicionais, bem como nas demais situações que demandem atuação jurisdicional diferenciada.",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 5º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "…iação do acesso à justiça e o fortalecimento da capacidade operacional da Justiça Federal em todo o território nacional.",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        }
+      ]
+    },
+    "14-B": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "inclusao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "… prestar jurisdição à população em vulnerabilidade social e localizada em regiões de difícil acesso do interior do País.",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "parágrafo único",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "…tre magistrados e servidores, considerados as necessidades institucionais e o planejamento estratégico de cada tribunal.",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        }
+      ]
+    },
+    "14-C": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "inclusao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "Art. 14-C. Constituem receitas do Fejufe as provenientes de:",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso I",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "I - dotações orçamentárias próprias;",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso II",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "II - custas recolhidas no âmbito da Justiça Federal de 1º e 2º graus;",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "inciso III",
+          "diploma": null,
+          "trecho": "III -",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso III",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "III - (VETADO);",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "inciso IV",
+          "diploma": null,
+          "trecho": "IV -",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso IV",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "IV - (VETADO);",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "inciso V",
+          "diploma": null,
+          "trecho": "V -",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso V",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "V - (VETADO);",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "inciso VI",
+          "diploma": null,
+          "trecho": "VI -",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso VI",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "VI - (VETADO);",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "inciso VII",
+          "diploma": null,
+          "trecho": "VII -",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso VII",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "VII - (VETADO);",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "inciso VIII",
+          "diploma": null,
+          "trecho": "VIII -",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso VIII",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "VIII - (VETADO);",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "inciso IX",
+          "diploma": null,
+          "trecho": "IX -",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso IX",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "IX - (VETADO);",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "inciso X",
+          "diploma": null,
+          "trecho": "X -",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso X",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "X - (VETADO);",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso XI",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "XI - emendas parlamentares destinadas a atender às finalidades previstas no art. 14-B desta Lei;",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "inciso XII",
+          "diploma": null,
+          "trecho": "XII -",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso XII",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "XII - (VETADO);",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "inciso XIII",
+          "diploma": null,
+          "trecho": "XIII -",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso XIII",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "XIII - (VETADO);",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "inciso XIV",
+          "diploma": null,
+          "trecho": "XIV -",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso XIV",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "XIV - (VETADO);",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "inciso XV",
+          "diploma": null,
+          "trecho": "XV -",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso XV",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "XV - (VETADO);",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "inciso XVI",
+          "diploma": null,
+          "trecho": "XVI -",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso XVI",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "XVI - (VETADO);",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "inciso XVII",
+          "diploma": null,
+          "trecho": "XVII -",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso XVII",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "XVII - (VETADO);",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "inciso XVIII",
+          "diploma": null,
+          "trecho": "XVIII -",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso XVIII",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "XVIII - (VETADO);",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "inciso XIX",
+          "diploma": null,
+          "trecho": "XIX -",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso XIX",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "XIX - (VETADO); e",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso XX",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "XX - outras receitas.",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 1º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "…ro positivo apurado em balanço anual será transferido anualmente para o exercício seguinte, a crédito do próprio Fejufe.",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "§ 2º Das receitas previstas nos incisos II e III do caput deste artigo, ficam destinadas:",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso I",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "I - 9% (nove por cento) para o Fundo de Fortalecimento da Cidadania e Aperfeiçoamento do Ministério Público da União;",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso II",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "…por cento) para o Fundo de Modernização do Conselho Nacional de Justiça, instituído por regulação própria daquele órgão;",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso III",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "…de Fortalecimento do Acesso à Justiça, Promoção dos Direitos Fundamentais e Estruturação da Defensoria Pública da União.",
+          "literal": "(Incluído pela Lei nº 15.498, de 2026)"
+        }
+      ]
+    },
+    "15": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.498",
+            "ano": 2026
+          },
+          "trecho": "…á paga aos Oficiais de Justiça Avaliadores da Justiça Federal de 1º e 2º graus de acordo com critérios fixados pelo CJF.",
+          "literal": "(Redação dada pela Lei nº 15.498, de 2026)"
         }
       ]
     }

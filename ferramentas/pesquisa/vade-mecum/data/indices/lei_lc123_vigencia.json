@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_lc123.json",
       "colecao": "artigos",
-      "sha256": "d65731bef9152383542cb05734f71ecfabb264d20bba49267f3c17f0ffe6fd87",
+      "sha256": "43e7a9acf77f2d429d0f4d29d70f06a4f580ff1bd996574af75376e2cbc8ec26",
       "total_registros": 134,
-      "gerado_em": "2026-10-18T12:50:10+00:00"
+      "gerado_em": "2026-11-12T19:41:44+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 90,
-      "anotacoes": 528,
+      "anotacoes": 531,
       "anotacoes_sem_diploma_nomeado": 132
     }
   },
@@ -65,7 +65,7 @@
           "tipo": "veto",
           "unidade": "§ 2º",
           "diploma": null,
-          "trecho": "§ 2o",
+          "trecho": "§ 2º",
           "literal": "(VETADO)"
         },
         {
@@ -587,7 +587,7 @@
           "tipo": "veto",
           "unidade": "§ 5º",
           "diploma": null,
-          "trecho": "§ 5o",
+          "trecho": "§ 5º",
           "literal": "(VETADO)"
         },
         {
@@ -598,7 +598,7 @@
             "numero": "147",
             "ano": 2014
           },
-          "trecho": "§ 5o (VETADO).",
+          "trecho": "§ 5º (VETADO).",
           "literal": "(Incluído pela Lei Complementar nº 147, de 2014)"
         },
         {
@@ -647,7 +647,7 @@
             "numero": "147",
             "ano": 2014
           },
-          "trecho": "§ 5o O disposto neste artigo não é impeditivo da inscrição fiscal.",
+          "trecho": "§ 5º O disposto neste artigo não é impeditivo da inscrição fiscal.",
           "literal": "(Incluído pela Lei Complementar nº 147, de 2014)"
         }
       ]
@@ -679,7 +679,7 @@
             "numero": "147",
             "ano": 2014
           },
-          "trecho": "Art. 8o Será assegurado aos empresários e pessoas jurídicas:",
+          "trecho": "Art. 8º Será assegurado aos empresários e pessoas jurídicas:",
           "literal": "(Redação dada pela Lei Complementar nº 147, de 2014)"
         },
         {
@@ -745,7 +745,7 @@
             "numero": "147",
             "ano": 2014
           },
-          "trecho": "§ 1o O sistema de que trata o inciso II do caput deve garantir aos órgãos e entidades integrados:",
+          "trecho": "§ 1º O sistema de que trata o inciso II do caput deve garantir aos órgãos e entidades integrados:",
           "literal": "(Incluído pela Lei Complementar nº 147, de 2014)"
         },
         {
@@ -823,7 +823,7 @@
           "tipo": "revogacao",
           "unidade": "§ 3º",
           "diploma": null,
-          "trecho": "§ 3o",
+          "trecho": "§ 3º",
           "literal": "(Revogado)"
         },
         {
@@ -834,7 +834,7 @@
             "numero": "147",
             "ano": 2014
           },
-          "trecho": "§ 3o (Revogado).",
+          "trecho": "§ 3º (Revogado).",
           "literal": "(Redação dada pela Lei Complementar nº 147, de 2014)"
         },
         {
@@ -863,7 +863,7 @@
           "tipo": "revogacao",
           "unidade": "§ 8º",
           "diploma": null,
-          "trecho": "§ 8o",
+          "trecho": "§ 8º",
           "literal": "(Revogado)"
         },
         {
@@ -874,14 +874,14 @@
             "numero": "147",
             "ano": 2014
           },
-          "trecho": "§ 8o (Revogado).",
+          "trecho": "§ 8º (Revogado).",
           "literal": "(Redação dada pela Lei Complementar nº 147, de 2014)"
         },
         {
           "tipo": "revogacao",
           "unidade": "§ 9º",
           "diploma": null,
-          "trecho": "§ 9o",
+          "trecho": "§ 9º",
           "literal": "(Revogado)"
         },
         {
@@ -892,7 +892,7 @@
             "numero": "147",
             "ano": 2014
           },
-          "trecho": "§ 9o (Revogado).",
+          "trecho": "§ 9º (Revogado).",
           "literal": "(Redação dada pela Lei Complementar nº 147, de 2014)"
         },
         {
@@ -1036,7 +1036,7 @@
           "tipo": "veto",
           "unidade": "§ 4º",
           "diploma": null,
-          "trecho": "§ 4o",
+          "trecho": "§ 4º",
           "literal": "(VETADO)"
         },
         {
@@ -1512,7 +1512,7 @@
           "tipo": "veto",
           "unidade": "§ 3º",
           "diploma": null,
-          "trecho": "§ 3o",
+          "trecho": "§ 3º",
           "literal": "(VETADO)"
         },
         {
@@ -1561,7 +1561,7 @@
             "numero": "155",
             "ano": 2016
           },
-          "trecho": "…mplementar nº 155, de 2016) Produção de efeito § 1o A. A alíquota efetiva é o resultado de: RBT12xAliq-PD, em que: RBT12",
+          "trecho": "§ 1º A. A alíquota efetiva é o resultado de:",
           "literal": "(Incluído pela Lei Complementar nº 155, de 2016)"
         },
         {
@@ -1671,7 +1671,7 @@
             "numero": "147",
             "ano": 2014
           },
-          "trecho": "§ 4o O contribuinte deverá considerar, destacadamente, para fim de pagamento, as receitas decorrentes da:",
+          "trecho": "§ 4º O contribuinte deverá considerar, destacadamente, para fim de pagamento, as receitas decorrentes da:",
           "literal": "(Redação dada pela Lei Complementar nº 147, de 2014)"
         },
         {
@@ -1781,7 +1781,7 @@
             "numero": "147",
             "ano": 2014
           },
-          "trecho": "§ 4o-A. O contribuinte deverá segregar, também, as receitas:",
+          "trecho": "§ 4º-A. O contribuinte deverá segregar, também, as receitas:",
           "literal": "(Incluído pela Lei Complementar nº 147, de 2014)"
         },
         {
@@ -1892,7 +1892,7 @@
           "tipo": "revogacao",
           "unidade": "§ 5º",
           "diploma": null,
-          "trecho": "§ 5o-A.",
+          "trecho": "§ 5º-A.",
           "literal": "(Revogado)"
         },
         {
@@ -1903,7 +1903,7 @@
             "numero": "147",
             "ano": 2014
           },
-          "trecho": "§ 5o-A. (Revogado).",
+          "trecho": "§ 5º-A. (Revogado).",
           "literal": "(Redação dada pela Lei Complementar nº 147, de 2014)"
         },
         {
@@ -2129,7 +2129,7 @@
           "tipo": "revogacao",
           "unidade": "§ 5º",
           "diploma": null,
-          "trecho": "§ 5o-G.",
+          "trecho": "§ 5º-G.",
           "literal": "(Revogado)"
         },
         {
@@ -2140,7 +2140,7 @@
             "numero": "147",
             "ano": 2014
           },
-          "trecho": "§ 5o-G. (Revogado).",
+          "trecho": "§ 5º-G. (Revogado).",
           "literal": "(Redação dada pela Lei Complementar nº 147, de 2014)"
         },
         {
@@ -2366,7 +2366,7 @@
           "tipo": "veto",
           "unidade": "§ 5º",
           "diploma": null,
-          "trecho": "§ 5o-L.",
+          "trecho": "§ 5º-L.",
           "literal": "(VETADO)"
         },
         {
@@ -2377,7 +2377,7 @@
             "numero": "155",
             "ano": 2016
           },
-          "trecho": "§ 5o-L. (VETADO).",
+          "trecho": "§ 5º-L. (VETADO).",
           "literal": "(Incluído pela Lei Complementar nº 155, de 2016)"
         },
         {
@@ -2928,7 +2928,7 @@
             "numero": "147",
             "ano": 2014
           },
-          "trecho": "§ 1o A formalização de MEI não tem caráter eminentemente econômico ou fiscal.",
+          "trecho": "§ 1º A formalização de MEI não tem caráter eminentemente econômico ou fiscal.",
           "literal": "(Incluído pela Lei Complementar nº 147, de 2014)"
         },
         {
@@ -2950,7 +2950,7 @@
             "numero": "147",
             "ano": 2014
           },
-          "trecho": "§ 3o O MEI é modalidade de microempresa.",
+          "trecho": "§ 3º O MEI é modalidade de microempresa.",
           "literal": "(Incluído pela Lei Complementar nº 147, de 2014)"
         },
         {
@@ -3124,7 +3124,7 @@
             "numero": "155",
             "ano": 2016
           },
-          "trecho": "§ 2o A opção prevista no caput produzirá efeitos somente para o ano-calendário subsequente, salvo deliberação do CGSN.",
+          "trecho": "§ 2º A opção prevista no caput produzirá efeitos somente para o ano-calendário subsequente, salvo deliberação do CGSN.",
           "literal": "(Redação dada pela Lei Complementar nº 155, de 2016)"
         },
         {
@@ -3338,7 +3338,7 @@
           "tipo": "veto",
           "unidade": "§ 2º",
           "diploma": null,
-          "trecho": "§ 2o",
+          "trecho": "§ 2º",
           "literal": "(VETADO)"
         },
         {
@@ -3349,7 +3349,7 @@
             "numero": "155",
             "ano": 2016
           },
-          "trecho": "§ 2o (VETADO).",
+          "trecho": "§ 2º (VETADO).",
           "literal": "(Incluído pela Lei Complementar nº 155, de 2016)"
         }
       ]
@@ -3633,7 +3633,7 @@
           "tipo": "revogacao",
           "unidade": "§ 4º",
           "diploma": null,
-          "trecho": "§ 4o",
+          "trecho": "§ 4º",
           "literal": "(REVOGADO)"
         },
         {
@@ -3695,7 +3695,7 @@
           "tipo": "veto",
           "unidade": "§ 2º",
           "diploma": null,
-          "trecho": "§ 2o",
+          "trecho": "§ 2º",
           "literal": "(VETADO)"
         },
         {
@@ -3706,7 +3706,7 @@
             "numero": "155",
             "ano": 2016
           },
-          "trecho": "§ 2o (VETADO).",
+          "trecho": "§ 2º (VETADO).",
           "literal": "(Incluído pela Lei Complementar nº 155, de 2016)"
         },
         {
@@ -3724,7 +3724,7 @@
           "tipo": "veto",
           "unidade": "§ 4º",
           "diploma": null,
-          "trecho": "§ 4o",
+          "trecho": "§ 4º",
           "literal": "(VETADO)"
         },
         {
@@ -3735,7 +3735,7 @@
             "numero": "155",
             "ano": 2016
           },
-          "trecho": "§ 4o (VETADO).",
+          "trecho": "§ 4º (VETADO).",
           "literal": "(Incluído pela Lei Complementar nº 155, de 2016)"
         }
       ]
@@ -4197,7 +4197,7 @@
           "tipo": "revogacao",
           "unidade": "§ 1º",
           "diploma": null,
-          "trecho": "§ 1o",
+          "trecho": "§ 1º",
           "literal": "(Revogado)"
         },
         {
@@ -4208,7 +4208,7 @@
             "numero": "147",
             "ano": 2014
           },
-          "trecho": "§ 1o (Revogado).",
+          "trecho": "§ 1º (Revogado).",
           "literal": "(Redação dada pela Lei Complementar nº 147, de 2014)"
         },
         {
@@ -4350,7 +4350,7 @@
           "tipo": "veto",
           "unidade": "§ 2º",
           "diploma": null,
-          "trecho": "§ 2o",
+          "trecho": "§ 2º",
           "literal": "(VETADO)"
         },
         {
@@ -4484,7 +4484,7 @@
           "tipo": "veto",
           "unidade": "§ 3º",
           "diploma": null,
-          "trecho": "§ 3o",
+          "trecho": "§ 3º",
           "literal": "(VETADO)"
         },
         {
@@ -4495,7 +4495,7 @@
             "numero": "155",
             "ano": 2016
           },
-          "trecho": "§ 3o (VETADO).",
+          "trecho": "§ 3º (VETADO).",
           "literal": "(Incluído pela Lei Complementar nº 155, de 2016)"
         },
         {
@@ -4604,6 +4604,17 @@
           "literal": "(Incluído pela Lei Complementar nº 155, de 2016)"
         },
         {
+          "tipo": "inclusao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Lei Complementar",
+            "numero": "155",
+            "ano": 2016
+          },
+          "trecho": "§ 2º O aporte de capital poderá ser realizado por pessoa física ou por pessoa jurídica, denominadas investidor-anjo.",
+          "literal": "(Incluído pela Lei Complementar nº 155, de 2016)"
+        },
+        {
           "tipo": "redacao",
           "unidade": "§ 2º",
           "diploma": {
@@ -4633,7 +4644,7 @@
             "numero": "155",
             "ano": 2016
           },
-          "trecho": "§ 4o O investidor-anjo:",
+          "trecho": "§ 4º O investidor-anjo:",
           "literal": "(Incluído pela Lei Complementar nº 155, de 2016)"
         },
         {
@@ -4703,6 +4714,17 @@
           "literal": "(Incluído pela Lei Complementar nº 155, de 2016)"
         },
         {
+          "tipo": "inclusao",
+          "unidade": "§ 6º",
+          "diploma": {
+            "especie": "Lei Complementar",
+            "numero": "155",
+            "ano": 2016
+          },
+          "trecho": "…o superior a 50% (cinquenta por cento) dos lucros da sociedade enquadrada como microempresa ou empresa de pequeno porte.",
+          "literal": "(Incluído pela Lei Complementar nº 155, de 2016)"
+        },
+        {
           "tipo": "redacao",
           "unidade": "§ 6º",
           "diploma": {
@@ -4736,6 +4758,17 @@
           "literal": "(Incluído pela Lei Complementar nº 182, de 2021)"
         },
         {
+          "tipo": "inclusao",
+          "unidade": "§ 7º",
+          "diploma": {
+            "especie": "Lei Complementar",
+            "numero": "155",
+            "ano": 2016
+          },
+          "trecho": "…Lei no 10.406, de 10 de janeiro de 2002 - Código Civil, não podendo ultrapassar o valor investido devidamente corrigido.",
+          "literal": "(Incluído pela Lei Complementar nº 155, de 2016)"
+        },
+        {
           "tipo": "redacao",
           "unidade": "§ 7º",
           "diploma": {
@@ -4754,7 +4787,7 @@
             "numero": "155",
             "ano": 2016
           },
-          "trecho": "§ 8o O disposto no § 7o deste artigo não impede a transferência da titularidade do aporte para terceiros.",
+          "trecho": "§ 8º O disposto no § 7o deste artigo não impede a transferência da titularidade do aporte para terceiros.",
           "literal": "(Incluído pela Lei Complementar nº 155, de 2016)"
         },
         {
@@ -5498,7 +5531,7 @@
           "tipo": "veto",
           "unidade": "§ 3º",
           "diploma": null,
-          "trecho": "§ 3o",
+          "trecho": "§ 3º",
           "literal": "(VETADO)"
         }
       ]
@@ -5522,28 +5555,28 @@
           "tipo": "veto",
           "unidade": "§ 5º",
           "diploma": null,
-          "trecho": "§ 5o",
+          "trecho": "§ 5º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "veto",
           "unidade": "§ 6º",
           "diploma": null,
-          "trecho": "§ 6o",
+          "trecho": "§ 6º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "veto",
           "unidade": "§ 7º",
           "diploma": null,
-          "trecho": "§ 7o",
+          "trecho": "§ 7º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "veto",
           "unidade": "§ 8º",
           "diploma": null,
-          "trecho": "§ 8o",
+          "trecho": "§ 8º",
           "literal": "(VETADO)"
         }
       ]

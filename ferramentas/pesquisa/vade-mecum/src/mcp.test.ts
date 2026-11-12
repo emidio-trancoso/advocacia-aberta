@@ -91,12 +91,12 @@ test("MCP anuncia cobertura e contagens derivadas dos dados", async () => {
   expect(temasRG?.description).toContain("art. 927, III, do CPC");
 
   const informativo = tools!.find((tool) => tool.name === "buscar_informativo");
-  expect(informativo?.description).toContain("11.629 julgados");
+  expect(informativo?.description).toContain("11.642 julgados");
   expect(informativo?.description).toContain("compilação institucional");
   expect(informativo?.description).toContain("não é vinculante por si só");
 
   const espelho = tools!.find((tool) => tool.name === "buscar_espelho");
-  expect(espelho?.description).toContain("12.156 acórdãos");
+  expect(espelho?.description).toContain("12.731 acórdãos");
   expect(espelho?.description).toContain("Secretaria de Jurisprudência do STJ");
   expect(espelho?.description).toContain("não é vinculante por si só");
 

@@ -23,16 +23,16 @@
     "fonte": {
       "arquivo": "lei_ctb.json",
       "colecao": "artigos",
-      "sha256": "804e942ad176b8d36724883600df75726719626347b2fb4b74ab17fff585feca",
+      "sha256": "fbac99099ce19e67cc151e4a9c38abf01f47eacb2c009a81561eab1139f51fa4",
       "total_registros": 391,
-      "gerado_em": "2026-10-18T12:46:43+00:00"
+      "gerado_em": "2026-11-12T19:41:01+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 208,
-      "anotacoes": 1292,
-      "anotacoes_sem_diploma_nomeado": 515
+      "artigos_com_anotacao": 209,
+      "anotacoes": 1297,
+      "anotacoes_sem_diploma_nomeado": 516
     }
   },
   "vigencia": {
@@ -903,7 +903,7 @@
             "ano": 2016
           },
           "trecho": "…s órgãos executivos dos Estados e do Distrito Federal ou a entidade habilitada para esse fim pelo poder público federal;",
-          "literal": "(Redação dada pela lei nº 13.258, de 2016)"
+          "literal": "(Redação dada pela Lei nº 13.258, de 2016)"
         },
         {
           "tipo": "inclusao",
@@ -1416,13 +1416,13 @@
             "ano": 2020
           },
           "trecho": "…pecífica para a infração cometida, e comunicar a aplicação da penalidade ao órgão máximo executivo de trânsito da União;",
-          "literal": "(Incluído dada pela Lei nº 14.071, de 2020)"
+          "literal": "(Incluído pela Lei nº 14.071, de 2020)"
         },
         {
           "tipo": "vigencia",
           "unidade": "inciso XXII",
           "diploma": null,
-          "trecho": "…ar a aplicação da penalidade ao órgão máximo executivo de trânsito da União; (Incluído dada pela Lei nº 14.071, de 2020)",
+          "trecho": "…municar a aplicação da penalidade ao órgão máximo executivo de trânsito da União; (Incluído pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
@@ -2438,8 +2438,15 @@
       ]
     },
     "67-B": {
-      "situacao": null,
+      "situacao": "vetado",
       "eventos": [
+        {
+          "tipo": "veto",
+          "unidade": "caput",
+          "diploma": null,
+          "trecho": "Art 67-B.",
+          "literal": "(VETADO)"
+        },
         {
           "tipo": "inclusao",
           "unidade": "caput",
@@ -2448,14 +2455,14 @@
             "numero": "12.619",
             "ano": 2012
           },
-          "trecho": "Art 67-B. VETADO).",
+          "trecho": "Art 67-B. (VETADO).",
           "literal": "(Incluído Lei nº 12.619, de 2012)"
         },
         {
           "tipo": "vigencia",
           "unidade": "caput",
           "diploma": null,
-          "trecho": "Art 67-B. VETADO). (Incluído Lei nº 12.619, de 2012)",
+          "trecho": "Art 67-B. (VETADO). (Incluído Lei nº 12.619, de 2012)",
           "literal": "(Vigência)"
         }
       ]
@@ -3230,13 +3237,13 @@
             "ano": 2016
           },
           "trecho": "…ela autoridade de trânsito, levando-se em consideração a dimensão da obra ou do evento e o prejuízo causado ao trânsito.",
-          "literal": "(Redação pela Lei nº 13.281, de 2016)"
+          "literal": "(Redação dada pela Lei nº 13.281, de 2016)"
         },
         {
           "tipo": "vigencia",
           "unidade": "§ 3º",
           "diploma": null,
-          "trecho": "… em consideração a dimensão da obra ou do evento e o prejuízo causado ao trânsito. (Redação pela Lei nº 13.281, de 2016)",
+          "trecho": "…onsideração a dimensão da obra ou do evento e o prejuízo causado ao trânsito. (Redação dada pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         }
       ]
@@ -4198,7 +4205,7 @@
             "ano": 2023
           },
           "trecho": "…rito Federal, observado o disposto no inciso III do parágrafo único do art. 79 da Lei nº 14.133, de 1º de abril de 2021.",
-          "literal": "(Incluído dada pela Lei nº 14.599, de 2023)"
+          "literal": "(Incluído pela Lei nº 14.599, de 2023)"
         }
       ]
     },
@@ -4288,7 +4295,7 @@
             "ano": 2023
           },
           "trecho": "…cessidade de escalonamento para o atendimento ao chamamento dos consumidores, avaliadas as questões de segurança viária.",
-          "literal": "(Incluído dada pela Lei nº 14.599, de 2023)"
+          "literal": "(Incluído pela Lei nº 14.599, de 2023)"
         }
       ]
     },
@@ -6068,7 +6075,7 @@
             "ano": 2022
           },
           "trecho": "VII - sem possuir os cursos especializados ou específicos obrigatórios:",
-          "literal": "(Incluído dada pela Lei nº 14.440, de 2022)"
+          "literal": "(Incluído pela Lei nº 14.440, de 2022)"
         },
         {
           "tipo": "inclusao",
@@ -6079,7 +6086,7 @@
             "ano": 2022
           },
           "trecho": "Infração - gravíssima;",
-          "literal": "(Incluído dada pela Lei nº 14.440, de 2022)"
+          "literal": "(Incluído pela Lei nº 14.440, de 2022)"
         },
         {
           "tipo": "inclusao",
@@ -6090,7 +6097,18 @@
             "ano": 2022
           },
           "trecho": "Penalidade - multa;",
-          "literal": "(Incluído dada pela Lei nº 14.440, de 2022)"
+          "literal": "(Incluído pela Lei nº 14.440, de 2022)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso VII",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.440",
+            "ano": 2022
+          },
+          "trecho": "Medida administrativa - retenção do veículo até a apresentação de condutor habilitado.",
+          "literal": "(Incluído pela Lei nº 14.440, de 2022)"
         }
       ]
     },
@@ -6237,14 +6255,14 @@
             "numero": "13.281",
             "ano": 2016
           },
-          "trecho": "Parágrafo único. Aplica-se em dobro a multa prevista no caput em caso de reincidência no período de até 12 (doze) meses",
+          "trecho": "Parágrafo único. Aplica-se em dobro a multa prevista no caput em caso de reincidência no período de até 12 (doze) meses.",
           "literal": "(Incluído pela Lei nº 13.281, de 2016)"
         },
         {
           "tipo": "vigencia",
           "unidade": "parágrafo único",
           "diploma": null,
-          "trecho": "…multa prevista no caput em caso de reincidência no período de até 12 (doze) meses (Incluído pela Lei nº 13.281, de 2016)",
+          "trecho": "…ulta prevista no caput em caso de reincidência no período de até 12 (doze) meses. (Incluído pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         }
       ]
@@ -6509,10 +6527,21 @@
           "literal": "(Vigência)"
         },
         {
+          "tipo": "inclusao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "12.971",
+            "ano": 2014
+          },
+          "trecho": "…Aplica-se em dobro a multa prevista no caput em caso de reincidência no período de 12 (doze) meses da infração anterior.",
+          "literal": "(Incluído pela Lei nº 12.971, de 2014)"
+        },
+        {
           "tipo": "vigencia",
           "unidade": "§ 2º",
           "diploma": null,
-          "trecho": "… caput em caso de reincidência no período de 12 (doze) meses da infração anterior. Incluído pela Lei nº 12.971, de 2014)",
+          "trecho": "…caput em caso de reincidência no período de 12 (doze) meses da infração anterior. (Incluído pela Lei nº 12.971, de 2014)",
           "literal": "(Vigência)"
         }
       ]
@@ -8556,13 +8585,13 @@
             "ano": 2017
           },
           "trecho": "…do veículo, o qual, após aceitar a indicação, terá seu nome inscrito em campo próprio do cadastro do veículo no Renavam.",
-          "literal": "(Incluído pela Lei nº 13.495, 2017)"
+          "literal": "(Incluído pela Lei nº 13.495, de 2017)"
         },
         {
           "tipo": "vigencia",
           "unidade": "§ 10º",
           "diploma": null,
-          "trecho": "…ndicação, terá seu nome inscrito em campo próprio do cadastro do veículo no Renavam. (Incluído pela Lei nº 13.495, 2017)",
+          "trecho": "…cação, terá seu nome inscrito em campo próprio do cadastro do veículo no Renavam. (Incluído pela Lei nº 13.495, de 2017)",
           "literal": "(Vigência)"
         },
         {
@@ -8574,13 +8603,13 @@
             "ano": 2017
           },
           "trecho": "§ 11. O principal condutor será excluído do Renavam:",
-          "literal": "(Incluído pela Lei nº 13.495, 2017)"
+          "literal": "(Incluído pela Lei nº 13.495, de 2017)"
         },
         {
           "tipo": "vigencia",
           "unidade": "§ 11º",
           "diploma": null,
-          "trecho": "§ 11. O principal condutor será excluído do Renavam: (Incluído pela Lei nº 13.495, 2017)",
+          "trecho": "§ 11. O principal condutor será excluído do Renavam: (Incluído pela Lei nº 13.495, de 2017)",
           "literal": "(Vigência)"
         },
         {
@@ -8592,13 +8621,13 @@
             "ano": 2017
           },
           "trecho": "I - quando houver transferência de propriedade do veículo;",
-          "literal": "(Incluído pela Lei nº 13.495, 2017)"
+          "literal": "(Incluído pela Lei nº 13.495, de 2017)"
         },
         {
           "tipo": "vigencia",
           "unidade": "inciso I",
           "diploma": null,
-          "trecho": "I - quando houver transferência de propriedade do veículo; (Incluído pela Lei nº 13.495, 2017)",
+          "trecho": "I - quando houver transferência de propriedade do veículo; (Incluído pela Lei nº 13.495, de 2017)",
           "literal": "(Vigência)"
         },
         {
@@ -8610,13 +8639,13 @@
             "ano": 2017
           },
           "trecho": "II - mediante requerimento próprio ou do proprietário do veículo;",
-          "literal": "(Incluído pela Lei nº 13.495, 2017)"
+          "literal": "(Incluído pela Lei nº 13.495, de 2017)"
         },
         {
           "tipo": "vigencia",
           "unidade": "inciso II",
           "diploma": null,
-          "trecho": "II - mediante requerimento próprio ou do proprietário do veículo; (Incluído pela Lei nº 13.495, 2017)",
+          "trecho": "II - mediante requerimento próprio ou do proprietário do veículo; (Incluído pela Lei nº 13.495, de 2017)",
           "literal": "(Vigência)"
         },
         {
@@ -8628,13 +8657,13 @@
             "ano": 2017
           },
           "trecho": "III - a partir da indicação de outro principal condutor.",
-          "literal": "(Incluído pela Lei nº 13.495, 2017)"
+          "literal": "(Incluído pela Lei nº 13.495, de 2017)"
         },
         {
           "tipo": "vigencia",
           "unidade": "inciso III",
           "diploma": null,
-          "trecho": "III - a partir da indicação de outro principal condutor. (Incluído pela Lei nº 13.495, 2017)",
+          "trecho": "III - a partir da indicação de outro principal condutor. (Incluído pela Lei nº 13.495, de 2017)",
           "literal": "(Vigência)"
         }
       ]
@@ -10036,7 +10065,7 @@
             "numero": "13.160",
             "ano": 2015
           },
-          "trecho": "… do endereço do proprietário do veículo ou por recusa desse de recebê-la será considerada recebida para todos os efeitos",
+          "trecho": "…do endereço do proprietário do veículo ou por recusa desse de recebê-la será considerada recebida para todos os efeitos.",
           "literal": "(Incluído pela Lei nº 13.160, de 2015)"
         },
         {
@@ -10366,6 +10395,17 @@
             "ano": 2023
           },
           "trecho": "§ 5º (VETADO).",
+          "literal": "(Incluído pela Lei nº 14.599, de 2023)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 6º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.599",
+            "ano": 2023
+          },
+          "trecho": "…aos de polícia, aos de fiscalização e operação de trânsito e às ambulâncias, ainda que não identificados ostensivamente.",
           "literal": "(Incluído pela Lei nº 14.599, de 2023)"
         }
       ]
@@ -12149,6 +12189,22 @@
           "diploma": null,
           "trecho": "Art. 322.",
           "literal": "(VETADO)"
+        }
+      ]
+    },
+    "323": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "revogacao",
+          "unidade": "parágrafo único",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "14.599",
+            "ano": 2023
+          },
+          "trecho": "Parágrafo único.",
+          "literal": "(Revogado pela Lei nº 14.599, de 2023)"
         }
       ]
     },

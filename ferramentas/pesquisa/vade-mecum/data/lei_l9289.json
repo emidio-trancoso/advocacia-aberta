@@ -4,16 +4,16 @@
     "nome": "Custas na Justiça Federal",
     "lei": "Lei 9.289/1996",
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm",
-    "total_artigos": 18,
+    "total_artigos": 21,
     "version": "2.0",
-    "gerado_em": "2026-10-18T12:49:55+00:00",
+    "gerado_em": "2026-11-12T19:41:39+00:00",
     "transformacao": "planalto_html_v1",
     "registros_retidos_sem_correspondencia": []
   },
   "artigos": {
     "1": {
       "numero": "1",
-      "texto": "Art. 1º As custas devidas à União, na Justiça Federal de primeiro e segundo graus, são cobradas de acordo com as normas estabelecidas nesta Lei.\n\n§ 1° Rege-se pela legislação estadual respectiva a cobrança de custas nas causas ajuizadas perante a Justiça Estadual, no exercício da jurisdição federal.\n\n§ 2° As custas previstas nas tabelas anexas não excluem as despesas estabelecidas na legislação processual não disciplinadas por esta Lei.",
+      "texto": "Art. 1º As custas devidas à União, na Justiça Federal de primeiro e segundo graus, são cobradas de acordo com as normas estabelecidas nesta Lei.\n\n§ 1° Rege-se pela legislação estadual respectiva a cobrança de custas nas causas ajuizadas perante a Justiça Estadual, no exercício da jurisdição federal.\n\n§ 2° As custas previstas nas tabelas anexas não excluem as despesas estabelecidas na legislação processual não disciplinadas por esta Lei.\n\n§ 3º As custas previstas nas tabelas de custas anexas serão corrigidas anualmente, a partir da entrada em vigor desta Lei, pela variação no período da taxa referencial do Índice Nacional de Preços ao Consumidor Amplo (IPCA) ou de outro índice que vier a substituí-lo. (Incluído pela Lei nº 15.498, de 2026) Vigência\n\n§ 4º É vedado o uso dos recursos previstos nas tabelas I, II, III e IV desta Lei na execução de despesas com pessoal, e sua destinação deve permanecer integralmente vinculada a ações de modernização e aparelhamento do Poder Judiciário no exercício de sua independência e autonomia. (Incluído pela Lei nº 15.498, de 2026) Vigência\n\n§ 5º Compete ao Conselho da Justiça Federal (CJF) regulamentar os aspectos relacionados à disciplina das custas judiciais, no âmbito da Justiça Federal, respeitada a gratuidade de justiça prevista em lei. (Incluído pela Lei nº 15.498, de 2026) Vigência\n\n§ 6º Para fins do disposto no art. 98 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), presume-se a insuficiência de recursos em favor da pessoa natural que, comprovadamente, possua rendimentos tributáveis dentro da faixa sujeita à redução máxima do imposto de renda, na forma do art. 3º-A da Lei nº 9.250, de 26 de dezembro de 1995, incluído pela Lei nº 15.270, de 26 de novembro de 2025, observado que, no caso de a pessoa ter rendimento em faixa superior, o juiz poderá conceder a gratuidade de justiça em vista das particularidades do caso concreto. (Incluído pela Lei nº 15.498, de 2026) Vigência\n\n§ 7º A pessoa natural que possua rendimentos acima da faixa referida no § 6º deste artigo, para obter o benefício da gratuidade de justiça, deverá demonstrar a efetiva insuficiência de recursos para pagamento das custas, despesas processuais e honorários advocatícios. (Incluído pela Lei nº 15.498, de 2026) Vigência\n\n§ 8º A presunção de que trata o § 6º deste artigo é relativa, admitida prova em contrário, a ser produzida pela parte adversa. (Incluído pela Lei nº 15.498, de 2026) Vigência",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm#:~:text=Art.%201%C2%BA%20As%20custas%20devidas%20%C3%A0%20Uni%C3%A3o%2C%20na%20Justi%C3%A7a%20Federal%20de%20primeiro%20e%20segundo%20graus%2C%20s%C3%A3o%20cobradas%20de%20acordo%20com%20as%20normas",
       "keywords": [],
       "hierarchy": {
@@ -233,12 +233,12 @@
         "section_name": null
       },
       "prev": "13",
-      "next": "15"
+      "next": "14-A"
     },
-    "15": {
-      "numero": "15",
-      "texto": "Art. 15. A indenização de transporte, de que trata o art. 60 da Lei n° 8.112, de 11 de dezembro de 1990, destinada ao ressarcimento de despesas realizadas com a utilização do meio próprio de locomoção para a execução de serviços externos, será paga aos Oficiais de Justiça Avaliadores da Justiça Federal de primeiro e segundo graus, de acordo com critérios estabelecidos pelo Conselho da Justiça Federal, que fixará também o percentual correspondente.\n\nParágrafo único. Para efeito do disposto neste artigo, consideram-se como serviço externo as atividades exercidas no cumprimento das diligências fora das dependências dos Tribunais Regionais Federais ou das Seções Judiciárias em que os Oficiais de Justiça estejam lotados.",
-      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm#:~:text=Art.%2015.%20A%20indeniza%C3%A7%C3%A3o%20de%20transporte%2C%20de%20que%20trata%20o%20art.%2060%20da%20Lei%20n%C2%B0%208.112%2C%20de%2011%20de%20dezembro%20de%201990%2C",
+    "14-A": {
+      "numero": "14-A",
+      "texto": "Art. 14-A. Para financiar a modernização e o aparelhamento da Justiça Federal de 1º e 2º graus e para fortalecer sua atuação institucional, é criado o Fundo Especial da Justiça Federal (Fejufe), que integrará a estrutura administrativa da Justiça Federal, subordinando-se ao CJF. (Incluído pela Lei nº 15.498, de 2026) Vigência\n\n§ 1º Compete ao CJF estabelecer normas de organização, funcionamento, composição, receitas, destinação dos recursos e demais aspectos relacionados ao Fejufe. (Incluído pela Lei nº 15.498, de 2026) Vigência\n\n§ 2º São vedados o redirecionamento, o compartilhamento, a vinculação ou qualquer forma de utilização, direta ou indireta, dos recursos e valores que integram o presente fundo para finalidades alheias ao Poder Judiciário, autorizada a destinação de recursos e valores para o Fundo de Modernização do Conselho Nacional de Justiça, o Fundo de Fortalecimento da Cidadania e Aperfeiçoamento do Ministério Público da União e o Fundo de Fortalecimento do Acesso à Justiça, Promoção dos Direitos Fundamentais e Estruturação da Defensoria Pública da União. (Incluído pela Lei nº 15.498, de 2026) Vigência\n\n§ 3º Compete à Presidência do CJF designar magistrado para exercer a função de Diretor do Fejufe, com o apoio da Secretaria-Geral, incumbindo-lhe dirigir e supervisionar os trabalhos relativos à implementação, à execução e ao controle das atividades do Fundo. (Incluído pela Lei nº 15.498, de 2026) Vigência\n\n§ 4º O CJF definirá critérios objetivos para a distribuição dos recursos do Fejufe entre os Tribunais Regionais Federais, observados, cumulativamente, indicadores relacionados: (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nI - à arrecadação das receitas que compõem o Fundo; (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nII - à demanda jurisdicional, considerados a quantidade de processos em tramitação, os casos novos, os processos distribuídos e os processos baixados; (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nIII - ao desempenho institucional, incluídos indicadores de produtividade e eficiência administrativa; (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nIV - às características estruturais da jurisdição, especialmente a extensão territorial, a população atendida, a dispersão geográfica das unidades judiciárias e os custos necessários à garantia do acesso à justiça; (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nV - às peculiaridades decorrentes da atuação em regiões de difícil acesso, em áreas de fronteira, na Amazônia Legal e em comunidades indígenas e povos e comunidades tradicionais, bem como nas demais situações que demandem atuação jurisdicional diferenciada. (Incluído pela Lei nº 15.498, de 2026) Vigência\n\n§ 5º A regulamentação de que trata o § 4º deste artigo deverá observar critérios que promovam a redução das desigualdades regionais, a ampliação do acesso à justiça e o fortalecimento da capacidade operacional da Justiça Federal em todo o território nacional. (Incluído pela Lei nº 15.498, de 2026) Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm#:~:text=Art.%2014-A.%20Para%20financiar%20a%20moderniza%C3%A7%C3%A3o%20e%20o%20aparelhamento%20da%20Justi%C3%A7a%20Federal%20de%201%C2%BA%20e%202%C2%BA%20graus%20e%20para%20fortalecer%20sua%20atua%C3%A7%C3%A3o",
       "keywords": [],
       "hierarchy": {
         "title": null,
@@ -249,6 +249,54 @@
         "section_name": null
       },
       "prev": "14",
+      "next": "14-B"
+    },
+    "14-B": {
+      "numero": "14-B",
+      "texto": "Art. 14-B. Os recursos do Fejufe serão destinados à expansão e ao aperfeiçoamento da atividade jurisdicional, inclusive com vistas a ampliar o acesso à justiça por meio dos programas e ações da Justiça Federal, tais como a promoção de justiça itinerante e a realização de mutirões, destinados a prestar jurisdição à população em vulnerabilidade social e localizada em regiões de difícil acesso do interior do País. (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nParágrafo único. É vedada a aplicação da receita do Fejufe na execução de despesas com pessoal, inclusive seus encargos, exceto aquelas relacionadas às ações de capacitação de magistrados e servidores da Justiça Federal, e os recursos destinados a essas ações devem observar critérios de equilíbrio e isonomia entre magistrados e servidores, considerados as necessidades institucionais e o planejamento estratégico de cada tribunal. (Incluído pela Lei nº 15.498, de 2026) Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm#:~:text=Art.%2014-B.%20Os%20recursos%20do%20Fejufe%20ser%C3%A3o%20destinados%20%C3%A0%20expans%C3%A3o%20e%20ao%20aperfei%C3%A7oamento%20da%20atividade%20jurisdicional%2C%20inclusive%20com%20vistas%20a%20ampliar%20o",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14-A",
+      "next": "14-C"
+    },
+    "14-C": {
+      "numero": "14-C",
+      "texto": "Art. 14-C. Constituem receitas do Fejufe as provenientes de: (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nI - dotações orçamentárias próprias; (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nII - custas recolhidas no âmbito da Justiça Federal de 1º e 2º graus; (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nIII - (VETADO); (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nIV - (VETADO); (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nV - (VETADO); (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nVI - (VETADO); (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nVII - (VETADO); (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nVIII - (VETADO); (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nIX - (VETADO); (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nX - (VETADO); (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nXI - emendas parlamentares destinadas a atender às finalidades previstas no art. 14-B desta Lei; (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nXII - (VETADO); (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nXIII - (VETADO); (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nXIV - (VETADO); (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nXV - (VETADO); (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nXVI - (VETADO); (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nXVII - (VETADO); (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nXVIII - (VETADO); (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nXIX - (VETADO); e (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nXX - outras receitas. (Incluído pela Lei nº 15.498, de 2026) Vigência\n\n§ 1º O saldo financeiro positivo apurado em balanço anual será transferido anualmente para o exercício seguinte, a crédito do próprio Fejufe. (Incluído pela Lei nº 15.498, de 2026) Vigência\n\n§ 2º Das receitas previstas nos incisos II e III do caput deste artigo, ficam destinadas: (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nI - 9% (nove por cento) para o Fundo de Fortalecimento da Cidadania e Aperfeiçoamento do Ministério Público da União; (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nII - 6% (seis por cento) para o Fundo de Modernização do Conselho Nacional de Justiça, instituído por regulação própria daquele órgão; (Incluído pela Lei nº 15.498, de 2026) Vigência\n\nIII - 5% (cinco por cento) para o Fundo de Fortalecimento do Acesso à Justiça, Promoção dos Direitos Fundamentais e Estruturação da Defensoria Pública da União. (Incluído pela Lei nº 15.498, de 2026) Vigência",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm#:~:text=Art.%2014-C.%20Constituem%20receitas%20do%20Fejufe%20as%20provenientes%20de%3A%20%28Inclu%C3%ADdo%20pela%20Lei%20n%C2%BA%2015.498%2C%20de%202026%29%20Vig%C3%AAncia",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14-B",
+      "next": "15"
+    },
+    "15": {
+      "numero": "15",
+      "texto": "Art. 15. A indenização de transporte de que trata o art. 60 da Lei nº 8.112, de 11 de dezembro de 1990 (Estatuto do Servidor Público Federal), destinada a ressarcir as despesas realizadas com a utilização do meio próprio de locomoção para a execução de serviços externos, será paga aos Oficiais de Justiça Avaliadores da Justiça Federal de 1º e 2º graus de acordo com critérios fixados pelo CJF. (Redação dada pela Lei nº 15.498, de 2026) Vigência\n\nParágrafo único. Para efeito do disposto neste artigo, consideram-se como serviço externo as atividades exercidas no cumprimento das diligências fora das dependências dos Tribunais Regionais Federais ou das Seções Judiciárias em que os Oficiais de Justiça estejam lotados.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9289.htm#:~:text=Art.%2015.%20A%20indeniza%C3%A7%C3%A3o%20de%20transporte%2C%20de%20que%20trata%20o%20art.%2060%20da%20Lei%20n%C2%B0%208.112%2C%20de%2011%20de%20dezembro%20de%201990%2C",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "14-C",
       "next": "16"
     },
     "16": {

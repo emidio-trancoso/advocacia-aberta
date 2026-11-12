@@ -3,47 +3,19 @@
     "version": "1.0",
     "tipo": "temas_repercussao_geral",
     "tribunal": "STF",
-    "totalTemas": 1491,
-    "totalTemasNaFonte": 1494,
-    "excluidosPorLacunaDaFonte": [
-      {
-        "numero": 1491,
-        "leadingCase": "RE 1612904",
-        "relator": "MIN. GILMAR MENDES",
-        "situacao": "Em julgamento",
-        "repercussao": "Não há (questão infraconstitucional)",
-        "motivo": "titulo vazio na exportacao oficial",
-        "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1491"
-      },
-      {
-        "numero": 1493,
-        "leadingCase": "RE 1621821",
-        "relator": "MINISTRO PRESIDENTE",
-        "situacao": "Em julgamento",
-        "repercussao": "Não há (questão infraconstitucional)",
-        "motivo": "titulo vazio na exportacao oficial",
-        "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1493"
-      },
-      {
-        "numero": 1494,
-        "leadingCase": "ARE 1619165",
-        "relator": "MINISTRO PRESIDENTE",
-        "situacao": "Em julgamento",
-        "repercussao": "Não há (questão infraconstitucional)",
-        "motivo": "titulo vazio na exportacao oficial",
-        "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1494"
-      }
-    ],
+    "totalTemas": 1500,
+    "totalTemasNaFonte": 1500,
+    "excluidosPorLacunaDaFonte": [],
     "temasComTese": 1318,
-    "generatedAt": "2026-10-18T12:47:26+00:00",
+    "generatedAt": "2026-11-12T19:41:24+00:00",
     "situacoes": {
-      "Acórdão de Repercussão Geral publicado": 139,
+      "Acórdão de Repercussão Geral publicado": 140,
       "Acórdão de mérito publicado": 38,
-      "Analisada Preliminar de Repercussão Geral": 5,
-      "Cancelado": 21,
+      "Analisada Preliminar de Repercussão Geral": 7,
+      "Cancelado": 22,
       "Em julgamento": 3,
-      "Mérito julgado": 11,
-      "Trânsito em Julgado": 1274
+      "Mérito julgado": 8,
+      "Trânsito em Julgado": 1282
     },
     "descricao": "Temas de Repercussão Geral do STF extraídos da exportação oficial",
     "source": {
@@ -54,7 +26,7 @@
         "temaUrlTemplate": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema={numero}"
       },
       "method": "Tabela HTML (application/vnd.ms-excel) do exportarDados.asp parseada com a biblioteca padrão; mojibake corrigido por célula (cp1252→utf-8).",
-      "collectedAt": "2026-10-18T12:47:26+00:00",
+      "collectedAt": "2026-11-12T19:41:24+00:00",
       "limitacoes": "A coluna 'Assuntos' do export duplica 'Descrição', então a taxonomia de assuntos não é fornecida por esta rota. O flag de suspensão nacional (art. 1.035, §5º, CPC) não existe nas rotas estáticas — só na base Qlik do STF. Tema que a exportação traz sem título fica fora da coleção e é listado em excluidosPorLacunaDaFonte (BASE-048)."
     },
     "transformacao": "temas_rg_stf_html_v1"
@@ -2002,7 +1974,7 @@
       "titulo": "a) Competência para, após o advento da Lei nº 8.112/90, julgar os efeitos de decisão anteriormente proferida pela Justiça do Trabalho. b) Extensão do reajuste de 84,32%, relativo ao IPC do mês de março de 1990 (Plano Collor), concedido pela Justiça Federal em decisão transitada em julgado, a outros servidores.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 2º, 5º, II, XXIV, XXXVI, LIV; 22, I; 105, I, d; e 114, da Constituição Federal, a definição da competência para, após a instituição do regime jurídico único dos servidores públicos federais (Lei nº 8.112/90), julgar os efeitos de decisão anteriormente proferida pela Justiça do Trabalho, e a aplicação, ou não, do art. 884, § 5º, da Consolidação das Leis do Trabalho - CLT, nos casos de decisão transitada em julgado proferida pela Justiça do Trabalho que, com base no princípio da isonomia, deferiu a servidores da Justiça Eleitoral a extensão do reajuste de 84,32%, relativo ao IPC do mês de março de 1990 (Plano Collor) concedido pela Justiça Federal, por meio de decisão também transitada em julgado, a outros servidores.",
       "repercussao": "Há",
-      "situacao": "Mérito julgado",
+      "situacao": "Cancelado",
       "dataJulgamento": "05/09/2008",
       "tese": "",
       "dataTese": "",
@@ -2219,7 +2191,7 @@
       "titulo": "Inclusão do ISS na base de cálculo do PIS e da COFINS.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 1º; 18; 60, § 4º; 145, § 1º; 146-A; 151; 170, IV; 195, I, b, da Constituição Federal, a constitucionalidade, ou não, da inclusão do Imposto sobre Serviços de Qualquer Natureza - ISS na base de cálculo do PIS e da COFINS.",
       "repercussao": "Há",
-      "situacao": "Acórdão de Repercussão Geral publicado",
+      "situacao": "Mérito julgado",
       "dataJulgamento": "10/10/2008",
       "tese": "",
       "dataTese": "",
@@ -20483,7 +20455,7 @@
       "titulo": "Inclusão do valor da subvenção econômica da Lei 10.604/2002 na base de cálculo do ICMS sobre energia elétrica.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 5°, II, XXXV, LIV e LV; 93, IX; 150, I e III, a e b; 151, III; 155, II e § 3°; e 175 da Constituição Federal e 34, § 9, do Ato das Disposições Constitucionais Transitórias – ADCT, a constitucionalidade de decreto estadual que incluiu o valor da subvenção econômica, instituída pela Lei federal 10.604/2002, na base de cálculo do ICMS incidente sobre energia elétrica",
       "repercussao": "Há",
-      "situacao": "Mérito julgado",
+      "situacao": "Acórdão de mérito publicado",
       "dataJulgamento": "13/11/2020",
       "tese": "Não incide ICMS sobre a subvenção econômica destinada à modicidade da tarifa de fornecimento de energia elétrica aos consumidores finais integrantes da Subclasse Residencial Baixa Renda a que se refere a Lei nº 10.438, de 2002.",
       "dataTese": "28/09/2026",
@@ -23134,7 +23106,7 @@
       "titulo": "Possibilidade de manutenção dos créditos de ICMS relativos às operações internas anteriores à operação interestadual com combustíveis derivados de petróleo imune ao imposto devido ao estado de origem.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 150, II, e 155, § 2º, inciso I, inciso II, a, inciso X, b, e inciso XII, c, da Constituição Federal, a manutenção do crédito de ICMS relativo às operações internas com combustíveis derivados de petróleo cujas posteriores saídas se dão por operações interestaduais sem a incidência do imposto.",
       "repercussao": "Há",
-      "situacao": "Mérito julgado",
+      "situacao": "Acórdão de mérito publicado",
       "dataJulgamento": "15/08/2023",
       "tese": "O art. 155, § 2º, inciso X, alínea b, da Constituição Federal não enseja a anulação do crédito do ICMS cobrado nas operações internas anteriores.",
       "dataTese": "08/09/2026",
@@ -24060,7 +24032,7 @@
       "titulo": "Exigibilidade do PIS e da COFINS sobre as receitas financeiras oriundas de aplicações financeiras das reservas técnicas de empresas seguradoras.",
       "descricao": "Recurso extraordinário em que se discute, à luz do artigo 195, I, “b”, da Constituição Federal a incidência do PIS e da COFINS sobre as receitas oriundas de aplicações financeiras das reservas técnicas de empresas segurados, tendo em conta a controvérsia sobre a natureza destas receitas.",
       "repercussao": "Há",
-      "situacao": "Mérito julgado",
+      "situacao": "Acórdão de mérito publicado",
       "dataJulgamento": "07/08/2024",
       "tese": "I - A contribuição ao PIS e a COFINS, quando tenham por base de cálculo o faturamento, devem incidir sobre a receita bruta operacional decorrente das atividades empresariais típicas do sujeito passivo tributário, sem prejuízo das exclusões e deduções legais; II - As receitas de aplicações financeiras das reservas técnicas das seguradoras não devem integrar a base de cálculo da contribuição ao PIS e da COFINS incidentes sobre o faturamento, nos moldes da Lei nº 9.718/1998.",
       "dataTese": "02/09/2026",
@@ -24765,7 +24737,7 @@
       "titulo": "Alcance da imunidade do ITBI, prevista no inciso I do § 2º do art. 156 da Constituição, para a transferência de bens e direitos em integralização de capital social, quando a atividade preponderante da empresa é compra e venda ou locação de bens imóveis.",
       "descricao": "Recurso extraordinário em que se discute à luz do artigo 156; § 2º; I, da Constituição Federal se a imunidade do ITBI, prevista no inciso I do § 2º do art. 156 da Constituição, para a transferência de bens e direitos em integralização de capital social é assegurada para empresas cuja atividade preponderante é compra e venda ou locação de bens imóveis.",
       "repercussao": "Há",
-      "situacao": "Acórdão de Repercussão Geral publicado",
+      "situacao": "Mérito julgado",
       "dataJulgamento": "06/11/2024",
       "tese": "",
       "dataTese": "",
@@ -26191,7 +26163,7 @@
       "titulo": "Possibilidade de delegação ao Poder Executivo de atribuição para fixar e alterar o valor de parcela remuneratória, à luz do inciso X do art. 37 da Constituição.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 5º; XXXV; LIV e LV; 37; X e XIII, da Constituição Federal, se é constitucional a delegação ao Poder Executivo de atribuição para fixar e alterar o valor de parcela remuneratória, à luz do inciso X do art. 37 da Constituição.",
       "repercussao": "Há (com reafirmação de jurisprudência)",
-      "situacao": "Acórdão de mérito publicado",
+      "situacao": "Trânsito em Julgado",
       "dataJulgamento": "20/09/2025",
       "tese": "1. É inconstitucional a delegação ao Poder Executivo de atribuição para fixar e alterar o valor de parcela remuneratória, prevista no § 2º do art. 20 da Lei estadual nº 6.762/1975, com a redação dada pela Lei nº 12.984/1998, e no art. 3º do Decreto nº 46.284/2013; 2. O reconhecimento da inconstitucionalidade não autoriza decréscimo remuneratório nem a repetição de valores.",
       "dataTese": "20/09/2025",
@@ -26695,7 +26667,7 @@
       "titulo": "Fixação por lei municipal, posterior à EC nº 29/2000, de alíquotas de IPTU em função da área do imóvel.",
       "descricao": "Recurso extraordinário em que se discute, à luz do artigo 156, § 1º, da Constituição Federal, se é possível a fixação de alíquotas de IPTU em razão da área do imóvel, por lei municipal posterior à EC nº 29/2000.",
       "repercussao": "Há",
-      "situacao": "Acórdão de mérito publicado",
+      "situacao": "Trânsito em Julgado",
       "dataJulgamento": "",
       "tese": "É inconstitucional a fixação, por lei municipal posterior à EC nº 29/2000, de alíquota do IPTU em razão da área do imóvel.",
       "dataTese": "06/08/2026",
@@ -26961,7 +26933,7 @@
     "1470": {
       "numero": 1470,
       "leadingCase": "RE 1605997",
-      "relator": "MINISTRO PRESIDENTE",
+      "relator": "MIN. CRISTIANO ZANIN",
       "titulo": "Aposentadoria especial de agentes comunitários de saúde e de agentes de combate às endemias após a EC nº 120/2022.",
       "descricao": "Recurso extraordinário em que se discute, à luz do artigo 198; § 10, da Constituição Federal, incluído pela EC nº 120/2022, a eficácia da norma constitucional que reconhece os riscos inerentes às atividades desempenhadas por agentes comunitários de saúde e agentes de combate às endemias, bem como a possibilidade de utilização do critério de enquadramento por categoria profissional ou ocupação para fins de contagem de tempo especial previdenciário.",
       "repercussao": "Há",
@@ -27051,7 +27023,7 @@
     "1475": {
       "numero": 1475,
       "leadingCase": "RE 1579212",
-      "relator": "MINISTRO PRESIDENTE",
+      "relator": "MIN. LUIZ FUX",
       "titulo": "Dispensa da exigência de visto para ingresso de estrangeiro no Brasil, com fundamento na reunião familiar e em razões humanitárias.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 1º; III; 2º; 3º; I; IV; 4º; II; 226; e 227 da Constituição Federal, a possibilidade de o Poder Judiciário dispensar a exigência de visto para autorizar o ingresso de estrangeiro no Brasil, com o objetivo de viabilizar a reunião familiar em contexto de calamidade humanitária, consideradas a dignidade da pessoa humana, a proteção constitucional da família, a proteção integral e a prioridade absoluta dos direitos da criança e do adolescente.",
       "repercussao": "Há",
@@ -27109,7 +27081,7 @@
       "titulo": "Implementação do reajuste de vencimentos dos servidores do Grupo de Atividades de Educação Básica do Estado de Minas Gerais, com fundamento na Lei 22.062/2016 do Estado de Minas Gerais.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 37; X; e 61; §1º; II; “a”, da Constituição Federal, se a implementação do reajuste de 11,36% concedido pela Lei Estadual nº 22.062/2016 de Minas Gerais está em harmonia com a Constituição, é compatível com a Constituição Federal, considerada a alegada inconstitucionalidade por arrastamento do art. 3º da Lei Estadual nº 21.710/2015.",
       "repercussao": "Não há (questão infraconstitucional)",
-      "situacao": "Acórdão de Repercussão Geral publicado",
+      "situacao": "Trânsito em Julgado",
       "dataJulgamento": "",
       "tese": "É infraconstitucional, a ela se aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa à implementação do reajuste de vencimentos dos servidores do Grupo de Atividades de Educação Básica do Estado de Minas Gerais, com fundamento na Lei 22.062/2016 do Estado de Minas Gerais.",
       "dataTese": "",
@@ -27159,7 +27131,7 @@
     "1481": {
       "numero": 1481,
       "leadingCase": "RE 1563095",
-      "relator": "MINISTRO PRESIDENTE",
+      "relator": "MIN. ALEXANDRE DE MORAES",
       "titulo": "Possibilidade de efetivação no serviço público de agentes comunitários de saúde e agentes de combate a endemias em exercício antes da Emenda Constitucional nº 51/2006.",
       "descricao": "Recurso extraordinário em que se discute, à luz do artigo 2º da Emenda Constitucional nº 51/2006, se agentes comunitários de saúde e agentes de combate a endemias que estavam em exercício antes da promulgação da referida emenda podem ser efetivados no serviço público, independentemente de aprovação em concurso público, quando admitidos mediante processo seletivo simplificado.",
       "repercussao": "Há",
@@ -27181,7 +27153,7 @@
       "titulo": "Enquadramento dos honorários advocatícios sucumbenciais na exceção à impenhorabilidade de verbas remuneratórias e de valores depositados em caderneta de poupança para pagamento de prestação alimentícia.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 1º; III; 100; § 1º; e 133 da Constituição Federal, se os honorários advocatícios sucumbenciais, em razão de sua natureza alimentar, enquadram-se na exceção à impenhorabilidade de verbas remuneratórias e de quantia depositada em caderneta de poupança, até o limite de 40 salários-mínimos, prevista no § 2º do art. 833 do Código de Processo Civil de 2015.",
       "repercussao": "Não há (questão infraconstitucional)",
-      "situacao": "Acórdão de Repercussão Geral publicado",
+      "situacao": "Trânsito em Julgado",
       "dataJulgamento": "",
       "tese": "É infraconstitucional, a ela aplicando-se os efeitos de ausência da repercussão geral, a controvérsia sobre o enquadramento da verba honorária sucumbencial na exceção prevista no § 2º do art. 833 do CPC/2015 (penhora para pagamento de prestação alimentícia).",
       "dataTese": "",
@@ -27199,7 +27171,7 @@
       "titulo": "Redução dos prazos de validade do Certificado de Registro (CR) e do Certificado de Registro de Arma de Fogo (CRAF) pelo Decreto nº 11.615/2023.",
       "descricao": "Recursos extraordinários em que se discute, à luz dos artigos 2º; 5º; XXXVI; e 37, da Constituição Federal, se a redução dos prazos de validade do Certificado de Registro (CR) e do Certificado de Registro de Arma de Fogo (CRAF), promovida pelo Decreto nº 11.615/2023, incide sobre certificados expedidos sob a disciplina regulamentar anterior, com prazo de validade de dez anos, observadas as regras de transição, sem violação à segurança jurídica e ao direito adquirido de seus titulares.",
       "repercussao": "Há (com reafirmação de jurisprudência)",
-      "situacao": "Mérito julgado",
+      "situacao": "Trânsito em Julgado",
       "dataJulgamento": "",
       "tese": "É constitucional a redução dos prazos de validade do Certificado de Registro (CR) e do Certificado de Registro de Arma de Fogo (CRAF) prevista no Decreto nº 11.615/2023, que são aplicáveis também aos certificados expedidos sob a égide da disciplina regulamentar anterior, observadas as regras de transição pertinentes.",
       "dataTese": "",
@@ -27213,7 +27185,7 @@
     "1484": {
       "numero": 1484,
       "leadingCase": "RE 1620626",
-      "relator": "MINISTRO PRESIDENTE",
+      "relator": "MIN. FLÁVIO DINO",
       "titulo": "Índices de correção monetária e de juros de mora aplicáveis às condenações impostas à Fazenda Pública na fase anterior à expedição do requisitório, após a Emenda Constitucional nº 136/2025.",
       "descricao": "Recursos extraordinários em que se discute, à luz do art. 3º da Emenda Constitucional nº 113/2021, com redação dada pela Emenda Constitucional nº 136/2025, se a disciplina de atualização monetária pelo IPCA e de juros simples de 2% ao ano, prevista para o período compreendido entre a expedição do requisitório e o efetivo pagamento, incide sobre a fase processual anterior à expedição do requisitório nas condenações impostas à Fazenda Pública.",
       "repercussao": "Há",
@@ -27253,7 +27225,7 @@
       "titulo": "Competência dos municípios para fixar jornada de trabalho superior à definida em legislação federal para fisioterapeutas e terapeutas ocupacionais submetidos ao regime estatutário.",
       "descricao": "Recurso extraordinário em que se discute, à luz do artigo 22, XVI, da Constituição Federal, se os municípios detêm competência para fixar, no âmbito de seu regime estatutário, jornada de trabalho superior a 30 horas semanais para profissionais fisioterapeutas e terapeutas ocupacionais, em desacordo com o limite estabelecido pela Lei Federal nº 8.856/1994.",
       "repercussao": "Há (com reafirmação de jurisprudência)",
-      "situacao": "Acórdão de mérito publicado",
+      "situacao": "Trânsito em Julgado",
       "dataJulgamento": "",
       "tese": "Os municípios não detêm competência para fixar, no âmbito do seu regime estatutário, jornada de trabalho superior àquela estabelecida pela Lei Federal nº 8.856/1994 para profissionais fisioterapeutas e terapeutas ocupacionais, sob pena de violação de competência privativa da União.",
       "dataTese": "",
@@ -27271,7 +27243,7 @@
       "titulo": "Revisão dos encargos financeiros de contratos de financiamento estudantil celebrados no âmbito do FIES.",
       "descricao": "Descrição: Recursos extraordinários em que se discute, à luz dos artigos 5°; II; XXXVI; 6º; 37; e 205, da Constituição Federal, a aplicação retroativa das Leis nº 13.530/2017, 14.375/2022 e 14.719/2023 aos contratos de financiamento estudantil celebrados no âmbito do Fundo de Financiamento Estudantil - FIES, para fins de incidência de taxa de juros zero, redução do saldo devedor ou renegociação da dívida.",
       "repercussao": "Não há (questão infraconstitucional)",
-      "situacao": "Analisada Preliminar de Repercussão Geral",
+      "situacao": "Trânsito em Julgado",
       "dataJulgamento": "",
       "tese": "",
       "dataTese": "",
@@ -27289,7 +27261,7 @@
       "titulo": "Ônus da prova quanto à impossibilidade de controle da jornada de empregado em trabalho externo.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 1º; IV; 2º; 5º; II; XIII; LIV; LV; 170; IV; e 218, da Constituição Federal, se compete ao empregado ou ao empregador comprovar a impossibilidade de controle da jornada de trabalho externo, para fins de enquadramento na exceção prevista no art. 62, I, da Consolidação das Leis do Trabalho.",
       "repercussao": "Não há (questão infraconstitucional)",
-      "situacao": "Analisada Preliminar de Repercussão Geral",
+      "situacao": "Trânsito em Julgado",
       "dataJulgamento": "",
       "tese": "",
       "dataTese": "",
@@ -27325,7 +27297,7 @@
       "titulo": "Concessão da Gratificação de Movimentação (GMOV) a servidores públicos residentes fora do Distrito Federal e cancelamento administrativo da vantagem.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 5º; II; LIV; LV; 19; III; e 37 da Constituição Federal, (i) se a Gratificação de Movimentação (GMOV), instituída pela Lei Distrital nº 318/1992 e destinada aos integrantes da Carreira de Assistência Pública à Saúde do Distrito Federal, pode ser concedida a servidor residente fora do Distrito Federal; e (ii) se a Administração Pública pode cancelar o pagamento da vantagem após longo período de sua concessão.",
       "repercussao": "Não há (questão infraconstitucional)",
-      "situacao": "Em julgamento",
+      "situacao": "Acórdão de Repercussão Geral publicado",
       "dataJulgamento": "",
       "tese": "",
       "dataTese": "",
@@ -27336,14 +27308,32 @@
         "detalhamento": "https://portal.stf.jus.br/jurisprudenciaRepercussao/detalharProcesso.asp?numeroTema=1490"
       }
     },
+    "1491": {
+      "numero": 1491,
+      "leadingCase": "RE 1612904",
+      "relator": "MIN. GILMAR MENDES",
+      "titulo": "Limites da revisão judicial, repartição federativa dos encargos financeiros e legitimidade da União e dos entes subnacionais para figurar no polo passivo de ações nas quais entidades privadas prestadoras de serviços de saúde, em caráter complementar ao SUS, pleiteiam o reajuste da Tabela SUS, mediante sua equiparação aos valores da TUNEP/IVR.",
+      "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 5º; § 1º; 6º; 37; 150; II; 196; 197; 198; e 199, da Constituição Federal, (i) os limites da revisão judicial da Tabela SUS mediante equiparação à TUNEP/IVR; (ii) a repartição, entre os entes federativos, dos encargos financeiros decorrentes de eventual revisão;(iii) a definição dos entes que devem integrar o polo passivo das demandas; e (iv) a observância da cláusula de reserva de plenário quando a equiparação implicar o afastamento do regime normativo de remuneração dos serviços prestados em caráter complementar ao SUS.",
+      "repercussao": "Há",
+      "situacao": "Acórdão de Repercussão Geral publicado",
+      "dataJulgamento": "",
+      "tese": "",
+      "dataTese": "",
+      "observacao": "",
+      "links": {
+        "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1491",
+        "manifestacao": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=12685716",
+        "detalhamento": "https://portal.stf.jus.br/jurisprudenciaRepercussao/detalharProcesso.asp?numeroTema=1491"
+      }
+    },
     "1492": {
       "numero": 1492,
       "leadingCase": "RE 1626168",
       "relator": "MINISTRO PRESIDENTE",
-      "titulo": "Inclusão do auxílio-refeição na base de cálculo das férias e do terço constitucional de servidores públicos estaduais.",
+      "titulo": "Inclusão do auxílio-refeição na base de cálculo das férias e do terço constitucional de servidores públicos.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 2º; 5º; II; 37; X; 60; § 4º; I e III; 93; IX; e 169; § 1º; I e II, da Constituição Federal, a possibilidade de inclusão do auxílio-refeição na base de cálculo das férias e do terço constitucional de servidores públicos estaduais, considerando a natureza jurídica da parcela e a legislação estadual que disciplina o seu pagamento.",
       "repercussao": "Não há (questão infraconstitucional)",
-      "situacao": "Em julgamento",
+      "situacao": "Acórdão de Repercussão Geral publicado",
       "dataJulgamento": "",
       "tese": "",
       "dataTese": "",
@@ -27352,6 +27342,150 @@
         "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1492",
         "manifestacao": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=12698701",
         "detalhamento": "https://portal.stf.jus.br/jurisprudenciaRepercussao/detalharProcesso.asp?numeroTema=1492"
+      }
+    },
+    "1493": {
+      "numero": 1493,
+      "leadingCase": "RE 1621821",
+      "relator": "MINISTRO PRESIDENTE",
+      "titulo": "Possibilidade de restringir a incidência do art. 62 do Código Florestal à consolidação de ocupações antrópicas anteriores a 22 de julho de 2008.",
+      "descricao": "Recursos extraordinários em que se discute, à luz dos artigos 2º; 5º; XXII; 59; II; III; 97; 102; I; “a”; §2º; 170; II; 175; 225; §1º; III, e considerado o alcance do julgamento da ADC nº 42, a constitucionalidade da restrição da aplicação da faixa de área de preservação permanente prevista no art. 62 do Código Florestal, no entorno de reservatórios artificiais, às ocupações antrópicas preexistentes a 22 de julho de 2008, com manutenção, nas áreas não ocupadas e nas ocupações posteriores, dos limites definidos na licença ambiental.",
+      "repercussao": "Há",
+      "situacao": "Acórdão de Repercussão Geral publicado",
+      "dataJulgamento": "",
+      "tese": "",
+      "dataTese": "",
+      "observacao": "",
+      "links": {
+        "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1493",
+        "manifestacao": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=12708081",
+        "detalhamento": "https://portal.stf.jus.br/jurisprudenciaRepercussao/detalharProcesso.asp?numeroTema=1493"
+      }
+    },
+    "1494": {
+      "numero": 1494,
+      "leadingCase": "ARE 1619165",
+      "relator": "MINISTRO PRESIDENTE",
+      "titulo": "Presunção de hipossuficiência econômica decorrente do patrocínio da causa pela Defensoria Pública.",
+      "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 3º; 5º; XXXV: LXXIV; LXXVIII; 134; §2º e §3º, da Constituição Federal, se a presunção de hipossuficiência econômica, decorrente do patrocínio da causa pela Defensoria Pública, dispensa a comprovação adicional da condição econômica do assistido exigida pelo Poder Judiciário, consideradas a autonomia da instituição e a garantia de acesso à justiça.",
+      "repercussao": "Há",
+      "situacao": "Acórdão de Repercussão Geral publicado",
+      "dataJulgamento": "",
+      "tese": "",
+      "dataTese": "",
+      "observacao": "",
+      "links": {
+        "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1494",
+        "manifestacao": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=12671923",
+        "detalhamento": "https://portal.stf.jus.br/jurisprudenciaRepercussao/detalharProcesso.asp?numeroTema=1494"
+      }
+    },
+    "1495": {
+      "numero": 1495,
+      "leadingCase": "RE 1624749",
+      "relator": "MINISTRO PRESIDENTE",
+      "titulo": "Prazo prescricional aplicável à pretensão de reparação de danos morais em ricochete decorrentes da morte de trabalhador.",
+      "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 7º, XXIX, e 114, VI, da Constituição Federal, se a pretensão de reparação de danos morais em ricochete decorrentes da morte de trabalhador se submete ao prazo prescricional bienal trabalhista ou ao prazo trienal previsto no art. 206, § 3º, do Código Civil, considerada a natureza jurídica da pretensão e a competência da Justiça do Trabalho após a Emenda Constitucional nº 45/2004.",
+      "repercussao": "Há",
+      "situacao": "Analisada Preliminar de Repercussão Geral",
+      "dataJulgamento": "",
+      "tese": "",
+      "dataTese": "",
+      "observacao": "",
+      "links": {
+        "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1495",
+        "manifestacao": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=12721641",
+        "detalhamento": "https://portal.stf.jus.br/jurisprudenciaRepercussao/detalharProcesso.asp?numeroTema=1495"
+      }
+    },
+    "1496": {
+      "numero": 1496,
+      "leadingCase": "RE 1538549",
+      "relator": "MINISTRO PRESIDENTE",
+      "titulo": "Retomada da exigibilidade do adicional de 1% da Cofins-Importação após a revogação da Medida Provisória nº 774/2017 e incidência da anterioridade nonagesimal.",
+      "descricao": "Recurso extraordinário em que se discute, à luz do artigo 62 da Constituição Federal, (i) a possibilidade do adicional de 1% da COFINS-Importação ter sua exigibilidade reiniciada após a revogação da Medida Provisória nº 774/2017 (que havia revogado a cobrança do referido adicional) pela Medida Provisória nº 794/2017, a qual também não foi convertida em lei no prazo previsto no art. 62, § 3º, da Constituição Federal; e (ii) caso seja afirmada a possibilidade de retomada da cobrança, se incide o princípio da anterioridade nonagesimal.",
+      "repercussao": "Há",
+      "situacao": "Analisada Preliminar de Repercussão Geral",
+      "dataJulgamento": "",
+      "tese": "",
+      "dataTese": "",
+      "observacao": "",
+      "links": {
+        "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1496",
+        "manifestacao": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=12708159",
+        "detalhamento": "https://portal.stf.jus.br/jurisprudenciaRepercussao/detalharProcesso.asp?numeroTema=1496"
+      }
+    },
+    "1497": {
+      "numero": 1497,
+      "leadingCase": "RE 1597638",
+      "relator": "MINISTRO PRESIDENTE",
+      "titulo": "Critérios de cálculo da aposentadoria da pessoa com deficiência após a Emenda Constitucional nº 103/2019.",
+      "descricao": ": Recurso extraordinário em que se discute, à luz dos artigos 5º; I; 195; §5º; e 201; § 1º; I, da Constituição Federal e dos artigos 22 e 26 da Emenda Constitucional nº 103/2019, se continuam aplicáveis, exclusivamente para as pessoas com deficiência, o art. 8º da Lei Complementar nº 142/2013 e o art. 29, II, da Lei nº 8.213/1991, resguardando-se a estas o direito à apuração da média aritmética simples dos maiores salários de contribuição correspondentes a oitenta por cento de todo o período de contribuição, em exceção à regra geral de cálculo que considera a totalidade dos salários de contribuição, prevista no art. 26 da referida Emenda.",
+      "repercussao": "Há",
+      "situacao": "Analisada Preliminar de Repercussão Geral",
+      "dataJulgamento": "",
+      "tese": "",
+      "dataTese": "",
+      "observacao": "",
+      "links": {
+        "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1497",
+        "manifestacao": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=12723323",
+        "detalhamento": "https://portal.stf.jus.br/jurisprudenciaRepercussao/detalharProcesso.asp?numeroTema=1497"
+      }
+    },
+    "1498": {
+      "numero": 1498,
+      "leadingCase": "RE 1602130",
+      "relator": "MINISTRO PRESIDENTE",
+      "titulo": "Requisitos para a contratação temporária de professor substituto no âmbito de instituições públicas distintas.",
+      "descricao": "Recurso extraordinário em que se discute, à luz do artigo 37; I e IX, da Constituição Federal, se a vedação de nova admissão de professor substituto temporário, antes de decorridos 24 (vinte e quatro) meses do encerramento do contrato anterior, contida no art. 9º, III, da Lei 8.745/1993, se aplica aos contratos realizados por instituições públicas distintas.",
+      "repercussao": "Não há (questão infraconstitucional)",
+      "situacao": "Analisada Preliminar de Repercussão Geral",
+      "dataJulgamento": "",
+      "tese": "",
+      "dataTese": "",
+      "observacao": "",
+      "links": {
+        "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1498",
+        "manifestacao": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=12722337",
+        "detalhamento": "https://portal.stf.jus.br/jurisprudenciaRepercussao/detalharProcesso.asp?numeroTema=1498"
+      }
+    },
+    "1499": {
+      "numero": 1499,
+      "leadingCase": "RE 1624991",
+      "relator": "MINISTRO PRESIDENTE",
+      "titulo": "Aplicação do divisor mínimo no cálculo do salário de benefício das aposentadorias concedidas entre a vigência da EC nº 103/2019 e a da Lei nº 14.331/2022.",
+      "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 194; V; e 201, da Constituição Federal e do artigo 26; §6º, da Emenda Constitucional nº 103/2019, a possibilidade de aplicação do divisor mínimo no cálculo do salário de benefício das aposentadorias concedidas entre 13/11/2019 (EC nº 103/2019) e 05/05/2022 (Lei nº 14.331/2022), ainda que ausente previsão expressa, ou se o cálculo pode se basear apenas na contribuição mais alta.",
+      "repercussao": "Não há (questão infraconstitucional)",
+      "situacao": "Em julgamento",
+      "dataJulgamento": "",
+      "tese": "",
+      "dataTese": "",
+      "observacao": "",
+      "links": {
+        "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1499",
+        "manifestacao": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=12733911",
+        "detalhamento": "https://portal.stf.jus.br/jurisprudenciaRepercussao/detalharProcesso.asp?numeroTema=1499"
+      }
+    },
+    "1500": {
+      "numero": 1500,
+      "leadingCase": "RE 1617746",
+      "relator": "MIN. DIAS TOFFOLI",
+      "titulo": "Direito à compensação de créditos tributários anteriores à impetração do mandado de segurança e não atingidos pela prescrição.",
+      "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 2º; 5º; LXIX; LXX; e 100, da Constituição Federal, a possibilidade de decisão judicial em mandado de segurança reconhecer o direito de o sujeito passivo realizar a compensação dos eventuais valores tributários indevidamente recolhidos antes da impetração do mandamus não atingidos pela prescrição.",
+      "repercussao": "Não há (questão infraconstitucional)",
+      "situacao": "Em julgamento",
+      "dataJulgamento": "",
+      "tese": "",
+      "dataTese": "",
+      "observacao": "",
+      "links": {
+        "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1500",
+        "manifestacao": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=12689886",
+        "detalhamento": "https://portal.stf.jus.br/jurisprudenciaRepercussao/detalharProcesso.asp?numeroTema=1500"
       }
     }
   }

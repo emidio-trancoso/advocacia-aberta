@@ -3,19 +3,29 @@
     "version": "1.0",
     "tipo": "temas_repercussao_geral",
     "tribunal": "STF",
-    "totalTemas": 1500,
-    "totalTemasNaFonte": 1500,
-    "excluidosPorLacunaDaFonte": [],
+    "totalTemas": 1501,
+    "totalTemasNaFonte": 1502,
+    "excluidosPorLacunaDaFonte": [
+      {
+        "numero": 1502,
+        "leadingCase": "RE 1619727",
+        "relator": "MINISTRO PRESIDENTE",
+        "situacao": "Em julgamento",
+        "repercussao": "Não há (questão infraconstitucional)",
+        "motivo": "titulo vazio na exportacao oficial",
+        "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1502"
+      }
+    ],
     "temasComTese": 1318,
-    "generatedAt": "2026-11-12T19:41:24+00:00",
+    "generatedAt": "2026-11-23T21:53:23+00:00",
     "situacoes": {
       "Acórdão de Repercussão Geral publicado": 140,
-      "Acórdão de mérito publicado": 38,
-      "Analisada Preliminar de Repercussão Geral": 7,
+      "Acórdão de mérito publicado": 36,
+      "Analisada Preliminar de Repercussão Geral": 8,
       "Cancelado": 22,
-      "Em julgamento": 3,
+      "Em julgamento": 2,
       "Mérito julgado": 8,
-      "Trânsito em Julgado": 1282
+      "Trânsito em Julgado": 1285
     },
     "descricao": "Temas de Repercussão Geral do STF extraídos da exportação oficial",
     "source": {
@@ -26,7 +36,7 @@
         "temaUrlTemplate": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema={numero}"
       },
       "method": "Tabela HTML (application/vnd.ms-excel) do exportarDados.asp parseada com a biblioteca padrão; mojibake corrigido por célula (cp1252→utf-8).",
-      "collectedAt": "2026-11-12T19:41:24+00:00",
+      "collectedAt": "2026-11-23T21:53:23+00:00",
       "limitacoes": "A coluna 'Assuntos' do export duplica 'Descrição', então a taxonomia de assuntos não é fornecida por esta rota. O flag de suspensão nacional (art. 1.035, §5º, CPC) não existe nas rotas estáticas — só na base Qlik do STF. Tema que a exportação traz sem título fica fora da coleção e é listado em excluidosPorLacunaDaFonte (BASE-048)."
     },
     "transformacao": "temas_rg_stf_html_v1"
@@ -15348,7 +15358,7 @@
       "titulo": "Definição dos limites da liberdade de expressão em contraposição a outros direitos de igual hierarquia jurídica - como os da inviolabilidade da honra e da imagem - e estabelecimento de parâmetros para identificar hipóteses em que a publicação deve ser proibida e/ou o declarante condenado ao pagamento de danos morais, ou ainda a outras consequências jurídicas.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos arts. 5º, IV e IX, e 220, caput, § 1º e § 2º, da Constituição Federal, a definição dos limites da liberdade de expressão, ainda que do seu exercício possa resultar relevante prejuízo comercial, bem como fixar parâmetros para identificar hipóteses em que a publicação deve ser proibida e/ou o declarante condenado ao pagamento de danos morais, ou ainda a outras consequências jurídicas que lhe possam ser legitimamente impostas.",
       "repercussao": "Há",
-      "situacao": "Acórdão de mérito publicado",
+      "situacao": "Trânsito em Julgado",
       "dataJulgamento": "28/08/2015",
       "tese": "1. Campanhas de mobilização social promovidas por entidades da sociedade civil com base em pautas de direitos fundamentais, voltadas a desestimular o financiamento ou apoio institucional a eventos ou organizações, estão protegidas pela liberdade de expressão. 2. A responsabilidade civil, inclusive com a determinação de cessação da campanha e retirada de conteúdo das redes sociais, quando a imputação permanecer disponível em plataformas digitais ou em ambiente público, somente será possível quando comprovada má-fé caracterizada: (i) pelo dolo demonstrado em razão do conhecimento prévio da falsidade da declaração, ou (ii) culpa grave decorrente da evidente negligência na apuração da veracidade do fato.",
       "dataTese": "11/02/2026",
@@ -23014,7 +23024,7 @@
       "titulo": "Opção provisória de nacionalidade brasileira de crianças adotadas no exterior por brasileiros.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 1º, III, 12, I, c, e 227, § 6º, da Constituição Federal, a possibilidade da transcrição de termo de nascimento ocorrido no estrangeiro no registro civil de nascimento de filhas adotadas por mãe brasileira ou por pai brasileiro, com opção provisória pela nacionalidade brasileira, até alcançada a maioridade.",
       "repercussao": "Há",
-      "situacao": "Acórdão de mérito publicado",
+      "situacao": "Trânsito em Julgado",
       "dataJulgamento": "03/06/2023",
       "tese": "É assegurado o direito à nacionalidade brasileira originária à pessoa nascida no exterior, adotada por pessoa brasileira e registrada em órgão consular competente, nos termos da al. c do inc. I do art. 12 c/c o § 6º do art. 227 da Constituição da República.",
       "dataTese": "12/03/2026",
@@ -27041,7 +27051,7 @@
     "1476": {
       "numero": 1476,
       "leadingCase": "RE 1614908",
-      "relator": "MINISTRO PRESIDENTE",
+      "relator": "MIN. ANDRÉ MENDONÇA",
       "titulo": "Restrição do acesso de migrantes e refugiados ao Programa Universidade para Todos (ProUni) em razão do critério de nacionalidade.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 1º; II; III; 3º; IV; 5º; 6º; 97; 205; 208; I; e V, da Constituição Federal, a compatibilidade da restrição do acesso ao Programa Universidade para Todos (ProUni) aos brasileiros natos ou naturalizados, prevista no art. 1º, §§ 1º e 2º, da Lei nº 11.096/2005, com os direitos fundamentais à igualdade, à não discriminação e à educação assegurados aos migrantes e refugiados residentes no País, bem como a legitimidade da utilização da nacionalidade como critério de diferenciação em política pública destinada à ampliação do acesso ao ensino superior.",
       "repercussao": "Há",
@@ -27203,7 +27213,7 @@
     "1485": {
       "numero": 1485,
       "leadingCase": "ARE 1600294",
-      "relator": "MINISTRO PRESIDENTE",
+      "relator": "MIN. DIAS TOFFOLI",
       "titulo": "Reconhecimento de erro de tipo e padrão probatório exigido no crime de estupro de vulnerável contra vítima menor de 14 anos.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 1º; III; 5º; LIV; LV; 93; IX; e 227, da Constituição Federal e dos compromissos internacionais assumidos pelo Brasil na defesa dos direitos humanos, a constitucionalidade do afastamento da condenação penal pelo crime de estupro de vulnerável praticado contra vítima menor de 14 anos, mediante reconhecimento de erro de tipo fundamentado no comportamento, no consentimento, na aparência ou na experiência sexual da ofendida, bem como na declaração unilateral do ofensor sobre o desconhecimento da idade real da vítima.",
       "repercussao": "Há",
@@ -27279,7 +27289,7 @@
       "titulo": "Fixação do termo inicial da contagem e dos efeitos financeiros da progressão e da promoção funcional dos servidores do INSS em data distinta do ingresso na carreira.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 5º; § 2º; 19; III; e 37; da Constituição Federal, a possibilidade, ou não, de a fixação do termo inicial da contagem e dos efeitos financeiros da promoção e da progressão funcional dos servidores do Instituto Nacional de Seguro Social ocorrerem em data distinta da entrada na carreira e da implementação dos requisitos, nos termos do Decreto nº 84.669/1980.",
       "repercussao": "Não há (questão infraconstitucional)",
-      "situacao": "Analisada Preliminar de Repercussão Geral",
+      "situacao": "Acórdão de Repercussão Geral publicado",
       "dataJulgamento": "",
       "tese": "",
       "dataTese": "",
@@ -27297,7 +27307,7 @@
       "titulo": "Concessão da Gratificação de Movimentação (GMOV) a servidores públicos residentes fora do Distrito Federal e cancelamento administrativo da vantagem.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 5º; II; LIV; LV; 19; III; e 37 da Constituição Federal, (i) se a Gratificação de Movimentação (GMOV), instituída pela Lei Distrital nº 318/1992 e destinada aos integrantes da Carreira de Assistência Pública à Saúde do Distrito Federal, pode ser concedida a servidor residente fora do Distrito Federal; e (ii) se a Administração Pública pode cancelar o pagamento da vantagem após longo período de sua concessão.",
       "repercussao": "Não há (questão infraconstitucional)",
-      "situacao": "Acórdão de Repercussão Geral publicado",
+      "situacao": "Trânsito em Julgado",
       "dataJulgamento": "",
       "tese": "",
       "dataTese": "",
@@ -27458,8 +27468,8 @@
       "relator": "MINISTRO PRESIDENTE",
       "titulo": "Aplicação do divisor mínimo no cálculo do salário de benefício das aposentadorias concedidas entre a vigência da EC nº 103/2019 e a da Lei nº 14.331/2022.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 194; V; e 201, da Constituição Federal e do artigo 26; §6º, da Emenda Constitucional nº 103/2019, a possibilidade de aplicação do divisor mínimo no cálculo do salário de benefício das aposentadorias concedidas entre 13/11/2019 (EC nº 103/2019) e 05/05/2022 (Lei nº 14.331/2022), ainda que ausente previsão expressa, ou se o cálculo pode se basear apenas na contribuição mais alta.",
-      "repercussao": "Não há (questão infraconstitucional)",
-      "situacao": "Em julgamento",
+      "repercussao": "Há",
+      "situacao": "Analisada Preliminar de Repercussão Geral",
       "dataJulgamento": "",
       "tese": "",
       "dataTese": "",
@@ -27477,7 +27487,7 @@
       "titulo": "Direito à compensação de créditos tributários anteriores à impetração do mandado de segurança e não atingidos pela prescrição.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 2º; 5º; LXIX; LXX; e 100, da Constituição Federal, a possibilidade de decisão judicial em mandado de segurança reconhecer o direito de o sujeito passivo realizar a compensação dos eventuais valores tributários indevidamente recolhidos antes da impetração do mandamus não atingidos pela prescrição.",
       "repercussao": "Não há (questão infraconstitucional)",
-      "situacao": "Em julgamento",
+      "situacao": "Analisada Preliminar de Repercussão Geral",
       "dataJulgamento": "",
       "tese": "",
       "dataTese": "",
@@ -27486,6 +27496,24 @@
         "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1500",
         "manifestacao": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=12689886",
         "detalhamento": "https://portal.stf.jus.br/jurisprudenciaRepercussao/detalharProcesso.asp?numeroTema=1500"
+      }
+    },
+    "1501": {
+      "numero": 1501,
+      "leadingCase": "ARE 1630478",
+      "relator": "MINISTRO PRESIDENTE",
+      "titulo": "Cálculo do adicional de insalubridade de empregados públicos de empresa pública federal sobre o salário-base previsto em contrato de trabalho.",
+      "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 2º; 37; e 103-A, da Constituição Federal, se o cálculo do adicional de insalubridade sobre o salário-base previsto em contrato de trabalho de empregada da Empresa Brasileira de Serviços Hospitalares (EBSERH), e não sobre o salário mínimo, viola a Súmula Vinculante nº 4 do Supremo Tribunal Federal.",
+      "repercussao": "Não há (questão infraconstitucional)",
+      "situacao": "Em julgamento",
+      "dataJulgamento": "",
+      "tese": "",
+      "dataTese": "",
+      "observacao": "",
+      "links": {
+        "paginaTema": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema=1501",
+        "manifestacao": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=12755220",
+        "detalhamento": "https://portal.stf.jus.br/jurisprudenciaRepercussao/detalharProcesso.asp?numeroTema=1501"
       }
     }
   }

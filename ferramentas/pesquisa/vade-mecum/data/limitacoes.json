@@ -116,7 +116,7 @@
       "familias": [
         "espelhos_stj"
       ],
-      "resumo": "A conferência completa de 18/10/2026 não alcançou os espelhos de acórdãos do STJ: o portal de dados abertos respondeu lentamente e a coleta, sem retomada, caiu numa falha de rede. O acervo publicado é o recoletado em 14/09/2026 (sinal semanal \"sem mudança\" em 12/10/2026). Para acórdão posterior a setembro de 2026, confira o SCON do STJ."
+      "resumo": "A coleta não tem retomada: se a rede cai no meio de uma conferência completa, a família interrompida fica de fora até a próxima. Em 18/10/2026 isso deixou os espelhos de acórdãos do STJ sem conferência; foram recoletados em 12/11 e em 23/11/2026. Para acórdão mais recente que a data de \"conferido em\" dos espelhos, confira o SCON do STJ."
     },
     {
       "id": "BASE-052",
@@ -125,6 +125,22 @@
         "legislacao"
       ],
       "resumo": "Em consulta estreita, a busca completa a janela de resultados em vez de devolver menos: o artigo que responde vem em primeiro lugar, e os lugares seguintes podem trazer artigos sem relação com a pergunta. Confira a pertinência de cada artigo devolvido, do segundo em diante, antes de citar."
+    },
+    {
+      "id": "BASE-054",
+      "afetaCobertura": true,
+      "familias": [
+        "temas_repetitivos_stj"
+      ],
+      "resumo": "O Tema 1270 do STJ (remição da pena por aprovação parcial no Enem) veio na exportação oficial de 23/11/2026 sem o tipo de precedente preenchido. A base mantém o registro publicado antes, com a tese firmada; confira situação e tese no portal do STJ antes de citar."
+    },
+    {
+      "id": "BASE-055",
+      "afetaCobertura": true,
+      "familias": [
+        "informativo_stf"
+      ],
+      "resumo": "Na busca do Informativo STF, julgado em que o tributo pesquisado entra na base de outro (ex.: PIS/COFINS na base da CPRB) pode vir à frente do julgado sobre a base do próprio tributo pesquisado. Leia o título de cada julgado devolvido e, se faltar o caso que você procura, refine a consulta (ex.: \"ICMS na base de cálculo do PIS\")."
     }
   ]
 }

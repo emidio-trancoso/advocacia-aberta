@@ -1,7 +1,7 @@
 {
   "_meta": {
     "version": "2.0",
-    "generatedAt": "2026-11-12T19:51:16+00:00",
+    "generatedAt": "2026-11-23T21:42:47+00:00",
     "totalTemas": 1474,
     "source": {
       "provenanceStatus": "reproducible_pipeline",
@@ -22,17 +22,16 @@
         }
       },
       "method": "Junção determinística de Temas.csv e Processos.csv por sequencialPrecedente; seleção preferencial do leading case.",
-      "metadata_sha256": "2591c95dea2770cac69dca0ec662cb97b1004529d128cffd063937483f3ac33d",
-      "collectedAt": "2026-11-12T19:51:16+00:00"
+      "metadata_sha256": "5f84c43d13b8b3f51264f2cf44d7b3c745a2f512a99bfe30cea9e54a998c2336",
+      "collectedAt": "2026-11-23T21:42:47+00:00"
     },
     "transformacao": "temas_stj_csv_v1",
     "retidosPorInconsistenciaDaFonte": {
       "temas": [
-        "1154",
-        "1241"
+        "1270"
       ],
-      "data": "2026-11-12",
-      "motivo": "O CSV de Temas do STJ passou a trazer situação \"Mérito Julgado\" e a tese substituída por \"*Aguardando a publicação do acórdão\", embora o mesmo registro informe publicação do acórdão em 2026-09-08. Mantidos situação e tese publicadas anteriormente até a fonte se corrigir; conferir no portal do STJ."
+      "data": "2026-11-23",
+      "motivo": "O CSV de Temas do STJ recoletado em 2026-11-23 traz o Tema 1270 (acórdão publicado em 2026-10-23) com a coluna tipoPrecedente vazia, e o pipeline só aceita linhas do tipo \"Tema\"; o registro sairia da base embora siga vigente na fonte. Mantido o registro publicado anteriormente até a fonte preencher o tipo; conferir no portal do STJ (BASE-054)."
     }
   },
   "temas": {
@@ -26589,13 +26588,13 @@
     },
     "929": {
       "numero": 929,
-      "situacao": "Mérito Julgado",
+      "situacao": "Acórdão Publicado",
       "ramo": "Empréstimo consignado",
       "assuntos": [
         "Empréstimo consignado"
       ],
       "questao": "Discussão quanto às hipóteses de aplicação da repetição em dobro prevista no art. 42, parágrafo único, do CDC.",
-      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
+      "teseFirmada": "(i) A restituição em dobro do indébito (art.42, parágrafo único, do CDC) independe da natureza do elemento volitivo do fornecedor que realizou a cobrança indevida, sendo cabível quando a referida cobrança consubstanciar conduta contrária à boa-fé objetiva.(i. a) A demonstração da omissão ou da recusa do fornecedor- como, por exemplo, em resposta a pedido informal e prévio do consumidor apontando a irregularidade da cobrança - será indício suficiente para embasar a pretensão de repetição em dobro.(i. b) Caberá ao fornecedor, na contestação ou na fase instrutória do processo, demonstrar que não atuou em contrariedade à boa-fé objetiva, isto é, que não agiu deforma desleal ou descuidada.(i. c) Se houver divergência jurisprudencial em relação ao objeto da cobrança indevida ou a cláusula contratual em que se baseie for posteriormente declarada nula, configurar-se-á hipótese de engano justificável, excludente apta a afastar a incidência da sanção civil de repetição em dobro do indébito.",
       "orgaoJulgador": "Corte Especial",
       "processo": "REsp 1963770/CE",
       "relator": "PAULO DE TARSO SANSEVERINO",
@@ -27907,10 +27906,10 @@
       "ramo": "DIREITO PROCESSUAL CIVIL E DO TRABALHO",
       "assuntos": [
         "DIREITO PROCESSUAL CIVIL E DO TRABALHO",
-        "Partes e Procuradores",
         "Honorários Advocatícios",
-        "Honorários Advocatícios em Execução Contra a Fazenda Pública",
-        "Sucumbência"
+        "Partes e Procuradores",
+        "Sucumbência",
+        "Honorários Advocatícios em Execução Contra a Fazenda Pública"
       ],
       "questao": "Análise acerca da aplicabilidade da Súmula 345 do STJ diante da superveniência do art. 85, § 7º, do CPC/2015.",
       "teseFirmada": "O art. 85, § 7º, do CPC/2015 não afasta a aplicação do entendimento consolidado na Súmula 345 do STJ, de modo que são devidos honorários advocatícios nos procedimentos individuais de cumprimento de sentença decorrente de ação coletiva, ainda que não impugnados e promovidos em litisconsórcio.",
@@ -28053,7 +28052,7 @@
     },
     "978": {
       "numero": 978,
-      "situacao": "Afetado",
+      "situacao": "Em Julgamento",
       "ramo": "DIREITO CIVIL",
       "assuntos": [
         "DIREITO CIVIL",
@@ -30518,8 +30517,8 @@
       "assuntos": [
         "Contratos de Consumo",
         "Bancários",
-        "DIREITO DO CONSUMIDOR",
-        "Empréstimo consignado"
+        "Empréstimo consignado",
+        "DIREITO DO CONSUMIDOR"
       ],
       "questao": "Se nas hipóteses em que o consumidor/autor impugnar a autenticidade da assinatura constante do contrato juntado ao processo, cabe à instituição financeira/ré o ônus de provar essa autenticidade (CPC, art. 429, II), por intermédio de perícia grafotécnica ou mediante os meios de prova legais ou moralmente legítimos (CPC, art. 369).",
       "teseFirmada": "Na hipótese em que o consumidor/autor impugnar a autenticidade da assinatura constante em contrato bancário juntado ao processo pela instituição financeira, caberá a esta o ônus de provar a autenticidade (CPC, arts. 6º, 369 e 429, II).",
@@ -30722,8 +30721,8 @@
       "ramo": "Contratos de Consumo",
       "assuntos": [
         "Contratos de Consumo",
-        "Seguro",
-        "DIREITO DO CONSUMIDOR"
+        "DIREITO DO CONSUMIDOR",
+        "Seguro"
       ],
       "questao": "Definir a legalidade da cláusula que prevê a cobertura adicional de invalidez funcional permanente total por doença (IFPD) em contrato de seguro de vida em grupo, condicionando o pagamento da indenização securitária à perda da existência independente do segurado.",
       "teseFirmada": "Não é ilegal ou abusiva a cláusula que prevê a cobertura adicional de invalidez funcional permanente total por doença (IFPD) em contrato de seguro de vida em grupo, condicionando o pagamento da indenização securitária à perda da existência independente do segurado, comprovada por declaração médica.",
@@ -32187,7 +32186,7 @@
     },
     "1119": {
       "numero": 1119,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Trânsito em Julgado",
       "ramo": "DIREITO DO CONSUMIDOR",
       "assuntos": [
         "DIREITO DO CONSUMIDOR",
@@ -33165,7 +33164,7 @@
     },
     "1153": {
       "numero": 1153,
-      "situacao": "Acórdão Publicado - RE Pendente",
+      "situacao": "Trânsito em Julgado",
       "ramo": "Títulos de Crédito",
       "assuntos": [
         "Títulos de Crédito",
@@ -33201,7 +33200,7 @@
         "Crimes de Tráfico Ilícito e Uso Indevido de Drogas"
       ],
       "questao": "Isoladamente consideradas, a natureza e a quantidade do entorpecente apreendido, por si sós, não são suficientes para embasar conclusão acerca da presença das referidas condições obstativas e, assim, afastar o reconhecimento da minorante do tráfico privilegiado.",
-      "teseFirmada": "A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante, configura fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. Fora dessa hipótese, a natureza e a quantidade das drogas podem afastar a minorante quando associadas a outros elementos do caso concreto - como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento -, dos quais se possa inferir, mediante fundamentação concreta, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa",
+      "teseFirmada": "1. A natureza e a quantidade de drogas devem ser valoradas sempre de forma conjunta. Não é possível, portanto, realizar a aplicação separada como se fossem elementos autônomos; 2. A natureza e a quantidade de drogas devem ser valoradas preferencialmente na terceira fase da dosimetria da pena, para modular a fração de diminuição, salvo quando não incidir na hipótese a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, caso em que essa circunstância poderá ser aplicada na primeira etapa da dosimetria para aumentar a pena-base; 3. Caso a instância anterior tenha afastado a incidência da minorante e valorado a natureza e a quantidade de drogas na primeira fase da dosimetria, mas o tribunal, em recurso da defesa, decida aplicar o redutor, deverá, se possível, deslocar a aplicação dessa circunstância para a terceira fase, a fim de modular a fração de diminuição, o que não configura reformatio in pejus. 4. Não configura bis in idem considerar a quantidade e a natureza de drogas como circunstância judicial negativa para aumentar a pena-base e, ao mesmo tempo, como elemento fático indicador de dedicação a atividades criminosas ou de integração a organização criminosa para afastar a aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006. Somente haverá bis in idem se essa circunstância for usada, simultaneamente, para aumentar a pena-base e para modular a fração de redução da pena na terceira fase. 5. A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante, configura fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. Fora dessa hipótese, a natureza e a quantidade das drogas podem afastar a minorante quando associadas a outros elementos do caso concreto — como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento —, dos quais se possa inferir, mediante fundamentação concreta, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa.",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 1963433/SP",
       "relator": "JOÃO OTÁVIO DE NORONHA",
@@ -33303,7 +33302,7 @@
     },
     "1158": {
       "numero": 1158,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Trânsito em Julgado",
       "ramo": "IPTU/ Imposto Predial e Territorial Urbano",
       "assuntos": [
         "IPTU/ Imposto Predial e Territorial Urbano"
@@ -33918,19 +33917,19 @@
     },
     "1180": {
       "numero": 1180,
-      "situacao": "Em Julgamento",
+      "situacao": "Mérito Julgado",
       "ramo": "DIREITO PROCESSUAL CIVIL E DO TRABALHO",
       "assuntos": [
         "DIREITO PROCESSUAL CIVIL E DO TRABALHO",
         "Prazo"
       ],
       "questao": "Definir o marco inicial do prazo recursal nos casos de intimação eletrônica e de publicação no Diário da Justiça eletrônico.",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
       "orgaoJulgador": "Corte Especial",
       "processo": "REsp 1995908/DF",
       "relator": "JOÃO OTÁVIO DE NORONHA",
       "dataAfetacao": "24/02/2023",
-      "dataJulgamento": "",
+      "dataJulgamento": "04/11/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1180&cod_tema_final=1180",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%221995908%22&O=JT",
@@ -35047,7 +35046,7 @@
     },
     "1220": {
       "numero": 1220,
-      "situacao": "Afetado",
+      "situacao": "Cancelado",
       "ramo": "Auxílio-Doença Acidentário",
       "assuntos": [
         "Auxílio-Doença Acidentário"
@@ -35057,7 +35056,7 @@
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 1826796/SC",
       "relator": "ASSUSETE MAGALHÃES",
-      "dataAfetacao": "08/11/2023",
+      "dataAfetacao": "",
       "dataJulgamento": "",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1220&cod_tema_final=1220",
@@ -35646,7 +35645,7 @@
         "Crimes do Sistema Nacional de Armas"
       ],
       "questao": "Possibilidade de utilização da quantidade e variedade das drogas apreendidas para definir a fração da minorante do tráfico privilegiado, prevista no artigo 33, § 4º, da Lei 11.343/2006.",
-      "teseFirmada": "A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante, configura fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. Fora dessa hipótese, a natureza e a quantidade das drogas podem afastar a minorante quando associadas a outros elementos do caso concreto - como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento -, dos quais se possa inferir, mediante fundamentação concreta, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa.",
+      "teseFirmada": "1. A natureza e a quantidade de drogas devem ser valoradas sempre de forma conjunta. Não é possível, portanto, realizar a aplicação separada como se fossem elementos autônomos; 2. A natureza e a quantidade de drogas devem ser valoradas preferencialmente na terceira fase da dosimetria da pena, para modular a fração de diminuição, salvo quando não incidir na hipótese a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, caso em que essa circunstância poderá ser aplicada na primeira etapa da dosimetria para aumentar a pena-base; 3. Caso a instância anterior tenha afastado a incidência da minorante e valorado a natureza e a quantidade de drogas na primeira fase da dosimetria, mas o tribunal, em recurso da defesa, decida aplicar o redutor, deverá, se possível, deslocar a aplicação dessa circunstância para a terceira fase, a fim de modular a fração de diminuição, o que não configura reformatio in pejus. 4. Não configura bis in idem considerar a quantidade e a natureza de drogas como circunstância judicial negativa para aumentar a pena-base e, ao mesmo tempo, como elemento fático indicador de dedicação a atividades criminosas ou de integração a organização criminosa para afastar a aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006. Somente haverá bis in idem se essa circunstância for usada, simultaneamente, para aumentar a pena-base e para modular a fração de redução da pena na terceira fase. 5. A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante, configura fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. Fora dessa hipótese, a natureza e a quantidade das drogas podem afastar a minorante quando associadas a outros elementos do caso concreto — como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento —, dos quais se possa inferir, mediante fundamentação concreta, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa.",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 2059576/MG",
       "relator": "RIBEIRO DANTAS",
@@ -35694,7 +35693,7 @@
     },
     "1243": {
       "numero": 1243,
-      "situacao": "Afetado",
+      "situacao": "Mérito Julgado",
       "ramo": "Despesas Condominiais",
       "assuntos": [
         "Despesas Condominiais",
@@ -35702,12 +35701,12 @@
         "Crédito Tributário"
       ],
       "questao": "Necessidade (ou não) de prévio ajuizamento de execução fiscal ou de concretização da penhora para exercício do direito de preferência no que concerne ao crédito tributário, em execução (lato sensu) movida por terceiro, a fim de que, em razão da pluralidade de credores, o dinheiro lhes seja distribuído e entregue consoante a ordem das respectivas preferências.",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
       "orgaoJulgador": "Corte Especial",
       "processo": "REsp 2081493/SP",
       "relator": "MAURO CAMPBELL MARQUES",
       "dataAfetacao": "09/04/2024",
-      "dataJulgamento": "",
+      "dataJulgamento": "27/10/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1243&cod_tema_final=1243",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222081493%22&O=JT",
@@ -35723,7 +35722,7 @@
     },
     "1244": {
       "numero": 1244,
-      "situacao": "Afetado",
+      "situacao": "Em Julgamento",
       "ramo": "Cofins",
       "assuntos": [
         "Cofins"
@@ -36256,7 +36255,7 @@
     },
     "1263": {
       "numero": 1263,
-      "situacao": "Afetado",
+      "situacao": "Em Julgamento",
       "ramo": "ICMS/ Imposto sobre Circulação de Mercadorias",
       "assuntos": [
         "ICMS/ Imposto sobre Circulação de Mercadorias",
@@ -36869,7 +36868,7 @@
     },
     "1285": {
       "numero": 1285,
-      "situacao": "Mérito Julgado",
+      "situacao": "Acórdão Publicado",
       "ramo": "ISS/ Imposto sobre Serviços",
       "assuntos": [
         "ISS/ Imposto sobre Serviços",
@@ -36878,7 +36877,7 @@
         "Penhora / Depósito/ Avaliação"
       ],
       "questao": "Definir se é ou não impenhorável a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel-moeda; em conta corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos.",
-      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
+      "teseFirmada": "I - É impenhorável a quantia de até 40 (quarenta) salários-mínimos:a) depositada em caderneta de poupança, ainda que esta seja usada para depósitos e pagamentos, como se fosse uma conta corrente;b) mantida em papel-moeda, depositada em conta corrente, aplicada em fundo de investimento ou em outro investimento financeiro que possua características de reserva contínua e duradoura destinada a conferir proteção individual ou familiar em caso de emergência ou imprevisto grave.II - A impenhorabilidade não se aplica aa) investimentos em aplicações especulativas e de alto risco eb) sobras que remanesçam de meses anteriores em conta corrente tradicional ou remunerada, ainda que inicialmente o recurso seja impenhorável, na forma do art. 833, IV, do CPC.",
       "orgaoJulgador": "Corte Especial",
       "processo": "REsp 2015693/PR",
       "relator": "MARIA THEREZA DE ASSIS MOURA",
@@ -37042,7 +37041,7 @@
         "Aposentadoria Especial (Art. 57/8)"
       ],
       "questao": "Definir se há possibilidade de reconhecimento, como especial, da atividade exercida pelo contribuinte individual não cooperado após 29/04/1995, à luz do disposto no art. 22, II, da Lei n. 8.212/1991 e nos arts. 11, V, \"h\", 14, I, parágrafo único, 57, caput, §§ 3º, 4º, 5º, 6º e 7º, e 58, caput, §§ 1º e 2º, da Lei n. 8.213/1991.",
-      "teseFirmada": "a) O contribuinte individual não cooperado tem direito ao reconhecimento de tempo de atividade especial exercido após a Lei n. 9.032/95, desde que comprove a exposição a agentes nocivos. b) A exigência de comprovação da atividade especial por formulário emitido por empresa não se aplica a contribuintes individuais.",
+      "teseFirmada": "a) O contribuinte individual não cooperado tem direito ao reconhecimento de tempo de atividade especial exercido após a Lei n. 9.032/95, desde que comprove a exposição a agentes nocivos.b) A exigência de comprovação da atividade especial por formulário emitido por empresa não se aplica a contribuintes individuais.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2163429/RS",
       "relator": "GURGEL DE FARIA",
@@ -37430,17 +37429,17 @@
     },
     "1305": {
       "numero": 1305,
-      "situacao": "Afetado",
+      "situacao": "Cancelado",
       "ramo": "Reajuste da tabela do SUS",
       "assuntos": [
         "Reajuste da tabela do SUS"
       ],
-      "questao": "Definir: a) se a União deve figurar no polo passivo de demanda em que se pretende a revisão da Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde - SUS; b) a (in)existência de litisconsórcio passivo necessário entre os entes federativos para integrarem a lide; e c) se é possível equiparar os valores da Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde - SUS aos estabelecidos pela Agência da Nacional de Saúde - ANS (TUNEP/IVR), com o objetivo de preservar o equilíbrio econômico-financeiro de contrato ou convênio firmado com hospitais privados, para prestação de serviços de saúde em caráter complementar.",
+      "questao": "Definir:a) se a União deve figurar no polo passivo de demanda em que se pretende a revisão da Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde - SUS;b) a (in)existência de litisconsórcio passivo necessário entre os entes federativos para integrarem a lide; ec) se é possível equiparar os valores da Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde - SUS aos estabelecidos pela Agência da Nacional de Saúde - ANS (TUNEP/IVR), com o objetivo de preservar o equilíbrio econômico-financeiro de contrato ou convênio firmado com hospitais privados, para prestação de serviços de saúde em caráter complementar.",
       "teseFirmada": "",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2176896/DF",
       "relator": "REGINA HELENA COSTA",
-      "dataAfetacao": "08/01/2025",
+      "dataAfetacao": "",
       "dataJulgamento": "",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1305&cod_tema_final=1305",
@@ -37628,7 +37627,7 @@
     },
     "1312": {
       "numero": 1312,
-      "situacao": "Acórdão Publicado - RE Pendente",
+      "situacao": "Trânsito em Julgado",
       "ramo": "IRPJ/Imposto de Renda de Pessoa Jurídica",
       "assuntos": [
         "IRPJ/Imposto de Renda de Pessoa Jurídica",
@@ -37911,13 +37910,13 @@
     },
     "1322": {
       "numero": 1322,
-      "situacao": "Afetado",
+      "situacao": "Mérito Julgado",
       "ramo": "Tratamento da Própria Saúde",
       "assuntos": [
         "Tratamento da Própria Saúde"
       ],
       "questao": "Definir se é legal a remoção de professores integrantes da carreira do magistério superior federal entre instituições federais de ensino.",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2178234/DF",
       "relator": "TEODORO SILVA SANTOS",
@@ -38106,7 +38105,7 @@
     },
     "1329": {
       "numero": 1329,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Acórdão Publicado - RE Pendente",
       "ramo": "Ambiental",
       "assuntos": [
         "Ambiental"
@@ -38248,7 +38247,7 @@
     },
     "1334": {
       "numero": 1334,
-      "situacao": "Afetado",
+      "situacao": "Mérito Julgado",
       "ramo": "Contribuição sobre a folha de salários",
       "assuntos": [
         "Contribuição sobre a folha de salários",
@@ -38259,7 +38258,7 @@
         "FGTS/Fundo de Garantia Por Tempo de Serviço"
       ],
       "questao": "Definir se o vale-transporte pago em pecúnia integra a base de cálculo da contribuição para o FGTS.",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2126604/SP",
       "relator": "MARCO AURÉLIO BELLIZZE",
@@ -38766,7 +38765,7 @@
     },
     "1352": {
       "numero": 1352,
-      "situacao": "Afetado",
+      "situacao": "Acórdão Publicado",
       "ramo": "Pensão por Morte (Art. 74/9)",
       "assuntos": [
         "Pensão por Morte (Art. 74/9)",
@@ -38774,12 +38773,12 @@
         "Concessão"
       ],
       "questao": "Definir se o direito à prorrogação do período de graça, decorrente da presença de mais de 120 (cento e vinte) contribuições, sem a perda da qualidade de segurado, deve ou não ser incorporado ao patrimônio jurídico do beneficiário para utilização por mais de uma vez, independente de novo período contributivo.",
-      "teseFirmada": "",
+      "teseFirmada": "A prorrogação do período de graça pelo prazo de 24 (vinte e quatro) meses, prevista no artigo 15, \"caput\", II e § 1º da Lei 8.213/1991, se incorpora ao patrimônio jurídico previdenciário do segurado do RGPS uma vez efetuado o pagamento de mais de 120 (cento e vinte) contribuições mensais sem interrupção que acarrete a perda da qualidade de segurado, admitindo-se sua utilização de forma permanente, sem limitação de reingressos no RGPS e independentemente de novo período contributivo.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2189004/SP",
       "relator": "PAULO SÉRGIO DOMINGUES",
       "dataAfetacao": "09/06/2025",
-      "dataJulgamento": "",
+      "dataJulgamento": "11/11/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1352&cod_tema_final=1352",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222189004%22&O=JT",
@@ -38965,7 +38964,7 @@
     },
     "1359": {
       "numero": 1359,
-      "situacao": "Afetado",
+      "situacao": "Em Julgamento",
       "ramo": "Ressarcimento do SUS",
       "assuntos": [
         "Ressarcimento do SUS"
@@ -39360,7 +39359,7 @@
     },
     "1373": {
       "numero": 1373,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Acórdão Publicado - RE Pendente",
       "ramo": "Creditamento",
       "assuntos": [
         "Creditamento",
@@ -39530,7 +39529,7 @@
     },
     "1379": {
       "numero": 1379,
-      "situacao": "Mérito Julgado",
+      "situacao": "Acórdão Publicado",
       "ramo": "Contribuições Previdenciárias",
       "assuntos": [
         "Contribuições Previdenciárias",
@@ -39545,7 +39544,7 @@
         "IRPF/Imposto de Renda de Pessoa Física"
       ],
       "questao": "Deliberar acerca da incidência, ou não, de contribuição previdenciária e de terceiros no momento em que se exerce a opção de compra de ações no âmbito do plano denominado stock option.",
-      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
+      "teseFirmada": "No regime do Stock Option Plan previsto no art. 168, § 3º, da Lei n.6.404/1976, por se tratar de operação de natureza mercantil, conforme definido no Tema 1.226/STJ, não incidem contribuição previdenciária patronal e contribuições destinadas a terceiros no momento do exercício da opção de compra de ações, por não configurar remuneração destinada a retribuir o trabalho.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2199631/SP",
       "relator": "SÉRGIO KUKINA",
@@ -39735,13 +39734,13 @@
     },
     "1386": {
       "numero": 1386,
-      "situacao": "Mérito Julgado",
+      "situacao": "Acórdão Publicado",
       "ramo": "Concessão",
       "assuntos": [
         "Concessão"
       ],
       "questao": "Definir se, nas hipóteses de indeferimento administrativo do pedido de pensão por morte de servidor público, o prazo prescricional do Decreto n. 20.910/1932 atinge apenas as prestações vencidas ou alcança o próprio direito à pensão (fundo do direito), impedindo definitivamente o reconhecimento judicial do benefício após cinco anos contados do ato denegatório.",
-      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
+      "teseFirmada": "O direito à pensão por morte de servidor público não se submete à prescrição do fundo de direito, ainda que haja prévio indeferimento administrativo, incidindo apenas a prescrição quinquenal sobre as prestações vencidas no período de cinco anos anterior ao ajuizamento da ação.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2227232/RS",
       "relator": "GURGEL DE FARIA",
@@ -39926,7 +39925,7 @@
     },
     "1393": {
       "numero": 1393,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Trânsito em Julgado",
       "ramo": "Dívida Ativa (Execução Fiscal)",
       "assuntos": [
         "Dívida Ativa (Execução Fiscal)"
@@ -40116,7 +40115,7 @@
     },
     "1400": {
       "numero": 1400,
-      "situacao": "Afetado",
+      "situacao": "Acórdão Publicado",
       "ramo": "Indenização por Dano Moral",
       "assuntos": [
         "Indenização por Dano Moral",
@@ -40124,12 +40123,12 @@
         "Indenização por Dano Moral"
       ],
       "questao": "Definir se é possível, ou não, a admissibilidade de recurso especial que veicula discussão a respeito da existência de nexo de causalidade e do consequente dever de indenização por dano moral, bem como de sua quantificação pecuniária, em contexto de ação ambiental fundada em alegado mau cheiro proveniente de estação de tratamento de esgoto.",
-      "teseFirmada": "",
+      "teseFirmada": "I. É inadmissível recurso especial que pretende, em contexto de ação indenizatória fundada em alegado mau cheiro proveniente de estação de tratamento de esgoto, reanalisar o acervo probatório já sindicado no âmbito das instâncias ordinárias, com o propósito de afastar a existência de nexo de causalidade e o consequente dever de indenização;II. A revisão do valor fixado a título de indenização por danos morais, no âmbito dessas mesmas ações, somente é permitida em circunstâncias excepcionais, a saber, quando manifesta a irrisoriedade ou exorbitância do montante arbitrado, não se prestando, a tal propósito, a simples alegação de desproporcionalidade pautada na comparação com condenações estabelecidas em demandas distintas.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2230606/PR",
       "relator": "SÉRGIO KUKINA",
       "dataAfetacao": "19/12/2025",
-      "dataJulgamento": "",
+      "dataJulgamento": "11/11/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1400&cod_tema_final=1400",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222230606%22&O=JT",
@@ -40145,7 +40144,7 @@
     },
     "1401": {
       "numero": 1401,
-      "situacao": "Acórdão Publicado - RE Pendente",
+      "situacao": "Trânsito em Julgado",
       "ramo": "Fundo de Participação dos Municípios",
       "assuntos": [
         "Fundo de Participação dos Municípios"
@@ -40228,7 +40227,7 @@
     },
     "1404": {
       "numero": 1404,
-      "situacao": "Afetado",
+      "situacao": "Em Julgamento",
       "ramo": "Prestação de Serviços",
       "assuntos": [
         "Prestação de Serviços",
@@ -40284,7 +40283,7 @@
     },
     "1406": {
       "numero": 1406,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Trânsito em Julgado",
       "ramo": "Cédula de Crédito Rural",
       "assuntos": [
         "Cédula de Crédito Rural"
@@ -40404,7 +40403,7 @@
     },
     "1412": {
       "numero": 1412,
-      "situacao": "Afetado",
+      "situacao": "Mérito Julgado",
       "ramo": "Bancários",
       "assuntos": [
         "Bancários",
@@ -40413,7 +40412,7 @@
         "Empréstimo consignado"
       ],
       "questao": "Definir se as bonificações/descontos compõem a base de cálculo do PIS/COFINS, nos termos do art. 1º, § 3º, V, a, das Leis 10.637/2002 e 10.833/2003.",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2221794/RS",
       "relator": "AFRÂNIO VILELA",
@@ -40704,13 +40703,13 @@
     },
     "1426": {
       "numero": 1426,
-      "situacao": "Afetado",
+      "situacao": "Mérito Julgado",
       "ramo": "Auxílio-Doença Acidentário",
       "assuntos": [
         "Auxílio-Doença Acidentário"
       ],
       "questao": "Definir se há possibilidade de complementação de valores no cumprimento de sentença contra a Fazenda Pública, relativos à correção monetária, a partir do entendimento firmado pelo Supremo Tribunal Federal nos Temas 810, 1.170 e 1.361.",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2258164/RS",
       "relator": "GURGEL DE FARIA",
@@ -40767,7 +40766,7 @@
     },
     "1429": {
       "numero": 1429,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Trânsito em Julgado",
       "ramo": "ICMS/ Imposto sobre Circulação de Mercadorias",
       "assuntos": [
         "ICMS/ Imposto sobre Circulação de Mercadorias"
@@ -40808,7 +40807,7 @@
     },
     "1431": {
       "numero": 1431,
-      "situacao": "Em Julgamento",
+      "situacao": "Mérito Julgado",
       "ramo": "Tráfico de Drogas e Condutas Afins",
       "assuntos": [
         "Tráfico de Drogas e Condutas Afins",
@@ -40829,7 +40828,7 @@
     },
     "1432": {
       "numero": 1432,
-      "situacao": "Mérito Julgado",
+      "situacao": "Acórdão Publicado",
       "ramo": "Desapropriação por Interesse Social para Reforma Agrária",
       "assuntos": [
         "Desapropriação por Interesse Social para Reforma Agrária",
@@ -40837,7 +40836,7 @@
         "Penhora / Depósito/ Avaliação"
       ],
       "questao": "Definir o teor do conceito de contemporaneidade da avaliação para identificação do preço atual de mercado em ação expropriatória direta ou indireta, para fins de fixar o momento a ser considerado na apuração do montante indenizatório, tanto em termos de parâmetro geral, quanto das exceções cabíveis.",
-      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
+      "teseFirmada": "A. Nas desapropriações em geral, a contemporaneidade entre o preço e o valor indenizatório é definida pelo momento básico de sua aferição técnica, em regra correspondente ao preço de mercado do bem quando da realização da perícia judicial.B1. Nas desapropriações por utilidade pública ou interesse social, o momento básico não pode ser superior a 1 (um) ano desde a propositura da ação judicial.B2. Nas desapropriações para fins de reforma agrária, o momento básico não pode exceder 90 (noventa) dias desde a propositura da ação judicial.B3. Nas indenizações por desapropriação indireta, o momento básico corresponde à data do apossamento administrativo. A perícia deve reconstituir o preço de mercado do bem nessa data, sem prejuízo da correção monetária e dos juros compensatórios na forma da lei.C. Quando o expropriante der causa à demora na realização da primeira perícia, por fato a ele imputável e reconhecido em decisão fundamentada, o limite temporal das teses B1, B2 e B3 é acrescido apenas do período de atraso que lhe for atribuível. A demora imputável ao expropriado, ao serviço judiciário ou a terceiro não afasta nem dilata o limite.D. As perícias realizadas após o prazo estipulado devem reportar-se ao preço de mercado do momento básico limite, mediante técnicas disponíveis no campo científico.E. Em qualquer situação, as variações de preço decorrentes da própria ação estatal devem ser identificadas em separado pelo perito e descontadas do valor indenizatório fixado em juízo.F1. As teses incidem nos casos de desapropriação direta com perícias determinadas a partir da publicação deste acórdão, isto é, com peritos nomeados a partir desse momento.F2. Nas desapropriações indiretas, a tese incide imediatamente sobre os casos em que o ponto tenha sido objeto de insurgência das partes e ainda não tenha sido definitivamente decidido.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2004109/PE",
       "relator": "AFRÂNIO VILELA",
@@ -41590,19 +41589,19 @@
     },
     "1469": {
       "numero": 1469,
-      "situacao": "Afetado",
+      "situacao": "Mérito Julgado",
       "ramo": "Convênio",
       "assuntos": [
         "Convênio",
         "Nulidade de ato administrativo"
       ],
       "questao": "i) definir os conceitos de ações de educação, de saúde ou de assistência social para incidência da exceção contemplada no art. 25, § 3º, da Lei Complementar n. 101/2000 às exigências de regularidade fiscal e financeira relativamente ao recebimento de transferências voluntárias por entes federativos; eii) possibilidade de aplicar, ao repasse de recursos estaduais, a regra prevista no art. 26 da Lei n. 10.522/2002, a qual dispensa as exigências da Lei de Responsabilidade Fiscal no tocante a transferências voluntárias de recursos federais a serem alocados em ações sociais ou ações em faixa de fronteira.",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito.",
       "orgaoJulgador": "Primeira Seção",
       "processo": "REsp 2242339/BA",
       "relator": "REGINA HELENA COSTA",
       "dataAfetacao": "25/08/2026",
-      "dataJulgamento": "",
+      "dataJulgamento": "11/11/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1469&cod_tema_final=1469",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222242339%22&O=JT",

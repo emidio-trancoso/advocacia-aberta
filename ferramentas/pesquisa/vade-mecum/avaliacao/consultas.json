@@ -1509,12 +1509,14 @@
         "INF_1121_009",
         "INF_1037_012",
         "INF_1047_007",
-        "INF_1228_005"
+        "INF_1228_005",
+        "INF_1233_004",
+        "INF_1236_004"
       ],
       "obrigatorios": [
-        "INF_0857_009"
+        "INF_1121_009"
       ],
-      "justificativa": "Julgados do Informativo sobre a composição da base de cálculo do PIS/COFINS (ICMS, IPI, crédito de IPI, parcela não dedutível e, desde a edição 1228, de 02/09/2026, as receitas de aplicações financeiras das reservas técnicas de seguradoras — RE 1.479.774); a CPRB (contribuição sobre receita bruta, base distinta) foi excluída."
+      "justificativa": "Julgados do Informativo sobre a composição da base de cálculo do PIS/COFINS (ICMS, IPI, crédito de IPI, parcela não dedutível e, desde a edição 1228, de 02/09/2026, as receitas de aplicações financeiras das reservas técnicas de seguradoras — RE 1.479.774; desde a edição 1233, o crédito presumido de ICMS; desde a edição 1236, o ISS); a CPRB (contribuição sobre receita bruta, base distinta) foi excluída. Até 23/11/2026 o INF_0857_009 (ICMS na base, RE 574.706) era obrigatório; com os dois julgados novos o top_k passou a trazer quatro relevantes e o 0857 caiu para 6º, atrás do INF_1180_008 (CPRB), falso positivo registrado como BASE-055. A obrigatoriedade passou ao INF_1121_009 (crédito presumido de IPI fora da base) para não reprovar a consulta por concorrência legítima; quando o BASE-055 for resolvido, o 0857 volta a ser obrigatório."
     },
     {
       "id": "inf-execucao-provisoria-pena",

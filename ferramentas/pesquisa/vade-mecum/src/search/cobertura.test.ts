@@ -346,10 +346,10 @@ describe("cobertura declarada pelo motor", () => {
     expect(TOTAL_TESES_STJ).toBe(3526);
     expect(TOTAL_EDICOES_JT).toBe(284);
     expect(TOTAL_TEMAS_STJ).toBe(1474);
-    expect(TOTAL_TEMAS_RG_STF).toBe(1500);
-    expect(TOTAL_INFORMATIVOS_STF).toBe(11642);
-    expect(TOTAL_EDICOES_INFORMATIVO).toBe(1224);
-    expect(TOTAL_ESPELHOS_STJ).toBe(12731);
+    expect(TOTAL_TEMAS_RG_STF).toBe(1501);
+    expect(TOTAL_INFORMATIVOS_STF).toBe(11652);
+    expect(TOTAL_EDICOES_INFORMATIVO).toBe(1226);
+    expect(TOTAL_ESPELHOS_STJ).toBe(14076);
     expect(TOTAL_ORGAOS_ESPELHOS).toBe(4);
   });
 });

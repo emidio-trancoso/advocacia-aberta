@@ -111,8 +111,11 @@ https://mcp.advocaciaaberta.org/mcp
 
 - **No Claude (Pro ou Max):** Configurações → Conectores → *Adicionar conector personalizado* → cole
   o endereço → pergunte em português.
-- **No ChatGPT (plano pago, com Modo desenvolvedor):** Configurações → Conectores → Avançado → ative
-  o *Modo desenvolvedor* → Conectores → *Criar* → cole o endereço → ative na conversa em + → Mais.
+- **No ChatGPT (plano pago):** barra lateral → *Plugins* → no alto, *Adicionar* → *Adicionar servidor
+  MCP personalizado* → cole o endereço → em Autenticação, *Sem autenticação* → *Conectar Advocacia Aberta*.
+
+Em vídeo (3 min, com o passo a passo do ChatGPT a partir de 1:32):
+[Uma ferramenta para reduzir o risco de quem usa IA generativa no Direito](https://www.youtube.com/watch?v=boFnDG1CeSU).
 
 O endpoint é hospedado e mantido pela [Apolus.ai](https://apolus.ai), mantenedora da infraestrutura
 do projeto (ver [Quem mantém](#quem-mantém)). Conectar usa o recurso de conectores do próprio Claude

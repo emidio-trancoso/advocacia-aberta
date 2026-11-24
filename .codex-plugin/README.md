@@ -49,14 +49,16 @@ Scripts empacotados devem referenciar a raiz do plugin por variável de ambiente
 O servidor MCP (Vade Mecum) é um só, consumido pelos dois agentes a partir da URL pública
 `https://mcp.advocaciaaberta.org/mcp`:
 
-- **Claude** — não precisa de arquivo no plugin: adicione um **connector remoto** por URL em
-  claude.ai (Settings → Connectors), ou no Claude Code via `.mcp.json`/`claude mcp add`
-  apontando para a URL (transporte HTTP).
-- **Codex/OpenAI** — o binding do MCP remoto ao plugin (`.codex-plugin/.mcp.json` e/ou
-  `.app.json`, referenciados no manifesto por `mcpServers`/`apps`) deve ser **gerado pelo
-  `@plugin-creator`**: a doc pública só especifica MCP local (`command`/`args`), não o formato
-  do MCP remoto, então não fixamos esses arquivos à mão. Na submissão, o MCP remoto é
-  registrado como app com a URL + verificação de domínio em `/.well-known/openai-apps-challenge`.
+- **Claude** — em claude.ai, adicione um **connector remoto** por URL (Settings →
+  Connectors). No Claude Code, o plugin de `.claude-plugin/` já declara o servidor em
+  `mcpServers` (desde a v0.2.0): instalar o plugin conecta o acervo.
+- **Codex/OpenAI** — desde a v0.4.0 o manifesto declara o servidor remoto em `mcpServers`
+  (`"type": "http"`, `"url"`), no mesmo formato do Claude. O Codex aceita esse objeto no
+  manifesto (`codex-rs/core-plugins/src/manifest.rs`, `resolve_manifest_mcp_servers`) e o
+  transporte HTTP (`codex-rs/codex-mcp/src/plugin_config.rs`), conferido no código-fonte em
+  28/10/2026. **Falta testar** num Codex ou no Work Mode instalado. Na submissão pública, o MCP
+  remoto é registrado como app com a URL + verificação de domínio em
+  `/.well-known/openai-apps-challenge`.
 
 ## Teste privado (sem submeter nada) — app desktop / Codex
 

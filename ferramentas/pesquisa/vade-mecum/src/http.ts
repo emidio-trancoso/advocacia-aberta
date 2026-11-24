@@ -22,6 +22,9 @@ import { StreamableHTTPServerTransport } from "@modelcontextprotocol/sdk/server/
 import { isInitializeRequest } from "@modelcontextprotocol/sdk/types.js";
 import { buildServer } from "./server.js";
 import { identificarAtor } from "./identidade.js";
+import { contador, instalarDescarga } from "./telemetria.js";
+
+instalarDescarga();
 
 const PORT = Number(process.env.PORT ?? 8080);
 const MCP_PATH = process.env.MCP_PATH ?? "/mcp";
@@ -155,15 +158,7 @@ const httpServer = createServer(async (req, res) => {
   const ip = clientIp(req);
   const ator = identificarAtor(req, ip);
   if (excedeuLimite(ator.chave)) {
-    console.log(
-      JSON.stringify({
-        evento: "limite_excedido",
-        ts: new Date().toISOString(),
-        ator: ator.chave,
-        cliente: ator.cliente,
-        pessoa: ator.identificaPessoa,
-      }),
-    );
+    contador.registrarBloqueio({ ator: ator.chave, cliente: ator.cliente, identificaPessoa: ator.identificaPessoa });
     return responderJson(res, 429, erroRpc("Limite de requisições excedido. Tente novamente em instantes."));
   }
 

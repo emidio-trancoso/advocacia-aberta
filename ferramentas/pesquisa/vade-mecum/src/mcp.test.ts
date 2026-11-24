@@ -181,6 +181,10 @@ test("buscar_sumula com tribunal em minúsculas devolve o mesmo que em maiúscul
   expect(texto(4)).toContain("Tribunal indisponível");
   expect(respostas.find((r) => r.id === 4)?.result?.isError).toBe(true);
 
-  // A telemetria vai para stderr; o stdout do stdio é só protocolo.
-  expect(stderr).toContain("uso_ferramenta");
+  // A telemetria vai para stderr, somada por dia e gravada ao encerrar; o stdout do stdio
+  // é só protocolo.
+  const somas = stderr.split("\n").filter((l) => l.includes('"uso_diario"')).map((l) => JSON.parse(l));
+  expect(somas.length).toBeGreaterThan(0);
+  expect(somas.every((s) => !("ts" in s) && /^\d{4}-\d{2}-\d{2}$/.test(s.dia))).toBe(true);
+  expect(somas.reduce((n, s) => n + s.chamadas, 0)).toBe(3);
 });

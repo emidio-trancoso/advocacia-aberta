@@ -184,6 +184,13 @@ def extrair_json(linha: str) -> dict | None:
 def momento_do_registro(registro: dict) -> datetime | None:
     """Lê o instante do evento: epoch no log do Caddy, ISO 8601 na telemetria."""
     ts = registro.get("ts")
+    # A soma diária do MCP não tem hora (de propósito): vale o começo do dia em Brasília.
+    if ts is None and isinstance(registro.get("dia"), str):
+        try:
+            inicio = datetime.fromisoformat(registro["dia"]).replace(tzinfo=timezone(timedelta(hours=-3)))
+            return inicio.astimezone(timezone.utc)
+        except ValueError:
+            return None
     if isinstance(ts, (int, float)):
         return datetime.fromtimestamp(ts, tz=timezone.utc)
     if isinstance(ts, str):
@@ -208,7 +215,7 @@ def carregar(caminho: Path, corte: datetime | None) -> tuple[list[dict], list[di
             if registro is None:
                 continue
             eh_acesso = registro.get("msg") == "handled request"
-            eh_uso = registro.get("evento") == "uso_ferramenta"
+            eh_uso = registro.get("evento") in ("uso_ferramenta", "uso_diario")
             if not (eh_acesso or eh_uso):
                 continue
             momento = momento_do_registro(registro)
@@ -247,6 +254,13 @@ def formatar_bytes(total: float) -> str:
     return f"{total:.1f} GiB"
 
 
+def chamadas_do_registro(uso: dict) -> int:
+    """Quantas chamadas uma linha representa: 1 no formato antigo, a soma no diário."""
+    if uso.get("evento") == "uso_diario":
+        return int(uso.get("chamadas", 0) or 0)
+    return 1
+
+
 def relatorio_de_consumo(usos: list[dict]) -> None:
     """Quem consumiu quanto — a visão de administração do serviço.
 
@@ -264,10 +278,11 @@ def relatorio_de_consumo(usos: list[dict]) -> None:
             {"chamadas": 0, "bytes": 0, "ms": 0.0, "cliente": uso.get("cliente", "?"),
              "pessoa": bool(uso.get("pessoa")), "tools": Counter()},
         )
-        registro["chamadas"] += 1
+        n = chamadas_do_registro(uso)
+        registro["chamadas"] += n
         registro["bytes"] += uso.get("bytes", 0) or 0
         registro["ms"] += uso.get("ms", 0) or 0
-        registro["tools"][uso.get("tool", "?")] += 1
+        registro["tools"][uso.get("tool", "?")] += n
 
     if not atores:
         print("\n(Sem identificação de ator nos registros — telemetria anterior à v2.)")
@@ -325,16 +340,25 @@ def relatorio_de_ferramentas(usos: list[dict]) -> None:
 
     for uso in usos:
         ferramenta = uso.get("tool", "(desconhecida)")
-        chamadas[ferramenta] += 1
-        if uso.get("falhou"):
-            falhas[ferramenta] += 1
-        elif uso.get("achou") is False:
-            vazias[ferramenta] += 1
-        if isinstance(uso.get("ms"), (int, float)):
-            duracoes.append(float(uso["ms"]))
+        n = chamadas_do_registro(uso)
+        if not n:
+            continue  # linha só de bloqueios por limite de taxa
+        chamadas[ferramenta] += n
+        if uso.get("evento") == "uso_diario":
+            falhas[ferramenta] += uso.get("falhas", 0)
+            vazias[ferramenta] += uso.get("sem_resultado", 0)
+            # A soma diária só tem o tempo total: entra a média, uma vez por chamada.
+            duracoes.extend([uso.get("ms", 0) / n] * n)
+        else:
+            if uso.get("falhou"):
+                falhas[ferramenta] += 1
+            elif uso.get("achou") is False:
+                vazias[ferramenta] += 1
+            if isinstance(uso.get("ms"), (int, float)):
+                duracoes.append(float(uso["ms"]))
         for campo in ("tribunal", "codigo"):
             if uso.get(campo):
-                facetas[f"{campo}={uso[campo]}"] += 1
+                facetas[f"{campo}={uso[campo]}"] += n
 
     total = sum(chamadas.values())
     sem_resultado = sum(vazias.values())

@@ -1,6 +1,6 @@
 {
   "name": "advocacia-aberta",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Método jurídico aberto e executável por agentes de IA. No ChatGPT Web, organiza os documentos de um caso, diagnostica forças e fragilidades, pesquisa fontes jurídicas (legislação, súmulas, temas e teses) com link oficial e apoia a redação e a revisão de peças — a partir de anexos, sem inventar fatos ou citações. Direito brasileiro, PT-BR.",
   "author": {
     "name": "Emidio Trancoso",
@@ -24,6 +24,12 @@
     "open-source"
   ],
   "skills": "./skills/",
+  "mcpServers": {
+    "advocacia-aberta": {
+      "type": "http",
+      "url": "https://mcp.advocaciaaberta.org/mcp"
+    }
+  },
   "interface": {
     "displayName": "Advocacia Aberta",
     "shortDescription": "Organiza, pesquisa fontes, redige e revisa peças com fontes verificáveis",
